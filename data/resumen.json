@@ -1,78 +1,78 @@
 {
- "actualizado": 1793745322549,
+ "actualizado": 1793748340032,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793742319634,
-  "fin": 1793745322549,
-  "mensajes": 5861389,
-  "reconexiones": 4,
-  "eventos": 540,
+  "inicio": 1793745337211,
+  "fin": 1793748340032,
+  "mensajes": 5760510,
+  "reconexiones": 2,
+  "eventos": 549,
   "errores": []
  },
- "total": 568,
- "falsos": 88,
+ "total": 598,
+ "falsos": 106,
  "largos": {
-  "episodios": 152,
-  "eventos": 18,
+  "episodios": 161,
+  "eventos": 19,
   "dias": 7
  },
- "mediana": 1.044,
+ "mediana": 1.033,
  "captura": [
   {
    "s": 0.5,
-   "n": 391,
-   "gan": 1038.64,
-   "nNeta": 77,
-   "neta": 184.65
+   "n": 406,
+   "gan": 1057.47,
+   "nNeta": 81,
+   "neta": 186.88
   },
   {
    "s": 2,
-   "n": 208,
-   "gan": 423.56,
-   "nNeta": 24,
-   "neta": 21.44
+   "n": 215,
+   "gan": 431.99,
+   "nNeta": 26,
+   "neta": 22.51
   },
   {
    "s": 5,
-   "n": 160,
-   "gan": 191.05,
-   "nNeta": 11,
-   "neta": 6.85
+   "n": 163,
+   "gan": 195.69,
+   "nNeta": 13,
+   "neta": 7.92
   },
   {
    "s": 30,
-   "n": 41,
-   "gan": 44.97,
+   "n": 42,
+   "gan": 45.87,
    "nNeta": 2,
    "neta": 0.42
   }
  ],
- "rentables": 124,
+ "rentables": 131,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 79
+   "n": 86
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 190
+   "n": 203
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 139
+   "n": 146
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 119
+   "n": 121
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 34
+   "n": 35
   },
   {
    "et": "> 5 min",
@@ -124,6 +124,13 @@
    "mediana": 1.014
   },
   {
+   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
+   "n": 25,
+   "gan": 24.06,
+   "neta": 2.03,
+   "mediana": 0.59
+  },
+  {
    "titulo": "Club Atlético de Madrid vs. FC Bayern München",
    "n": 24,
    "gan": 44.37,
@@ -143,13 +150,6 @@
    "gan": 10.77,
    "neta": 0,
    "mediana": 58.901
-  },
-  {
-   "titulo": "Blackburn Rovers FC vs. Stoke City FC",
-   "n": 17,
-   "gan": 59.47,
-   "neta": 21.18,
-   "mediana": 0.81
   }
  ],
  "porHora": [
@@ -183,129 +183,133 @@
   },
   {
    "h": 1793743200000,
-   "n": 61
+   "n": 68
+  },
+  {
+   "h": 1793746800000,
+   "n": 23
   }
  ],
  "recientes": [
   {
-   "inicio": 1793745259393,
-   "titulo": "How many House seats will the Democrats win in North Carolina?",
-   "dur": 63.148,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793745251450,
-   "titulo": "Mushuc Runa SC vs. Manta FC",
-   "dur": 0.147,
-   "gan": 0.7,
-   "neta": 0.54,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793745195793,
-   "titulo": "How many House seats will the Democrats win in North Carolina?",
-   "dur": 15.602,
-   "gan": 1.28,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793745102979,
-   "titulo": "Mushuc Runa SC vs. Manta FC",
-   "dur": 1.306,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793745073627,
-   "titulo": "Mushuc Runa SC vs. Manta FC",
-   "dur": 5.524,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793745071280,
-   "titulo": "Mushuc Runa SC vs. Manta FC",
-   "dur": 0.313,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793745065636,
-   "titulo": "Mushuc Runa SC vs. Manta FC",
-   "dur": 1.765,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793745063356,
-   "titulo": "Mushuc Runa SC vs. Manta FC",
-   "dur": 2.168,
-   "gan": 0.87,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793745056779,
-   "titulo": "Mushuc Runa SC vs. Manta FC",
-   "dur": 5.659,
-   "gan": 0.77,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793745056025,
-   "titulo": "Mushuc Runa SC vs. Manta FC",
-   "dur": 0.698,
-   "gan": 3.87,
-   "neta": 1.53,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793745050660,
-   "titulo": "Mushuc Runa SC vs. Manta FC",
-   "dur": 5.285,
-   "gan": 1.35,
-   "neta": 0.08,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793745048919,
-   "titulo": "Mushuc Runa SC vs. Manta FC",
-   "dur": 1.634,
-   "gan": 5.46,
-   "neta": 1.67,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793745018800,
-   "titulo": "Mushuc Runa SC vs. Manta FC",
-   "dur": 0.394,
-   "gan": 1.23,
+   "inicio": 1793748202781,
+   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC - Halftime Result",
+   "dur": 0.016,
+   "gan": 0.57,
    "neta": 0.32,
    "lado": "si"
   },
   {
-   "inicio": 1793745018072,
-   "titulo": "Mushuc Runa SC vs. Manta FC",
-   "dur": 0.528,
-   "gan": 2.78,
-   "neta": 0.8,
+   "inicio": 1793748143322,
+   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
+   "dur": 0.752,
+   "gan": 0.64,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793745017727,
-   "titulo": "Mushuc Runa SC vs. Manta FC",
-   "dur": 0.107,
-   "gan": 3.22,
-   "neta": 0.9,
+   "inicio": 1793747938891,
+   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
+   "dur": 0.444,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793747936834,
+   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
+   "dur": 0.381,
+   "gan": 0.82,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793747919978,
+   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
+   "dur": 0.052,
+   "gan": 0.69,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793747918589,
+   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
+   "dur": 1.388,
+   "gan": 3.81,
+   "neta": 1.05,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793747914450,
+   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
+   "dur": 0.015,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793747914129,
+   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
+   "dur": 0.212,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793747861417,
+   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
+   "dur": 0.702,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793747861340,
+   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
+   "dur": 0.049,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793747861128,
+   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
+   "dur": 0.211,
+   "gan": 0.9,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793747848922,
+   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
+   "dur": 12.206,
+   "gan": 2.53,
+   "neta": 0.64,
    "lado": "si"
+  },
+  {
+   "inicio": 1793747828303,
+   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
+   "dur": 0.25,
+   "gan": 1.54,
+   "neta": 0.23,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793747560567,
+   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
+   "dur": 2.122,
+   "gan": 0.99,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793747265261,
+   "titulo": "Israel Election: Ra'am # of seats?",
+   "dur": 0.021,
+   "gan": 5.73,
+   "neta": 5.12,
+   "lado": "no"
   }
  ]
 }
