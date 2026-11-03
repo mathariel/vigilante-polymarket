@@ -1,78 +1,78 @@
 {
- "actualizado": 1793739263220,
+ "actualizado": 1793742297393,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793736261184,
-  "fin": 1793739263220,
-  "mensajes": 10707269,
+  "inicio": 1793739294112,
+  "fin": 1793742297393,
+  "mensajes": 9226622,
   "reconexiones": 0,
-  "eventos": 553,
+  "eventos": 548,
   "errores": []
  },
- "total": 198,
- "falsos": 55,
+ "total": 474,
+ "falsos": 79,
  "largos": {
-  "episodios": 116,
-  "eventos": 15,
+  "episodios": 142,
+  "eventos": 16,
   "dias": 7
  },
- "mediana": 0.991,
+ "mediana": 1.059,
  "captura": [
   {
    "s": 0.5,
-   "n": 133,
-   "gan": 432.79,
-   "nNeta": 22,
-   "neta": 41.3
+   "n": 332,
+   "gan": 797.78,
+   "nNeta": 53,
+   "neta": 93.87
   },
   {
    "s": 2,
-   "n": 56,
-   "gan": 230.64,
-   "nNeta": 7,
-   "neta": 3.51
+   "n": 181,
+   "gan": 383.22,
+   "nNeta": 17,
+   "neta": 14.72
   },
   {
    "s": 5,
-   "n": 39,
-   "gan": 81,
-   "nNeta": 3,
-   "neta": 0.87
+   "n": 140,
+   "gan": 160.99,
+   "nNeta": 5,
+   "neta": 1.22
   },
   {
    "s": 30,
-   "n": 21,
-   "gan": 29.31,
+   "n": 36,
+   "gan": 40.43,
    "nNeta": 1,
    "neta": 0.39
   }
  ],
- "rentables": 47,
+ "rentables": 87,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 32
+   "n": 73
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 68
+   "n": 150
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 59
+   "n": 111
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 18
+   "n": 104
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 14
+   "n": 29
   },
   {
    "et": "> 5 min",
@@ -81,6 +81,20 @@
   }
  ],
  "porEvento": [
+  {
+   "titulo": "CZ # posts October 30 - November 6, 2026?",
+   "n": 169,
+   "gan": 115.7,
+   "neta": 0.07,
+   "mediana": 7.549
+  },
+  {
+   "titulo": "Manchester United FC vs. AS Roma",
+   "n": 43,
+   "gan": 174.52,
+   "neta": 32.69,
+   "mediana": 0.429
+  },
   {
    "titulo": "Massachusetts Senate Election: Turnout",
    "n": 34,
@@ -103,6 +117,20 @@
    "mediana": 1.014
   },
   {
+   "titulo": "Club Atlético de Madrid vs. FC Bayern München",
+   "n": 24,
+   "gan": 44.37,
+   "neta": 0,
+   "mediana": 1.281
+  },
+  {
+   "titulo": "CD Comerciantes Unidos vs. AD Tarma",
+   "n": 19,
+   "gan": 26.15,
+   "neta": 1.12,
+   "mediana": 1.122
+  },
+  {
    "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
    "n": 18,
    "gan": 10.77,
@@ -110,46 +138,18 @@
    "mediana": 58.901
   },
   {
+   "titulo": "Blackburn Rovers FC vs. Stoke City FC",
+   "n": 17,
+   "gan": 59.47,
+   "neta": 21.18,
+   "mediana": 0.81
+  },
+  {
    "titulo": "Vissel Kobe vs. Ratchaburi FC",
    "n": 12,
    "gan": 44.27,
    "neta": 30.53,
    "mediana": 0.416
-  },
-  {
-   "titulo": "Republican Senate seats after the 2026 midterm elections?",
-   "n": 8,
-   "gan": 19.41,
-   "neta": 0,
-   "mediana": 194.292
-  },
-  {
-   "titulo": "Al Hilal SFC vs. Shabab Al Ahli Dubai",
-   "n": 7,
-   "gan": 4.74,
-   "neta": 0.76,
-   "mediana": 0.101
-  },
-  {
-   "titulo": "Club Atlético de Madrid vs. FC Bayern München",
-   "n": 7,
-   "gan": 10.26,
-   "neta": 0,
-   "mediana": 0.36
-  },
-  {
-   "titulo": "FC Barcelona vs. Aston Villa FC",
-   "n": 6,
-   "gan": 138.99,
-   "neta": 0,
-   "mediana": 1.819
-  },
-  {
-   "titulo": "Manchester United FC vs. AS Roma",
-   "n": 5,
-   "gan": 11.78,
-   "neta": 0.03,
-   "mediana": 0.402
   }
  ],
  "porHora": [
@@ -175,128 +175,132 @@
   },
   {
    "h": 1793736000000,
-   "n": 40
+   "n": 41
+  },
+  {
+   "h": 1793739600000,
+   "n": 275
   }
  ],
  "recientes": [
   {
-   "inicio": 1793738853648,
-   "titulo": "Watford FC vs. Lincoln City FC",
-   "dur": 0.46,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793738851834,
-   "titulo": "Watford FC vs. Lincoln City FC",
-   "dur": 0.011,
-   "gan": 3.58,
-   "neta": 2.45,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793738511812,
-   "titulo": "Feyenoord Rotterdam vs. FC Internazionale Milano",
-   "dur": 1.108,
-   "gan": 0.5,
+   "inicio": 1793742141789,
+   "titulo": "CZ # posts October 30 - November 6, 2026?",
+   "dur": 155.344,
+   "gan": 0.65,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793738503871,
-   "titulo": "Feyenoord Rotterdam vs. FC Internazionale Milano",
-   "dur": 4.447,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793738440356,
+   "inicio": 1793742284758,
    "titulo": "Manchester United FC vs. AS Roma",
-   "dur": 5.092,
-   "gan": 3.46,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793738037799,
-   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
-   "dur": 270.261,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793738169961,
-   "titulo": "Club Atlético de Madrid vs. FC Bayern München",
-   "dur": 0.016,
-   "gan": 1.83,
-   "neta": 0,
+   "dur": 0.247,
+   "gan": 2.2,
+   "neta": 1.67,
    "lado": "si"
   },
   {
-   "inicio": 1793738169874,
-   "titulo": "Club Atlético de Madrid vs. FC Bayern München",
-   "dur": 0.023,
-   "gan": 1.83,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793738169787,
-   "titulo": "Club Atlético de Madrid vs. FC Bayern München",
-   "dur": 0.03,
-   "gan": 1.83,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793737450356,
-   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
-   "dur": 587.305,
-   "gan": 0.71,
+   "inicio": 1793742283989,
+   "titulo": "Manchester United FC vs. AS Roma",
+   "dur": 0.737,
+   "gan": 0.9,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793737982873,
-   "titulo": "FC Barcelona vs. Aston Villa FC",
-   "dur": 1.819,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793737796941,
-   "titulo": "Derby County FC vs. Norwich City FC",
-   "dur": 0.28,
-   "gan": 0.58,
-   "neta": 0.44,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793737663709,
-   "titulo": "Club Atlético de Madrid vs. FC Bayern München",
-   "dur": 1.606,
+   "inicio": 1793742283602,
+   "titulo": "Manchester United FC vs. AS Roma",
+   "dur": 0.249,
    "gan": 0.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793737643021,
-   "titulo": "Blackburn Rovers FC vs. Stoke City FC",
-   "dur": 0.079,
-   "gan": 0.66,
+   "inicio": 1793742138120,
+   "titulo": "CD Universidad de Concepción vs. O'Higgins FC",
+   "dur": 17.145,
+   "gan": 0.92,
+   "neta": 0.11,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793742151774,
+   "titulo": "Manchester United FC vs. AS Roma",
+   "dur": 0.221,
+   "gan": 1.11,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793737633420,
-   "titulo": "Villarreal CF vs. Paris Saint-Germain FC",
-   "dur": 1.072,
-   "gan": 0.57,
-   "neta": 0.26,
+   "inicio": 1793742144449,
+   "titulo": "Manchester United FC vs. AS Roma",
+   "dur": 7.209,
+   "gan": 2.28,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793742142661,
+   "titulo": "Manchester United FC vs. AS Roma",
+   "dur": 0.162,
+   "gan": 1.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793742078631,
+   "titulo": "CZ # posts October 30 - November 6, 2026?",
+   "dur": 63.117,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793742141491,
+   "titulo": "Manchester United FC vs. AS Roma",
+   "dur": 0.028,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793742140374,
+   "titulo": "Manchester United FC vs. AS Roma",
+   "dur": 0.535,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793742136927,
+   "titulo": "Manchester United FC vs. AS Roma",
+   "dur": 0.149,
+   "gan": 0.9,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793742130391,
+   "titulo": "Manchester United FC vs. AS Roma",
+   "dur": 0.147,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793742121191,
+   "titulo": "Manchester United FC vs. AS Roma",
+   "dur": 0.166,
+   "gan": 0.85,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793742121005,
+   "titulo": "Manchester United FC vs. AS Roma",
+   "dur": 0.065,
+   "gan": 0.54,
+   "neta": 0,
    "lado": "no"
   }
  ]
