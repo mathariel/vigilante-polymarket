@@ -1,0 +1,40 @@
+# Enciende el vigilante cada hora durante ~52 minutos y guarda los resultados.
+name: Vigilante
+
+on:
+  schedule:
+    - cron: '7 * * * *'      # cada hora, en el minuto 7 (hora UTC)
+  workflow_dispatch:          # botón "Run workflow" para encenderlo a mano
+
+permissions:
+  contents: write             # para guardar los resultados en el repositorio
+
+concurrency:
+  group: vigilante            # nunca dos ejecuciones a la vez
+  cancel-in-progress: false
+
+jobs:
+  vigilar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 58
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Vigilar Polymarket
+        run: node bot.mjs
+        env:
+          DURACION_MIN: 52
+
+      - name: Guardar resultados
+        if: always()
+        run: |
+          git config user.name "vigilante-bot"
+          git config user.email "vigilante-bot@users.noreply.github.com"
+          git add data
+          git commit -m "Resultados $(date -u +'%Y-%m-%d %H:%M') UTC" || echo "Sin cambios"
+          git pull --rebase --autostash || true
+          git push
