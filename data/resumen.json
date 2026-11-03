@@ -1,78 +1,78 @@
 {
- "actualizado": 1793742297393,
+ "actualizado": 1793745322549,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793739294112,
-  "fin": 1793742297393,
-  "mensajes": 9226622,
-  "reconexiones": 0,
-  "eventos": 548,
+  "inicio": 1793742319634,
+  "fin": 1793745322549,
+  "mensajes": 5861389,
+  "reconexiones": 4,
+  "eventos": 540,
   "errores": []
  },
- "total": 474,
- "falsos": 79,
+ "total": 568,
+ "falsos": 88,
  "largos": {
-  "episodios": 142,
-  "eventos": 16,
+  "episodios": 152,
+  "eventos": 18,
   "dias": 7
  },
- "mediana": 1.059,
+ "mediana": 1.044,
  "captura": [
   {
    "s": 0.5,
-   "n": 332,
-   "gan": 797.78,
-   "nNeta": 53,
-   "neta": 93.87
+   "n": 391,
+   "gan": 1038.64,
+   "nNeta": 77,
+   "neta": 184.65
   },
   {
    "s": 2,
-   "n": 181,
-   "gan": 383.22,
-   "nNeta": 17,
-   "neta": 14.72
+   "n": 208,
+   "gan": 423.56,
+   "nNeta": 24,
+   "neta": 21.44
   },
   {
    "s": 5,
-   "n": 140,
-   "gan": 160.99,
-   "nNeta": 5,
-   "neta": 1.22
+   "n": 160,
+   "gan": 191.05,
+   "nNeta": 11,
+   "neta": 6.85
   },
   {
    "s": 30,
-   "n": 36,
-   "gan": 40.43,
-   "nNeta": 1,
-   "neta": 0.39
+   "n": 41,
+   "gan": 44.97,
+   "nNeta": 2,
+   "neta": 0.42
   }
  ],
- "rentables": 87,
+ "rentables": 124,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 73
+   "n": 79
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 150
+   "n": 190
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 111
+   "n": 139
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 104
+   "n": 119
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 29
+   "n": 34
   },
   {
    "et": "> 5 min",
@@ -83,17 +83,24 @@
  "porEvento": [
   {
    "titulo": "CZ # posts October 30 - November 6, 2026?",
-   "n": 169,
-   "gan": 115.7,
-   "neta": 0.07,
+   "n": 189,
+   "gan": 128.81,
+   "neta": 0.25,
    "mediana": 7.549
   },
   {
+   "titulo": "Mushuc Runa SC vs. Manta FC",
+   "n": 57,
+   "gan": 221.92,
+   "neta": 74.35,
+   "mediana": 0.592
+  },
+  {
    "titulo": "Manchester United FC vs. AS Roma",
-   "n": 43,
-   "gan": 174.52,
-   "neta": 32.69,
-   "mediana": 0.429
+   "n": 52,
+   "gan": 230.05,
+   "neta": 51.85,
+   "mediana": 0.62
   },
   {
    "titulo": "Massachusetts Senate Election: Turnout",
@@ -143,13 +150,6 @@
    "gan": 59.47,
    "neta": 21.18,
    "mediana": 0.81
-  },
-  {
-   "titulo": "Vissel Kobe vs. Ratchaburi FC",
-   "n": 12,
-   "gan": 44.27,
-   "neta": 30.53,
-   "mediana": 0.416
   }
  ],
  "porHora": [
@@ -179,129 +179,133 @@
   },
   {
    "h": 1793739600000,
-   "n": 275
+   "n": 308
+  },
+  {
+   "h": 1793743200000,
+   "n": 61
   }
  ],
  "recientes": [
   {
-   "inicio": 1793742141789,
-   "titulo": "CZ # posts October 30 - November 6, 2026?",
-   "dur": 155.344,
-   "gan": 0.65,
+   "inicio": 1793745259393,
+   "titulo": "How many House seats will the Democrats win in North Carolina?",
+   "dur": 63.148,
+   "gan": 0.55,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793742284758,
-   "titulo": "Manchester United FC vs. AS Roma",
-   "dur": 0.247,
-   "gan": 2.2,
-   "neta": 1.67,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793742283989,
-   "titulo": "Manchester United FC vs. AS Roma",
-   "dur": 0.737,
-   "gan": 0.9,
-   "neta": 0,
+   "inicio": 1793745251450,
+   "titulo": "Mushuc Runa SC vs. Manta FC",
+   "dur": 0.147,
+   "gan": 0.7,
+   "neta": 0.54,
    "lado": "no"
   },
   {
-   "inicio": 1793742283602,
-   "titulo": "Manchester United FC vs. AS Roma",
-   "dur": 0.249,
+   "inicio": 1793745195793,
+   "titulo": "How many House seats will the Democrats win in North Carolina?",
+   "dur": 15.602,
+   "gan": 1.28,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793745102979,
+   "titulo": "Mushuc Runa SC vs. Manta FC",
+   "dur": 1.306,
    "gan": 0.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793742138120,
-   "titulo": "CD Universidad de Concepción vs. O'Higgins FC",
-   "dur": 17.145,
-   "gan": 0.92,
-   "neta": 0.11,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793742151774,
-   "titulo": "Manchester United FC vs. AS Roma",
-   "dur": 0.221,
-   "gan": 1.11,
+   "inicio": 1793745073627,
+   "titulo": "Mushuc Runa SC vs. Manta FC",
+   "dur": 5.524,
+   "gan": 0.52,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793742144449,
-   "titulo": "Manchester United FC vs. AS Roma",
-   "dur": 7.209,
-   "gan": 2.28,
+   "inicio": 1793745071280,
+   "titulo": "Mushuc Runa SC vs. Manta FC",
+   "dur": 0.313,
+   "gan": 0.52,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793742142661,
-   "titulo": "Manchester United FC vs. AS Roma",
-   "dur": 0.162,
-   "gan": 1.51,
+   "inicio": 1793745065636,
+   "titulo": "Mushuc Runa SC vs. Manta FC",
+   "dur": 1.765,
+   "gan": 0.6,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793742078631,
-   "titulo": "CZ # posts October 30 - November 6, 2026?",
-   "dur": 63.117,
-   "gan": 0.67,
+   "inicio": 1793745063356,
+   "titulo": "Mushuc Runa SC vs. Manta FC",
+   "dur": 2.168,
+   "gan": 0.87,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793742141491,
-   "titulo": "Manchester United FC vs. AS Roma",
-   "dur": 0.028,
-   "gan": 0.67,
+   "inicio": 1793745056779,
+   "titulo": "Mushuc Runa SC vs. Manta FC",
+   "dur": 5.659,
+   "gan": 0.77,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793742140374,
-   "titulo": "Manchester United FC vs. AS Roma",
-   "dur": 0.535,
-   "gan": 0.54,
-   "neta": 0,
+   "inicio": 1793745056025,
+   "titulo": "Mushuc Runa SC vs. Manta FC",
+   "dur": 0.698,
+   "gan": 3.87,
+   "neta": 1.53,
    "lado": "si"
   },
   {
-   "inicio": 1793742136927,
-   "titulo": "Manchester United FC vs. AS Roma",
-   "dur": 0.149,
-   "gan": 0.9,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1793745050660,
+   "titulo": "Mushuc Runa SC vs. Manta FC",
+   "dur": 5.285,
+   "gan": 1.35,
+   "neta": 0.08,
+   "lado": "si"
   },
   {
-   "inicio": 1793742130391,
-   "titulo": "Manchester United FC vs. AS Roma",
-   "dur": 0.147,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1793745048919,
+   "titulo": "Mushuc Runa SC vs. Manta FC",
+   "dur": 1.634,
+   "gan": 5.46,
+   "neta": 1.67,
+   "lado": "si"
   },
   {
-   "inicio": 1793742121191,
-   "titulo": "Manchester United FC vs. AS Roma",
-   "dur": 0.166,
-   "gan": 0.85,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1793745018800,
+   "titulo": "Mushuc Runa SC vs. Manta FC",
+   "dur": 0.394,
+   "gan": 1.23,
+   "neta": 0.32,
+   "lado": "si"
   },
   {
-   "inicio": 1793742121005,
-   "titulo": "Manchester United FC vs. AS Roma",
-   "dur": 0.065,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1793745018072,
+   "titulo": "Mushuc Runa SC vs. Manta FC",
+   "dur": 0.528,
+   "gan": 2.78,
+   "neta": 0.8,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793745017727,
+   "titulo": "Mushuc Runa SC vs. Manta FC",
+   "dur": 0.107,
+   "gan": 3.22,
+   "neta": 0.9,
+   "lado": "si"
   }
  ]
 }
