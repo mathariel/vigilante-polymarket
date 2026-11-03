@@ -196,8 +196,14 @@ function capturaA(ep, seg) {
   for (const [t, v, vn] of ep.serie) { if (t <= seg * 1000) { g = v; n = vn || 0; } }
   return { bruta: g, neta: n };
 }
+// Solo cuentan los arbitrajes de eventos que se resuelven en 7 días o menos:
+// los de largo plazo (como el Mundial 2030) inmovilizan el capital por años y distorsionan las cifras.
+const DIAS_MAX = 7;
+const esCorto = (e) => e.fin && (new Date(e.fin).getTime() - e.inicio) <= DIAS_MAX * 864e5;
 function resumen(final) {
-  const cerrados = episodios.filter(e => e.verificado !== false);
+  const verificados = episodios.filter(e => e.verificado !== false);
+  const cerrados = verificados.filter(esCorto);
+  const largos = new Set(verificados.filter(e => !esCorto(e)).map(e => e.titulo));
   const durs = cerrados.map(e => e.dur).sort((a, b) => a - b);
   const cubetas = [['< 0.1 s', 0, 0.1, true], ['0.1–1 s', 0.1, 1, true], ['1–5 s', 1, 5], ['5–30 s', 5, 30], ['30 s–5 min', 30, 300], ['> 5 min', 300, 1e12]];
   const grupos = new Map();
@@ -210,7 +216,8 @@ function resumen(final) {
   return {
     actualizado: Date.now(), inicio: inicioHistorial,
     ejecucion: { inicio: ejecucion.inicio, fin: final ? Date.now() : null, mensajes: ejecucion.mensajes, reconexiones: ejecucion.reconexiones, eventos: eventos.size, errores: ejecucion.errores.slice(-5) },
-    total: cerrados.length, falsos: episodios.length - cerrados.length,
+    total: cerrados.length, falsos: episodios.length - verificados.length,
+    largos: { episodios: verificados.length - cerrados.length, eventos: largos.size, dias: DIAS_MAX },
     mediana: durs.length ? durs[Math.floor(durs.length / 2)] : null,
     captura: RETARDOS.map(s => {
       const cap = cerrados.map(e => capturaA(e, s)).filter(x => x !== null);
