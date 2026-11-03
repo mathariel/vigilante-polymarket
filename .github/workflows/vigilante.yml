@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write             # para guardar los resultados en el repositorio
+  actions: write              # para encender la siguiente ejecución al terminar
 
 concurrency:
   group: vigilante            # nunca dos ejecuciones a la vez
@@ -27,7 +28,7 @@ jobs:
       - name: Vigilar Polymarket
         run: node bot.mjs
         env:
-          DURACION_MIN: 52
+          DURACION_MIN: 50
 
       - name: Guardar resultados
         if: always()
@@ -38,3 +39,11 @@ jobs:
           git commit -m "Resultados $(date -u +'%Y-%m-%d %H:%M') UTC" || echo "Sin cambios"
           git pull --rebase --autostash || true
           git push
+
+      # Encadena la siguiente ejecución sin esperar al horario de GitHub,
+      # que a veces se retrasa o se salta. El horario de arriba queda como respaldo.
+      - name: Encender la siguiente ejecución
+        if: success()
+        run: gh workflow run vigilante.yml --ref main
+        env:
+          GH_TOKEN: ${{ github.token }}
