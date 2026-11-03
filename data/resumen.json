@@ -1,99 +1,106 @@
 {
- "actualizado": 1793733185320,
+ "actualizado": 1793736221727,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793730183435,
-  "fin": 1793733185320,
-  "mensajes": 6195623,
-  "reconexiones": 2,
-  "eventos": 529,
+  "inicio": 1793733217903,
+  "fin": 1793736221727,
+  "mensajes": 7555053,
+  "reconexiones": 5,
+  "eventos": 541,
   "errores": []
  },
- "total": 93,
- "falsos": 29,
+ "total": 160,
+ "falsos": 37,
  "largos": {
-  "episodios": 47,
-  "eventos": 12,
+  "episodios": 80,
+  "eventos": 13,
   "dias": 7
  },
- "mediana": 0.872,
+ "mediana": 0.979,
  "captura": [
   {
    "s": 0.5,
-   "n": 60,
-   "gan": 250.59,
-   "nNeta": 10,
-   "neta": 16.97
+   "n": 112,
+   "gan": 407.03,
+   "nNeta": 20,
+   "neta": 40.08
   },
   {
    "s": 2,
-   "n": 26,
-   "gan": 179.2,
-   "nNeta": 4,
-   "neta": 1.3
+   "n": 43,
+   "gan": 213.48,
+   "nNeta": 7,
+   "neta": 3.51
   },
   {
    "s": 5,
-   "n": 21,
-   "gan": 46.57,
-   "nNeta": 2,
-   "neta": 0.37
+   "n": 31,
+   "gan": 73.17,
+   "nNeta": 3,
+   "neta": 0.87
   },
   {
    "s": 30,
-   "n": 12,
-   "gan": 23.39,
+   "n": 16,
+   "gan": 26.13,
    "nNeta": 1,
    "neta": 0.39
   }
  ],
- "rentables": 29,
+ "rentables": 41,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 17
+   "n": 25
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 33
+   "n": 57
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 22
+   "n": 47
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 9
+   "n": 15
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 7
+   "n": 10
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 5
+   "n": 6
   }
  ],
  "porEvento": [
   {
-   "titulo": "Galatasaray SK vs. VfB Stuttgart",
-   "n": 17,
-   "gan": 61.38,
-   "neta": 15.9,
-   "mediana": 0.929
+   "titulo": "FK Shakhtar Donetsk vs. Sporting CP",
+   "n": 34,
+   "gan": 124.6,
+   "neta": 3.03,
+   "mediana": 0.861
   },
   {
-   "titulo": "FK Shakhtar Donetsk vs. Sporting CP",
-   "n": 17,
-   "gan": 27.45,
-   "neta": 1.28,
-   "mediana": 0.861
+   "titulo": "Massachusetts Senate Election: Turnout",
+   "n": 33,
+   "gan": 21.37,
+   "neta": 0.25,
+   "mediana": 1.123
+  },
+  {
+   "titulo": "Galatasaray SK vs. VfB Stuttgart",
+   "n": 30,
+   "gan": 106.67,
+   "neta": 31.57,
+   "mediana": 1.014
   },
   {
    "titulo": "Vissel Kobe vs. Ratchaburi FC",
@@ -103,11 +110,11 @@
    "mediana": 0.416
   },
   {
-   "titulo": "Massachusetts Senate Election: Turnout",
-   "n": 12,
-   "gan": 8.93,
+   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
+   "n": 11,
+   "gan": 6.66,
    "neta": 0,
-   "mediana": 1.485
+   "mediana": 10.983
   },
   {
    "titulo": "Republican Senate seats after the 2026 midterm elections?",
@@ -138,18 +145,11 @@
    "mediana": 5.086
   },
   {
-   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
+   "titulo": "Derby County FC vs. Norwich City FC",
    "n": 3,
-   "gan": 1.62,
+   "gan": 3.12,
    "neta": 0,
-   "mediana": 129.022
-  },
-  {
-   "titulo": "Highest temperature in Munich on November 3?",
-   "n": 2,
-   "gan": 1.35,
-   "neta": 0.54,
-   "mediana": 0.027
+   "mediana": 0.374
   }
  ],
  "porHora": [
@@ -171,129 +171,133 @@
   },
   {
    "h": 1793732400000,
-   "n": 16
+   "n": 81
+  },
+  {
+   "h": 1793736000000,
+   "n": 2
   }
  ],
  "recientes": [
   {
-   "inicio": 1793733126004,
+   "inicio": 1793736211035,
+   "titulo": "CD Comerciantes Unidos vs. AD Tarma",
+   "dur": 1.122,
+   "gan": 2.99,
+   "neta": 0.63,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793736207520,
+   "titulo": "CD Comerciantes Unidos vs. AD Tarma",
+   "dur": 1.903,
+   "gan": 0.92,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793735957955,
+   "titulo": "Charlton Athletic FC vs. Bolton Wanderers FC",
+   "dur": 4.461,
+   "gan": 4.38,
+   "neta": 1.64,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793735712621,
+   "titulo": "Derby County FC vs. Norwich City FC",
+   "dur": 0.118,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793735712207,
+   "titulo": "Derby County FC vs. Norwich City FC",
+   "dur": 0.374,
+   "gan": 1.42,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793735710751,
+   "titulo": "Derby County FC vs. Norwich City FC",
+   "dur": 0.95,
+   "gan": 1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793735656958,
+   "titulo": "Preston North End FC vs. Sheffield United FC",
+   "dur": 1.519,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793735567721,
+   "titulo": "Preston North End FC vs. Sheffield United FC",
+   "dur": 0.088,
+   "gan": 0.74,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793735097846,
    "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
-   "dur": 59.314,
+   "dur": 0.054,
    "gan": 0.51,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793733117983,
-   "titulo": "Galatasaray SK vs. VfB Stuttgart",
-   "dur": 0.004,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793733093510,
-   "titulo": "Highest temperature in Austin on November 3?",
-   "dur": 0.021,
-   "gan": 0.58,
-   "neta": 0.33,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793732651835,
+   "inicio": 1793735088333,
    "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
-   "dur": 402.165,
-   "gan": 0.55,
+   "dur": 6.007,
+   "gan": 0.83,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793732874935,
-   "titulo": "FC Barcelona vs. Aston Villa FC",
-   "dur": 4.277,
-   "gan": 128.66,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793732773091,
-   "titulo": "FK Shakhtar Donetsk vs. Sporting CP",
-   "dur": 0.963,
-   "gan": 1.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793732771237,
-   "titulo": "FK Shakhtar Donetsk vs. Sporting CP",
-   "dur": 1.418,
-   "gan": 1.4,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793732768329,
-   "titulo": "FK Shakhtar Donetsk vs. Sporting CP",
-   "dur": 2.695,
-   "gan": 1.4,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793732757373,
-   "titulo": "FK Shakhtar Donetsk vs. Sporting CP",
-   "dur": 5.168,
-   "gan": 1.67,
-   "neta": 0.21,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793732752308,
-   "titulo": "FK Shakhtar Donetsk vs. Sporting CP",
-   "dur": 1.966,
-   "gan": 1.85,
-   "neta": 1.07,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793732675679,
-   "titulo": "FK Shakhtar Donetsk vs. Sporting CP",
-   "dur": 5.106,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793732668755,
-   "titulo": "FK Shakhtar Donetsk vs. Sporting CP",
-   "dur": 1.648,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793732492906,
+   "inicio": 1793735040328,
    "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
-   "dur": 129.022,
+   "dur": 45.004,
+   "gan": 1.02,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793734941940,
+   "titulo": "Massachusetts Senate Election: Turnout",
+   "dur": 1.263,
+   "gan": 0.78,
+   "neta": 0.11,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793734800292,
+   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
+   "dur": 3.117,
    "gan": 0.56,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793732604361,
-   "titulo": "Galatasaray SK vs. VfB Stuttgart",
-   "dur": 0.084,
-   "gan": 2.12,
-   "neta": 0.48,
-   "lado": "si"
+   "inicio": 1793734788307,
+   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
+   "dur": 10.983,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1793732475016,
-   "titulo": "FK Shakhtar Donetsk vs. Sporting CP",
-   "dur": 0.698,
-   "gan": 6.04,
+   "inicio": 1793733243201,
+   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
+   "dur": 1479.49,
+   "gan": 0.52,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   }
  ]
 }
