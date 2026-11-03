@@ -1,0 +1,282 @@
+{
+ "actualizado": 1793708754418,
+ "inicio": 1793705631855,
+ "ejecucion": {
+  "inicio": 1793705631855,
+  "fin": 1793708754418,
+  "mensajes": 5564824,
+  "reconexiones": 2,
+  "eventos": 525,
+  "errores": []
+ },
+ "total": 46,
+ "falsos": 5,
+ "mediana": 3.218,
+ "captura": [
+  {
+   "s": 0.5,
+   "n": 35,
+   "gan": 82.09,
+   "nNeta": 5,
+   "neta": 25.45
+  },
+  {
+   "s": 2,
+   "n": 23,
+   "gan": 66.45,
+   "nNeta": 3,
+   "neta": 22.48
+  },
+  {
+   "s": 5,
+   "n": 20,
+   "gan": 63.73,
+   "nNeta": 1,
+   "neta": 21.55
+  },
+  {
+   "s": 30,
+   "n": 15,
+   "gan": 52.21,
+   "nNeta": 1,
+   "neta": 21.55
+  }
+ ],
+ "rentables": 13,
+ "duraciones": [
+  {
+   "et": "< 0.1 s",
+   "rapido": true,
+   "n": 5
+  },
+  {
+   "et": "0.1–1 s",
+   "rapido": true,
+   "n": 11
+  },
+  {
+   "et": "1–5 s",
+   "rapido": false,
+   "n": 10
+  },
+  {
+   "et": "5–30 s",
+   "rapido": false,
+   "n": 5
+  },
+  {
+   "et": "30 s–5 min",
+   "rapido": false,
+   "n": 9
+  },
+  {
+   "et": "> 5 min",
+   "rapido": false,
+   "n": 6
+  }
+ ],
+ "porEvento": [
+  {
+   "titulo": "Vissel Kobe vs. Ratchaburi FC",
+   "n": 12,
+   "gan": 44.27,
+   "neta": 30.53,
+   "mediana": 0.416
+  },
+  {
+   "titulo": "Massachusetts Senate Election: Turnout",
+   "n": 12,
+   "gan": 8.93,
+   "neta": 0,
+   "mediana": 1.485
+  },
+  {
+   "titulo": "How many UK parliamentary by-elections in 2026?",
+   "n": 7,
+   "gan": 3.89,
+   "neta": 0,
+   "mediana": 151.757
+  },
+  {
+   "titulo": "Central Bank of Chile decision in December",
+   "n": 3,
+   "gan": 3.09,
+   "neta": 0,
+   "mediana": 1296.336
+  },
+  {
+   "titulo": "Republican Senate seats after the 2026 midterm elections?",
+   "n": 3,
+   "gan": 8.74,
+   "neta": 0,
+   "mediana": 8.48
+  },
+  {
+   "titulo": "Dem sweep & US-Iran ceasefire through 2027?",
+   "n": 2,
+   "gan": 1.33,
+   "neta": 0.26,
+   "mediana": 0.163
+  },
+  {
+   "titulo": "Highest temperature in Munich on November 3?",
+   "n": 2,
+   "gan": 1.35,
+   "neta": 0.54,
+   "mediana": 0.027
+  },
+  {
+   "titulo": "Anthropic IPO Closing Market Cap",
+   "n": 1,
+   "gan": 0.67,
+   "neta": 0,
+   "mediana": 607.456
+  },
+  {
+   "titulo": "Al Kholood Saudi Club vs. Al Khaleej Saudi Club",
+   "n": 1,
+   "gan": 3.8,
+   "neta": 1.56,
+   "mediana": 29.877
+  },
+  {
+   "titulo": "Fed decisions (Sep–Dec)",
+   "n": 1,
+   "gan": 0.54,
+   "neta": 0,
+   "mediana": 3133.572
+  }
+ ],
+ "porHora": [
+  {
+   "h": 1793703600000,
+   "n": 20
+  },
+  {
+   "h": 1793707200000,
+   "n": 26
+  }
+ ],
+ "recientes": [
+  {
+   "inicio": 1793708710062,
+   "titulo": "Central Bank of Chile decision in December",
+   "dur": 44.355,
+   "gan": 0.69,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793705595424,
+   "titulo": "World Cup 2030: Location of Final",
+   "dur": 3158.993,
+   "gan": 41.28,
+   "neta": 21.55,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793705583991,
+   "titulo": "Fed Decision in January?",
+   "dur": 3170.426,
+   "gan": 1.47,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793705620845,
+   "titulo": "Fed decisions (Sep–Dec)",
+   "dur": 3133.572,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793706865138,
+   "titulo": "Central Bank of Chile decision in December",
+   "dur": 1844.864,
+   "gan": 0.91,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793708422856,
+   "titulo": "How many UK parliamentary by-elections in 2026?",
+   "dur": 267.756,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793708461434,
+   "titulo": "Highest temperature in Munich on November 3?",
+   "dur": 0.021,
+   "gan": 0.57,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793708461403,
+   "titulo": "Highest temperature in Munich on November 3?",
+   "dur": 0.027,
+   "gan": 0.78,
+   "neta": 0.37,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793708405634,
+   "titulo": "Republican Senate seats after the 2026 midterm elections?",
+   "dur": 8.48,
+   "gan": 7.41,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793708266247,
+   "titulo": "Al Kholood Saudi Club vs. Al Khaleej Saudi Club",
+   "dur": 29.877,
+   "gan": 3.8,
+   "neta": 1.56,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793707995882,
+   "titulo": "How many UK parliamentary by-elections in 2026?",
+   "dur": 170.74,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793707701992,
+   "titulo": "How many UK parliamentary by-elections in 2026?",
+   "dur": 291.435,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793707939232,
+   "titulo": "Massachusetts Senate Election: Turnout",
+   "dur": 10.463,
+   "gan": 0.89,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793707937930,
+   "titulo": "Massachusetts Senate Election: Turnout",
+   "dur": 1.221,
+   "gan": 0.84,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793707936953,
+   "titulo": "Massachusetts Senate Election: Turnout",
+   "dur": 0.872,
+   "gan": 0.79,
+   "neta": 0,
+   "lado": "si"
+  }
+ ]
+}
