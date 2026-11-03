@@ -1,86 +1,100 @@
 {
- "actualizado": 1793730157230,
+ "actualizado": 1793733185320,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793727154906,
-  "fin": 1793730157230,
-  "mensajes": 6108699,
-  "reconexiones": 3,
-  "eventos": 527,
+  "inicio": 1793730183435,
+  "fin": 1793733185320,
+  "mensajes": 6195623,
+  "reconexiones": 2,
+  "eventos": 529,
   "errores": []
  },
- "total": 69,
- "falsos": 19,
+ "total": 93,
+ "falsos": 29,
  "largos": {
-  "episodios": 19,
-  "eventos": 9,
+  "episodios": 47,
+  "eventos": 12,
   "dias": 7
  },
- "mediana": 0.744,
+ "mediana": 0.872,
  "captura": [
   {
    "s": 0.5,
-   "n": 41,
-   "gan": 78.27,
-   "nNeta": 7,
-   "neta": 10.8
+   "n": 60,
+   "gan": 250.59,
+   "nNeta": 10,
+   "neta": 16.97
   },
   {
    "s": 2,
-   "n": 16,
-   "gan": 40.82,
-   "nNeta": 3,
-   "neta": 1.09
+   "n": 26,
+   "gan": 179.2,
+   "nNeta": 4,
+   "neta": 1.3
   },
   {
    "s": 5,
-   "n": 13,
-   "gan": 38.1,
-   "nNeta": 1,
-   "neta": 0.16
+   "n": 21,
+   "gan": 46.57,
+   "nNeta": 2,
+   "neta": 0.37
   },
   {
    "s": 30,
-   "n": 8,
-   "gan": 20.36,
+   "n": 12,
+   "gan": 23.39,
    "nNeta": 1,
    "neta": 0.39
   }
  ],
- "rentables": 25,
+ "rentables": 29,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 13
+   "n": 17
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 28
+   "n": 33
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 15
+   "n": 22
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 5
+   "n": 9
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 5
+   "n": 7
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 3
+   "n": 5
   }
  ],
  "porEvento": [
+  {
+   "titulo": "Galatasaray SK vs. VfB Stuttgart",
+   "n": 17,
+   "gan": 61.38,
+   "neta": 15.9,
+   "mediana": 0.929
+  },
+  {
+   "titulo": "FK Shakhtar Donetsk vs. Sporting CP",
+   "n": 17,
+   "gan": 27.45,
+   "neta": 1.28,
+   "mediana": 0.861
+  },
   {
    "titulo": "Vissel Kobe vs. Ratchaburi FC",
    "n": 12,
@@ -96,25 +110,11 @@
    "mediana": 1.485
   },
   {
-   "titulo": "Galatasaray SK vs. VfB Stuttgart",
-   "n": 12,
-   "gan": 56.5,
-   "neta": 15.42,
-   "mediana": 1.014
-  },
-  {
    "titulo": "Republican Senate seats after the 2026 midterm elections?",
-   "n": 7,
-   "gan": 18.01,
+   "n": 8,
+   "gan": 19.41,
    "neta": 0,
-   "mediana": 80.441
-  },
-  {
-   "titulo": "FK Shakhtar Donetsk vs. Sporting CP",
-   "n": 7,
-   "gan": 9.26,
-   "neta": 0,
-   "mediana": 0.357
+   "mediana": 194.292
   },
   {
    "titulo": "Al Hilal SFC vs. Shabab Al Ahli Dubai",
@@ -131,25 +131,25 @@
    "mediana": 0.662
   },
   {
+   "titulo": "IK Sirius vs. Halmstads BK",
+   "n": 3,
+   "gan": 3.74,
+   "neta": 0,
+   "mediana": 5.086
+  },
+  {
+   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
+   "n": 3,
+   "gan": 1.62,
+   "neta": 0,
+   "mediana": 129.022
+  },
+  {
    "titulo": "Highest temperature in Munich on November 3?",
    "n": 2,
    "gan": 1.35,
    "neta": 0.54,
    "mediana": 0.027
-  },
-  {
-   "titulo": "Highest temperature in Miami on November 3?",
-   "n": 2,
-   "gan": 2.69,
-   "neta": 1.64,
-   "mediana": 0.021
-  },
-  {
-   "titulo": "Al Kholood Saudi Club vs. Al Khaleej Saudi Club",
-   "n": 1,
-   "gan": 3.8,
-   "neta": 1.56,
-   "mediana": 29.877
   }
  ],
  "porHora": [
@@ -167,129 +167,133 @@
   },
   {
    "h": 1793728800000,
-   "n": 19
+   "n": 27
+  },
+  {
+   "h": 1793732400000,
+   "n": 16
   }
  ],
  "recientes": [
   {
-   "inicio": 1793730073286,
-   "titulo": "Republican Senate seats after the 2026 midterm elections?",
-   "dur": 80.441,
-   "gan": 0.72,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793730008830,
-   "titulo": "Republican Senate seats after the 2026 midterm elections?",
-   "dur": 63.865,
-   "gan": 1.47,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793730056793,
-   "titulo": "Al Hilal SFC vs. Shabab Al Ahli Dubai",
-   "dur": 0.006,
-   "gan": 0.54,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793730056178,
-   "titulo": "Al Hilal SFC vs. Shabab Al Ahli Dubai",
-   "dur": 0.368,
+   "inicio": 1793733126004,
+   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
+   "dur": 59.314,
    "gan": 0.51,
-   "neta": 0.1,
-   "lado": "si"
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1793730055726,
-   "titulo": "Al Hilal SFC vs. Shabab Al Ahli Dubai",
-   "dur": 0.388,
-   "gan": 0.69,
-   "neta": 0.05,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793730041076,
-   "titulo": "Al Hilal SFC vs. Shabab Al Ahli Dubai",
-   "dur": 0.388,
-   "gan": 0.58,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793730040972,
-   "titulo": "Al Hilal SFC vs. Shabab Al Ahli Dubai",
-   "dur": 0.101,
-   "gan": 0.55,
-   "neta": 0.06,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793730040889,
-   "titulo": "Al Hilal SFC vs. Shabab Al Ahli Dubai",
-   "dur": 0.076,
+   "inicio": 1793733117983,
+   "titulo": "Galatasaray SK vs. VfB Stuttgart",
+   "dur": 0.004,
    "gan": 0.52,
-   "neta": 0.06,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793733093510,
+   "titulo": "Highest temperature in Austin on November 3?",
+   "dur": 0.021,
+   "gan": 0.58,
+   "neta": 0.33,
    "lado": "si"
   },
   {
-   "inicio": 1793730040866,
-   "titulo": "Al Hilal SFC vs. Shabab Al Ahli Dubai",
-   "dur": 0.01,
-   "gan": 1.35,
-   "neta": 0.29,
-   "lado": "si"
+   "inicio": 1793732651835,
+   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
+   "dur": 402.165,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1793729906545,
+   "inicio": 1793732874935,
+   "titulo": "FC Barcelona vs. Aston Villa FC",
+   "dur": 4.277,
+   "gan": 128.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793732773091,
    "titulo": "FK Shakhtar Donetsk vs. Sporting CP",
-   "dur": 0.328,
-   "gan": 0.81,
+   "dur": 0.963,
+   "gan": 1.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793728597010,
-   "titulo": "Republican Senate seats after the 2026 midterm elections?",
-   "dur": 1118.281,
-   "gan": 1.21,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793729506197,
+   "inicio": 1793732771237,
    "titulo": "FK Shakhtar Donetsk vs. Sporting CP",
-   "dur": 0.105,
-   "gan": 3.89,
+   "dur": 1.418,
+   "gan": 1.4,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793729384094,
-   "titulo": "Galatasaray SK vs. VfB Stuttgart",
-   "dur": 1.776,
-   "gan": 0.64,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793728888987,
-   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
-   "dur": 451.681,
-   "gan": 2.62,
-   "neta": 0.16,
    "lado": "si"
   },
   {
-   "inicio": 1793729193634,
-   "titulo": "Galatasaray SK vs. VfB Stuttgart",
-   "dur": 1.495,
-   "gan": 0.5,
+   "inicio": 1793732768329,
+   "titulo": "FK Shakhtar Donetsk vs. Sporting CP",
+   "dur": 2.695,
+   "gan": 1.4,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793732757373,
+   "titulo": "FK Shakhtar Donetsk vs. Sporting CP",
+   "dur": 5.168,
+   "gan": 1.67,
+   "neta": 0.21,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793732752308,
+   "titulo": "FK Shakhtar Donetsk vs. Sporting CP",
+   "dur": 1.966,
+   "gan": 1.85,
+   "neta": 1.07,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793732675679,
+   "titulo": "FK Shakhtar Donetsk vs. Sporting CP",
+   "dur": 5.106,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793732668755,
+   "titulo": "FK Shakhtar Donetsk vs. Sporting CP",
+   "dur": 1.648,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793732492906,
+   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
+   "dur": 129.022,
+   "gan": 0.56,
    "neta": 0,
    "lado": "no"
+  },
+  {
+   "inicio": 1793732604361,
+   "titulo": "Galatasaray SK vs. VfB Stuttgart",
+   "dur": 0.084,
+   "gan": 2.12,
+   "neta": 0.48,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793732475016,
+   "titulo": "FK Shakhtar Donetsk vs. Sporting CP",
+   "dur": 0.698,
+   "gan": 6.04,
+   "neta": 0,
+   "lado": "si"
   }
  ]
 }
