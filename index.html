@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Vigilante de arbitrajes</title>
+<style>
+  :root{--fondo:#f6f5f2;--carta:#fff;--borde:#e4e1db;--texto:#1f1e1c;--suave:#6b6862;--tenue:#9a968e;--acento:#2f6fdb;--acento-suave:#dbe6f8;--gris:#d6d3cc;--verde:#1a7f37;--verde-suave:#e3f3e8;--ambar:#8a5a00;--ambar-suave:#fff4e5;--linea:#f0eee9}
+  @media (prefers-color-scheme:dark){:root{--fondo:#191817;--carta:#232220;--borde:#34322f;--texto:#ecebe8;--suave:#a9a59e;--tenue:#7d7a74;--acento:#6c9cf0;--acento-suave:#2a3550;--gris:#4a4844;--verde:#5cc77d;--verde-suave:#1f3326;--ambar:#e8b45c;--ambar-suave:#3a2e1a;--linea:#2c2a28}}
+  *{box-sizing:border-box} body{margin:0;font:14px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif;background:var(--fondo);color:var(--texto)}
+  .w{max-width:760px;margin:0 auto;padding:18px 16px 40px}
+  h1{font-size:19px;margin:0} .sub{color:var(--suave);font-size:12px;margin-top:2px}
+  .top{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;flex-wrap:wrap;margin-bottom:14px}
+  .pill{display:inline-flex;align-items:center;gap:6px;border-radius:999px;padding:4px 10px;font-size:12px;font-weight:600;white-space:nowrap}
+  .pill i{width:7px;height:7px;border-radius:50%;background:currentColor;display:inline-block}
+  .ok{background:var(--verde-suave);color:var(--verde)} .esp{background:var(--ambar-suave);color:var(--ambar)}
+  .kpis{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin-bottom:14px} @media(min-width:640px){.kpis{grid-template-columns:repeat(4,1fr)}}
+  .k{background:var(--carta);border:1px solid var(--borde);border-radius:12px;padding:12px 14px} .k b{display:block;font-size:24px;font-weight:650} .k span{color:var(--suave);font-size:12px}
+  .carta{background:var(--carta);border:1px solid var(--borde);border-radius:12px;padding:14px 16px;margin-bottom:14px}
+  h2{font-size:14px;margin:0 0 2px} .nota{color:var(--suave);font-size:12px;margin-bottom:10px}
+  .b1{display:grid;grid-template-columns:44px minmax(0,1fr) 150px;align-items:center;gap:10px;margin:8px 0;font-size:13px}
+  .b1-et{text-align:right} .b1-pista{height:18px;background:var(--acento-suave);border-radius:4px;overflow:hidden;display:block} .b1-pista span{display:block;height:100%;background:var(--acento);border-radius:4px}
+  .b1-val{color:var(--suave);white-space:nowrap} .b1-val b{color:var(--texto)} .neta{color:var(--verde);font-weight:600} .leyenda{display:flex;gap:14px;font-size:12px;color:var(--suave);margin-top:6px}
+  .hist{display:flex;align-items:flex-end;gap:8px;height:150px;border-bottom:1px solid var(--gris);padding-top:6px;margin-bottom:28px}
+  .h-col{flex:1;height:100%;display:flex;flex-direction:column;justify-content:flex-end;align-items:center;position:relative}
+  .h-n{font-size:12px;margin-bottom:3px} .h-bar{width:100%;max-width:64px;background:var(--acento);border-radius:4px 4px 0 0;display:block} .h-bar.gris{background:var(--gris)}
+  .h-et{position:absolute;bottom:-22px;font-size:11px;color:var(--suave);white-space:nowrap}
+  .horas{display:flex;align-items:flex-end;gap:2px;height:90px;border-bottom:1px solid var(--gris)} .horas span{flex:1;background:var(--acento);border-radius:2px 2px 0 0;min-height:0}
+  .eje{display:flex;justify-content:space-between;color:var(--suave);font-size:11px;margin-top:4px}
+  .fila,.rec{display:grid;align-items:center;gap:10px;padding:6px 0;border-top:1px solid var(--linea);font-size:13px}
+  .fila{grid-template-columns:minmax(0,1.6fr) minmax(0,1fr) 34px 84px 62px} .rec{grid-template-columns:96px minmax(0,1fr) 62px 70px}
+  .cab{color:var(--suave);font-size:11px;border-top:0;padding-top:0}
+  .nom{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .barra{height:8px;background:var(--acento-suave);border-radius:4px;overflow:hidden} .barra div{height:100%;background:var(--acento);border-radius:4px}
+  .num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap} .tenue{color:var(--tenue)} .vacio{color:var(--suave);font-size:13px;padding:6px 0}
+  @media(max-width:480px){.b1{grid-template-columns:40px minmax(0,1fr) 128px;gap:8px}.fila{grid-template-columns:minmax(0,1fr) 30px 80px 58px}.fila .barra,.fila.cab div:nth-child(2){display:none}.rec{grid-template-columns:minmax(0,1fr) 58px 62px}.rec .tenue{display:none}.rec.cab span:first-child{display:none}}
+  .error{background:var(--ambar-suave);color:var(--ambar);border-radius:8px;padding:8px 12px;font-size:13px;margin-bottom:14px}
+</style>
+</head>
+<body>
+<div class="w" id="app"><div class="vacio">Cargando…</div></div>
+<script>
+const $ = (n) => n.toLocaleString('es-PE', { minimumFractionDigits: n < 100 ? 2 : 0, maximumFractionDigits: n < 100 ? 2 : 0 });
+const ent = (n) => n.toLocaleString('es-PE', { maximumFractionDigits: 0 });
+const hora = (t) => new Date(t).toLocaleString('es-PE', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
+const esc = (s) => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const dur = (s) => s < 1 ? (s * 1000).toFixed(0) + ' ms' : s < 60 ? s.toFixed(1) + ' s' : s < 3600 ? (s / 60).toFixed(1) + ' min' : (s / 3600).toFixed(1) + ' h';
+const hace = (t) => { const m = Math.round((Date.now() - t) / 60000); return m < 1 ? 'hace instantes' : m < 60 ? `hace ${m} min` : `hace ${(m / 60).toFixed(1)} h`; };
+
+function pintar(d) {
+  const app = document.getElementById('app');
+  const enCurso = d.ejecucion && !d.ejecucion.fin && Date.now() - d.actualizado < 15 * 60000;
+  const g1 = d.captura.map(r => { const p = d.total ? r.n / d.total * 100 : 0;
+    return `<div class="b1" title="Reaccionando en ${r.s} s: ${r.n} de ${d.total} episodios; ${r.nNeta || 0} rentables después de comisiones"><span class="b1-et">${r.s} s</span><span class="b1-pista"><span style="width:${Math.max(p, r.n ? 1.5 : 0)}%"></span></span><span class="b1-val"><b>${Math.round(p)}%</b> · $${$(r.gan)} <span class="neta">→ $${$(r.neta || 0)}</span></span></div>`; }).join('');
+  const maxB = Math.max(1, ...d.duraciones.map(b => b.n));
+  const g2 = `<div class="hist">${d.duraciones.map(b => `<div class="h-col" title="${b.et}: ${b.n}"><span class="h-n">${b.n || ''}</span><span class="h-bar${b.rapido ? ' gris' : ''}" style="height:${b.n ? Math.max(4, b.n / maxB * 100) : 0}%"></span><span class="h-et">${b.et}</span></div>`).join('')}</div>`;
+  const maxH = Math.max(1, ...d.porHora.map(x => x.n));
+  const g3 = d.porHora.length ? `<div class="horas">${d.porHora.map(x => `<span title="${hora(x.h)}: ${x.n} episodios" style="height:${x.n / maxH * 100}%"></span>`).join('')}</div>
+    <div class="eje"><span>${hora(d.porHora[0].h)}</span><span>${hora(d.porHora[d.porHora.length - 1].h)}</span></div>` : '<div class="vacio">Aún sin datos.</div>';
+  const maxE = Math.max(1, ...d.porEvento.map(e => e.n));
+  const ev = d.porEvento.map(e => `<div class="fila"><div class="nom" title="${esc(e.titulo)}">${esc(e.titulo)}</div><div class="barra"><div style="width:${Math.max(4, e.n / maxE * 100)}%"></div></div><div class="num">${e.n}</div><div class="num">$${$(e.gan)}<br><span class="neta">$${$(e.neta || 0)}</span></div><div class="num tenue">${dur(e.mediana)}</div></div>`).join('');
+  const rec = d.recientes.map(e => `<div class="rec"><span class="tenue">${hora(e.inicio)}</span><span class="nom">${esc(e.titulo)}</span><span class="num">${dur(e.dur)}</span><span class="num">$${$(e.gan)}<br><span class="neta">$${$(e.neta || 0)}</span></span></div>`).join('');
+  const errores = d.ejecucion && d.ejecucion.errores && d.ejecucion.errores.length ? `<div class="error">Última ejecución con problemas: ${esc(d.ejecucion.errores.at(-1))}</div>` : '';
+  app.innerHTML = `
+    <div class="top"><div><h1>Vigilante de arbitrajes</h1><div class="sub">Polymarket · modo simulado, sin dinero · datos desde ${hora(d.inicio)}</div></div>
+      <span class="pill ${enCurso ? 'ok' : 'esp'}"><i></i>${enCurso ? 'Midiendo ahora' : 'En pausa entre ejecuciones'} · actualizado ${hace(d.actualizado)}</span></div>
+    ${errores}
+    <div class="kpis">
+      <div class="k"><b>${ent(d.total)}</b><span>episodios verificados</span></div>
+      <div class="k"><b>${d.mediana === null ? '—' : dur(d.mediana)}</b><span>duración típica (mediana)</span></div>
+      <div class="k"><b>$${$(d.captura[1] ? (d.captura[1].neta || 0) : 0)}</b><span>neto capturable en 2 s (bruto $${$(d.captura[1] ? d.captura[1].gan : 0)})</span></div>
+      <div class="k"><b>${ent(d.rentables || 0)}</b><span>rentables tras comisiones, de ${ent(d.total)}</span></div>
+    </div>
+    <div class="carta"><h2>¿Los habría capturado?</h2><div class="nota">Porcentaje de episodios que seguían vivos después del tiempo de reacción del bot, y ganancia simulada.</div>${g1}<div class="leyenda"><span>$ bruta (sin comisiones)</span><span class="neta">→ $ neta (pagando comisiones)</span></div></div>
+    <div class="carta"><h2>¿Cuánto duran?</h2><div class="nota">Episodios según su duración. En gris, los de menos de 1 segundo (solo para bots profesionales).</div>${g2}</div>
+    <div class="carta"><h2>Actividad por hora</h2><div class="nota">Episodios detectados en cada hora (hora de Lima).</div>${g3}</div>
+    <div class="carta"><h2>Dónde aparecen</h2><div class="nota">Eventos con más episodios.</div>
+      <div class="fila cab"><div>Evento</div><div></div><div class="num">Nº</div><div class="num">Bruta / <span class="neta">neta</span></div><div class="num">Duración</div></div>${ev || '<div class="vacio">Aún sin datos.</div>'}</div>
+    <div class="carta"><h2>Últimos episodios</h2>
+      <div class="rec cab"><span>Fecha y hora</span><span>Evento</span><span class="num">Duró</span><span class="num">Bruta / <span class="neta">neta</span></span></div>${rec || '<div class="vacio">Aún sin datos.</div>'}</div>
+    <div class="sub">Episodios no confirmados por una consulta directa: ${d.falsos} (no se cuentan). La página se actualiza sola cada 2 minutos.</div>`;
+}
+async function cargar() {
+  try {
+    const r = await fetch('data/resumen.json?t=' + Date.now(), { cache: 'no-store' });
+    if (!r.ok) throw new Error('aún no hay datos');
+    pintar(await r.json());
+  } catch (e) {
+    document.getElementById('app').innerHTML = `<h1>Vigilante de arbitrajes</h1><div class="vacio" style="margin-top:10px">Todavía no hay resultados. Aparecerán cuando termine la primera ejecución del bot (unos 55 minutos).</div>`;
+  }
+}
+cargar(); setInterval(cargar, 120000);
+</script>
+</body>
+</html>
