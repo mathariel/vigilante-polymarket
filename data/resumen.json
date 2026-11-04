@@ -1,43 +1,43 @@
 {
- "actualizado": 1793784527075,
+ "actualizado": 1793798185963,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793781524461,
-  "fin": 1793784527075,
-  "mensajes": 4693577,
-  "reconexiones": 13,
-  "eventos": 525,
+  "inicio": 1793795185948,
+  "fin": 1793798185963,
+  "mensajes": 5082210,
+  "reconexiones": 3,
+  "eventos": 535,
   "errores": []
  },
- "total": 738,
- "falsos": 160,
+ "total": 745,
+ "falsos": 166,
  "largos": {
-  "episodios": 878,
-  "eventos": 43,
+  "episodios": 974,
+  "eventos": 44,
   "dias": 7
  },
- "mediana": 0.991,
+ "mediana": 0.988,
  "captura": [
   {
    "s": 0.5,
-   "n": 481,
-   "gan": 1195.59,
-   "nNeta": 115,
-   "neta": 206.22
+   "n": 484,
+   "gan": 1199.46,
+   "nNeta": 117,
+   "neta": 207.28
   },
   {
    "s": 2,
-   "n": 253,
-   "gan": 507.07,
-   "nNeta": 37,
-   "neta": 27.94
+   "n": 255,
+   "gan": 509.39,
+   "nNeta": 38,
+   "neta": 28.06
   },
   {
    "s": 5,
-   "n": 189,
-   "gan": 245.82,
-   "nNeta": 19,
-   "neta": 9.13
+   "n": 190,
+   "gan": 247.34,
+   "nNeta": 20,
+   "neta": 9.25
   },
   {
    "s": 30,
@@ -47,27 +47,27 @@
    "neta": 0.84
   }
  ],
- "rentables": 190,
+ "rentables": 194,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 123
+   "n": 125
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 248
+   "n": 251
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 178
+   "n": 179
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 138
+   "n": 139
   },
   {
    "et": "30 s–5 min",
@@ -139,9 +139,9 @@
   },
   {
    "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
-   "n": 27,
-   "gan": 16.97,
-   "neta": 0.15,
+   "n": 28,
+   "gan": 18.51,
+   "neta": 0.27,
    "mediana": 14.221
   },
   {
@@ -220,9 +220,73 @@
   {
    "h": 1793775600000,
    "n": 1
+  },
+  {
+   "h": 1793793600000,
+   "n": 3
+  },
+  {
+   "h": 1793797200000,
+   "n": 4
   }
  ],
  "recientes": [
+  {
+   "inicio": 1793797845007,
+   "titulo": "Ted Cruz # posts November 3 - November 10, 2026?",
+   "dur": 0.301,
+   "gan": 0.99,
+   "neta": 0.16,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793797843725,
+   "titulo": "Ted Cruz # posts November 3 - November 10, 2026?",
+   "dur": 0.026,
+   "gan": 1.7,
+   "neta": 0.8,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793797838307,
+   "titulo": "Ted Cruz # posts November 3 - November 10, 2026?",
+   "dur": 0.102,
+   "gan": 0.74,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793797829365,
+   "titulo": "Ted Cruz # posts November 3 - November 10, 2026?",
+   "dur": 0.552,
+   "gan": 1.17,
+   "neta": 0.35,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793796722003,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 0.031,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793795493238,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 3.028,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793795413522,
+   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
+   "dur": 6.343,
+   "gan": 1.54,
+   "neta": 0.12,
+   "lado": "si"
+  },
   {
    "inicio": 1793779149092,
    "titulo": "Highest temperature in London on November 4?",
@@ -286,62 +350,6 @@
    "gan": 0.85,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1793772738293,
-   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
-   "dur": 14.639,
-   "gan": 0.96,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793772734599,
-   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
-   "dur": 0.743,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793771747637,
-   "titulo": "Highest temperature in Sao Paulo on November 4?",
-   "dur": 0.038,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793771747592,
-   "titulo": "Highest temperature in Sao Paulo on November 4?",
-   "dur": 0.005,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793771576690,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 2.189,
-   "gan": 1.86,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793765899194,
-   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
-   "dur": 0.015,
-   "gan": 0.85,
-   "neta": 0.19,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793765216472,
-   "titulo": "Racing Club de Lens vs. Como 1907",
-   "dur": 293.28,
-   "gan": 3.84,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
