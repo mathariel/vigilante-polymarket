@@ -1,34 +1,34 @@
 {
- "actualizado": 1793748340032,
+ "actualizado": 1793751354060,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793745337211,
-  "fin": 1793748340032,
-  "mensajes": 5760510,
-  "reconexiones": 2,
-  "eventos": 549,
+  "inicio": 1793748351483,
+  "fin": 1793751354060,
+  "mensajes": 5885003,
+  "reconexiones": 0,
+  "eventos": 531,
   "errores": []
  },
- "total": 598,
- "falsos": 106,
+ "total": 611,
+ "falsos": 111,
  "largos": {
-  "episodios": 161,
-  "eventos": 19,
+  "episodios": 230,
+  "eventos": 21,
   "dias": 7
  },
- "mediana": 1.033,
+ "mediana": 1.028,
  "captura": [
   {
    "s": 0.5,
-   "n": 406,
-   "gan": 1057.47,
-   "nNeta": 81,
-   "neta": 186.88
+   "n": 411,
+   "gan": 1063.45,
+   "nNeta": 85,
+   "neta": 188.75
   },
   {
    "s": 2,
-   "n": 215,
-   "gan": 431.99,
+   "n": 216,
+   "gan": 432.79,
    "nNeta": 26,
    "neta": 22.51
   },
@@ -47,22 +47,22 @@
    "neta": 0.42
   }
  ],
- "rentables": 131,
+ "rentables": 138,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 86
+   "n": 92
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 203
+   "n": 208
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 146
+   "n": 148
   },
   {
    "et": "5–30 s",
@@ -125,10 +125,10 @@
   },
   {
    "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
-   "n": 25,
-   "gan": 24.06,
-   "neta": 2.03,
-   "mediana": 0.59
+   "n": 30,
+   "gan": 28.21,
+   "neta": 2.67,
+   "mediana": 0.702
   },
   {
    "titulo": "Club Atlético de Madrid vs. FC Bayern München",
@@ -187,10 +187,118 @@
   },
   {
    "h": 1793746800000,
-   "n": 23
+   "n": 34
+  },
+  {
+   "h": 1793750400000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1793750870916,
+   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
+   "dur": 0.105,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793750638800,
+   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
+   "dur": 0.766,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793750136706,
+   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
+   "dur": 4.263,
+   "gan": 1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793750092007,
+   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
+   "dur": 1.38,
+   "gan": 1.13,
+   "neta": 0.22,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793750091873,
+   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
+   "dur": 0.027,
+   "gan": 0.68,
+   "neta": 0.42,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793749464688,
+   "titulo": "Deportivo Tachira vs. Academia Puerto Cabello",
+   "dur": 0.548,
+   "gan": 0.98,
+   "neta": 0.57,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793749464327,
+   "titulo": "Deportivo Tachira vs. Academia Puerto Cabello",
+   "dur": 0.005,
+   "gan": 0.74,
+   "neta": 0.41,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793749464286,
+   "titulo": "Deportivo Tachira vs. Academia Puerto Cabello",
+   "dur": 0.024,
+   "gan": 1.09,
+   "neta": 0.54,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793749464259,
+   "titulo": "Deportivo Tachira vs. Academia Puerto Cabello",
+   "dur": 0.023,
+   "gan": 0.71,
+   "neta": 0.17,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793748841146,
+   "titulo": "Deportivo Tachira vs. Academia Puerto Cabello",
+   "dur": 0.817,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793748840999,
+   "titulo": "Deportivo Tachira vs. Academia Puerto Cabello",
+   "dur": 0.026,
+   "gan": 0.9,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793748840993,
+   "titulo": "Deportivo Tachira vs. Academia Puerto Cabello",
+   "dur": 0.006,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793748355195,
+   "titulo": "Republican House seats after the 2026 midterm elections?",
+   "dur": 0.166,
+   "gan": 0.52,
+   "neta": 0.02,
+   "lado": "si"
+  },
   {
    "inicio": 1793748202781,
    "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC - Halftime Result",
@@ -206,110 +314,6 @@
    "gan": 0.64,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1793747938891,
-   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
-   "dur": 0.444,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793747936834,
-   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
-   "dur": 0.381,
-   "gan": 0.82,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793747919978,
-   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
-   "dur": 0.052,
-   "gan": 0.69,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793747918589,
-   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
-   "dur": 1.388,
-   "gan": 3.81,
-   "neta": 1.05,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793747914450,
-   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
-   "dur": 0.015,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793747914129,
-   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
-   "dur": 0.212,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793747861417,
-   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
-   "dur": 0.702,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793747861340,
-   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
-   "dur": 0.049,
-   "gan": 0.66,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793747861128,
-   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
-   "dur": 0.211,
-   "gan": 0.9,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793747848922,
-   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
-   "dur": 12.206,
-   "gan": 2.53,
-   "neta": 0.64,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793747828303,
-   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
-   "dur": 0.25,
-   "gan": 1.54,
-   "neta": 0.23,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793747560567,
-   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
-   "dur": 2.122,
-   "gan": 0.99,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793747265261,
-   "titulo": "Israel Election: Ra'am # of seats?",
-   "dur": 0.021,
-   "gan": 5.73,
-   "neta": 5.12,
-   "lado": "no"
   }
  ]
 }
