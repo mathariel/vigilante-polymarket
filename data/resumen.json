@@ -1,73 +1,73 @@
 {
- "actualizado": 1793760397864,
+ "actualizado": 1793763414260,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793757395815,
-  "fin": 1793760397864,
-  "mensajes": 5227151,
+  "inicio": 1793760411400,
+  "fin": 1793763414260,
+  "mensajes": 4554842,
   "reconexiones": 0,
-  "eventos": 490,
+  "eventos": 484,
   "errores": []
  },
- "total": 710,
- "falsos": 132,
+ "total": 717,
+ "falsos": 142,
  "largos": {
-  "episodios": 510,
-  "eventos": 27,
+  "episodios": 554,
+  "eventos": 30,
   "dias": 7
  },
  "mediana": 0.991,
  "captura": [
   {
    "s": 0.5,
-   "n": 463,
-   "gan": 1162.64,
-   "nNeta": 109,
-   "neta": 205.32
+   "n": 468,
+   "gan": 1168.33,
+   "nNeta": 112,
+   "neta": 205.96
   },
   {
    "s": 2,
-   "n": 239,
-   "gan": 478.09,
-   "nNeta": 33,
-   "neta": 27.13
+   "n": 242,
+   "gan": 482.62,
+   "nNeta": 35,
+   "neta": 27.73
   },
   {
    "s": 5,
-   "n": 180,
-   "gan": 225.9,
-   "nNeta": 17,
-   "neta": 8.87
+   "n": 182,
+   "gan": 227.7,
+   "nNeta": 18,
+   "neta": 9.02
   },
   {
    "s": 30,
-   "n": 49,
-   "gan": 58.83,
+   "n": 50,
+   "gan": 59.7,
    "nNeta": 3,
    "neta": 0.84
   }
  ],
- "rentables": 182,
+ "rentables": 186,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 116
+   "n": 117
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 242
+   "n": 244
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 172
+   "n": 174
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 131
+   "n": 132
   },
   {
    "et": "30 s–5 min",
@@ -77,7 +77,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 9
+   "n": 10
   }
  ],
  "porEvento": [
@@ -199,10 +199,70 @@
   },
   {
    "h": 1793757600000,
-   "n": 57
+   "n": 60
+  },
+  {
+   "h": 1793761200000,
+   "n": 4
   }
  ],
  "recientes": [
+  {
+   "inicio": 1793762002874,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 0.201,
+   "gan": 0.76,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793761662798,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 327.766,
+   "gan": 1.12,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793761647486,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 1.063,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793761213797,
+   "titulo": "Highest temperature in Dallas on November 4?",
+   "dur": 0.767,
+   "gan": 0.56,
+   "neta": 0.04,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793760648513,
+   "titulo": "Balance of Power: 2026 Midterms",
+   "dur": 22.63,
+   "gan": 0.91,
+   "neta": 0.15,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793760644753,
+   "titulo": "Balance of Power: 2026 Midterms",
+   "dur": 2.237,
+   "gan": 0.91,
+   "neta": 0.15,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793760540854,
+   "titulo": "Balance of Power: 2026 Midterms",
+   "dur": 0.068,
+   "gan": 0.52,
+   "neta": 0.09,
+   "lado": "si"
+  },
   {
    "inicio": 1793759862184,
    "titulo": "Club Alianza Lima vs. CS Cienciano",
@@ -265,62 +325,6 @@
    "dur": 7.297,
    "gan": 0.69,
    "neta": 0.11,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793759530576,
-   "titulo": "SC Internacional vs. Coritiba FBC",
-   "dur": 0.227,
-   "gan": 1.62,
-   "neta": 0.85,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793759524753,
-   "titulo": "SC Internacional vs. Coritiba FBC",
-   "dur": 0.007,
-   "gan": 0.69,
-   "neta": 0.13,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793759523546,
-   "titulo": "SC Internacional vs. Coritiba FBC",
-   "dur": 1.163,
-   "gan": 2.55,
-   "neta": 1.85,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793759512803,
-   "titulo": "SC Internacional vs. Coritiba FBC",
-   "dur": 1.958,
-   "gan": 0.88,
-   "neta": 0.36,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793759512664,
-   "titulo": "SC Internacional vs. Coritiba FBC",
-   "dur": 0.029,
-   "gan": 1.3,
-   "neta": 0.77,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793759510519,
-   "titulo": "SC Internacional vs. Coritiba FBC",
-   "dur": 2.089,
-   "gan": 1.3,
-   "neta": 0.77,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793759461408,
-   "titulo": "SC Internacional vs. Coritiba FBC",
-   "dur": 0.629,
-   "gan": 0.63,
-   "neta": 0.38,
    "lado": "si"
   }
  ]
