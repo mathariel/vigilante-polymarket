@@ -1,73 +1,73 @@
 {
- "actualizado": 1793819284335,
+ "actualizado": 1793822296515,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793816284311,
-  "fin": 1793819284335,
-  "mensajes": 6790970,
-  "reconexiones": 0,
-  "eventos": 575,
+  "inicio": 1793819296493,
+  "fin": 1793822296515,
+  "mensajes": 7147028,
+  "reconexiones": 3,
+  "eventos": 578,
   "errores": []
  },
- "total": 915,
- "falsos": 223,
+ "total": 1028,
+ "falsos": 277,
  "largos": {
-  "episodios": 1547,
-  "eventos": 55,
+  "episodios": 1582,
+  "eventos": 59,
   "dias": 7
  },
- "mediana": 0.947,
+ "mediana": 0.826,
  "captura": [
   {
    "s": 0.5,
-   "n": 585,
-   "gan": 2176.65,
-   "nNeta": 142,
-   "neta": 224.1
+   "n": 620,
+   "gan": 2284.59,
+   "nNeta": 149,
+   "neta": 233.89
   },
   {
    "s": 2,
-   "n": 306,
-   "gan": 1408.22,
-   "nNeta": 48,
-   "neta": 33.37
+   "n": 314,
+   "gan": 1426.02,
+   "nNeta": 51,
+   "neta": 39.13
   },
   {
    "s": 5,
-   "n": 225,
-   "gan": 1111.59,
-   "nNeta": 26,
-   "neta": 12.38
+   "n": 229,
+   "gan": 1122.55,
+   "nNeta": 28,
+   "neta": 16.88
   },
   {
    "s": 30,
-   "n": 65,
-   "gan": 86.73,
+   "n": 66,
+   "gan": 88.08,
    "nNeta": 5,
    "neta": 2.33
   }
  ],
- "rentables": 240,
+ "rentables": 260,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 156
+   "n": 189
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 317
+   "n": 377
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 217
+   "n": 233
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 160
+   "n": 163
   },
   {
    "et": "30 s–5 min",
@@ -77,7 +77,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 17
+   "n": 18
   }
  ],
  "porEvento": [
@@ -89,18 +89,25 @@
    "mediana": 7.549
   },
   {
+   "titulo": "AEK vs. Real Madrid CF",
+   "n": 124,
+   "gan": 1087,
+   "neta": 20.42,
+   "mediana": 0.385
+  },
+  {
+   "titulo": "Fenerbahçe SK vs. Liverpool FC",
+   "n": 65,
+   "gan": 135.57,
+   "neta": 2.57,
+   "mediana": 0.418
+  },
+  {
    "titulo": "SC Internacional vs. Coritiba FBC",
    "n": 64,
    "gan": 80.85,
    "neta": 13.57,
    "mediana": 0.403
-  },
-  {
-   "titulo": "AEK vs. Real Madrid CF",
-   "n": 63,
-   "gan": 954.85,
-   "neta": 0.18,
-   "mediana": 0.789
   },
   {
    "titulo": "Mushuc Runa SC vs. Manta FC",
@@ -143,13 +150,6 @@
    "gan": 31.94,
    "neta": 4.11,
    "mediana": 0.702
-  },
-  {
-   "titulo": "Galatasaray SK vs. VfB Stuttgart",
-   "n": 30,
-   "gan": 106.67,
-   "neta": 31.57,
-   "mediana": 1.014
   }
  ],
  "porHora": [
@@ -248,127 +248,131 @@
   {
    "h": 1793815200000,
    "n": 77
+  },
+  {
+   "h": 1793818800000,
+   "n": 113
   }
  ],
  "recientes": [
   {
-   "inicio": 1793816287476,
+   "inicio": 1793819291134,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2996.838,
+   "dur": 3005.362,
    "gan": 1.35,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793818777224,
-   "titulo": "AEK vs. Real Madrid CF",
-   "dur": 0.111,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793818757795,
-   "titulo": "AEK vs. Real Madrid CF",
-   "dur": 2.778,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793818757705,
-   "titulo": "AEK vs. Real Madrid CF",
-   "dur": 0.075,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793818757387,
-   "titulo": "AEK vs. Real Madrid CF",
-   "dur": 0.303,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793818756950,
-   "titulo": "AEK vs. Real Madrid CF",
-   "dur": 0.075,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793818753357,
-   "titulo": "AEK vs. Real Madrid CF",
-   "dur": 3.351,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793818752523,
-   "titulo": "AEK vs. Real Madrid CF",
-   "dur": 0.779,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793817524436,
-   "titulo": "Al-Muharraq SC vs. Al Jazira (UAE)",
-   "dur": 5.543,
-   "gan": 4.4,
-   "neta": 0,
+   "inicio": 1793822230302,
+   "titulo": "Cardiff City FC vs. West Ham United FC",
+   "dur": 0.582,
+   "gan": 1.97,
+   "neta": 1.16,
    "lado": "no"
   },
   {
-   "inicio": 1793817505054,
-   "titulo": "Al-Muharraq SC vs. Al Jazira (UAE)",
-   "dur": 12.541,
-   "gan": 5,
+   "inicio": 1793821158140,
+   "titulo": "AEK vs. Real Madrid CF",
+   "dur": 0.921,
+   "gan": 1.25,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793821153968,
+   "titulo": "AEK vs. Real Madrid CF",
+   "dur": 0.16,
+   "gan": 2.95,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793821153748,
+   "titulo": "AEK vs. Real Madrid CF",
+   "dur": 0.113,
+   "gan": 3.2,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793821033206,
+   "titulo": "AEK vs. Real Madrid CF",
+   "dur": 2.461,
+   "gan": 4.09,
+   "neta": 2.11,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793821005791,
+   "titulo": "AEK vs. Real Madrid CF",
+   "dur": 22.33,
+   "gan": 6.54,
+   "neta": 3.49,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793821008809,
+   "titulo": "Al-Muharraq SC vs. Al Jazira (UAE)",
+   "dur": 0.072,
+   "gan": 6.78,
+   "neta": 5.27,
    "lado": "no"
   },
   {
-   "inicio": 1793817057520,
+   "inicio": 1793821004812,
    "titulo": "AEK vs. Real Madrid CF",
-   "dur": 0.067,
-   "gan": 0.87,
-   "neta": 0,
+   "dur": 0.416,
+   "gan": 1.17,
+   "neta": 0.49,
    "lado": "si"
   },
   {
-   "inicio": 1793816916221,
-   "titulo": "Fenerbahçe SK vs. Liverpool FC",
-   "dur": 0.728,
-   "gan": 0.7,
-   "neta": 0,
+   "inicio": 1793821004153,
+   "titulo": "AEK vs. Real Madrid CF",
+   "dur": 0.499,
+   "gan": 0.6,
+   "neta": 0.25,
    "lado": "si"
   },
   {
-   "inicio": 1793816915874,
-   "titulo": "Fenerbahçe SK vs. Liverpool FC",
-   "dur": 0.334,
-   "gan": 20.33,
-   "neta": 0,
+   "inicio": 1793821003911,
+   "titulo": "AEK vs. Real Madrid CF",
+   "dur": 0.031,
+   "gan": 0.6,
+   "neta": 0.25,
    "lado": "si"
   },
   {
-   "inicio": 1793816914494,
-   "titulo": "Fenerbahçe SK vs. Liverpool FC",
-   "dur": 0.17,
-   "gan": 0.7,
-   "neta": 0,
+   "inicio": 1793820998874,
+   "titulo": "AEK vs. Real Madrid CF",
+   "dur": 0.007,
+   "gan": 0.6,
+   "neta": 0.25,
    "lado": "si"
   },
   {
-   "inicio": 1793816756183,
-   "titulo": "Fenerbahçe SK vs. Liverpool FC",
-   "dur": 0.057,
-   "gan": 0.59,
-   "neta": 0,
+   "inicio": 1793820998831,
+   "titulo": "AEK vs. Real Madrid CF",
+   "dur": 0.002,
+   "gan": 0.6,
+   "neta": 0.25,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793820998617,
+   "titulo": "AEK vs. Real Madrid CF",
+   "dur": 0.011,
+   "gan": 0.6,
+   "neta": 0.25,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793820997780,
+   "titulo": "AEK vs. Real Madrid CF",
+   "dur": 0.804,
+   "gan": 0.6,
+   "neta": 0.25,
    "lado": "si"
   }
  ]
