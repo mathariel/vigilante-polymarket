@@ -1,48 +1,48 @@
 {
- "actualizado": 1793804218464,
+ "actualizado": 1793807230351,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793801218446,
-  "fin": 1793804218464,
-  "mensajes": 4997760,
-  "reconexiones": 0,
-  "eventos": 546,
+  "inicio": 1793804230330,
+  "fin": 1793807230351,
+  "mensajes": 5674533,
+  "reconexiones": 1,
+  "eventos": 551,
   "errores": []
  },
- "total": 783,
- "falsos": 172,
+ "total": 790,
+ "falsos": 176,
  "largos": {
-  "episodios": 1174,
-  "eventos": 49,
+  "episodios": 1218,
+  "eventos": 50,
   "dias": 7
  },
- "mediana": 0.95,
+ "mediana": 0.947,
  "captura": [
   {
    "s": 0.5,
-   "n": 504,
-   "gan": 1225.92,
+   "n": 507,
+   "gan": 1227.98,
    "nNeta": 128,
    "neta": 211.71
   },
   {
    "s": 2,
-   "n": 263,
-   "gan": 519.05,
+   "n": 264,
+   "gan": 519.68,
    "nNeta": 42,
    "neta": 29.01
   },
   {
    "s": 5,
-   "n": 192,
-   "gan": 248.49,
+   "n": 193,
+   "gan": 249.12,
    "nNeta": 22,
    "neta": 9.79
   },
   {
    "s": 30,
-   "n": 51,
-   "gan": 63.54,
+   "n": 52,
+   "gan": 64.17,
    "nNeta": 3,
    "neta": 0.84
   }
@@ -52,17 +52,17 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 133
+   "n": 136
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 270
+   "n": 272
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 188
+   "n": 189
   },
   {
    "et": "5–30 s",
@@ -72,7 +72,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 41
+   "n": 42
   },
   {
    "et": "> 5 min",
@@ -139,10 +139,10 @@
   },
   {
    "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
-   "n": 28,
-   "gan": 18.51,
+   "n": 29,
+   "gan": 19.08,
    "neta": 0.27,
-   "mediana": 14.221
+   "mediana": 10.983
   },
   {
    "titulo": "Club Atlético de Madrid vs. FC Bayern München",
@@ -232,9 +232,69 @@
   {
    "h": 1793800800000,
    "n": 13
+  },
+  {
+   "h": 1793804400000,
+   "n": 7
   }
  ],
  "recientes": [
+  {
+   "inicio": 1793806828783,
+   "titulo": "Stade Rennais FC 1901 vs. Olympiakós SFP",
+   "dur": 0.772,
+   "gan": 1.03,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793806828010,
+   "titulo": "Stade Rennais FC 1901 vs. Olympiakós SFP",
+   "dur": 0.305,
+   "gan": 0.71,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793806499889,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 0.023,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793806499804,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 0.03,
+   "gan": 1.22,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793805476168,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 0.011,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793805316206,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 159.808,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793804691088,
+   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
+   "dur": 1.635,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1793801314383,
    "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
@@ -297,62 +357,6 @@
    "dur": 1.511,
    "gan": 1.51,
    "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793801257780,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 4.178,
-   "gan": 1.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793801249180,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 3.368,
-   "gan": 0.92,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793801237241,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 0.716,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793801236531,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 0.505,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793801018526,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 0.06,
-   "gan": 1.86,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793799551297,
-   "titulo": "Ted Cruz # posts October 30 - November 6, 2026?",
-   "dur": 0.002,
-   "gan": 0.5,
-   "neta": 0.38,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793799550646,
-   "titulo": "Ted Cruz # posts October 30 - November 6, 2026?",
-   "dur": 0.552,
-   "gan": 0.67,
-   "neta": 0.51,
    "lado": "si"
   }
  ]
