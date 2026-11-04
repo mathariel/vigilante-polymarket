@@ -1,43 +1,43 @@
 {
- "actualizado": 1793798185963,
+ "actualizado": 1793801201132,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793795185948,
-  "fin": 1793798185963,
-  "mensajes": 5082210,
-  "reconexiones": 3,
-  "eventos": 535,
+  "inicio": 1793798201119,
+  "fin": 1793801201132,
+  "mensajes": 4931487,
+  "reconexiones": 0,
+  "eventos": 541,
   "errores": []
  },
- "total": 745,
- "falsos": 166,
+ "total": 771,
+ "falsos": 170,
  "largos": {
-  "episodios": 974,
-  "eventos": 44,
+  "episodios": 1104,
+  "eventos": 47,
   "dias": 7
  },
- "mediana": 0.988,
+ "mediana": 0.95,
  "captura": [
   {
    "s": 0.5,
-   "n": 484,
-   "gan": 1199.46,
-   "nNeta": 117,
-   "neta": 207.28
+   "n": 496,
+   "gan": 1216.66,
+   "nNeta": 125,
+   "neta": 211.26
   },
   {
    "s": 2,
-   "n": 255,
-   "gan": 509.39,
-   "nNeta": 38,
-   "neta": 28.06
+   "n": 258,
+   "gan": 512.62,
+   "nNeta": 40,
+   "neta": 28.6
   },
   {
    "s": 5,
-   "n": 190,
-   "gan": 247.34,
-   "nNeta": 20,
-   "neta": 9.25
+   "n": 192,
+   "gan": 248.49,
+   "nNeta": 22,
+   "neta": 9.79
   },
   {
    "s": 30,
@@ -47,27 +47,27 @@
    "neta": 0.84
   }
  ],
- "rentables": 194,
+ "rentables": 212,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 125
+   "n": 132
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 251
+   "n": 265
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 179
+   "n": 182
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 139
+   "n": 141
   },
   {
    "et": "30 s–5 min",
@@ -227,128 +227,132 @@
   },
   {
    "h": 1793797200000,
-   "n": 4
+   "n": 29
+  },
+  {
+   "h": 1793800800000,
+   "n": 1
   }
  ],
  "recientes": [
   {
-   "inicio": 1793797845007,
-   "titulo": "Ted Cruz # posts November 3 - November 10, 2026?",
-   "dur": 0.301,
-   "gan": 0.99,
-   "neta": 0.16,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793797843725,
-   "titulo": "Ted Cruz # posts November 3 - November 10, 2026?",
-   "dur": 0.026,
-   "gan": 1.7,
-   "neta": 0.8,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793797838307,
-   "titulo": "Ted Cruz # posts November 3 - November 10, 2026?",
-   "dur": 0.102,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793797829365,
-   "titulo": "Ted Cruz # posts November 3 - November 10, 2026?",
-   "dur": 0.552,
-   "gan": 1.17,
-   "neta": 0.35,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793796722003,
+   "inicio": 1793801018526,
    "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 0.031,
-   "gan": 0.63,
+   "dur": 0.06,
+   "gan": 1.86,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793795493238,
-   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
-   "dur": 3.028,
-   "gan": 0.8,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793795413522,
-   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
-   "dur": 6.343,
-   "gan": 1.54,
-   "neta": 0.12,
+   "inicio": 1793799551297,
+   "titulo": "Ted Cruz # posts October 30 - November 6, 2026?",
+   "dur": 0.002,
+   "gan": 0.5,
+   "neta": 0.38,
    "lado": "si"
   },
   {
-   "inicio": 1793779149092,
-   "titulo": "Highest temperature in London on November 4?",
-   "dur": 0.016,
-   "gan": 0.75,
-   "neta": 0,
+   "inicio": 1793799550646,
+   "titulo": "Ted Cruz # posts October 30 - November 6, 2026?",
+   "dur": 0.552,
+   "gan": 0.67,
+   "neta": 0.51,
    "lado": "si"
   },
   {
-   "inicio": 1793775419925,
-   "titulo": "Highest temperature in Beijing on November 4?",
-   "dur": 0.016,
-   "gan": 5.09,
-   "neta": 4.18,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793772993311,
-   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
-   "dur": 0.318,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793772831628,
-   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
-   "dur": 2.916,
+   "inicio": 1793799550586,
+   "titulo": "Ted Cruz # posts October 30 - November 6, 2026?",
+   "dur": 0.027,
    "gan": 0.57,
+   "neta": 0.42,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793799181190,
+   "titulo": "Buriram United vs. Kashima Antlers",
+   "dur": 0.73,
+   "gan": 2.05,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793799126396,
+   "titulo": "Buriram United vs. Kashima Antlers",
+   "dur": 1.985,
+   "gan": 1.5,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793799126071,
+   "titulo": "Buriram United vs. Kashima Antlers",
+   "dur": 0.299,
+   "gan": 1.6,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793799122929,
+   "titulo": "Buriram United vs. Kashima Antlers",
+   "dur": 3.12,
+   "gan": 2.08,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793772784626,
-   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
-   "dur": 2.137,
-   "gan": 0.69,
-   "neta": 0.15,
+   "inicio": 1793799091571,
+   "titulo": "Buriram United vs. Kashima Antlers",
+   "dur": 0.813,
+   "gan": 0.68,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793772783519,
-   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
-   "dur": 0.46,
+   "inicio": 1793799090803,
+   "titulo": "Buriram United vs. Kashima Antlers",
+   "dur": 0.768,
+   "gan": 0.65,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793799090589,
+   "titulo": "Buriram United vs. Kashima Antlers",
+   "dur": 0.171,
+   "gan": 1.94,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793799074486,
+   "titulo": "Buriram United vs. Kashima Antlers",
+   "dur": 0.666,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793799053887,
+   "titulo": "Buriram United vs. Kashima Antlers",
+   "dur": 6.127,
+   "gan": 0.55,
+   "neta": 0.24,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793799053594,
+   "titulo": "Buriram United vs. Kashima Antlers",
+   "dur": 0.118,
    "gan": 0.63,
-   "neta": 0,
+   "neta": 0.13,
    "lado": "si"
   },
   {
-   "inicio": 1793772776074,
-   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
-   "dur": 6.89,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793772756273,
-   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
-   "dur": 18.195,
-   "gan": 0.85,
-   "neta": 0,
+   "inicio": 1793799052553,
+   "titulo": "Buriram United vs. Kashima Antlers",
+   "dur": 0.718,
+   "gan": 1.08,
+   "neta": 0.02,
    "lado": "si"
   }
  ]
