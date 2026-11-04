@@ -1,43 +1,43 @@
 {
- "actualizado": 1793772458670,
+ "actualizado": 1793775476834,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793769456421,
-  "fin": 1793772458670,
-  "mensajes": 5499816,
-  "reconexiones": 1,
-  "eventos": 490,
+  "inicio": 1793772472607,
+  "fin": 1793775476834,
+  "mensajes": 5314509,
+  "reconexiones": 2,
+  "eventos": 493,
   "errores": []
  },
- "total": 728,
- "falsos": 151,
+ "total": 737,
+ "falsos": 156,
  "largos": {
-  "episodios": 722,
-  "eventos": 36,
+  "episodios": 741,
+  "eventos": 38,
   "dias": 7
  },
  "mediana": 0.991,
  "captura": [
   {
    "s": 0.5,
-   "n": 475,
-   "gan": 1190.55,
-   "nNeta": 113,
-   "neta": 206.01
+   "n": 481,
+   "gan": 1195.59,
+   "nNeta": 115,
+   "neta": 206.22
   },
   {
    "s": 2,
-   "n": 248,
-   "gan": 502.9,
-   "nNeta": 35,
-   "neta": 27.73
+   "n": 253,
+   "gan": 507.07,
+   "nNeta": 37,
+   "neta": 27.94
   },
   {
    "s": 5,
-   "n": 186,
-   "gan": 243.06,
-   "nNeta": 18,
-   "neta": 9.02
+   "n": 189,
+   "gan": 245.82,
+   "nNeta": 19,
+   "neta": 9.13
   },
   {
    "s": 30,
@@ -47,27 +47,27 @@
    "neta": 0.84
   }
  ],
- "rentables": 188,
+ "rentables": 190,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 121
+   "n": 122
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 245
+   "n": 248
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 176
+   "n": 178
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 135
+   "n": 138
   },
   {
    "et": "30 s–5 min",
@@ -138,18 +138,18 @@
    "mediana": 1.014
   },
   {
+   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
+   "n": 27,
+   "gan": 16.97,
+   "neta": 0.15,
+   "mediana": 14.221
+  },
+  {
    "titulo": "Club Atlético de Madrid vs. FC Bayern München",
    "n": 24,
    "gan": 44.37,
    "neta": 0,
    "mediana": 1.281
-  },
-  {
-   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
-   "n": 19,
-   "gan": 11.58,
-   "neta": 0,
-   "mediana": 58.901
   }
  ],
  "porHora": [
@@ -212,9 +212,85 @@
   {
    "h": 1793768400000,
    "n": 3
+  },
+  {
+   "h": 1793772000000,
+   "n": 9
   }
  ],
  "recientes": [
+  {
+   "inicio": 1793775419925,
+   "titulo": "Highest temperature in Beijing on November 4?",
+   "dur": 0.016,
+   "gan": 5.09,
+   "neta": 4.18,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793772993311,
+   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
+   "dur": 0.318,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793772831628,
+   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
+   "dur": 2.916,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793772784626,
+   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
+   "dur": 2.137,
+   "gan": 0.69,
+   "neta": 0.15,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793772783519,
+   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
+   "dur": 0.46,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793772776074,
+   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
+   "dur": 6.89,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793772756273,
+   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
+   "dur": 18.195,
+   "gan": 0.85,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793772738293,
+   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
+   "dur": 14.639,
+   "gan": 0.96,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793772734599,
+   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
+   "dur": 0.743,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1793771747637,
    "titulo": "Highest temperature in Sao Paulo on November 4?",
@@ -262,78 +338,6 @@
    "gan": 3.84,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1793765178124,
-   "titulo": "Racing Club de Lens vs. Como 1907",
-   "dur": 8.495,
-   "gan": 3.84,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793765167966,
-   "titulo": "Racing Club de Lens vs. Como 1907",
-   "dur": 3.789,
-   "gan": 3.84,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793765150765,
-   "titulo": "Racing Club de Lens vs. Como 1907",
-   "dur": 5.028,
-   "gan": 1.09,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793764226593,
-   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
-   "dur": 0.045,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793764225815,
-   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
-   "dur": 0.725,
-   "gan": 0.66,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793762002874,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 0.201,
-   "gan": 0.76,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793761662798,
-   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
-   "dur": 327.766,
-   "gan": 1.12,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793761647486,
-   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
-   "dur": 1.063,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793761213797,
-   "titulo": "Highest temperature in Dallas on November 4?",
-   "dur": 0.767,
-   "gan": 0.56,
-   "neta": 0.04,
-   "lado": "si"
   }
  ]
 }
