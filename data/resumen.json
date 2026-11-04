@@ -1,83 +1,83 @@
 {
- "actualizado": 1793831334177,
+ "actualizado": 1793834344450,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793828334147,
-  "fin": 1793831334177,
-  "mensajes": 6190136,
-  "reconexiones": 2,
-  "eventos": 563,
+  "inicio": 1793831344427,
+  "fin": 1793834344450,
+  "mensajes": 5766875,
+  "reconexiones": 1,
+  "eventos": 567,
   "errores": []
  },
- "total": 1422,
- "falsos": 429,
+ "total": 1451,
+ "falsos": 430,
  "largos": {
-  "episodios": 1672,
-  "eventos": 60,
+  "episodios": 1821,
+  "eventos": 62,
   "dias": 7
  },
- "mediana": 0.82,
+ "mediana": 0.823,
  "captura": [
   {
    "s": 0.5,
-   "n": 837,
-   "gan": 3151.64,
+   "n": 856,
+   "gan": 3175.11,
    "nNeta": 182,
    "neta": 334.98
   },
   {
    "s": 2,
-   "n": 451,
-   "gan": 1608.11,
+   "n": 463,
+   "gan": 1626.98,
    "nNeta": 64,
    "neta": 42.79
   },
   {
    "s": 5,
-   "n": 328,
-   "gan": 1202.81,
+   "n": 339,
+   "gan": 1221.11,
    "nNeta": 33,
    "neta": 18.24
   },
   {
    "s": 30,
-   "n": 112,
-   "gan": 122.12,
+   "n": 118,
+   "gan": 137.43,
    "nNeta": 8,
    "neta": 3.31
   }
  ],
- "rentables": 326,
+ "rentables": 327,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 293
+   "n": 295
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 494
+   "n": 505
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 307
+   "n": 312
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 216
+   "n": 221
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 87
+   "n": 91
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 25
+   "n": 27
   }
  ],
  "porEvento": [
@@ -97,8 +97,8 @@
   },
   {
    "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "n": 95,
-   "gan": 62.04,
+   "n": 100,
+   "gan": 64.69,
    "neta": 1.7,
    "mediana": 26.209
   },
@@ -263,128 +263,132 @@
   },
   {
    "h": 1793829600000,
-   "n": 15
+   "n": 37
+  },
+  {
+   "h": 1793833200000,
+   "n": 7
   }
  ],
  "recientes": [
   {
-   "inicio": 1793828462225,
-   "titulo": "Cardiff City FC vs. West Ham United FC",
-   "dur": 2871.926,
-   "gan": 0.69,
-   "neta": 0.55,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793828328836,
+   "inicio": 1793831337697,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3005.315,
-   "gan": 1.05,
+   "dur": 3006.733,
+   "gan": 12.02,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793831134411,
-   "titulo": "How many House seats will the Democrats win in Michigan?",
-   "dur": 0.018,
-   "gan": 0.58,
-   "neta": 0.53,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793829825062,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 1166.05,
-   "gan": 1.19,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793830936464,
-   "titulo": "Highest temperature in Cape Town on November 5?",
-   "dur": 13.517,
-   "gan": 0.75,
+   "inicio": 1793834337480,
+   "titulo": "CA Paranaense vs. CR Vasco da Gama",
+   "dur": 0.848,
+   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793830478016,
-   "titulo": "How many Israeli elections before government formed?",
-   "dur": 0.158,
+   "inicio": 1793834329693,
+   "titulo": "CA Paranaense vs. CR Vasco da Gama",
+   "dur": 1.555,
    "gan": 0.59,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1793830139333,
-   "titulo": "October Unemployment Rate",
-   "dur": 302.398,
-   "gan": 0.55,
+   "inicio": 1793834288307,
+   "titulo": "CA Paranaense vs. CR Vasco da Gama",
+   "dur": 1.432,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793834287539,
+   "titulo": "CA Paranaense vs. CR Vasco da Gama",
+   "dur": 0.442,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793834286137,
+   "titulo": "CA Paranaense vs. CR Vasco da Gama",
+   "dur": 1.237,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793833897009,
+   "titulo": "CA Paranaense vs. CR Vasco da Gama",
+   "dur": 0.554,
+   "gan": 0.87,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793833246039,
+   "titulo": "CA Paranaense vs. CR Vasco da Gama",
+   "dur": 1.077,
+   "gan": 1.13,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793833136446,
+   "titulo": "CA Paranaense vs. CR Vasco da Gama",
+   "dur": 0.482,
+   "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793830260855,
-   "titulo": "How many Israeli elections before government formed?",
-   "dur": 0.254,
-   "gan": 0.55,
+   "inicio": 1793832989354,
+   "titulo": "CA Paranaense vs. CR Vasco da Gama",
+   "dur": 0.38,
+   "gan": 1.6,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793830095770,
-   "titulo": "How many Israeli elections before government formed?",
-   "dur": 48.558,
-   "gan": 0.79,
+   "inicio": 1793832978872,
+   "titulo": "CA Paranaense vs. CR Vasco da Gama",
+   "dur": 0.139,
+   "gan": 0.54,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793830091552,
-   "titulo": "How many Israeli elections before government formed?",
-   "dur": 4.196,
-   "gan": 0.75,
+   "inicio": 1793832978834,
+   "titulo": "CA Paranaense vs. CR Vasco da Gama",
+   "dur": 0.029,
+   "gan": 0.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793830090439,
-   "titulo": "How many Israeli elections before government formed?",
-   "dur": 0.252,
-   "gan": 0.55,
+   "inicio": 1793832978604,
+   "titulo": "CA Paranaense vs. CR Vasco da Gama",
+   "dur": 0.1,
+   "gan": 0.9,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793830083256,
-   "titulo": "How many Israeli elections before government formed?",
-   "dur": 6.831,
-   "gan": 0.67,
+   "inicio": 1793832978243,
+   "titulo": "CA Paranaense vs. CR Vasco da Gama",
+   "dur": 0.016,
+   "gan": 1,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793830068809,
-   "titulo": "How many Israeli elections before government formed?",
-   "dur": 13.581,
-   "gan": 0.73,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793830064973,
-   "titulo": "How many Israeli elections before government formed?",
-   "dur": 3.076,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793830064348,
-   "titulo": "How many Israeli elections before government formed?",
-   "dur": 0.138,
-   "gan": 0.55,
-   "neta": 0,
+   "inicio": 1793832977569,
+   "titulo": "CA Paranaense vs. CR Vasco da Gama",
+   "dur": 0.177,
+   "gan": 10.68,
+   "neta": 1.41,
    "lado": "si"
   }
  ]
