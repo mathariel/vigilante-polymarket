@@ -1,19 +1,19 @@
 {
- "actualizado": 1793781513349,
+ "actualizado": 1793784527075,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793778510399,
-  "fin": 1793781513349,
-  "mensajes": 5139961,
-  "reconexiones": 10,
-  "eventos": 518,
+  "inicio": 1793781524461,
+  "fin": 1793784527075,
+  "mensajes": 4693577,
+  "reconexiones": 13,
+  "eventos": 525,
   "errores": []
  },
  "total": 738,
- "falsos": 159,
+ "falsos": 160,
  "largos": {
-  "episodios": 856,
-  "eventos": 40,
+  "episodios": 878,
+  "eventos": 43,
   "dias": 7
  },
  "mediana": 0.991,
