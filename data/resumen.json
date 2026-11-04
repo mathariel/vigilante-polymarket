@@ -1,18 +1,18 @@
 {
- "actualizado": 1793816270664,
+ "actualizado": 1793819284335,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793813270646,
-  "fin": 1793816270664,
-  "mensajes": 6356967,
+  "inicio": 1793816284311,
+  "fin": 1793819284335,
+  "mensajes": 6790970,
   "reconexiones": 0,
-  "eventos": 579,
+  "eventos": 575,
   "errores": []
  },
- "total": 886,
- "falsos": 218,
+ "total": 915,
+ "falsos": 223,
  "largos": {
-  "episodios": 1511,
+  "episodios": 1547,
   "eventos": 55,
   "dias": 7
  },
@@ -20,29 +20,29 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 567,
-   "gan": 2128.17,
+   "n": 585,
+   "gan": 2176.65,
    "nNeta": 142,
    "neta": 224.1
   },
   {
    "s": 2,
-   "n": 296,
-   "gan": 1373.71,
+   "n": 306,
+   "gan": 1408.22,
    "nNeta": 48,
    "neta": 33.37
   },
   {
    "s": 5,
-   "n": 218,
-   "gan": 1077.24,
+   "n": 225,
+   "gan": 1111.59,
    "nNeta": 26,
    "neta": 12.38
   },
   {
    "s": 30,
-   "n": 64,
-   "gan": 85.38,
+   "n": 65,
+   "gan": 86.73,
    "nNeta": 5,
    "neta": 2.33
   }
@@ -52,22 +52,22 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 150
+   "n": 156
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 309
+   "n": 317
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 209
+   "n": 217
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 154
+   "n": 160
   },
   {
    "et": "30 s–5 min",
@@ -77,7 +77,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 16
+   "n": 17
   }
  ],
  "porEvento": [
@@ -96,6 +96,13 @@
    "mediana": 0.403
   },
   {
+   "titulo": "AEK vs. Real Madrid CF",
+   "n": 63,
+   "gan": 954.85,
+   "neta": 0.18,
+   "mediana": 0.789
+  },
+  {
    "titulo": "Mushuc Runa SC vs. Manta FC",
    "n": 57,
    "gan": 221.92,
@@ -108,13 +115,6 @@
    "gan": 230.05,
    "neta": 51.85,
    "mediana": 0.62
-  },
-  {
-   "titulo": "AEK vs. Real Madrid CF",
-   "n": 46,
-   "gan": 937.07,
-   "neta": 0.18,
-   "mediana": 0.891
   },
   {
    "titulo": "Massachusetts Senate Election: Turnout",
@@ -247,128 +247,128 @@
   },
   {
    "h": 1793815200000,
-   "n": 48
+   "n": 77
   }
  ],
  "recientes": [
   {
-   "inicio": 1793813275510,
+   "inicio": 1793816287476,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2995.14,
+   "dur": 2996.838,
    "gan": 1.35,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793816239692,
+   "inicio": 1793818777224,
    "titulo": "AEK vs. Real Madrid CF",
-   "dur": 2.562,
-   "gan": 1.62,
+   "dur": 0.111,
+   "gan": 0.54,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793816228644,
-   "titulo": "Fenerbahçe SK vs. Liverpool FC",
-   "dur": 5.54,
-   "gan": 5.29,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793816198346,
-   "titulo": "Fenerbahçe SK vs. Liverpool FC",
-   "dur": 5.372,
-   "gan": 2.41,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793816170841,
+   "inicio": 1793818757795,
    "titulo": "AEK vs. Real Madrid CF",
-   "dur": 0.209,
-   "gan": 0.77,
+   "dur": 2.778,
+   "gan": 0.62,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793816123272,
-   "titulo": "Fenerbahçe SK vs. Liverpool FC",
-   "dur": 14.951,
-   "gan": 1.34,
+   "inicio": 1793818757705,
+   "titulo": "AEK vs. Real Madrid CF",
+   "dur": 0.075,
+   "gan": 0.56,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793816131554,
-   "titulo": "AEK vs. Real Madrid CF - Halftime Result",
-   "dur": 0.997,
+   "inicio": 1793818757387,
+   "titulo": "AEK vs. Real Madrid CF",
+   "dur": 0.303,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793818756950,
+   "titulo": "AEK vs. Real Madrid CF",
+   "dur": 0.075,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793818753357,
+   "titulo": "AEK vs. Real Madrid CF",
+   "dur": 3.351,
    "gan": 0.5,
-   "neta": 0.04,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793818752523,
+   "titulo": "AEK vs. Real Madrid CF",
+   "dur": 0.779,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793817524436,
+   "titulo": "Al-Muharraq SC vs. Al Jazira (UAE)",
+   "dur": 5.543,
+   "gan": 4.4,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793816127614,
+   "inicio": 1793817505054,
+   "titulo": "Al-Muharraq SC vs. Al Jazira (UAE)",
+   "dur": 12.541,
+   "gan": 5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793817057520,
    "titulo": "AEK vs. Real Madrid CF",
-   "dur": 0.153,
-   "gan": 0.51,
+   "dur": 0.067,
+   "gan": 0.87,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793816126996,
-   "titulo": "AEK vs. Real Madrid CF",
-   "dur": 0.588,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793816126492,
-   "titulo": "AEK vs. Real Madrid CF",
-   "dur": 0.476,
-   "gan": 1.34,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793816123041,
+   "inicio": 1793816916221,
    "titulo": "Fenerbahçe SK vs. Liverpool FC",
-   "dur": 0.01,
-   "gan": 1.34,
+   "dur": 0.728,
+   "gan": 0.7,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793816122601,
+   "inicio": 1793816915874,
    "titulo": "Fenerbahçe SK vs. Liverpool FC",
-   "dur": 0.418,
-   "gan": 0.55,
+   "dur": 0.334,
+   "gan": 20.33,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793816118040,
-   "titulo": "AEK vs. Real Madrid CF",
-   "dur": 0.173,
-   "gan": 0.6,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793816115926,
-   "titulo": "AEK vs. Real Madrid CF",
-   "dur": 0.573,
-   "gan": 0.64,
+   "inicio": 1793816914494,
+   "titulo": "Fenerbahçe SK vs. Liverpool FC",
+   "dur": 0.17,
+   "gan": 0.7,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793816115463,
-   "titulo": "AEK vs. Real Madrid CF",
-   "dur": 0.03,
-   "gan": 0.85,
-   "neta": 0.02,
+   "inicio": 1793816756183,
+   "titulo": "Fenerbahçe SK vs. Liverpool FC",
+   "dur": 0.057,
+   "gan": 0.59,
+   "neta": 0,
    "lado": "si"
   }
  ]
