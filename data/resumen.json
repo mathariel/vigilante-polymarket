@@ -1,78 +1,78 @@
 {
- "actualizado": 1793763414260,
+ "actualizado": 1793766428664,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793760411400,
-  "fin": 1793763414260,
-  "mensajes": 4554842,
+  "inicio": 1793763426037,
+  "fin": 1793766428664,
+  "mensajes": 4257455,
   "reconexiones": 0,
-  "eventos": 484,
+  "eventos": 488,
   "errores": []
  },
- "total": 717,
- "falsos": 142,
+ "total": 725,
+ "falsos": 146,
  "largos": {
-  "episodios": 554,
-  "eventos": 30,
+  "episodios": 619,
+  "eventos": 31,
   "dias": 7
  },
  "mediana": 0.991,
  "captura": [
   {
    "s": 0.5,
-   "n": 468,
-   "gan": 1168.33,
-   "nNeta": 112,
-   "neta": 205.96
+   "n": 474,
+   "gan": 1188.42,
+   "nNeta": 113,
+   "neta": 206.01
   },
   {
    "s": 2,
-   "n": 242,
-   "gan": 482.62,
+   "n": 247,
+   "gan": 501.82,
    "nNeta": 35,
    "neta": 27.73
   },
   {
    "s": 5,
-   "n": 182,
-   "gan": 227.7,
+   "n": 186,
+   "gan": 243.06,
    "nNeta": 18,
    "neta": 9.02
   },
   {
    "s": 30,
-   "n": 50,
-   "gan": 59.7,
+   "n": 51,
+   "gan": 63.54,
    "nNeta": 3,
    "neta": 0.84
   }
  ],
- "rentables": 186,
+ "rentables": 188,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 117
+   "n": 119
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 244
+   "n": 245
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 174
+   "n": 175
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 132
+   "n": 135
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 40
+   "n": 41
   },
   {
    "et": "> 5 min",
@@ -203,10 +203,78 @@
   },
   {
    "h": 1793761200000,
-   "n": 4
+   "n": 6
+  },
+  {
+   "h": 1793764800000,
+   "n": 6
   }
  ],
  "recientes": [
+  {
+   "inicio": 1793765899194,
+   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
+   "dur": 0.015,
+   "gan": 0.85,
+   "neta": 0.19,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793765216472,
+   "titulo": "Racing Club de Lens vs. Como 1907",
+   "dur": 293.28,
+   "gan": 3.84,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793765191539,
+   "titulo": "Racing Club de Lens vs. Como 1907",
+   "dur": 20.083,
+   "gan": 3.84,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793765178124,
+   "titulo": "Racing Club de Lens vs. Como 1907",
+   "dur": 8.495,
+   "gan": 3.84,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793765167966,
+   "titulo": "Racing Club de Lens vs. Como 1907",
+   "dur": 3.789,
+   "gan": 3.84,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793765150765,
+   "titulo": "Racing Club de Lens vs. Como 1907",
+   "dur": 5.028,
+   "gan": 1.09,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793764226593,
+   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
+   "dur": 0.045,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793764225815,
+   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
+   "dur": 0.725,
+   "gan": 0.66,
+   "neta": 0.03,
+   "lado": "si"
+  },
   {
    "inicio": 1793762002874,
    "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
@@ -261,70 +329,6 @@
    "dur": 0.068,
    "gan": 0.52,
    "neta": 0.09,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793759862184,
-   "titulo": "Club Alianza Lima vs. CS Cienciano",
-   "dur": 3.427,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793759861791,
-   "titulo": "Club Alianza Lima vs. CS Cienciano",
-   "dur": 0.366,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793759818792,
-   "titulo": "SC Internacional vs. Coritiba FBC",
-   "dur": 0.27,
-   "gan": 0.5,
-   "neta": 0.19,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793759814890,
-   "titulo": "SC Internacional vs. Coritiba FBC",
-   "dur": 0.173,
-   "gan": 0.5,
-   "neta": 0.19,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793759767484,
-   "titulo": "Club Alianza Lima vs. CS Cienciano",
-   "dur": 0.182,
-   "gan": 2.93,
-   "neta": 2.41,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793759685924,
-   "titulo": "SC Internacional vs. Coritiba FBC",
-   "dur": 0.219,
-   "gan": 0.67,
-   "neta": 0.16,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793759682246,
-   "titulo": "SC Internacional vs. Coritiba FBC",
-   "dur": 1.354,
-   "gan": 0.93,
-   "neta": 0.47,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793759621062,
-   "titulo": "Balance of Power: 2026 Midterms",
-   "dur": 7.297,
-   "gan": 0.69,
-   "neta": 0.11,
    "lado": "si"
   }
  ]
