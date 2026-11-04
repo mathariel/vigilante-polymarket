@@ -1,78 +1,78 @@
 {
- "actualizado": 1793754367346,
+ "actualizado": 1793757380791,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793751364693,
-  "fin": 1793754367346,
-  "mensajes": 5339644,
+  "inicio": 1793754377810,
+  "fin": 1793757380791,
+  "mensajes": 5711537,
   "reconexiones": 0,
-  "eventos": 510,
+  "eventos": 505,
   "errores": []
  },
- "total": 628,
- "falsos": 118,
+ "total": 653,
+ "falsos": 122,
  "largos": {
-  "episodios": 386,
-  "eventos": 21,
+  "episodios": 431,
+  "eventos": 23,
   "dias": 7
  },
- "mediana": 1.031,
+ "mediana": 1.029,
  "captura": [
   {
    "s": 0.5,
-   "n": 423,
-   "gan": 1079.65,
-   "nNeta": 87,
-   "neta": 190.45
+   "n": 434,
+   "gan": 1109.54,
+   "nNeta": 89,
+   "neta": 193.85
   },
   {
    "s": 2,
-   "n": 222,
-   "gan": 440.05,
+   "n": 229,
+   "gan": 457.24,
    "nNeta": 27,
    "neta": 23.95
   },
   {
    "s": 5,
-   "n": 168,
-   "gan": 199.22,
+   "n": 174,
+   "gan": 215.25,
    "nNeta": 13,
    "neta": 7.92
   },
   {
    "s": 30,
-   "n": 45,
-   "gan": 48.27,
+   "n": 48,
+   "gan": 56.28,
    "nNeta": 2,
    "neta": 0.42
   }
  ],
- "rentables": 142,
+ "rentables": 147,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 92
+   "n": 101
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 213
+   "n": 219
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 155
+   "n": 159
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 123
+   "n": 126
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 36
+   "n": 39
   },
   {
    "et": "> 5 min",
@@ -138,18 +138,18 @@
    "mediana": 1.281
   },
   {
+   "titulo": "SC Internacional vs. Coritiba FBC",
+   "n": 21,
+   "gan": 26.64,
+   "neta": 1.12,
+   "mediana": 0.282
+  },
+  {
    "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
    "n": 19,
    "gan": 11.58,
    "neta": 0,
    "mediana": 58.901
-  },
-  {
-   "titulo": "CD Comerciantes Unidos vs. AD Tarma",
-   "n": 19,
-   "gan": 26.15,
-   "neta": 1.12,
-   "mediana": 1.122
   }
  ],
  "porHora": [
@@ -195,129 +195,129 @@
   },
   {
    "h": 1793754000000,
-   "n": 2
+   "n": 27
   }
  ],
  "recientes": [
   {
-   "inicio": 1793754109875,
+   "inicio": 1793757194242,
    "titulo": "SC Internacional vs. Coritiba FBC",
-   "dur": 6.759,
-   "gan": 1.3,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793754063999,
-   "titulo": "SC Internacional vs. Coritiba FBC",
-   "dur": 1.269,
-   "gan": 0.55,
+   "dur": 0.535,
+   "gan": 0.58,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793753118149,
-   "titulo": "Balance of Power: 2026 Midterms",
-   "dur": 319.395,
-   "gan": 0.92,
+   "inicio": 1793757194134,
+   "titulo": "SC Internacional vs. Coritiba FBC",
+   "dur": 0.088,
+   "gan": 0.58,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793753286047,
-   "titulo": "AD Pasto vs. Jaguares de Córdoba FC",
-   "dur": 0.363,
-   "gan": 2.14,
-   "neta": 1.84,
-   "lado": "no"
+   "inicio": 1793756485632,
+   "titulo": "SC Internacional vs. Coritiba FBC",
+   "dur": 0.413,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
   },
   {
-   "inicio": 1793753067734,
-   "titulo": "Balance of Power: 2026 Midterms",
-   "dur": 43.071,
+   "inicio": 1793756485577,
+   "titulo": "SC Internacional vs. Coritiba FBC",
+   "dur": 0.008,
    "gan": 0.69,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793752733228,
-   "titulo": "Balance of Power: 2026 Midterms",
-   "dur": 0.195,
-   "gan": 0.89,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793752727044,
-   "titulo": "Balance of Power: 2026 Midterms",
-   "dur": 0.26,
-   "gan": 0.99,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793752726694,
-   "titulo": "Balance of Power: 2026 Midterms",
-   "dur": 0.192,
-   "gan": 1,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793752725095,
-   "titulo": "Balance of Power: 2026 Midterms",
-   "dur": 1.413,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793752586097,
+   "inicio": 1793756485563,
    "titulo": "SC Internacional vs. Coritiba FBC",
-   "dur": 1.796,
-   "gan": 5,
-   "neta": 0.25,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793752556197,
-   "titulo": "AD Pasto vs. Jaguares de Córdoba FC",
-   "dur": 0.17,
-   "gan": 5.41,
+   "dur": 0.01,
+   "gan": 1.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793752462119,
-   "titulo": "AD Pasto vs. Jaguares de Córdoba FC",
-   "dur": 1.799,
-   "gan": 4.01,
-   "neta": 1.58,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793752371515,
+   "inicio": 1793756485540,
    "titulo": "SC Internacional vs. Coritiba FBC",
-   "dur": 1.585,
-   "gan": 0.5,
+   "dur": 0,
+   "gan": 0.69,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793752369803,
+   "inicio": 1793756485495,
    "titulo": "SC Internacional vs. Coritiba FBC",
-   "dur": 1.653,
-   "gan": 0.5,
+   "dur": 0.018,
+   "gan": 0.69,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793752364086,
+   "inicio": 1793756485454,
    "titulo": "SC Internacional vs. Coritiba FBC",
-   "dur": 5.338,
-   "gan": 0.58,
+   "dur": 0.018,
+   "gan": 0.74,
    "neta": 0,
    "lado": "si"
+  },
+  {
+   "inicio": 1793756485398,
+   "titulo": "SC Internacional vs. Coritiba FBC",
+   "dur": 0.05,
+   "gan": 1.69,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793755851084,
+   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
+   "dur": 57.17,
+   "gan": 1.01,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793755830071,
+   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
+   "dur": 0.035,
+   "gan": 0.84,
+   "neta": 0.12,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793755779219,
+   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
+   "dur": 44.818,
+   "gan": 6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793755712688,
+   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
+   "dur": 16.684,
+   "gan": 8.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793755657824,
+   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
+   "dur": 5.489,
+   "gan": 2.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793755182480,
+   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
+   "dur": 4.147,
+   "gan": 1.16,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
