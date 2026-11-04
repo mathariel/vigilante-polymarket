@@ -1,53 +1,53 @@
 {
- "actualizado": 1793751354060,
+ "actualizado": 1793754367346,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793748351483,
-  "fin": 1793751354060,
-  "mensajes": 5885003,
+  "inicio": 1793751364693,
+  "fin": 1793754367346,
+  "mensajes": 5339644,
   "reconexiones": 0,
-  "eventos": 531,
+  "eventos": 510,
   "errores": []
  },
- "total": 611,
- "falsos": 111,
+ "total": 628,
+ "falsos": 118,
  "largos": {
-  "episodios": 230,
+  "episodios": 386,
   "eventos": 21,
   "dias": 7
  },
- "mediana": 1.028,
+ "mediana": 1.031,
  "captura": [
   {
    "s": 0.5,
-   "n": 411,
-   "gan": 1063.45,
-   "nNeta": 85,
-   "neta": 188.75
+   "n": 423,
+   "gan": 1079.65,
+   "nNeta": 87,
+   "neta": 190.45
   },
   {
    "s": 2,
-   "n": 216,
-   "gan": 432.79,
-   "nNeta": 26,
-   "neta": 22.51
+   "n": 222,
+   "gan": 440.05,
+   "nNeta": 27,
+   "neta": 23.95
   },
   {
    "s": 5,
-   "n": 163,
-   "gan": 195.69,
+   "n": 168,
+   "gan": 199.22,
    "nNeta": 13,
    "neta": 7.92
   },
   {
    "s": 30,
-   "n": 42,
-   "gan": 45.87,
+   "n": 45,
+   "gan": 48.27,
    "nNeta": 2,
    "neta": 0.42
   }
  ],
- "rentables": 138,
+ "rentables": 142,
  "duraciones": [
   {
    "et": "< 0.1 s",
@@ -57,27 +57,27 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 208
+   "n": 213
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 148
+   "n": 155
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 121
+   "n": 123
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 35
+   "n": 36
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 7
+   "n": 9
   }
  ],
  "porEvento": [
@@ -117,18 +117,18 @@
    "mediana": 0.861
   },
   {
+   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
+   "n": 31,
+   "gan": 31.94,
+   "neta": 4.11,
+   "mediana": 0.702
+  },
+  {
    "titulo": "Galatasaray SK vs. VfB Stuttgart",
    "n": 30,
    "gan": 106.67,
    "neta": 31.57,
    "mediana": 1.014
-  },
-  {
-   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
-   "n": 30,
-   "gan": 28.21,
-   "neta": 2.67,
-   "mediana": 0.702
   },
   {
    "titulo": "Club Atlético de Madrid vs. FC Bayern München",
@@ -138,18 +138,18 @@
    "mediana": 1.281
   },
   {
+   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
+   "n": 19,
+   "gan": 11.58,
+   "neta": 0,
+   "mediana": 58.901
+  },
+  {
    "titulo": "CD Comerciantes Unidos vs. AD Tarma",
    "n": 19,
    "gan": 26.15,
    "neta": 1.12,
    "mediana": 1.122
-  },
-  {
-   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
-   "n": 18,
-   "gan": 10.77,
-   "neta": 0,
-   "mediana": 58.901
   }
  ],
  "porHora": [
@@ -191,127 +191,131 @@
   },
   {
    "h": 1793750400000,
+   "n": 17
+  },
+  {
+   "h": 1793754000000,
    "n": 2
   }
  ],
  "recientes": [
   {
-   "inicio": 1793750870916,
-   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
-   "dur": 0.105,
-   "gan": 0.66,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793750638800,
-   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
-   "dur": 0.766,
-   "gan": 0.68,
+   "inicio": 1793754109875,
+   "titulo": "SC Internacional vs. Coritiba FBC",
+   "dur": 6.759,
+   "gan": 1.3,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793750136706,
-   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
-   "dur": 4.263,
+   "inicio": 1793754063999,
+   "titulo": "SC Internacional vs. Coritiba FBC",
+   "dur": 1.269,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793753118149,
+   "titulo": "Balance of Power: 2026 Midterms",
+   "dur": 319.395,
+   "gan": 0.92,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793753286047,
+   "titulo": "AD Pasto vs. Jaguares de Córdoba FC",
+   "dur": 0.363,
+   "gan": 2.14,
+   "neta": 1.84,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793753067734,
+   "titulo": "Balance of Power: 2026 Midterms",
+   "dur": 43.071,
+   "gan": 0.69,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793752733228,
+   "titulo": "Balance of Power: 2026 Midterms",
+   "dur": 0.195,
+   "gan": 0.89,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793752727044,
+   "titulo": "Balance of Power: 2026 Midterms",
+   "dur": 0.26,
+   "gan": 0.99,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793752726694,
+   "titulo": "Balance of Power: 2026 Midterms",
+   "dur": 0.192,
    "gan": 1,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793750092007,
-   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
-   "dur": 1.38,
-   "gan": 1.13,
-   "neta": 0.22,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793750091873,
-   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
-   "dur": 0.027,
-   "gan": 0.68,
-   "neta": 0.42,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793749464688,
-   "titulo": "Deportivo Tachira vs. Academia Puerto Cabello",
-   "dur": 0.548,
-   "gan": 0.98,
-   "neta": 0.57,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793749464327,
-   "titulo": "Deportivo Tachira vs. Academia Puerto Cabello",
-   "dur": 0.005,
-   "gan": 0.74,
-   "neta": 0.41,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793749464286,
-   "titulo": "Deportivo Tachira vs. Academia Puerto Cabello",
-   "dur": 0.024,
-   "gan": 1.09,
-   "neta": 0.54,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793749464259,
-   "titulo": "Deportivo Tachira vs. Academia Puerto Cabello",
-   "dur": 0.023,
-   "gan": 0.71,
-   "neta": 0.17,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793748841146,
-   "titulo": "Deportivo Tachira vs. Academia Puerto Cabello",
-   "dur": 0.817,
-   "gan": 0.8,
+   "inicio": 1793752725095,
+   "titulo": "Balance of Power: 2026 Midterms",
+   "dur": 1.413,
+   "gan": 1.25,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793748840999,
-   "titulo": "Deportivo Tachira vs. Academia Puerto Cabello",
-   "dur": 0.026,
-   "gan": 0.9,
+   "inicio": 1793752586097,
+   "titulo": "SC Internacional vs. Coritiba FBC",
+   "dur": 1.796,
+   "gan": 5,
+   "neta": 0.25,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793752556197,
+   "titulo": "AD Pasto vs. Jaguares de Córdoba FC",
+   "dur": 0.17,
+   "gan": 5.41,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793748840993,
-   "titulo": "Deportivo Tachira vs. Academia Puerto Cabello",
-   "dur": 0.006,
-   "gan": 0.59,
+   "inicio": 1793752462119,
+   "titulo": "AD Pasto vs. Jaguares de Córdoba FC",
+   "dur": 1.799,
+   "gan": 4.01,
+   "neta": 1.58,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793752371515,
+   "titulo": "SC Internacional vs. Coritiba FBC",
+   "dur": 1.585,
+   "gan": 0.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793748355195,
-   "titulo": "Republican House seats after the 2026 midterm elections?",
-   "dur": 0.166,
-   "gan": 0.52,
-   "neta": 0.02,
+   "inicio": 1793752369803,
+   "titulo": "SC Internacional vs. Coritiba FBC",
+   "dur": 1.653,
+   "gan": 0.5,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793748202781,
-   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC - Halftime Result",
-   "dur": 0.016,
-   "gan": 0.57,
-   "neta": 0.32,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793748143322,
-   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
-   "dur": 0.752,
-   "gan": 0.64,
+   "inicio": 1793752364086,
+   "titulo": "SC Internacional vs. Coritiba FBC",
+   "dur": 5.338,
+   "gan": 0.58,
    "neta": 0,
    "lado": "si"
   }
