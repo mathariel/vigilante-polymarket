@@ -1,83 +1,83 @@
 {
- "actualizado": 1793828322569,
+ "actualizado": 1793831334177,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793825322543,
-  "fin": 1793828322569,
-  "mensajes": 8790376,
-  "reconexiones": 3,
-  "eventos": 580,
+  "inicio": 1793828334147,
+  "fin": 1793831334177,
+  "mensajes": 6190136,
+  "reconexiones": 2,
+  "eventos": 563,
   "errores": []
  },
- "total": 1342,
- "falsos": 393,
+ "total": 1422,
+ "falsos": 429,
  "largos": {
-  "episodios": 1603,
-  "eventos": 59,
+  "episodios": 1672,
+  "eventos": 60,
   "dias": 7
  },
- "mediana": 0.825,
+ "mediana": 0.82,
  "captura": [
   {
    "s": 0.5,
-   "n": 796,
-   "gan": 3076.67,
-   "nNeta": 169,
-   "neta": 327.21
+   "n": 837,
+   "gan": 3151.64,
+   "nNeta": 182,
+   "neta": 334.98
   },
   {
    "s": 2,
-   "n": 426,
-   "gan": 1583.17,
-   "nNeta": 60,
-   "neta": 41.85
+   "n": 451,
+   "gan": 1608.11,
+   "nNeta": 64,
+   "neta": 42.79
   },
   {
    "s": 5,
-   "n": 309,
-   "gan": 1188.18,
-   "nNeta": 31,
-   "neta": 17.66
+   "n": 328,
+   "gan": 1202.81,
+   "nNeta": 33,
+   "neta": 18.24
   },
   {
    "s": 30,
-   "n": 99,
-   "gan": 111.46,
-   "nNeta": 6,
-   "neta": 2.73
+   "n": 112,
+   "gan": 122.12,
+   "nNeta": 8,
+   "neta": 3.31
   }
  ],
- "rentables": 294,
+ "rentables": 326,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 272
+   "n": 293
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 467
+   "n": 494
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 294
+   "n": 307
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 210
+   "n": 216
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 79
+   "n": 87
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 20
+   "n": 25
   }
  ],
  "porEvento": [
@@ -97,17 +97,17 @@
   },
   {
    "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "n": 83,
-   "gan": 52.6,
-   "neta": 1.67,
-   "mediana": 24.799
+   "n": 95,
+   "gan": 62.04,
+   "neta": 1.7,
+   "mediana": 26.209
   },
   {
    "titulo": "RB Leipzig vs. Manchester City FC",
-   "n": 68,
-   "gan": 41.77,
-   "neta": 0.26,
-   "mediana": 0.029
+   "n": 80,
+   "gan": 76.21,
+   "neta": 6.14,
+   "mediana": 0.034
   },
   {
    "titulo": "Fenerbahçe SK vs. Liverpool FC",
@@ -139,17 +139,17 @@
   },
   {
    "titulo": "FC Porto vs. SSC Napoli",
-   "n": 42,
-   "gan": 622.02,
-   "neta": 109.75,
+   "n": 44,
+   "gan": 623.12,
+   "neta": 109.83,
    "mediana": 0.46
   },
   {
-   "titulo": "Massachusetts Senate Election: Turnout",
-   "n": 34,
-   "gan": 21.9,
-   "neta": 0.25,
-   "mediana": 1.123
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "n": 35,
+   "gan": 38.21,
+   "neta": 2.35,
+   "mediana": 0.204
   }
  ],
  "porHora": [
@@ -259,129 +259,133 @@
   },
   {
    "h": 1793826000000,
-   "n": 149
+   "n": 214
+  },
+  {
+   "h": 1793829600000,
+   "n": 15
   }
  ],
  "recientes": [
   {
-   "inicio": 1793828243549,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 78.996,
-   "gan": 0.83,
-   "neta": 0,
-   "lado": "si"
+   "inicio": 1793828462225,
+   "titulo": "Cardiff City FC vs. West Ham United FC",
+   "dur": 2871.926,
+   "gan": 0.69,
+   "neta": 0.55,
+   "lado": "no"
   },
   {
-   "inicio": 1793825321083,
+   "inicio": 1793828328836,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3001.462,
+   "dur": 3005.315,
    "gan": 1.05,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793828299762,
-   "titulo": "BV Borussia 09 Dortmund vs. Real Betis Balompié",
-   "dur": 0.924,
-   "gan": 0.62,
+   "inicio": 1793831134411,
+   "titulo": "How many House seats will the Democrats win in Michigan?",
+   "dur": 0.018,
+   "gan": 0.58,
+   "neta": 0.53,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793829825062,
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "dur": 1166.05,
+   "gan": 1.19,
+   "neta": 0.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793830936464,
+   "titulo": "Highest temperature in Cape Town on November 5?",
+   "dur": 13.517,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793830478016,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 0.158,
+   "gan": 0.59,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793828289199,
-   "titulo": "Viking FK vs. Sabah FK",
-   "dur": 0.378,
-   "gan": 12.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793828289121,
-   "titulo": "Viking FK vs. Sabah FK",
-   "dur": 0.073,
-   "gan": 6.4,
-   "neta": 0.16,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793828276909,
-   "titulo": "Viking FK vs. Sabah FK",
-   "dur": 4.227,
+   "inicio": 1793830139333,
+   "titulo": "October Unemployment Rate",
+   "dur": 302.398,
    "gan": 0.55,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1793828273746,
-   "titulo": "Viking FK vs. Sabah FK",
-   "dur": 2.207,
-   "gan": 1.25,
+   "inicio": 1793830260855,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 0.254,
+   "gan": 0.55,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1793828271175,
-   "titulo": "Viking FK vs. Sabah FK",
-   "dur": 1.948,
-   "gan": 1.25,
+   "inicio": 1793830095770,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 48.558,
+   "gan": 0.79,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1793828271287,
-   "titulo": "RB Leipzig vs. Manchester City FC",
-   "dur": 0.488,
-   "gan": 0.86,
+   "inicio": 1793830091552,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 4.196,
+   "gan": 0.75,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1793828270187,
-   "titulo": "RB Leipzig vs. Manchester City FC",
-   "dur": 0.112,
-   "gan": 0.51,
+   "inicio": 1793830090439,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 0.252,
+   "gan": 0.55,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1793828269871,
-   "titulo": "RB Leipzig vs. Manchester City FC",
-   "dur": 0.23,
-   "gan": 0.51,
+   "inicio": 1793830083256,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 6.831,
+   "gan": 0.67,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1793828269651,
-   "titulo": "RB Leipzig vs. Manchester City FC",
-   "dur": 0.044,
-   "gan": 0.51,
+   "inicio": 1793830068809,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 13.581,
+   "gan": 0.73,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1793828269486,
-   "titulo": "RB Leipzig vs. Manchester City FC",
-   "dur": 0.053,
-   "gan": 0.51,
+   "inicio": 1793830064973,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 3.076,
+   "gan": 0.7,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1793828269351,
-   "titulo": "RB Leipzig vs. Manchester City FC",
-   "dur": 0.01,
-   "gan": 0.51,
+   "inicio": 1793830064348,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 0.138,
+   "gan": 0.55,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793828269139,
-   "titulo": "RB Leipzig vs. Manchester City FC",
-   "dur": 0.082,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
+   "lado": "si"
   }
  ]
 }
