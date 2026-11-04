@@ -34,7 +34,7 @@ let conexiones = [];
 const js = (s) => { try { return JSON.parse(s); } catch { return null; } };
 async function pedir(url) {
   for (let i = 0; i < 3; i++) {
-    try { const r = await fetch(url); if (r.ok) return await r.json(); ejecucion.ultimoHttp = r.status; } catch (e) { ejecucion.ultimoHttp = String(e.message); }
+    try { const r = await fetch(url, { signal: AbortSignal.timeout(15000) }); if (r.ok) return await r.json(); ejecucion.ultimoHttp = r.status; } catch (e) { ejecucion.ultimoHttp = String(e.message); }
     await new Promise(r => setTimeout(r, 1500));
   }
   throw new Error('sin respuesta de ' + url.split('?')[0] + ' (' + ejecucion.ultimoHttp + ')');
@@ -237,23 +237,40 @@ function guardar(final) {
 }
 
 // ---------- Ciclo de vida de la ejecución ----------
-try {
-  await cargarEventos();
-} catch (e) {
-  ejecucion.errores.push(String(e.message));
-  log('ERROR al cargar eventos:', e.message);
-  guardar(true);
-  process.exit(1);
-}
-const recarga = setInterval(() => cargarEventos().catch(e => ejecucion.errores.push(String(e.message))), 15 * 60000);
-const parcial = setInterval(() => { guardar(false); log(`Mensajes: ${ejecucion.mensajes} · episodios: ${episodios.length} · vivos: ${abiertos.size}`); }, GUARDAR_CADA_MIN * 60000);
-
-setTimeout(() => {
-  clearInterval(recarga); clearInterval(parcial);
+let recarga = null, parcial = null, vigia = null;
+function terminar(codigo) {
+  clearInterval(recarga); clearInterval(parcial); clearInterval(vigia);
   conexiones.forEach(c => { c.vivo = false; clearInterval(c.ping); try { c.ws.close(); } catch {} });
   // los episodios aún abiertos se cierran al final de la ejecución (duración mínima conocida)
   for (const ep of abiertos.values()) { ep.dur = (Date.now() - ep.inicio) / 1000; ep.cortado = true; episodios.push(ep); }
+  abiertos.clear();
   guardar(true);
   log(`Fin. Mensajes: ${ejecucion.mensajes} · episodios totales: ${episodios.length}`);
-  process.exit(0);
-}, DURACION_MIN * 60000);
+  process.exit(codigo);
+}
+// el bot SIEMPRE termina y guarda a los DURACION_MIN minutos, aunque algo se cuelgue
+setTimeout(() => terminar(0), DURACION_MIN * 60000);
+
+let cargado = false;
+for (let intento = 1; intento <= 5 && !cargado; intento++) {
+  try { await cargarEventos(); cargado = true; }
+  catch (e) {
+    ejecucion.errores.push(String(e.message));
+    log(`Intento ${intento}: error al cargar eventos: ${e.message}`);
+    await new Promise(r => setTimeout(r, 30000));
+  }
+}
+if (!cargado) terminar(1);
+
+recarga = setInterval(() => cargarEventos().catch(e => ejecucion.errores.push(String(e.message))), 15 * 60000);
+parcial = setInterval(() => { guardar(false); log(`Mensajes: ${ejecucion.mensajes} · episodios: ${episodios.length} · vivos: ${abiertos.size}`); }, GUARDAR_CADA_MIN * 60000);
+
+// vigía: si pasan 2 minutos sin ningún mensaje de Polymarket, reconecta todo
+let ultimoConteo = 0, minutosQuietos = 0;
+vigia = setInterval(() => {
+  if (ejecucion.mensajes === ultimoConteo) {
+    minutosQuietos++;
+    if (minutosQuietos >= 2) { log('Sin mensajes en 2 minutos: reconectando'); ejecucion.reconexiones++; minutosQuietos = 0; cargarEventos().catch(e => ejecucion.errores.push(String(e.message))); }
+  } else minutosQuietos = 0;
+  ultimoConteo = ejecucion.mensajes;
+}, 60000);
