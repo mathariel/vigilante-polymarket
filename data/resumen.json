@@ -1,68 +1,68 @@
 {
- "actualizado": 1793810243032,
+ "actualizado": 1793813258028,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793807243010,
-  "fin": 1793810243032,
-  "mensajes": 6554612,
+  "inicio": 1793810258007,
+  "fin": 1793813258028,
+  "mensajes": 5970084,
   "reconexiones": 0,
-  "eventos": 551,
+  "eventos": 577,
   "errores": []
  },
- "total": 798,
- "falsos": 181,
+ "total": 811,
+ "falsos": 200,
  "largos": {
-  "episodios": 1353,
-  "eventos": 51,
+  "episodios": 1418,
+  "eventos": 53,
   "dias": 7
  },
- "mediana": 0.944,
+ "mediana": 0.929,
  "captura": [
   {
    "s": 0.5,
-   "n": 511,
-   "gan": 1242.66,
-   "nNeta": 129,
-   "neta": 212.17
+   "n": 517,
+   "gan": 1250.8,
+   "nNeta": 133,
+   "neta": 216.37
   },
   {
    "s": 2,
-   "n": 266,
-   "gan": 530.74,
-   "nNeta": 42,
-   "neta": 29.01
+   "n": 270,
+   "gan": 536.13,
+   "nNeta": 45,
+   "neta": 32.09
   },
   {
    "s": 5,
-   "n": 195,
-   "gan": 260.18,
-   "nNeta": 22,
-   "neta": 9.79
+   "n": 197,
+   "gan": 263.02,
+   "nNeta": 23,
+   "neta": 11.1
   },
   {
    "s": 30,
-   "n": 54,
-   "gan": 75.23,
-   "nNeta": 3,
-   "neta": 0.84
+   "n": 56,
+   "gan": 78.07,
+   "nNeta": 4,
+   "neta": 2.15
   }
  ],
- "rentables": 220,
+ "rentables": 225,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 138
+   "n": 139
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 275
+   "n": 282
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 190
+   "n": 193
   },
   {
    "et": "5–30 s",
@@ -77,15 +77,15 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 12
+   "n": 14
   }
  ],
  "porEvento": [
   {
    "titulo": "CZ # posts October 30 - November 6, 2026?",
-   "n": 189,
-   "gan": 128.81,
-   "neta": 0.25,
+   "n": 190,
+   "gan": 129.81,
+   "neta": 0.56,
    "mediana": 7.549
   },
   {
@@ -145,11 +145,11 @@
    "mediana": 10.983
   },
   {
-   "titulo": "Club Atlético de Madrid vs. FC Bayern München",
-   "n": 24,
-   "gan": 44.37,
-   "neta": 0,
-   "mediana": 1.281
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "n": 29,
+   "gan": 33.9,
+   "neta": 2.35,
+   "mediana": 0.204
   }
  ],
  "porHora": [
@@ -239,10 +239,118 @@
   },
   {
    "h": 1793808000000,
-   "n": 6
+   "n": 10
+  },
+  {
+   "h": 1793811600000,
+   "n": 9
   }
  ],
  "recientes": [
+  {
+   "inicio": 1793810259390,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 2998.619,
+   "gan": 1.35,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793812925015,
+   "titulo": "Stade Rennais FC 1901 vs. Olympiakós SFP",
+   "dur": 0.723,
+   "gan": 1.37,
+   "neta": 1.12,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793812922870,
+   "titulo": "Stade Rennais FC 1901 vs. Olympiakós SFP",
+   "dur": 2.099,
+   "gan": 1.49,
+   "neta": 1.17,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793812865999,
+   "titulo": "Stade Rennais FC 1901 vs. Olympiakós SFP",
+   "dur": 2.106,
+   "gan": 1.01,
+   "neta": 0.57,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793812835613,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 0.357,
+   "gan": 0.85,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793812822698,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 0.197,
+   "gan": 0.87,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793812822369,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 0.103,
+   "gan": 1.19,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793812821596,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 0.487,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793812821389,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 0.104,
+   "gan": 1.13,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793812787158,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 0.177,
+   "gan": 1.23,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793810243481,
+   "titulo": "Who wins the Senate pending oil below $85 before the midterms?",
+   "dur": 711.065,
+   "gan": 1.49,
+   "neta": 1.31,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793810518762,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 1.719,
+   "gan": 1.89,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793810471955,
+   "titulo": "CZ # posts October 30 - November 6, 2026?",
+   "dur": 0.04,
+   "gan": 1,
+   "neta": 0.31,
+   "lado": "si"
+  },
   {
    "inicio": 1793809231623,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
@@ -257,110 +365,6 @@
    "dur": 0.132,
    "gan": 3.2,
    "neta": 1.67,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793809366436,
-   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
-   "dur": 0.021,
-   "gan": 0.61,
-   "neta": 0.21,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793808571328,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 551.339,
-   "gan": 10.19,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793808890130,
-   "titulo": "Stade Rennais FC 1901 vs. Olympiakós SFP",
-   "dur": 1.95,
-   "gan": 1.3,
-   "neta": 0.46,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793808869574,
-   "titulo": "Stade Rennais FC 1901 vs. Olympiakós SFP",
-   "dur": 0.391,
-   "gan": 0.78,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793807684131,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 0.701,
-   "gan": 2.32,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793807504729,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 0.031,
-   "gan": 1.47,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793806828783,
-   "titulo": "Stade Rennais FC 1901 vs. Olympiakós SFP",
-   "dur": 0.772,
-   "gan": 1.03,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793806828010,
-   "titulo": "Stade Rennais FC 1901 vs. Olympiakós SFP",
-   "dur": 0.305,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793806499889,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 0.023,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793806499804,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 0.03,
-   "gan": 1.22,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793805476168,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 0.011,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793805316206,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 159.808,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793804691088,
-   "titulo": "Elon Musk # tweets November 2 - November 4, 2026?",
-   "dur": 1.635,
-   "gan": 0.57,
-   "neta": 0,
    "lado": "si"
   }
  ]
