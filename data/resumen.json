@@ -1,19 +1,19 @@
 {
- "actualizado": 1793778498128,
+ "actualizado": 1793781513349,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793775487459,
-  "fin": 1793778498128,
-  "mensajes": 5481169,
-  "reconexiones": 1,
-  "eventos": 506,
+  "inicio": 1793778510399,
+  "fin": 1793781513349,
+  "mensajes": 5139961,
+  "reconexiones": 10,
+  "eventos": 518,
   "errores": []
  },
- "total": 737,
- "falsos": 157,
+ "total": 738,
+ "falsos": 159,
  "largos": {
-  "episodios": 816,
-  "eventos": 39,
+  "episodios": 856,
+  "eventos": 40,
   "dias": 7
  },
  "mediana": 0.991,
@@ -52,7 +52,7 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 122
+   "n": 123
   },
   {
    "et": "0.1–1 s",
@@ -216,9 +216,21 @@
   {
    "h": 1793772000000,
    "n": 9
+  },
+  {
+   "h": 1793775600000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1793779149092,
+   "titulo": "Highest temperature in London on November 4?",
+   "dur": 0.016,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1793775419925,
    "titulo": "Highest temperature in Beijing on November 4?",
@@ -327,14 +339,6 @@
    "inicio": 1793765216472,
    "titulo": "Racing Club de Lens vs. Como 1907",
    "dur": 293.28,
-   "gan": 3.84,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793765191539,
-   "titulo": "Racing Club de Lens vs. Como 1907",
-   "dur": 20.083,
    "gan": 3.84,
    "neta": 0,
    "lado": "no"
