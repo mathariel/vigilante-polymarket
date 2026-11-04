@@ -1,83 +1,83 @@
 {
- "actualizado": 1793825308534,
+ "actualizado": 1793828322569,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793822308512,
-  "fin": 1793825308534,
-  "mensajes": 10171887,
-  "reconexiones": 1,
-  "eventos": 572,
+  "inicio": 1793825322543,
+  "fin": 1793828322569,
+  "mensajes": 8790376,
+  "reconexiones": 3,
+  "eventos": 580,
   "errores": []
  },
- "total": 1146,
- "falsos": 355,
+ "total": 1342,
+ "falsos": 393,
  "largos": {
-  "episodios": 1596,
+  "episodios": 1603,
   "eventos": 59,
   "dias": 7
  },
- "mediana": 0.82,
+ "mediana": 0.825,
  "captura": [
   {
    "s": 0.5,
-   "n": 688,
-   "gan": 2939.88,
-   "nNeta": 159,
-   "neta": 323.61
+   "n": 796,
+   "gan": 3076.67,
+   "nNeta": 169,
+   "neta": 327.21
   },
   {
    "s": 2,
-   "n": 349,
-   "gan": 1487.18,
-   "nNeta": 55,
-   "neta": 40.13
+   "n": 426,
+   "gan": 1583.17,
+   "nNeta": 60,
+   "neta": 41.85
   },
   {
    "s": 5,
-   "n": 251,
-   "gan": 1146.85,
-   "nNeta": 29,
-   "neta": 16.9
+   "n": 309,
+   "gan": 1188.18,
+   "nNeta": 31,
+   "neta": 17.66
   },
   {
    "s": 30,
-   "n": 76,
-   "gan": 95.37,
-   "nNeta": 5,
-   "neta": 2.33
+   "n": 99,
+   "gan": 111.46,
+   "nNeta": 6,
+   "neta": 2.73
   }
  ],
- "rentables": 276,
+ "rentables": 294,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 212
+   "n": 272
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 420
+   "n": 467
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 263
+   "n": 294
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 175
+   "n": 210
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 57
+   "n": 79
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 19
+   "n": 20
   }
  ],
  "porEvento": [
@@ -94,6 +94,20 @@
    "gan": 1087,
    "neta": 20.42,
    "mediana": 0.385
+  },
+  {
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "n": 83,
+   "gan": 52.6,
+   "neta": 1.67,
+   "mediana": 24.799
+  },
+  {
+   "titulo": "RB Leipzig vs. Manchester City FC",
+   "n": 68,
+   "gan": 41.77,
+   "neta": 0.26,
+   "mediana": 0.029
   },
   {
    "titulo": "Fenerbahçe SK vs. Liverpool FC",
@@ -124,32 +138,18 @@
    "mediana": 0.62
   },
   {
+   "titulo": "FC Porto vs. SSC Napoli",
+   "n": 42,
+   "gan": 622.02,
+   "neta": 109.75,
+   "mediana": 0.46
+  },
+  {
    "titulo": "Massachusetts Senate Election: Turnout",
    "n": 34,
    "gan": 21.9,
    "neta": 0.25,
    "mediana": 1.123
-  },
-  {
-   "titulo": "FK Shakhtar Donetsk vs. Sporting CP",
-   "n": 34,
-   "gan": 124.6,
-   "neta": 3.03,
-   "mediana": 0.861
-  },
-  {
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "n": 33,
-   "gan": 36.94,
-   "neta": 2.35,
-   "mediana": 0.357
-  },
-  {
-   "titulo": "Associação Chapecoense de Futebol vs. Mirassol FC",
-   "n": 31,
-   "gan": 31.94,
-   "neta": 4.11,
-   "mediana": 0.702
   }
  ],
  "porHora": [
@@ -255,129 +255,133 @@
   },
   {
    "h": 1793822400000,
-   "n": 116
+   "n": 163
+  },
+  {
+   "h": 1793826000000,
+   "n": 149
   }
  ],
  "recientes": [
   {
-   "inicio": 1793825233973,
+   "inicio": 1793828243549,
    "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 74.542,
-   "gan": 0.71,
+   "dur": 78.996,
+   "gan": 0.83,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793822310124,
+   "inicio": 1793825321083,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2998.391,
+   "dur": 3001.462,
    "gan": 1.05,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793825251856,
-   "titulo": "FC Porto vs. SSC Napoli",
-   "dur": 0.063,
-   "gan": 0.82,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793825242853,
-   "titulo": "FC Porto vs. SSC Napoli",
-   "dur": 1.22,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793825081371,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 152.163,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793825141179,
-   "titulo": "SK Slavia Praha vs. Arsenal FC",
-   "dur": 0.999,
-   "gan": 0.75,
-   "neta": 0.54,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793825066972,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 14.361,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793824905854,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 160.77,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793825036234,
-   "titulo": "FC Porto vs. SSC Napoli",
-   "dur": 0.219,
-   "gan": 5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793825008057,
+   "inicio": 1793828299762,
    "titulo": "BV Borussia 09 Dortmund vs. Real Betis Balompié",
-   "dur": 2.73,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793824960970,
-   "titulo": "Viking FK vs. Sabah FK",
-   "dur": 0.21,
-   "gan": 0.94,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793824763685,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 141.751,
-   "gan": 0.59,
+   "dur": 0.924,
+   "gan": 0.62,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793824879009,
-   "titulo": "RB Leipzig vs. Manchester City FC",
-   "dur": 1.587,
-   "gan": 0.79,
+   "inicio": 1793828289199,
+   "titulo": "Viking FK vs. Sabah FK",
+   "dur": 0.378,
+   "gan": 12.51,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1793824814332,
+   "inicio": 1793828289121,
    "titulo": "Viking FK vs. Sabah FK",
-   "dur": 0.072,
+   "dur": 0.073,
+   "gan": 6.4,
+   "neta": 0.16,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793828276909,
+   "titulo": "Viking FK vs. Sabah FK",
+   "dur": 4.227,
    "gan": 0.55,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793824737608,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 24.799,
-   "gan": 0.74,
+   "inicio": 1793828273746,
+   "titulo": "Viking FK vs. Sabah FK",
+   "dur": 2.207,
+   "gan": 1.25,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
+  },
+  {
+   "inicio": 1793828271175,
+   "titulo": "Viking FK vs. Sabah FK",
+   "dur": 1.948,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793828271287,
+   "titulo": "RB Leipzig vs. Manchester City FC",
+   "dur": 0.488,
+   "gan": 0.86,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793828270187,
+   "titulo": "RB Leipzig vs. Manchester City FC",
+   "dur": 0.112,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793828269871,
+   "titulo": "RB Leipzig vs. Manchester City FC",
+   "dur": 0.23,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793828269651,
+   "titulo": "RB Leipzig vs. Manchester City FC",
+   "dur": 0.044,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793828269486,
+   "titulo": "RB Leipzig vs. Manchester City FC",
+   "dur": 0.053,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793828269351,
+   "titulo": "RB Leipzig vs. Manchester City FC",
+   "dur": 0.01,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793828269139,
+   "titulo": "RB Leipzig vs. Manchester City FC",
+   "dur": 0.082,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
