@@ -1,34 +1,34 @@
 {
- "actualizado": 1793769444250,
+ "actualizado": 1793772458670,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793766441849,
-  "fin": 1793769444250,
-  "mensajes": 4464561,
-  "reconexiones": 0,
-  "eventos": 483,
+  "inicio": 1793769456421,
+  "fin": 1793772458670,
+  "mensajes": 5499816,
+  "reconexiones": 1,
+  "eventos": 490,
   "errores": []
  },
- "total": 725,
- "falsos": 147,
+ "total": 728,
+ "falsos": 151,
  "largos": {
-  "episodios": 664,
-  "eventos": 35,
+  "episodios": 722,
+  "eventos": 36,
   "dias": 7
  },
  "mediana": 0.991,
  "captura": [
   {
    "s": 0.5,
-   "n": 474,
-   "gan": 1188.42,
+   "n": 475,
+   "gan": 1190.55,
    "nNeta": 113,
    "neta": 206.01
   },
   {
    "s": 2,
-   "n": 247,
-   "gan": 501.82,
+   "n": 248,
+   "gan": 502.9,
    "nNeta": 35,
    "neta": 27.73
   },
@@ -52,7 +52,7 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 119
+   "n": 121
   },
   {
    "et": "0.1–1 s",
@@ -62,7 +62,7 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 175
+   "n": 176
   },
   {
    "et": "5–30 s",
@@ -208,9 +208,37 @@
   {
    "h": 1793764800000,
    "n": 6
+  },
+  {
+   "h": 1793768400000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1793771747637,
+   "titulo": "Highest temperature in Sao Paulo on November 4?",
+   "dur": 0.038,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793771747592,
+   "titulo": "Highest temperature in Sao Paulo on November 4?",
+   "dur": 0.005,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793771576690,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 2.189,
+   "gan": 1.86,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1793765899194,
    "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
@@ -305,30 +333,6 @@
    "dur": 0.767,
    "gan": 0.56,
    "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793760648513,
-   "titulo": "Balance of Power: 2026 Midterms",
-   "dur": 22.63,
-   "gan": 0.91,
-   "neta": 0.15,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793760644753,
-   "titulo": "Balance of Power: 2026 Midterms",
-   "dur": 2.237,
-   "gan": 0.91,
-   "neta": 0.15,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793760540854,
-   "titulo": "Balance of Power: 2026 Midterms",
-   "dur": 0.068,
-   "gan": 0.52,
-   "neta": 0.09,
    "lado": "si"
   }
  ]
