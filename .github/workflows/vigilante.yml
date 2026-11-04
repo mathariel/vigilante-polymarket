@@ -42,8 +42,11 @@ jobs:
 
       # Encadena la siguiente ejecución sin esperar al horario de GitHub,
       # que a veces se retrasa o se salta. El horario de arriba queda como respaldo.
+      # Se ejecuta SIEMPRE, incluso si algo falló; en ese caso espera 2 minutos antes.
       - name: Encender la siguiente ejecución
-        if: success()
-        run: gh workflow run vigilante.yml --ref main
+        if: always()
+        run: |
+          if [ "${{ job.status }}" != "success" ]; then sleep 120; fi
+          gh workflow run vigilante.yml --ref main
         env:
           GH_TOKEN: ${{ github.token }}
