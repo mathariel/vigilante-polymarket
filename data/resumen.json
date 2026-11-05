@@ -1,53 +1,53 @@
 {
- "actualizado": 1793915732628,
+ "actualizado": 1793918744831,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793912732585,
-  "fin": 1793915732628,
-  "mensajes": 11840831,
-  "reconexiones": 4,
-  "eventos": 613,
+  "inicio": 1793915744790,
+  "fin": 1793918744831,
+  "mensajes": 6075553,
+  "reconexiones": 1,
+  "eventos": 617,
   "errores": []
  },
- "total": 2867,
+ "total": 2878,
  "falsos": 751,
  "largos": {
-  "episodios": 3190,
+  "episodios": 3202,
   "eventos": 78,
   "dias": 7
  },
- "mediana": 1.174,
+ "mediana": 1.182,
  "captura": [
   {
    "s": 0.5,
-   "n": 1866,
-   "gan": 5045.15,
-   "nNeta": 879,
-   "neta": 922.94
+   "n": 1877,
+   "gan": 5065.9,
+   "nNeta": 884,
+   "neta": 926.9
   },
   {
    "s": 2,
-   "n": 1226,
-   "gan": 3052.57,
-   "nNeta": 646,
-   "neta": 533.37
+   "n": 1232,
+   "gan": 3066.3,
+   "nNeta": 647,
+   "neta": 534.27
   },
   {
    "s": 5,
-   "n": 988,
-   "gan": 2212.26,
-   "nNeta": 554,
-   "neta": 245.67
+   "n": 992,
+   "gan": 2224.2,
+   "nNeta": 555,
+   "neta": 246.57
   },
   {
    "s": 30,
-   "n": 228,
-   "gan": 616.71,
-   "nNeta": 47,
-   "neta": 55.75
+   "n": 232,
+   "gan": 628.65,
+   "nNeta": 48,
+   "neta": 56.65
   }
  ],
- "rentables": 1207,
+ "rentables": 1212,
  "duraciones": [
   {
    "et": "< 0.1 s",
@@ -57,12 +57,12 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 846
+   "n": 848
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 552
+   "n": 557
   },
   {
    "et": "5–30 s",
@@ -72,20 +72,20 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 140
+   "n": 141
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 88
+   "n": 91
   }
  ],
  "porEvento": [
   {
    "titulo": "How many House seats will the Democrats win in Tennessee?",
-   "n": 560,
-   "gan": 355.81,
-   "neta": 165.83,
+   "n": 561,
+   "gan": 357.38,
+   "neta": 166.73,
    "mediana": 5.347
   },
   {
@@ -355,10 +355,102 @@
   },
   {
    "h": 1793912400000,
-   "n": 208
+   "n": 215
+  },
+  {
+   "h": 1793916000000,
+   "n": 4
   }
  ],
  "recientes": [
+  {
+   "inicio": 1793918630928,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 113.864,
+   "gan": 1.33,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793915743374,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 3001.418,
+   "gan": 1.33,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793915747304,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 2997.488,
+   "gan": 7.71,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793918624942,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 2.984,
+   "gan": 1.08,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793918618951,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 2.982,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793918158209,
+   "titulo": "SE Palmeiras vs. Clube do Remo",
+   "dur": 1.802,
+   "gan": 1.16,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793915706059,
+   "titulo": "How many House seats will the Democrats win in Tennessee?",
+   "dur": 886.117,
+   "gan": 1.57,
+   "neta": 0.9,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793915860829,
+   "titulo": "SC União Torreense vs. Ararat-Armenia FA",
+   "dur": 0.635,
+   "gan": 1.27,
+   "neta": 0.75,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793915782761,
+   "titulo": "SC União Torreense vs. Ararat-Armenia FA",
+   "dur": 1.633,
+   "gan": 0.75,
+   "neta": 0.34,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793915767509,
+   "titulo": "SC União Torreense vs. Ararat-Armenia FA",
+   "dur": 0.964,
+   "gan": 0.99,
+   "neta": 0.51,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793915762205,
+   "titulo": "SC União Torreense vs. Ararat-Armenia FA",
+   "dur": 1.395,
+   "gan": 2.93,
+   "neta": 1.22,
+   "lado": "si"
+  },
   {
    "inicio": 1793915489852,
    "titulo": "K. Sint-Truidense VV vs. SK Brann",
@@ -389,94 +481,6 @@
    "dur": 3209.067,
    "gan": 1.3,
    "neta": 0.76,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793915729962,
-   "titulo": "AZ vs. Juventus FC",
-   "dur": 2,
-   "gan": 1.13,
-   "neta": 0.93,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793915712519,
-   "titulo": "Bayer 04 Leverkusen vs. Olympique de Marseille",
-   "dur": 0.846,
-   "gan": 0.55,
-   "neta": 0.18,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793915708938,
-   "titulo": "AZ vs. Juventus FC",
-   "dur": 0.625,
-   "gan": 0.73,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793915683759,
-   "titulo": "AZ vs. Juventus FC",
-   "dur": 0.73,
-   "gan": 0.55,
-   "neta": 0.44,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793915682006,
-   "titulo": "AZ vs. Juventus FC",
-   "dur": 1.287,
-   "gan": 3.25,
-   "neta": 2.63,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793915679298,
-   "titulo": "AZ vs. Juventus FC",
-   "dur": 1.104,
-   "gan": 0.65,
-   "neta": 0.41,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793915679273,
-   "titulo": "AZ vs. Juventus FC",
-   "dur": 0.019,
-   "gan": 0.55,
-   "neta": 0.3,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793915674079,
-   "titulo": "AZ vs. Juventus FC",
-   "dur": 1.53,
-   "gan": 44.2,
-   "neta": 33.2,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793915647461,
-   "titulo": "Highest temperature in Denver on November 5?",
-   "dur": 0.003,
-   "gan": 11.7,
-   "neta": 11.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793915611083,
-   "titulo": "Celtic FC vs. Beşiktaş JK",
-   "dur": 0.223,
-   "gan": 0.88,
-   "neta": 0.58,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793915611034,
-   "titulo": "Celtic FC vs. Beşiktaş JK",
-   "dur": 0.033,
-   "gan": 0.85,
-   "neta": 0.57,
    "lado": "si"
   }
  ]
