@@ -1,73 +1,73 @@
 {
- "actualizado": 1793897639292,
+ "actualizado": 1793900663410,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793894639250,
-  "fin": 1793897639292,
-  "mensajes": 7404594,
+  "inicio": 1793897663367,
+  "fin": 1793900663410,
+  "mensajes": 5812220,
   "reconexiones": 0,
-  "eventos": 618,
+  "eventos": 609,
   "errores": []
  },
- "total": 1748,
- "falsos": 516,
+ "total": 1768,
+ "falsos": 521,
  "largos": {
-  "episodios": 2849,
+  "episodios": 2969,
   "eventos": 73,
   "dias": 7
  },
- "mediana": 0.92,
+ "mediana": 0.924,
  "captura": [
   {
    "s": 0.5,
-   "n": 1076,
-   "gan": 3930.64,
-   "nNeta": 274,
-   "neta": 546
+   "n": 1090,
+   "gan": 3996.99,
+   "nNeta": 283,
+   "neta": 588.38
   },
   {
    "s": 2,
-   "n": 620,
-   "gan": 2294.35,
-   "nNeta": 125,
-   "neta": 234.3
+   "n": 631,
+   "gan": 2358.24,
+   "nNeta": 133,
+   "neta": 275.22
   },
   {
    "s": 5,
-   "n": 455,
-   "gan": 1674.54,
-   "nNeta": 64,
-   "neta": 62.01
+   "n": 458,
+   "gan": 1683.89,
+   "nNeta": 65,
+   "neta": 62.1
   },
   {
    "s": 30,
-   "n": 199,
-   "gan": 512.14,
-   "nNeta": 31,
-   "neta": 39
+   "n": 201,
+   "gan": 520.64,
+   "nNeta": 32,
+   "neta": 39.09
   }
  ],
- "rentables": 460,
+ "rentables": 473,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 341
+   "n": 346
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 566
+   "n": 567
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 386
+   "n": 397
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 256
+   "n": 257
   },
   {
    "et": "30 s–5 min",
@@ -77,7 +77,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 74
+   "n": 76
   }
  ],
  "porEvento": [
@@ -125,9 +125,9 @@
   },
   {
    "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "n": 62,
-   "gan": 196.68,
-   "neta": 42.2,
+   "n": 63,
+   "gan": 197.75,
+   "neta": 42.21,
    "mediana": 3.333
   },
   {
@@ -335,129 +335,133 @@
   },
   {
    "h": 1793894400000,
-   "n": 12
+   "n": 16
+  },
+  {
+   "h": 1793898000000,
+   "n": 16
   }
  ],
  "recientes": [
   {
-   "inicio": 1793894638557,
+   "inicio": 1793897663576,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3000.697,
+   "dur": 2999.794,
    "gan": 8,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793897404182,
-   "titulo": "FK Crvena zvezda vs. Inter Club d'Escaldes",
-   "dur": 1.232,
-   "gan": 1.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793897381706,
-   "titulo": "FK Crvena zvezda vs. Inter Club d'Escaldes",
-   "dur": 1.561,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793897370148,
-   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
-   "dur": 1.118,
-   "gan": 0.83,
-   "neta": 0.78,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793897034440,
-   "titulo": "FC Midtjylland vs. AFC Ajax",
-   "dur": 14.066,
-   "gan": 12.58,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793896750265,
+   "inicio": 1793899345473,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 0.288,
-   "gan": 1.76,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793896686325,
-   "titulo": "FC Midtjylland vs. AFC Ajax",
-   "dur": 9.275,
-   "gan": 3.69,
-   "neta": 0,
+   "dur": 1155.494,
+   "gan": 0.5,
+   "neta": 0.09,
    "lado": "si"
   },
   {
-   "inicio": 1793896059934,
-   "titulo": "Highest temperature in Munich on November 6?",
-   "dur": 55.267,
+   "inicio": 1793900344007,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 13.201,
+   "gan": 1.07,
+   "neta": 0.01,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793899845335,
+   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
+   "dur": 2.817,
+   "gan": 0.6,
+   "neta": 0.48,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793899841116,
+   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
+   "dur": 3.044,
    "gan": 0.61,
-   "neta": 0,
+   "neta": 0.5,
    "lado": "no"
   },
   {
-   "inicio": 1793896028899,
+   "inicio": 1793899838382,
    "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
-   "dur": 0.034,
-   "gan": 0.79,
-   "neta": 0.24,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793896021732,
-   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
-   "dur": 5.228,
-   "gan": 0.95,
-   "neta": 0.15,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793894637993,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 1208.566,
-   "gan": 2.94,
-   "neta": 0.49,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793895549923,
-   "titulo": "How many Senate and House seats will Republicans have after the midterms?",
-   "dur": 2.47,
+   "dur": 1.517,
    "gan": 0.73,
-   "neta": 0.65,
-   "lado": "si"
+   "neta": 0.55,
+   "lado": "no"
   },
   {
-   "inicio": 1793892239598,
+   "inicio": 1793899837111,
+   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
+   "dur": 1.013,
+   "gan": 0.6,
+   "neta": 0.42,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793899830006,
+   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
+   "dur": 2.763,
+   "gan": 0.9,
+   "neta": 0.82,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793899822022,
+   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
+   "dur": 4.106,
+   "gan": 0.6,
+   "neta": 0.55,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793899816032,
+   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
+   "dur": 4.453,
+   "gan": 2.52,
+   "neta": 2.29,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793899804860,
+   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
+   "dur": 3.175,
+   "gan": 26.13,
+   "neta": 19.94,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793899451847,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 0.031,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793899329414,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 2365.928,
-   "gan": 1.36,
+   "dur": 4.771,
+   "gan": 2.23,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793891601976,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3003.55,
-   "gan": 8.41,
+   "inicio": 1793899321453,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 1.946,
+   "gan": 0.6,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793891635459,
-   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
-   "dur": 4.065,
-   "gan": 0.93,
-   "neta": 0.88,
-   "lado": "no"
+   "inicio": 1793899120846,
+   "titulo": "Zelenskyy # posts October 30 - November 6, 2026?",
+   "dur": 0.031,
+   "gan": 0.94,
+   "neta": 0.33,
+   "lado": "si"
   }
  ]
 }
