@@ -1,83 +1,83 @@
 {
- "actualizado": 1793846390297,
+ "actualizado": 1793849402802,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793843390261,
-  "fin": 1793846390297,
-  "mensajes": 6494762,
-  "reconexiones": 1,
-  "eventos": 591,
+  "inicio": 1793846402767,
+  "fin": 1793849402802,
+  "mensajes": 5933839,
+  "reconexiones": 0,
+  "eventos": 566,
   "errores": []
  },
- "total": 1533,
- "falsos": 448,
+ "total": 1564,
+ "falsos": 454,
  "largos": {
-  "episodios": 1975,
+  "episodios": 1982,
   "eventos": 63,
   "dias": 7
  },
- "mediana": 0.833,
+ "mediana": 0.835,
  "captura": [
   {
    "s": 0.5,
-   "n": 911,
-   "gan": 3373,
-   "nNeta": 201,
-   "neta": 378.45
+   "n": 931,
+   "gan": 3443.99,
+   "nNeta": 217,
+   "neta": 389.62
   },
   {
    "s": 2,
-   "n": 495,
-   "gan": 1761.91,
-   "nNeta": 75,
-   "neta": 65.41
+   "n": 508,
+   "gan": 1825.79,
+   "nNeta": 84,
+   "neta": 74.44
   },
   {
    "s": 5,
-   "n": 363,
-   "gan": 1323.26,
-   "nNeta": 39,
-   "neta": 22.11
+   "n": 372,
+   "gan": 1381.76,
+   "nNeta": 45,
+   "neta": 30.13
   },
   {
    "s": 30,
-   "n": 136,
-   "gan": 210.83,
-   "nNeta": 13,
-   "neta": 7.17
+   "n": 142,
+   "gan": 265.03,
+   "nNeta": 18,
+   "neta": 15.17
   }
  ],
- "rentables": 360,
+ "rentables": 381,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 309
+   "n": 313
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 531
+   "n": 543
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 330
+   "n": 336
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 227
+   "n": 230
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 100
+   "n": 103
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 36
+   "n": 39
   }
  ],
  "porEvento": [
@@ -139,10 +139,10 @@
   },
   {
    "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "n": 47,
-   "gan": 60.49,
-   "neta": 5.7,
-   "mediana": 0.505
+   "n": 51,
+   "gan": 101.44,
+   "neta": 12.12,
+   "mediana": 0.716
   },
   {
    "titulo": "FC Porto vs. SSC Napoli",
@@ -279,127 +279,131 @@
   },
   {
    "h": 1793844000000,
-   "n": 23
+   "n": 29
+  },
+  {
+   "h": 1793847600000,
+   "n": 25
   }
  ],
  "recientes": [
   {
-   "inicio": 1793845823759,
+   "inicio": 1793849251903,
+   "titulo": "Millonarios FC vs. América de Cali",
+   "dur": 150.867,
+   "gan": 1.01,
+   "neta": 0.86,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793847340932,
    "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 566.505,
-   "gan": 3.52,
-   "neta": 0.89,
+   "dur": 2061.838,
+   "gan": 13.18,
+   "neta": 1.94,
    "lado": "si"
   },
   {
-   "inicio": 1793843389418,
+   "inicio": 1793846403336,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3000.846,
+   "dur": 2999.434,
    "gan": 11.52,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793846263527,
-   "titulo": "Cúcuta Deportivo FC vs. Independiente Santa Fe",
-   "dur": 1.114,
+   "inicio": 1793849016211,
+   "titulo": "Club Universitario de Deportes vs. Sport Boys Association",
+   "dur": 0.062,
+   "gan": 0.55,
+   "neta": 0.04,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793849016111,
+   "titulo": "Club Universitario de Deportes vs. Sport Boys Association",
+   "dur": 0,
+   "gan": 0.51,
+   "neta": 0.04,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793849010692,
+   "titulo": "Club Universitario de Deportes vs. Sport Boys Association",
+   "dur": 5.236,
+   "gan": 1.04,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793849012882,
+   "titulo": "Millonarios FC vs. América de Cali",
+   "dur": 1.144,
+   "gan": 0.71,
+   "neta": 0.38,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793849006761,
+   "titulo": "Club Universitario de Deportes vs. Sport Boys Association",
+   "dur": 0.419,
+   "gan": 0.58,
+   "neta": 0.18,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793849006062,
+   "titulo": "Club Universitario de Deportes vs. Sport Boys Association",
+   "dur": 0.627,
+   "gan": 1.16,
+   "neta": 0.4,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793849005775,
+   "titulo": "Club Universitario de Deportes vs. Sport Boys Association",
+   "dur": 0.275,
+   "gan": 0.74,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793848999518,
+   "titulo": "Club Universitario de Deportes vs. Sport Boys Association",
+   "dur": 6.16,
    "gan": 0.56,
-   "neta": 0.46,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793845114720,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 709.032,
-   "gan": 13.14,
-   "neta": 1.82,
+   "inicio": 1793848983588,
+   "titulo": "Club Universitario de Deportes vs. Sport Boys Association",
+   "dur": 1.086,
+   "gan": 0.68,
+   "neta": 0.01,
    "lado": "si"
   },
   {
-   "inicio": 1793845742408,
-   "titulo": "São Paulo FC vs. SC Corinthians Paulista",
-   "dur": 3.681,
-   "gan": 1.09,
-   "neta": 0.63,
+   "inicio": 1793848983535,
+   "titulo": "Club Universitario de Deportes vs. Sport Boys Association",
+   "dur": 0.015,
+   "gan": 0.5,
+   "neta": 0.04,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793848926630,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 11.536,
+   "gan": 0.68,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793845567551,
-   "titulo": "\"The Cat in the Hat\" Opening Weekend Box Office",
-   "dur": 0.192,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793845055225,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 59.075,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793845052233,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 0.017,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793844993531,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 56.538,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793845017246,
-   "titulo": "São Paulo FC vs. SC Corinthians Paulista",
-   "dur": 5.853,
-   "gan": 7.06,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793844928367,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 60.164,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793844984936,
-   "titulo": "São Paulo FC vs. SC Corinthians Paulista",
-   "dur": 1.469,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793844966228,
-   "titulo": "São Paulo FC vs. SC Corinthians Paulista",
-   "dur": 15.766,
-   "gan": 18.96,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793844929420,
-   "titulo": "São Paulo FC vs. SC Corinthians Paulista",
-   "dur": 0.869,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793844866738,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 61.346,
-   "gan": 0.53,
+   "inicio": 1793848637617,
+   "titulo": "Club Universitario de Deportes vs. Sport Boys Association",
+   "dur": 0.442,
+   "gan": 0.91,
    "neta": 0,
    "lado": "si"
   }
