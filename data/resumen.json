@@ -1,86 +1,93 @@
 {
- "actualizado": 1793906689293,
+ "actualizado": 1793909701499,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793903689247,
-  "fin": 1793906689294,
-  "mensajes": 11474560,
-  "reconexiones": 10,
-  "eventos": 608,
+  "inicio": 1793906701467,
+  "fin": 1793909701499,
+  "mensajes": 9535911,
+  "reconexiones": 5,
+  "eventos": 616,
   "errores": []
  },
- "total": 1947,
- "falsos": 607,
+ "total": 2234,
+ "falsos": 643,
  "largos": {
-  "episodios": 3121,
+  "episodios": 3145,
   "eventos": 78,
   "dias": 7
  },
- "mediana": 0.91,
+ "mediana": 1.055,
  "captura": [
   {
    "s": 0.5,
-   "n": 1194,
-   "gan": 4248.57,
-   "nNeta": 313,
-   "neta": 665.87
+   "n": 1434,
+   "gan": 4468.99,
+   "nNeta": 532,
+   "neta": 746.65
   },
   {
    "s": 2,
-   "n": 687,
-   "gan": 2541.92,
-   "nNeta": 150,
-   "neta": 340.8
+   "n": 893,
+   "gan": 2722.38,
+   "nNeta": 346,
+   "neta": 410.63
   },
   {
    "s": 5,
-   "n": 491,
-   "gan": 1789.03,
-   "nNeta": 75,
-   "neta": 79
+   "n": 690,
+   "gan": 1955.73,
+   "nNeta": 269,
+   "neta": 143.64
   },
   {
    "s": 30,
-   "n": 212,
-   "gan": 567.63,
-   "nNeta": 36,
-   "neta": 45.99
+   "n": 217,
+   "gan": 588.25,
+   "nNeta": 38,
+   "neta": 48.1
   }
  ],
- "rentables": 523,
+ "rentables": 772,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 379
+   "n": 394
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 636
+   "n": 677
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 441
+   "n": 473
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 279
+   "n": 473
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 131
+   "n": 134
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 81
+   "n": 83
   }
  ],
  "porEvento": [
+  {
+   "titulo": "How many House seats will the Democrats win in Tennessee?",
+   "n": 217,
+   "gan": 138.3,
+   "neta": 64.58,
+   "mediana": 5.348
+  },
   {
    "titulo": "CZ # posts October 30 - November 6, 2026?",
    "n": 194,
@@ -143,13 +150,6 @@
    "gan": 230.05,
    "neta": 51.85,
    "mediana": 0.62
-  },
-  {
-   "titulo": "FC Porto vs. SSC Napoli",
-   "n": 44,
-   "gan": 623.12,
-   "neta": 109.83,
-   "mediana": 0.46
   }
  ],
  "porHora": [
@@ -347,128 +347,132 @@
   },
   {
    "h": 1793905200000,
-   "n": 74
+   "n": 212
+  },
+  {
+   "h": 1793908800000,
+   "n": 149
   }
  ],
  "recientes": [
   {
-   "inicio": 1793906681427,
-   "titulo": "FC Midtjylland vs. AFC Ajax",
-   "dur": 7.824,
-   "gan": 8.08,
-   "neta": 7.47,
+   "inicio": 1793907562170,
+   "titulo": "Kuopion PS vs. KAA Gent",
+   "dur": 2139.299,
+   "gan": 0.62,
+   "neta": 0.52,
    "lado": "si"
   },
   {
-   "inicio": 1793903687485,
+   "inicio": 1793906702804,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3001.766,
+   "dur": 2998.665,
    "gan": 8,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793906568274,
-   "titulo": "FC Midtjylland vs. AFC Ajax",
-   "dur": 91.958,
-   "gan": 6.26,
-   "neta": 5.38,
+   "inicio": 1793909695148,
+   "titulo": "How many House seats will the Democrats win in Tennessee?",
+   "dur": 5.444,
+   "gan": 0.73,
+   "neta": 0.39,
    "lado": "si"
   },
   {
-   "inicio": 1793906628291,
-   "titulo": "AC Milan vs. Ferencvárosi TC",
-   "dur": 0.1,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793906626268,
-   "titulo": "AC Milan vs. Ferencvárosi TC",
-   "dur": 0.927,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793906625887,
-   "titulo": "AC Milan vs. Ferencvárosi TC",
-   "dur": 0.026,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793906625690,
-   "titulo": "AC Milan vs. Ferencvárosi TC",
-   "dur": 0.072,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793906564924,
-   "titulo": "Crystal Palace FC vs. TSG 1899 Hoffenheim",
-   "dur": 0.603,
-   "gan": 1.17,
-   "neta": 0.27,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793906564340,
-   "titulo": "Crystal Palace FC vs. TSG 1899 Hoffenheim",
-   "dur": 0.555,
-   "gan": 1.89,
-   "neta": 0.91,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793906519425,
-   "titulo": "AC Sparta Praha vs. AFC Bournemouth",
-   "dur": 3.346,
-   "gan": 0.82,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793906449690,
-   "titulo": "FC Midtjylland vs. AFC Ajax",
-   "dur": 70.076,
-   "gan": 1.31,
-   "neta": 0.72,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793906519718,
-   "titulo": "AC Sparta Praha vs. AFC Bournemouth",
-   "dur": 0.044,
-   "gan": 19.83,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793906471385,
-   "titulo": "AC Milan vs. Ferencvárosi TC",
-   "dur": 1.171,
-   "gan": 1.35,
+   "inicio": 1793909696897,
+   "titulo": "FC København vs. SK Iberia 1999",
+   "dur": 1.257,
+   "gan": 0.65,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793906471233,
-   "titulo": "AC Milan vs. Ferencvárosi TC",
-   "dur": 0.036,
-   "gan": 0.6,
+   "inicio": 1793909689395,
+   "titulo": "How many House seats will the Democrats win in Tennessee?",
+   "dur": 5.369,
+   "gan": 0.64,
+   "neta": 0.3,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793909683643,
+   "titulo": "How many House seats will the Democrats win in Tennessee?",
+   "dur": 5.375,
+   "gan": 0.57,
+   "neta": 0.22,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793909677969,
+   "titulo": "How many House seats will the Democrats win in Tennessee?",
+   "dur": 0.055,
+   "gan": 0.52,
+   "neta": 0.22,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793909672241,
+   "titulo": "How many House seats will the Democrats win in Tennessee?",
+   "dur": 5.332,
+   "gan": 0.76,
+   "neta": 0.41,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793909666559,
+   "titulo": "How many House seats will the Democrats win in Tennessee?",
+   "dur": 5.357,
+   "gan": 0.66,
+   "neta": 0.31,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793909660833,
+   "titulo": "How many House seats will the Democrats win in Tennessee?",
+   "dur": 5.38,
+   "gan": 0.57,
+   "neta": 0.22,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793909655281,
+   "titulo": "MH Hapoel Be'er Sheva vs. OFI",
+   "dur": 0.959,
+   "gan": 0.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793906461499,
-   "titulo": "AC Milan vs. Ferencvárosi TC",
-   "dur": 1.314,
-   "gan": 1.97,
-   "neta": 0.12,
+   "inicio": 1793909649328,
+   "titulo": "How many House seats will the Democrats win in Tennessee?",
+   "dur": 5.368,
+   "gan": 0.76,
+   "neta": 0.41,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793909643533,
+   "titulo": "How many House seats will the Democrats win in Tennessee?",
+   "dur": 5.348,
+   "gan": 0.64,
+   "neta": 0.3,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793909637847,
+   "titulo": "How many House seats will the Democrats win in Tennessee?",
+   "dur": 5.358,
+   "gan": 0.57,
+   "neta": 0.22,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793909626468,
+   "titulo": "How many House seats will the Democrats win in Tennessee?",
+   "dur": 5.329,
+   "gan": 0.76,
+   "neta": 0.41,
    "lado": "si"
   }
  ]
