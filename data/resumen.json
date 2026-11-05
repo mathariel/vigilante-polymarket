@@ -1,83 +1,83 @@
 {
- "actualizado": 1793894605562,
+ "actualizado": 1793897639292,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793891605522,
-  "fin": 1793894605562,
-  "mensajes": 7662170,
+  "inicio": 1793894639250,
+  "fin": 1793897639292,
+  "mensajes": 7404594,
   "reconexiones": 0,
-  "eventos": 634,
+  "eventos": 618,
   "errores": []
  },
- "total": 1736,
- "falsos": 508,
+ "total": 1748,
+ "falsos": 516,
  "largos": {
-  "episodios": 2799,
-  "eventos": 72,
+  "episodios": 2849,
+  "eventos": 73,
   "dias": 7
  },
- "mediana": 0.908,
+ "mediana": 0.92,
  "captura": [
   {
    "s": 0.5,
-   "n": 1066,
-   "gan": 3898.62,
-   "nNeta": 271,
-   "neta": 544.12
+   "n": 1076,
+   "gan": 3930.64,
+   "nNeta": 274,
+   "neta": 546
   },
   {
    "s": 2,
-   "n": 613,
-   "gan": 2265.33,
-   "nNeta": 123,
-   "neta": 233.2
+   "n": 620,
+   "gan": 2294.35,
+   "nNeta": 125,
+   "neta": 234.3
   },
   {
    "s": 5,
-   "n": 449,
-   "gan": 1646.21,
-   "nNeta": 63,
-   "neta": 61.52
+   "n": 455,
+   "gan": 1674.54,
+   "nNeta": 64,
+   "neta": 62.01
   },
   {
    "s": 30,
-   "n": 196,
-   "gan": 500.27,
-   "nNeta": 30,
-   "neta": 38.51
+   "n": 199,
+   "gan": 512.14,
+   "nNeta": 31,
+   "neta": 39
   }
  ],
- "rentables": 455,
+ "rentables": 460,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 340
+   "n": 341
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 565
+   "n": 566
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 382
+   "n": 386
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 253
+   "n": 256
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 124
+   "n": 125
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 72
+   "n": 74
   }
  ],
  "porEvento": [
@@ -332,9 +332,109 @@
   {
    "h": 1793890800000,
    "n": 14
+  },
+  {
+   "h": 1793894400000,
+   "n": 12
   }
  ],
  "recientes": [
+  {
+   "inicio": 1793894638557,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 3000.697,
+   "gan": 8,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793897404182,
+   "titulo": "FK Crvena zvezda vs. Inter Club d'Escaldes",
+   "dur": 1.232,
+   "gan": 1.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793897381706,
+   "titulo": "FK Crvena zvezda vs. Inter Club d'Escaldes",
+   "dur": 1.561,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793897370148,
+   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
+   "dur": 1.118,
+   "gan": 0.83,
+   "neta": 0.78,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793897034440,
+   "titulo": "FC Midtjylland vs. AFC Ajax",
+   "dur": 14.066,
+   "gan": 12.58,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793896750265,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 0.288,
+   "gan": 1.76,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793896686325,
+   "titulo": "FC Midtjylland vs. AFC Ajax",
+   "dur": 9.275,
+   "gan": 3.69,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793896059934,
+   "titulo": "Highest temperature in Munich on November 6?",
+   "dur": 55.267,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793896028899,
+   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
+   "dur": 0.034,
+   "gan": 0.79,
+   "neta": 0.24,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793896021732,
+   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
+   "dur": 5.228,
+   "gan": 0.95,
+   "neta": 0.15,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793894637993,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 1208.566,
+   "gan": 2.94,
+   "neta": 0.49,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793895549923,
+   "titulo": "How many Senate and House seats will Republicans have after the midterms?",
+   "dur": 2.47,
+   "gan": 0.73,
+   "neta": 0.65,
+   "lado": "si"
+  },
   {
    "inicio": 1793892239598,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
@@ -357,102 +457,6 @@
    "dur": 4.065,
    "gan": 0.93,
    "neta": 0.88,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793888588082,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3003.457,
-   "gan": 8.41,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793891535862,
-   "titulo": "Highest temperature in Munich on November 6?",
-   "dur": 3.592,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793891479888,
-   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
-   "dur": 2.252,
-   "gan": 0.73,
-   "neta": 0.63,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793891458358,
-   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
-   "dur": 1.039,
-   "gan": 1.26,
-   "neta": 1.06,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793891456083,
-   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
-   "dur": 1.069,
-   "gan": 5.05,
-   "neta": 4.07,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793891455775,
-   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
-   "dur": 0.23,
-   "gan": 1.23,
-   "neta": 0.99,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793891452883,
-   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
-   "dur": 2.875,
-   "gan": 0.76,
-   "neta": 0.69,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793891451061,
-   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
-   "dur": 0.046,
-   "gan": 1.02,
-   "neta": 0.78,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793891446374,
-   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
-   "dur": 4.56,
-   "gan": 14.57,
-   "neta": 11.64,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793891441800,
-   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
-   "dur": 3.132,
-   "gan": 1.41,
-   "neta": 0.34,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793891409049,
-   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
-   "dur": 0.692,
-   "gan": 1.35,
-   "neta": 1.25,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793891403778,
-   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
-   "dur": 4.249,
-   "gan": 5.63,
-   "neta": 4.88,
    "lado": "no"
   }
  ]
