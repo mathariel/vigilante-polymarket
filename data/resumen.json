@@ -1,83 +1,83 @@
 {
- "actualizado": 1793900663410,
+ "actualizado": 1793903676032,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793897663367,
-  "fin": 1793900663410,
-  "mensajes": 5812220,
-  "reconexiones": 0,
-  "eventos": 609,
+  "inicio": 1793900675988,
+  "fin": 1793903676032,
+  "mensajes": 12270472,
+  "reconexiones": 3,
+  "eventos": 608,
   "errores": []
  },
- "total": 1768,
- "falsos": 521,
+ "total": 1853,
+ "falsos": 562,
  "largos": {
-  "episodios": 2969,
-  "eventos": 73,
+  "episodios": 3056,
+  "eventos": 77,
   "dias": 7
  },
  "mediana": 0.924,
  "captura": [
   {
    "s": 0.5,
-   "n": 1090,
-   "gan": 3996.99,
-   "nNeta": 283,
-   "neta": 588.38
+   "n": 1141,
+   "gan": 4122.37,
+   "nNeta": 298,
+   "neta": 641.39
   },
   {
    "s": 2,
-   "n": 631,
-   "gan": 2358.24,
-   "nNeta": 133,
-   "neta": 275.22
+   "n": 661,
+   "gan": 2462.83,
+   "nNeta": 143,
+   "neta": 326.8
   },
   {
    "s": 5,
-   "n": 458,
-   "gan": 1683.89,
-   "nNeta": 65,
-   "neta": 62.1
+   "n": 473,
+   "gan": 1716.5,
+   "nNeta": 69,
+   "neta": 65.09
   },
   {
    "s": 30,
-   "n": 201,
-   "gan": 520.64,
-   "nNeta": 32,
-   "neta": 39.09
+   "n": 205,
+   "gan": 531.85,
+   "nNeta": 33,
+   "neta": 39.82
   }
  ],
- "rentables": 473,
+ "rentables": 500,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 346
+   "n": 362
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 567
+   "n": 597
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 397
+   "n": 421
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 257
+   "n": 268
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 125
+   "n": 126
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 76
+   "n": 79
   }
  ],
  "porEvento": [
@@ -339,129 +339,133 @@
   },
   {
    "h": 1793898000000,
-   "n": 16
+   "n": 28
+  },
+  {
+   "h": 1793901600000,
+   "n": 73
   }
  ],
  "recientes": [
   {
-   "inicio": 1793897663576,
+   "inicio": 1793903217294,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 458.697,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793900680265,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2999.794,
+   "dur": 2995.726,
    "gan": 8,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793899345473,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 1155.494,
+   "inicio": 1793903615482,
+   "titulo": "AC Sparta Praha vs. AFC Bournemouth - Halftime Result",
+   "dur": 6.977,
+   "gan": 3.2,
+   "neta": 1.5,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793903600874,
+   "titulo": "AC Sparta Praha vs. AFC Bournemouth - Halftime Result",
+   "dur": 3.329,
    "gan": 0.5,
-   "neta": 0.09,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793900344007,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 13.201,
-   "gan": 1.07,
-   "neta": 0.01,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793899845335,
-   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
-   "dur": 2.817,
-   "gan": 0.6,
-   "neta": 0.48,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793899841116,
-   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
-   "dur": 3.044,
-   "gan": 0.61,
-   "neta": 0.5,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793899838382,
-   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
-   "dur": 1.517,
+   "inicio": 1793903599560,
+   "titulo": "AC Sparta Praha vs. AFC Bournemouth - Halftime Result",
+   "dur": 0.804,
    "gan": 0.73,
-   "neta": 0.55,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793899837111,
-   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
-   "dur": 1.013,
-   "gan": 0.6,
-   "neta": 0.42,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793899830006,
-   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
-   "dur": 2.763,
-   "gan": 0.9,
-   "neta": 0.82,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793899822022,
-   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
-   "dur": 4.106,
-   "gan": 0.6,
-   "neta": 0.55,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793899816032,
-   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
-   "dur": 4.453,
-   "gan": 2.52,
-   "neta": 2.29,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793899804860,
-   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
-   "dur": 3.175,
-   "gan": 26.13,
-   "neta": 19.94,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793899451847,
-   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
-   "dur": 0.031,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793899329414,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 4.771,
-   "gan": 2.23,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793899321453,
-   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
-   "dur": 1.946,
-   "gan": 0.6,
+   "inicio": 1793903598122,
+   "titulo": "AC Sparta Praha vs. AFC Bournemouth - Halftime Result",
+   "dur": 0.427,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793903594881,
+   "titulo": "AC Sparta Praha vs. AFC Bournemouth - Halftime Result",
+   "dur": 0.333,
+   "gan": 0.72,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793903594061,
+   "titulo": "AC Sparta Praha vs. AFC Bournemouth - Halftime Result",
+   "dur": 0.385,
+   "gan": 0.97,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793903593816,
+   "titulo": "AC Sparta Praha vs. AFC Bournemouth - Halftime Result",
+   "dur": 0.06,
+   "gan": 0.62,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793903592466,
+   "titulo": "AC Sparta Praha vs. AFC Bournemouth - Halftime Result",
+   "dur": 0.625,
+   "gan": 0.97,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793903592172,
+   "titulo": "AC Sparta Praha vs. AFC Bournemouth - Halftime Result",
+   "dur": 0.268,
+   "gan": 0.98,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793903591920,
+   "titulo": "AC Sparta Praha vs. AFC Bournemouth - Halftime Result",
+   "dur": 0.043,
+   "gan": 0.62,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793903421330,
+   "titulo": "Mjällby AIF vs. FK Borac Banja Luka",
+   "dur": 1.472,
+   "gan": 0.96,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793899120846,
-   "titulo": "Zelenskyy # posts October 30 - November 6, 2026?",
-   "dur": 0.031,
-   "gan": 0.94,
-   "neta": 0.33,
-   "lado": "si"
+   "inicio": 1793903421205,
+   "titulo": "Mjällby AIF vs. FK Borac Banja Luka",
+   "dur": 0.028,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793903406804,
+   "titulo": "Mjällby AIF vs. FK Borac Banja Luka",
+   "dur": 0.225,
+   "gan": 8.86,
+   "neta": 1.63,
+   "lado": "no"
   }
  ]
 }
