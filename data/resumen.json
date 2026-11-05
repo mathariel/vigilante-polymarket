@@ -1,73 +1,73 @@
 {
- "actualizado": 1793837357100,
+ "actualizado": 1793840367518,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793834357044,
-  "fin": 1793837357100,
-  "mensajes": 5977512,
-  "reconexiones": 4,
-  "eventos": 564,
+  "inicio": 1793837367486,
+  "fin": 1793840367518,
+  "mensajes": 5913170,
+  "reconexiones": 1,
+  "eventos": 576,
   "errores": []
  },
- "total": 1474,
- "falsos": 432,
+ "total": 1492,
+ "falsos": 438,
  "largos": {
-  "episodios": 1832,
-  "eventos": 62,
+  "episodios": 1866,
+  "eventos": 63,
   "dias": 7
  },
  "mediana": 0.82,
  "captura": [
   {
    "s": 0.5,
-   "n": 866,
-   "gan": 3213.83,
-   "nNeta": 186,
-   "neta": 346.23
+   "n": 880,
+   "gan": 3255.72,
+   "nNeta": 190,
+   "neta": 359.71
   },
   {
    "s": 2,
-   "n": 467,
-   "gan": 1647.7,
-   "nNeta": 66,
-   "neta": 47.4
+   "n": 474,
+   "gan": 1679.42,
+   "nNeta": 68,
+   "neta": 58.83
   },
   {
    "s": 5,
-   "n": 342,
-   "gan": 1234.87,
-   "nNeta": 34,
-   "neta": 18.8
+   "n": 346,
+   "gan": 1249.39,
+   "nNeta": 35,
+   "neta": 18.82
   },
   {
    "s": 30,
-   "n": 121,
-   "gan": 151.19,
-   "nNeta": 9,
-   "neta": 3.87
+   "n": 123,
+   "gan": 164.29,
+   "nNeta": 10,
+   "neta": 3.89
   }
  ],
- "rentables": 338,
+ "rentables": 345,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 301
+   "n": 304
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 515
+   "n": 521
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 316
+   "n": 321
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 221
+   "n": 223
   },
   {
    "et": "30 s–5 min",
@@ -77,7 +77,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 29
+   "n": 31
   }
  ],
  "porEvento": [
@@ -271,128 +271,128 @@
   },
   {
    "h": 1793836800000,
-   "n": 4
+   "n": 22
   }
  ],
  "recientes": [
   {
-   "inicio": 1793834359630,
+   "inicio": 1793838622592,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 1744.898,
+   "gan": 1.09,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793837361777,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2997.418,
+   "dur": 3005.713,
    "gan": 12.02,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793837248317,
-   "titulo": "CA Paranaense vs. CR Vasco da Gama",
-   "dur": 0.225,
-   "gan": 2.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793837245105,
-   "titulo": "Cúcuta Deportivo FC vs. Independiente Santa Fe",
-   "dur": 1.12,
+   "inicio": 1793840121876,
+   "titulo": "Highest temperature in Shenzhen on November 6?",
+   "dur": 1.718,
    "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793837242702,
+   "inicio": 1793840015345,
+   "titulo": "São Paulo FC vs. SC Corinthians Paulista",
+   "dur": 0.048,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793840014401,
+   "titulo": "São Paulo FC vs. SC Corinthians Paulista",
+   "dur": 0.525,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793839720782,
+   "titulo": "Botafogo FR vs. CA Mineiro",
+   "dur": 0.655,
+   "gan": 2.11,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793839674938,
+   "titulo": "Venados FC vs. Atletico Morelia",
+   "dur": 0.701,
+   "gan": 2.52,
+   "neta": 1.56,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793839638588,
+   "titulo": "Venados FC vs. Atletico Morelia",
+   "dur": 0.1,
+   "gan": 4.1,
+   "neta": 1.67,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793839635806,
+   "titulo": "Venados FC vs. Atletico Morelia",
+   "dur": 2.251,
+   "gan": 13.88,
+   "neta": 10,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793839626103,
+   "titulo": "Venados FC vs. Atletico Morelia",
+   "dur": 0.621,
+   "gan": 0.5,
+   "neta": 0.21,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793839577159,
    "titulo": "Cúcuta Deportivo FC vs. Independiente Santa Fe",
-   "dur": 1.415,
-   "gan": 0.78,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793837211496,
-   "titulo": "CA Paranaense vs. CR Vasco da Gama",
-   "dur": 0.02,
-   "gan": 0.52,
-   "neta": 0.04,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793836667162,
-   "titulo": "CA Paranaense vs. CR Vasco da Gama",
-   "dur": 0.474,
-   "gan": 0.69,
-   "neta": 0.27,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793836635211,
-   "titulo": "CA Paranaense vs. CR Vasco da Gama",
-   "dur": 0.122,
-   "gan": 1.42,
-   "neta": 0.15,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793836635090,
-   "titulo": "CA Paranaense vs. CR Vasco da Gama",
-   "dur": 0.11,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793836626461,
-   "titulo": "CA Paranaense vs. CR Vasco da Gama",
-   "dur": 0.132,
-   "gan": 1.2,
-   "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793836625590,
-   "titulo": "CA Paranaense vs. CR Vasco da Gama",
-   "dur": 0.038,
+   "dur": 0.798,
    "gan": 0.53,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793836508492,
-   "titulo": "CA Paranaense vs. CR Vasco da Gama",
-   "dur": 1.042,
-   "gan": 22.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793836463271,
-   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
-   "dur": 0.039,
-   "gan": 0.57,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793836369121,
-   "titulo": "Metropolitanos FC vs. Carabobo FC",
-   "dur": 0.829,
-   "gan": 1.85,
+   "inicio": 1793839570981,
+   "titulo": "Cúcuta Deportivo FC vs. Independiente Santa Fe",
+   "dur": 1.381,
+   "gan": 1.21,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793839257726,
+   "titulo": "São Paulo FC vs. SC Corinthians Paulista",
+   "dur": 2.741,
+   "gan": 0.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793836339756,
-   "titulo": "Sportivo Ameliano vs. Club Guarani Asuncion",
-   "dur": 2.69,
-   "gan": 2.27,
-   "neta": 0.73,
+   "inicio": 1793838640542,
+   "titulo": "São Paulo FC vs. SC Corinthians Paulista - Halftime Result",
+   "dur": 5.178,
+   "gan": 0.67,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793836338698,
-   "titulo": "Sportivo Ameliano vs. Club Guarani Asuncion",
-   "dur": 0.076,
-   "gan": 3.56,
-   "neta": 2.67,
+   "inicio": 1793838640495,
+   "titulo": "São Paulo FC vs. SC Corinthians Paulista - Halftime Result",
+   "dur": 0.034,
+   "gan": 5.52,
+   "neta": 3.92,
    "lado": "no"
   }
  ]
