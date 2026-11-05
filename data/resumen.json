@@ -1,18 +1,18 @@
 {
- "actualizado": 1793870493531,
+ "actualizado": 1793873506486,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793867493502,
-  "fin": 1793870493531,
-  "mensajes": 5286632,
+  "inicio": 1793870506457,
+  "fin": 1793873506486,
+  "mensajes": 5531274,
   "reconexiones": 0,
-  "eventos": 598,
+  "eventos": 605,
   "errores": []
  },
- "total": 1641,
- "falsos": 467,
+ "total": 1648,
+ "falsos": 469,
  "largos": {
-  "episodios": 2221,
+  "episodios": 2280,
   "eventos": 69,
   "dias": 7
  },
@@ -20,39 +20,39 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 990,
-   "gan": 3606.8,
-   "nNeta": 229,
-   "neta": 415.19
+   "n": 993,
+   "gan": 3617.46,
+   "nNeta": 231,
+   "neta": 415.69
   },
   {
    "s": 2,
-   "n": 557,
-   "gan": 1981.48,
-   "nNeta": 94,
-   "neta": 98.3
+   "n": 559,
+   "gan": 1991.22,
+   "nNeta": 95,
+   "neta": 98.78
   },
   {
    "s": 5,
-   "n": 416,
-   "gan": 1530.97,
-   "nNeta": 53,
-   "neta": 50.79
+   "n": 418,
+   "gan": 1540.83,
+   "nNeta": 54,
+   "neta": 51.39
   },
   {
    "s": 30,
-   "n": 172,
-   "gan": 406.54,
+   "n": 173,
+   "gan": 415.73,
    "nNeta": 26,
    "neta": 35.83
   }
  ],
- "rentables": 400,
+ "rentables": 404,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 326
+   "n": 330
   },
   {
    "et": "0.1–1 s",
@@ -62,12 +62,12 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 349
+   "n": 350
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 244
+   "n": 245
   },
   {
    "et": "30 s–5 min",
@@ -77,7 +77,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 55
+   "n": 56
   }
  ],
  "porEvento": [
@@ -307,10 +307,70 @@
   },
   {
    "h": 1793869200000,
-   "n": 1
+   "n": 5
+  },
+  {
+   "h": 1793872800000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1793870506012,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 3000.447,
+   "gan": 9.19,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793873350305,
+   "titulo": "Machida Zelvia vs. Shanghai Shenhua FC",
+   "dur": 0.083,
+   "gan": 0.7,
+   "neta": 0.06,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793873348443,
+   "titulo": "Machida Zelvia vs. Shanghai Shenhua FC",
+   "dur": 1.846,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793873285777,
+   "titulo": "FC Lugano vs. FK Kauno Žalgiris",
+   "dur": 0.087,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793872684998,
+   "titulo": "Ted Cruz # posts October 30 - November 6, 2026?",
+   "dur": 0.062,
+   "gan": 0.68,
+   "neta": 0.57,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793871761261,
+   "titulo": "How many House seats will the Democrats win in Virginia?",
+   "dur": 6.101,
+   "gan": 0.51,
+   "neta": 0.44,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793871110142,
+   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
+   "dur": 0.018,
+   "gan": 0.56,
+   "neta": 0.24,
+   "lado": "no"
+  },
   {
    "inicio": 1793867486864,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
@@ -372,62 +432,6 @@
    "titulo": "\"Godzilla Minus Zero\" Opening Weekend Box Office",
    "dur": 10.757,
    "gan": 0.74,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793866386999,
-   "titulo": "Highest temperature in Singapore on November 6?",
-   "dur": 11.499,
-   "gan": 0.8,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793866383834,
-   "titulo": "Highest temperature in Singapore on November 6?",
-   "dur": 3.07,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793861463655,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3002.51,
-   "gan": 9.37,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793863444673,
-   "titulo": "Ted Cruz # posts November 3 - November 10, 2026?",
-   "dur": 0.239,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793863435154,
-   "titulo": "Ted Cruz # posts November 3 - November 10, 2026?",
-   "dur": 9.457,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793863435109,
-   "titulo": "Ted Cruz # posts November 3 - November 10, 2026?",
-   "dur": 0.004,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793863405005,
-   "titulo": "Ted Cruz # posts November 3 - November 10, 2026?",
-   "dur": 30.063,
-   "gan": 0.51,
    "neta": 0,
    "lado": "no"
   }
