@@ -1,83 +1,83 @@
 {
- "actualizado": 1793843379080,
+ "actualizado": 1793846390297,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793840379044,
-  "fin": 1793843379080,
-  "mensajes": 5976656,
-  "reconexiones": 0,
-  "eventos": 583,
+  "inicio": 1793843390261,
+  "fin": 1793846390297,
+  "mensajes": 6494762,
+  "reconexiones": 1,
+  "eventos": 591,
   "errores": []
  },
- "total": 1504,
- "falsos": 440,
+ "total": 1533,
+ "falsos": 448,
  "largos": {
-  "episodios": 1948,
+  "episodios": 1975,
   "eventos": 63,
   "dias": 7
  },
- "mediana": 0.82,
+ "mediana": 0.833,
  "captura": [
   {
    "s": 0.5,
-   "n": 887,
-   "gan": 3281.03,
-   "nNeta": 194,
-   "neta": 368.9
+   "n": 911,
+   "gan": 3373,
+   "nNeta": 201,
+   "neta": 378.45
   },
   {
    "s": 2,
-   "n": 480,
-   "gan": 1695.33,
-   "nNeta": 71,
-   "neta": 59.03
+   "n": 495,
+   "gan": 1761.91,
+   "nNeta": 75,
+   "neta": 65.41
   },
   {
    "s": 5,
-   "n": 351,
-   "gan": 1264.66,
-   "nNeta": 37,
-   "neta": 18.85
+   "n": 363,
+   "gan": 1323.26,
+   "nNeta": 39,
+   "neta": 22.11
   },
   {
    "s": 30,
-   "n": 126,
-   "gan": 178.08,
-   "nNeta": 11,
-   "neta": 3.91
+   "n": 136,
+   "gan": 210.83,
+   "nNeta": 13,
+   "neta": 7.17
   }
  ],
- "rentables": 352,
+ "rentables": 360,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 306
+   "n": 309
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 525
+   "n": 531
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 322
+   "n": 330
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 225
+   "n": 227
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 93
+   "n": 100
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 33
+   "n": 36
   }
  ],
  "porEvento": [
@@ -138,18 +138,18 @@
    "mediana": 0.62
   },
   {
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "n": 47,
+   "gan": 60.49,
+   "neta": 5.7,
+   "mediana": 0.505
+  },
+  {
    "titulo": "FC Porto vs. SSC Napoli",
    "n": 44,
    "gan": 623.12,
    "neta": 109.83,
    "mediana": 0.46
-  },
-  {
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "n": 37,
-   "gan": 39.6,
-   "neta": 2.99,
-   "mediana": 0.357
   }
  ],
  "porHora": [
@@ -275,127 +275,131 @@
   },
   {
    "h": 1793840400000,
-   "n": 10
+   "n": 16
+  },
+  {
+   "h": 1793844000000,
+   "n": 23
   }
  ],
  "recientes": [
   {
-   "inicio": 1793840379780,
+   "inicio": 1793845823759,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 566.505,
+   "gan": 3.52,
+   "neta": 0.89,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793843389418,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2999.267,
-   "gan": 12.02,
+   "dur": 3000.846,
+   "gan": 11.52,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793842775232,
-   "titulo": "Millonarios FC vs. América de Cali",
-   "dur": 0.223,
-   "gan": 0.74,
-   "neta": 0,
+   "inicio": 1793846263527,
+   "titulo": "Cúcuta Deportivo FC vs. Independiente Santa Fe",
+   "dur": 1.114,
+   "gan": 0.56,
+   "neta": 0.46,
    "lado": "si"
   },
   {
-   "inicio": 1793842453939,
-   "titulo": "\"The Cat in the Hat\" Opening Weekend Box Office",
-   "dur": 14.088,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793842368310,
-   "titulo": "\"The Cat in the Hat\" Opening Weekend Box Office",
-   "dur": 52.222,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793842356620,
-   "titulo": "CZ # posts October 30 - November 6, 2026?",
-   "dur": 4.174,
-   "gan": 0.64,
-   "neta": 0.17,
+   "inicio": 1793845114720,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 709.032,
+   "gan": 13.14,
+   "neta": 1.82,
    "lado": "si"
   },
   {
-   "inicio": 1793842356143,
-   "titulo": "CZ # posts October 30 - November 6, 2026?",
-   "dur": 0.201,
-   "gan": 0.59,
-   "neta": 0.14,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793841903699,
-   "titulo": "Highest temperature in Wellington on November 5?",
-   "dur": 0.087,
-   "gan": 1.64,
-   "neta": 1.46,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793841903616,
-   "titulo": "Highest temperature in Wellington on November 5?",
-   "dur": 0.002,
-   "gan": 0.61,
-   "neta": 0.43,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793841656243,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 9.678,
-   "gan": 0.83,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793840382415,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 730.308,
-   "gan": 1.12,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793840656773,
+   "inicio": 1793845742408,
    "titulo": "São Paulo FC vs. SC Corinthians Paulista",
-   "dur": 0.235,
-   "gan": 1.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793840444540,
-   "titulo": "Venados FC vs. Atletico Morelia",
-   "dur": 0.794,
-   "gan": 8.38,
-   "neta": 7.96,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793838622592,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 1744.898,
+   "dur": 3.681,
    "gan": 1.09,
-   "neta": 0.02,
-   "lado": "si"
+   "neta": 0.63,
+   "lado": "no"
   },
   {
-   "inicio": 1793837361777,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3005.713,
-   "gan": 12.02,
+   "inicio": 1793845567551,
+   "titulo": "\"The Cat in the Hat\" Opening Weekend Box Office",
+   "dur": 0.192,
+   "gan": 0.6,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793840121876,
-   "titulo": "Highest temperature in Shenzhen on November 6?",
-   "dur": 1.718,
-   "gan": 0.51,
+   "inicio": 1793845055225,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 59.075,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793845052233,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 0.017,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793844993531,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 56.538,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793845017246,
+   "titulo": "São Paulo FC vs. SC Corinthians Paulista",
+   "dur": 5.853,
+   "gan": 7.06,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793844928367,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 60.164,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793844984936,
+   "titulo": "São Paulo FC vs. SC Corinthians Paulista",
+   "dur": 1.469,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793844966228,
+   "titulo": "São Paulo FC vs. SC Corinthians Paulista",
+   "dur": 15.766,
+   "gan": 18.96,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793844929420,
+   "titulo": "São Paulo FC vs. SC Corinthians Paulista",
+   "dur": 0.869,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793844866738,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 61.346,
+   "gan": 0.53,
    "neta": 0,
    "lado": "si"
   }
