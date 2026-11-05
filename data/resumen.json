@@ -1,91 +1,91 @@
 {
- "actualizado": 1793912718189,
+ "actualizado": 1793915732628,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793909718138,
-  "fin": 1793912718189,
-  "mensajes": 10494550,
-  "reconexiones": 1,
-  "eventos": 637,
+  "inicio": 1793912732585,
+  "fin": 1793915732628,
+  "mensajes": 11840831,
+  "reconexiones": 4,
+  "eventos": 613,
   "errores": []
  },
- "total": 2664,
- "falsos": 665,
+ "total": 2867,
+ "falsos": 751,
  "largos": {
-  "episodios": 3167,
+  "episodios": 3190,
   "eventos": 78,
   "dias": 7
  },
- "mediana": 1.4,
+ "mediana": 1.174,
  "captura": [
   {
    "s": 0.5,
-   "n": 1776,
-   "gan": 4825.96,
-   "nNeta": 837,
-   "neta": 843.26
+   "n": 1866,
+   "gan": 5045.15,
+   "nNeta": 879,
+   "neta": 922.94
   },
   {
    "s": 2,
-   "n": 1196,
-   "gan": 2962.67,
-   "nNeta": 634,
-   "neta": 504.86
+   "n": 1226,
+   "gan": 3052.57,
+   "nNeta": 646,
+   "neta": 533.37
   },
   {
    "s": 5,
-   "n": 976,
-   "gan": 2173.15,
-   "nNeta": 548,
-   "neta": 236.15
+   "n": 988,
+   "gan": 2212.26,
+   "nNeta": 554,
+   "neta": 245.67
   },
   {
    "s": 30,
-   "n": 224,
-   "gan": 604.23,
-   "nNeta": 44,
-   "neta": 53.7
+   "n": 228,
+   "gan": 616.71,
+   "nNeta": 47,
+   "neta": 55.75
   }
  ],
- "rentables": 1122,
+ "rentables": 1207,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 415
+   "n": 481
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 762
+   "n": 846
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 511
+   "n": 552
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 752
+   "n": 760
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 139
+   "n": 140
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 85
+   "n": 88
   }
  ],
  "porEvento": [
   {
    "titulo": "How many House seats will the Democrats win in Tennessee?",
-   "n": 559,
-   "gan": 354.51,
-   "neta": 165.07,
+   "n": 560,
+   "gan": 355.81,
+   "neta": 165.83,
    "mediana": 5.347
   },
   {
@@ -117,6 +117,13 @@
    "mediana": 0.034
   },
   {
+   "titulo": "Celtic FC vs. Beşiktaş JK",
+   "n": 75,
+   "gan": 90.3,
+   "neta": 30.1,
+   "mediana": 0.112
+  },
+  {
    "titulo": "Fenerbahçe SK vs. Liverpool FC",
    "n": 65,
    "gan": 135.57,
@@ -143,13 +150,6 @@
    "gan": 221.92,
    "neta": 74.35,
    "mediana": 0.592
-  },
-  {
-   "titulo": "Manchester United FC vs. AS Roma",
-   "n": 52,
-   "gan": 230.05,
-   "neta": 51.85,
-   "mediana": 0.62
   }
  ],
  "porHora": [
@@ -355,128 +355,128 @@
   },
   {
    "h": 1793912400000,
-   "n": 5
+   "n": 208
   }
  ],
  "recientes": [
   {
-   "inicio": 1793912396721,
-   "titulo": "How many House seats will the Democrats win in Tennessee?",
-   "dur": 321.42,
-   "gan": 1.3,
-   "neta": 0.76,
+   "inicio": 1793915489852,
+   "titulo": "K. Sint-Truidense VV vs. SK Brann",
+   "dur": 242.736,
+   "gan": 1.21,
+   "neta": 1.04,
    "lado": "si"
   },
   {
-   "inicio": 1793909717842,
+   "inicio": 1793913280833,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 2451.755,
+   "gan": 1.4,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793912740118,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3000.299,
+   "dur": 2992.47,
    "gan": 7.76,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793912590796,
-   "titulo": "AS Monaco FC vs. FC Nordsjælland",
-   "dur": 0.164,
+   "inicio": 1793912523521,
+   "titulo": "How many House seats will the Democrats win in Tennessee?",
+   "dur": 3209.067,
+   "gan": 1.3,
+   "neta": 0.76,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793915729962,
+   "titulo": "AZ vs. Juventus FC",
+   "dur": 2,
+   "gan": 1.13,
+   "neta": 0.93,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793915712519,
+   "titulo": "Bayer 04 Leverkusen vs. Olympique de Marseille",
+   "dur": 0.846,
+   "gan": 0.55,
+   "neta": 0.18,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793915708938,
+   "titulo": "AZ vs. Juventus FC",
+   "dur": 0.625,
+   "gan": 0.73,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793915683759,
+   "titulo": "AZ vs. Juventus FC",
+   "dur": 0.73,
+   "gan": 0.55,
+   "neta": 0.44,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793915682006,
+   "titulo": "AZ vs. Juventus FC",
+   "dur": 1.287,
+   "gan": 3.25,
+   "neta": 2.63,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793915679298,
+   "titulo": "AZ vs. Juventus FC",
+   "dur": 1.104,
    "gan": 0.65,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793912590654,
-   "titulo": "AS Monaco FC vs. FC Nordsjælland",
-   "dur": 0.137,
-   "gan": 0.64,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793912590377,
-   "titulo": "AS Monaco FC vs. FC Nordsjælland",
-   "dur": 0.274,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793912590220,
-   "titulo": "AS Monaco FC vs. FC Nordsjælland",
-   "dur": 0.154,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793912590073,
-   "titulo": "AS Monaco FC vs. FC Nordsjælland",
-   "dur": 0.007,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793911964692,
-   "titulo": "How many House seats will the Democrats win in Tennessee?",
-   "dur": 88.653,
-   "gan": 0.73,
-   "neta": 0.39,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793911958909,
-   "titulo": "How many House seats will the Democrats win in Tennessee?",
-   "dur": 5.326,
-   "gan": 0.66,
-   "neta": 0.31,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793911953204,
-   "titulo": "How many House seats will the Democrats win in Tennessee?",
-   "dur": 5.356,
-   "gan": 0.57,
-   "neta": 0.22,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793911941758,
-   "titulo": "How many House seats will the Democrats win in Tennessee?",
-   "dur": 5.327,
-   "gan": 0.73,
-   "neta": 0.39,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793911935990,
-   "titulo": "How many House seats will the Democrats win in Tennessee?",
-   "dur": 5.322,
-   "gan": 0.66,
-   "neta": 0.31,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793911930285,
-   "titulo": "How many House seats will the Democrats win in Tennessee?",
-   "dur": 5.353,
-   "gan": 0.56,
-   "neta": 0.22,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793911924598,
-   "titulo": "How many House seats will the Democrats win in Tennessee?",
-   "dur": 0.012,
-   "gan": 0.52,
-   "neta": 0.22,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793911918886,
-   "titulo": "How many House seats will the Democrats win in Tennessee?",
-   "dur": 5.363,
-   "gan": 0.76,
    "neta": 0.41,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793915679273,
+   "titulo": "AZ vs. Juventus FC",
+   "dur": 0.019,
+   "gan": 0.55,
+   "neta": 0.3,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793915674079,
+   "titulo": "AZ vs. Juventus FC",
+   "dur": 1.53,
+   "gan": 44.2,
+   "neta": 33.2,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793915647461,
+   "titulo": "Highest temperature in Denver on November 5?",
+   "dur": 0.003,
+   "gan": 11.7,
+   "neta": 11.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793915611083,
+   "titulo": "Celtic FC vs. Beşiktaş JK",
+   "dur": 0.223,
+   "gan": 0.88,
+   "neta": 0.58,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793915611034,
+   "titulo": "Celtic FC vs. Beşiktaş JK",
+   "dur": 0.033,
+   "gan": 0.85,
+   "neta": 0.57,
    "lado": "si"
   }
  ]
