@@ -1,58 +1,58 @@
 {
- "actualizado": 1793879528450,
+ "actualizado": 1793882542650,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793876528413,
-  "fin": 1793879528450,
-  "mensajes": 6250384,
-  "reconexiones": 17,
-  "eventos": 625,
+  "inicio": 1793879542613,
+  "fin": 1793882542650,
+  "mensajes": 6538505,
+  "reconexiones": 3,
+  "eventos": 641,
   "errores": []
  },
- "total": 1661,
- "falsos": 474,
+ "total": 1669,
+ "falsos": 478,
  "largos": {
-  "episodios": 2489,
-  "eventos": 69,
+  "episodios": 2527,
+  "eventos": 70,
   "dias": 7
  },
- "mediana": 0.872,
+ "mediana": 0.88,
  "captura": [
   {
    "s": 0.5,
-   "n": 1002,
-   "gan": 3645.55,
-   "nNeta": 235,
-   "neta": 416.82
+   "n": 1009,
+   "gan": 3660.8,
+   "nNeta": 236,
+   "neta": 417.4
   },
   {
    "s": 2,
-   "n": 565,
-   "gan": 2012.5,
-   "nNeta": 97,
-   "neta": 99.01
+   "n": 572,
+   "gan": 2027.75,
+   "nNeta": 98,
+   "neta": 99.59
   },
   {
    "s": 5,
-   "n": 422,
-   "gan": 1560.56,
-   "nNeta": 55,
-   "neta": 51.56
+   "n": 428,
+   "gan": 1574.79,
+   "nNeta": 56,
+   "neta": 52.14
   },
   {
    "s": 30,
-   "n": 176,
-   "gan": 434.71,
-   "nNeta": 27,
-   "neta": 36
+   "n": 182,
+   "gan": 448.94,
+   "nNeta": 28,
+   "neta": 36.58
   }
  ],
- "rentables": 412,
+ "rentables": 413,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 333
+   "n": 334
   },
   {
    "et": "0.1–1 s",
@@ -62,7 +62,7 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 353
+   "n": 354
   },
   {
    "et": "5–30 s",
@@ -77,7 +77,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 59
+   "n": 65
   }
  ],
  "porEvento": [
@@ -315,10 +315,78 @@
   },
   {
    "h": 1793876400000,
-   "n": 8
+   "n": 10
+  },
+  {
+   "h": 1793880000000,
+   "n": 6
   }
  ],
  "recientes": [
+  {
+   "inicio": 1793882051758,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 490.858,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793879545216,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 2997.4,
+   "gan": 9.19,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793881490206,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 496.622,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793881150135,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 539.426,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793881327250,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 2.435,
+   "gan": 1.02,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793880301641,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 793.433,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793880301583,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 0.056,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793879543157,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 705.735,
+   "gan": 1.18,
+   "neta": 0.58,
+   "lado": "si"
+  },
   {
    "inicio": 1793876880775,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
@@ -374,70 +442,6 @@
    "gan": 0.51,
    "neta": 0.11,
    "lado": "si"
-  },
-  {
-   "inicio": 1793876832088,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 0.202,
-   "gan": 0.58,
-   "neta": 0.16,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793873517651,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2999.17,
-   "gan": 9.19,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793876011500,
-   "titulo": "How many House seats will the Democrats win in Virginia?",
-   "dur": 0.566,
-   "gan": 0.54,
-   "neta": 0.47,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793876009295,
-   "titulo": "How many House seats will the Democrats win in Virginia?",
-   "dur": 1.028,
-   "gan": 0.5,
-   "neta": 0.43,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793875589569,
-   "titulo": "Kuching City FC vs. Gangwon FC",
-   "dur": 0.514,
-   "gan": 10.03,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793875261725,
-   "titulo": "Elon Musk # tweets October 30 - November 6, 2026?",
-   "dur": 6.741,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793870506012,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3000.447,
-   "gan": 9.19,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793873350305,
-   "titulo": "Machida Zelvia vs. Shanghai Shenhua FC",
-   "dur": 0.083,
-   "gan": 0.7,
-   "neta": 0.06,
-   "lado": "no"
   }
  ]
 }
