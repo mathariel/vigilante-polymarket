@@ -1,83 +1,83 @@
 {
- "actualizado": 1793903676032,
+ "actualizado": 1793906689293,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793900675988,
-  "fin": 1793903676032,
-  "mensajes": 12270472,
-  "reconexiones": 3,
+  "inicio": 1793903689247,
+  "fin": 1793906689294,
+  "mensajes": 11474560,
+  "reconexiones": 10,
   "eventos": 608,
   "errores": []
  },
- "total": 1853,
- "falsos": 562,
+ "total": 1947,
+ "falsos": 607,
  "largos": {
-  "episodios": 3056,
-  "eventos": 77,
+  "episodios": 3121,
+  "eventos": 78,
   "dias": 7
  },
- "mediana": 0.924,
+ "mediana": 0.91,
  "captura": [
   {
    "s": 0.5,
-   "n": 1141,
-   "gan": 4122.37,
-   "nNeta": 298,
-   "neta": 641.39
+   "n": 1194,
+   "gan": 4248.57,
+   "nNeta": 313,
+   "neta": 665.87
   },
   {
    "s": 2,
-   "n": 661,
-   "gan": 2462.83,
-   "nNeta": 143,
-   "neta": 326.8
+   "n": 687,
+   "gan": 2541.92,
+   "nNeta": 150,
+   "neta": 340.8
   },
   {
    "s": 5,
-   "n": 473,
-   "gan": 1716.5,
-   "nNeta": 69,
-   "neta": 65.09
+   "n": 491,
+   "gan": 1789.03,
+   "nNeta": 75,
+   "neta": 79
   },
   {
    "s": 30,
-   "n": 205,
-   "gan": 531.85,
-   "nNeta": 33,
-   "neta": 39.82
+   "n": 212,
+   "gan": 567.63,
+   "nNeta": 36,
+   "neta": 45.99
   }
  ],
- "rentables": 500,
+ "rentables": 523,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 362
+   "n": 379
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 597
+   "n": 636
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 421
+   "n": 441
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 268
+   "n": 279
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 126
+   "n": 131
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 79
+   "n": 81
   }
  ],
  "porEvento": [
@@ -117,18 +117,18 @@
    "mediana": 0.418
   },
   {
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "n": 64,
+   "gan": 198.27,
+   "neta": 42.3,
+   "mediana": 3.333
+  },
+  {
    "titulo": "SC Internacional vs. Coritiba FBC",
    "n": 64,
    "gan": 80.85,
    "neta": 13.57,
    "mediana": 0.403
-  },
-  {
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "n": 63,
-   "gan": 197.75,
-   "neta": 42.21,
-   "mediana": 3.333
   },
   {
    "titulo": "Mushuc Runa SC vs. Manta FC",
@@ -343,129 +343,133 @@
   },
   {
    "h": 1793901600000,
-   "n": 73
+   "n": 93
+  },
+  {
+   "h": 1793905200000,
+   "n": 74
   }
  ],
  "recientes": [
   {
-   "inicio": 1793903217294,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 458.697,
-   "gan": 0.6,
-   "neta": 0,
+   "inicio": 1793906681427,
+   "titulo": "FC Midtjylland vs. AFC Ajax",
+   "dur": 7.824,
+   "gan": 8.08,
+   "neta": 7.47,
    "lado": "si"
   },
   {
-   "inicio": 1793900680265,
+   "inicio": 1793903687485,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2995.726,
+   "dur": 3001.766,
    "gan": 8,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793903615482,
-   "titulo": "AC Sparta Praha vs. AFC Bournemouth - Halftime Result",
-   "dur": 6.977,
-   "gan": 3.2,
-   "neta": 1.5,
+   "inicio": 1793906568274,
+   "titulo": "FC Midtjylland vs. AFC Ajax",
+   "dur": 91.958,
+   "gan": 6.26,
+   "neta": 5.38,
    "lado": "si"
   },
   {
-   "inicio": 1793903600874,
-   "titulo": "AC Sparta Praha vs. AFC Bournemouth - Halftime Result",
-   "dur": 3.329,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793903599560,
-   "titulo": "AC Sparta Praha vs. AFC Bournemouth - Halftime Result",
-   "dur": 0.804,
-   "gan": 0.73,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793903598122,
-   "titulo": "AC Sparta Praha vs. AFC Bournemouth - Halftime Result",
-   "dur": 0.427,
-   "gan": 0.8,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793903594881,
-   "titulo": "AC Sparta Praha vs. AFC Bournemouth - Halftime Result",
-   "dur": 0.333,
-   "gan": 0.72,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793903594061,
-   "titulo": "AC Sparta Praha vs. AFC Bournemouth - Halftime Result",
-   "dur": 0.385,
-   "gan": 0.97,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793903593816,
-   "titulo": "AC Sparta Praha vs. AFC Bournemouth - Halftime Result",
-   "dur": 0.06,
-   "gan": 0.62,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793903592466,
-   "titulo": "AC Sparta Praha vs. AFC Bournemouth - Halftime Result",
-   "dur": 0.625,
-   "gan": 0.97,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793903592172,
-   "titulo": "AC Sparta Praha vs. AFC Bournemouth - Halftime Result",
-   "dur": 0.268,
-   "gan": 0.98,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793903591920,
-   "titulo": "AC Sparta Praha vs. AFC Bournemouth - Halftime Result",
-   "dur": 0.043,
-   "gan": 0.62,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793903421330,
-   "titulo": "Mjällby AIF vs. FK Borac Banja Luka",
-   "dur": 1.472,
-   "gan": 0.96,
+   "inicio": 1793906628291,
+   "titulo": "AC Milan vs. Ferencvárosi TC",
+   "dur": 0.1,
+   "gan": 0.55,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793903421205,
-   "titulo": "Mjällby AIF vs. FK Borac Banja Luka",
-   "dur": 0.028,
-   "gan": 0.5,
+   "inicio": 1793906626268,
+   "titulo": "AC Milan vs. Ferencvárosi TC",
+   "dur": 0.927,
+   "gan": 0.55,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793903406804,
-   "titulo": "Mjällby AIF vs. FK Borac Banja Luka",
-   "dur": 0.225,
-   "gan": 8.86,
-   "neta": 1.63,
+   "inicio": 1793906625887,
+   "titulo": "AC Milan vs. Ferencvárosi TC",
+   "dur": 0.026,
+   "gan": 0.53,
+   "neta": 0,
    "lado": "no"
+  },
+  {
+   "inicio": 1793906625690,
+   "titulo": "AC Milan vs. Ferencvárosi TC",
+   "dur": 0.072,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793906564924,
+   "titulo": "Crystal Palace FC vs. TSG 1899 Hoffenheim",
+   "dur": 0.603,
+   "gan": 1.17,
+   "neta": 0.27,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793906564340,
+   "titulo": "Crystal Palace FC vs. TSG 1899 Hoffenheim",
+   "dur": 0.555,
+   "gan": 1.89,
+   "neta": 0.91,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793906519425,
+   "titulo": "AC Sparta Praha vs. AFC Bournemouth",
+   "dur": 3.346,
+   "gan": 0.82,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793906449690,
+   "titulo": "FC Midtjylland vs. AFC Ajax",
+   "dur": 70.076,
+   "gan": 1.31,
+   "neta": 0.72,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793906519718,
+   "titulo": "AC Sparta Praha vs. AFC Bournemouth",
+   "dur": 0.044,
+   "gan": 19.83,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793906471385,
+   "titulo": "AC Milan vs. Ferencvárosi TC",
+   "dur": 1.171,
+   "gan": 1.35,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793906471233,
+   "titulo": "AC Milan vs. Ferencvárosi TC",
+   "dur": 0.036,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793906461499,
+   "titulo": "AC Milan vs. Ferencvárosi TC",
+   "dur": 1.314,
+   "gan": 1.97,
+   "neta": 0.12,
+   "lado": "si"
   }
  ]
 }
