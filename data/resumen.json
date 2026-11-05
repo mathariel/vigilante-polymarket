@@ -1,68 +1,68 @@
 {
- "actualizado": 1793834344450,
+ "actualizado": 1793837357100,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793831344427,
-  "fin": 1793834344450,
-  "mensajes": 5766875,
-  "reconexiones": 1,
-  "eventos": 567,
+  "inicio": 1793834357044,
+  "fin": 1793837357100,
+  "mensajes": 5977512,
+  "reconexiones": 4,
+  "eventos": 564,
   "errores": []
  },
- "total": 1451,
- "falsos": 430,
+ "total": 1474,
+ "falsos": 432,
  "largos": {
-  "episodios": 1821,
+  "episodios": 1832,
   "eventos": 62,
   "dias": 7
  },
- "mediana": 0.823,
+ "mediana": 0.82,
  "captura": [
   {
    "s": 0.5,
-   "n": 856,
-   "gan": 3175.11,
-   "nNeta": 182,
-   "neta": 334.98
+   "n": 866,
+   "gan": 3213.83,
+   "nNeta": 186,
+   "neta": 346.23
   },
   {
    "s": 2,
-   "n": 463,
-   "gan": 1626.98,
-   "nNeta": 64,
-   "neta": 42.79
+   "n": 467,
+   "gan": 1647.7,
+   "nNeta": 66,
+   "neta": 47.4
   },
   {
    "s": 5,
-   "n": 339,
-   "gan": 1221.11,
-   "nNeta": 33,
-   "neta": 18.24
+   "n": 342,
+   "gan": 1234.87,
+   "nNeta": 34,
+   "neta": 18.8
   },
   {
    "s": 30,
-   "n": 118,
-   "gan": 137.43,
-   "nNeta": 8,
-   "neta": 3.31
+   "n": 121,
+   "gan": 151.19,
+   "nNeta": 9,
+   "neta": 3.87
   }
  ],
- "rentables": 327,
+ "rentables": 338,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 295
+   "n": 301
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 505
+   "n": 515
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 312
+   "n": 316
   },
   {
    "et": "5–30 s",
@@ -72,12 +72,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 91
+   "n": 92
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 27
+   "n": 29
   }
  ],
  "porEvento": [
@@ -146,10 +146,10 @@
   },
   {
    "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "n": 35,
-   "gan": 38.21,
-   "neta": 2.35,
-   "mediana": 0.204
+   "n": 37,
+   "gan": 39.6,
+   "neta": 2.99,
+   "mediana": 0.357
   }
  ],
  "porHora": [
@@ -267,129 +267,133 @@
   },
   {
    "h": 1793833200000,
-   "n": 7
+   "n": 26
+  },
+  {
+   "h": 1793836800000,
+   "n": 4
   }
  ],
  "recientes": [
   {
-   "inicio": 1793831337697,
+   "inicio": 1793834359630,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3006.733,
+   "dur": 2997.418,
    "gan": 12.02,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793834337480,
+   "inicio": 1793837248317,
    "titulo": "CA Paranaense vs. CR Vasco da Gama",
-   "dur": 0.848,
-   "gan": 0.5,
+   "dur": 0.225,
+   "gan": 2.57,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793834329693,
-   "titulo": "CA Paranaense vs. CR Vasco da Gama",
-   "dur": 1.555,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793834288307,
-   "titulo": "CA Paranaense vs. CR Vasco da Gama",
-   "dur": 1.432,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793834287539,
-   "titulo": "CA Paranaense vs. CR Vasco da Gama",
-   "dur": 0.442,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793834286137,
-   "titulo": "CA Paranaense vs. CR Vasco da Gama",
-   "dur": 1.237,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793833897009,
-   "titulo": "CA Paranaense vs. CR Vasco da Gama",
-   "dur": 0.554,
-   "gan": 0.87,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793833246039,
-   "titulo": "CA Paranaense vs. CR Vasco da Gama",
-   "dur": 1.077,
-   "gan": 1.13,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793833136446,
-   "titulo": "CA Paranaense vs. CR Vasco da Gama",
-   "dur": 0.482,
+   "inicio": 1793837245105,
+   "titulo": "Cúcuta Deportivo FC vs. Independiente Santa Fe",
+   "dur": 1.12,
    "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793832989354,
-   "titulo": "CA Paranaense vs. CR Vasco da Gama",
-   "dur": 0.38,
-   "gan": 1.6,
+   "inicio": 1793837242702,
+   "titulo": "Cúcuta Deportivo FC vs. Independiente Santa Fe",
+   "dur": 1.415,
+   "gan": 0.78,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793832978872,
+   "inicio": 1793837211496,
    "titulo": "CA Paranaense vs. CR Vasco da Gama",
-   "dur": 0.139,
-   "gan": 0.54,
+   "dur": 0.02,
+   "gan": 0.52,
+   "neta": 0.04,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793836667162,
+   "titulo": "CA Paranaense vs. CR Vasco da Gama",
+   "dur": 0.474,
+   "gan": 0.69,
+   "neta": 0.27,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793836635211,
+   "titulo": "CA Paranaense vs. CR Vasco da Gama",
+   "dur": 0.122,
+   "gan": 1.42,
+   "neta": 0.15,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793836635090,
+   "titulo": "CA Paranaense vs. CR Vasco da Gama",
+   "dur": 0.11,
+   "gan": 0.71,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793836626461,
+   "titulo": "CA Paranaense vs. CR Vasco da Gama",
+   "dur": 0.132,
+   "gan": 1.2,
+   "neta": 0.04,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793836625590,
+   "titulo": "CA Paranaense vs. CR Vasco da Gama",
+   "dur": 0.038,
+   "gan": 0.53,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793836508492,
+   "titulo": "CA Paranaense vs. CR Vasco da Gama",
+   "dur": 1.042,
+   "gan": 22.57,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793832978834,
-   "titulo": "CA Paranaense vs. CR Vasco da Gama",
-   "dur": 0.029,
-   "gan": 0.5,
+   "inicio": 1793836463271,
+   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
+   "dur": 0.039,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793836369121,
+   "titulo": "Metropolitanos FC vs. Carabobo FC",
+   "dur": 0.829,
+   "gan": 1.85,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793832978604,
-   "titulo": "CA Paranaense vs. CR Vasco da Gama",
-   "dur": 0.1,
-   "gan": 0.9,
-   "neta": 0,
-   "lado": "si"
+   "inicio": 1793836339756,
+   "titulo": "Sportivo Ameliano vs. Club Guarani Asuncion",
+   "dur": 2.69,
+   "gan": 2.27,
+   "neta": 0.73,
+   "lado": "no"
   },
   {
-   "inicio": 1793832978243,
-   "titulo": "CA Paranaense vs. CR Vasco da Gama",
-   "dur": 0.016,
-   "gan": 1,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793832977569,
-   "titulo": "CA Paranaense vs. CR Vasco da Gama",
-   "dur": 0.177,
-   "gan": 10.68,
-   "neta": 1.41,
-   "lado": "si"
+   "inicio": 1793836338698,
+   "titulo": "Sportivo Ameliano vs. Club Guarani Asuncion",
+   "dur": 0.076,
+   "gan": 3.56,
+   "neta": 2.67,
+   "lado": "no"
   }
  ]
 }
