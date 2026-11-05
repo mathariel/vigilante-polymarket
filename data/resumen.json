@@ -1,83 +1,83 @@
 {
- "actualizado": 1793888577603,
+ "actualizado": 1793891591580,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793885577572,
-  "fin": 1793888577603,
-  "mensajes": 6221000,
-  "reconexiones": 7,
-  "eventos": 645,
+  "inicio": 1793888591536,
+  "fin": 1793891591580,
+  "mensajes": 7150653,
+  "reconexiones": 3,
+  "eventos": 643,
   "errores": []
  },
- "total": 1710,
- "falsos": 488,
+ "total": 1733,
+ "falsos": 502,
  "largos": {
-  "episodios": 2645,
-  "eventos": 71,
+  "episodios": 2736,
+  "eventos": 72,
   "dias": 7
  },
- "mediana": 0.901,
+ "mediana": 0.906,
  "captura": [
   {
    "s": 0.5,
-   "n": 1044,
-   "gan": 3803.04,
-   "nNeta": 260,
-   "neta": 492.3
+   "n": 1063,
+   "gan": 3884.22,
+   "nNeta": 270,
+   "neta": 540.19
   },
   {
    "s": 2,
-   "n": 595,
-   "gan": 2125.32,
-   "nNeta": 115,
-   "neta": 143.6
+   "n": 610,
+   "gan": 2201.51,
+   "nNeta": 122,
+   "neta": 187.61
   },
   {
    "s": 5,
-   "n": 438,
-   "gan": 1613.23,
-   "nNeta": 61,
-   "neta": 60.02
+   "n": 447,
+   "gan": 1635.98,
+   "nNeta": 63,
+   "neta": 61.52
   },
   {
    "s": 30,
-   "n": 188,
-   "gan": 473.02,
-   "nNeta": 29,
-   "neta": 37.19
+   "n": 194,
+   "gan": 490.04,
+   "nNeta": 30,
+   "neta": 38.51
   }
  ],
- "rentables": 441,
+ "rentables": 454,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 337
+   "n": 340
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 562
+   "n": 565
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 373
+   "n": 381
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 250
+   "n": 253
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 119
+   "n": 124
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 69
+   "n": 70
   }
  ],
  "porEvento": [
@@ -125,10 +125,10 @@
   },
   {
    "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "n": 59,
-   "gan": 186.16,
-   "neta": 40.85,
-   "mediana": 2.247
+   "n": 62,
+   "gan": 196.68,
+   "neta": 42.2,
+   "mediana": 3.333
   },
   {
    "titulo": "Mushuc Runa SC vs. Manta FC",
@@ -324,127 +324,135 @@
   {
    "h": 1793883600000,
    "n": 36
+  },
+  {
+   "h": 1793887200000,
+   "n": 12
+  },
+  {
+   "h": 1793890800000,
+   "n": 11
   }
  ],
  "recientes": [
   {
-   "inicio": 1793885574526,
+   "inicio": 1793888588082,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3003.049,
+   "dur": 3003.457,
    "gan": 8.41,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793884595619,
-   "titulo": "BG Pathum United vs. Tai Po FC",
-   "dur": 961.001,
-   "gan": 5.43,
-   "neta": 1.53,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793882552549,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3004.071,
-   "gan": 8.41,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793885335183,
-   "titulo": "Al Kholood Saudi Club vs. Al Khaleej Saudi Club",
-   "dur": 1.574,
-   "gan": 0.66,
-   "neta": 0.36,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793885330650,
-   "titulo": "Al Kholood Saudi Club vs. Al Khaleej Saudi Club",
-   "dur": 2.125,
+   "inicio": 1793891535862,
+   "titulo": "Highest temperature in Munich on November 6?",
+   "dur": 3.592,
    "gan": 0.52,
-   "neta": 0.2,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793885320950,
-   "titulo": "Al Kholood Saudi Club vs. Al Khaleej Saudi Club",
-   "dur": 4.599,
-   "gan": 1.87,
-   "neta": 1.1,
+   "inicio": 1793891479888,
+   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
+   "dur": 2.252,
+   "gan": 0.73,
+   "neta": 0.63,
    "lado": "no"
   },
   {
-   "inicio": 1793885316575,
-   "titulo": "Al Kholood Saudi Club vs. Al Khaleej Saudi Club",
-   "dur": 0.709,
-   "gan": 0.75,
-   "neta": 0.4,
+   "inicio": 1793891458358,
+   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
+   "dur": 1.039,
+   "gan": 1.26,
+   "neta": 1.06,
    "lado": "no"
   },
   {
-   "inicio": 1793885306039,
-   "titulo": "Al Kholood Saudi Club vs. Al Khaleej Saudi Club",
-   "dur": 8.782,
-   "gan": 0.51,
-   "neta": 0.23,
+   "inicio": 1793891456083,
+   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
+   "dur": 1.069,
+   "gan": 5.05,
+   "neta": 4.07,
    "lado": "no"
   },
   {
-   "inicio": 1793885300972,
-   "titulo": "Al Kholood Saudi Club vs. Al Khaleej Saudi Club",
-   "dur": 2.031,
-   "gan": 0.64,
-   "neta": 0.47,
+   "inicio": 1793891455775,
+   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
+   "dur": 0.23,
+   "gan": 1.23,
+   "neta": 0.99,
    "lado": "no"
   },
   {
-   "inicio": 1793885295815,
-   "titulo": "Al Kholood Saudi Club vs. Al Khaleej Saudi Club",
-   "dur": 3.866,
-   "gan": 0.64,
-   "neta": 0.38,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793885295239,
-   "titulo": "Al Kholood Saudi Club vs. Al Khaleej Saudi Club",
-   "dur": 0.542,
+   "inicio": 1793891452883,
+   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
+   "dur": 2.875,
    "gan": 0.76,
-   "neta": 0.56,
+   "neta": 0.69,
    "lado": "no"
   },
   {
-   "inicio": 1793885294700,
-   "titulo": "Al Kholood Saudi Club vs. Al Khaleej Saudi Club",
-   "dur": 0.511,
-   "gan": 0.53,
-   "neta": 0.28,
+   "inicio": 1793891451061,
+   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
+   "dur": 0.046,
+   "gan": 1.02,
+   "neta": 0.78,
    "lado": "no"
   },
   {
-   "inicio": 1793885284178,
-   "titulo": "Al Kholood Saudi Club vs. Al Khaleej Saudi Club",
-   "dur": 4.601,
+   "inicio": 1793891446374,
+   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
+   "dur": 4.56,
+   "gan": 14.57,
+   "neta": 11.64,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793891441800,
+   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
+   "dur": 3.132,
+   "gan": 1.41,
+   "neta": 0.34,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793891409049,
+   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
+   "dur": 0.692,
+   "gan": 1.35,
+   "neta": 1.25,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793891403778,
+   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
+   "dur": 4.249,
+   "gan": 5.63,
+   "neta": 4.88,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793889153847,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 98.088,
    "gan": 0.93,
-   "neta": 0.37,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793885277192,
-   "titulo": "Al Kholood Saudi Club vs. Al Khaleej Saudi Club",
-   "dur": 4.141,
-   "gan": 0.66,
-   "neta": 0.3,
-   "lado": "no"
+   "inicio": 1793889230996,
+   "titulo": "Zelenskyy # posts October 30 - November 6, 2026?",
+   "dur": 0.04,
+   "gan": 1.05,
+   "neta": 0.5,
+   "lado": "si"
   },
   {
-   "inicio": 1793885274149,
-   "titulo": "Al Kholood Saudi Club vs. Al Khaleej Saudi Club",
-   "dur": 1.174,
-   "gan": 0.65,
-   "neta": 0.19,
+   "inicio": 1793888986508,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 132.487,
+   "gan": 0.51,
+   "neta": 0,
    "lado": "no"
   }
  ]
