@@ -1,18 +1,18 @@
 {
- "actualizado": 1793849402802,
+ "actualizado": 1793852413174,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793846402767,
-  "fin": 1793849402802,
-  "mensajes": 5933839,
+  "inicio": 1793849413139,
+  "fin": 1793852413174,
+  "mensajes": 5194192,
   "reconexiones": 0,
-  "eventos": 566,
+  "eventos": 585,
   "errores": []
  },
- "total": 1564,
- "falsos": 454,
+ "total": 1569,
+ "falsos": 455,
  "largos": {
-  "episodios": 1982,
+  "episodios": 2003,
   "eventos": 63,
   "dias": 7
  },
@@ -20,49 +20,49 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 931,
-   "gan": 3443.99,
-   "nNeta": 217,
-   "neta": 389.62
+   "n": 934,
+   "gan": 3469.91,
+   "nNeta": 219,
+   "neta": 393.55
   },
   {
    "s": 2,
-   "n": 508,
-   "gan": 1825.79,
-   "nNeta": 84,
-   "neta": 74.44
+   "n": 511,
+   "gan": 1850.94,
+   "nNeta": 86,
+   "neta": 77.67
   },
   {
    "s": 5,
-   "n": 372,
-   "gan": 1381.76,
-   "nNeta": 45,
-   "neta": 30.13
+   "n": 374,
+   "gan": 1406.1,
+   "nNeta": 46,
+   "neta": 32.9
   },
   {
    "s": 30,
-   "n": 142,
-   "gan": 265.03,
-   "nNeta": 18,
-   "neta": 15.17
+   "n": 144,
+   "gan": 289.37,
+   "nNeta": 19,
+   "neta": 17.94
   }
  ],
- "rentables": 381,
+ "rentables": 385,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 313
+   "n": 314
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 543
+   "n": 544
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 336
+   "n": 337
   },
   {
    "et": "5–30 s",
@@ -77,16 +77,16 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 39
+   "n": 41
   }
  ],
  "porEvento": [
   {
    "titulo": "CZ # posts October 30 - November 6, 2026?",
-   "n": 192,
-   "gan": 131.04,
-   "neta": 0.87,
-   "mediana": 7.132
+   "n": 194,
+   "gan": 132.27,
+   "neta": 1,
+   "mediana": 7.05
   },
   {
    "titulo": "AEK vs. Real Madrid CF",
@@ -131,18 +131,18 @@
    "mediana": 0.592
   },
   {
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "n": 52,
+   "gan": 115.31,
+   "neta": 14.89,
+   "mediana": 1.511
+  },
+  {
    "titulo": "Manchester United FC vs. AS Roma",
    "n": 52,
    "gan": 230.05,
    "neta": 51.85,
    "mediana": 0.62
-  },
-  {
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "n": 51,
-   "gan": 101.44,
-   "neta": 12.12,
-   "mediana": 0.716
   },
   {
    "titulo": "FC Porto vs. SSC Napoli",
@@ -283,10 +283,50 @@
   },
   {
    "h": 1793847600000,
-   "n": 25
+   "n": 30
   }
  ],
  "recientes": [
+  {
+   "inicio": 1793849414955,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 2998.187,
+   "gan": 13.87,
+   "neta": 2.77,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793849417569,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 2995.573,
+   "gan": 10.47,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793851133143,
+   "titulo": "CZ # posts October 30 - November 6, 2026?",
+   "dur": 0.051,
+   "gan": 0.52,
+   "neta": 0.1,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793850931137,
+   "titulo": "CZ # posts October 30 - November 6, 2026?",
+   "dur": 0.109,
+   "gan": 0.71,
+   "neta": 0.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793849823658,
+   "titulo": "Escorpiones de Belén vs. LD Alajuelense",
+   "dur": 2.065,
+   "gan": 0.99,
+   "neta": 0.54,
+   "lado": "no"
+  },
   {
    "inicio": 1793849251903,
    "titulo": "Millonarios FC vs. América de Cali",
@@ -365,46 +405,6 @@
    "dur": 0.275,
    "gan": 0.74,
    "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793848999518,
-   "titulo": "Club Universitario de Deportes vs. Sport Boys Association",
-   "dur": 6.16,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793848983588,
-   "titulo": "Club Universitario de Deportes vs. Sport Boys Association",
-   "dur": 1.086,
-   "gan": 0.68,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793848983535,
-   "titulo": "Club Universitario de Deportes vs. Sport Boys Association",
-   "dur": 0.015,
-   "gan": 0.5,
-   "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793848926630,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 11.536,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793848637617,
-   "titulo": "Club Universitario de Deportes vs. Sport Boys Association",
-   "dur": 0.442,
-   "gan": 0.91,
-   "neta": 0,
    "lado": "si"
   }
  ]
