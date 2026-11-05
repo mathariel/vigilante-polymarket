@@ -1,58 +1,58 @@
 {
- "actualizado": 1793855424696,
+ "actualizado": 1793858440723,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793852424661,
-  "fin": 1793855424697,
-  "mensajes": 5499774,
+  "inicio": 1793855440688,
+  "fin": 1793858440723,
+  "mensajes": 5400012,
   "reconexiones": 0,
-  "eventos": 589,
+  "eventos": 593,
   "errores": []
  },
- "total": 1582,
- "falsos": 459,
+ "total": 1603,
+ "falsos": 461,
  "largos": {
-  "episodios": 2028,
-  "eventos": 64,
+  "episodios": 2043,
+  "eventos": 66,
   "dias": 7
  },
- "mediana": 0.841,
+ "mediana": 0.845,
  "captura": [
   {
    "s": 0.5,
-   "n": 944,
-   "gan": 3525.42,
-   "nNeta": 225,
-   "neta": 410.2
+   "n": 961,
+   "gan": 3550.43,
+   "nNeta": 226,
+   "neta": 411.44
   },
   {
    "s": 2,
-   "n": 521,
-   "gan": 1906.45,
-   "nNeta": 92,
-   "neta": 94.32
+   "n": 533,
+   "gan": 1927.9,
+   "nNeta": 93,
+   "neta": 95.56
   },
   {
    "s": 5,
-   "n": 384,
-   "gan": 1461.61,
-   "nNeta": 52,
-   "neta": 49.55
+   "n": 396,
+   "gan": 1483.06,
+   "nNeta": 53,
+   "neta": 50.79
   },
   {
    "s": 30,
-   "n": 154,
-   "gan": 344.88,
-   "nNeta": 25,
-   "neta": 34.59
+   "n": 163,
+   "gan": 364.37,
+   "nNeta": 26,
+   "neta": 35.83
   }
  ],
- "rentables": 394,
+ "rentables": 395,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 317
+   "n": 321
   },
   {
    "et": "0.1–1 s",
@@ -62,22 +62,22 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 337
+   "n": 342
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 230
+   "n": 233
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 109
+   "n": 113
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 45
+   "n": 50
   }
  ],
  "porEvento": [
@@ -125,10 +125,10 @@
   },
   {
    "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "n": 57,
-   "gan": 179.05,
-   "neta": 39.61,
-   "mediana": 2.189
+   "n": 58,
+   "gan": 184.34,
+   "neta": 40.85,
+   "mediana": 2.247
   },
   {
    "titulo": "Mushuc Runa SC vs. Manta FC",
@@ -291,127 +291,131 @@
   },
   {
    "h": 1793854800000,
+   "n": 21
+  },
+  {
+   "h": 1793858400000,
    "n": 1
   }
  ],
  "recientes": [
   {
-   "inicio": 1793854837509,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 587.156,
-   "gan": 2.6,
-   "neta": 1.2,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793852421475,
+   "inicio": 1793855443055,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3003.19,
+   "dur": 2997.637,
    "gan": 9.37,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793854709016,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 128.396,
-   "gan": 3.41,
-   "neta": 1.56,
-   "lado": "si"
+   "inicio": 1793858438661,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 0.019,
+   "gan": 1.79,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1793854708988,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 0.018,
-   "gan": 22.91,
-   "neta": 9.67,
-   "lado": "si"
+   "inicio": 1793858080240,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 0.016,
+   "gan": 0.94,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1793854127249,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 581.696,
-   "gan": 22.91,
-   "neta": 9.67,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793854463233,
+   "inicio": 1793857815183,
    "titulo": "October Inflation China - Annual",
-   "dur": 41.277,
+   "dur": 111.667,
    "gan": 0.58,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793854276405,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 141.658,
-   "gan": 0.7,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793854159642,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 99.982,
-   "gan": 2.49,
-   "neta": 0.9,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793854159547,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 0.055,
-   "gan": 2.19,
-   "neta": 0.59,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793852427881,
+   "inicio": 1793855444619,
    "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 1699.359,
-   "gan": 11.91,
-   "neta": 2.62,
+   "dur": 2474.844,
+   "gan": 5.29,
+   "neta": 1.24,
    "lado": "si"
   },
   {
-   "inicio": 1793853356599,
+   "inicio": 1793857791905,
    "titulo": "October Inflation China - Annual",
-   "dur": 78.384,
-   "gan": 0.6,
+   "dur": 1.357,
+   "gan": 0.58,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793852548458,
+   "inicio": 1793857684898,
    "titulo": "October Inflation China - Annual",
-   "dur": 111.569,
-   "gan": 0.6,
+   "dur": 1.786,
+   "gan": 0.55,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793852587409,
-   "titulo": "Highest temperature in Beijing on November 5?",
-   "dur": 0.018,
-   "gan": 0.8,
-   "neta": 0.24,
+   "inicio": 1793856755180,
+   "titulo": "October Inflation China - Annual",
+   "dur": 925.513,
+   "gan": 0.56,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793849414955,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 2998.187,
-   "gan": 13.87,
-   "neta": 2.77,
-   "lado": "si"
+   "inicio": 1793857425925,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 58.321,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1793849417569,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2995.573,
-   "gan": 10.47,
+   "inicio": 1793856921454,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 48.524,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793856920114,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 1.308,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793856919008,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 1.096,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793856917887,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 1.017,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793856910322,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 7.549,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793856910179,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 0.032,
+   "gan": 0.51,
    "neta": 0,
    "lado": "no"
   }
