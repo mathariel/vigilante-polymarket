@@ -1,18 +1,18 @@
 {
- "actualizado": 1793840367518,
+ "actualizado": 1793843379080,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793837367486,
-  "fin": 1793840367518,
-  "mensajes": 5913170,
-  "reconexiones": 1,
-  "eventos": 576,
+  "inicio": 1793840379044,
+  "fin": 1793843379080,
+  "mensajes": 5976656,
+  "reconexiones": 0,
+  "eventos": 583,
   "errores": []
  },
- "total": 1492,
- "falsos": 438,
+ "total": 1504,
+ "falsos": 440,
  "largos": {
-  "episodios": 1866,
+  "episodios": 1948,
   "eventos": 63,
   "dias": 7
  },
@@ -20,73 +20,73 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 880,
-   "gan": 3255.72,
-   "nNeta": 190,
-   "neta": 359.71
+   "n": 887,
+   "gan": 3281.03,
+   "nNeta": 194,
+   "neta": 368.9
   },
   {
    "s": 2,
-   "n": 474,
-   "gan": 1679.42,
-   "nNeta": 68,
-   "neta": 58.83
+   "n": 480,
+   "gan": 1695.33,
+   "nNeta": 71,
+   "neta": 59.03
   },
   {
    "s": 5,
-   "n": 346,
-   "gan": 1249.39,
-   "nNeta": 35,
-   "neta": 18.82
+   "n": 351,
+   "gan": 1264.66,
+   "nNeta": 37,
+   "neta": 18.85
   },
   {
    "s": 30,
-   "n": 123,
-   "gan": 164.29,
-   "nNeta": 10,
-   "neta": 3.89
+   "n": 126,
+   "gan": 178.08,
+   "nNeta": 11,
+   "neta": 3.91
   }
  ],
- "rentables": 345,
+ "rentables": 352,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 304
+   "n": 306
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 521
+   "n": 525
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 321
+   "n": 322
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 223
+   "n": 225
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 92
+   "n": 93
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 31
+   "n": 33
   }
  ],
  "porEvento": [
   {
    "titulo": "CZ # posts October 30 - November 6, 2026?",
-   "n": 190,
-   "gan": 129.81,
-   "neta": 0.56,
-   "mediana": 7.549
+   "n": 192,
+   "gan": 131.04,
+   "neta": 0.87,
+   "mediana": 7.132
   },
   {
    "titulo": "AEK vs. Real Madrid CF",
@@ -271,10 +271,110 @@
   },
   {
    "h": 1793836800000,
-   "n": 22
+   "n": 24
+  },
+  {
+   "h": 1793840400000,
+   "n": 10
   }
  ],
  "recientes": [
+  {
+   "inicio": 1793840379780,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 2999.267,
+   "gan": 12.02,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793842775232,
+   "titulo": "Millonarios FC vs. América de Cali",
+   "dur": 0.223,
+   "gan": 0.74,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793842453939,
+   "titulo": "\"The Cat in the Hat\" Opening Weekend Box Office",
+   "dur": 14.088,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793842368310,
+   "titulo": "\"The Cat in the Hat\" Opening Weekend Box Office",
+   "dur": 52.222,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793842356620,
+   "titulo": "CZ # posts October 30 - November 6, 2026?",
+   "dur": 4.174,
+   "gan": 0.64,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793842356143,
+   "titulo": "CZ # posts October 30 - November 6, 2026?",
+   "dur": 0.201,
+   "gan": 0.59,
+   "neta": 0.14,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793841903699,
+   "titulo": "Highest temperature in Wellington on November 5?",
+   "dur": 0.087,
+   "gan": 1.64,
+   "neta": 1.46,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793841903616,
+   "titulo": "Highest temperature in Wellington on November 5?",
+   "dur": 0.002,
+   "gan": 0.61,
+   "neta": 0.43,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793841656243,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 9.678,
+   "gan": 0.83,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793840382415,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 730.308,
+   "gan": 1.12,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793840656773,
+   "titulo": "São Paulo FC vs. SC Corinthians Paulista",
+   "dur": 0.235,
+   "gan": 1.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793840444540,
+   "titulo": "Venados FC vs. Atletico Morelia",
+   "dur": 0.794,
+   "gan": 8.38,
+   "neta": 7.96,
+   "lado": "si"
+  },
   {
    "inicio": 1793838622592,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
@@ -298,102 +398,6 @@
    "gan": 0.51,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1793840015345,
-   "titulo": "São Paulo FC vs. SC Corinthians Paulista",
-   "dur": 0.048,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793840014401,
-   "titulo": "São Paulo FC vs. SC Corinthians Paulista",
-   "dur": 0.525,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793839720782,
-   "titulo": "Botafogo FR vs. CA Mineiro",
-   "dur": 0.655,
-   "gan": 2.11,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793839674938,
-   "titulo": "Venados FC vs. Atletico Morelia",
-   "dur": 0.701,
-   "gan": 2.52,
-   "neta": 1.56,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793839638588,
-   "titulo": "Venados FC vs. Atletico Morelia",
-   "dur": 0.1,
-   "gan": 4.1,
-   "neta": 1.67,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793839635806,
-   "titulo": "Venados FC vs. Atletico Morelia",
-   "dur": 2.251,
-   "gan": 13.88,
-   "neta": 10,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793839626103,
-   "titulo": "Venados FC vs. Atletico Morelia",
-   "dur": 0.621,
-   "gan": 0.5,
-   "neta": 0.21,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793839577159,
-   "titulo": "Cúcuta Deportivo FC vs. Independiente Santa Fe",
-   "dur": 0.798,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793839570981,
-   "titulo": "Cúcuta Deportivo FC vs. Independiente Santa Fe",
-   "dur": 1.381,
-   "gan": 1.21,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793839257726,
-   "titulo": "São Paulo FC vs. SC Corinthians Paulista",
-   "dur": 2.741,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793838640542,
-   "titulo": "São Paulo FC vs. SC Corinthians Paulista - Halftime Result",
-   "dur": 5.178,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793838640495,
-   "titulo": "São Paulo FC vs. SC Corinthians Paulista - Halftime Result",
-   "dur": 0.034,
-   "gan": 5.52,
-   "neta": 3.92,
-   "lado": "no"
   }
  ]
 }
