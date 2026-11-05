@@ -1,48 +1,48 @@
 {
- "actualizado": 1793885556657,
+ "actualizado": 1793888577603,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793882556617,
-  "fin": 1793885556657,
-  "mensajes": 6639303,
-  "reconexiones": 0,
-  "eventos": 629,
+  "inicio": 1793885577572,
+  "fin": 1793888577603,
+  "mensajes": 6221000,
+  "reconexiones": 7,
+  "eventos": 645,
   "errores": []
  },
- "total": 1709,
+ "total": 1710,
  "falsos": 488,
  "largos": {
-  "episodios": 2605,
-  "eventos": 70,
+  "episodios": 2645,
+  "eventos": 71,
   "dias": 7
  },
  "mediana": 0.901,
  "captura": [
   {
    "s": 0.5,
-   "n": 1043,
-   "gan": 3794.63,
+   "n": 1044,
+   "gan": 3803.04,
    "nNeta": 260,
    "neta": 492.3
   },
   {
    "s": 2,
-   "n": 594,
-   "gan": 2116.91,
+   "n": 595,
+   "gan": 2125.32,
    "nNeta": 115,
    "neta": 143.6
   },
   {
    "s": 5,
-   "n": 437,
-   "gan": 1604.82,
+   "n": 438,
+   "gan": 1613.23,
    "nNeta": 61,
    "neta": 60.02
   },
   {
    "s": 30,
-   "n": 187,
-   "gan": 464.61,
+   "n": 188,
+   "gan": 473.02,
    "nNeta": 29,
    "neta": 37.19
   }
@@ -77,7 +77,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 68
+   "n": 69
   }
  ],
  "porEvento": [
@@ -323,10 +323,18 @@
   },
   {
    "h": 1793883600000,
-   "n": 35
+   "n": 36
   }
  ],
  "recientes": [
+  {
+   "inicio": 1793885574526,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 3003.049,
+   "gan": 8.41,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1793884595619,
    "titulo": "BG Pathum United vs. Tai Po FC",
@@ -437,14 +445,6 @@
    "dur": 1.174,
    "gan": 0.65,
    "neta": 0.19,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793885268500,
-   "titulo": "Al Kholood Saudi Club vs. Al Khaleej Saudi Club",
-   "dur": 4.028,
-   "gan": 0.71,
-   "neta": 0.41,
    "lado": "no"
   }
  ]
