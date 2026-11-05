@@ -1,58 +1,58 @@
 {
- "actualizado": 1793852413174,
+ "actualizado": 1793855424696,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793849413139,
-  "fin": 1793852413174,
-  "mensajes": 5194192,
+  "inicio": 1793852424661,
+  "fin": 1793855424697,
+  "mensajes": 5499774,
   "reconexiones": 0,
-  "eventos": 585,
+  "eventos": 589,
   "errores": []
  },
- "total": 1569,
- "falsos": 455,
+ "total": 1582,
+ "falsos": 459,
  "largos": {
-  "episodios": 2003,
-  "eventos": 63,
+  "episodios": 2028,
+  "eventos": 64,
   "dias": 7
  },
- "mediana": 0.835,
+ "mediana": 0.841,
  "captura": [
   {
    "s": 0.5,
-   "n": 934,
-   "gan": 3469.91,
-   "nNeta": 219,
-   "neta": 393.55
+   "n": 944,
+   "gan": 3525.42,
+   "nNeta": 225,
+   "neta": 410.2
   },
   {
    "s": 2,
-   "n": 511,
-   "gan": 1850.94,
-   "nNeta": 86,
-   "neta": 77.67
+   "n": 521,
+   "gan": 1906.45,
+   "nNeta": 92,
+   "neta": 94.32
   },
   {
    "s": 5,
-   "n": 374,
-   "gan": 1406.1,
-   "nNeta": 46,
-   "neta": 32.9
+   "n": 384,
+   "gan": 1461.61,
+   "nNeta": 52,
+   "neta": 49.55
   },
   {
    "s": 30,
-   "n": 144,
-   "gan": 289.37,
-   "nNeta": 19,
-   "neta": 17.94
+   "n": 154,
+   "gan": 344.88,
+   "nNeta": 25,
+   "neta": 34.59
   }
  ],
- "rentables": 385,
+ "rentables": 394,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 314
+   "n": 317
   },
   {
    "et": "0.1–1 s",
@@ -72,12 +72,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 103
+   "n": 109
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 41
+   "n": 45
   }
  ],
  "porEvento": [
@@ -124,18 +124,18 @@
    "mediana": 0.403
   },
   {
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "n": 57,
+   "gan": 179.05,
+   "neta": 39.61,
+   "mediana": 2.189
+  },
+  {
    "titulo": "Mushuc Runa SC vs. Manta FC",
    "n": 57,
    "gan": 221.92,
    "neta": 74.35,
    "mediana": 0.592
-  },
-  {
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "n": 52,
-   "gan": 115.31,
-   "neta": 14.89,
-   "mediana": 1.511
   },
   {
    "titulo": "Manchester United FC vs. AS Roma",
@@ -284,9 +284,121 @@
   {
    "h": 1793847600000,
    "n": 30
+  },
+  {
+   "h": 1793851200000,
+   "n": 12
+  },
+  {
+   "h": 1793854800000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1793854837509,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 587.156,
+   "gan": 2.6,
+   "neta": 1.2,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793852421475,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 3003.19,
+   "gan": 9.37,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793854709016,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 128.396,
+   "gan": 3.41,
+   "neta": 1.56,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793854708988,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 0.018,
+   "gan": 22.91,
+   "neta": 9.67,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793854127249,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 581.696,
+   "gan": 22.91,
+   "neta": 9.67,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793854463233,
+   "titulo": "October Inflation China - Annual",
+   "dur": 41.277,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793854276405,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 141.658,
+   "gan": 0.7,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793854159642,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 99.982,
+   "gan": 2.49,
+   "neta": 0.9,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793854159547,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 0.055,
+   "gan": 2.19,
+   "neta": 0.59,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793852427881,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 1699.359,
+   "gan": 11.91,
+   "neta": 2.62,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793853356599,
+   "titulo": "October Inflation China - Annual",
+   "dur": 78.384,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793852548458,
+   "titulo": "October Inflation China - Annual",
+   "dur": 111.569,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793852587409,
+   "titulo": "Highest temperature in Beijing on November 5?",
+   "dur": 0.018,
+   "gan": 0.8,
+   "neta": 0.24,
+   "lado": "si"
+  },
   {
    "inicio": 1793849414955,
    "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
@@ -302,110 +414,6 @@
    "gan": 10.47,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1793851133143,
-   "titulo": "CZ # posts October 30 - November 6, 2026?",
-   "dur": 0.051,
-   "gan": 0.52,
-   "neta": 0.1,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793850931137,
-   "titulo": "CZ # posts October 30 - November 6, 2026?",
-   "dur": 0.109,
-   "gan": 0.71,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793849823658,
-   "titulo": "Escorpiones de Belén vs. LD Alajuelense",
-   "dur": 2.065,
-   "gan": 0.99,
-   "neta": 0.54,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793849251903,
-   "titulo": "Millonarios FC vs. América de Cali",
-   "dur": 150.867,
-   "gan": 1.01,
-   "neta": 0.86,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793847340932,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 2061.838,
-   "gan": 13.18,
-   "neta": 1.94,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793846403336,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2999.434,
-   "gan": 11.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793849016211,
-   "titulo": "Club Universitario de Deportes vs. Sport Boys Association",
-   "dur": 0.062,
-   "gan": 0.55,
-   "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793849016111,
-   "titulo": "Club Universitario de Deportes vs. Sport Boys Association",
-   "dur": 0,
-   "gan": 0.51,
-   "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793849010692,
-   "titulo": "Club Universitario de Deportes vs. Sport Boys Association",
-   "dur": 5.236,
-   "gan": 1.04,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793849012882,
-   "titulo": "Millonarios FC vs. América de Cali",
-   "dur": 1.144,
-   "gan": 0.71,
-   "neta": 0.38,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793849006761,
-   "titulo": "Club Universitario de Deportes vs. Sport Boys Association",
-   "dur": 0.419,
-   "gan": 0.58,
-   "neta": 0.18,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793849006062,
-   "titulo": "Club Universitario de Deportes vs. Sport Boys Association",
-   "dur": 0.627,
-   "gan": 1.16,
-   "neta": 0.4,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793849005775,
-   "titulo": "Club Universitario de Deportes vs. Sport Boys Association",
-   "dur": 0.275,
-   "gan": 0.74,
-   "neta": 0.01,
-   "lado": "si"
   }
  ]
 }
