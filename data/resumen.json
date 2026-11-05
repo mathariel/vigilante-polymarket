@@ -1,53 +1,53 @@
 {
- "actualizado": 1793891591580,
+ "actualizado": 1793894605562,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793888591536,
-  "fin": 1793891591580,
-  "mensajes": 7150653,
-  "reconexiones": 3,
-  "eventos": 643,
+  "inicio": 1793891605522,
+  "fin": 1793894605562,
+  "mensajes": 7662170,
+  "reconexiones": 0,
+  "eventos": 634,
   "errores": []
  },
- "total": 1733,
- "falsos": 502,
+ "total": 1736,
+ "falsos": 508,
  "largos": {
-  "episodios": 2736,
+  "episodios": 2799,
   "eventos": 72,
   "dias": 7
  },
- "mediana": 0.906,
+ "mediana": 0.908,
  "captura": [
   {
    "s": 0.5,
-   "n": 1063,
-   "gan": 3884.22,
-   "nNeta": 270,
-   "neta": 540.19
+   "n": 1066,
+   "gan": 3898.62,
+   "nNeta": 271,
+   "neta": 544.12
   },
   {
    "s": 2,
-   "n": 610,
-   "gan": 2201.51,
-   "nNeta": 122,
-   "neta": 187.61
+   "n": 613,
+   "gan": 2265.33,
+   "nNeta": 123,
+   "neta": 233.2
   },
   {
    "s": 5,
-   "n": 447,
-   "gan": 1635.98,
+   "n": 449,
+   "gan": 1646.21,
    "nNeta": 63,
    "neta": 61.52
   },
   {
    "s": 30,
-   "n": 194,
-   "gan": 490.04,
+   "n": 196,
+   "gan": 500.27,
    "nNeta": 30,
    "neta": 38.51
   }
  ],
- "rentables": 454,
+ "rentables": 455,
  "duraciones": [
   {
    "et": "< 0.1 s",
@@ -62,7 +62,7 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 381
+   "n": 382
   },
   {
    "et": "5–30 s",
@@ -77,7 +77,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 70
+   "n": 72
   }
  ],
  "porEvento": [
@@ -331,10 +331,34 @@
   },
   {
    "h": 1793890800000,
-   "n": 11
+   "n": 14
   }
  ],
  "recientes": [
+  {
+   "inicio": 1793892239598,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 2365.928,
+   "gan": 1.36,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793891601976,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 3003.55,
+   "gan": 8.41,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793891635459,
+   "titulo": "Abha Saudi Club vs. Al Shabab Saudi Club",
+   "dur": 4.065,
+   "gan": 0.93,
+   "neta": 0.88,
+   "lado": "no"
+  },
   {
    "inicio": 1793888588082,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
@@ -429,30 +453,6 @@
    "dur": 4.249,
    "gan": 5.63,
    "neta": 4.88,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793889153847,
-   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
-   "dur": 98.088,
-   "gan": 0.93,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793889230996,
-   "titulo": "Zelenskyy # posts October 30 - November 6, 2026?",
-   "dur": 0.04,
-   "gan": 1.05,
-   "neta": 0.5,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793888986508,
-   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
-   "dur": 132.487,
-   "gan": 0.51,
-   "neta": 0,
    "lado": "no"
   }
  ]
