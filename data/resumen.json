@@ -1,90 +1,90 @@
 {
- "actualizado": 1794006261211,
+ "actualizado": 1794009274237,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794003261139,
-  "fin": 1794006261211,
-  "mensajes": 7487627,
-  "reconexiones": 7,
-  "eventos": 657,
+  "inicio": 1794006274181,
+  "fin": 1794009274237,
+  "mensajes": 7777939,
+  "reconexiones": 12,
+  "eventos": 639,
   "errores": []
  },
- "total": 4541,
- "falsos": 1018,
+ "total": 4640,
+ "falsos": 1024,
  "largos": {
-  "episodios": 4170,
+  "episodios": 4212,
   "eventos": 92,
   "dias": 7
  },
- "mediana": 2.598,
+ "mediana": 2.563,
  "captura": [
   {
    "s": 0.5,
-   "n": 3227,
-   "gan": 7175.45,
-   "nNeta": 1877,
-   "neta": 1418.9
+   "n": 3263,
+   "gan": 7281.17,
+   "nNeta": 1891,
+   "neta": 1428.48
   },
   {
    "s": 2,
-   "n": 2404,
-   "gan": 4869.86,
-   "nNeta": 1535,
-   "neta": 947.85
+   "n": 2418,
+   "gan": 4885.93,
+   "nNeta": 1538,
+   "neta": 948.26
   },
   {
    "s": 5,
-   "n": 1513,
-   "gan": 3057.08,
+   "n": 1520,
+   "gan": 3065.83,
    "nNeta": 942,
    "neta": 418.59
   },
   {
    "s": 30,
-   "n": 420,
-   "gan": 968.91,
+   "n": 423,
+   "gan": 972.95,
    "nNeta": 124,
    "neta": 124.6
   }
  ],
- "rentables": 2281,
+ "rentables": 2310,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 680
+   "n": 710
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1050
+   "n": 1094
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1298
+   "n": 1316
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1093
+   "n": 1097
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 238
+   "n": 239
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 182
+   "n": 184
   }
  ],
  "porEvento": [
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 894,
-   "gan": 910.58,
+   "n": 895,
+   "gan": 911.18,
    "neta": 132.36,
    "mediana": 2.964
   },
@@ -111,8 +111,8 @@
   },
   {
    "titulo": "How many Israeli elections before government formed?",
-   "n": 134,
-   "gan": 139.07,
+   "n": 135,
+   "gan": 141.08,
    "neta": 3.83,
    "mediana": 10.37
   },
@@ -153,10 +153,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793732400000,
-   "n": 81
-  },
   {
    "h": 1793736000000,
    "n": 41
@@ -440,128 +436,132 @@
   {
    "h": 1794002400000,
    "n": 155
+  },
+  {
+   "h": 1794006000000,
+   "n": 99
   }
  ],
  "recientes": [
   {
-   "inicio": 1794003264008,
-   "titulo": "How many Israeli elections before government formed?",
-   "dur": 2997.134,
-   "gan": 2.84,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794003262476,
+   "inicio": 1794006274860,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2998.666,
+   "dur": 2999.324,
    "gan": 1.43,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794005151321,
-   "titulo": "CA Independiente vs. CD Riestra",
-   "dur": 0.157,
-   "gan": 0.55,
+   "inicio": 1794006278243,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 2995.941,
+   "gan": 2.01,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794005150617,
-   "titulo": "CA Independiente vs. CD Riestra",
-   "dur": 0.66,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
+   "inicio": 1794009113708,
+   "titulo": "CA San Lorenzo de Almagro vs. CA Platense",
+   "dur": 1.731,
+   "gan": 1.53,
+   "neta": 0.61,
+   "lado": "no"
   },
   {
-   "inicio": 1794005150508,
-   "titulo": "CA Independiente vs. CD Riestra",
-   "dur": 0.062,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794005150450,
-   "titulo": "CA Independiente vs. CD Riestra",
-   "dur": 0.027,
+   "inicio": 1794008870230,
+   "titulo": "Operário Ferroviário EC vs. SC Recife",
+   "dur": 0.145,
    "gan": 0.54,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794005091532,
+   "inicio": 1794008853714,
    "titulo": "Operário Ferroviário EC vs. SC Recife",
-   "dur": 2.712,
-   "gan": 1.23,
-   "neta": 0.18,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794005081709,
-   "titulo": "Operário Ferroviário EC vs. SC Recife",
-   "dur": 0.636,
-   "gan": 0.5,
-   "neta": 0.36,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794004721784,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 3.066,
-   "gan": 0.53,
-   "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794004708365,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 2.903,
-   "gan": 0.53,
-   "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794004702316,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 2.511,
-   "gan": 0.53,
-   "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794004690194,
-   "titulo": "CA San Lorenzo de Almagro vs. CA Platense",
-   "dur": 1.572,
-   "gan": 1.08,
+   "dur": 11.241,
+   "gan": 0.52,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794004689965,
-   "titulo": "CA San Lorenzo de Almagro vs. CA Platense",
+   "inicio": 1794008801688,
+   "titulo": "Operário Ferroviário EC vs. SC Recife",
+   "dur": 0.02,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794008702657,
+   "titulo": "Operário Ferroviário EC vs. SC Recife",
+   "dur": 0.876,
+   "gan": 2.26,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794008600915,
+   "titulo": "EC Vitória vs. Fluminense FC",
+   "dur": 0.499,
+   "gan": 0.58,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794008600645,
+   "titulo": "EC Vitória vs. Fluminense FC",
    "dur": 0.028,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "no"
+   "gan": 0.58,
+   "neta": 0.17,
+   "lado": "si"
   },
   {
-   "inicio": 1794004689834,
-   "titulo": "CA San Lorenzo de Almagro vs. CA Platense",
-   "dur": 0.037,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1794008600466,
+   "titulo": "EC Vitória vs. Fluminense FC",
+   "dur": 0.029,
+   "gan": 0.58,
+   "neta": 0.17,
+   "lado": "si"
   },
   {
-   "inicio": 1794004688696,
-   "titulo": "CA San Lorenzo de Almagro vs. CA Platense",
-   "dur": 0.984,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1794008600209,
+   "titulo": "EC Vitória vs. Fluminense FC",
+   "dur": 0.096,
+   "gan": 0.58,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794008599243,
+   "titulo": "EC Vitória vs. Fluminense FC",
+   "dur": 0.073,
+   "gan": 0.55,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794008596246,
+   "titulo": "EC Vitória vs. Fluminense FC",
+   "dur": 0.028,
+   "gan": 0.75,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794008582483,
+   "titulo": "EC Vitória vs. Fluminense FC",
+   "dur": 1.088,
+   "gan": 0.8,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794008571074,
+   "titulo": "EC Vitória vs. Fluminense FC",
+   "dur": 1.246,
+   "gan": 0.7,
+   "neta": 0.22,
+   "lado": "si"
   }
  ]
 }
