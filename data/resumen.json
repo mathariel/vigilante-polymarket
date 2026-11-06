@@ -1,53 +1,53 @@
 {
- "actualizado": 1793948874350,
+ "actualizado": 1793951886627,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793945874286,
-  "fin": 1793948874350,
-  "mensajes": 5741164,
-  "reconexiones": 0,
-  "eventos": 617,
+  "inicio": 1793948886565,
+  "fin": 1793951886627,
+  "mensajes": 5809471,
+  "reconexiones": 13,
+  "eventos": 623,
   "errores": []
  },
- "total": 3485,
- "falsos": 855,
+ "total": 3490,
+ "falsos": 857,
  "largos": {
-  "episodios": 3679,
-  "eventos": 82,
+  "episodios": 3706,
+  "eventos": 85,
   "dias": 7
  },
- "mediana": 1.798,
+ "mediana": 1.802,
  "captura": [
   {
    "s": 0.5,
-   "n": 2412,
-   "gan": 5744.09,
-   "nNeta": 1236,
-   "neta": 1045.36
+   "n": 2417,
+   "gan": 5755.21,
+   "nNeta": 1238,
+   "neta": 1046.55
   },
   {
    "s": 2,
-   "n": 1687,
-   "gan": 3670.43,
-   "nNeta": 935,
-   "neta": 617.15
+   "n": 1692,
+   "gan": 3681.55,
+   "nNeta": 937,
+   "neta": 618.34
   },
   {
    "s": 5,
-   "n": 1171,
-   "gan": 2462.2,
-   "nNeta": 695,
-   "neta": 286.06
+   "n": 1176,
+   "gan": 2473.32,
+   "nNeta": 697,
+   "neta": 287.25
   },
   {
    "s": 30,
-   "n": 292,
-   "gan": 754.1,
-   "nNeta": 72,
-   "neta": 67.21
+   "n": 297,
+   "gan": 765.19,
+   "nNeta": 74,
+   "neta": 68.4
   }
  ],
- "rentables": 1536,
+ "rentables": 1538,
  "duraciones": [
   {
    "et": "< 0.1 s",
@@ -77,7 +77,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 123
+   "n": 128
   }
  ],
  "porEvento": [
@@ -90,10 +90,10 @@
   },
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 241,
-   "gan": 237.4,
-   "neta": 3.62,
-   "mediana": 2.73
+   "n": 242,
+   "gan": 241.21,
+   "neta": 4.62,
+   "mediana": 2.732
   },
   {
    "titulo": "How many Republican Governors after the 2026 midterm elections?",
@@ -118,10 +118,10 @@
   },
   {
    "titulo": "How many Israeli elections before government formed?",
-   "n": 119,
-   "gan": 114.36,
-   "neta": 2.5,
-   "mediana": 10.261
+   "n": 121,
+   "gan": 117.15,
+   "neta": 2.69,
+   "mediana": 10.269
   },
   {
    "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
@@ -395,10 +395,50 @@
   },
   {
    "h": 1793948400000,
-   "n": 17
+   "n": 22
   }
  ],
  "recientes": [
+  {
+   "inicio": 1793950765760,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 1120.81,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793948869370,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 3017.2,
+   "gan": 3.81,
+   "neta": 1,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793948880541,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 3006.029,
+   "gan": 3.38,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793948866428,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 1881.291,
+   "gan": 2.2,
+   "neta": 0.19,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793948881000,
+   "titulo": "Paris Saint-Germain FC vs. ES Troyes AC",
+   "dur": 1728.642,
+   "gan": 1.14,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1793948754826,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
@@ -476,46 +516,6 @@
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
    "dur": 2.658,
    "gan": 1.01,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793948665766,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 2.794,
-   "gan": 1.01,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793948640189,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 2.817,
-   "gan": 1.06,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793948627981,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 2.715,
-   "gan": 1.06,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793948615075,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 2.841,
-   "gan": 1.06,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793948601490,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 3.125,
-   "gan": 1.06,
    "neta": 0,
    "lado": "si"
   }
