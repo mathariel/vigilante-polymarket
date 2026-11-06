@@ -1,83 +1,83 @@
 {
- "actualizado": 1793939834347,
+ "actualizado": 1793942847965,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793936834289,
-  "fin": 1793939834347,
-  "mensajes": 6113630,
-  "reconexiones": 0,
-  "eventos": 622,
+  "inicio": 1793939847904,
+  "fin": 1793942847965,
+  "mensajes": 6043755,
+  "reconexiones": 1,
+  "eventos": 631,
   "errores": []
  },
- "total": 3165,
- "falsos": 841,
+ "total": 3290,
+ "falsos": 846,
  "largos": {
-  "episodios": 3480,
+  "episodios": 3498,
   "eventos": 82,
   "dias": 7
  },
- "mediana": 1.401,
+ "mediana": 1.433,
  "captura": [
   {
    "s": 0.5,
-   "n": 2115,
-   "gan": 5409.76,
-   "nNeta": 1065,
-   "neta": 984.79
+   "n": 2221,
+   "gan": 5489.01,
+   "nNeta": 1167,
+   "neta": 1042.97
   },
   {
    "s": 2,
-   "n": 1425,
-   "gan": 3356.29,
-   "nNeta": 798,
-   "neta": 573.76
+   "n": 1497,
+   "gan": 3415.33,
+   "nNeta": 866,
+   "neta": 614.6
   },
   {
    "s": 5,
-   "n": 1062,
-   "gan": 2339.85,
-   "nNeta": 594,
-   "neta": 263.84
+   "n": 1098,
+   "gan": 2374.59,
+   "nNeta": 626,
+   "neta": 283.51
   },
   {
    "s": 30,
-   "n": 274,
-   "gan": 721.51,
-   "nNeta": 61,
-   "neta": 61.91
+   "n": 284,
+   "gan": 732.49,
+   "nNeta": 68,
+   "neta": 66.77
   }
  ],
- "rentables": 1344,
+ "rentables": 1465,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 507
+   "n": 515
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 889
+   "n": 919
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 707
+   "n": 758
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 788
+   "n": 814
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 159
+   "n": 167
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 115
+   "n": 117
   }
  ],
  "porEvento": [
@@ -87,6 +87,13 @@
    "gan": 357.38,
    "neta": 166.73,
    "mediana": 5.347
+  },
+  {
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "n": 201,
+   "gan": 128.42,
+   "neta": 112.12,
+   "mediana": 2.614
   },
   {
    "titulo": "CZ # posts October 30 - November 6, 2026?",
@@ -115,13 +122,6 @@
    "gan": 64.69,
    "neta": 1.7,
    "mediana": 26.209
-  },
-  {
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "n": 82,
-   "gan": 53.2,
-   "neta": 47.1,
-   "mediana": 2.508
   },
   {
    "titulo": "RB Leipzig vs. Manchester City FC",
@@ -383,128 +383,132 @@
   },
   {
    "h": 1793937600000,
-   "n": 81
+   "n": 204
+  },
+  {
+   "h": 1793941200000,
+   "n": 2
   }
  ],
  "recientes": [
   {
-   "inicio": 1793936838348,
+   "inicio": 1793939844810,
    "titulo": "How many Israeli elections before government formed?",
-   "dur": 2995.944,
-   "gan": 1.4,
+   "dur": 3003.097,
+   "gan": 1.05,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793936829592,
+   "inicio": 1793939841910,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3004.7,
+   "dur": 3005.997,
    "gan": 3.7,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793939817925,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 3.051,
-   "gan": 0.5,
-   "neta": 0.41,
-   "lado": "si"
+   "inicio": 1793942373495,
+   "titulo": "Al Hazem SC vs. Al Nassr Saudi Club",
+   "dur": 89.501,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1793939810461,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 7.445,
-   "gan": 0.58,
-   "neta": 0.47,
-   "lado": "si"
+   "inicio": 1793941386281,
+   "titulo": "Alacranes de Durango vs. Leones Negros UDEG",
+   "dur": 58.599,
+   "gan": 3.54,
+   "neta": 3.21,
+   "lado": "no"
   },
   {
-   "inicio": 1793939809519,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 0.898,
-   "gan": 0.63,
-   "neta": 0.5,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793939754838,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 9.502,
-   "gan": 0.7,
-   "neta": 0.61,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793939739854,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 11.783,
-   "gan": 0.78,
-   "neta": 0.7,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793939737545,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 2.254,
-   "gan": 0.77,
-   "neta": 0.69,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793939735345,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 1.883,
-   "gan": 0.73,
-   "neta": 0.66,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793939733816,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 1.495,
+   "inicio": 1793940938032,
+   "titulo": "Highest temperature in Tokyo on November 6?",
+   "dur": 0.015,
    "gan": 0.72,
-   "neta": 0.65,
+   "neta": 0.45,
    "lado": "si"
   },
   {
-   "inicio": 1793939732349,
+   "inicio": 1793940917853,
    "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 1.112,
-   "gan": 0.71,
-   "neta": 0.64,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793939728708,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 3.595,
-   "gan": 0.7,
-   "neta": 0.63,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793939728069,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 0.19,
-   "gan": 0.7,
-   "neta": 0.63,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793939726932,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 1.087,
-   "gan": 0.69,
-   "neta": 0.62,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793939722023,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 4.617,
+   "dur": 17.035,
    "gan": 0.57,
-   "neta": 0.51,
+   "neta": 0.49,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793940899734,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 17.867,
+   "gan": 0.5,
+   "neta": 0.43,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793940894342,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 5.35,
+   "gan": 0.52,
+   "neta": 0.45,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793940893054,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 1.288,
+   "gan": 0.95,
+   "neta": 0.84,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793940877438,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 13.002,
+   "gan": 0.62,
+   "neta": 0.53,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793940876987,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 0.418,
+   "gan": 0.61,
+   "neta": 0.52,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793940834443,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 42.184,
+   "gan": 0.51,
+   "neta": 0.43,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793940820652,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 5.801,
+   "gan": 0.59,
+   "neta": 0.49,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793940817828,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 0.015,
+   "gan": 0.53,
+   "neta": 0.43,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793940806099,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 2.433,
+   "gan": 0.58,
+   "neta": 0.46,
    "lado": "si"
   }
  ]
