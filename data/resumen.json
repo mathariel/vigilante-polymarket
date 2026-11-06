@@ -1,18 +1,18 @@
 {
- "actualizado": 1793982161321,
+ "actualizado": 1793985173246,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793979161271,
-  "fin": 1793982161321,
-  "mensajes": 8360097,
-  "reconexiones": 0,
-  "eventos": 664,
+  "inicio": 1793982173180,
+  "fin": 1793985173246,
+  "mensajes": 8266212,
+  "reconexiones": 2,
+  "eventos": 652,
   "errores": []
  },
- "total": 4116,
- "falsos": 898,
+ "total": 4131,
+ "falsos": 903,
  "largos": {
-  "episodios": 3928,
+  "episodios": 3983,
   "eventos": 88,
   "dias": 7
  },
@@ -20,72 +20,72 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2996,
-   "gan": 6744.59,
-   "nNeta": 1741,
-   "neta": 1323.06
+   "n": 3004,
+   "gan": 6753.54,
+   "nNeta": 1743,
+   "neta": 1324.44
   },
   {
    "s": 2,
-   "n": 2259,
-   "gan": 4638.72,
-   "nNeta": 1435,
-   "neta": 892.72
+   "n": 2267,
+   "gan": 4647.67,
+   "nNeta": 1437,
+   "neta": 894.1
   },
   {
    "s": 5,
-   "n": 1454,
-   "gan": 2955.97,
-   "nNeta": 915,
-   "neta": 398.36
+   "n": 1460,
+   "gan": 2963.94,
+   "nNeta": 917,
+   "neta": 399.76
   },
   {
    "s": 30,
-   "n": 376,
-   "gan": 903.71,
-   "nNeta": 103,
-   "neta": 112.81
+   "n": 380,
+   "gan": 910.45,
+   "nNeta": 105,
+   "neta": 114.21
   }
  ],
- "rentables": 2073,
+ "rentables": 2075,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 552
+   "n": 556
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 941
+   "n": 944
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1169
+   "n": 1171
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1078
+   "n": 1080
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 219
+   "n": 220
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 157
+   "n": 160
   }
  ],
  "porEvento": [
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 769,
-   "gan": 839.97,
-   "neta": 123.52,
+   "n": 770,
+   "gan": 841.09,
+   "neta": 123.92,
    "mediana": 3.017
   },
   {
@@ -146,9 +146,9 @@
   },
   {
    "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "n": 72,
-   "gan": 217.45,
-   "neta": 47.47,
+   "n": 73,
+   "gan": 220.82,
+   "neta": 48.45,
    "mediana": 5.136
   }
  ],
@@ -431,128 +431,132 @@
   },
   {
    "h": 1793980800000,
-   "n": 7
+   "n": 14
+  },
+  {
+   "h": 1793984400000,
+   "n": 8
   }
  ],
  "recientes": [
   {
-   "inicio": 1793981680156,
-   "titulo": "Al Arabi Doha SC vs. Al Ahli Doha SC",
-   "dur": 481.118,
-   "gan": 1.26,
-   "neta": 1.13,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793980055400,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 2105.874,
-   "gan": 0.64,
-   "neta": 0.06,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793979157806,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3003.468,
-   "gan": 1.45,
+   "inicio": 1793984582979,
+   "titulo": "NZ Election: Labour Party # of seats?",
+   "dur": 590.204,
+   "gan": 0.52,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793979161488,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 2999.786,
-   "gan": 3.49,
-   "neta": 1.05,
    "lado": "si"
   },
   {
-   "inicio": 1793981923085,
-   "titulo": "Elon Musk # tweets October 30 - November 6, 2026?",
-   "dur": 0.033,
-   "gan": 2.64,
+   "inicio": 1793982175842,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 2997.341,
+   "gan": 3.37,
    "neta": 0.98,
    "lado": "si"
   },
   {
-   "inicio": 1793981604430,
-   "titulo": "Al Arabi Doha SC vs. Al Ahli Doha SC",
-   "dur": 0.076,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793981416427,
-   "titulo": "Elon Musk # tweets October 30 - November 6, 2026?",
-   "dur": 0.039,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793981413256,
-   "titulo": "Elon Musk # tweets October 30 - November 6, 2026?",
-   "dur": 0.175,
-   "gan": 0.55,
-   "neta": 0.19,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793981413191,
-   "titulo": "Elon Musk # tweets October 30 - November 6, 2026?",
-   "dur": 0.048,
-   "gan": 0.82,
-   "neta": 0.25,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793981223767,
-   "titulo": "Gaziantep FK vs. Kasımpaşa SK",
-   "dur": 1.089,
-   "gan": 23.87,
+   "inicio": 1793982173017,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 3000.166,
+   "gan": 1.43,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793980477124,
-   "titulo": "FC Goa vs. Bengaluru FC",
-   "dur": 0.517,
-   "gan": 0.52,
-   "neta": 0.23,
+   "inicio": 1793984686113,
+   "titulo": "FC UTA Arad vs. FC Petrolul Ploieşti",
+   "dur": 0.347,
+   "gan": 0.54,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793980469856,
-   "titulo": "FC Goa vs. Bengaluru FC",
-   "dur": 6.449,
-   "gan": 0.74,
-   "neta": 0.2,
+   "inicio": 1793984519866,
+   "titulo": "NZ Election: Labour Party # of seats?",
+   "dur": 3.767,
+   "gan": 0.64,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793980469781,
-   "titulo": "FC Goa vs. Bengaluru FC",
-   "dur": 0.039,
-   "gan": 0.8,
-   "neta": 0.2,
-   "lado": "si"
+   "inicio": 1793984514114,
+   "titulo": "FC UTA Arad vs. FC Petrolul Ploieşti",
+   "dur": 0.007,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1793980469626,
-   "titulo": "FC Goa vs. Bengaluru FC",
-   "dur": 0.118,
-   "gan": 0.7,
-   "neta": 0.19,
-   "lado": "si"
+   "inicio": 1793984514055,
+   "titulo": "FC UTA Arad vs. FC Petrolul Ploieşti",
+   "dur": 0.024,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1793980458093,
-   "titulo": "FC Goa vs. Bengaluru FC",
-   "dur": 0.039,
+   "inicio": 1793984513923,
+   "titulo": "FC UTA Arad vs. FC Petrolul Ploieşti",
+   "dur": 0.098,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793984513873,
+   "titulo": "FC UTA Arad vs. FC Petrolul Ploieşti",
+   "dur": 0.019,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793984461204,
+   "titulo": "NZ Election: Labour Party # of seats?",
+   "dur": 0.149,
    "gan": 0.56,
-   "neta": 0.22,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793984351875,
+   "titulo": "NZ Election: Labour Party # of seats?",
+   "dur": 10.395,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793984343657,
+   "titulo": "NZ Election: Labour Party # of seats?",
+   "dur": 2.781,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793983003626,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 14.17,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793982998969,
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "dur": 0.103,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793982175175,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 45.674,
+   "gan": 1.12,
+   "neta": 0.4,
    "lado": "si"
   }
  ]
