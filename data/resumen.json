@@ -1,68 +1,68 @@
 {
- "actualizado": 1793991195716,
+ "actualizado": 1793994210143,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793988195663,
-  "fin": 1793991195716,
-  "mensajes": 9546703,
+  "inicio": 1793991210070,
+  "fin": 1793994210143,
+  "mensajes": 10684196,
   "reconexiones": 1,
-  "eventos": 667,
+  "eventos": 664,
   "errores": []
  },
- "total": 4171,
- "falsos": 921,
+ "total": 4203,
+ "falsos": 936,
  "largos": {
-  "episodios": 4023,
-  "eventos": 89,
+  "episodios": 4047,
+  "eventos": 90,
   "dias": 7
  },
- "mediana": 2.697,
+ "mediana": 2.69,
  "captura": [
   {
    "s": 0.5,
-   "n": 3028,
-   "gan": 6816.96,
-   "nNeta": 1751,
-   "neta": 1329.91
+   "n": 3049,
+   "gan": 6868.92,
+   "nNeta": 1761,
+   "neta": 1338.19
   },
   {
    "s": 2,
-   "n": 2283,
-   "gan": 4668.6,
-   "nNeta": 1441,
-   "neta": 896.17
+   "n": 2291,
+   "gan": 4692.47,
+   "nNeta": 1444,
+   "neta": 898.4
   },
   {
    "s": 5,
-   "n": 1475,
-   "gan": 2983.82,
-   "nNeta": 920,
-   "neta": 401.81
+   "n": 1479,
+   "gan": 2997.89,
+   "nNeta": 921,
+   "neta": 402.58
   },
   {
    "s": 30,
-   "n": 393,
-   "gan": 928.66,
-   "nNeta": 108,
-   "neta": 116.26
+   "n": 397,
+   "gan": 942.86,
+   "nNeta": 109,
+   "neta": 117.03
   }
  ],
- "rentables": 2088,
+ "rentables": 2103,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 560
+   "n": 568
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 959
+   "n": 967
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1177
+   "n": 1189
   },
   {
    "et": "5–30 s",
@@ -72,12 +72,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 223
+   "n": 224
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 170
+   "n": 173
   }
  ],
  "porEvento": [
@@ -111,10 +111,10 @@
   },
   {
    "titulo": "How many Israeli elections before government formed?",
-   "n": 129,
-   "gan": 125.88,
-   "neta": 3.06,
-   "mediana": 10.327
+   "n": 130,
+   "gan": 129.9,
+   "neta": 3.83,
+   "mediana": 10.352
   },
   {
    "titulo": "AEK vs. Real Madrid CF",
@@ -153,10 +153,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793703600000,
-   "n": 13
-  },
   {
    "h": 1793707200000,
    "n": 17
@@ -439,128 +435,132 @@
   },
   {
    "h": 1793988000000,
-   "n": 31
+   "n": 36
+  },
+  {
+   "h": 1793991600000,
+   "n": 27
   }
  ],
  "recientes": [
   {
-   "inicio": 1793989956529,
-   "titulo": "NZ Election: Labour Party # of seats?",
-   "dur": 1239.136,
-   "gan": 0.9,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793988198314,
+   "inicio": 1793991210774,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2997.351,
+   "dur": 2999.299,
    "gan": 1.43,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793988195908,
+   "inicio": 1793991195750,
    "titulo": "How many Israeli elections before government formed?",
-   "dur": 2999.757,
-   "gan": 2.98,
-   "neta": 0.37,
+   "dur": 3014.323,
+   "gan": 4.02,
+   "neta": 0.77,
    "lado": "si"
   },
   {
-   "inicio": 1793991037426,
-   "titulo": "Standard Liege vs. SK Beveren",
-   "dur": 1.147,
-   "gan": 9.8,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793990375588,
-   "titulo": "Highest temperature in Munich on November 7?",
-   "dur": 458.417,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793990675229,
-   "titulo": "Sariyer SK vs. Igdir FK",
-   "dur": 0.88,
-   "gan": 2.35,
-   "neta": 1.18,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793990674769,
-   "titulo": "Sariyer SK vs. Igdir FK",
-   "dur": 0.027,
-   "gan": 3.19,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793990555846,
-   "titulo": "Sariyer SK vs. Igdir FK",
-   "dur": 0.463,
-   "gan": 2.2,
-   "neta": 1.66,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793990554673,
+   "inicio": 1793994135273,
    "titulo": "CA Barracas Central vs. Racing Club",
-   "dur": 0.194,
-   "gan": 0.55,
+   "dur": 1.045,
+   "gan": 0.66,
+   "neta": 0.05,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793994123724,
+   "titulo": "Hamburger SV vs. Borussia Mönchengladbach",
+   "dur": 1.955,
+   "gan": 1.25,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793990243220,
-   "titulo": "Highest temperature in Munich on November 7?",
-   "dur": 132.138,
-   "gan": 0.55,
+   "inicio": 1793994121872,
+   "titulo": "Hamburger SV vs. Borussia Mönchengladbach",
+   "dur": 1.811,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793994120424,
+   "titulo": "Hamburger SV vs. Borussia Mönchengladbach",
+   "dur": 1.393,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793994101615,
+   "titulo": "Valencia CF vs. Real Madrid CF",
+   "dur": 0.008,
+   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793990335194,
-   "titulo": "LKP Motor Lublin vs. Wisla Plock",
-   "dur": 18.837,
-   "gan": 1.01,
+   "inicio": 1793994101424,
+   "titulo": "Valencia CF vs. Real Madrid CF",
+   "dur": 0.178,
+   "gan": 30,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793994046354,
+   "titulo": "VVV Venlo vs. Jong PSV Eindhoven",
+   "dur": 1.077,
+   "gan": 2.68,
+   "neta": 1.74,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793994008459,
+   "titulo": "Hamburger SV vs. Borussia Mönchengladbach",
+   "dur": 0.766,
+   "gan": 2.09,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793990331742,
-   "titulo": "LKP Motor Lublin vs. Wisla Plock",
-   "dur": 0.046,
-   "gan": 0.66,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793990331249,
-   "titulo": "LKP Motor Lublin vs. Wisla Plock",
-   "dur": 0.463,
-   "gan": 0.89,
+   "inicio": 1793994008440,
+   "titulo": "Hamburger SV vs. Borussia Mönchengladbach",
+   "dur": 0.002,
+   "gan": 2,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793990330490,
-   "titulo": "LKP Motor Lublin vs. Wisla Plock",
-   "dur": 0.463,
-   "gan": 1.43,
-   "neta": 0.01,
+   "inicio": 1793993865641,
+   "titulo": "Hamburger SV vs. Borussia Mönchengladbach",
+   "dur": 0.039,
+   "gan": 8.41,
+   "neta": 2.88,
    "lado": "si"
   },
   {
-   "inicio": 1793990330395,
-   "titulo": "LKP Motor Lublin vs. Wisla Plock",
-   "dur": 0.075,
-   "gan": 0.7,
-   "neta": 0.03,
+   "inicio": 1793993697989,
+   "titulo": "AS Nancy-Lorraine vs. FC Sochaux-Montbéliard - Halftime Result",
+   "dur": 80.392,
+   "gan": 7.34,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793993758890,
+   "titulo": "AS Nancy-Lorraine vs. FC Sochaux-Montbéliard",
+   "dur": 0.041,
+   "gan": 10.34,
+   "neta": 2.25,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793993739606,
+   "titulo": "Ascoli Calcio 1898 FC vs. Palermo FC",
+   "dur": 0.87,
+   "gan": 0.93,
+   "neta": 0.22,
    "lado": "si"
   }
  ]
