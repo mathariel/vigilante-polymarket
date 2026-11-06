@@ -1,92 +1,92 @@
 {
- "actualizado": 1793973112815,
+ "actualizado": 1793976130271,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793970112748,
-  "fin": 1793973112815,
-  "mensajes": 7059757,
+  "inicio": 1793973130218,
+  "fin": 1793976130271,
+  "mensajes": 6778906,
   "reconexiones": 0,
-  "eventos": 664,
+  "eventos": 671,
   "errores": []
  },
- "total": 4033,
- "falsos": 883,
+ "total": 4052,
+ "falsos": 888,
  "largos": {
-  "episodios": 3872,
+  "episodios": 3900,
   "eventos": 88,
   "dias": 7
  },
- "mediana": 2.7,
+ "mediana": 2.703,
  "captura": [
   {
    "s": 0.5,
-   "n": 2941,
-   "gan": 6626.9,
-   "nNeta": 1726,
-   "neta": 1290.17
+   "n": 2956,
+   "gan": 6646.59,
+   "nNeta": 1727,
+   "neta": 1292.7
   },
   {
    "s": 2,
-   "n": 2214,
-   "gan": 4557.32,
-   "nNeta": 1426,
-   "neta": 863.58
+   "n": 2229,
+   "gan": 4577.01,
+   "nNeta": 1427,
+   "neta": 866.11
   },
   {
    "s": 5,
-   "n": 1414,
-   "gan": 2885.08,
+   "n": 1426,
+   "gan": 2899.23,
    "nNeta": 909,
    "neta": 374.98
   },
   {
    "s": 30,
-   "n": 339,
-   "gan": 835.06,
+   "n": 350,
+   "gan": 848.37,
    "nNeta": 98,
    "neta": 89.6
   }
  ],
- "rentables": 2042,
+ "rentables": 2046,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 534
+   "n": 536
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 924
+   "n": 926
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1161
+   "n": 1164
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1075
+   "n": 1076
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 188
+   "n": 198
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 151
+   "n": 152
   }
  ],
  "porEvento": [
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 734,
-   "gan": 800.5,
+   "n": 747,
+   "gan": 815.62,
    "neta": 123.3,
-   "mediana": 3.001
+   "mediana": 3.006
   },
   {
    "titulo": "How many House seats will the Democrats win in Tennessee?",
@@ -419,128 +419,132 @@
   },
   {
    "h": 1793970000000,
-   "n": 7
+   "n": 9
+  },
+  {
+   "h": 1793973600000,
+   "n": 17
   }
  ],
  "recientes": [
   {
-   "inicio": 1793970106981,
+   "inicio": 1793976094594,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 35.628,
+   "gan": 1.17,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793973138551,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3005.771,
+   "dur": 2991.671,
    "gan": 1.61,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793971683343,
-   "titulo": "Brighton & Hove Albion FC vs. Brentford FC",
-   "dur": 521.793,
-   "gan": 0.78,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793971942929,
-   "titulo": "Qarabag FK vs. Turan Tovuz",
-   "dur": 10.926,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793970101924,
-   "titulo": "Brighton & Hove Albion FC vs. Brentford FC",
-   "dur": 1572.808,
-   "gan": 0.8,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793971235953,
-   "titulo": "Highest temperature in Milan on November 6?",
-   "dur": 0.035,
-   "gan": 2.71,
-   "neta": 2.58,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793971235161,
-   "titulo": "Highest temperature in Milan on November 6?",
-   "dur": 0.239,
-   "gan": 6.5,
-   "neta": 6.09,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793970129107,
-   "titulo": "Highest temperature in Ankara on November 8?",
-   "dur": 29.741,
+   "inicio": 1793975970754,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 119.84,
    "gan": 1.17,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793967100240,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2999.386,
-   "gan": 1.66,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793967095111,
-   "titulo": "Brighton & Hove Albion FC vs. Brentford FC",
-   "dur": 3004.515,
-   "gan": 0.8,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793969784481,
-   "titulo": "\"Godzilla Minus Zero\" Opening Weekend Box Office",
-   "dur": 6.024,
-   "gan": 2.28,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793967082872,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 2102.263,
-   "gan": 0.73,
-   "neta": 0.36,
    "lado": "si"
   },
   {
-   "inicio": 1793968759276,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 84.997,
+   "inicio": 1793975846765,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 120.195,
+   "gan": 1.17,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793975723617,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 119.526,
+   "gan": 1.17,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793975599636,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 120.202,
+   "gan": 1.17,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793975624623,
+   "titulo": "Al Fateh Saudi Club vs. Al Riyadh Saudi Club",
+   "dur": 3.294,
+   "gan": 3.2,
+   "neta": 2.53,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793975475110,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 120.766,
+   "gan": 1.17,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793975350107,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 121.002,
+   "gan": 1.17,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793975224735,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 121.365,
+   "gan": 1.17,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793975098694,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 122.262,
+   "gan": 1.17,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793975136209,
+   "titulo": "Lamphun Warriors FC vs. Sukhothai FC",
+   "dur": 0.451,
    "gan": 1,
-   "neta": 0.81,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793974974124,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 120.734,
+   "gan": 1.17,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793968679703,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 79.565,
-   "gan": 0.74,
-   "neta": 0.56,
+   "inicio": 1793974967494,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 2.815,
+   "gan": 1.17,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793968653173,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 26.498,
-   "gan": 1,
-   "neta": 0.81,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793968615012,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 38.161,
-   "gan": 0.74,
-   "neta": 0.56,
+   "inicio": 1793974959676,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 3.041,
+   "gan": 1.17,
+   "neta": 0,
    "lado": "si"
   }
  ]
