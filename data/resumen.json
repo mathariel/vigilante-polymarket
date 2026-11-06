@@ -1,83 +1,83 @@
 {
- "actualizado": 1793997224840,
+ "actualizado": 1794000236411,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793994224771,
-  "fin": 1793997224840,
-  "mensajes": 12147482,
-  "reconexiones": 2,
-  "eventos": 677,
+  "inicio": 1793997236340,
+  "fin": 1794000236411,
+  "mensajes": 11070623,
+  "reconexiones": 1,
+  "eventos": 666,
   "errores": []
  },
- "total": 4278,
- "falsos": 951,
+ "total": 4361,
+ "falsos": 996,
  "largos": {
-  "episodios": 4066,
+  "episodios": 4078,
   "eventos": 90,
   "dias": 7
  },
- "mediana": 2.651,
+ "mediana": 2.626,
  "captura": [
   {
    "s": 0.5,
-   "n": 3083,
-   "gan": 6961.62,
-   "nNeta": 1777,
-   "neta": 1370.32
+   "n": 3133,
+   "gan": 7057.98,
+   "nNeta": 1801,
+   "neta": 1391.64
   },
   {
    "s": 2,
-   "n": 2302,
-   "gan": 4734.66,
-   "nNeta": 1449,
-   "neta": 913.09
+   "n": 2329,
+   "gan": 4777.58,
+   "nNeta": 1465,
+   "neta": 920.84
   },
   {
    "s": 5,
-   "n": 1483,
-   "gan": 3003.72,
-   "nNeta": 922,
-   "neta": 403.81
+   "n": 1501,
+   "gan": 3022.92,
+   "nNeta": 934,
+   "neta": 410.03
   },
   {
    "s": 30,
-   "n": 399,
-   "gan": 946.08,
-   "nNeta": 109,
-   "neta": 117.03
+   "n": 411,
+   "gan": 957.06,
+   "nNeta": 119,
+   "neta": 122.14
   }
  ],
- "rentables": 2138,
+ "rentables": 2176,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 589
+   "n": 609
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1001
+   "n": 1027
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1205
+   "n": 1224
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1084
+   "n": 1090
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 224
+   "n": 233
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 175
+   "n": 178
   }
  ],
  "porEvento": [
@@ -111,10 +111,10 @@
   },
   {
    "titulo": "How many Israeli elections before government formed?",
-   "n": 131,
-   "gan": 131.19,
+   "n": 132,
+   "gan": 133.39,
    "neta": 3.83,
-   "mediana": 10.352
+   "mediana": 10.367
   },
   {
    "titulo": "AEK vs. Real Madrid CF",
@@ -153,10 +153,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793725200000,
-   "n": 20
-  },
   {
    "h": 1793728800000,
    "n": 27
@@ -439,128 +435,132 @@
   },
   {
    "h": 1793995200000,
-   "n": 64
+   "n": 94
+  },
+  {
+   "h": 1793998800000,
+   "n": 53
   }
  ],
  "recientes": [
   {
-   "inicio": 1793994212937,
-   "titulo": "How many Israeli elections before government formed?",
-   "dur": 3011.837,
-   "gan": 1.29,
-   "neta": 0,
+   "inicio": 1793998303120,
+   "titulo": "VVV Venlo vs. Jong PSV Eindhoven",
+   "dur": 1933.223,
+   "gan": 0.53,
+   "neta": 0.3,
    "lado": "si"
   },
   {
-   "inicio": 1793994219723,
+   "inicio": 1793997231917,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3005.051,
+   "dur": 3004.426,
    "gan": 1.43,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793997217131,
-   "titulo": "Toulouse FC vs. RC Strasbourg Alsace",
-   "dur": 0.384,
-   "gan": 1.33,
+   "inicio": 1793997240562,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 2995.781,
+   "gan": 2.2,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1793997216515,
-   "titulo": "Toulouse FC vs. RC Strasbourg Alsace",
-   "dur": 0.062,
-   "gan": 0.58,
-   "neta": 0.06,
-   "lado": "no"
+   "inicio": 1794000126146,
+   "titulo": "How many House seats will the Democrats win in California?",
+   "dur": 82.924,
+   "gan": 0.87,
+   "neta": 0.64,
+   "lado": "si"
   },
   {
-   "inicio": 1793997216413,
-   "titulo": "Toulouse FC vs. RC Strasbourg Alsace",
-   "dur": 0.065,
-   "gan": 0.59,
-   "neta": 0.06,
-   "lado": "no"
+   "inicio": 1794000155691,
+   "titulo": "Venezia FC vs. Udinese Calcio",
+   "dur": 0.011,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
   },
   {
-   "inicio": 1793997216309,
-   "titulo": "Toulouse FC vs. RC Strasbourg Alsace",
-   "dur": 0.066,
-   "gan": 0.58,
-   "neta": 0.06,
-   "lado": "no"
+   "inicio": 1794000153871,
+   "titulo": "Venezia FC vs. Udinese Calcio",
+   "dur": 0.059,
+   "gan": 1.07,
+   "neta": 0,
+   "lado": "si"
   },
   {
-   "inicio": 1793997216198,
-   "titulo": "Toulouse FC vs. RC Strasbourg Alsace",
-   "dur": 0.066,
-   "gan": 0.59,
-   "neta": 0.06,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793997216090,
-   "titulo": "Toulouse FC vs. RC Strasbourg Alsace",
-   "dur": 0.064,
-   "gan": 0.59,
-   "neta": 0.06,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793997215978,
-   "titulo": "Toulouse FC vs. RC Strasbourg Alsace",
-   "dur": 0.076,
-   "gan": 0.59,
-   "neta": 0.06,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793997215768,
-   "titulo": "Toulouse FC vs. RC Strasbourg Alsace",
-   "dur": 0.111,
+   "inicio": 1794000153853,
+   "titulo": "Venezia FC vs. Udinese Calcio",
+   "dur": 0.013,
    "gan": 0.73,
-   "neta": 0.06,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793997212754,
-   "titulo": "Toulouse FC vs. RC Strasbourg Alsace",
-   "dur": 0.584,
-   "gan": 6.48,
-   "neta": 0.36,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793997200420,
-   "titulo": "Hamburger SV vs. Borussia Mönchengladbach",
-   "dur": 4.867,
-   "gan": 2,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793997195778,
-   "titulo": "AS Nancy-Lorraine vs. FC Sochaux-Montbéliard",
-   "dur": 0.797,
-   "gan": 1.2,
-   "neta": 1.07,
+   "inicio": 1794000139055,
+   "titulo": "Venezia FC vs. Udinese Calcio",
+   "dur": 0.195,
+   "gan": 0.56,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793997179701,
-   "titulo": "Sevilla FC vs. Deportivo Alavés",
-   "dur": 0.87,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1794000130014,
+   "titulo": "Venezia FC vs. Udinese Calcio",
+   "dur": 3.974,
+   "gan": 2.21,
+   "neta": 0.99,
+   "lado": "si"
   },
   {
-   "inicio": 1793997158824,
-   "titulo": "Toulouse FC vs. RC Strasbourg Alsace",
-   "dur": 9.897,
-   "gan": 0.63,
+   "inicio": 1794000032302,
+   "titulo": "Everton FC vs. Coventry City FC",
+   "dur": 0.016,
+   "gan": 0.58,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794000032205,
+   "titulo": "Everton FC vs. Coventry City FC",
+   "dur": 0.093,
+   "gan": 1.03,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794000032099,
+   "titulo": "Everton FC vs. Coventry City FC",
+   "dur": 0.066,
+   "gan": 1.16,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794000031996,
+   "titulo": "Everton FC vs. Coventry City FC",
+   "dur": 0.09,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794000031631,
+   "titulo": "Everton FC vs. Coventry City FC",
+   "dur": 0.099,
+   "gan": 1.18,
+   "neta": 0.07,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794000031528,
+   "titulo": "Everton FC vs. Coventry City FC",
+   "dur": 0.02,
+   "gan": 1.57,
+   "neta": 0.07,
    "lado": "si"
   }
  ]
