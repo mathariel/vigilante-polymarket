@@ -1,53 +1,53 @@
 {
- "actualizado": 1793967086780,
+ "actualizado": 1793970099686,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793964086715,
-  "fin": 1793967086780,
-  "mensajes": 5668329,
-  "reconexiones": 3,
-  "eventos": 642,
+  "inicio": 1793967099622,
+  "fin": 1793970099686,
+  "mensajes": 6840297,
+  "reconexiones": 0,
+  "eventos": 644,
   "errores": []
  },
- "total": 4017,
- "falsos": 868,
+ "total": 4026,
+ "falsos": 872,
  "largos": {
-  "episodios": 3835,
+  "episodios": 3849,
   "eventos": 87,
   "dias": 7
  },
- "mediana": 2.696,
+ "mediana": 2.7,
  "captura": [
   {
    "s": 0.5,
-   "n": 2927,
-   "gan": 6608.24,
-   "nNeta": 1720,
-   "neta": 1282.73
+   "n": 2936,
+   "gan": 6621.74,
+   "nNeta": 1726,
+   "neta": 1290.17
   },
   {
    "s": 2,
-   "n": 2200,
-   "gan": 4538.64,
-   "nNeta": 1420,
-   "neta": 856.12
+   "n": 2209,
+   "gan": 4552.16,
+   "nNeta": 1426,
+   "neta": 863.58
   },
   {
    "s": 5,
-   "n": 1400,
-   "gan": 2866.4,
-   "nNeta": 903,
-   "neta": 367.52
+   "n": 1409,
+   "gan": 2879.92,
+   "nNeta": 909,
+   "neta": 374.98
   },
   {
    "s": 30,
-   "n": 329,
-   "gan": 821.44,
-   "nNeta": 93,
-   "neta": 82.86
+   "n": 336,
+   "gan": 831.87,
+   "nNeta": 98,
+   "neta": 89.6
   }
  ],
- "rentables": 2034,
+ "rentables": 2040,
  "duraciones": [
   {
    "et": "< 0.1 s",
@@ -67,17 +67,17 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1071
+   "n": 1073
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 185
+   "n": 188
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 144
+   "n": 148
   }
  ],
  "porEvento": [
@@ -97,10 +97,10 @@
   },
   {
    "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "n": 206,
-   "gan": 139.73,
-   "neta": 122.38,
-   "mediana": 2.638
+   "n": 211,
+   "gan": 147.86,
+   "neta": 129.46,
+   "mediana": 2.933
   },
   {
    "titulo": "CZ # posts October 30 - November 6, 2026?",
@@ -146,10 +146,10 @@
   },
   {
    "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "n": 69,
-   "gan": 210.27,
-   "neta": 45.27,
-   "mediana": 3.863
+   "n": 70,
+   "gan": 211,
+   "neta": 45.63,
+   "mediana": 4.178
   }
  ],
  "porHora": [
@@ -415,10 +415,82 @@
   },
   {
    "h": 1793966400000,
-   "n": 5
+   "n": 14
   }
  ],
  "recientes": [
+  {
+   "inicio": 1793967100240,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 2999.386,
+   "gan": 1.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793967095111,
+   "titulo": "Brighton & Hove Albion FC vs. Brentford FC",
+   "dur": 3004.515,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793969784481,
+   "titulo": "\"Godzilla Minus Zero\" Opening Weekend Box Office",
+   "dur": 6.024,
+   "gan": 2.28,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793967082872,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 2102.263,
+   "gan": 0.73,
+   "neta": 0.36,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793968759276,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 84.997,
+   "gan": 1,
+   "neta": 0.81,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793968679703,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 79.565,
+   "gan": 0.74,
+   "neta": 0.56,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793968653173,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 26.498,
+   "gan": 1,
+   "neta": 0.81,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793968615012,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 38.161,
+   "gan": 0.74,
+   "neta": 0.56,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793967056243,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 1315.913,
+   "gan": 4.65,
+   "neta": 4.34,
+   "lado": "si"
+  },
   {
    "inicio": 1793966726312,
    "titulo": "How many Republican Governors after the 2026 midterm elections?",
@@ -465,78 +537,6 @@
    "dur": 0.021,
    "gan": 4.35,
    "neta": 4.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793966567628,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 142.221,
-   "gan": 1.03,
-   "neta": 0.84,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793966558658,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 8.933,
-   "gan": 0.51,
-   "neta": 0.34,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793966150921,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 5.949,
-   "gan": 0.52,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793966143762,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 7.111,
-   "gan": 0.57,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793966136566,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 7.143,
-   "gan": 0.52,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793966129141,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 7.37,
-   "gan": 0.57,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793966121809,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 7.276,
-   "gan": 0.57,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793966113748,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 8.008,
-   "gan": 0.57,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793966106026,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 7.672,
-   "gan": 0.57,
-   "neta": 0.02,
    "lado": "si"
   }
  ]
