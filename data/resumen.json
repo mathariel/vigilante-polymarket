@@ -1,53 +1,53 @@
 {
- "actualizado": 1793957912033,
+ "actualizado": 1793964074291,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793954911959,
-  "fin": 1793957912033,
-  "mensajes": 7105713,
-  "reconexiones": 4,
-  "eventos": 623,
+  "inicio": 1793961074205,
+  "fin": 1793964074291,
+  "mensajes": 5736024,
+  "reconexiones": 1,
+  "eventos": 641,
   "errores": []
  },
- "total": 3946,
- "falsos": 862,
+ "total": 3949,
+ "falsos": 864,
  "largos": {
-  "episodios": 3805,
+  "episodios": 3825,
   "eventos": 87,
   "dias": 7
  },
- "mediana": 2.665,
+ "mediana": 2.667,
  "captura": [
   {
    "s": 0.5,
-   "n": 2866,
-   "gan": 6541.83,
-   "nNeta": 1673,
-   "neta": 1273.4
+   "n": 2869,
+   "gan": 6548.21,
+   "nNeta": 1675,
+   "neta": 1274.25
   },
   {
    "s": 2,
-   "n": 2139,
-   "gan": 4471.63,
-   "nNeta": 1371,
-   "neta": 846.59
+   "n": 2142,
+   "gan": 4478.01,
+   "nNeta": 1373,
+   "neta": 847.44
   },
   {
    "s": 5,
-   "n": 1339,
-   "gan": 2698.1,
-   "nNeta": 847,
-   "neta": 313.3
+   "n": 1342,
+   "gan": 2704.48,
+   "nNeta": 849,
+   "neta": 314.15
   },
   {
    "s": 30,
-   "n": 315,
-   "gan": 795.96,
-   "nNeta": 83,
-   "neta": 73.93
+   "n": 318,
+   "gan": 802.22,
+   "nNeta": 85,
+   "neta": 74.74
   }
  ],
- "rentables": 1977,
+ "rentables": 1979,
  "duraciones": [
   {
    "et": "< 0.1 s",
@@ -77,15 +77,15 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 136
+   "n": 139
   }
  ],
  "porEvento": [
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 678,
-   "gan": 765.49,
-   "neta": 120.43,
+   "n": 679,
+   "gan": 766.58,
+   "neta": 120.65,
    "mediana": 2.96
   },
   {
@@ -146,10 +146,10 @@
   },
   {
    "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "n": 67,
-   "gan": 206.09,
-   "neta": 43.95,
-   "mediana": 3.368
+   "n": 68,
+   "gan": 208.12,
+   "neta": 44.58,
+   "mediana": 3.863
   }
  ],
  "porHora": [
@@ -404,9 +404,37 @@
   {
    "h": 1793955600000,
    "n": 232
+  },
+  {
+   "h": 1793959200000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1793961071479,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 3002.727,
+   "gan": 2.03,
+   "neta": 0.63,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793961076786,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 2997.42,
+   "gan": 1.09,
+   "neta": 0.22,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793961069316,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 3004.89,
+   "gan": 3.26,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1793957893082,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
@@ -499,30 +527,6 @@
    "inicio": 1793957821880,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
    "dur": 6.347,
-   "gan": 0.56,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793957815401,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 6.423,
-   "gan": 0.56,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793957808667,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 6.677,
-   "gan": 0.56,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793957802201,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 6.392,
    "gan": 0.56,
    "neta": 0.03,
    "lado": "si"
