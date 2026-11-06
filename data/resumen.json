@@ -1,58 +1,58 @@
 {
- "actualizado": 1793942847965,
+ "actualizado": 1793945861091,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793939847904,
-  "fin": 1793942847965,
-  "mensajes": 6043755,
-  "reconexiones": 1,
-  "eventos": 631,
+  "inicio": 1793942861014,
+  "fin": 1793945861091,
+  "mensajes": 5453887,
+  "reconexiones": 2,
+  "eventos": 618,
   "errores": []
  },
- "total": 3290,
- "falsos": 846,
+ "total": 3361,
+ "falsos": 850,
  "largos": {
-  "episodios": 3498,
+  "episodios": 3510,
   "eventos": 82,
   "dias": 7
  },
- "mediana": 1.433,
+ "mediana": 1.585,
  "captura": [
   {
    "s": 0.5,
-   "n": 2221,
-   "gan": 5489.01,
-   "nNeta": 1167,
-   "neta": 1042.97
+   "n": 2290,
+   "gan": 5561.21,
+   "nNeta": 1235,
+   "neta": 1045.17
   },
   {
    "s": 2,
-   "n": 1497,
-   "gan": 3415.33,
-   "nNeta": 866,
-   "neta": 614.6
+   "n": 1566,
+   "gan": 3488.53,
+   "nNeta": 934,
+   "neta": 616.96
   },
   {
    "s": 5,
-   "n": 1098,
-   "gan": 2374.59,
-   "nNeta": 626,
-   "neta": 283.51
+   "n": 1167,
+   "gan": 2447.79,
+   "nNeta": 694,
+   "neta": 285.87
   },
   {
    "s": 30,
-   "n": 284,
-   "gan": 732.49,
-   "nNeta": 68,
-   "neta": 66.77
+   "n": 288,
+   "gan": 739.69,
+   "nNeta": 71,
+   "neta": 67.02
   }
  ],
- "rentables": 1465,
+ "rentables": 1535,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 515
+   "n": 517
   },
   {
    "et": "0.1–1 s",
@@ -67,17 +67,17 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 814
+   "n": 879
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 167
+   "n": 168
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 117
+   "n": 120
   }
  ],
  "porEvento": [
@@ -117,6 +117,13 @@
    "mediana": 2.647
   },
   {
+   "titulo": "How many Israeli elections before government formed?",
+   "n": 118,
+   "gan": 110.16,
+   "neta": 2.31,
+   "mediana": 10.261
+  },
+  {
    "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
    "n": 100,
    "gan": 64.69,
@@ -143,13 +150,6 @@
    "gan": 206.09,
    "neta": 43.95,
    "mediana": 3.368
-  },
-  {
-   "titulo": "Fenerbahçe SK vs. Liverpool FC",
-   "n": 65,
-   "gan": 135.57,
-   "neta": 2.57,
-   "mediana": 0.418
   }
  ],
  "porHora": [
@@ -387,128 +387,128 @@
   },
   {
    "h": 1793941200000,
-   "n": 2
+   "n": 73
   }
  ],
  "recientes": [
   {
-   "inicio": 1793939844810,
+   "inicio": 1793944478992,
    "titulo": "How many Israeli elections before government formed?",
-   "dur": 3003.097,
-   "gan": 1.05,
-   "neta": 0,
+   "dur": 1382.025,
+   "gan": 1,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1793939841910,
+   "inicio": 1793942861768,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3005.997,
+   "dur": 2999.249,
    "gan": 3.7,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793942373495,
-   "titulo": "Al Hazem SC vs. Al Nassr Saudi Club",
-   "dur": 89.501,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793941386281,
-   "titulo": "Alacranes de Durango vs. Leones Negros UDEG",
-   "dur": 58.599,
-   "gan": 3.54,
-   "neta": 3.21,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793940938032,
-   "titulo": "Highest temperature in Tokyo on November 6?",
-   "dur": 0.015,
-   "gan": 0.72,
-   "neta": 0.45,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793940917853,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 17.035,
+   "inicio": 1793944622977,
+   "titulo": "Highest temperature in Guangzhou on November 6?",
+   "dur": 0.02,
    "gan": 0.57,
-   "neta": 0.49,
+   "neta": 0.06,
    "lado": "si"
   },
   {
-   "inicio": 1793940899734,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 17.867,
-   "gan": 0.5,
-   "neta": 0.43,
+   "inicio": 1793944468417,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 10.301,
+   "gan": 1,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1793940894342,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 5.35,
-   "gan": 0.52,
-   "neta": 0.45,
+   "inicio": 1793944458094,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 10.064,
+   "gan": 1,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1793940893054,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 1.288,
-   "gan": 0.95,
-   "neta": 0.84,
+   "inicio": 1793944447867,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 9.955,
+   "gan": 1,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1793940877438,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 13.002,
-   "gan": 0.62,
-   "neta": 0.53,
+   "inicio": 1793944437654,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 9.966,
+   "gan": 1,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1793940876987,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 0.418,
-   "gan": 0.61,
-   "neta": 0.52,
+   "inicio": 1793944426329,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 10.782,
+   "gan": 1,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1793940834443,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 42.184,
-   "gan": 0.51,
-   "neta": 0.43,
+   "inicio": 1793943581753,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 844.317,
+   "gan": 1,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1793940820652,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 5.801,
-   "gan": 0.59,
-   "neta": 0.49,
+   "inicio": 1793944421121,
+   "titulo": "Highest temperature in NYC on November 6?",
+   "dur": 0.018,
+   "gan": 0.77,
+   "neta": 0.57,
    "lado": "si"
   },
   {
-   "inicio": 1793940817828,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 0.015,
-   "gan": 0.53,
-   "neta": 0.43,
+   "inicio": 1793943570757,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 10.735,
+   "gan": 1,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1793940806099,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 2.433,
-   "gan": 0.58,
-   "neta": 0.46,
+   "inicio": 1793943560539,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 9.958,
+   "gan": 1,
+   "neta": 0.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793943549958,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 10.253,
+   "gan": 1,
+   "neta": 0.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793943539009,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 10.682,
+   "gan": 1,
+   "neta": 0.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793943527629,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 11.048,
+   "gan": 1,
+   "neta": 0.03,
    "lado": "si"
   }
  ]
