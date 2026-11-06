@@ -1,83 +1,83 @@
 {
- "actualizado": 1793936820603,
+ "actualizado": 1793939834347,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793933820530,
-  "fin": 1793936820603,
-  "mensajes": 6145217,
+  "inicio": 1793936834289,
+  "fin": 1793939834347,
+  "mensajes": 6113630,
   "reconexiones": 0,
-  "eventos": 609,
+  "eventos": 622,
   "errores": []
  },
- "total": 3081,
- "falsos": 838,
+ "total": 3165,
+ "falsos": 841,
  "largos": {
-  "episodios": 3452,
-  "eventos": 81,
+  "episodios": 3480,
+  "eventos": 82,
   "dias": 7
  },
- "mediana": 1.357,
+ "mediana": 1.401,
  "captura": [
   {
    "s": 0.5,
-   "n": 2042,
-   "gan": 5357.75,
-   "nNeta": 996,
-   "neta": 944.22
+   "n": 2115,
+   "gan": 5409.76,
+   "nNeta": 1065,
+   "neta": 984.79
   },
   {
    "s": 2,
-   "n": 1378,
-   "gan": 3321.57,
-   "nNeta": 754,
-   "neta": 548.09
+   "n": 1425,
+   "gan": 3356.29,
+   "nNeta": 798,
+   "neta": 573.76
   },
   {
    "s": 5,
-   "n": 1037,
-   "gan": 2318.96,
-   "nNeta": 571,
-   "neta": 249.89
+   "n": 1062,
+   "gan": 2339.85,
+   "nNeta": 594,
+   "neta": 263.84
   },
   {
    "s": 30,
-   "n": 268,
-   "gan": 713.53,
-   "nNeta": 57,
-   "neta": 59.33
+   "n": 274,
+   "gan": 721.51,
+   "nNeta": 61,
+   "neta": 61.91
   }
  ],
- "rentables": 1264,
+ "rentables": 1344,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 502
+   "n": 507
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 873
+   "n": 889
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 669
+   "n": 707
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 769
+   "n": 788
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 155
+   "n": 159
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 113
+   "n": 115
   }
  ],
  "porEvento": [
@@ -117,6 +117,13 @@
    "mediana": 26.209
   },
   {
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "n": 82,
+   "gan": 53.2,
+   "neta": 47.1,
+   "mediana": 2.508
+  },
+  {
    "titulo": "RB Leipzig vs. Manchester City FC",
    "n": 80,
    "gan": 76.21,
@@ -143,13 +150,6 @@
    "gan": 135.57,
    "neta": 2.57,
    "mediana": 0.418
-  },
-  {
-   "titulo": "SC Internacional vs. Coritiba FBC",
-   "n": 64,
-   "gan": 80.85,
-   "neta": 13.57,
-   "mediana": 0.403
   }
  ],
  "porHora": [
@@ -379,128 +379,132 @@
   },
   {
    "h": 1793934000000,
-   "n": 6
+   "n": 9
+  },
+  {
+   "h": 1793937600000,
+   "n": 81
   }
  ],
  "recientes": [
   {
-   "inicio": 1793933819849,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3000.685,
-   "gan": 5.72,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793933823136,
+   "inicio": 1793936838348,
    "titulo": "How many Israeli elections before government formed?",
-   "dur": 2997.398,
-   "gan": 0.72,
+   "dur": 2995.944,
+   "gan": 1.4,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793936590341,
+   "inicio": 1793936829592,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 3004.7,
+   "gan": 3.7,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793939817925,
    "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 2.104,
+   "dur": 3.051,
+   "gan": 0.5,
+   "neta": 0.41,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793939810461,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 7.445,
+   "gan": 0.58,
+   "neta": 0.47,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793939809519,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 0.898,
+   "gan": 0.63,
+   "neta": 0.5,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793939754838,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 9.502,
+   "gan": 0.7,
+   "neta": 0.61,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793939739854,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 11.783,
+   "gan": 0.78,
+   "neta": 0.7,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793939737545,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 2.254,
    "gan": 0.77,
+   "neta": 0.69,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793939735345,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 1.883,
+   "gan": 0.73,
+   "neta": 0.66,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793939733816,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 1.495,
+   "gan": 0.72,
    "neta": 0.65,
    "lado": "si"
   },
   {
-   "inicio": 1793936586223,
+   "inicio": 1793939732349,
    "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 0.019,
-   "gan": 0.67,
-   "neta": 0.55,
+   "dur": 1.112,
+   "gan": 0.71,
+   "neta": 0.64,
    "lado": "si"
   },
   {
-   "inicio": 1793936582420,
+   "inicio": 1793939728708,
    "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 0.016,
-   "gan": 0.57,
-   "neta": 0.46,
+   "dur": 3.595,
+   "gan": 0.7,
+   "neta": 0.63,
    "lado": "si"
   },
   {
-   "inicio": 1793934907700,
-   "titulo": "Test Match: Bangladesh vs West Indies",
-   "dur": 901.915,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793935610476,
-   "titulo": "\"The Cat in the Hat\" Opening Weekend Box Office",
-   "dur": 0.507,
-   "gan": 1.11,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793935610201,
-   "titulo": "\"The Cat in the Hat\" Opening Weekend Box Office",
-   "dur": 0.183,
-   "gan": 4.41,
-   "neta": 1.05,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793932865026,
-   "titulo": "How many Israeli elections before government formed?",
-   "dur": 942.171,
-   "gan": 0.63,
-   "neta": 0,
+   "inicio": 1793939728069,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 0.19,
+   "gan": 0.7,
+   "neta": 0.63,
    "lado": "si"
   },
   {
-   "inicio": 1793930807022,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3000.175,
-   "gan": 5.72,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793930807149,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 2537.766,
-   "gan": 2.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793930810094,
-   "titulo": "How many Israeli elections before government formed?",
-   "dur": 2052.176,
-   "gan": 3.08,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793932161689,
-   "titulo": "Cruzeiro EC vs. EC Bahia",
-   "dur": 1.029,
-   "gan": 1.78,
-   "neta": 1.56,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793932108498,
-   "titulo": "Cruzeiro EC vs. EC Bahia",
-   "dur": 1.259,
+   "inicio": 1793939726932,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 1.087,
    "gan": 0.69,
-   "neta": 0,
-   "lado": "no"
+   "neta": 0.62,
+   "lado": "si"
   },
   {
-   "inicio": 1793932017573,
-   "titulo": "Cruzeiro EC vs. EC Bahia",
-   "dur": 0.468,
-   "gan": 0.86,
-   "neta": 0.07,
+   "inicio": 1793939722023,
+   "titulo": "How many Republican Governors after the 2026 midterm elections?",
+   "dur": 4.617,
+   "gan": 0.57,
+   "neta": 0.51,
    "lado": "si"
   }
  ]
