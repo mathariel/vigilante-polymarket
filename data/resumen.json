@@ -1,83 +1,83 @@
 {
- "actualizado": 1793927781643,
+ "actualizado": 1793930793856,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793924781587,
-  "fin": 1793927781643,
-  "mensajes": 6055012,
-  "reconexiones": 0,
-  "eventos": 591,
+  "inicio": 1793927793797,
+  "fin": 1793930793856,
+  "mensajes": 5866795,
+  "reconexiones": 1,
+  "eventos": 608,
   "errores": []
  },
- "total": 3032,
- "falsos": 817,
+ "total": 3063,
+ "falsos": 820,
  "largos": {
-  "episodios": 3316,
-  "eventos": 78,
+  "episodios": 3342,
+  "eventos": 79,
   "dias": 7
  },
- "mediana": 1.351,
+ "mediana": 1.357,
  "captura": [
   {
    "s": 0.5,
-   "n": 2008,
-   "gan": 5282.94,
-   "nNeta": 976,
-   "neta": 940.7
+   "n": 2030,
+   "gan": 5333.78,
+   "nNeta": 992,
+   "neta": 941.26
   },
   {
    "s": 2,
-   "n": 1351,
-   "gan": 3273.08,
-   "nNeta": 737,
-   "neta": 547.41
+   "n": 1370,
+   "gan": 3302.11,
+   "nNeta": 752,
+   "neta": 547.62
   },
   {
    "s": 5,
-   "n": 1018,
-   "gan": 2276.67,
-   "nNeta": 561,
-   "neta": 249.71
+   "n": 1030,
+   "gan": 2300.03,
+   "nNeta": 570,
+   "neta": 249.86
   },
   {
    "s": 30,
-   "n": 253,
-   "gan": 674.75,
-   "nNeta": 51,
-   "neta": 59.21
+   "n": 261,
+   "gan": 694.22,
+   "nNeta": 56,
+   "neta": 59.3
   }
  ],
- "rentables": 1233,
+ "rentables": 1255,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 490
+   "n": 499
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 867
+   "n": 869
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 657
+   "n": 665
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 765
+   "n": 769
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 150
+   "n": 155
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 103
+   "n": 106
   }
  ],
  "porEvento": [
@@ -104,8 +104,8 @@
   },
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 122,
-   "gan": 118.16,
+   "n": 123,
+   "gan": 120.72,
    "neta": 3.62,
    "mediana": 2.647
   },
@@ -371,128 +371,132 @@
   },
   {
    "h": 1793926800000,
-   "n": 12
+   "n": 38
+  },
+  {
+   "h": 1793930400000,
+   "n": 5
   }
  ],
  "recientes": [
   {
-   "inicio": 1793927297573,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 484.017,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793924764988,
+   "inicio": 1793930627073,
    "titulo": "How many Israeli elections before government formed?",
-   "dur": 3016.602,
-   "gan": 4.07,
+   "dur": 166.727,
+   "gan": 1,
    "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1793924784724,
+   "inicio": 1793927795923,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 2997.877,
+   "gan": 2.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793927796415,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2996.866,
-   "gan": 6.43,
+   "dur": 2997.385,
+   "gan": 6.37,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793927340301,
-   "titulo": "Cancun FC vs. Piratas Veracruz",
-   "dur": 0.333,
-   "gan": 2.05,
-   "neta": 1.09,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793927174439,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 120.024,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793927049253,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 121.904,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793926926308,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 119.752,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793926934214,
-   "titulo": "Cruzeiro EC vs. EC Bahia - Halftime Result",
-   "dur": 0.046,
-   "gan": 1.43,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793926933917,
-   "titulo": "Cruzeiro EC vs. EC Bahia - Halftime Result",
-   "dur": 0.256,
-   "gan": 1.43,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793926933691,
-   "titulo": "Cruzeiro EC vs. EC Bahia - Halftime Result",
-   "dur": 0.195,
-   "gan": 1.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793926933057,
-   "titulo": "Cruzeiro EC vs. EC Bahia - Halftime Result",
-   "dur": 0.603,
-   "gan": 1.73,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793926803056,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 119.94,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793926909402,
-   "titulo": "Cruzeiro EC vs. EC Bahia",
-   "dur": 4.222,
-   "gan": 6.3,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793926889893,
-   "titulo": "Cruzeiro EC vs. EC Bahia - Halftime Result",
-   "dur": 0.431,
+   "inicio": 1793930616494,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 10.476,
    "gan": 1,
-   "neta": 0.4,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1793926544079,
-   "titulo": "Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club",
-   "dur": 2.897,
-   "gan": 1.05,
-   "neta": 0.83,
+   "inicio": 1793930546579,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 69.768,
+   "gan": 1,
+   "neta": 0.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793928425429,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 2120.989,
+   "gan": 0.83,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793930404718,
+   "titulo": "Cruzeiro EC vs. EC Bahia",
+   "dur": 0.894,
+   "gan": 0.61,
+   "neta": 0.23,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793930404623,
+   "titulo": "Cruzeiro EC vs. EC Bahia",
+   "dur": 0.078,
+   "gan": 0.64,
+   "neta": 0.11,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793930072584,
+   "titulo": "Cruzeiro EC vs. EC Bahia",
+   "dur": 0.999,
+   "gan": 1.04,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793930072572,
+   "titulo": "Cruzeiro EC vs. EC Bahia",
+   "dur": 0.01,
+   "gan": 1.18,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793930072533,
+   "titulo": "Cruzeiro EC vs. EC Bahia",
+   "dur": 0.017,
+   "gan": 0.51,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793930072074,
+   "titulo": "Cruzeiro EC vs. EC Bahia",
+   "dur": 0.048,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793929919079,
+   "titulo": "Cruzeiro EC vs. EC Bahia",
+   "dur": 0.045,
+   "gan": 0.64,
+   "neta": 0.14,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793929918948,
+   "titulo": "Cruzeiro EC vs. EC Bahia",
+   "dur": 0.04,
+   "gan": 0.51,
+   "neta": 0.07,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793929918916,
+   "titulo": "Cruzeiro EC vs. EC Bahia",
+   "dur": 0.001,
+   "gan": 0.51,
+   "neta": 0.07,
    "lado": "no"
   }
  ]
