@@ -1,99 +1,99 @@
 {
- "actualizado": 1793954898416,
+ "actualizado": 1793957912033,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793951898354,
-  "fin": 1793954898416,
-  "mensajes": 6637144,
-  "reconexiones": 0,
-  "eventos": 629,
+  "inicio": 1793954911959,
+  "fin": 1793957912033,
+  "mensajes": 7105713,
+  "reconexiones": 4,
+  "eventos": 623,
   "errores": []
  },
- "total": 3613,
- "falsos": 859,
+ "total": 3946,
+ "falsos": 862,
  "largos": {
-  "episodios": 3731,
-  "eventos": 86,
+  "episodios": 3805,
+  "eventos": 87,
   "dias": 7
  },
- "mediana": 2.017,
+ "mediana": 2.665,
  "captura": [
   {
    "s": 0.5,
-   "n": 2538,
-   "gan": 6067.88,
-   "nNeta": 1351,
-   "neta": 1148.67
+   "n": 2866,
+   "gan": 6541.83,
+   "nNeta": 1673,
+   "neta": 1273.4
   },
   {
    "s": 2,
-   "n": 1811,
-   "gan": 3994.28,
-   "nNeta": 1049,
-   "neta": 720.35
+   "n": 2139,
+   "gan": 4471.63,
+   "nNeta": 1371,
+   "neta": 846.59
   },
   {
    "s": 5,
-   "n": 1185,
-   "gan": 2490.46,
-   "nNeta": 699,
-   "neta": 291.12
+   "n": 1339,
+   "gan": 2698.1,
+   "nNeta": 847,
+   "neta": 313.3
   },
   {
    "s": 30,
-   "n": 303,
-   "gan": 778.3,
-   "nNeta": 75,
-   "neta": 72.09
+   "n": 315,
+   "gan": 795.96,
+   "nNeta": 83,
+   "neta": 73.93
   }
  ],
- "rentables": 1652,
+ "rentables": 1977,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 519
+   "n": 523
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 922
+   "n": 923
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 987
+   "n": 1161
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 882
+   "n": 1024
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 169
+   "n": 179
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 134
+   "n": 136
   }
  ],
  "porEvento": [
+  {
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "n": 678,
+   "gan": 765.49,
+   "neta": 120.43,
+   "mediana": 2.96
+  },
   {
    "titulo": "How many House seats will the Democrats win in Tennessee?",
    "n": 561,
    "gan": 357.38,
    "neta": 166.73,
    "mediana": 5.347
-  },
-  {
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 356,
-   "gan": 441.34,
-   "neta": 58.55,
-   "mediana": 2.831
   },
   {
    "titulo": "How many Republican Governors after the 2026 midterm elections?",
@@ -110,18 +110,18 @@
    "mediana": 7.05
   },
   {
+   "titulo": "How many Israeli elections before government formed?",
+   "n": 126,
+   "gan": 121.2,
+   "neta": 2.69,
+   "mediana": 10.327
+  },
+  {
    "titulo": "AEK vs. Real Madrid CF",
    "n": 124,
    "gan": 1087,
    "neta": 20.42,
    "mediana": 0.385
-  },
-  {
-   "titulo": "How many Israeli elections before government formed?",
-   "n": 124,
-   "gan": 119.43,
-   "neta": 2.69,
-   "mediana": 10.301
   },
   {
    "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
@@ -399,128 +399,132 @@
   },
   {
    "h": 1793952000000,
-   "n": 120
+   "n": 221
+  },
+  {
+   "h": 1793955600000,
+   "n": 232
   }
  ],
  "recientes": [
   {
-   "inicio": 1793954896796,
+   "inicio": 1793957893082,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 1.561,
-   "gan": 1.81,
-   "neta": 0.47,
+   "dur": 18.88,
+   "gan": 0.56,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1793954377282,
-   "titulo": "How many Israeli elections before government formed?",
-   "dur": 521.075,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793951904875,
+   "inicio": 1793954908331,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2993.482,
+   "dur": 3003.631,
    "gan": 3.35,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793954890299,
+   "inicio": 1793957885199,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 2.907,
-   "gan": 1.82,
-   "neta": 0.47,
+   "dur": 7.78,
+   "gan": 0.56,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1793954883826,
+   "inicio": 1793957878669,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 3.021,
-   "gan": 1.82,
-   "neta": 0.47,
+   "dur": 6.472,
+   "gan": 0.56,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1793954876953,
+   "inicio": 1793957872059,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 3.458,
-   "gan": 1.82,
-   "neta": 0.47,
+   "dur": 6.546,
+   "gan": 0.56,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1793954870297,
+   "inicio": 1793957865396,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 2.962,
-   "gan": 1.81,
-   "neta": 0.47,
+   "dur": 6.556,
+   "gan": 0.56,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1793954863646,
+   "inicio": 1793957858884,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 3.074,
-   "gan": 1.81,
-   "neta": 0.47,
+   "dur": 6.455,
+   "gan": 0.56,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1793954857184,
+   "inicio": 1793957849326,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 2.91,
-   "gan": 1.81,
-   "neta": 0.47,
+   "dur": 9.499,
+   "gan": 0.56,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1793954847525,
+   "inicio": 1793957842009,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 2.976,
-   "gan": 1.81,
-   "neta": 0.47,
+   "dur": 7.215,
+   "gan": 0.56,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1793954840541,
+   "inicio": 1793957835034,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 2.967,
-   "gan": 1.81,
-   "neta": 0.47,
+   "dur": 6.916,
+   "gan": 0.56,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1793954834171,
+   "inicio": 1793957828338,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 2.889,
-   "gan": 1.81,
-   "neta": 0.47,
+   "dur": 6.641,
+   "gan": 0.56,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1793954827796,
+   "inicio": 1793957821880,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 3.021,
-   "gan": 1.81,
-   "neta": 0.47,
+   "dur": 6.347,
+   "gan": 0.56,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1793954821380,
+   "inicio": 1793957815401,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 3.008,
-   "gan": 1.81,
-   "neta": 0.47,
+   "dur": 6.423,
+   "gan": 0.56,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1793954813881,
+   "inicio": 1793957808667,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 3.008,
-   "gan": 1.81,
-   "neta": 0.47,
+   "dur": 6.677,
+   "gan": 0.56,
+   "neta": 0.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793957802201,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 6.392,
+   "gan": 0.56,
+   "neta": 0.03,
    "lado": "si"
   }
  ]
