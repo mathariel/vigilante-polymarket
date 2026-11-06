@@ -1,53 +1,53 @@
 {
- "actualizado": 1793985173246,
+ "actualizado": 1793988184324,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793982173180,
-  "fin": 1793985173246,
-  "mensajes": 8266212,
-  "reconexiones": 2,
-  "eventos": 652,
+  "inicio": 1793985184276,
+  "fin": 1793988184324,
+  "mensajes": 8125541,
+  "reconexiones": 1,
+  "eventos": 645,
   "errores": []
  },
- "total": 4131,
- "falsos": 903,
+ "total": 4141,
+ "falsos": 908,
  "largos": {
-  "episodios": 3983,
-  "eventos": 88,
+  "episodios": 4006,
+  "eventos": 89,
   "dias": 7
  },
  "mediana": 2.701,
  "captura": [
   {
    "s": 0.5,
-   "n": 3004,
-   "gan": 6753.54,
-   "nNeta": 1743,
-   "neta": 1324.44
+   "n": 3010,
+   "gan": 6771.69,
+   "nNeta": 1745,
+   "neta": 1325.41
   },
   {
    "s": 2,
-   "n": 2267,
-   "gan": 4647.67,
-   "nNeta": 1437,
-   "neta": 894.1
+   "n": 2271,
+   "gan": 4653.98,
+   "nNeta": 1438,
+   "neta": 894.94
   },
   {
    "s": 5,
-   "n": 1460,
-   "gan": 2963.94,
-   "nNeta": 917,
-   "neta": 399.76
+   "n": 1464,
+   "gan": 2970.25,
+   "nNeta": 918,
+   "neta": 400.6
   },
   {
    "s": 30,
-   "n": 380,
-   "gan": 910.45,
-   "nNeta": 105,
-   "neta": 114.21
+   "n": 384,
+   "gan": 916.76,
+   "nNeta": 106,
+   "neta": 115.05
   }
  ],
- "rentables": 2075,
+ "rentables": 2076,
  "duraciones": [
   {
    "et": "< 0.1 s",
@@ -57,12 +57,12 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 944
+   "n": 948
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1171
+   "n": 1173
   },
   {
    "et": "5–30 s",
@@ -77,7 +77,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 160
+   "n": 164
   }
  ],
  "porEvento": [
@@ -111,8 +111,8 @@
   },
   {
    "titulo": "How many Israeli elections before government formed?",
-   "n": 126,
-   "gan": 121.2,
+   "n": 128,
+   "gan": 122.9,
    "neta": 2.69,
    "mediana": 10.327
   },
@@ -146,10 +146,10 @@
   },
   {
    "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "n": 73,
-   "gan": 220.82,
-   "neta": 48.45,
-   "mediana": 5.136
+   "n": 74,
+   "gan": 223.87,
+   "neta": 49.29,
+   "mediana": 5.713
   }
  ],
  "porHora": [
@@ -435,10 +435,94 @@
   },
   {
    "h": 1793984400000,
-   "n": 8
+   "n": 17
+  },
+  {
+   "h": 1793988000000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1793987389948,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 794.331,
+   "gan": 1.09,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793985091997,
+   "titulo": "NZ Election: Labour Party # of seats?",
+   "dur": 3092.282,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793985188165,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 2996.114,
+   "gan": 3.05,
+   "neta": 0.84,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793985182130,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 3002.149,
+   "gan": 1.43,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793988022455,
+   "titulo": "SG Dynamo Dresden vs. SpVgg Greuther Fürth",
+   "dur": 0.376,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793987965580,
+   "titulo": "AL Wakrah SC vs. Al Shahaniya",
+   "dur": 0.138,
+   "gan": 1.16,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793987389719,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 0.1,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793986874914,
+   "titulo": "CA Barracas Central vs. Racing Club",
+   "dur": 1.677,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793986846600,
+   "titulo": "Sariyer SK vs. Igdir FK",
+   "dur": 1.253,
+   "gan": 10.39,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793986032969,
+   "titulo": "CA Barracas Central vs. Racing Club",
+   "dur": 0.143,
+   "gan": 1.33,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1793984582979,
    "titulo": "NZ Election: Labour Party # of seats?",
@@ -477,86 +561,6 @@
    "dur": 3.767,
    "gan": 0.64,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793984514114,
-   "titulo": "FC UTA Arad vs. FC Petrolul Ploieşti",
-   "dur": 0.007,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793984514055,
-   "titulo": "FC UTA Arad vs. FC Petrolul Ploieşti",
-   "dur": 0.024,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793984513923,
-   "titulo": "FC UTA Arad vs. FC Petrolul Ploieşti",
-   "dur": 0.098,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793984513873,
-   "titulo": "FC UTA Arad vs. FC Petrolul Ploieşti",
-   "dur": 0.019,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793984461204,
-   "titulo": "NZ Election: Labour Party # of seats?",
-   "dur": 0.149,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793984351875,
-   "titulo": "NZ Election: Labour Party # of seats?",
-   "dur": 10.395,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793984343657,
-   "titulo": "NZ Election: Labour Party # of seats?",
-   "dur": 2.781,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793983003626,
-   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
-   "dur": 14.17,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793982998969,
-   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
-   "dur": 0.103,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793982175175,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 45.674,
-   "gan": 1.12,
-   "neta": 0.4,
    "lado": "si"
   }
  ]
