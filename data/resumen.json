@@ -1,63 +1,63 @@
 {
- "actualizado": 1793970099686,
+ "actualizado": 1793973112815,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793967099622,
-  "fin": 1793970099686,
-  "mensajes": 6840297,
+  "inicio": 1793970112748,
+  "fin": 1793973112815,
+  "mensajes": 7059757,
   "reconexiones": 0,
-  "eventos": 644,
+  "eventos": 664,
   "errores": []
  },
- "total": 4026,
- "falsos": 872,
+ "total": 4033,
+ "falsos": 883,
  "largos": {
-  "episodios": 3849,
-  "eventos": 87,
+  "episodios": 3872,
+  "eventos": 88,
   "dias": 7
  },
  "mediana": 2.7,
  "captura": [
   {
    "s": 0.5,
-   "n": 2936,
-   "gan": 6621.74,
+   "n": 2941,
+   "gan": 6626.9,
    "nNeta": 1726,
    "neta": 1290.17
   },
   {
    "s": 2,
-   "n": 2209,
-   "gan": 4552.16,
+   "n": 2214,
+   "gan": 4557.32,
    "nNeta": 1426,
    "neta": 863.58
   },
   {
    "s": 5,
-   "n": 1409,
-   "gan": 2879.92,
+   "n": 1414,
+   "gan": 2885.08,
    "nNeta": 909,
    "neta": 374.98
   },
   {
    "s": 30,
-   "n": 336,
-   "gan": 831.87,
+   "n": 339,
+   "gan": 835.06,
    "nNeta": 98,
    "neta": 89.6
   }
  ],
- "rentables": 2040,
+ "rentables": 2042,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 533
+   "n": 534
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 923
+   "n": 924
   },
   {
    "et": "1–5 s",
@@ -67,7 +67,7 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1073
+   "n": 1075
   },
   {
    "et": "30 s–5 min",
@@ -77,7 +77,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 148
+   "n": 151
   }
  ],
  "porEvento": [
@@ -416,9 +416,69 @@
   {
    "h": 1793966400000,
    "n": 14
+  },
+  {
+   "h": 1793970000000,
+   "n": 7
   }
  ],
  "recientes": [
+  {
+   "inicio": 1793970106981,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 3005.771,
+   "gan": 1.61,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793971683343,
+   "titulo": "Brighton & Hove Albion FC vs. Brentford FC",
+   "dur": 521.793,
+   "gan": 0.78,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793971942929,
+   "titulo": "Qarabag FK vs. Turan Tovuz",
+   "dur": 10.926,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793970101924,
+   "titulo": "Brighton & Hove Albion FC vs. Brentford FC",
+   "dur": 1572.808,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793971235953,
+   "titulo": "Highest temperature in Milan on November 6?",
+   "dur": 0.035,
+   "gan": 2.71,
+   "neta": 2.58,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793971235161,
+   "titulo": "Highest temperature in Milan on November 6?",
+   "dur": 0.239,
+   "gan": 6.5,
+   "neta": 6.09,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793970129107,
+   "titulo": "Highest temperature in Ankara on November 8?",
+   "dur": 29.741,
+   "gan": 1.17,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1793967100240,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
@@ -481,62 +541,6 @@
    "dur": 38.161,
    "gan": 0.74,
    "neta": 0.56,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793967056243,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 1315.913,
-   "gan": 4.65,
-   "neta": 4.34,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793966726312,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 360.407,
-   "gan": 4.35,
-   "neta": 4.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793965781120,
-   "titulo": "Brighton & Hove Albion FC vs. Brentford FC",
-   "dur": 1305.599,
-   "gan": 0.8,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793964090925,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 2995.794,
-   "gan": 2.15,
-   "neta": 0.69,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793964089963,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2996.756,
-   "gan": 1.66,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793966716298,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 0.038,
-   "gan": 1.07,
-   "neta": 1,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793966716268,
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "dur": 0.021,
-   "gan": 4.35,
-   "neta": 4.04,
    "lado": "si"
   }
  ]
