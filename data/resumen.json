@@ -1,98 +1,98 @@
 {
- "actualizado": 1793979146454,
+ "actualizado": 1793982161321,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1793976146395,
-  "fin": 1793979146454,
-  "mensajes": 7397216,
-  "reconexiones": 8,
-  "eventos": 672,
+  "inicio": 1793979161271,
+  "fin": 1793982161321,
+  "mensajes": 8360097,
+  "reconexiones": 0,
+  "eventos": 664,
   "errores": []
  },
- "total": 4076,
- "falsos": 889,
+ "total": 4116,
+ "falsos": 898,
  "largos": {
-  "episodios": 3914,
+  "episodios": 3928,
   "eventos": 88,
   "dias": 7
  },
- "mediana": 2.71,
+ "mediana": 2.701,
  "captura": [
   {
    "s": 0.5,
-   "n": 2979,
-   "gan": 6676.95,
-   "nNeta": 1729,
-   "neta": 1295.94
+   "n": 2996,
+   "gan": 6744.59,
+   "nNeta": 1741,
+   "neta": 1323.06
   },
   {
    "s": 2,
-   "n": 2252,
-   "gan": 4605.33,
-   "nNeta": 1429,
-   "neta": 867.56
+   "n": 2259,
+   "gan": 4638.72,
+   "nNeta": 1435,
+   "neta": 892.72
   },
   {
    "s": 5,
-   "n": 1448,
-   "gan": 2927.03,
-   "nNeta": 910,
-   "neta": 375.98
+   "n": 1454,
+   "gan": 2955.97,
+   "nNeta": 915,
+   "neta": 398.36
   },
   {
    "s": 30,
-   "n": 371,
-   "gan": 875.3,
-   "nNeta": 99,
-   "neta": 90.6
+   "n": 376,
+   "gan": 903.71,
+   "nNeta": 103,
+   "neta": 112.81
   }
  ],
- "rentables": 2049,
+ "rentables": 2073,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 536
+   "n": 552
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 927
+   "n": 941
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1165
+   "n": 1169
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1077
+   "n": 1078
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 218
+   "n": 219
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 153
+   "n": 157
   }
  ],
  "porEvento": [
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 767,
-   "gan": 838.82,
-   "neta": 123.3,
+   "n": 769,
+   "gan": 839.97,
+   "neta": 123.52,
    "mediana": 3.017
   },
   {
    "titulo": "How many House seats will the Democrats win in Tennessee?",
-   "n": 561,
-   "gan": 357.38,
-   "neta": 166.73,
+   "n": 564,
+   "gan": 359.98,
+   "neta": 168.45,
    "mediana": 5.347
   },
   {
@@ -146,10 +146,10 @@
   },
   {
    "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "n": 71,
-   "gan": 213.96,
-   "neta": 46.42,
-   "mediana": 4.178
+   "n": 72,
+   "gan": 217.45,
+   "neta": 47.47,
+   "mediana": 5.136
   }
  ],
  "porHora": [
@@ -427,128 +427,132 @@
   },
   {
    "h": 1793977200000,
-   "n": 14
+   "n": 47
+  },
+  {
+   "h": 1793980800000,
+   "n": 7
   }
  ],
  "recientes": [
   {
-   "inicio": 1793978929076,
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "dur": 217.321,
-   "gan": 2.96,
-   "neta": 0.79,
+   "inicio": 1793981680156,
+   "titulo": "Al Arabi Doha SC vs. Al Ahli Doha SC",
+   "dur": 481.118,
+   "gan": 1.26,
+   "neta": 1.13,
+   "lado": "no"
+  },
+  {
+   "inicio": 1793980055400,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 2105.874,
+   "gan": 0.64,
+   "neta": 0.06,
    "lado": "si"
   },
   {
-   "inicio": 1793976152231,
+   "inicio": 1793979157806,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2994.166,
+   "dur": 3003.468,
    "gan": 1.45,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1793978482064,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 28.255,
-   "gan": 1.11,
+   "inicio": 1793979161488,
+   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
+   "dur": 2999.786,
+   "gan": 3.49,
+   "neta": 1.05,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793981923085,
+   "titulo": "Elon Musk # tweets October 30 - November 6, 2026?",
+   "dur": 0.033,
+   "gan": 2.64,
+   "neta": 0.98,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793981604430,
+   "titulo": "Al Arabi Doha SC vs. Al Ahli Doha SC",
+   "dur": 0.076,
+   "gan": 0.75,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793978355444,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 122.656,
-   "gan": 1.16,
+   "inicio": 1793981416427,
+   "titulo": "Elon Musk # tweets October 30 - November 6, 2026?",
+   "dur": 0.039,
+   "gan": 0.63,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1793978230117,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 121.692,
-   "gan": 1.16,
-   "neta": 0,
+   "inicio": 1793981413256,
+   "titulo": "Elon Musk # tweets October 30 - November 6, 2026?",
+   "dur": 0.175,
+   "gan": 0.55,
+   "neta": 0.19,
    "lado": "si"
   },
   {
-   "inicio": 1793978105477,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 120.953,
-   "gan": 1.16,
-   "neta": 0,
+   "inicio": 1793981413191,
+   "titulo": "Elon Musk # tweets October 30 - November 6, 2026?",
+   "dur": 0.048,
+   "gan": 0.82,
+   "neta": 0.25,
    "lado": "si"
   },
   {
-   "inicio": 1793977978269,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 123.177,
-   "gan": 1.16,
+   "inicio": 1793981223767,
+   "titulo": "Gaziantep FK vs. Kasımpaşa SK",
+   "dur": 1.089,
+   "gan": 23.87,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1793977852068,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 122.439,
-   "gan": 1.16,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793977857769,
-   "titulo": "A Team Test: Zimbabwe A vs Ireland A",
-   "dur": 0.141,
+   "inicio": 1793980477124,
+   "titulo": "FC Goa vs. Bengaluru FC",
+   "dur": 0.517,
    "gan": 0.52,
+   "neta": 0.23,
+   "lado": "si"
+  },
+  {
+   "inicio": 1793980469856,
+   "titulo": "FC Goa vs. Bengaluru FC",
+   "dur": 6.449,
+   "gan": 0.74,
    "neta": 0.2,
    "lado": "si"
   },
   {
-   "inicio": 1793977725844,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 122.437,
-   "gan": 1.16,
-   "neta": 0,
+   "inicio": 1793980469781,
+   "titulo": "FC Goa vs. Bengaluru FC",
+   "dur": 0.039,
+   "gan": 0.8,
+   "neta": 0.2,
    "lado": "si"
   },
   {
-   "inicio": 1793977599737,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 122.249,
-   "gan": 1.16,
-   "neta": 0,
+   "inicio": 1793980469626,
+   "titulo": "FC Goa vs. Bengaluru FC",
+   "dur": 0.118,
+   "gan": 0.7,
+   "neta": 0.19,
    "lado": "si"
   },
   {
-   "inicio": 1793977473738,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 122.139,
-   "gan": 1.16,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793977506236,
-   "titulo": "Al Hazem SC vs. Al Nassr Saudi Club",
-   "dur": 2.009,
-   "gan": 2.46,
-   "neta": 2.15,
-   "lado": "no"
-  },
-  {
-   "inicio": 1793977347455,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 122.599,
-   "gan": 1.16,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1793977222729,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 120.951,
-   "gan": 1.16,
-   "neta": 0,
+   "inicio": 1793980458093,
+   "titulo": "FC Goa vs. Bengaluru FC",
+   "dur": 0.039,
+   "gan": 0.56,
+   "neta": 0.22,
    "lado": "si"
   }
  ]
