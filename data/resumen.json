@@ -1,73 +1,73 @@
 {
- "actualizado": 1794003248579,
+ "actualizado": 1794006261211,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794000248525,
-  "fin": 1794003248579,
-  "mensajes": 8217971,
-  "reconexiones": 4,
-  "eventos": 663,
+  "inicio": 1794003261139,
+  "fin": 1794006261211,
+  "mensajes": 7487627,
+  "reconexiones": 7,
+  "eventos": 657,
   "errores": []
  },
- "total": 4386,
- "falsos": 1004,
+ "total": 4541,
+ "falsos": 1018,
  "largos": {
-  "episodios": 4144,
-  "eventos": 91,
+  "episodios": 4170,
+  "eventos": 92,
   "dias": 7
  },
- "mediana": 2.624,
+ "mediana": 2.598,
  "captura": [
   {
    "s": 0.5,
-   "n": 3148,
-   "gan": 7076.81,
-   "nNeta": 1809,
-   "neta": 1395.1
+   "n": 3227,
+   "gan": 7175.45,
+   "nNeta": 1877,
+   "neta": 1418.9
   },
   {
    "s": 2,
-   "n": 2338,
-   "gan": 4786.48,
-   "nNeta": 1472,
-   "neta": 924.28
+   "n": 2404,
+   "gan": 4869.86,
+   "nNeta": 1535,
+   "neta": 947.85
   },
   {
    "s": 5,
-   "n": 1510,
-   "gan": 3031.82,
-   "nNeta": 941,
-   "neta": 413.47
+   "n": 1513,
+   "gan": 3057.08,
+   "nNeta": 942,
+   "neta": 418.59
   },
   {
    "s": 30,
-   "n": 418,
-   "gan": 964.64,
+   "n": 420,
+   "gan": 968.91,
    "nNeta": 124,
    "neta": 124.6
   }
  ],
- "rentables": 2189,
+ "rentables": 2281,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 613
+   "n": 680
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1035
+   "n": 1050
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1228
+   "n": 1298
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1092
+   "n": 1093
   },
   {
    "et": "30 s–5 min",
@@ -77,16 +77,16 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 180
+   "n": 182
   }
  ],
  "porEvento": [
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 770,
-   "gan": 841.09,
-   "neta": 123.92,
-   "mediana": 3.017
+   "n": 894,
+   "gan": 910.58,
+   "neta": 132.36,
+   "mediana": 2.964
   },
   {
    "titulo": "How many House seats will the Democrats win in Tennessee?",
@@ -111,10 +111,10 @@
   },
   {
    "titulo": "How many Israeli elections before government formed?",
-   "n": 133,
-   "gan": 136.23,
+   "n": 134,
+   "gan": 139.07,
    "neta": 3.83,
-   "mediana": 10.367
+   "mediana": 10.37
   },
   {
    "titulo": "AEK vs. Real Madrid CF",
@@ -153,10 +153,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793728800000,
-   "n": 27
-  },
   {
    "h": 1793732400000,
    "n": 81
@@ -440,128 +436,132 @@
   {
    "h": 1793998800000,
    "n": 78
+  },
+  {
+   "h": 1794002400000,
+   "n": 155
   }
  ],
  "recientes": [
   {
-   "inicio": 1794000251067,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2997.462,
-   "gan": 1.43,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794000250215,
+   "inicio": 1794003264008,
    "titulo": "How many Israeli elections before government formed?",
-   "dur": 2998.314,
+   "dur": 2997.134,
    "gan": 2.84,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794001920991,
-   "titulo": "FC Famalicão vs. FC Arouca",
-   "dur": 1.075,
-   "gan": 3.12,
-   "neta": 0.19,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794001903142,
-   "titulo": "FC Famalicão vs. FC Arouca",
-   "dur": 1.508,
-   "gan": 0.56,
+   "inicio": 1794003262476,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 2998.666,
+   "gan": 1.43,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794001877089,
-   "titulo": "FC Famalicão vs. FC Arouca",
-   "dur": 0.035,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794001872906,
-   "titulo": "FC Famalicão vs. FC Arouca",
-   "dur": 1.792,
-   "gan": 0.93,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794001807503,
-   "titulo": "FC Famalicão vs. FC Arouca",
-   "dur": 1.226,
-   "gan": 4.27,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794001779914,
-   "titulo": "FC Famalicão vs. FC Arouca",
-   "dur": 0.094,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794001778887,
-   "titulo": "FC Famalicão vs. FC Arouca",
-   "dur": 0.998,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794001778651,
-   "titulo": "FC Famalicão vs. FC Arouca",
-   "dur": 0.14,
+   "inicio": 1794005151321,
+   "titulo": "CA Independiente vs. CD Riestra",
+   "dur": 0.157,
    "gan": 0.55,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794005150617,
+   "titulo": "CA Independiente vs. CD Riestra",
+   "dur": 0.66,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794005150508,
+   "titulo": "CA Independiente vs. CD Riestra",
+   "dur": 0.062,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794005150450,
+   "titulo": "CA Independiente vs. CD Riestra",
+   "dur": 0.027,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794005091532,
+   "titulo": "Operário Ferroviário EC vs. SC Recife",
+   "dur": 2.712,
+   "gan": 1.23,
+   "neta": 0.18,
    "lado": "no"
   },
   {
-   "inicio": 1794001146156,
-   "titulo": "Everton FC vs. Coventry City FC",
-   "dur": 0.38,
-   "gan": 9.91,
-   "neta": 6.08,
+   "inicio": 1794005081709,
+   "titulo": "Operário Ferroviário EC vs. SC Recife",
+   "dur": 0.636,
+   "gan": 0.5,
+   "neta": 0.36,
    "lado": "si"
   },
   {
-   "inicio": 1794001003286,
-   "titulo": "How many House seats will the Democrats win in California?",
-   "dur": 0.021,
-   "gan": 0.51,
-   "neta": 0.31,
+   "inicio": 1794004721784,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 3.066,
+   "gan": 0.53,
+   "neta": 0.04,
    "lado": "si"
   },
   {
-   "inicio": 1794000976806,
-   "titulo": "How many House seats will the Democrats win in California?",
-   "dur": 26.363,
-   "gan": 0.67,
-   "neta": 0.5,
+   "inicio": 1794004708365,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 2.903,
+   "gan": 0.53,
+   "neta": 0.04,
    "lado": "si"
   },
   {
-   "inicio": 1794000871457,
-   "titulo": "How many House seats will the Democrats win in California?",
-   "dur": 59.258,
-   "gan": 0.67,
-   "neta": 0.5,
+   "inicio": 1794004702316,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 2.511,
+   "gan": 0.53,
+   "neta": 0.04,
    "lado": "si"
   },
   {
-   "inicio": 1794000768612,
-   "titulo": "How many House seats will the Democrats win in California?",
-   "dur": 85.922,
-   "gan": 0.67,
-   "neta": 0.5,
-   "lado": "si"
+   "inicio": 1794004690194,
+   "titulo": "CA San Lorenzo de Almagro vs. CA Platense",
+   "dur": 1.572,
+   "gan": 1.08,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794004689965,
+   "titulo": "CA San Lorenzo de Almagro vs. CA Platense",
+   "dur": 0.028,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794004689834,
+   "titulo": "CA San Lorenzo de Almagro vs. CA Platense",
+   "dur": 0.037,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794004688696,
+   "titulo": "CA San Lorenzo de Almagro vs. CA Platense",
+   "dur": 0.984,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
