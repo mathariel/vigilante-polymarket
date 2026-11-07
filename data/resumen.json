@@ -1,90 +1,90 @@
 {
- "actualizado": 1794084586560,
+ "actualizado": 1794087599635,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794081586449,
-  "fin": 1794084586560,
-  "mensajes": 10160838,
-  "reconexiones": 1,
-  "eventos": 660,
+  "inicio": 1794084599540,
+  "fin": 1794087599635,
+  "mensajes": 9723306,
+  "reconexiones": 0,
+  "eventos": 671,
   "errores": []
  },
- "total": 7512,
- "falsos": 1434,
+ "total": 7635,
+ "falsos": 1496,
  "largos": {
-  "episodios": 4931,
+  "episodios": 4937,
   "eventos": 104,
   "dias": 7
  },
- "mediana": 0.697,
+ "mediana": 0.682,
  "captura": [
   {
    "s": 0.5,
-   "n": 4011,
-   "gan": 10104.68,
-   "nNeta": 2110,
-   "neta": 2680.48
+   "n": 4065,
+   "gan": 10398.53,
+   "nNeta": 2139,
+   "neta": 2846.54
   },
   {
    "s": 2,
-   "n": 2801,
-   "gan": 6061.54,
-   "nNeta": 1629,
-   "neta": 1376.43
+   "n": 2825,
+   "gan": 6132.52,
+   "nNeta": 1643,
+   "neta": 1396.19
   },
   {
    "s": 5,
-   "n": 1750,
-   "gan": 3554.78,
-   "nNeta": 985,
-   "neta": 476.04
+   "n": 1762,
+   "gan": 3589.29,
+   "nNeta": 993,
+   "neta": 488.7
   },
   {
    "s": 30,
-   "n": 523,
-   "gan": 1195.53,
-   "nNeta": 147,
-   "neta": 145.76
+   "n": 528,
+   "gan": 1199.92,
+   "nNeta": 150,
+   "neta": 147.85
   }
  ],
- "rentables": 4163,
+ "rentables": 4206,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2445
+   "n": 2467
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1660
+   "n": 1720
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1653
+   "n": 1682
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1227
+   "n": 1234
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 268
+   "n": 270
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 255
+   "n": 258
   }
  ],
  "porEvento": [
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 2375,
-   "gan": 1659.72,
+   "n": 2376,
+   "gan": 1660.71,
    "neta": 209.37,
    "mediana": 0.053
   },
@@ -139,8 +139,8 @@
   },
   {
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "n": 88,
-   "gan": 405.14,
+   "n": 89,
+   "gan": 406.33,
    "neta": 0,
    "mediana": 2999.503
   },
@@ -153,10 +153,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793826000000,
-   "n": 214
-  },
   {
    "h": 1793829600000,
    "n": 37
@@ -439,129 +435,133 @@
   },
   {
    "h": 1794081600000,
-   "n": 75
+   "n": 107
+  },
+  {
+   "h": 1794085200000,
+   "n": 91
   }
  ],
  "recientes": [
   {
-   "inicio": 1794084053035,
-   "titulo": "How many House seats will the Democrats win in California?",
-   "dur": 533.417,
-   "gan": 0.84,
-   "neta": 0.78,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794081582575,
+   "inicio": 1794084603889,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 3003.877,
-   "gan": 2.19,
-   "neta": 0.2,
+   "dur": 2995.654,
+   "gan": 0.99,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794081589259,
+   "inicio": 1794084594935,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2997.193,
+   "dur": 3004.608,
    "gan": 1.19,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794084554590,
-   "titulo": "Paris Saint-Germain FC vs. ES Troyes AC",
-   "dur": 27.89,
-   "gan": 2.9,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794084524938,
-   "titulo": "Highest temperature in Seattle on November 8?",
-   "dur": 39.66,
-   "gan": 0.58,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794084547023,
-   "titulo": "Paris Saint-Germain FC vs. ES Troyes AC",
-   "dur": 1.892,
-   "gan": 2.87,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794084534873,
-   "titulo": "Paris Saint-Germain FC vs. ES Troyes AC",
-   "dur": 1.345,
-   "gan": 2.87,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794084405979,
-   "titulo": "Avaí FC vs. São Bernardo FC",
-   "dur": 0.621,
-   "gan": 2.55,
-   "neta": 0.49,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794084389663,
+   "inicio": 1794087524358,
    "titulo": "CA Boca Juniors vs. CSyD Defensa y Justicia",
-   "dur": 1.014,
-   "gan": 1.25,
+   "dur": 0.133,
+   "gan": 0.57,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794084388413,
-   "titulo": "Highest temperature in Dallas on November 7?",
-   "dur": 0.332,
-   "gan": 2.85,
-   "neta": 2.38,
+   "inicio": 1794087524044,
+   "titulo": "CA Boca Juniors vs. CSyD Defensa y Justicia",
+   "dur": 0.127,
+   "gan": 0.58,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794084371500,
-   "titulo": "Paris Saint-Germain FC vs. ES Troyes AC",
-   "dur": 0.853,
-   "gan": 2.39,
+   "inicio": 1794087523798,
+   "titulo": "CA Boca Juniors vs. CSyD Defensa y Justicia",
+   "dur": 0.149,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794087455375,
+   "titulo": "Chicago Fire FC vs. Columbus Crew",
+   "dur": 0.086,
+   "gan": 2.01,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794084339843,
-   "titulo": "Valencia CF vs. Real Madrid CF",
-   "dur": 2.009,
-   "gan": 2.41,
+   "inicio": 1794087412981,
+   "titulo": "Chicago Fire FC vs. Columbus Crew",
+   "dur": 3.165,
+   "gan": 5.7,
+   "neta": 0.39,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794087358743,
+   "titulo": "Sporting CP vs. Moreirense FC",
+   "dur": 7.286,
+   "gan": 2.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794084224008,
-   "titulo": "AA Argentinos Juniors vs. CA Huracán",
-   "dur": 1.003,
-   "gan": 1.25,
+   "inicio": 1794087344880,
+   "titulo": "FC Cincinnati vs. Nashville SC",
+   "dur": 1.63,
+   "gan": 0.97,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794084223859,
-   "titulo": "AA Argentinos Juniors vs. CA Huracán",
-   "dur": 0.082,
-   "gan": 0.6,
+   "inicio": 1794087302302,
+   "titulo": "Sporting CP vs. Moreirense FC",
+   "dur": 0.021,
+   "gan": 0.59,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794084180807,
-   "titulo": "Paris Saint-Germain FC vs. ES Troyes AC",
-   "dur": 0.169,
-   "gan": 0.63,
+   "inicio": 1794087299579,
+   "titulo": "Sporting CP vs. Moreirense FC",
+   "dur": 2.029,
+   "gan": 0.55,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
+  },
+  {
+   "inicio": 1794087298102,
+   "titulo": "Sporting CP vs. Moreirense FC",
+   "dur": 0.505,
+   "gan": 1.48,
+   "neta": 0.14,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794087289172,
+   "titulo": "Sporting CP vs. Moreirense FC",
+   "dur": 0.893,
+   "gan": 0.8,
+   "neta": 0.19,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794087279022,
+   "titulo": "Sporting CP vs. Moreirense FC",
+   "dur": 0.501,
+   "gan": 4.1,
+   "neta": 0.79,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794087244499,
+   "titulo": "How many House seats will the Democrats win in California?",
+   "dur": 0.121,
+   "gan": 0.53,
+   "neta": 0.48,
+   "lado": "si"
   }
  ]
 }
