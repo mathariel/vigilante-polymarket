@@ -1,73 +1,73 @@
 {
- "actualizado": 1794090612270,
+ "actualizado": 1794093622611,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794087612173,
-  "fin": 1794090612270,
-  "mensajes": 8642995,
+  "inicio": 1794090622530,
+  "fin": 1794093622611,
+  "mensajes": 8740889,
   "reconexiones": 0,
-  "eventos": 646,
+  "eventos": 654,
   "errores": []
  },
- "total": 7724,
- "falsos": 1509,
+ "total": 7800,
+ "falsos": 1530,
  "largos": {
-  "episodios": 4944,
+  "episodios": 4956,
   "eventos": 105,
   "dias": 7
  },
- "mediana": 0.669,
+ "mediana": 0.662,
  "captura": [
   {
    "s": 0.5,
-   "n": 4102,
-   "gan": 10470.82,
-   "nNeta": 2163,
-   "neta": 2872.19
+   "n": 4138,
+   "gan": 10538,
+   "nNeta": 2180,
+   "neta": 2890.3
   },
   {
    "s": 2,
-   "n": 2840,
-   "gan": 6159.36,
-   "nNeta": 1653,
-   "neta": 1404.13
+   "n": 2856,
+   "gan": 6188.27,
+   "nNeta": 1657,
+   "neta": 1409.21
   },
   {
    "s": 5,
-   "n": 1771,
-   "gan": 3605.32,
-   "nNeta": 998,
-   "neta": 491.77
+   "n": 1778,
+   "gan": 3624.6,
+   "nNeta": 1001,
+   "neta": 496.43
   },
   {
    "s": 30,
-   "n": 531,
-   "gan": 1205.89,
-   "nNeta": 151,
-   "neta": 149.31
+   "n": 533,
+   "gan": 1213.98,
+   "nNeta": 152,
+   "neta": 151.56
   }
  ],
- "rentables": 4256,
+ "rentables": 4299,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2497
+   "n": 2518
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1753
+   "n": 1786
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1699
+   "n": 1714
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1240
+   "n": 1245
   },
   {
    "et": "30 s–5 min",
@@ -77,15 +77,15 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 261
+   "n": 263
   }
  ],
  "porEvento": [
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 2377,
-   "gan": 1661.61,
-   "neta": 209.37,
+   "n": 2378,
+   "gan": 1668.51,
+   "neta": 211.62,
    "mediana": 0.053
   },
   {
@@ -139,8 +139,8 @@
   },
   {
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "n": 90,
-   "gan": 407.52,
+   "n": 91,
+   "gan": 408.71,
    "neta": 0,
    "mediana": 2999.512
   },
@@ -153,10 +153,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793833200000,
-   "n": 26
-  },
   {
    "h": 1793836800000,
    "n": 24
@@ -439,128 +435,132 @@
   },
   {
    "h": 1794088800000,
-   "n": 23
+   "n": 70
+  },
+  {
+   "h": 1794092400000,
+   "n": 29
   }
  ],
  "recientes": [
   {
-   "inicio": 1794087607869,
+   "inicio": 1794090618558,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3004.308,
+   "dur": 3003.975,
    "gan": 1.19,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794087614723,
+   "inicio": 1794090621672,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 2997.454,
-   "gan": 0.9,
+   "dur": 3000.861,
+   "gan": 6.9,
+   "neta": 2.25,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794093583858,
+   "titulo": "Cuiabá EC vs. EC Juventude",
+   "dur": 0.181,
+   "gan": 0.53,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794090587113,
-   "titulo": "CA Boca Juniors vs. CSyD Defensa y Justicia",
-   "dur": 0.502,
-   "gan": 2.05,
-   "neta": 0.59,
-   "lado": "si"
+   "inicio": 1794093129741,
+   "titulo": "Atlas FC vs. CF Pachuca",
+   "dur": 0.491,
+   "gan": 3.09,
+   "neta": 1.35,
+   "lado": "no"
   },
   {
-   "inicio": 1794090567430,
-   "titulo": "CA Boca Juniors vs. CSyD Defensa y Justicia",
-   "dur": 2.087,
-   "gan": 1.32,
-   "neta": 0.16,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794090562647,
-   "titulo": "CA Boca Juniors vs. CSyD Defensa y Justicia",
-   "dur": 1.684,
-   "gan": 0.95,
-   "neta": 0.75,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794090552976,
-   "titulo": "CA Boca Juniors vs. CSyD Defensa y Justicia",
-   "dur": 2.032,
-   "gan": 1.38,
-   "neta": 0.54,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794090548550,
-   "titulo": "CA Boca Juniors vs. CSyD Defensa y Justicia",
-   "dur": 1.705,
-   "gan": 2.69,
-   "neta": 2.06,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794090548372,
-   "titulo": "CA Boca Juniors vs. CSyD Defensa y Justicia",
-   "dur": 0.066,
-   "gan": 0.62,
-   "neta": 0.3,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794090547320,
-   "titulo": "CA Boca Juniors vs. CSyD Defensa y Justicia",
-   "dur": 1.049,
-   "gan": 4.64,
-   "neta": 2.47,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794090538384,
-   "titulo": "CA Boca Juniors vs. CSyD Defensa y Justicia",
-   "dur": 0.916,
-   "gan": 1.5,
-   "neta": 0.45,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794090532839,
-   "titulo": "CA Boca Juniors vs. CSyD Defensa y Justicia",
-   "dur": 1.148,
-   "gan": 1.1,
-   "neta": 0.69,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794090525639,
-   "titulo": "CA Boca Juniors vs. CSyD Defensa y Justicia",
-   "dur": 1.422,
-   "gan": 2.1,
-   "neta": 0.63,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794090446629,
-   "titulo": "CA Boca Juniors vs. CSyD Defensa y Justicia",
-   "dur": 7.757,
-   "gan": 3.1,
+   "inicio": 1794093117493,
+   "titulo": "Atlético Nacional vs. Deportivo Pereira",
+   "dur": 0.236,
+   "gan": 1.21,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794090343887,
-   "titulo": "CF Montréal vs. Vancouver Whitecaps FC",
-   "dur": 0.281,
-   "gan": 0.5,
+   "inicio": 1794093117151,
+   "titulo": "Atlético Nacional vs. Deportivo Pereira",
+   "dur": 0.302,
+   "gan": 1.43,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794093115658,
+   "titulo": "Atlético Nacional vs. Deportivo Pereira",
+   "dur": 0.384,
+   "gan": 0.89,
+   "neta": 0.44,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794093046675,
+   "titulo": "CA Mineiro vs. Grêmio FBPA",
+   "dur": 1.622,
+   "gan": 0.51,
+   "neta": 0.46,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794093020261,
+   "titulo": "Chicago Fire FC vs. Columbus Crew",
+   "dur": 0.12,
+   "gan": 4.43,
+   "neta": 3.93,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794093007027,
+   "titulo": "Chicago Fire FC vs. Columbus Crew",
+   "dur": 5.352,
+   "gan": 2.19,
+   "neta": 1.65,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794092910970,
+   "titulo": "CA Mineiro vs. Grêmio FBPA",
+   "dur": 0.13,
+   "gan": 0.97,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794090309850,
-   "titulo": "How many House seats will the Democrats win in California?",
-   "dur": 20.463,
-   "gan": 0.51,
-   "neta": 0.45,
+   "inicio": 1794092840338,
+   "titulo": "Chicago Fire FC vs. Columbus Crew",
+   "dur": 1.097,
+   "gan": 0.9,
+   "neta": 0.46,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794092839719,
+   "titulo": "Chicago Fire FC vs. Columbus Crew",
+   "dur": 0.004,
+   "gan": 0.54,
+   "neta": 0.3,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794092834140,
+   "titulo": "Chicago Fire FC vs. Columbus Crew",
+   "dur": 0.004,
+   "gan": 0.54,
+   "neta": 0.3,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794092834045,
+   "titulo": "Chicago Fire FC vs. Columbus Crew",
+   "dur": 0.065,
+   "gan": 0.54,
+   "neta": 0.3,
    "lado": "si"
   }
  ]
