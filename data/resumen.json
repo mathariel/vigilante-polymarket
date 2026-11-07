@@ -1,91 +1,91 @@
 {
- "actualizado": 1794078562577,
+ "actualizado": 1794081573917,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794075562484,
-  "fin": 1794078562577,
-  "mensajes": 10517874,
-  "reconexiones": 1,
-  "eventos": 702,
+  "inicio": 1794078573836,
+  "fin": 1794081573917,
+  "mensajes": 9588589,
+  "reconexiones": 2,
+  "eventos": 675,
   "errores": []
  },
- "total": 7360,
- "falsos": 1385,
+ "total": 7435,
+ "falsos": 1399,
  "largos": {
-  "episodios": 4840,
+  "episodios": 4922,
   "eventos": 104,
   "dias": 7
  },
- "mediana": 0.695,
+ "mediana": 0.693,
  "captura": [
   {
    "s": 0.5,
-   "n": 3926,
-   "gan": 9919.01,
-   "nNeta": 2075,
-   "neta": 2643.75
+   "n": 3966,
+   "gan": 10039.9,
+   "nNeta": 2098,
+   "neta": 2674.08
   },
   {
    "s": 2,
-   "n": 2760,
-   "gan": 5986.03,
-   "nNeta": 1612,
-   "neta": 1361.51
+   "n": 2777,
+   "gan": 6032.28,
+   "nNeta": 1621,
+   "neta": 1372.88
   },
   {
    "s": 5,
-   "n": 1728,
-   "gan": 3517.86,
-   "nNeta": 973,
-   "neta": 469.65
+   "n": 1737,
+   "gan": 3540.61,
+   "nNeta": 978,
+   "neta": 472.48
   },
   {
    "s": 30,
-   "n": 511,
-   "gan": 1179.4,
-   "nNeta": 138,
-   "neta": 140.44
+   "n": 517,
+   "gan": 1188.65,
+   "nNeta": 142,
+   "neta": 143.24
   }
  ],
- "rentables": 4099,
+ "rentables": 4145,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2414
+   "n": 2429
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1611
+   "n": 1639
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1603
+   "n": 1626
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1217
+   "n": 1220
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 265
+   "n": 266
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 246
+   "n": 251
   }
  ],
  "porEvento": [
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 2373,
-   "gan": 1655,
-   "neta": 208.71,
+   "n": 2374,
+   "gan": 1657.53,
+   "neta": 209.17,
    "mediana": 0.053
   },
   {
@@ -118,8 +118,8 @@
   },
   {
    "titulo": "How many Israeli elections before government formed?",
-   "n": 158,
-   "gan": 206.57,
+   "n": 159,
+   "gan": 209.69,
    "neta": 3.83,
    "mediana": 10.499
   },
@@ -139,10 +139,10 @@
   },
   {
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "n": 86,
-   "gan": 402.76,
+   "n": 87,
+   "gan": 403.95,
    "neta": 0,
-   "mediana": 2999.512
+   "mediana": 2999.503
   },
   {
    "titulo": "RB Leipzig vs. Manchester City FC",
@@ -439,129 +439,129 @@
   },
   {
    "h": 1794078000000,
-   "n": 19
+   "n": 94
   }
  ],
  "recientes": [
   {
-   "inicio": 1794075560501,
+   "inicio": 1794080810383,
+   "titulo": "AS Saint-Étienne vs. Stade Lavallois Mayenne FC - Halftime Result",
+   "dur": 763.455,
+   "gan": 0.65,
+   "neta": 0.61,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794079294288,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 2279.55,
+   "gan": 2.53,
+   "neta": 0.46,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794078576283,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3001.986,
+   "dur": 2997.555,
    "gan": 1.19,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794075564254,
-   "titulo": "How many Israeli elections before government formed?",
-   "dur": 2998.233,
-   "gan": 2.25,
+   "inicio": 1794081524241,
+   "titulo": "AS Roma vs. US Sassuolo Calcio",
+   "dur": 1.042,
+   "gan": 1.3,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794078558312,
-   "titulo": "VfB Stuttgart vs. SV Werder Bremen",
-   "dur": 1.447,
-   "gan": 0.63,
-   "neta": 0,
+   "inicio": 1794081326707,
+   "titulo": "CA Gimnasia y Esgrima de Mendoza vs. CS Independiente Rivadavia",
+   "dur": 0.368,
+   "gan": 0.7,
+   "neta": 0.37,
    "lado": "si"
   },
   {
-   "inicio": 1794078557268,
-   "titulo": "Nottingham Forest FC vs. Manchester City FC",
-   "dur": 1.067,
-   "gan": 0.53,
-   "neta": 0,
+   "inicio": 1794081326487,
+   "titulo": "CA Gimnasia y Esgrima de Mendoza vs. CS Independiente Rivadavia",
+   "dur": 0.219,
+   "gan": 1.13,
+   "neta": 0.64,
    "lado": "si"
   },
   {
-   "inicio": 1794078556422,
-   "titulo": "VfB Stuttgart vs. SV Werder Bremen",
-   "dur": 1.794,
-   "gan": 0.6,
-   "neta": 0,
+   "inicio": 1794081326372,
+   "titulo": "CA Gimnasia y Esgrima de Mendoza vs. CS Independiente Rivadavia",
+   "dur": 0.097,
+   "gan": 5.11,
+   "neta": 4.09,
    "lado": "si"
   },
   {
-   "inicio": 1794078506384,
-   "titulo": "CA Osasuna vs. Athletic Club",
-   "dur": 0.28,
-   "gan": 0.5,
-   "neta": 0,
+   "inicio": 1794081326280,
+   "titulo": "CA Gimnasia y Esgrima de Mendoza vs. CS Independiente Rivadavia",
+   "dur": 0.073,
+   "gan": 2.09,
+   "neta": 1.8,
    "lado": "si"
   },
   {
-   "inicio": 1794078434286,
-   "titulo": "CA Osasuna vs. Athletic Club",
-   "dur": 0.932,
-   "gan": 0.88,
-   "neta": 0.06,
+   "inicio": 1794081326023,
+   "titulo": "CA Gimnasia y Esgrima de Mendoza vs. CS Independiente Rivadavia",
+   "dur": 0.122,
+   "gan": 12.44,
+   "neta": 11.22,
    "lado": "si"
   },
   {
-   "inicio": 1794078422215,
-   "titulo": "CA Osasuna vs. Athletic Club",
-   "dur": 0.77,
-   "gan": 1.8,
-   "neta": 0.89,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794078422125,
-   "titulo": "CA Osasuna vs. Athletic Club",
-   "dur": 0.044,
-   "gan": 1.1,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794078421986,
-   "titulo": "CA Osasuna vs. Athletic Club",
-   "dur": 0.123,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794078404496,
-   "titulo": "AJ Auxerre vs. Paris FC",
-   "dur": 0.117,
-   "gan": 1.25,
-   "neta": 0,
+   "inicio": 1794081325965,
+   "titulo": "CA Gimnasia y Esgrima de Mendoza vs. CS Independiente Rivadavia",
+   "dur": 0.047,
+   "gan": 13.99,
+   "neta": 12.77,
    "lado": "si"
   },
   {
-   "inicio": 1794078375062,
-   "titulo": "VfB Stuttgart vs. SV Werder Bremen",
-   "dur": 0.217,
-   "gan": 0.53,
-   "neta": 0.08,
+   "inicio": 1794080657016,
+   "titulo": "How many House seats will the Democrats win in California?",
+   "dur": 621.651,
+   "gan": 0.76,
+   "neta": 0.69,
    "lado": "si"
   },
   {
-   "inicio": 1794078224366,
-   "titulo": "Nottingham Forest FC vs. Manchester City FC",
-   "dur": 0.099,
-   "gan": 1.27,
+   "inicio": 1794081274728,
+   "titulo": "FC Alverca vs. Casa Pia AC",
+   "dur": 0.669,
+   "gan": 0.84,
+   "neta": 0.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794081195523,
+   "titulo": "Hertha BSC vs. VfL Wolfsburg",
+   "dur": 8.521,
+   "gan": 10.86,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794078220991,
-   "titulo": "Nottingham Forest FC vs. Manchester City FC",
-   "dur": 0.436,
-   "gan": 1.5,
+   "inicio": 1794081157846,
+   "titulo": "Hertha BSC vs. VfL Wolfsburg",
+   "dur": 18.398,
+   "gan": 3.56,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794078198393,
-   "titulo": "Nottingham Forest FC vs. Manchester City FC",
-   "dur": 3.683,
-   "gan": 2.2,
+   "inicio": 1794081145663,
+   "titulo": "Hertha BSC vs. VfL Wolfsburg",
+   "dur": 0.024,
+   "gan": 0.69,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   }
  ]
 }
