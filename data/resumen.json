@@ -1,91 +1,91 @@
 {
- "actualizado": 1794069526004,
+ "actualizado": 1794072538503,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794066525930,
-  "fin": 1794069526004,
-  "mensajes": 12323725,
-  "reconexiones": 3,
-  "eventos": 727,
+  "inicio": 1794069538410,
+  "fin": 1794072538503,
+  "mensajes": 10324404,
+  "reconexiones": 1,
+  "eventos": 718,
   "errores": []
  },
- "total": 6882,
- "falsos": 1303,
+ "total": 6998,
+ "falsos": 1330,
  "largos": {
-  "episodios": 4696,
-  "eventos": 102,
+  "episodios": 4807,
+  "eventos": 103,
   "dias": 7
  },
- "mediana": 0.725,
+ "mediana": 0.709,
  "captura": [
   {
    "s": 0.5,
-   "n": 3700,
-   "gan": 9500.57,
-   "nNeta": 2030,
-   "neta": 2587.55
+   "n": 3748,
+   "gan": 9569.13,
+   "nNeta": 2040,
+   "neta": 2594
   },
   {
    "s": 2,
-   "n": 2640,
-   "gan": 5764.11,
-   "nNeta": 1596,
-   "neta": 1332.5
+   "n": 2661,
+   "gan": 5794.29,
+   "nNeta": 1597,
+   "neta": 1332.83
   },
   {
    "s": 5,
-   "n": 1646,
-   "gan": 3352.19,
-   "nNeta": 963,
-   "neta": 448.3
+   "n": 1656,
+   "gan": 3368.7,
+   "nNeta": 964,
+   "neta": 448.63
   },
   {
    "s": 30,
-   "n": 488,
-   "gan": 1127.5,
-   "nNeta": 133,
-   "neta": 138.19
+   "n": 492,
+   "gan": 1133.05,
+   "nNeta": 134,
+   "neta": 138.52
   }
  ],
- "rentables": 4014,
+ "rentables": 4040,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2263
+   "n": 2299
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1455
+   "n": 1501
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1515
+   "n": 1538
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1158
+   "n": 1164
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 251
+   "n": 252
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 237
+   "n": 240
   }
  ],
  "porEvento": [
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 2371,
-   "gan": 1653.21,
-   "neta": 207.86,
+   "n": 2372,
+   "gan": 1653.72,
+   "neta": 208.08,
    "mediana": 0.053
   },
   {
@@ -111,10 +111,10 @@
   },
   {
    "titulo": "How many Israeli elections before government formed?",
-   "n": 155,
-   "gan": 199.03,
+   "n": 156,
+   "gan": 201.48,
    "neta": 3.83,
-   "mediana": 10.487
+   "mediana": 10.496
   },
   {
    "titulo": "AEK vs. Real Madrid CF",
@@ -132,8 +132,8 @@
   },
   {
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "n": 83,
-   "gan": 399.19,
+   "n": 84,
+   "gan": 400.38,
    "neta": 0,
    "mediana": 2999.512
   },
@@ -153,10 +153,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793811600000,
-   "n": 36
-  },
   {
    "h": 1793815200000,
    "n": 77
@@ -439,127 +435,131 @@
   },
   {
    "h": 1794067200000,
-   "n": 103
+   "n": 176
+  },
+  {
+   "h": 1794070800000,
+   "n": 43
   }
  ],
  "recientes": [
   {
-   "inicio": 1794067023472,
-   "titulo": "Calcio Padova vs. Empoli FC",
-   "dur": 2502.461,
-   "gan": 0.5,
-   "neta": 0.38,
+   "inicio": 1794072422668,
+   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
+   "dur": 115.745,
+   "gan": 0.71,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794066809198,
-   "titulo": "Pisa SC vs. FC Südtirol",
-   "dur": 2716.735,
-   "gan": 0.54,
-   "neta": 0.16,
+   "inicio": 1794071168011,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 1370.402,
+   "gan": 0.51,
+   "neta": 0.22,
    "lado": "si"
   },
   {
-   "inicio": 1794066501757,
+   "inicio": 1794070440216,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 2098.197,
+   "gan": 1.19,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794069541309,
    "titulo": "How many Israeli elections before government formed?",
-   "dur": 3024.176,
+   "dur": 2997.104,
    "gan": 2.45,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794069507441,
-   "titulo": "Queens Park Rangers FC vs. Lincoln City FC",
-   "dur": 0.297,
-   "gan": 1.01,
-   "neta": 0.58,
+   "inicio": 1794072527340,
+   "titulo": "Galatasaray SK vs. Amed Sportif",
+   "dur": 0.405,
+   "gan": 1,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794069507381,
-   "titulo": "Queens Park Rangers FC vs. Lincoln City FC",
-   "dur": 0.034,
-   "gan": 4.53,
-   "neta": 1.86,
+   "inicio": 1794072437521,
+   "titulo": "NK Istra 1961 vs. HNK Rijeka",
+   "dur": 0.712,
+   "gan": 1.64,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794069498112,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 5.615,
-   "gan": 0.57,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794069497977,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 0.073,
+   "inicio": 1794072422642,
+   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
+   "dur": 0.021,
    "gan": 0.53,
-   "neta": 0.09,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794069497851,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 0.062,
-   "gan": 0.57,
-   "neta": 0.13,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794069497726,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 0.057,
-   "gan": 0.57,
-   "neta": 0.05,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794069489924,
-   "titulo": "Fulham FC vs. Newcastle United FC",
-   "dur": 0.243,
-   "gan": 1,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794069486122,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 2.884,
-   "gan": 0.57,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794069445061,
-   "titulo": "Charlton Athletic FC vs. Sheffield United FC",
-   "dur": 1.677,
-   "gan": 1,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794069390570,
-   "titulo": "Arsenal FC vs. Hull City AFC",
-   "dur": 0.889,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794069383986,
-   "titulo": "Arsenal FC vs. Hull City AFC",
-   "dur": 0.776,
+   "inicio": 1794072422583,
+   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
+   "dur": 0.031,
    "gan": 0.5,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794072147133,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 1.777,
+   "gan": 0.55,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794069318296,
-   "titulo": "Cardiff City FC vs. Burnley FC",
-   "dur": 2.287,
-   "gan": 0.62,
+   "inicio": 1794072063929,
+   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
+   "dur": 2.217,
+   "gan": 0.85,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794072062344,
+   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
+   "dur": 1.535,
+   "gan": 0.72,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794072059392,
+   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
+   "dur": 2.275,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794072059317,
+   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
+   "dur": 0.047,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794072054896,
+   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
+   "dur": 4.421,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794072022769,
+   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
+   "dur": 0.404,
+   "gan": 0.59,
    "neta": 0,
    "lado": "si"
   }
