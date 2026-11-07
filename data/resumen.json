@@ -1,91 +1,91 @@
 {
- "actualizado": 1794066514256,
+ "actualizado": 1794069526004,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794063514163,
-  "fin": 1794066514256,
-  "mensajes": 13307522,
-  "reconexiones": 2,
-  "eventos": 732,
+  "inicio": 1794066525930,
+  "fin": 1794069526004,
+  "mensajes": 12323725,
+  "reconexiones": 3,
+  "eventos": 727,
   "errores": []
  },
- "total": 6727,
- "falsos": 1252,
+ "total": 6882,
+ "falsos": 1303,
  "largos": {
-  "episodios": 4654,
-  "eventos": 101,
+  "episodios": 4696,
+  "eventos": 102,
   "dias": 7
  },
- "mediana": 0.739,
+ "mediana": 0.725,
  "captura": [
   {
    "s": 0.5,
-   "n": 3630,
-   "gan": 9335.42,
-   "nNeta": 2009,
-   "neta": 2537.98
+   "n": 3700,
+   "gan": 9500.57,
+   "nNeta": 2030,
+   "neta": 2587.55
   },
   {
    "s": 2,
-   "n": 2598,
-   "gan": 5707.14,
-   "nNeta": 1582,
-   "neta": 1320.82
+   "n": 2640,
+   "gan": 5764.11,
+   "nNeta": 1596,
+   "neta": 1332.5
   },
   {
    "s": 5,
-   "n": 1625,
-   "gan": 3317.74,
-   "nNeta": 957,
-   "neta": 440.21
+   "n": 1646,
+   "gan": 3352.19,
+   "nNeta": 963,
+   "neta": 448.3
   },
   {
    "s": 30,
-   "n": 483,
-   "gan": 1121.66,
-   "nNeta": 131,
-   "neta": 137.45
+   "n": 488,
+   "gan": 1127.5,
+   "nNeta": 133,
+   "neta": 138.19
   }
  ],
- "rentables": 3964,
+ "rentables": 4014,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2227
+   "n": 2263
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1390
+   "n": 1455
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1482
+   "n": 1515
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1142
+   "n": 1158
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 250
+   "n": 251
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 233
+   "n": 237
   }
  ],
  "porEvento": [
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 2365,
-   "gan": 1649.83,
-   "neta": 207.08,
+   "n": 2371,
+   "gan": 1653.21,
+   "neta": 207.86,
    "mediana": 0.053
   },
   {
@@ -111,8 +111,8 @@
   },
   {
    "titulo": "How many Israeli elections before government formed?",
-   "n": 154,
-   "gan": 196.58,
+   "n": 155,
+   "gan": 199.03,
    "neta": 3.83,
    "mediana": 10.487
   },
@@ -153,10 +153,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793808000000,
-   "n": 10
-  },
   {
    "h": 1793811600000,
    "n": 36
@@ -439,127 +435,131 @@
   },
   {
    "h": 1794063600000,
-   "n": 1584
+   "n": 1636
+  },
+  {
+   "h": 1794067200000,
+   "n": 103
   }
  ],
  "recientes": [
   {
-   "inicio": 1794066384746,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 129.42,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1794067023472,
+   "titulo": "Calcio Padova vs. Empoli FC",
+   "dur": 2502.461,
+   "gan": 0.5,
+   "neta": 0.38,
+   "lado": "si"
   },
   {
-   "inicio": 1794063508726,
+   "inicio": 1794066809198,
+   "titulo": "Pisa SC vs. FC Südtirol",
+   "dur": 2716.735,
+   "gan": 0.54,
+   "neta": 0.16,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794066501757,
    "titulo": "How many Israeli elections before government formed?",
-   "dur": 3005.44,
-   "gan": 3.12,
+   "dur": 3024.176,
+   "gan": 2.45,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794066489663,
-   "titulo": "Arsenal FC vs. Hull City AFC",
-   "dur": 0.223,
-   "gan": 0.78,
-   "neta": 0,
+   "inicio": 1794069507441,
+   "titulo": "Queens Park Rangers FC vs. Lincoln City FC",
+   "dur": 0.297,
+   "gan": 1.01,
+   "neta": 0.58,
    "lado": "si"
   },
   {
-   "inicio": 1794066422906,
-   "titulo": "Cagliari Calcio vs. Frosinone Calcio",
-   "dur": 3.104,
-   "gan": 1.17,
-   "neta": 0,
+   "inicio": 1794069507381,
+   "titulo": "Queens Park Rangers FC vs. Lincoln City FC",
+   "dur": 0.034,
+   "gan": 4.53,
+   "neta": 1.86,
    "lado": "si"
   },
   {
-   "inicio": 1794066374591,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 10.106,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794066352011,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 1.777,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794066325352,
-   "titulo": "Arsenal FC vs. Hull City AFC",
-   "dur": 0.205,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794066325048,
-   "titulo": "Arsenal FC vs. Hull City AFC",
-   "dur": 0.255,
+   "inicio": 1794069498112,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 5.615,
    "gan": 0.57,
-   "neta": 0,
+   "neta": 0.17,
    "lado": "si"
   },
   {
-   "inicio": 1794066313589,
-   "titulo": "Arsenal FC vs. Hull City AFC",
-   "dur": 2.307,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794066261949,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 44.289,
-   "gan": 0.91,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794066273780,
-   "titulo": "1. FSV Mainz 05 vs. FC Bayern München",
-   "dur": 0.689,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794066241045,
-   "titulo": "Arsenal FC vs. Hull City AFC",
-   "dur": 1.068,
-   "gan": 1.63,
-   "neta": 0.62,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794066236924,
-   "titulo": "Arsenal FC vs. Hull City AFC",
-   "dur": 0.965,
-   "gan": 0.57,
-   "neta": 0.02,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794066235494,
-   "titulo": "Arsenal FC vs. Hull City AFC",
-   "dur": 0.338,
-   "gan": 0.85,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794066232960,
-   "titulo": "Charlton Athletic FC vs. Sheffield United FC",
-   "dur": 0.353,
+   "inicio": 1794069497977,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 0.073,
    "gan": 0.53,
+   "neta": 0.09,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794069497851,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 0.062,
+   "gan": 0.57,
+   "neta": 0.13,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794069497726,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 0.057,
+   "gan": 0.57,
+   "neta": 0.05,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794069489924,
+   "titulo": "Fulham FC vs. Newcastle United FC",
+   "dur": 0.243,
+   "gan": 1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794069486122,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 2.884,
+   "gan": 0.57,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794069445061,
+   "titulo": "Charlton Athletic FC vs. Sheffield United FC",
+   "dur": 1.677,
+   "gan": 1,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794069390570,
+   "titulo": "Arsenal FC vs. Hull City AFC",
+   "dur": 0.889,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794069383986,
+   "titulo": "Arsenal FC vs. Hull City AFC",
+   "dur": 0.776,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794069318296,
+   "titulo": "Cardiff City FC vs. Burnley FC",
+   "dur": 2.287,
+   "gan": 0.62,
    "neta": 0,
    "lado": "si"
   }
