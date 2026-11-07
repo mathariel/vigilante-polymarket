@@ -1,92 +1,92 @@
 {
- "actualizado": 1794054466706,
+ "actualizado": 1794057478422,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794051466648,
-  "fin": 1794054466706,
-  "mensajes": 9762501,
-  "reconexiones": 1,
-  "eventos": 687,
+  "inicio": 1794054478342,
+  "fin": 1794057478422,
+  "mensajes": 11103922,
+  "reconexiones": 0,
+  "eventos": 703,
   "errores": []
  },
- "total": 4932,
- "falsos": 1123,
+ "total": 4993,
+ "falsos": 1135,
  "largos": {
-  "episodios": 4577,
+  "episodios": 4600,
   "eventos": 100,
   "dias": 7
  },
- "mediana": 2.148,
+ "mediana": 2.113,
  "captura": [
   {
    "s": 0.5,
-   "n": 3431,
-   "gan": 7868.05,
-   "nNeta": 1946,
-   "neta": 1656.86
+   "n": 3464,
+   "gan": 7959,
+   "nNeta": 1952,
+   "neta": 1659.17
   },
   {
    "s": 2,
-   "n": 2499,
-   "gan": 5050.51,
-   "nNeta": 1553,
-   "neta": 968.52
+   "n": 2520,
+   "gan": 5109.66,
+   "nNeta": 1557,
+   "neta": 971.7
   },
   {
    "s": 5,
-   "n": 1579,
-   "gan": 3175.74,
-   "nNeta": 948,
-   "neta": 426.66
+   "n": 1590,
+   "gan": 3211.1,
+   "nNeta": 949,
+   "neta": 426.77
   },
   {
    "s": 30,
-   "n": 467,
-   "gan": 1067.59,
+   "n": 472,
+   "gan": 1091.82,
    "nNeta": 128,
    "neta": 132.67
   }
  ],
- "rentables": 2406,
+ "rentables": 2422,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 773
+   "n": 779
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1200
+   "n": 1229
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1377
+   "n": 1392
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1112
+   "n": 1118
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 246
+   "n": 247
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 221
+   "n": 225
   }
  ],
  "porEvento": [
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 903,
-   "gan": 917.51,
+   "n": 904,
+   "gan": 918.17,
    "neta": 133.29,
-   "mediana": 2.967
+   "mediana": 2.968
   },
   {
    "titulo": "How many House seats will the Democrats win in Tennessee?",
@@ -111,8 +111,8 @@
   },
   {
    "titulo": "How many Israeli elections before government formed?",
-   "n": 150,
-   "gan": 184.1,
+   "n": 151,
+   "gan": 187.22,
    "neta": 3.83,
    "mediana": 10.476
   },
@@ -125,10 +125,10 @@
   },
   {
    "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "n": 101,
-   "gan": 65.21,
+   "n": 105,
+   "gan": 67.26,
    "neta": 1.7,
-   "mediana": 26.209
+   "mediana": 25.703
   },
   {
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
@@ -153,10 +153,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793797200000,
-   "n": 29
-  },
   {
    "h": 1793800800000,
    "n": 13
@@ -439,129 +435,133 @@
   },
   {
    "h": 1794052800000,
-   "n": 10
+   "n": 44
+  },
+  {
+   "h": 1794056400000,
+   "n": 27
   }
  ],
  "recientes": [
   {
-   "inicio": 1794053989400,
-   "titulo": "October Inflation China - Annual",
-   "dur": 477.251,
-   "gan": 0.55,
+   "inicio": 1794056777309,
+   "titulo": "Arsenal FC vs. Hull City AFC",
+   "dur": 701.038,
+   "gan": 19.38,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794052387778,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 2078.873,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794051417452,
+   "inicio": 1794054267974,
    "titulo": "How many Israeli elections before government formed?",
-   "dur": 3049.199,
+   "dur": 3210.373,
    "gan": 3.12,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794054331590,
-   "titulo": "Holstein Kiel vs. DSC Arminia Bielefeld",
-   "dur": 0.893,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794054209406,
-   "titulo": "Highest temperature in Cape Town on November 8?",
-   "dur": 4.337,
-   "gan": 1.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794053962146,
-   "titulo": "October Inflation China - Annual",
-   "dur": 26.776,
-   "gan": 0.69,
+   "inicio": 1794054474584,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 3003.763,
+   "gan": 0.66,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794053886241,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 9.766,
-   "gan": 0.52,
+   "inicio": 1794057441533,
+   "titulo": "Holstein Kiel vs. DSC Arminia Bielefeld",
+   "dur": 2.603,
+   "gan": 2.52,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794053755536,
-   "titulo": "October Inflation China - Annual",
-   "dur": 0.037,
+   "inicio": 1794057435563,
+   "titulo": "Holstein Kiel vs. DSC Arminia Bielefeld",
+   "dur": 0.168,
+   "gan": 2.19,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794057432178,
+   "titulo": "Leeds United FC vs. Tottenham Hotspur FC",
+   "dur": 2.587,
+   "gan": 4.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794057360700,
+   "titulo": "Leeds United FC vs. Tottenham Hotspur FC",
+   "dur": 5.058,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794057256971,
+   "titulo": "Leeds United FC vs. Tottenham Hotspur FC",
+   "dur": 9.487,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794057247649,
+   "titulo": "Persita Tangerang vs. Isenmulang Kalteng FC",
+   "dur": 0.488,
    "gan": 0.63,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794053754400,
-   "titulo": "October Inflation China - Annual",
-   "dur": 0.027,
-   "gan": 0.63,
+   "inicio": 1794057156082,
+   "titulo": "VfL Osnabrück vs. 1. FC Kaiserslautern",
+   "dur": 0.882,
+   "gan": 3.88,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794053586903,
-   "titulo": "Holstein Kiel vs. DSC Arminia Bielefeld",
-   "dur": 0.092,
-   "gan": 2.18,
+   "inicio": 1794057154767,
+   "titulo": "Burgos CF vs. Celta Fortuna",
+   "dur": 0.247,
+   "gan": 0.95,
+   "neta": 0.48,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794057154545,
+   "titulo": "Burgos CF vs. Celta Fortuna",
+   "dur": 0.212,
+   "gan": 0.5,
+   "neta": 0.04,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794057154266,
+   "titulo": "Burgos CF vs. Celta Fortuna",
+   "dur": 0.279,
+   "gan": 0.65,
+   "neta": 0.18,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794057154057,
+   "titulo": "Burgos CF vs. Celta Fortuna",
+   "dur": 0.205,
+   "gan": 3.16,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794053325953,
-   "titulo": "Highest temperature in Busan on November 8?",
-   "dur": 1.397,
-   "gan": 0.51,
+   "inicio": 1794057154034,
+   "titulo": "Burgos CF vs. Celta Fortuna",
+   "dur": 0.006,
+   "gan": 3.16,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794053214216,
-   "titulo": "Ankara Keciorengucu vs. Manisa Futbol Kulubu",
-   "dur": 1.035,
-   "gan": 0.82,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794052609392,
-   "titulo": "Queens Park Rangers FC vs. Lincoln City FC",
-   "dur": 7.084,
-   "gan": 1.03,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794052457483,
-   "titulo": "Lowest temperature in Atlanta on November 7?",
-   "dur": 0.985,
-   "gan": 1.55,
-   "neta": 1.41,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794051789732,
-   "titulo": "Ankara Keciorengucu vs. Manisa Futbol Kulubu",
-   "dur": 0.934,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
