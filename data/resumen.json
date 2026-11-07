@@ -1,92 +1,92 @@
 {
- "actualizado": 1794063502588,
+ "actualizado": 1794066514256,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794060502517,
-  "fin": 1794063502588,
-  "mensajes": 12180490,
-  "reconexiones": 1,
-  "eventos": 708,
+  "inicio": 1794063514163,
+  "fin": 1794066514256,
+  "mensajes": 13307522,
+  "reconexiones": 2,
+  "eventos": 732,
   "errores": []
  },
- "total": 5137,
- "falsos": 1214,
+ "total": 6727,
+ "falsos": 1252,
  "largos": {
-  "episodios": 4638,
+  "episodios": 4654,
   "eventos": 101,
   "dias": 7
  },
- "mediana": 1.975,
+ "mediana": 0.739,
  "captura": [
   {
    "s": 0.5,
-   "n": 3553,
-   "gan": 9075.52,
-   "nNeta": 1987,
-   "neta": 2493.82
+   "n": 3630,
+   "gan": 9335.42,
+   "nNeta": 2009,
+   "neta": 2537.98
   },
   {
    "s": 2,
-   "n": 2557,
-   "gan": 5563.53,
-   "nNeta": 1571,
-   "neta": 1302.5
+   "n": 2598,
+   "gan": 5707.14,
+   "nNeta": 1582,
+   "neta": 1320.82
   },
   {
    "s": 5,
-   "n": 1606,
-   "gan": 3254.02,
-   "nNeta": 955,
-   "neta": 436.59
+   "n": 1625,
+   "gan": 3317.74,
+   "nNeta": 957,
+   "neta": 440.21
   },
   {
    "s": 30,
-   "n": 478,
-   "gan": 1110.14,
-   "nNeta": 130,
-   "neta": 137.12
+   "n": 483,
+   "gan": 1121.66,
+   "nNeta": 131,
+   "neta": 137.45
   }
  ],
- "rentables": 2471,
+ "rentables": 3964,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 809
+   "n": 2227
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1273
+   "n": 1390
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1446
+   "n": 1482
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1128
+   "n": 1142
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 247
+   "n": 250
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 231
+   "n": 233
   }
  ],
  "porEvento": [
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 907,
-   "gan": 920.3,
-   "neta": 133.82,
-   "mediana": 2.969
+   "n": 2365,
+   "gan": 1649.83,
+   "neta": 207.08,
+   "mediana": 0.053
   },
   {
    "titulo": "How many House seats will the Democrats win in Tennessee?",
@@ -111,10 +111,10 @@
   },
   {
    "titulo": "How many Israeli elections before government formed?",
-   "n": 153,
-   "gan": 193.46,
+   "n": 154,
+   "gan": 196.58,
    "neta": 3.83,
-   "mediana": 10.484
+   "mediana": 10.487
   },
   {
    "titulo": "AEK vs. Real Madrid CF",
@@ -153,10 +153,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793804400000,
-   "n": 9
-  },
   {
    "h": 1793808000000,
    "n": 10
@@ -439,129 +435,133 @@
   },
   {
    "h": 1794060000000,
-   "n": 103
+   "n": 109
+  },
+  {
+   "h": 1794063600000,
+   "n": 1584
   }
  ],
  "recientes": [
   {
-   "inicio": 1794062931147,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 571.373,
-   "gan": 0.95,
-   "neta": 0.33,
-   "lado": "si"
+   "inicio": 1794066384746,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 129.42,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1794056036750,
+   "inicio": 1794063508726,
    "titulo": "How many Israeli elections before government formed?",
-   "dur": 7465.77,
+   "dur": 3005.44,
    "gan": 3.12,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794063296272,
-   "titulo": "SC Paderborn 07 vs. Eintracht Frankfurt",
-   "dur": 1.818,
-   "gan": 3.47,
-   "neta": 1.36,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794063241168,
-   "titulo": "SC Paderborn 07 vs. Eintracht Frankfurt",
-   "dur": 2.335,
-   "gan": 2.2,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794063215299,
-   "titulo": "HNK Gorica vs. NK Slaven Belupo",
-   "dur": 0.919,
-   "gan": 4.93,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794063210452,
-   "titulo": "SC Paderborn 07 vs. Eintracht Frankfurt",
-   "dur": 4.619,
-   "gan": 5.25,
-   "neta": 0.26,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794063173355,
-   "titulo": "SC Paderborn 07 vs. Eintracht Frankfurt",
-   "dur": 0.161,
-   "gan": 1.74,
-   "neta": 0.22,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794063099173,
-   "titulo": "BV Borussia 09 Dortmund vs. SV 07 Elversberg",
-   "dur": 0.729,
-   "gan": 1.15,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794063084788,
-   "titulo": "BV Borussia 09 Dortmund vs. SV 07 Elversberg",
-   "dur": 7.847,
-   "gan": 5.37,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794063012022,
-   "titulo": "BV Borussia 09 Dortmund vs. SV 07 Elversberg",
-   "dur": 2.993,
-   "gan": 2.37,
+   "inicio": 1794066489663,
+   "titulo": "Arsenal FC vs. Hull City AFC",
+   "dur": 0.223,
+   "gan": 0.78,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794062970146,
-   "titulo": "BV Borussia 09 Dortmund vs. SV 07 Elversberg",
-   "dur": 8.504,
-   "gan": 3.5,
+   "inicio": 1794066422906,
+   "titulo": "Cagliari Calcio vs. Frosinone Calcio",
+   "dur": 3.104,
+   "gan": 1.17,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794062950057,
-   "titulo": "Málaga CF vs. Real Racing Club",
-   "dur": 1.105,
-   "gan": 0.58,
+   "inicio": 1794066374591,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 10.106,
+   "gan": 0.51,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794062864117,
-   "titulo": "Málaga CF vs. Real Racing Club",
-   "dur": 0.143,
-   "gan": 2.69,
-   "neta": 1.33,
+   "inicio": 1794066352011,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 1.777,
+   "gan": 0.54,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794062856967,
-   "titulo": "Málaga CF vs. Real Racing Club",
-   "dur": 2.079,
-   "gan": 283.78,
-   "neta": 242.2,
+   "inicio": 1794066325352,
+   "titulo": "Arsenal FC vs. Hull City AFC",
+   "dur": 0.205,
+   "gan": 0.55,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794062852388,
-   "titulo": "Málaga CF vs. Real Racing Club",
-   "dur": 0.917,
-   "gan": 1.77,
+   "inicio": 1794066325048,
+   "titulo": "Arsenal FC vs. Hull City AFC",
+   "dur": 0.255,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794066313589,
+   "titulo": "Arsenal FC vs. Hull City AFC",
+   "dur": 2.307,
+   "gan": 0.56,
    "neta": 0,
    "lado": "no"
+  },
+  {
+   "inicio": 1794066261949,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 44.289,
+   "gan": 0.91,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794066273780,
+   "titulo": "1. FSV Mainz 05 vs. FC Bayern München",
+   "dur": 0.689,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794066241045,
+   "titulo": "Arsenal FC vs. Hull City AFC",
+   "dur": 1.068,
+   "gan": 1.63,
+   "neta": 0.62,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794066236924,
+   "titulo": "Arsenal FC vs. Hull City AFC",
+   "dur": 0.965,
+   "gan": 0.57,
+   "neta": 0.02,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794066235494,
+   "titulo": "Arsenal FC vs. Hull City AFC",
+   "dur": 0.338,
+   "gan": 0.85,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794066232960,
+   "titulo": "Charlton Athletic FC vs. Sheffield United FC",
+   "dur": 0.353,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
   }
  ]
 }
