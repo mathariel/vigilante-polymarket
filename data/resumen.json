@@ -1,73 +1,73 @@
 {
- "actualizado": 1794051455416,
+ "actualizado": 1794054466706,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794048455329,
-  "fin": 1794051455416,
-  "mensajes": 8582297,
-  "reconexiones": 12,
-  "eventos": 678,
+  "inicio": 1794051466648,
+  "fin": 1794054466706,
+  "mensajes": 9762501,
+  "reconexiones": 1,
+  "eventos": 687,
   "errores": []
  },
- "total": 4916,
- "falsos": 1120,
+ "total": 4932,
+ "falsos": 1123,
  "largos": {
-  "episodios": 4555,
+  "episodios": 4577,
   "eventos": 100,
   "dias": 7
  },
- "mediana": 2.156,
+ "mediana": 2.148,
  "captura": [
   {
    "s": 0.5,
-   "n": 3419,
-   "gan": 7855.51,
-   "nNeta": 1944,
-   "neta": 1655.41
+   "n": 3431,
+   "gan": 7868.05,
+   "nNeta": 1946,
+   "neta": 1656.86
   },
   {
    "s": 2,
-   "n": 2492,
-   "gan": 5042.81,
+   "n": 2499,
+   "gan": 5050.51,
    "nNeta": 1553,
    "neta": 968.52
   },
   {
    "s": 5,
-   "n": 1573,
-   "gan": 3169.28,
+   "n": 1579,
+   "gan": 3175.74,
    "nNeta": 948,
    "neta": 426.66
   },
   {
    "s": 30,
-   "n": 464,
-   "gan": 1063.26,
+   "n": 467,
+   "gan": 1067.59,
    "nNeta": 128,
    "neta": 132.67
   }
  ],
- "rentables": 2405,
+ "rentables": 2406,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 769
+   "n": 773
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1197
+   "n": 1200
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1374
+   "n": 1377
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1109
+   "n": 1112
   },
   {
    "et": "30 s–5 min",
@@ -77,14 +77,14 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 218
+   "n": 221
   }
  ],
  "porEvento": [
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 902,
-   "gan": 916.96,
+   "n": 903,
+   "gan": 917.51,
    "neta": 133.29,
    "mediana": 2.967
   },
@@ -111,10 +111,10 @@
   },
   {
    "titulo": "How many Israeli elections before government formed?",
-   "n": 149,
-   "gan": 180.98,
+   "n": 150,
+   "gan": 184.1,
    "neta": 3.83,
-   "mediana": 10.469
+   "mediana": 10.476
   },
   {
    "titulo": "AEK vs. Real Madrid CF",
@@ -125,8 +125,8 @@
   },
   {
    "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "n": 100,
-   "gan": 64.69,
+   "n": 101,
+   "gan": 65.21,
    "neta": 1.7,
    "mediana": 26.209
   },
@@ -153,10 +153,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793793600000,
-   "n": 3
-  },
   {
    "h": 1793797200000,
    "n": 29
@@ -439,129 +435,133 @@
   },
   {
    "h": 1794049200000,
-   "n": 3
+   "n": 9
+  },
+  {
+   "h": 1794052800000,
+   "n": 10
   }
  ],
  "recientes": [
   {
-   "inicio": 1794051065780,
-   "titulo": "Perth Glory FC vs. Newcastle United Jets FC - Halftime Result",
-   "dur": 389.552,
-   "gan": 0.9,
-   "neta": 0.68,
+   "inicio": 1794053989400,
+   "titulo": "October Inflation China - Annual",
+   "dur": 477.251,
+   "gan": 0.55,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794048248091,
+   "inicio": 1794052387778,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 2078.873,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794051417452,
    "titulo": "How many Israeli elections before government formed?",
-   "dur": 3207.241,
+   "dur": 3049.199,
    "gan": 3.12,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794048450098,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3005.234,
-   "gan": 1.19,
+   "inicio": 1794054331590,
+   "titulo": "Holstein Kiel vs. DSC Arminia Bielefeld",
+   "dur": 0.893,
+   "gan": 0.55,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794050616648,
-   "titulo": "Perth Glory FC vs. Newcastle United Jets FC",
-   "dur": 1.767,
-   "gan": 0.6,
+   "inicio": 1794054209406,
+   "titulo": "Highest temperature in Cape Town on November 8?",
+   "dur": 4.337,
+   "gan": 1.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794049462038,
-   "titulo": "Highest temperature in Warsaw on November 8?",
-   "dur": 0.02,
-   "gan": 0.77,
-   "neta": 0.06,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794048925200,
-   "titulo": "Lowest temperature in Dallas on November 7?",
-   "dur": 0.215,
-   "gan": 0.78,
-   "neta": 0.55,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794045391041,
-   "titulo": "How many Israeli elections before government formed?",
-   "dur": 3053.515,
-   "gan": 3.12,
+   "inicio": 1794053962146,
+   "titulo": "October Inflation China - Annual",
+   "dur": 26.776,
+   "gan": 0.69,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794045446215,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2998.341,
-   "gan": 1.19,
+   "inicio": 1794053886241,
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "dur": 9.766,
+   "gan": 0.52,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794048274935,
-   "titulo": "\"Clayface\" 3rd Weekend Box Office",
-   "dur": 0.049,
-   "gan": 0.84,
-   "neta": 0.56,
+   "inicio": 1794053755536,
+   "titulo": "October Inflation China - Annual",
+   "dur": 0.037,
+   "gan": 0.63,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794048060021,
-   "titulo": "Melbourne City FC vs. Western Sydney Wanderers FC",
-   "dur": 0.031,
-   "gan": 0.61,
-   "neta": 0.46,
+   "inicio": 1794053754400,
+   "titulo": "October Inflation China - Annual",
+   "dur": 0.027,
+   "gan": 0.63,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794048059890,
-   "titulo": "Melbourne City FC vs. Western Sydney Wanderers FC",
-   "dur": 0.036,
-   "gan": 0.61,
-   "neta": 0.46,
+   "inicio": 1794053586903,
+   "titulo": "Holstein Kiel vs. DSC Arminia Bielefeld",
+   "dur": 0.092,
+   "gan": 2.18,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794047838354,
-   "titulo": "Melbourne City FC vs. Western Sydney Wanderers FC",
-   "dur": 1.671,
-   "gan": 7.19,
-   "neta": 4.47,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794047828550,
-   "titulo": "Melbourne City FC vs. Western Sydney Wanderers FC",
-   "dur": 0.124,
-   "gan": 0.78,
-   "neta": 0.48,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794047827740,
-   "titulo": "Melbourne City FC vs. Western Sydney Wanderers FC",
-   "dur": 0.807,
-   "gan": 0.65,
-   "neta": 0.28,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794047827734,
-   "titulo": "Melbourne City FC vs. Western Sydney Wanderers FC",
-   "dur": 0.001,
+   "inicio": 1794053325953,
+   "titulo": "Highest temperature in Busan on November 8?",
+   "dur": 1.397,
    "gan": 0.51,
    "neta": 0,
    "lado": "si"
+  },
+  {
+   "inicio": 1794053214216,
+   "titulo": "Ankara Keciorengucu vs. Manisa Futbol Kulubu",
+   "dur": 1.035,
+   "gan": 0.82,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794052609392,
+   "titulo": "Queens Park Rangers FC vs. Lincoln City FC",
+   "dur": 7.084,
+   "gan": 1.03,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794052457483,
+   "titulo": "Lowest temperature in Atlanta on November 7?",
+   "dur": 0.985,
+   "gan": 1.55,
+   "neta": 1.41,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794051789732,
+   "titulo": "Ankara Keciorengucu vs. Manisa Futbol Kulubu",
+   "dur": 0.934,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
