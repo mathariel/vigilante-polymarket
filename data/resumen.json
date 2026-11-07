@@ -1,91 +1,91 @@
 {
- "actualizado": 1794072538503,
+ "actualizado": 1794075550877,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794069538410,
-  "fin": 1794072538503,
-  "mensajes": 10324404,
-  "reconexiones": 1,
-  "eventos": 718,
+  "inicio": 1794072550777,
+  "fin": 1794075550877,
+  "mensajes": 10755520,
+  "reconexiones": 0,
+  "eventos": 702,
   "errores": []
  },
- "total": 6998,
- "falsos": 1330,
+ "total": 7227,
+ "falsos": 1345,
  "largos": {
-  "episodios": 4807,
+  "episodios": 4827,
   "eventos": 103,
   "dias": 7
  },
- "mediana": 0.709,
+ "mediana": 0.699,
  "captura": [
   {
    "s": 0.5,
-   "n": 3748,
-   "gan": 9569.13,
-   "nNeta": 2040,
-   "neta": 2594
+   "n": 3861,
+   "gan": 9782.95,
+   "nNeta": 2053,
+   "neta": 2618.26
   },
   {
    "s": 2,
-   "n": 2661,
-   "gan": 5794.29,
-   "nNeta": 1597,
-   "neta": 1332.83
+   "n": 2731,
+   "gan": 5931,
+   "nNeta": 1603,
+   "neta": 1353.73
   },
   {
    "s": 5,
-   "n": 1656,
-   "gan": 3368.7,
-   "nNeta": 964,
-   "neta": 448.63
+   "n": 1711,
+   "gan": 3480.26,
+   "nNeta": 968,
+   "neta": 465.48
   },
   {
    "s": 30,
-   "n": 492,
-   "gan": 1133.05,
-   "nNeta": 134,
-   "neta": 138.52
+   "n": 507,
+   "gan": 1171.8,
+   "nNeta": 136,
+   "neta": 139.55
   }
  ],
- "rentables": 4040,
+ "rentables": 4058,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2299
+   "n": 2376
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1501
+   "n": 1560
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1538
+   "n": 1576
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1164
+   "n": 1204
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 252
+   "n": 263
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 240
+   "n": 244
   }
  ],
  "porEvento": [
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 2372,
-   "gan": 1653.72,
-   "neta": 208.08,
+   "n": 2373,
+   "gan": 1655,
+   "neta": 208.71,
    "mediana": 0.053
   },
   {
@@ -111,10 +111,17 @@
   },
   {
    "titulo": "How many Israeli elections before government formed?",
-   "n": 156,
-   "gan": 201.48,
+   "n": 157,
+   "gan": 204.32,
    "neta": 3.83,
    "mediana": 10.496
+  },
+  {
+   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
+   "n": 133,
+   "gan": 115.59,
+   "neta": 2.48,
+   "mediana": 0.287
   },
   {
    "titulo": "AEK vs. Real Madrid CF",
@@ -132,10 +139,10 @@
   },
   {
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "n": 84,
-   "gan": 400.38,
+   "n": 85,
+   "gan": 401.57,
    "neta": 0,
-   "mediana": 2999.512
+   "mediana": 2999.503
   },
   {
    "titulo": "RB Leipzig vs. Manchester City FC",
@@ -143,20 +150,9 @@
    "gan": 76.21,
    "neta": 6.14,
    "mediana": 0.034
-  },
-  {
-   "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
-   "n": 75,
-   "gan": 226.92,
-   "neta": 50.13,
-   "mediana": 5.713
   }
  ],
  "porHora": [
-  {
-   "h": 1793815200000,
-   "n": 77
-  },
   {
    "h": 1793818800000,
    "n": 115
@@ -439,128 +435,132 @@
   },
   {
    "h": 1794070800000,
-   "n": 43
+   "n": 145
+  },
+  {
+   "h": 1794074400000,
+   "n": 127
   }
  ],
  "recientes": [
   {
-   "inicio": 1794072422668,
-   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
-   "dur": 115.745,
-   "gan": 0.71,
+   "inicio": 1794072544099,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 3006.682,
+   "gan": 2.84,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794071168011,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 1370.402,
-   "gan": 0.51,
-   "neta": 0.22,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794070440216,
+   "inicio": 1794072551278,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2098.197,
+   "dur": 2999.503,
    "gan": 1.19,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794069541309,
-   "titulo": "How many Israeli elections before government formed?",
-   "dur": 2997.104,
-   "gan": 2.45,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794072527340,
-   "titulo": "Galatasaray SK vs. Amed Sportif",
-   "dur": 0.405,
-   "gan": 1,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794072437521,
-   "titulo": "NK Istra 1961 vs. HNK Rijeka",
-   "dur": 0.712,
-   "gan": 1.64,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794072422642,
-   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
-   "dur": 0.021,
+   "inicio": 1794075535530,
+   "titulo": "CA Gimnasia y Esgrima de Mendoza vs. CS Independiente Rivadavia",
+   "dur": 0.955,
    "gan": 0.53,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794072422583,
-   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
-   "dur": 0.031,
-   "gan": 0.5,
+   "inicio": 1794075534467,
+   "titulo": "CA Gimnasia y Esgrima de Mendoza vs. CS Independiente Rivadavia",
+   "dur": 0.824,
+   "gan": 1.03,
+   "neta": 0.23,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794075478419,
+   "titulo": "CA Gimnasia y Esgrima de Mendoza vs. CS Independiente Rivadavia",
+   "dur": 1.962,
+   "gan": 1.2,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794072147133,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 1.777,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794072063929,
-   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
-   "dur": 2.217,
-   "gan": 0.85,
+   "inicio": 1794075478253,
+   "titulo": "CA Gimnasia y Esgrima de Mendoza vs. CS Independiente Rivadavia",
+   "dur": 0.111,
+   "gan": 0.8,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794072062344,
-   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
-   "dur": 1.535,
-   "gan": 0.72,
+   "inicio": 1794075476769,
+   "titulo": "CA Gimnasia y Esgrima de Mendoza vs. CS Independiente Rivadavia",
+   "dur": 1.441,
+   "gan": 4.95,
+   "neta": 0.44,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794075382378,
+   "titulo": "Parma Calcio 1913 vs. Bologna FC 1909",
+   "dur": 0.661,
+   "gan": 0.68,
+   "neta": 0.2,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794075380789,
+   "titulo": "Parma Calcio 1913 vs. Bologna FC 1909",
+   "dur": 1.055,
+   "gan": 0.6,
+   "neta": 0.13,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794075375092,
+   "titulo": "Parma Calcio 1913 vs. Bologna FC 1909",
+   "dur": 0.615,
+   "gan": 3.74,
+   "neta": 1.43,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794075347537,
+   "titulo": "Parma Calcio 1913 vs. Bologna FC 1909",
+   "dur": 11.564,
+   "gan": 1.67,
+   "neta": 1,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794075353445,
+   "titulo": "CA Gimnasia y Esgrima de Mendoza vs. CS Independiente Rivadavia",
+   "dur": 1.539,
+   "gan": 0.95,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794072059392,
-   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
-   "dur": 2.275,
-   "gan": 0.65,
-   "neta": 0,
+   "inicio": 1794075344548,
+   "titulo": "Parma Calcio 1913 vs. Bologna FC 1909",
+   "dur": 0.143,
+   "gan": 1.67,
+   "neta": 0.85,
    "lado": "si"
   },
   {
-   "inicio": 1794072059317,
-   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
-   "dur": 0.047,
-   "gan": 0.65,
-   "neta": 0,
+   "inicio": 1794075335497,
+   "titulo": "Parma Calcio 1913 vs. Bologna FC 1909",
+   "dur": 8.909,
+   "gan": 20,
+   "neta": 11.35,
    "lado": "si"
   },
   {
-   "inicio": 1794072054896,
-   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
-   "dur": 4.421,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794072022769,
-   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
-   "dur": 0.404,
-   "gan": 0.59,
-   "neta": 0,
+   "inicio": 1794075314780,
+   "titulo": "Parma Calcio 1913 vs. Bologna FC 1909",
+   "dur": 0.016,
+   "gan": 0.52,
+   "neta": 0.01,
    "lado": "si"
   }
  ]
