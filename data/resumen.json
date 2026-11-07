@@ -1,91 +1,91 @@
 {
- "actualizado": 1794042418809,
+ "actualizado": 1794045432689,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794039418717,
-  "fin": 1794042418809,
-  "mensajes": 7781704,
-  "reconexiones": 7,
-  "eventos": 657,
+  "inicio": 1794042432605,
+  "fin": 1794045432689,
+  "mensajes": 8008592,
+  "reconexiones": 10,
+  "eventos": 664,
   "errores": []
  },
- "total": 4865,
- "falsos": 1100,
+ "total": 4887,
+ "falsos": 1107,
  "largos": {
-  "episodios": 4483,
-  "eventos": 99,
+  "episodios": 4510,
+  "eventos": 100,
   "dias": 7
  },
- "mediana": 2.223,
+ "mediana": 2.19,
  "captura": [
   {
    "s": 0.5,
-   "n": 3394,
-   "gan": 7659.86,
-   "nNeta": 1931,
-   "neta": 1519.37
+   "n": 3405,
+   "gan": 7755.97,
+   "nNeta": 1935,
+   "neta": 1584.91
   },
   {
    "s": 2,
-   "n": 2478,
-   "gan": 5012.07,
-   "nNeta": 1549,
-   "neta": 960.6
+   "n": 2486,
+   "gan": 5024.77,
+   "nNeta": 1551,
+   "neta": 961.57
   },
   {
    "s": 5,
-   "n": 1562,
-   "gan": 3143.97,
-   "nNeta": 945,
-   "neta": 419.34
+   "n": 1567,
+   "gan": 3151.24,
+   "nNeta": 946,
+   "neta": 419.71
   },
   {
    "s": 30,
-   "n": 454,
-   "gan": 1038.73,
-   "nNeta": 125,
-   "neta": 125.27
+   "n": 458,
+   "gan": 1045.22,
+   "nNeta": 126,
+   "neta": 125.72
   }
  ],
- "rentables": 2378,
+ "rentables": 2384,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 756
+   "n": 760
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1178
+   "n": 1187
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1366
+   "n": 1370
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1108
+   "n": 1109
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 244
+   "n": 245
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 210
+   "n": 213
   }
  ],
  "porEvento": [
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 900,
-   "gan": 915,
-   "neta": 132.51,
+   "n": 901,
+   "gan": 916,
+   "neta": 132.88,
    "mediana": 2.966
   },
   {
@@ -111,8 +111,8 @@
   },
   {
    "titulo": "How many Israeli elections before government formed?",
-   "n": 146,
-   "gan": 171.62,
+   "n": 147,
+   "gan": 174.74,
    "neta": 3.83,
    "mediana": 10.457
   },
@@ -132,10 +132,10 @@
   },
   {
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "n": 80,
-   "gan": 395.62,
+   "n": 81,
+   "gan": 396.81,
    "neta": 0,
-   "mediana": 2999.794
+   "mediana": 2999.512
   },
   {
    "titulo": "RB Leipzig vs. Manchester City FC",
@@ -153,10 +153,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793768400000,
-   "n": 3
-  },
   {
    "h": 1793772000000,
    "n": 9
@@ -440,126 +436,130 @@
   {
    "h": 1794038400000,
    "n": 34
+  },
+  {
+   "h": 1794042000000,
+   "n": 22
   }
  ],
  "recientes": [
   {
-   "inicio": 1794039416227,
+   "inicio": 1794042449145,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 2983.463,
+   "gan": 1,
+   "neta": 0.37,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794042435242,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3002.492,
+   "dur": 2997.366,
    "gan": 1.19,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794039418872,
+   "inicio": 1794042435321,
    "titulo": "How many Israeli elections before government formed?",
-   "dur": 2999.847,
+   "dur": 2997.287,
    "gan": 3.12,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794041338858,
+   "inicio": 1794043870788,
    "titulo": "Melbourne City FC vs. Western Sydney Wanderers FC",
-   "dur": 0.706,
-   "gan": 0.75,
+   "dur": 2.509,
+   "gan": 1,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794041338775,
-   "titulo": "Melbourne City FC vs. Western Sydney Wanderers FC",
-   "dur": 0.047,
-   "gan": 0.68,
-   "neta": 0,
+   "inicio": 1794043642031,
+   "titulo": "Gimhae FC vs. Hwaseong FC",
+   "dur": 0.906,
+   "gan": 8.66,
+   "neta": 4.07,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794043231944,
+   "titulo": "Gimhae FC vs. Hwaseong FC",
+   "dur": 0.19,
+   "gan": 3,
+   "neta": 0.87,
    "lado": "no"
   },
   {
-   "inicio": 1794041338700,
-   "titulo": "Melbourne City FC vs. Western Sydney Wanderers FC",
-   "dur": 0.047,
-   "gan": 2.35,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794041021498,
+   "inicio": 1794042693531,
    "titulo": "Gimcheon Sangmu FC vs. FC Anyang",
-   "dur": 1.239,
-   "gan": 1.1,
-   "neta": 0.09,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794040902270,
-   "titulo": "Gimcheon Sangmu FC vs. FC Anyang",
-   "dur": 0.118,
-   "gan": 0.89,
-   "neta": 0.08,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794040895832,
-   "titulo": "Gimpo FC vs. Ansan Greeners FC",
-   "dur": 0.131,
-   "gan": 4.03,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794039866172,
-   "titulo": "Gas prices on November 7?",
-   "dur": 104.854,
-   "gan": 0.58,
-   "neta": 0.38,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794039848315,
-   "titulo": "Gas prices on November 7?",
-   "dur": 4.644,
-   "gan": 2.56,
-   "neta": 2.43,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794037312761,
-   "titulo": "How many Israeli elections before government formed?",
-   "dur": 2093.162,
-   "gan": 3.12,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794036406411,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2999.512,
-   "gan": 1.19,
+   "dur": 40.669,
+   "gan": 0.98,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794039379933,
+   "inicio": 1794042682789,
    "titulo": "Gimcheon Sangmu FC vs. FC Anyang",
-   "dur": 0.091,
-   "gan": 1.01,
+   "dur": 10.629,
+   "gan": 0.98,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794039379342,
-   "titulo": "Ningbo Professional FC vs. Jiangxi Dingnan United",
-   "dur": 0.085,
-   "gan": 21.08,
-   "neta": 10.21,
-   "lado": "si"
+   "inicio": 1794042682284,
+   "titulo": "Gimcheon Sangmu FC vs. FC Anyang",
+   "dur": 0.195,
+   "gan": 0.98,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1794039378125,
+   "inicio": 1794042682096,
    "titulo": "Gimcheon Sangmu FC vs. FC Anyang",
-   "dur": 0.096,
-   "gan": 1.01,
+   "dur": 0.081,
+   "gan": 0.98,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794042681098,
+   "titulo": "Gimcheon Sangmu FC vs. FC Anyang",
+   "dur": 0.379,
+   "gan": 0.98,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794042680489,
+   "titulo": "Gimcheon Sangmu FC vs. FC Anyang",
+   "dur": 0.076,
+   "gan": 0.98,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794042679369,
+   "titulo": "Gimcheon Sangmu FC vs. FC Anyang",
+   "dur": 0.994,
+   "gan": 0.98,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794042678069,
+   "titulo": "Gimcheon Sangmu FC vs. FC Anyang",
+   "dur": 0.088,
+   "gan": 0.98,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794042676598,
+   "titulo": "Gimcheon Sangmu FC vs. FC Anyang",
+   "dur": 0.351,
+   "gan": 0.98,
    "neta": 0,
    "lado": "no"
   }
