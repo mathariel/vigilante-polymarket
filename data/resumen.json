@@ -1,90 +1,90 @@
 {
- "actualizado": 1794009274237,
+ "actualizado": 1794012286321,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794006274181,
-  "fin": 1794009274237,
-  "mensajes": 7777939,
+  "inicio": 1794009286247,
+  "fin": 1794012286321,
+  "mensajes": 7596285,
   "reconexiones": 12,
-  "eventos": 639,
+  "eventos": 629,
   "errores": []
  },
- "total": 4640,
- "falsos": 1024,
+ "total": 4678,
+ "falsos": 1031,
  "largos": {
-  "episodios": 4212,
-  "eventos": 92,
+  "episodios": 4227,
+  "eventos": 93,
   "dias": 7
  },
- "mediana": 2.563,
+ "mediana": 2.47,
  "captura": [
   {
    "s": 0.5,
-   "n": 3263,
-   "gan": 7281.17,
-   "nNeta": 1891,
-   "neta": 1428.48
+   "n": 3280,
+   "gan": 7305.27,
+   "nNeta": 1900,
+   "neta": 1430.4
   },
   {
    "s": 2,
-   "n": 2418,
-   "gan": 4885.93,
-   "nNeta": 1538,
-   "neta": 948.26
+   "n": 2425,
+   "gan": 4896.73,
+   "nNeta": 1541,
+   "neta": 948.78
   },
   {
    "s": 5,
-   "n": 1520,
-   "gan": 3065.83,
-   "nNeta": 942,
-   "neta": 418.59
+   "n": 1524,
+   "gan": 3071.01,
+   "nNeta": 943,
+   "neta": 418.6
   },
   {
    "s": 30,
-   "n": 423,
-   "gan": 972.95,
+   "n": 426,
+   "gan": 977.61,
    "nNeta": 124,
    "neta": 124.6
   }
  ],
- "rentables": 2310,
+ "rentables": 2327,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 710
+   "n": 722
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1094
+   "n": 1107
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1316
+   "n": 1324
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1097
+   "n": 1098
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 239
+   "n": 240
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 184
+   "n": 186
   }
  ],
  "porEvento": [
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 895,
-   "gan": 911.18,
+   "n": 897,
+   "gan": 912.38,
    "neta": 132.36,
    "mediana": 2.964
   },
@@ -111,10 +111,10 @@
   },
   {
    "titulo": "How many Israeli elections before government formed?",
-   "n": 135,
-   "gan": 141.08,
+   "n": 136,
+   "gan": 143.55,
    "neta": 3.83,
-   "mediana": 10.37
+   "mediana": 10.377
   },
   {
    "titulo": "AEK vs. Real Madrid CF",
@@ -153,10 +153,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793736000000,
-   "n": 41
-  },
   {
    "h": 1793739600000,
    "n": 308
@@ -439,128 +435,132 @@
   },
   {
    "h": 1794006000000,
-   "n": 99
+   "n": 101
+  },
+  {
+   "h": 1794009600000,
+   "n": 36
   }
  ],
  "recientes": [
   {
-   "inicio": 1794006274860,
+   "inicio": 1794009282875,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2999.324,
-   "gan": 1.43,
+   "dur": 3003.376,
+   "gan": 1.19,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794006278243,
+   "inicio": 1794009288095,
    "titulo": "How many Israeli elections before government formed?",
-   "dur": 2995.941,
-   "gan": 2.01,
+   "dur": 2998.156,
+   "gan": 2.47,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794009113708,
-   "titulo": "CA San Lorenzo de Almagro vs. CA Platense",
-   "dur": 1.731,
-   "gan": 1.53,
-   "neta": 0.61,
+   "inicio": 1794012121193,
+   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
+   "dur": 0.571,
+   "gan": 1.16,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794008870230,
-   "titulo": "Operário Ferroviário EC vs. SC Recife",
-   "dur": 0.145,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794008853714,
-   "titulo": "Operário Ferroviário EC vs. SC Recife",
-   "dur": 11.241,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794008801688,
-   "titulo": "Operário Ferroviário EC vs. SC Recife",
-   "dur": 0.02,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794008702657,
-   "titulo": "Operário Ferroviário EC vs. SC Recife",
-   "dur": 0.876,
-   "gan": 2.26,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794008600915,
-   "titulo": "EC Vitória vs. Fluminense FC",
-   "dur": 0.499,
-   "gan": 0.58,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794008600645,
-   "titulo": "EC Vitória vs. Fluminense FC",
-   "dur": 0.028,
-   "gan": 0.58,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794008600466,
-   "titulo": "EC Vitória vs. Fluminense FC",
-   "dur": 0.029,
-   "gan": 0.58,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794008600209,
-   "titulo": "EC Vitória vs. Fluminense FC",
-   "dur": 0.096,
-   "gan": 0.58,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794008599243,
-   "titulo": "EC Vitória vs. Fluminense FC",
-   "dur": 0.073,
-   "gan": 0.55,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794008596246,
-   "titulo": "EC Vitória vs. Fluminense FC",
-   "dur": 0.028,
-   "gan": 0.75,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794008582483,
-   "titulo": "EC Vitória vs. Fluminense FC",
-   "dur": 1.088,
+   "inicio": 1794012109118,
+   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
+   "dur": 0.458,
    "gan": 0.8,
-   "neta": 0.17,
+   "neta": 0.1,
    "lado": "si"
   },
   {
-   "inicio": 1794008571074,
-   "titulo": "EC Vitória vs. Fluminense FC",
-   "dur": 1.246,
-   "gan": 0.7,
-   "neta": 0.22,
+   "inicio": 1794012108406,
+   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
+   "dur": 0.712,
+   "gan": 1.16,
+   "neta": 0.11,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794012108239,
+   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
+   "dur": 0.141,
+   "gan": 0.91,
+   "neta": 0.1,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794012102271,
+   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
+   "dur": 5.934,
+   "gan": 0.54,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794012102220,
+   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
+   "dur": 0.007,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794012100107,
+   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
+   "dur": 0.006,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794012097141,
+   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
+   "dur": -0.013,
+   "gan": 0.76,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794012051366,
+   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
+   "dur": 0.235,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794012051146,
+   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
+   "dur": 0.203,
+   "gan": 0.58,
+   "neta": 0.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794012051061,
+   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
+   "dur": 0.06,
+   "gan": 0.66,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794012050949,
+   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
+   "dur": 0.081,
+   "gan": 1.74,
+   "neta": 0.06,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794012050826,
+   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
+   "dur": 0.05,
+   "gan": 0.59,
+   "neta": 0,
    "lado": "si"
   }
  ]
