@@ -1,83 +1,83 @@
 {
- "actualizado": 1794027354669,
+ "actualizado": 1794030366550,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794024354596,
-  "fin": 1794027354669,
-  "mensajes": 7619088,
+  "inicio": 1794027366475,
+  "fin": 1794030366550,
+  "mensajes": 8869034,
   "reconexiones": 4,
-  "eventos": 652,
+  "eventos": 665,
   "errores": []
  },
- "total": 4749,
- "falsos": 1076,
+ "total": 4773,
+ "falsos": 1080,
  "largos": {
-  "episodios": 4347,
-  "eventos": 96,
+  "episodios": 4363,
+  "eventos": 97,
   "dias": 7
  },
- "mediana": 2.346,
+ "mediana": 2.319,
  "captura": [
   {
    "s": 0.5,
-   "n": 3329,
-   "gan": 7555.45,
-   "nNeta": 1912,
-   "neta": 1503.32
+   "n": 3342,
+   "gan": 7577.57,
+   "nNeta": 1914,
+   "neta": 1503.46
   },
   {
    "s": 2,
-   "n": 2446,
-   "gan": 4944.08,
-   "nNeta": 1542,
-   "neta": 949.49
+   "n": 2454,
+   "gan": 4957.02,
+   "nNeta": 1543,
+   "neta": 949.56
   },
   {
    "s": 5,
-   "n": 1541,
-   "gan": 3107.77,
-   "nNeta": 943,
-   "neta": 418.6
+   "n": 1548,
+   "gan": 3118.88,
+   "nNeta": 944,
+   "neta": 418.67
   },
   {
    "s": 30,
-   "n": 440,
-   "gan": 1011.89,
+   "n": 445,
+   "gan": 1020.37,
    "nNeta": 124,
    "neta": 124.6
   }
  ],
- "rentables": 2349,
+ "rentables": 2351,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 733
+   "n": 734
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1133
+   "n": 1145
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1339
+   "n": 1343
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1101
+   "n": 1103
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 240
+   "n": 243
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 200
+   "n": 202
   }
  ],
  "porEvento": [
@@ -111,10 +111,10 @@
   },
   {
    "titulo": "How many Israeli elections before government formed?",
-   "n": 141,
-   "gan": 156.02,
+   "n": 142,
+   "gan": 159.14,
    "neta": 3.83,
-   "mediana": 10.449
+   "mediana": 10.454
   },
   {
    "titulo": "AEK vs. Real Madrid CF",
@@ -138,25 +138,21 @@
    "mediana": 0.034
   },
   {
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "n": 76,
+   "gan": 390.86,
+   "neta": 0,
+   "mediana": 2999.976
+  },
+  {
    "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
    "n": 75,
    "gan": 226.92,
    "neta": 50.13,
    "mediana": 5.713
-  },
-  {
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "n": 75,
-   "gan": 389.67,
-   "neta": 0,
-   "mediana": 2999.794
   }
  ],
  "porHora": [
-  {
-   "h": 1793754000000,
-   "n": 27
-  },
   {
    "h": 1793757600000,
    "n": 60
@@ -439,129 +435,133 @@
   },
   {
    "h": 1794024000000,
-   "n": 12
+   "n": 17
+  },
+  {
+   "h": 1794027600000,
+   "n": 19
   }
  ],
  "recientes": [
   {
-   "inicio": 1794024353260,
+   "inicio": 1794027366501,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3001.339,
+   "dur": 2999.976,
    "gan": 1.19,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794024356916,
+   "inicio": 1794027362476,
    "titulo": "How many Israeli elections before government formed?",
-   "dur": 2997.683,
+   "dur": 3004.001,
    "gan": 3.12,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794026188284,
-   "titulo": "Nagoya Grampus vs. Kyōto Sanga FC",
-   "dur": 0.755,
+   "inicio": 1794029587498,
+   "titulo": "Shimizu S-Pulse vs. Tōkyō Verdy",
+   "dur": 0.321,
+   "gan": 1.69,
+   "neta": 0.44,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794029587465,
+   "titulo": "Shimizu S-Pulse vs. Tōkyō Verdy",
+   "dur": 0.014,
+   "gan": 1.06,
+   "neta": 0.11,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794029351004,
+   "titulo": "Auckland FC vs. Wellington Phoenix FC",
+   "dur": 0.223,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794029139811,
+   "titulo": "Auckland FC vs. Wellington Phoenix FC",
+   "dur": 0.392,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794029138613,
+   "titulo": "Auckland FC vs. Wellington Phoenix FC",
+   "dur": 1.197,
+   "gan": 1.91,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794028820600,
+   "titulo": "Auckland FC vs. Wellington Phoenix FC",
+   "dur": 0.106,
+   "gan": 1.2,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794028810955,
+   "titulo": "Auckland FC vs. Wellington Phoenix FC",
+   "dur": 0.109,
+   "gan": 2,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794028642908,
+   "titulo": "Auckland FC vs. Wellington Phoenix FC",
+   "dur": 0.201,
+   "gan": 2.71,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794028633637,
+   "titulo": "Auckland FC vs. Wellington Phoenix FC",
+   "dur": 0.108,
    "gan": 0.76,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794025881137,
-   "titulo": "Atlante FC vs. Club Santos Laguna",
-   "dur": 0.243,
-   "gan": 0.75,
-   "neta": 0.48,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794025245892,
-   "titulo": "Atlante FC vs. Club Santos Laguna",
-   "dur": 0.152,
-   "gan": 0.84,
+   "inicio": 1794028630005,
+   "titulo": "Auckland FC vs. Wellington Phoenix FC",
+   "dur": 3.452,
+   "gan": 1.78,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794025245514,
-   "titulo": "Atlante FC vs. Club Santos Laguna",
-   "dur": 0.013,
-   "gan": 1.21,
+   "inicio": 1794028604591,
+   "titulo": "Auckland FC vs. Wellington Phoenix FC",
+   "dur": 0.303,
+   "gan": 1.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794025194362,
-   "titulo": "Atlante FC vs. Club Santos Laguna",
-   "dur": 0.878,
-   "gan": 2.1,
-   "neta": 0.18,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794025190489,
-   "titulo": "Atlante FC vs. Club Santos Laguna",
-   "dur": 0.992,
-   "gan": 1,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794025042813,
-   "titulo": "Nagoya Grampus vs. Kyōto Sanga FC",
-   "dur": 0.514,
-   "gan": 0.96,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794024950344,
-   "titulo": "Tokushima Vortis vs. Tegevajaro Miyazaki",
-   "dur": 0.672,
-   "gan": 1.74,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794024463136,
+   "inicio": 1794028429138,
    "titulo": "Test Match: Bangladesh vs West Indies",
-   "dur": 10.231,
-   "gan": 1.09,
+   "dur": 94.305,
+   "gan": 1.67,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794021347777,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2992.879,
-   "gan": 1.19,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794021347954,
-   "titulo": "How many Israeli elections before government formed?",
-   "dur": 2992.702,
-   "gan": 2.55,
+   "inicio": 1794028427138,
+   "titulo": "Test Match: Bangladesh vs West Indies",
+   "dur": 1.033,
+   "gan": 1.67,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794024325727,
-   "titulo": "Tokushima Vortis vs. Tegevajaro Miyazaki",
-   "dur": 0.096,
-   "gan": 0.73,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794022583959,
-   "titulo": "Atlante FC vs. Club Santos Laguna",
-   "dur": 0.779,
-   "gan": 1.05,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
