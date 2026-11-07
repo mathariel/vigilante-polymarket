@@ -1,73 +1,73 @@
 {
- "actualizado": 1794015299192,
+ "actualizado": 1794018311935,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794012299114,
-  "fin": 1794015299192,
-  "mensajes": 7334102,
+  "inicio": 1794015311861,
+  "fin": 1794018311935,
+  "mensajes": 7293088,
   "reconexiones": 0,
-  "eventos": 624,
+  "eventos": 630,
   "errores": []
  },
- "total": 4697,
- "falsos": 1037,
+ "total": 4711,
+ "falsos": 1040,
  "largos": {
-  "episodios": 4233,
+  "episodios": 4251,
   "eventos": 93,
   "dias": 7
  },
- "mediana": 2.437,
+ "mediana": 2.435,
  "captura": [
   {
    "s": 0.5,
-   "n": 3291,
-   "gan": 7361.04,
-   "nNeta": 1904,
-   "neta": 1447.38
+   "n": 3302,
+   "gan": 7392.53,
+   "nNeta": 1906,
+   "neta": 1447.92
   },
   {
    "s": 2,
-   "n": 2429,
-   "gan": 4901.41,
+   "n": 2435,
+   "gan": 4922.32,
    "nNeta": 1541,
    "neta": 948.78
   },
   {
    "s": 5,
-   "n": 1527,
-   "gan": 3075.17,
+   "n": 1532,
+   "gan": 3094.01,
    "nNeta": 943,
    "neta": 418.6
   },
   {
    "s": 30,
-   "n": 429,
-   "gan": 981.88,
+   "n": 433,
+   "gan": 1000.22,
    "nNeta": 124,
    "neta": 124.6
   }
  ],
- "rentables": 2335,
+ "rentables": 2339,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 725
+   "n": 727
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1114
+   "n": 1118
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1328
+   "n": 1331
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1098
+   "n": 1099
   },
   {
    "et": "30 s–5 min",
@@ -77,15 +77,15 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 189
+   "n": 193
   }
  ],
  "porEvento": [
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 898,
-   "gan": 912.88,
-   "neta": 132.36,
+   "n": 900,
+   "gan": 915,
+   "neta": 132.51,
    "mediana": 2.966
   },
   {
@@ -111,10 +111,10 @@
   },
   {
    "titulo": "How many Israeli elections before government formed?",
-   "n": 137,
-   "gan": 146.02,
+   "n": 138,
+   "gan": 148.42,
    "neta": 3.83,
-   "mediana": 10.377
+   "mediana": 10.446
   },
   {
    "titulo": "AEK vs. Real Madrid CF",
@@ -153,10 +153,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793743200000,
-   "n": 68
-  },
   {
    "h": 1793746800000,
    "n": 34
@@ -439,10 +435,126 @@
   },
   {
    "h": 1794013200000,
-   "n": 12
+   "n": 19
+  },
+  {
+   "h": 1794016800000,
+   "n": 7
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794018306653,
+   "titulo": "Atlante FC vs. Club Santos Laguna",
+   "dur": 5.211,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794015314506,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 2997.358,
+   "gan": 2.4,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794015307167,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 3004.697,
+   "gan": 1.19,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794017823471,
+   "titulo": "Atlante FC vs. Club Santos Laguna",
+   "dur": 483.069,
+   "gan": 13.14,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794017761325,
+   "titulo": "CA Tigre vs. CA Sarmiento",
+   "dur": 0.947,
+   "gan": 0.53,
+   "neta": 0.01,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794017547596,
+   "titulo": "CA Tigre vs. CA Sarmiento",
+   "dur": 4.337,
+   "gan": 2.07,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794017189192,
+   "titulo": "CA Tigre vs. CA Sarmiento",
+   "dur": 1.029,
+   "gan": 8.04,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794017067167,
+   "titulo": "CA Banfield vs. CA Tucumán",
+   "dur": 0.578,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794016888451,
+   "titulo": "Lowest temperature in Paris on November 7?",
+   "dur": 0.055,
+   "gan": 0.84,
+   "neta": 0.52,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794016138898,
+   "titulo": "Fortaleza FC vs. Independiente Medellín",
+   "dur": 0.82,
+   "gan": 0.7,
+   "neta": 0.44,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794015883818,
+   "titulo": "\"Godzilla Minus Zero\" Opening Weekend Box Office",
+   "dur": 1.167,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794015789012,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 0.065,
+   "gan": 0.51,
+   "neta": 0.15,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794015313666,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 475.13,
+   "gan": 1.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794015528192,
+   "titulo": "CA Tigre vs. CA Sarmiento",
+   "dur": 0.487,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794013134002,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
@@ -450,118 +562,6 @@
    "gan": 0.5,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794012298690,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3000.427,
-   "gan": 1.19,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794012302013,
-   "titulo": "How many Israeli elections before government formed?",
-   "dur": 2997.104,
-   "gan": 2.47,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794014687709,
-   "titulo": "Atlético San Luis vs. FC Juárez",
-   "dur": 0.575,
-   "gan": 27.32,
-   "neta": 11.52,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794014297896,
-   "titulo": "CA Tigre vs. CA Sarmiento",
-   "dur": 0.027,
-   "gan": 1.21,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794014271142,
-   "titulo": "Club Necaxa vs. Club Tijuana",
-   "dur": 3.889,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794013981110,
-   "titulo": "Club Necaxa vs. Club Tijuana",
-   "dur": 1.543,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794013711690,
-   "titulo": "CA Banfield vs. CA Tucumán - Halftime Result",
-   "dur": 1.051,
-   "gan": 14.45,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794013536672,
-   "titulo": "CA Banfield vs. CA Tucumán",
-   "dur": 0.081,
-   "gan": 1.18,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794013534524,
-   "titulo": "CA Banfield vs. CA Tucumán",
-   "dur": -0.002,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794013534184,
-   "titulo": "CA Banfield vs. CA Tucumán",
-   "dur": 0.192,
-   "gan": 1.61,
-   "neta": 0.1,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794013533418,
-   "titulo": "CA Banfield vs. CA Tucumán",
-   "dur": -0.006,
-   "gan": 0.69,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794013533185,
-   "titulo": "CA Banfield vs. CA Tucumán",
-   "dur": 0.211,
-   "gan": 6.8,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794013439200,
-   "titulo": "Club Necaxa vs. Club Tijuana",
-   "dur": 0.731,
-   "gan": 3.14,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794013315541,
-   "titulo": "CA Banfield vs. CA Tucumán",
-   "dur": 0.174,
-   "gan": 0.55,
-   "neta": 0.38,
-   "lado": "no"
   }
  ]
 }
