@@ -1,68 +1,68 @@
 {
- "actualizado": 1794012286321,
+ "actualizado": 1794015299192,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794009286247,
-  "fin": 1794012286321,
-  "mensajes": 7596285,
-  "reconexiones": 12,
-  "eventos": 629,
+  "inicio": 1794012299114,
+  "fin": 1794015299192,
+  "mensajes": 7334102,
+  "reconexiones": 0,
+  "eventos": 624,
   "errores": []
  },
- "total": 4678,
- "falsos": 1031,
+ "total": 4697,
+ "falsos": 1037,
  "largos": {
-  "episodios": 4227,
+  "episodios": 4233,
   "eventos": 93,
   "dias": 7
  },
- "mediana": 2.47,
+ "mediana": 2.437,
  "captura": [
   {
    "s": 0.5,
-   "n": 3280,
-   "gan": 7305.27,
-   "nNeta": 1900,
-   "neta": 1430.4
+   "n": 3291,
+   "gan": 7361.04,
+   "nNeta": 1904,
+   "neta": 1447.38
   },
   {
    "s": 2,
-   "n": 2425,
-   "gan": 4896.73,
+   "n": 2429,
+   "gan": 4901.41,
    "nNeta": 1541,
    "neta": 948.78
   },
   {
    "s": 5,
-   "n": 1524,
-   "gan": 3071.01,
+   "n": 1527,
+   "gan": 3075.17,
    "nNeta": 943,
    "neta": 418.6
   },
   {
    "s": 30,
-   "n": 426,
-   "gan": 977.61,
+   "n": 429,
+   "gan": 981.88,
    "nNeta": 124,
    "neta": 124.6
   }
  ],
- "rentables": 2327,
+ "rentables": 2335,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 722
+   "n": 725
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1107
+   "n": 1114
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1324
+   "n": 1328
   },
   {
    "et": "5–30 s",
@@ -77,16 +77,16 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 186
+   "n": 189
   }
  ],
  "porEvento": [
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 897,
-   "gan": 912.38,
+   "n": 898,
+   "gan": 912.88,
    "neta": 132.36,
-   "mediana": 2.964
+   "mediana": 2.966
   },
   {
    "titulo": "How many House seats will the Democrats win in Tennessee?",
@@ -111,8 +111,8 @@
   },
   {
    "titulo": "How many Israeli elections before government formed?",
-   "n": 136,
-   "gan": 143.55,
+   "n": 137,
+   "gan": 146.02,
    "neta": 3.83,
    "mediana": 10.377
   },
@@ -153,10 +153,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793739600000,
-   "n": 308
-  },
   {
    "h": 1793743200000,
    "n": 68
@@ -439,129 +435,133 @@
   },
   {
    "h": 1794009600000,
-   "n": 36
+   "n": 43
+  },
+  {
+   "h": 1794013200000,
+   "n": 12
   }
  ],
  "recientes": [
   {
-   "inicio": 1794009282875,
+   "inicio": 1794013134002,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 2165.115,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794012298690,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3003.376,
+   "dur": 3000.427,
    "gan": 1.19,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794009288095,
+   "inicio": 1794012302013,
    "titulo": "How many Israeli elections before government formed?",
-   "dur": 2998.156,
+   "dur": 2997.104,
    "gan": 2.47,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794012121193,
-   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
-   "dur": 0.571,
-   "gan": 1.16,
+   "inicio": 1794014687709,
+   "titulo": "Atlético San Luis vs. FC Juárez",
+   "dur": 0.575,
+   "gan": 27.32,
+   "neta": 11.52,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794014297896,
+   "titulo": "CA Tigre vs. CA Sarmiento",
+   "dur": 0.027,
+   "gan": 1.21,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794014271142,
+   "titulo": "Club Necaxa vs. Club Tijuana",
+   "dur": 3.889,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794013981110,
+   "titulo": "Club Necaxa vs. Club Tijuana",
+   "dur": 1.543,
+   "gan": 0.53,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794012109118,
-   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
-   "dur": 0.458,
-   "gan": 0.8,
-   "neta": 0.1,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794012108406,
-   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
-   "dur": 0.712,
-   "gan": 1.16,
-   "neta": 0.11,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794012108239,
-   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
-   "dur": 0.141,
-   "gan": 0.91,
-   "neta": 0.1,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794012102271,
-   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
-   "dur": 5.934,
-   "gan": 0.54,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794012102220,
-   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
-   "dur": 0.007,
-   "gan": 0.59,
+   "inicio": 1794013711690,
+   "titulo": "CA Banfield vs. CA Tucumán - Halftime Result",
+   "dur": 1.051,
+   "gan": 14.45,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794012100107,
-   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
-   "dur": 0.006,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794012097141,
-   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
-   "dur": -0.013,
-   "gan": 0.76,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794012051366,
-   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
-   "dur": 0.235,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794012051146,
-   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
-   "dur": 0.203,
-   "gan": 0.58,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794012051061,
-   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
-   "dur": 0.06,
-   "gan": 0.66,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794012050949,
-   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
+   "inicio": 1794013536672,
+   "titulo": "CA Banfield vs. CA Tucumán",
    "dur": 0.081,
-   "gan": 1.74,
-   "neta": 0.06,
+   "gan": 1.18,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794012050826,
-   "titulo": "Boyacá Chicó FC vs. Internacional de Bogotá",
-   "dur": 0.05,
-   "gan": 0.59,
+   "inicio": 1794013534524,
+   "titulo": "CA Banfield vs. CA Tucumán",
+   "dur": -0.002,
+   "gan": 0.58,
    "neta": 0,
    "lado": "si"
+  },
+  {
+   "inicio": 1794013534184,
+   "titulo": "CA Banfield vs. CA Tucumán",
+   "dur": 0.192,
+   "gan": 1.61,
+   "neta": 0.1,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794013533418,
+   "titulo": "CA Banfield vs. CA Tucumán",
+   "dur": -0.006,
+   "gan": 0.69,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794013533185,
+   "titulo": "CA Banfield vs. CA Tucumán",
+   "dur": 0.211,
+   "gan": 6.8,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794013439200,
+   "titulo": "Club Necaxa vs. Club Tijuana",
+   "dur": 0.731,
+   "gan": 3.14,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794013315541,
+   "titulo": "CA Banfield vs. CA Tucumán",
+   "dur": 0.174,
+   "gan": 0.55,
+   "neta": 0.38,
+   "lado": "no"
   }
  ]
 }
