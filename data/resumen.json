@@ -1,68 +1,68 @@
 {
- "actualizado": 1794018311935,
+ "actualizado": 1794021325359,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794015311861,
-  "fin": 1794018311935,
-  "mensajes": 7293088,
+  "inicio": 1794018325295,
+  "fin": 1794021325359,
+  "mensajes": 6790649,
   "reconexiones": 0,
-  "eventos": 630,
+  "eventos": 627,
   "errores": []
  },
- "total": 4711,
- "falsos": 1040,
+ "total": 4720,
+ "falsos": 1041,
  "largos": {
-  "episodios": 4251,
+  "episodios": 4277,
   "eventos": 93,
   "dias": 7
  },
- "mediana": 2.435,
+ "mediana": 2.433,
  "captura": [
   {
    "s": 0.5,
-   "n": 3302,
-   "gan": 7392.53,
-   "nNeta": 1906,
-   "neta": 1447.92
+   "n": 3309,
+   "gan": 7399.2,
+   "nNeta": 1908,
+   "neta": 1448.71
   },
   {
    "s": 2,
-   "n": 2435,
-   "gan": 4922.32,
-   "nNeta": 1541,
-   "neta": 948.78
+   "n": 2439,
+   "gan": 4927.19,
+   "nNeta": 1542,
+   "neta": 949.49
   },
   {
    "s": 5,
-   "n": 1532,
-   "gan": 3094.01,
+   "n": 1535,
+   "gan": 3097.63,
    "nNeta": 943,
    "neta": 418.6
   },
   {
    "s": 30,
-   "n": 433,
-   "gan": 1000.22,
+   "n": 436,
+   "gan": 1003.84,
    "nNeta": 124,
    "neta": 124.6
   }
  ],
- "rentables": 2339,
+ "rentables": 2343,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 727
+   "n": 728
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1118
+   "n": 1121
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1331
+   "n": 1333
   },
   {
    "et": "5–30 s",
@@ -77,7 +77,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 193
+   "n": 196
   }
  ],
  "porEvento": [
@@ -111,8 +111,8 @@
   },
   {
    "titulo": "How many Israeli elections before government formed?",
-   "n": 138,
-   "gan": 148.42,
+   "n": 139,
+   "gan": 150.35,
    "neta": 3.83,
    "mediana": 10.446
   },
@@ -153,10 +153,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793746800000,
-   "n": 34
-  },
   {
    "h": 1793750400000,
    "n": 17
@@ -439,10 +435,86 @@
   },
   {
    "h": 1794016800000,
-   "n": 7
+   "n": 14
+  },
+  {
+   "h": 1794020400000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794018316725,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 3008.572,
+   "gan": 1.93,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794018327963,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 2997.334,
+   "gan": 1.19,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794020853839,
+   "titulo": "Atlético San Luis vs. FC Juárez",
+   "dur": 0.996,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794020737524,
+   "titulo": "Atlante FC vs. Club Santos Laguna",
+   "dur": 1.859,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794019951472,
+   "titulo": "CA Banfield vs. CA Tucumán",
+   "dur": 2.156,
+   "gan": 1.25,
+   "neta": 0.71,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794019036894,
+   "titulo": "CA Banfield vs. CA Tucumán",
+   "dur": 0.326,
+   "gan": 0.61,
+   "neta": 0.46,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794019036844,
+   "titulo": "CA Banfield vs. CA Tucumán",
+   "dur": 0.041,
+   "gan": 0.75,
+   "neta": 0.61,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794018307943,
+   "titulo": "Atlante FC vs. Club Santos Laguna",
+   "dur": 351.685,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794018492017,
+   "titulo": "CA Tigre vs. CA Sarmiento",
+   "dur": 0.787,
+   "gan": 0.63,
+   "neta": 0.08,
+   "lado": "si"
+  },
   {
    "inicio": 1794018306653,
    "titulo": "Atlante FC vs. Club Santos Laguna",
@@ -490,78 +562,6 @@
    "gan": 2.07,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1794017189192,
-   "titulo": "CA Tigre vs. CA Sarmiento",
-   "dur": 1.029,
-   "gan": 8.04,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794017067167,
-   "titulo": "CA Banfield vs. CA Tucumán",
-   "dur": 0.578,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794016888451,
-   "titulo": "Lowest temperature in Paris on November 7?",
-   "dur": 0.055,
-   "gan": 0.84,
-   "neta": 0.52,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794016138898,
-   "titulo": "Fortaleza FC vs. Independiente Medellín",
-   "dur": 0.82,
-   "gan": 0.7,
-   "neta": 0.44,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794015883818,
-   "titulo": "\"Godzilla Minus Zero\" Opening Weekend Box Office",
-   "dur": 1.167,
-   "gan": 0.66,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794015789012,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 0.065,
-   "gan": 0.51,
-   "neta": 0.15,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794015313666,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 475.13,
-   "gan": 1.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794015528192,
-   "titulo": "CA Tigre vs. CA Sarmiento",
-   "dur": 0.487,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794013134002,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 2165.115,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
   }
  ]
 }
