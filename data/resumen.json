@@ -1,63 +1,63 @@
 {
- "actualizado": 1794024340712,
+ "actualizado": 1794027354669,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794021340654,
-  "fin": 1794024340712,
-  "mensajes": 6318343,
-  "reconexiones": 3,
-  "eventos": 636,
+  "inicio": 1794024354596,
+  "fin": 1794027354669,
+  "mensajes": 7619088,
+  "reconexiones": 4,
+  "eventos": 652,
   "errores": []
  },
- "total": 4738,
- "falsos": 1063,
+ "total": 4749,
+ "falsos": 1076,
  "largos": {
-  "episodios": 4321,
-  "eventos": 95,
+  "episodios": 4347,
+  "eventos": 96,
   "dias": 7
  },
- "mediana": 2.381,
+ "mediana": 2.346,
  "captura": [
   {
    "s": 0.5,
-   "n": 3321,
-   "gan": 7541.17,
-   "nNeta": 1911,
-   "neta": 1500.49
+   "n": 3329,
+   "gan": 7555.45,
+   "nNeta": 1912,
+   "neta": 1503.32
   },
   {
    "s": 2,
-   "n": 2443,
-   "gan": 4938.68,
+   "n": 2446,
+   "gan": 4944.08,
    "nNeta": 1542,
    "neta": 949.49
   },
   {
    "s": 5,
-   "n": 1538,
-   "gan": 3102.37,
+   "n": 1541,
+   "gan": 3107.77,
    "nNeta": 943,
    "neta": 418.6
   },
   {
    "s": 30,
-   "n": 438,
-   "gan": 1007.58,
+   "n": 440,
+   "gan": 1011.89,
    "nNeta": 124,
    "neta": 124.6
   }
  ],
- "rentables": 2347,
+ "rentables": 2349,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 732
+   "n": 733
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1126
+   "n": 1133
   },
   {
    "et": "1–5 s",
@@ -67,7 +67,7 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1100
+   "n": 1101
   },
   {
    "et": "30 s–5 min",
@@ -77,7 +77,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 198
+   "n": 200
   }
  ],
  "porEvento": [
@@ -111,8 +111,8 @@
   },
   {
    "titulo": "How many Israeli elections before government formed?",
-   "n": 140,
-   "gan": 152.9,
+   "n": 141,
+   "gan": 156.02,
    "neta": 3.83,
    "mediana": 10.449
   },
@@ -145,11 +145,11 @@
    "mediana": 5.713
   },
   {
-   "titulo": "Celtic FC vs. Beşiktaş JK",
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
    "n": 75,
-   "gan": 90.3,
-   "neta": 30.1,
-   "mediana": 0.112
+   "gan": 389.67,
+   "neta": 0,
+   "mediana": 2999.794
   }
  ],
  "porHora": [
@@ -439,10 +439,98 @@
   },
   {
    "h": 1794024000000,
-   "n": 1
+   "n": 12
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794024353260,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 3001.339,
+   "gan": 1.19,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794024356916,
+   "titulo": "How many Israeli elections before government formed?",
+   "dur": 2997.683,
+   "gan": 3.12,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794026188284,
+   "titulo": "Nagoya Grampus vs. Kyōto Sanga FC",
+   "dur": 0.755,
+   "gan": 0.76,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794025881137,
+   "titulo": "Atlante FC vs. Club Santos Laguna",
+   "dur": 0.243,
+   "gan": 0.75,
+   "neta": 0.48,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794025245892,
+   "titulo": "Atlante FC vs. Club Santos Laguna",
+   "dur": 0.152,
+   "gan": 0.84,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794025245514,
+   "titulo": "Atlante FC vs. Club Santos Laguna",
+   "dur": 0.013,
+   "gan": 1.21,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794025194362,
+   "titulo": "Atlante FC vs. Club Santos Laguna",
+   "dur": 0.878,
+   "gan": 2.1,
+   "neta": 0.18,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794025190489,
+   "titulo": "Atlante FC vs. Club Santos Laguna",
+   "dur": 0.992,
+   "gan": 1,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794025042813,
+   "titulo": "Nagoya Grampus vs. Kyōto Sanga FC",
+   "dur": 0.514,
+   "gan": 0.96,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794024950344,
+   "titulo": "Tokushima Vortis vs. Tegevajaro Miyazaki",
+   "dur": 0.672,
+   "gan": 1.74,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794024463136,
+   "titulo": "Test Match: Bangladesh vs West Indies",
+   "dur": 10.231,
+   "gan": 1.09,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794021347777,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
@@ -474,94 +562,6 @@
    "gan": 1.05,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1794022581452,
-   "titulo": "Atlante FC vs. Club Santos Laguna",
-   "dur": 0.905,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794021791719,
-   "titulo": "Atlante FC vs. Club Santos Laguna",
-   "dur": 8.691,
-   "gan": 1,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794021633146,
-   "titulo": "Atlante FC vs. Club Santos Laguna",
-   "dur": 1.179,
-   "gan": 0.75,
-   "neta": 0.2,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794021607774,
-   "titulo": "Atlante FC vs. Club Santos Laguna",
-   "dur": 1.307,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794021606481,
-   "titulo": "Atlante FC vs. Club Santos Laguna",
-   "dur": 0.916,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794021606285,
-   "titulo": "Atlante FC vs. Club Santos Laguna",
-   "dur": 0.021,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794021593339,
-   "titulo": "Atlante FC vs. Club Santos Laguna",
-   "dur": 1.884,
-   "gan": 2.18,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794021593297,
-   "titulo": "Atlante FC vs. Club Santos Laguna",
-   "dur": 0.029,
-   "gan": 2.06,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794021592171,
-   "titulo": "Atlante FC vs. Club Santos Laguna",
-   "dur": 1.116,
-   "gan": 5,
-   "neta": 2.63,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794021442548,
-   "titulo": "Atlante FC vs. Club Santos Laguna",
-   "dur": 2.726,
-   "gan": 6.75,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794021442171,
-   "titulo": "Atlas FC vs. CF Pachuca",
-   "dur": 1.178,
-   "gan": 169.97,
-   "neta": 60.74,
-   "lado": "si"
   }
  ]
 }
