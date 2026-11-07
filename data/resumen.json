@@ -1,91 +1,91 @@
 {
- "actualizado": 1794081573917,
+ "actualizado": 1794084586560,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794078573836,
-  "fin": 1794081573917,
-  "mensajes": 9588589,
-  "reconexiones": 2,
-  "eventos": 675,
+  "inicio": 1794081586449,
+  "fin": 1794084586560,
+  "mensajes": 10160838,
+  "reconexiones": 1,
+  "eventos": 660,
   "errores": []
  },
- "total": 7435,
- "falsos": 1399,
+ "total": 7512,
+ "falsos": 1434,
  "largos": {
-  "episodios": 4922,
+  "episodios": 4931,
   "eventos": 104,
   "dias": 7
  },
- "mediana": 0.693,
+ "mediana": 0.697,
  "captura": [
   {
    "s": 0.5,
-   "n": 3966,
-   "gan": 10039.9,
-   "nNeta": 2098,
-   "neta": 2674.08
+   "n": 4011,
+   "gan": 10104.68,
+   "nNeta": 2110,
+   "neta": 2680.48
   },
   {
    "s": 2,
-   "n": 2777,
-   "gan": 6032.28,
-   "nNeta": 1621,
-   "neta": 1372.88
+   "n": 2801,
+   "gan": 6061.54,
+   "nNeta": 1629,
+   "neta": 1376.43
   },
   {
    "s": 5,
-   "n": 1737,
-   "gan": 3540.61,
-   "nNeta": 978,
-   "neta": 472.48
+   "n": 1750,
+   "gan": 3554.78,
+   "nNeta": 985,
+   "neta": 476.04
   },
   {
    "s": 30,
-   "n": 517,
-   "gan": 1188.65,
-   "nNeta": 142,
-   "neta": 143.24
+   "n": 523,
+   "gan": 1195.53,
+   "nNeta": 147,
+   "neta": 145.76
   }
  ],
- "rentables": 4145,
+ "rentables": 4163,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2429
+   "n": 2445
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1639
+   "n": 1660
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1626
+   "n": 1653
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1220
+   "n": 1227
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 266
+   "n": 268
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 251
+   "n": 255
   }
  ],
  "porEvento": [
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 2374,
-   "gan": 1657.53,
-   "neta": 209.17,
+   "n": 2375,
+   "gan": 1659.72,
+   "neta": 209.37,
    "mediana": 0.053
   },
   {
@@ -139,8 +139,8 @@
   },
   {
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "n": 87,
-   "gan": 403.95,
+   "n": 88,
+   "gan": 405.14,
    "neta": 0,
    "mediana": 2999.503
   },
@@ -153,10 +153,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793822400000,
-   "n": 163
-  },
   {
    "h": 1793826000000,
    "n": 214
@@ -439,127 +435,131 @@
   },
   {
    "h": 1794078000000,
-   "n": 94
+   "n": 96
+  },
+  {
+   "h": 1794081600000,
+   "n": 75
   }
  ],
  "recientes": [
   {
-   "inicio": 1794080810383,
-   "titulo": "AS Saint-Étienne vs. Stade Lavallois Mayenne FC - Halftime Result",
-   "dur": 763.455,
-   "gan": 0.65,
-   "neta": 0.61,
+   "inicio": 1794084053035,
+   "titulo": "How many House seats will the Democrats win in California?",
+   "dur": 533.417,
+   "gan": 0.84,
+   "neta": 0.78,
    "lado": "si"
   },
   {
-   "inicio": 1794079294288,
+   "inicio": 1794081582575,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 2279.55,
-   "gan": 2.53,
-   "neta": 0.46,
+   "dur": 3003.877,
+   "gan": 2.19,
+   "neta": 0.2,
    "lado": "si"
   },
   {
-   "inicio": 1794078576283,
+   "inicio": 1794081589259,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2997.555,
+   "dur": 2997.193,
    "gan": 1.19,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794081524241,
-   "titulo": "AS Roma vs. US Sassuolo Calcio",
-   "dur": 1.042,
-   "gan": 1.3,
+   "inicio": 1794084554590,
+   "titulo": "Paris Saint-Germain FC vs. ES Troyes AC",
+   "dur": 27.89,
+   "gan": 2.9,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794081326707,
-   "titulo": "CA Gimnasia y Esgrima de Mendoza vs. CS Independiente Rivadavia",
-   "dur": 0.368,
-   "gan": 0.7,
-   "neta": 0.37,
+   "inicio": 1794084524938,
+   "titulo": "Highest temperature in Seattle on November 8?",
+   "dur": 39.66,
+   "gan": 0.58,
+   "neta": 0.01,
    "lado": "si"
   },
   {
-   "inicio": 1794081326487,
-   "titulo": "CA Gimnasia y Esgrima de Mendoza vs. CS Independiente Rivadavia",
-   "dur": 0.219,
-   "gan": 1.13,
-   "neta": 0.64,
+   "inicio": 1794084547023,
+   "titulo": "Paris Saint-Germain FC vs. ES Troyes AC",
+   "dur": 1.892,
+   "gan": 2.87,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794081326372,
-   "titulo": "CA Gimnasia y Esgrima de Mendoza vs. CS Independiente Rivadavia",
-   "dur": 0.097,
-   "gan": 5.11,
-   "neta": 4.09,
+   "inicio": 1794084534873,
+   "titulo": "Paris Saint-Germain FC vs. ES Troyes AC",
+   "dur": 1.345,
+   "gan": 2.87,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794081326280,
-   "titulo": "CA Gimnasia y Esgrima de Mendoza vs. CS Independiente Rivadavia",
-   "dur": 0.073,
-   "gan": 2.09,
-   "neta": 1.8,
+   "inicio": 1794084405979,
+   "titulo": "Avaí FC vs. São Bernardo FC",
+   "dur": 0.621,
+   "gan": 2.55,
+   "neta": 0.49,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794084389663,
+   "titulo": "CA Boca Juniors vs. CSyD Defensa y Justicia",
+   "dur": 1.014,
+   "gan": 1.25,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794081326023,
-   "titulo": "CA Gimnasia y Esgrima de Mendoza vs. CS Independiente Rivadavia",
-   "dur": 0.122,
-   "gan": 12.44,
-   "neta": 11.22,
+   "inicio": 1794084388413,
+   "titulo": "Highest temperature in Dallas on November 7?",
+   "dur": 0.332,
+   "gan": 2.85,
+   "neta": 2.38,
    "lado": "si"
   },
   {
-   "inicio": 1794081325965,
-   "titulo": "CA Gimnasia y Esgrima de Mendoza vs. CS Independiente Rivadavia",
-   "dur": 0.047,
-   "gan": 13.99,
-   "neta": 12.77,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794080657016,
-   "titulo": "How many House seats will the Democrats win in California?",
-   "dur": 621.651,
-   "gan": 0.76,
-   "neta": 0.69,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794081274728,
-   "titulo": "FC Alverca vs. Casa Pia AC",
-   "dur": 0.669,
-   "gan": 0.84,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794081195523,
-   "titulo": "Hertha BSC vs. VfL Wolfsburg",
-   "dur": 8.521,
-   "gan": 10.86,
+   "inicio": 1794084371500,
+   "titulo": "Paris Saint-Germain FC vs. ES Troyes AC",
+   "dur": 0.853,
+   "gan": 2.39,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794081157846,
-   "titulo": "Hertha BSC vs. VfL Wolfsburg",
-   "dur": 18.398,
-   "gan": 3.56,
+   "inicio": 1794084339843,
+   "titulo": "Valencia CF vs. Real Madrid CF",
+   "dur": 2.009,
+   "gan": 2.41,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794081145663,
-   "titulo": "Hertha BSC vs. VfL Wolfsburg",
-   "dur": 0.024,
-   "gan": 0.69,
+   "inicio": 1794084224008,
+   "titulo": "AA Argentinos Juniors vs. CA Huracán",
+   "dur": 1.003,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794084223859,
+   "titulo": "AA Argentinos Juniors vs. CA Huracán",
+   "dur": 0.082,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794084180807,
+   "titulo": "Paris Saint-Germain FC vs. ES Troyes AC",
+   "dur": 0.169,
+   "gan": 0.63,
    "neta": 0,
    "lado": "no"
   }
