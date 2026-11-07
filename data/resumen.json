@@ -1,68 +1,68 @@
 {
- "actualizado": 1794030366550,
+ "actualizado": 1794033379724,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794027366475,
-  "fin": 1794030366550,
-  "mensajes": 8869034,
-  "reconexiones": 4,
-  "eventos": 665,
+  "inicio": 1794030379645,
+  "fin": 1794033379724,
+  "mensajes": 9453170,
+  "reconexiones": 6,
+  "eventos": 668,
   "errores": []
  },
- "total": 4773,
- "falsos": 1080,
+ "total": 4803,
+ "falsos": 1086,
  "largos": {
-  "episodios": 4363,
-  "eventos": 97,
+  "episodios": 4376,
+  "eventos": 98,
   "dias": 7
  },
- "mediana": 2.319,
+ "mediana": 2.278,
  "captura": [
   {
    "s": 0.5,
-   "n": 3342,
-   "gan": 7577.57,
-   "nNeta": 1914,
-   "neta": 1503.46
+   "n": 3355,
+   "gan": 7593.43,
+   "nNeta": 1922,
+   "neta": 1505.89
   },
   {
    "s": 2,
-   "n": 2454,
-   "gan": 4957.02,
-   "nNeta": 1543,
-   "neta": 949.56
+   "n": 2459,
+   "gan": 4966.08,
+   "nNeta": 1546,
+   "neta": 950.52
   },
   {
    "s": 5,
-   "n": 1548,
-   "gan": 3118.88,
+   "n": 1550,
+   "gan": 3123.19,
    "nNeta": 944,
    "neta": 418.67
   },
   {
    "s": 30,
-   "n": 445,
-   "gan": 1020.37,
+   "n": 447,
+   "gan": 1024.68,
    "nNeta": 124,
    "neta": 124.6
   }
  ],
- "rentables": 2351,
+ "rentables": 2365,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 734
+   "n": 743
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1145
+   "n": 1160
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1343
+   "n": 1347
   },
   {
    "et": "5–30 s",
@@ -77,7 +77,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 202
+   "n": 204
   }
  ],
  "porEvento": [
@@ -111,8 +111,8 @@
   },
   {
    "titulo": "How many Israeli elections before government formed?",
-   "n": 142,
-   "gan": 159.14,
+   "n": 143,
+   "gan": 162.26,
    "neta": 3.83,
    "mediana": 10.454
   },
@@ -139,10 +139,10 @@
   },
   {
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "n": 76,
-   "gan": 390.86,
+   "n": 77,
+   "gan": 392.05,
    "neta": 0,
-   "mediana": 2999.976
+   "mediana": 2999.794
   },
   {
    "titulo": "Republican Senate seats after the midterms (Lower Brackets)",
@@ -153,10 +153,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793757600000,
-   "n": 60
-  },
   {
    "h": 1793761200000,
    "n": 6
@@ -439,128 +435,132 @@
   },
   {
    "h": 1794027600000,
-   "n": 19
+   "n": 24
+  },
+  {
+   "h": 1794031200000,
+   "n": 25
   }
  ],
  "recientes": [
   {
-   "inicio": 1794027366501,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2999.976,
-   "gan": 1.19,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794027362476,
+   "inicio": 1794030362035,
    "titulo": "How many Israeli elections before government formed?",
-   "dur": 3004.001,
+   "dur": 3017.614,
    "gan": 3.12,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794029587498,
-   "titulo": "Shimizu S-Pulse vs. Tōkyō Verdy",
-   "dur": 0.321,
-   "gan": 1.69,
-   "neta": 0.44,
+   "inicio": 1794030386371,
+   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
+   "dur": 2993.278,
+   "gan": 1.19,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794033205804,
+   "titulo": "Auckland FC vs. Wellington Phoenix FC",
+   "dur": 1.35,
+   "gan": 0.73,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794029587465,
-   "titulo": "Shimizu S-Pulse vs. Tōkyō Verdy",
-   "dur": 0.014,
-   "gan": 1.06,
+   "inicio": 1794033205728,
+   "titulo": "Auckland FC vs. Wellington Phoenix FC",
+   "dur": 0.046,
+   "gan": 0.73,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794033205585,
+   "titulo": "Auckland FC vs. Wellington Phoenix FC",
+   "dur": 0.108,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794032033413,
+   "titulo": "Yokohama F·Marinos vs. Fagiano Okayama",
+   "dur": 0.924,
+   "gan": 0.78,
+   "neta": 0.06,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794032028668,
+   "titulo": "Sagan Tosu vs. Kataller Toyama",
+   "dur": 0.019,
+   "gan": 0.53,
    "neta": 0.11,
    "lado": "si"
   },
   {
-   "inicio": 1794029351004,
-   "titulo": "Auckland FC vs. Wellington Phoenix FC",
-   "dur": 0.223,
+   "inicio": 1794032028065,
+   "titulo": "Sagan Tosu vs. Kataller Toyama",
+   "dur": 0.526,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794032028024,
+   "titulo": "Sagan Tosu vs. Kataller Toyama",
+   "dur": 0.039,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794032002473,
+   "titulo": "Nagoya Grampus vs. Kyōto Sanga FC",
+   "dur": 0.674,
    "gan": 0.5,
-   "neta": 0,
+   "neta": 0.27,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794031991385,
+   "titulo": "Yokohama F·Marinos vs. Fagiano Okayama",
+   "dur": 3.328,
+   "gan": 0.69,
+   "neta": 0.19,
    "lado": "si"
   },
   {
-   "inicio": 1794029139811,
-   "titulo": "Auckland FC vs. Wellington Phoenix FC",
-   "dur": 0.392,
-   "gan": 0.67,
-   "neta": 0,
+   "inicio": 1794031991122,
+   "titulo": "Yokohama F·Marinos vs. Fagiano Okayama",
+   "dur": 0.23,
+   "gan": 0.59,
+   "neta": 0.09,
    "lado": "si"
   },
   {
-   "inicio": 1794029138613,
-   "titulo": "Auckland FC vs. Wellington Phoenix FC",
-   "dur": 1.197,
-   "gan": 1.91,
-   "neta": 0,
+   "inicio": 1794031988832,
+   "titulo": "Yokohama F·Marinos vs. Fagiano Okayama",
+   "dur": 2.29,
+   "gan": 0.7,
+   "neta": 0.09,
    "lado": "si"
   },
   {
-   "inicio": 1794028820600,
-   "titulo": "Auckland FC vs. Wellington Phoenix FC",
-   "dur": 0.106,
-   "gan": 1.2,
-   "neta": 0,
+   "inicio": 1794031976104,
+   "titulo": "Yokohama F·Marinos vs. Fagiano Okayama",
+   "dur": 0.344,
+   "gan": 0.55,
+   "neta": 0.01,
    "lado": "si"
   },
   {
-   "inicio": 1794028810955,
-   "titulo": "Auckland FC vs. Wellington Phoenix FC",
-   "dur": 0.109,
-   "gan": 2,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794028642908,
-   "titulo": "Auckland FC vs. Wellington Phoenix FC",
-   "dur": 0.201,
-   "gan": 2.71,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794028633637,
-   "titulo": "Auckland FC vs. Wellington Phoenix FC",
-   "dur": 0.108,
-   "gan": 0.76,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794028630005,
-   "titulo": "Auckland FC vs. Wellington Phoenix FC",
-   "dur": 3.452,
-   "gan": 1.78,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794028604591,
-   "titulo": "Auckland FC vs. Wellington Phoenix FC",
-   "dur": 0.303,
-   "gan": 1.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794028429138,
-   "titulo": "Test Match: Bangladesh vs West Indies",
-   "dur": 94.305,
-   "gan": 1.67,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794028427138,
-   "titulo": "Test Match: Bangladesh vs West Indies",
-   "dur": 1.033,
-   "gan": 1.67,
-   "neta": 0,
+   "inicio": 1794031971149,
+   "titulo": "Yokohama F·Marinos vs. Fagiano Okayama",
+   "dur": 4.925,
+   "gan": 0.58,
+   "neta": 0.01,
    "lado": "si"
   }
  ]
