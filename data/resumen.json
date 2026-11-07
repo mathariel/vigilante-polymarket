@@ -1,73 +1,73 @@
 {
- "actualizado": 1794057478422,
+ "actualizado": 1794060490780,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794054478342,
-  "fin": 1794057478422,
-  "mensajes": 11103922,
-  "reconexiones": 0,
-  "eventos": 703,
+  "inicio": 1794057490697,
+  "fin": 1794060490780,
+  "mensajes": 11019371,
+  "reconexiones": 1,
+  "eventos": 716,
   "errores": []
  },
- "total": 4993,
- "falsos": 1135,
+ "total": 5039,
+ "falsos": 1170,
  "largos": {
-  "episodios": 4600,
+  "episodios": 4615,
   "eventos": 100,
   "dias": 7
  },
- "mediana": 2.113,
+ "mediana": 2.063,
  "captura": [
   {
    "s": 0.5,
-   "n": 3464,
-   "gan": 7959,
-   "nNeta": 1952,
-   "neta": 1659.17
+   "n": 3492,
+   "gan": 8039.56,
+   "nNeta": 1962,
+   "neta": 1684.35
   },
   {
    "s": 2,
-   "n": 2520,
-   "gan": 5109.66,
-   "nNeta": 1557,
-   "neta": 971.7
+   "n": 2533,
+   "gan": 5156.47,
+   "nNeta": 1561,
+   "neta": 989.93
   },
   {
    "s": 5,
-   "n": 1590,
-   "gan": 3211.1,
-   "nNeta": 949,
-   "neta": 426.77
+   "n": 1596,
+   "gan": 3229.68,
+   "nNeta": 951,
+   "neta": 432.17
   },
   {
    "s": 30,
-   "n": 472,
-   "gan": 1091.82,
-   "nNeta": 128,
-   "neta": 132.67
+   "n": 476,
+   "gan": 1106.07,
+   "nNeta": 129,
+   "neta": 136.79
   }
  ],
- "rentables": 2422,
+ "rentables": 2438,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 779
+   "n": 788
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1229
+   "n": 1242
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1392
+   "n": 1410
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1118
+   "n": 1120
   },
   {
    "et": "30 s–5 min",
@@ -77,14 +77,14 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 225
+   "n": 229
   }
  ],
  "porEvento": [
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 904,
-   "gan": 918.17,
+   "n": 905,
+   "gan": 918.83,
    "neta": 133.29,
    "mediana": 2.968
   },
@@ -111,10 +111,10 @@
   },
   {
    "titulo": "How many Israeli elections before government formed?",
-   "n": 151,
-   "gan": 187.22,
+   "n": 152,
+   "gan": 190.34,
    "neta": 3.83,
-   "mediana": 10.476
+   "mediana": 10.484
   },
   {
    "titulo": "AEK vs. Real Madrid CF",
@@ -153,10 +153,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793800800000,
-   "n": 13
-  },
   {
    "h": 1793804400000,
    "n": 9
@@ -439,127 +435,131 @@
   },
   {
    "h": 1794056400000,
-   "n": 27
+   "n": 67
+  },
+  {
+   "h": 1794060000000,
+   "n": 6
   }
  ],
  "recientes": [
   {
-   "inicio": 1794056777309,
-   "titulo": "Arsenal FC vs. Hull City AFC",
-   "dur": 701.038,
-   "gan": 19.38,
-   "neta": 0,
+   "inicio": 1794059543523,
+   "titulo": "FK Zemun vs. FK IMT Novi Beograd",
+   "dur": 947.178,
+   "gan": 4.79,
+   "neta": 3.62,
    "lado": "si"
   },
   {
-   "inicio": 1794054267974,
+   "inicio": 1794057473308,
    "titulo": "How many Israeli elections before government formed?",
-   "dur": 3210.373,
+   "dur": 3017.393,
    "gan": 3.12,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794054474584,
+   "inicio": 1794060301582,
+   "titulo": "Cagliari Calcio vs. Frosinone Calcio",
+   "dur": 0.093,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794060287061,
+   "titulo": "Cagliari Calcio vs. Frosinone Calcio",
+   "dur": 1.523,
+   "gan": 1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794060146120,
+   "titulo": "Leeds United FC vs. Tottenham Hotspur FC",
+   "dur": 1.599,
+   "gan": 1.3,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794060064727,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 0.03,
+   "gan": 1.26,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794060026601,
+   "titulo": "Leeds United FC vs. Tottenham Hotspur FC",
+   "dur": 1.666,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794060026580,
+   "titulo": "Leeds United FC vs. Tottenham Hotspur FC",
+   "dur": 0.013,
+   "gan": 1.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794059955932,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 0.019,
+   "gan": 0.91,
+   "neta": 0.07,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794057494082,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 3003.763,
+   "dur": 2410.16,
    "gan": 0.66,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794057441533,
-   "titulo": "Holstein Kiel vs. DSC Arminia Bielefeld",
-   "dur": 2.603,
-   "gan": 2.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794057435563,
-   "titulo": "Holstein Kiel vs. DSC Arminia Bielefeld",
-   "dur": 0.168,
-   "gan": 2.19,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794057432178,
+   "inicio": 1794059661628,
    "titulo": "Leeds United FC vs. Tottenham Hotspur FC",
-   "dur": 2.587,
-   "gan": 4.51,
+   "dur": 24.865,
+   "gan": 1,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794057360700,
+   "inicio": 1794059661554,
    "titulo": "Leeds United FC vs. Tottenham Hotspur FC",
-   "dur": 5.058,
-   "gan": 1.25,
+   "dur": 0.064,
+   "gan": 1.05,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794057256971,
+   "inicio": 1794059652791,
    "titulo": "Leeds United FC vs. Tottenham Hotspur FC",
-   "dur": 9.487,
-   "gan": 1.25,
+   "dur": 4.813,
+   "gan": 1.3,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794057247649,
-   "titulo": "Persita Tangerang vs. Isenmulang Kalteng FC",
-   "dur": 0.488,
-   "gan": 0.63,
+   "inicio": 1794059650627,
+   "titulo": "Leeds United FC vs. Tottenham Hotspur FC",
+   "dur": 1.802,
+   "gan": 1.75,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794057156082,
-   "titulo": "VfL Osnabrück vs. 1. FC Kaiserslautern",
-   "dur": 0.882,
-   "gan": 3.88,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794057154767,
-   "titulo": "Burgos CF vs. Celta Fortuna",
-   "dur": 0.247,
-   "gan": 0.95,
-   "neta": 0.48,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794057154545,
-   "titulo": "Burgos CF vs. Celta Fortuna",
-   "dur": 0.212,
-   "gan": 0.5,
-   "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794057154266,
-   "titulo": "Burgos CF vs. Celta Fortuna",
-   "dur": 0.279,
-   "gan": 0.65,
-   "neta": 0.18,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794057154057,
-   "titulo": "Burgos CF vs. Celta Fortuna",
-   "dur": 0.205,
-   "gan": 3.16,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794057154034,
-   "titulo": "Burgos CF vs. Celta Fortuna",
-   "dur": 0.006,
-   "gan": 3.16,
+   "inicio": 1794059646815,
+   "titulo": "Leeds United FC vs. Tottenham Hotspur FC",
+   "dur": 2.859,
+   "gan": 0.59,
    "neta": 0,
    "lado": "si"
   }
