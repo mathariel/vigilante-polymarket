@@ -1,127 +1,127 @@
 {
- "actualizado": 1794138808888,
- "inicio": 1793727152691,
+ "actualizado": 1794141823220,
+ "inicio": 1793742251691,
  "ejecucion": {
-  "inicio": 1794135808741,
-  "fin": 1794138808888,
-  "mensajes": 9479594,
-  "reconexiones": 6,
-  "eventos": 657,
+  "inicio": 1794138823081,
+  "fin": 1794141823220,
+  "mensajes": 10629391,
+  "reconexiones": 4,
+  "eventos": 662,
   "errores": []
  },
- "total": 4070,
- "falsos": 1645,
+ "total": 4110,
+ "falsos": 1638,
  "largos": {
-  "episodios": 5924,
-  "eventos": 108,
+  "episodios": 5897,
+  "eventos": 106,
   "dias": 7
  },
  "enEspera": {
   "episodios": 8392,
-  "eventos": 24
+  "eventos": 23
  },
- "mediana": 0.549,
+ "mediana": 0.571,
  "captura": [
   {
    "s": 0.5,
-   "n": 2110,
-   "gan": 8224.91,
-   "nNeta": 753,
-   "neta": 2835.84
+   "n": 2154,
+   "gan": 8849.94,
+   "nNeta": 792,
+   "neta": 3052.09
   },
   {
    "s": 2,
-   "n": 990,
-   "gan": 4114.6,
-   "nNeta": 302,
-   "neta": 1340.66
+   "n": 1025,
+   "gan": 4562.46,
+   "nNeta": 335,
+   "neta": 1525.95
   },
   {
    "s": 5,
-   "n": 526,
-   "gan": 2149.72,
-   "nNeta": 112,
-   "neta": 275.33
+   "n": 541,
+   "gan": 2363.89,
+   "nNeta": 123,
+   "neta": 367.56
   },
   {
    "s": 30,
    "n": 170,
-   "gan": 327.77,
+   "gan": 363.26,
    "nNeta": 27,
-   "neta": 53.28
+   "neta": 53.5
   }
  ],
- "rentables": 1398,
+ "rentables": 1434,
  "porCapital": [
   {
    "capital": 500,
    "ops": 13,
    "neta": 79.99,
-   "dias": 0.42,
-   "semana": 1341.89
+   "dias": 0.45,
+   "semana": 1238.35
   },
   {
    "capital": 1000,
-   "ops": 20,
-   "neta": 196.92,
-   "dias": 0.42,
-   "semana": 3303.36
+   "ops": 23,
+   "neta": 255.34,
+   "dias": 0.45,
+   "semana": 3952.84
   },
   {
    "capital": 2000,
-   "ops": 23,
-   "neta": 207.41,
-   "dias": 0.42,
-   "semana": 3479.41
+   "ops": 31,
+   "neta": 266.74,
+   "dias": 0.45,
+   "semana": 4129.35
   }
  ],
  "realista": {
   "reaccion": 0.5,
-  "conDato": 456,
-  "n": 174,
-  "gan": 985.37,
-  "nNeta": 89,
-  "neta": 568.45
+  "conDato": 587,
+  "n": 247,
+  "gan": 1572.31,
+  "nNeta": 135,
+  "neta": 779.43
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 967
+   "n": 981
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1567
+   "n": 1549
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1006
+   "n": 1035
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 356
+   "n": 371
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 119
+   "n": 121
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 51
+   "n": 49
   }
  ],
  "porEvento": [
   {
    "titulo": "Vitesse Arnhem vs. De Graafschap",
-   "n": 130,
-   "gan": 341.46,
-   "neta": 119.95,
-   "mediana": 3.098
+   "n": 220,
+   "gan": 774.86,
+   "neta": 266.19,
+   "mediana": 2.599
   },
   {
    "titulo": "AEK vs. Real Madrid CF",
@@ -166,13 +166,6 @@
    "mediana": 0.418
   },
   {
-   "titulo": "SC Internacional vs. Coritiba FBC",
-   "n": 64,
-   "gan": 80.85,
-   "neta": 13.57,
-   "mediana": 0.403
-  },
-  {
    "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
    "n": 64,
    "gan": 50.6,
@@ -185,13 +178,16 @@
    "gan": 138.56,
    "neta": 10.6,
    "mediana": 0.243
+  },
+  {
+   "titulo": "Club Independiente Petrolero vs. CD Real Tomayapo",
+   "n": 58,
+   "gan": 59.13,
+   "neta": 9.74,
+   "mediana": 0.2
   }
  ],
  "porHora": [
-  {
-   "h": 1793876400000,
-   "n": 1
-  },
   {
    "h": 1793880000000,
    "n": 3
@@ -474,128 +470,132 @@
   },
   {
    "h": 1794135600000,
-   "n": 156
+   "n": 192
+  },
+  {
+   "h": 1794139200000,
+   "n": 95
   }
  ],
  "recientes": [
   {
-   "inicio": 1794138798195,
-   "titulo": "Vitesse Arnhem vs. De Graafschap",
-   "dur": 0.855,
-   "gan": 1.55,
-   "neta": 0.01,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794138754723,
-   "titulo": "Vitesse Arnhem vs. De Graafschap",
-   "dur": 17.829,
-   "gan": 45.32,
-   "neta": 34.54,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794138749956,
-   "titulo": "Vitesse Arnhem vs. De Graafschap",
-   "dur": 4.674,
-   "gan": 3.69,
+   "inicio": 1794141785507,
+   "titulo": "SC Heerenveen vs. Feyenoord Rotterdam",
+   "dur": 1.001,
+   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794138742931,
-   "titulo": "Vitesse Arnhem vs. De Graafschap",
-   "dur": 6.922,
-   "gan": 6.25,
-   "neta": 0.05,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794138742668,
-   "titulo": "Vitesse Arnhem vs. De Graafschap",
-   "dur": 0.149,
-   "gan": 7.69,
-   "neta": 0.07,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794138720196,
-   "titulo": "Vitesse Arnhem vs. De Graafschap",
-   "dur": 22.37,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794138709296,
-   "titulo": "Vitesse Arnhem vs. De Graafschap",
-   "dur": 1.507,
-   "gan": 1.4,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794138646312,
-   "titulo": "Vitesse Arnhem vs. De Graafschap",
-   "dur": 3.308,
-   "gan": 0.8,
-   "neta": 0.08,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794138641380,
-   "titulo": "Vitesse Arnhem vs. De Graafschap",
-   "dur": 4.834,
-   "gan": 0.82,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794138629998,
-   "titulo": "Vitesse Arnhem vs. De Graafschap",
-   "dur": 11.29,
-   "gan": 1.86,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794138626223,
-   "titulo": "Vitesse Arnhem vs. De Graafschap",
-   "dur": 0.563,
+   "inicio": 1794141554836,
+   "titulo": "SC Heerenveen vs. Feyenoord Rotterdam",
+   "dur": 1.221,
    "gan": 0.6,
-   "neta": 0.19,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794138622356,
-   "titulo": "Vitesse Arnhem vs. De Graafschap",
-   "dur": 3.833,
-   "gan": 1.86,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794138622080,
-   "titulo": "Vitesse Arnhem vs. De Graafschap",
-   "dur": 0.211,
-   "gan": 0.72,
+   "inicio": 1794141553770,
+   "titulo": "SC Heerenveen vs. Feyenoord Rotterdam",
+   "dur": 1.018,
+   "gan": 0.52,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794138588338,
-   "titulo": "Vitesse Arnhem vs. De Graafschap",
-   "dur": 8.898,
-   "gan": 22.19,
-   "neta": 9.4,
+   "inicio": 1794141455827,
+   "titulo": "SC Heerenveen vs. Feyenoord Rotterdam",
+   "dur": 0.548,
+   "gan": 1.93,
+   "neta": 1.22,
    "lado": "no"
   },
   {
-   "inicio": 1794138583145,
-   "titulo": "Vitesse Arnhem vs. De Graafschap",
-   "dur": 5.076,
-   "gan": 1.74,
-   "neta": 1.06,
+   "inicio": 1794141250944,
+   "titulo": "October Inflation China - Annual",
+   "dur": 2.266,
+   "gan": 0.64,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794141250914,
+   "titulo": "October Inflation China - Annual",
+   "dur": 0.014,
+   "gan": 0.64,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794141250877,
+   "titulo": "October Inflation China - Annual",
+   "dur": 0.014,
+   "gan": 0.64,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794141250843,
+   "titulo": "October Inflation China - Annual",
+   "dur": 0.015,
+   "gan": 0.64,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794141250804,
+   "titulo": "October Inflation China - Annual",
+   "dur": 0.016,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794141250762,
+   "titulo": "October Inflation China - Annual",
+   "dur": 0.016,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794141118932,
+   "titulo": "October Inflation China - Annual",
+   "dur": 131.458,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794141238706,
+   "titulo": "FK Tukums 2000/TSS vs. FK Auda Riga",
+   "dur": 0.472,
+   "gan": 0.83,
+   "neta": 0.23,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794141191278,
+   "titulo": "FK Haugesund vs. Odds BK",
+   "dur": 8.989,
+   "gan": 2,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794141160883,
+   "titulo": "SC Heerenveen vs. Feyenoord Rotterdam",
+   "dur": 0.622,
+   "gan": 1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794141120785,
+   "titulo": "VfL Bochum vs. Karlsruher SC",
+   "dur": 0.028,
+   "gan": 0.5,
+   "neta": 0,
    "lado": "no"
   }
  ]
