@@ -1,127 +1,127 @@
 {
- "actualizado": 1794102663262,
+ "actualizado": 1794105674133,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794099663162,
-  "fin": 1794102663262,
-  "mensajes": 9314412,
+  "inicio": 1794102674021,
+  "fin": 1794105674133,
+  "mensajes": 8008443,
   "reconexiones": 0,
-  "eventos": 642,
+  "eventos": 640,
   "errores": []
  },
- "total": 7901,
- "falsos": 1576,
+ "total": 4225,
+ "falsos": 1597,
  "largos": {
-  "episodios": 5044,
+  "episodios": 5058,
   "eventos": 107,
   "dias": 7
  },
- "mediana": 0.661,
+ "enEspera": {
+  "episodios": 3797,
+  "eventos": 25
+ },
+ "mediana": 0.606,
  "captura": [
   {
    "s": 0.5,
-   "n": 4192,
-   "gan": 10669.97,
-   "nNeta": 2194,
-   "neta": 2920.14
+   "n": 2262,
+   "gan": 8051.61,
+   "nNeta": 695,
+   "neta": 2308.25
   },
   {
    "s": 2,
-   "n": 2878,
-   "gan": 6273.18,
-   "nNeta": 1663,
-   "neta": 1434.77
+   "n": 1047,
+   "gan": 3652.75,
+   "nNeta": 246,
+   "neta": 842.77
   },
   {
    "s": 5,
-   "n": 1794,
-   "gan": 3702.06,
-   "nNeta": 1006,
-   "neta": 521.28
+   "n": 610,
+   "gan": 1971.15,
+   "nNeta": 91,
+   "neta": 148.58
   },
   {
    "s": 30,
-   "n": 540,
-   "gan": 1257.5,
-   "nNeta": 155,
-   "neta": 170.37
+   "n": 188,
+   "gan": 319.22,
+   "nNeta": 25,
+   "neta": 50.54
   }
  ],
- "rentables": 4323,
+ "rentables": 1288,
+ "porCapital": [
+  {
+   "capital": 500,
+   "ops": 3,
+   "neta": 6.61,
+   "dias": 0.04,
+   "semana": 1110.48
+  },
+  {
+   "capital": 1000,
+   "ops": 3,
+   "neta": 6.61,
+   "dias": 0.04,
+   "semana": 1110.48
+  },
+  {
+   "capital": 2000,
+   "ops": 3,
+   "neta": 6.61,
+   "dias": 0.04,
+   "semana": 1110.48
+  }
+ ],
+ "realista": {
+  "reaccion": 0.5,
+  "conDato": 69,
+  "n": 9,
+  "gan": 46.25,
+  "nNeta": 3,
+  "neta": 6.61
+ },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2542
+   "n": 956
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1829
+   "n": 1625
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1732
+   "n": 1030
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1254
+   "n": 422
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 271
+   "n": 135
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 269
+   "n": 53
   }
  ],
  "porEvento": [
-  {
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 2381,
-   "gan": 1702.92,
-   "neta": 231.24,
-   "mediana": 0.053
-  },
-  {
-   "titulo": "How many House seats will the Democrats win in Tennessee?",
-   "n": 564,
-   "gan": 359.98,
-   "neta": 168.45,
-   "mediana": 5.347
-  },
-  {
-   "titulo": "How many Republican Governors after the 2026 midterm elections?",
-   "n": 211,
-   "gan": 147.86,
-   "neta": 129.46,
-   "mediana": 2.933
-  },
   {
    "titulo": "CZ # posts October 30 - November 6, 2026?",
    "n": 194,
    "gan": 132.27,
    "neta": 1,
    "mediana": 7.05
-  },
-  {
-   "titulo": "Republican House seats after the 2026 midterm elections? (Lower Brackets)",
-   "n": 167,
-   "gan": 145.64,
-   "neta": 2.98,
-   "mediana": 0.15
-  },
-  {
-   "titulo": "How many Israeli elections before government formed?",
-   "n": 159,
-   "gan": 209.69,
-   "neta": 3.83,
-   "mediana": 10.499
   },
   {
    "titulo": "AEK vs. Real Madrid CF",
@@ -138,430 +138,465 @@
    "mediana": 25.703
   },
   {
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "n": 94,
-   "gan": 412.28,
-   "neta": 0,
-   "mediana": 2999.794
-  },
-  {
    "titulo": "RB Leipzig vs. Manchester City FC",
    "n": 80,
    "gan": 76.21,
    "neta": 6.14,
    "mediana": 0.034
+  },
+  {
+   "titulo": "Parma Calcio 1913 vs. Bologna FC 1909",
+   "n": 77,
+   "gan": 96.77,
+   "neta": 16.77,
+   "mediana": 0.239
+  },
+  {
+   "titulo": "Celtic FC vs. Beşiktaş JK",
+   "n": 75,
+   "gan": 90.3,
+   "neta": 30.1,
+   "mediana": 0.112
+  },
+  {
+   "titulo": "Fenerbahçe SK vs. Liverpool FC",
+   "n": 65,
+   "gan": 135.57,
+   "neta": 2.57,
+   "mediana": 0.418
+  },
+  {
+   "titulo": "SC Internacional vs. Coritiba FBC",
+   "n": 64,
+   "gan": 80.85,
+   "neta": 13.57,
+   "mediana": 0.403
+  },
+  {
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "n": 64,
+   "gan": 50.6,
+   "neta": 0.61,
+   "mediana": 1.719
+  },
+  {
+   "titulo": "Fulham FC vs. Newcastle United FC",
+   "n": 64,
+   "gan": 138.56,
+   "neta": 10.6,
+   "mediana": 0.243
   }
  ],
  "porHora": [
   {
    "h": 1793844000000,
-   "n": 29
+   "n": 14
   },
   {
    "h": 1793847600000,
-   "n": 30
-  },
-  {
-   "h": 1793851200000,
-   "n": 12
-  },
-  {
-   "h": 1793854800000,
-   "n": 21
-  },
-  {
-   "h": 1793858400000,
-   "n": 17
-  },
-  {
-   "h": 1793862000000,
-   "n": 13
-  },
-  {
-   "h": 1793865600000,
-   "n": 8
-  },
-  {
-   "h": 1793869200000,
-   "n": 5
-  },
-  {
-   "h": 1793872800000,
-   "n": 8
-  },
-  {
-   "h": 1793876400000,
-   "n": 10
-  },
-  {
-   "h": 1793880000000,
-   "n": 11
-  },
-  {
-   "h": 1793883600000,
-   "n": 36
-  },
-  {
-   "h": 1793887200000,
-   "n": 12
-  },
-  {
-   "h": 1793890800000,
-   "n": 14
-  },
-  {
-   "h": 1793894400000,
-   "n": 16
-  },
-  {
-   "h": 1793898000000,
-   "n": 28
-  },
-  {
-   "h": 1793901600000,
-   "n": 93
-  },
-  {
-   "h": 1793905200000,
-   "n": 212
-  },
-  {
-   "h": 1793908800000,
-   "n": 574
-  },
-  {
-   "h": 1793912400000,
-   "n": 215
-  },
-  {
-   "h": 1793916000000,
-   "n": 17
-  },
-  {
-   "h": 1793919600000,
-   "n": 109
-  },
-  {
-   "h": 1793923200000,
-   "n": 20
-  },
-  {
-   "h": 1793926800000,
-   "n": 38
-  },
-  {
-   "h": 1793930400000,
-   "n": 17
-  },
-  {
-   "h": 1793934000000,
-   "n": 9
-  },
-  {
-   "h": 1793937600000,
-   "n": 204
-  },
-  {
-   "h": 1793941200000,
-   "n": 73
-  },
-  {
-   "h": 1793944800000,
-   "n": 107
-  },
-  {
-   "h": 1793948400000,
-   "n": 25
-  },
-  {
-   "h": 1793952000000,
-   "n": 221
-  },
-  {
-   "h": 1793955600000,
-   "n": 232
-  },
-  {
-   "h": 1793959200000,
-   "n": 3
-  },
-  {
-   "h": 1793962800000,
-   "n": 63
-  },
-  {
-   "h": 1793966400000,
-   "n": 14
-  },
-  {
-   "h": 1793970000000,
-   "n": 9
-  },
-  {
-   "h": 1793973600000,
    "n": 27
   },
   {
-   "h": 1793977200000,
-   "n": 47
+   "h": 1793851200000,
+   "n": 4
   },
   {
-   "h": 1793980800000,
+   "h": 1793854800000,
+   "n": 18
+  },
+  {
+   "h": 1793858400000,
    "n": 14
   },
   {
-   "h": 1793984400000,
-   "n": 17
+   "h": 1793862000000,
+   "n": 12
   },
   {
-   "h": 1793988000000,
-   "n": 36
+   "h": 1793865600000,
+   "n": 7
   },
   {
-   "h": 1793991600000,
-   "n": 38
+   "h": 1793869200000,
+   "n": 3
   },
   {
-   "h": 1793995200000,
-   "n": 94
+   "h": 1793872800000,
+   "n": 5
   },
   {
-   "h": 1793998800000,
-   "n": 78
+   "h": 1793876400000,
+   "n": 1
   },
   {
-   "h": 1794002400000,
-   "n": 155
+   "h": 1793880000000,
+   "n": 3
   },
   {
-   "h": 1794006000000,
-   "n": 101
+   "h": 1793883600000,
+   "n": 35
   },
   {
-   "h": 1794009600000,
-   "n": 43
+   "h": 1793887200000,
+   "n": 8
   },
   {
-   "h": 1794013200000,
-   "n": 19
+   "h": 1793890800000,
+   "n": 12
   },
   {
-   "h": 1794016800000,
-   "n": 14
+   "h": 1793894400000,
+   "n": 10
   },
   {
-   "h": 1794020400000,
-   "n": 19
-  },
-  {
-   "h": 1794024000000,
-   "n": 17
-  },
-  {
-   "h": 1794027600000,
+   "h": 1793898000000,
    "n": 24
   },
   {
-   "h": 1794031200000,
-   "n": 34
+   "h": 1793901600000,
+   "n": 86
   },
   {
-   "h": 1794034800000,
-   "n": 19
+   "h": 1793905200000,
+   "n": 124
   },
   {
-   "h": 1794038400000,
-   "n": 34
+   "h": 1793908800000,
+   "n": 99
   },
   {
-   "h": 1794042000000,
-   "n": 25
+   "h": 1793912400000,
+   "n": 208
   },
   {
-   "h": 1794045600000,
-   "n": 23
+   "h": 1793916000000,
+   "n": 7
   },
   {
-   "h": 1794049200000,
-   "n": 9
+   "h": 1793919600000,
+   "n": 20
   },
   {
-   "h": 1794052800000,
-   "n": 45
+   "h": 1793923200000,
+   "n": 13
   },
   {
-   "h": 1794056400000,
-   "n": 67
+   "h": 1793926800000,
+   "n": 18
   },
   {
-   "h": 1794060000000,
-   "n": 109
+   "h": 1793930400000,
+   "n": 8
   },
   {
-   "h": 1794063600000,
-   "n": 1636
+   "h": 1793934000000,
+   "n": 4
   },
   {
-   "h": 1794067200000,
-   "n": 176
+   "h": 1793937600000,
+   "n": 4
   },
   {
-   "h": 1794070800000,
-   "n": 145
+   "h": 1793941200000,
+   "n": 4
   },
   {
-   "h": 1794074400000,
-   "n": 241
+   "h": 1793944800000,
+   "n": 5
   },
   {
-   "h": 1794078000000,
+   "h": 1793948400000,
+   "n": 1
+  },
+  {
+   "h": 1793952000000,
+   "n": 5
+  },
+  {
+   "h": 1793955600000,
+   "n": 8
+  },
+  {
+   "h": 1793962800000,
+   "n": 1
+  },
+  {
+   "h": 1793966400000,
+   "n": 2
+  },
+  {
+   "h": 1793970000000,
+   "n": 7
+  },
+  {
+   "h": 1793973600000,
+   "n": 4
+  },
+  {
+   "h": 1793977200000,
+   "n": 28
+  },
+  {
+   "h": 1793980800000,
+   "n": 11
+  },
+  {
+   "h": 1793984400000,
+   "n": 13
+  },
+  {
+   "h": 1793988000000,
+   "n": 31
+  },
+  {
+   "h": 1793991600000,
+   "n": 35
+  },
+  {
+   "h": 1793995200000,
+   "n": 86
+  },
+  {
+   "h": 1793998800000,
+   "n": 59
+  },
+  {
+   "h": 1794002400000,
+   "n": 29
+  },
+  {
+   "h": 1794006000000,
    "n": 96
   },
   {
+   "h": 1794009600000,
+   "n": 38
+  },
+  {
+   "h": 1794013200000,
+   "n": 15
+  },
+  {
+   "h": 1794016800000,
+   "n": 12
+  },
+  {
+   "h": 1794020400000,
+   "n": 17
+  },
+  {
+   "h": 1794024000000,
+   "n": 13
+  },
+  {
+   "h": 1794027600000,
+   "n": 22
+  },
+  {
+   "h": 1794031200000,
+   "n": 32
+  },
+  {
+   "h": 1794034800000,
+   "n": 17
+  },
+  {
+   "h": 1794038400000,
+   "n": 32
+  },
+  {
+   "h": 1794042000000,
+   "n": 19
+  },
+  {
+   "h": 1794045600000,
+   "n": 21
+  },
+  {
+   "h": 1794049200000,
+   "n": 7
+  },
+  {
+   "h": 1794052800000,
+   "n": 42
+  },
+  {
+   "h": 1794056400000,
+   "n": 65
+  },
+  {
+   "h": 1794060000000,
+   "n": 105
+  },
+  {
+   "h": 1794063600000,
+   "n": 178
+  },
+  {
+   "h": 1794067200000,
+   "n": 168
+  },
+  {
+   "h": 1794070800000,
+   "n": 100
+  },
+  {
+   "h": 1794074400000,
+   "n": 103
+  },
+  {
+   "h": 1794078000000,
+   "n": 89
+  },
+  {
    "h": 1794081600000,
-   "n": 107
+   "n": 98
   },
   {
    "h": 1794085200000,
-   "n": 157
+   "n": 136
   },
   {
    "h": 1794088800000,
-   "n": 70
+   "n": 63
   },
   {
    "h": 1794092400000,
-   "n": 44
+   "n": 42
   },
   {
    "h": 1794096000000,
-   "n": 47
+   "n": 45
   },
   {
    "h": 1794099600000,
-   "n": 39
+   "n": 46
+  },
+  {
+   "h": 1794103200000,
+   "n": 60
   }
  ],
  "recientes": [
   {
-   "inicio": 1794099659427,
-   "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3003.738,
-   "gan": 1.19,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794099647962,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 3015.203,
-   "gan": 12.44,
-   "neta": 7.35,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794102346715,
-   "titulo": "San Diego FC vs. Sporting Kansas City",
-   "dur": 0.067,
-   "gan": 1,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794102320780,
-   "titulo": "San Diego FC vs. Sporting Kansas City",
-   "dur": 3.547,
-   "gan": 1.85,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794102308443,
-   "titulo": "San Diego FC vs. Sporting Kansas City",
-   "dur": 0.553,
-   "gan": 1.45,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794101929603,
-   "titulo": "FC Dallas vs. Colorado Rapids SC",
-   "dur": 0.005,
+   "inicio": 1794105538318,
+   "titulo": "Instituto AC Córdoba vs. CA Newell's Old Boys",
+   "dur": 0.318,
    "gan": 0.64,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794101900822,
-   "titulo": "FC Dallas vs. Colorado Rapids SC",
-   "dur": 0.929,
+   "inicio": 1794105073442,
+   "titulo": "Tigres de la UANL vs. CF Cruz Azul",
+   "dur": 0.244,
+   "gan": 3.24,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794105072001,
+   "titulo": "Tigres de la UANL vs. CF Cruz Azul",
+   "dur": 1.106,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794104908966,
+   "titulo": "Tigres de la UANL vs. CF Cruz Azul",
+   "dur": 4.475,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794104908444,
+   "titulo": "Tigres de la UANL vs. CF Cruz Azul",
+   "dur": 0.517,
+   "gan": 1.92,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794104898335,
+   "titulo": "Tigres de la UANL vs. CF Cruz Azul",
+   "dur": 0.268,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794104828799,
+   "titulo": "Instituto AC Córdoba vs. CA Newell's Old Boys",
+   "dur": 0.505,
+   "gan": 1.39,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794104729924,
+   "titulo": "Instituto AC Córdoba vs. CA Newell's Old Boys",
+   "dur": 0.387,
+   "gan": 0.72,
+   "neta": 0.61,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794104729836,
+   "titulo": "Instituto AC Córdoba vs. CA Newell's Old Boys",
+   "dur": 0.037,
+   "gan": 0.66,
+   "neta": 0.55,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794104729795,
+   "titulo": "Instituto AC Córdoba vs. CA Newell's Old Boys",
+   "dur": 0.029,
+   "gan": 0.52,
+   "neta": 0.41,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794103982369,
+   "titulo": "Tigres de la UANL vs. CF Cruz Azul",
+   "dur": 0.268,
+   "gan": 0.91,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794103981882,
+   "titulo": "Tigres de la UANL vs. CF Cruz Azul",
+   "dur": 0.456,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794103927360,
+   "titulo": "Tigres de la UANL vs. CF Cruz Azul",
+   "dur": 0.26,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794103918658,
+   "titulo": "Tigres de la UANL vs. CF Cruz Azul",
+   "dur": 0.215,
    "gan": 0.63,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794101900800,
-   "titulo": "FC Dallas vs. Colorado Rapids SC",
-   "dur": 0.013,
-   "gan": 0.87,
+   "inicio": 1794103881194,
+   "titulo": "Tigres de la UANL vs. CF Cruz Azul",
+   "dur": 0.509,
+   "gan": 1.36,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794101900100,
-   "titulo": "FC Dallas vs. Colorado Rapids SC",
-   "dur": 0.694,
-   "gan": 0.82,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794101894415,
-   "titulo": "FC Dallas vs. Colorado Rapids SC",
-   "dur": 0.938,
-   "gan": 1.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794101676971,
-   "titulo": "Seattle Sounders FC vs. Los Angeles FC",
-   "dur": 0.099,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794101676584,
-   "titulo": "Seattle Sounders FC vs. Los Angeles FC",
-   "dur": 0.087,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794101645012,
-   "titulo": "San Diego FC vs. Sporting Kansas City",
-   "dur": 0.115,
-   "gan": 0.8,
-   "neta": 0.29,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794101644983,
-   "titulo": "San Diego FC vs. Sporting Kansas City",
-   "dur": 0.02,
-   "gan": 4.45,
-   "neta": 1.53,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794101633908,
-   "titulo": "FC Dallas vs. Colorado Rapids SC",
-   "dur": 1.165,
-   "gan": 1.7,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
