@@ -1,118 +1,118 @@
 {
- "actualizado": 1794105674133,
+ "actualizado": 1794108685899,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794102674021,
-  "fin": 1794105674133,
-  "mensajes": 8008443,
+  "inicio": 1794105685751,
+  "fin": 1794108685899,
+  "mensajes": 6489062,
   "reconexiones": 0,
-  "eventos": 640,
+  "eventos": 625,
   "errores": []
  },
- "total": 4225,
- "falsos": 1597,
+ "total": 4263,
+ "falsos": 1613,
  "largos": {
-  "episodios": 5058,
+  "episodios": 5074,
   "eventos": 107,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 3797,
+  "episodios": 8375,
   "eventos": 25
  },
- "mediana": 0.606,
+ "mediana": 0.615,
  "captura": [
   {
    "s": 0.5,
-   "n": 2262,
-   "gan": 8051.61,
-   "nNeta": 695,
-   "neta": 2308.25
+   "n": 2292,
+   "gan": 8165.74,
+   "nNeta": 697,
+   "neta": 2376.07
   },
   {
    "s": 2,
-   "n": 1047,
-   "gan": 3652.75,
-   "nNeta": 246,
-   "neta": 842.77
+   "n": 1069,
+   "gan": 3672.57,
+   "nNeta": 247,
+   "neta": 842.78
   },
   {
    "s": 5,
-   "n": 610,
-   "gan": 1971.15,
+   "n": 625,
+   "gan": 1985.4,
    "nNeta": 91,
    "neta": 148.58
   },
   {
    "s": 30,
-   "n": 188,
-   "gan": 319.22,
+   "n": 198,
+   "gan": 327.93,
    "nNeta": 25,
    "neta": 50.54
   }
  ],
- "rentables": 1288,
+ "rentables": 1298,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 3,
-   "neta": 6.61,
-   "dias": 0.04,
-   "semana": 1110.48
+   "ops": 4,
+   "neta": 6.62,
+   "dias": 0.07,
+   "semana": 675.16
   },
   {
    "capital": 1000,
-   "ops": 3,
-   "neta": 6.61,
-   "dias": 0.04,
-   "semana": 1110.48
+   "ops": 4,
+   "neta": 6.62,
+   "dias": 0.07,
+   "semana": 675.16
   },
   {
    "capital": 2000,
-   "ops": 3,
-   "neta": 6.61,
-   "dias": 0.04,
-   "semana": 1110.48
+   "ops": 4,
+   "neta": 6.62,
+   "dias": 0.07,
+   "semana": 675.16
   }
  ],
  "realista": {
   "reaccion": 0.5,
-  "conDato": 69,
-  "n": 9,
-  "gan": 46.25,
-  "nNeta": 3,
-  "neta": 6.61
+  "conDato": 107,
+  "n": 32,
+  "gan": 65.46,
+  "nNeta": 4,
+  "neta": 6.62
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 956
+   "n": 961
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1625
+   "n": 1632
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1030
+   "n": 1041
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 422
+   "n": 427
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 135
+   "n": 144
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 53
+   "n": 54
   }
  ],
  "porEvento": [
@@ -188,10 +188,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793844000000,
-   "n": 14
-  },
   {
    "h": 1793847600000,
    "n": 27
@@ -474,127 +470,131 @@
   },
   {
    "h": 1794103200000,
-   "n": 60
+   "n": 78
+  },
+  {
+   "h": 1794106800000,
+   "n": 20
   }
  ],
  "recientes": [
   {
-   "inicio": 1794105538318,
-   "titulo": "Instituto AC Córdoba vs. CA Newell's Old Boys",
-   "dur": 0.318,
+   "inicio": 1794107734827,
+   "titulo": "Pumas de la UNAM vs. CF América",
+   "dur": 8.408,
    "gan": 0.64,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794105073442,
-   "titulo": "Tigres de la UANL vs. CF Cruz Azul",
-   "dur": 0.244,
-   "gan": 3.24,
+   "inicio": 1794107658656,
+   "titulo": "Pumas de la UNAM vs. CF América",
+   "dur": 0.612,
+   "gan": 1.74,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794105072001,
-   "titulo": "Tigres de la UANL vs. CF Cruz Azul",
-   "dur": 1.106,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794104908966,
-   "titulo": "Tigres de la UANL vs. CF Cruz Azul",
-   "dur": 4.475,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794104908444,
-   "titulo": "Tigres de la UANL vs. CF Cruz Azul",
-   "dur": 0.517,
-   "gan": 1.92,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794104898335,
-   "titulo": "Tigres de la UANL vs. CF Cruz Azul",
-   "dur": 0.268,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794104828799,
-   "titulo": "Instituto AC Córdoba vs. CA Newell's Old Boys",
-   "dur": 0.505,
-   "gan": 1.39,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794104729924,
-   "titulo": "Instituto AC Córdoba vs. CA Newell's Old Boys",
-   "dur": 0.387,
+   "inicio": 1794107652864,
+   "titulo": "Pumas de la UNAM vs. CF América",
+   "dur": 1.472,
    "gan": 0.72,
-   "neta": 0.61,
-   "lado": "no"
+   "neta": 0,
+   "lado": "si"
   },
   {
-   "inicio": 1794104729836,
-   "titulo": "Instituto AC Córdoba vs. CA Newell's Old Boys",
-   "dur": 0.037,
-   "gan": 0.66,
-   "neta": 0.55,
-   "lado": "no"
+   "inicio": 1794107639993,
+   "titulo": "Pumas de la UNAM vs. CF América",
+   "dur": 0.873,
+   "gan": 9.57,
+   "neta": 0.36,
+   "lado": "si"
   },
   {
-   "inicio": 1794104729795,
-   "titulo": "Instituto AC Córdoba vs. CA Newell's Old Boys",
-   "dur": 0.029,
+   "inicio": 1794107628670,
+   "titulo": "Pumas de la UNAM vs. CF América",
+   "dur": 0.016,
+   "gan": 0.73,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794107169380,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 218.493,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794107153530,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 14.725,
    "gan": 0.52,
-   "neta": 0.41,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794103982369,
-   "titulo": "Tigres de la UANL vs. CF Cruz Azul",
-   "dur": 0.268,
-   "gan": 0.91,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794103981882,
-   "titulo": "Tigres de la UANL vs. CF Cruz Azul",
-   "dur": 0.456,
-   "gan": 0.5,
+   "inicio": 1794107099514,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 51.024,
+   "gan": 0.52,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794103927360,
-   "titulo": "Tigres de la UANL vs. CF Cruz Azul",
-   "dur": 0.26,
-   "gan": 0.59,
+   "inicio": 1794107048556,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 49.565,
+   "gan": 0.52,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794103918658,
-   "titulo": "Tigres de la UANL vs. CF Cruz Azul",
-   "dur": 0.215,
-   "gan": 0.63,
+   "inicio": 1794106991504,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 54.013,
+   "gan": 0.52,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794103881194,
-   "titulo": "Tigres de la UANL vs. CF Cruz Azul",
-   "dur": 0.509,
-   "gan": 1.36,
+   "inicio": 1794106970494,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 19.637,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794106964499,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 3.055,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794106958514,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 2.997,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794106952494,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 3.015,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794106946485,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 3.03,
+   "gan": 0.52,
    "neta": 0,
    "lado": "si"
   }
