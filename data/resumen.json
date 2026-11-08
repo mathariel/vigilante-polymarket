@@ -1,127 +1,127 @@
 {
- "actualizado": 1794135796488,
+ "actualizado": 1794138808888,
  "inicio": 1793727152691,
  "ejecucion": {
-  "inicio": 1794132796362,
-  "fin": 1794135796488,
-  "mensajes": 6348433,
-  "reconexiones": 12,
-  "eventos": 650,
+  "inicio": 1794135808741,
+  "fin": 1794138808888,
+  "mensajes": 9479594,
+  "reconexiones": 6,
+  "eventos": 657,
   "errores": []
  },
- "total": 4400,
- "falsos": 1696,
+ "total": 4070,
+ "falsos": 1645,
  "largos": {
-  "episodios": 5536,
-  "eventos": 111,
+  "episodios": 5924,
+  "eventos": 108,
   "dias": 7
  },
  "enEspera": {
   "episodios": 8392,
-  "eventos": 25
+  "eventos": 24
  },
- "mediana": 0.6,
+ "mediana": 0.549,
  "captura": [
   {
    "s": 0.5,
-   "n": 2338,
-   "gan": 8319.82,
-   "nNeta": 729,
-   "neta": 2462.8
+   "n": 2110,
+   "gan": 8224.91,
+   "nNeta": 753,
+   "neta": 2835.84
   },
   {
    "s": 2,
-   "n": 1095,
-   "gan": 3760.85,
-   "nNeta": 258,
-   "neta": 893.85
+   "n": 990,
+   "gan": 4114.6,
+   "nNeta": 302,
+   "neta": 1340.66
   },
   {
    "s": 5,
-   "n": 637,
-   "gan": 2009.16,
-   "nNeta": 97,
-   "neta": 163.33
+   "n": 526,
+   "gan": 2149.72,
+   "nNeta": 112,
+   "neta": 275.33
   },
   {
    "s": 30,
-   "n": 203,
-   "gan": 333.51,
-   "nNeta": 25,
-   "neta": 50.68
+   "n": 170,
+   "gan": 327.77,
+   "nNeta": 27,
+   "neta": 53.28
   }
  ],
- "rentables": 1365,
+ "rentables": 1398,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 12,
-   "neta": 26.71,
-   "dias": 0.38,
-   "semana": 488.88
+   "ops": 13,
+   "neta": 79.99,
+   "dias": 0.42,
+   "semana": 1341.89
   },
   {
    "capital": 1000,
-   "ops": 18,
-   "neta": 44.95,
-   "dias": 0.38,
-   "semana": 822.72
+   "ops": 20,
+   "neta": 196.92,
+   "dias": 0.42,
+   "semana": 3303.36
   },
   {
    "capital": 2000,
-   "ops": 21,
-   "neta": 55.44,
-   "dias": 0.38,
-   "semana": 1014.83
+   "ops": 23,
+   "neta": 207.41,
+   "dias": 0.42,
+   "semana": 3479.41
   }
  ],
  "realista": {
   "reaccion": 0.5,
-  "conDato": 300,
-  "n": 85,
-  "gan": 220.77,
-  "nNeta": 24,
-  "neta": 75.35
+  "conDato": 456,
+  "n": 174,
+  "gan": 985.37,
+  "nNeta": 89,
+  "neta": 568.45
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1012
+   "n": 967
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1684
+   "n": 1567
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1063
+   "n": 1006
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 434
+   "n": 356
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 147
+   "n": 119
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 56
+   "n": 51
   }
  ],
  "porEvento": [
   {
-   "titulo": "CZ # posts October 30 - November 6, 2026?",
-   "n": 194,
-   "gan": 132.27,
-   "neta": 1,
-   "mediana": 7.05
+   "titulo": "Vitesse Arnhem vs. De Graafschap",
+   "n": 130,
+   "gan": 341.46,
+   "neta": 119.95,
+   "mediana": 3.098
   },
   {
    "titulo": "AEK vs. Real Madrid CF",
@@ -188,10 +188,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793872800000,
-   "n": 5
-  },
   {
    "h": 1793876400000,
    "n": 1
@@ -475,127 +471,131 @@
   {
    "h": 1794132000000,
    "n": 8
+  },
+  {
+   "h": 1794135600000,
+   "n": 156
   }
  ],
  "recientes": [
   {
-   "inicio": 1794133357878,
-   "titulo": "Sunderland AFC vs. Chelsea FC",
-   "dur": 207.376,
-   "gan": 15.32,
+   "inicio": 1794138798195,
+   "titulo": "Vitesse Arnhem vs. De Graafschap",
+   "dur": 0.855,
+   "gan": 1.55,
+   "neta": 0.01,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794138754723,
+   "titulo": "Vitesse Arnhem vs. De Graafschap",
+   "dur": 17.829,
+   "gan": 45.32,
+   "neta": 34.54,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794138749956,
+   "titulo": "Vitesse Arnhem vs. De Graafschap",
+   "dur": 4.674,
+   "gan": 3.69,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794133478091,
-   "titulo": "Highest temperature in Tel Aviv on November 8?",
-   "dur": 0.024,
-   "gan": 0.59,
-   "neta": 0.53,
-   "lado": "si"
+   "inicio": 1794138742931,
+   "titulo": "Vitesse Arnhem vs. De Graafschap",
+   "dur": 6.922,
+   "gan": 6.25,
+   "neta": 0.05,
+   "lado": "no"
   },
   {
-   "inicio": 1794133478053,
-   "titulo": "Highest temperature in Tel Aviv on November 8?",
-   "dur": 0.022,
+   "inicio": 1794138742668,
+   "titulo": "Vitesse Arnhem vs. De Graafschap",
+   "dur": 0.149,
+   "gan": 7.69,
+   "neta": 0.07,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794138720196,
+   "titulo": "Vitesse Arnhem vs. De Graafschap",
+   "dur": 22.37,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794138709296,
+   "titulo": "Vitesse Arnhem vs. De Graafschap",
+   "dur": 1.507,
+   "gan": 1.4,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794138646312,
+   "titulo": "Vitesse Arnhem vs. De Graafschap",
+   "dur": 3.308,
+   "gan": 0.8,
+   "neta": 0.08,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794138641380,
+   "titulo": "Vitesse Arnhem vs. De Graafschap",
+   "dur": 4.834,
    "gan": 0.82,
-   "neta": 0.67,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794133478009,
-   "titulo": "Highest temperature in Tel Aviv on November 8?",
-   "dur": 0.02,
-   "gan": 3.7,
-   "neta": 3.39,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794133355354,
-   "titulo": "Sunderland AFC vs. Chelsea FC",
-   "dur": 1.473,
-   "gan": 7.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794133236035,
-   "titulo": "Lowest temperature in Shanghai on November 8?",
-   "dur": 0.599,
-   "gan": 10.58,
-   "neta": 10.19,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794132314896,
-   "titulo": "FC Utrecht vs. NEC",
-   "dur": 0.065,
-   "gan": 1.64,
+   "inicio": 1794138629998,
+   "titulo": "Vitesse Arnhem vs. De Graafschap",
+   "dur": 11.29,
+   "gan": 1.86,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794132037396,
-   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
-   "dur": 0.042,
-   "gan": 3.02,
-   "neta": 1.44,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794131498274,
-   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
-   "dur": 0.994,
-   "gan": 2.18,
-   "neta": 1.28,
+   "inicio": 1794138626223,
+   "titulo": "Vitesse Arnhem vs. De Graafschap",
+   "dur": 0.563,
+   "gan": 0.6,
+   "neta": 0.19,
    "lado": "no"
   },
   {
-   "inicio": 1794131497295,
-   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
-   "dur": 0.95,
-   "gan": 1,
+   "inicio": 1794138622356,
+   "titulo": "Vitesse Arnhem vs. De Graafschap",
+   "dur": 3.833,
+   "gan": 1.86,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794131494888,
-   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
-   "dur": 0.315,
-   "gan": 1.37,
+   "inicio": 1794138622080,
+   "titulo": "Vitesse Arnhem vs. De Graafschap",
+   "dur": 0.211,
+   "gan": 0.72,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794131489963,
-   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
-   "dur": 0.129,
-   "gan": 1.02,
-   "neta": 0,
+   "inicio": 1794138588338,
+   "titulo": "Vitesse Arnhem vs. De Graafschap",
+   "dur": 8.898,
+   "gan": 22.19,
+   "neta": 9.4,
    "lado": "no"
   },
   {
-   "inicio": 1794131485440,
-   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
-   "dur": 1.61,
-   "gan": 0.7,
-   "neta": 0.31,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794131481864,
-   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
-   "dur": 0.094,
-   "gan": 0.9,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794131481256,
-   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
-   "dur": 0.093,
-   "gan": 1.04,
-   "neta": 0,
+   "inicio": 1794138583145,
+   "titulo": "Vitesse Arnhem vs. De Graafschap",
+   "dur": 5.076,
+   "gan": 1.74,
+   "neta": 1.06,
    "lado": "no"
   }
  ]
