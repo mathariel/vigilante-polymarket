@@ -78,7 +78,7 @@ function pintar(d) {
       <div class="fila cab"><div>Evento</div><div></div><div class="num">Nº</div><div class="num">Bruta / <span class="neta">neta</span></div><div class="num">Duración</div></div>${ev || '<div class="vacio">Aún sin datos.</div>'}</div>
     <div class="carta"><h2>Últimos episodios</h2>
       <div class="rec cab"><span>Fecha y hora</span><span>Evento</span><span class="num">Duró</span><span class="num">Bruta / <span class="neta">neta</span></span></div>${rec || '<div class="vacio">Aún sin datos.</div>'}</div>
-    <div class="sub">Solo se cuentan eventos que se resuelven en ${d.largos ? d.largos.dias : 7} días o menos${d.largos && d.largos.eventos ? ` (se excluyen ${d.largos.eventos} eventos de largo plazo, con ${d.largos.episodios} episodios)` : ''}. Episodios no confirmados por una consulta directa: ${d.falsos}. La página se actualiza sola cada 2 minutos.</div>`;
+    <div class="sub">Solo se cuentan eventos que se resuelven en ${d.largos ? d.largos.dias : 7} días o menos${d.largos && d.largos.eventos ? ` (se excluyen ${d.largos.eventos} eventos de largo plazo, con ${d.largos.episodios} episodios)` : ''}${d.enEspera && d.enEspera.eventos ? `. También se excluyen ${d.enEspera.eventos} eventos que ya terminaron y esperan su resolución oficial (${d.enEspera.episodios} episodios)` : ''}. Episodios no confirmados por una consulta directa: ${d.falsos}. La página se actualiza sola cada 2 minutos.</div>`;
 }
 async function cargar() {
   try {

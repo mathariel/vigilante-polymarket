@@ -199,11 +199,19 @@ function capturaA(ep, seg) {
 // Solo cuentan los arbitrajes de eventos que se resuelven en 7 días o menos:
 // los de largo plazo (como el Mundial 2030) inmovilizan el capital por años y distorsionan las cifras.
 const DIAS_MAX = 7;
-const esCorto = (e) => e.fin && (new Date(e.fin).getTime() - e.inicio) <= DIAS_MAX * 864e5;
+// Tiempo entre el episodio y la fecha de cierre del evento.
+// En deportes la "fecha de cierre" suele ser la hora de inicio del partido, así que un partido
+// en juego tiene fecha de cierre unas horas en el pasado: se toleran hasta 6 horas.
+// Más atrás que eso, el evento ya terminó y solo espera su resolución oficial (por ejemplo,
+// los mercados de una elección durante el recuento): esos no son arbitrajes de corto plazo.
+const margenCierre = (e) => e.fin ? new Date(e.fin).getTime() - e.inicio : null;
+const esCorto = (e) => { const m = margenCierre(e); return m !== null && m >= -6 * 3600e3 && m <= DIAS_MAX * 864e5; };
+const esperaResolucion = (e) => { const m = margenCierre(e); return m !== null && m < -6 * 3600e3; };
 function resumen(final) {
   const verificados = episodios.filter(e => e.verificado !== false);
   const cerrados = verificados.filter(esCorto);
-  const largos = new Set(verificados.filter(e => !esCorto(e)).map(e => e.titulo));
+  const largos = new Set(verificados.filter(e => !esCorto(e) && !esperaResolucion(e)).map(e => e.titulo));
+  const enEspera = new Set(verificados.filter(esperaResolucion).map(e => e.titulo));
   const durs = cerrados.map(e => e.dur).sort((a, b) => a - b);
   const cubetas = [['< 0.1 s', 0, 0.1, true], ['0.1–1 s', 0.1, 1, true], ['1–5 s', 1, 5], ['5–30 s', 5, 30], ['30 s–5 min', 30, 300], ['> 5 min', 300, 1e12]];
   const grupos = new Map();
@@ -217,7 +225,8 @@ function resumen(final) {
     actualizado: Date.now(), inicio: inicioHistorial,
     ejecucion: { inicio: ejecucion.inicio, fin: final ? Date.now() : null, mensajes: ejecucion.mensajes, reconexiones: ejecucion.reconexiones, eventos: eventos.size, errores: ejecucion.errores.slice(-5) },
     total: cerrados.length, falsos: episodios.length - verificados.length,
-    largos: { episodios: verificados.length - cerrados.length, eventos: largos.size, dias: DIAS_MAX },
+    largos: { episodios: verificados.filter(e => !esCorto(e) && !esperaResolucion(e)).length, eventos: largos.size, dias: DIAS_MAX },
+    enEspera: { episodios: verificados.filter(esperaResolucion).length, eventos: enEspera.size },
     mediana: durs.length ? durs[Math.floor(durs.length / 2)] : null,
     captura: RETARDOS.map(s => {
       const cap = cerrados.map(e => capturaA(e, s)).filter(x => x !== null);
