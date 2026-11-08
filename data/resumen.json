@@ -1,18 +1,18 @@
 {
- "actualizado": 1794165938145,
+ "actualizado": 1794168950367,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794162937963,
-  "fin": 1794165938145,
-  "mensajes": 10605040,
-  "reconexiones": 4,
-  "eventos": 658,
+  "inicio": 1794165950193,
+  "fin": 1794168950367,
+  "mensajes": 9627714,
+  "reconexiones": 6,
+  "eventos": 625,
   "errores": []
  },
- "total": 4744,
- "falsos": 1857,
+ "total": 4814,
+ "falsos": 1884,
  "largos": {
-  "episodios": 5987,
+  "episodios": 6432,
   "eventos": 110,
   "dias": 7
  },
@@ -20,26 +20,26 @@
   "episodios": 8401,
   "eventos": 23
  },
- "mediana": 0.538,
+ "mediana": 0.536,
  "captura": [
   {
    "s": 0.5,
-   "n": 2436,
-   "gan": 10549.34,
-   "nNeta": 893,
-   "neta": 3523.02
+   "n": 2471,
+   "gan": 10614.56,
+   "nNeta": 910,
+   "neta": 3540.05
   },
   {
    "s": 2,
-   "n": 1115,
-   "gan": 5033.87,
-   "nNeta": 363,
-   "neta": 1670.15
+   "n": 1125,
+   "gan": 5053.79,
+   "nNeta": 367,
+   "neta": 1671.63
   },
   {
    "s": 5,
-   "n": 575,
-   "gan": 2544.19,
+   "n": 578,
+   "gan": 2551.01,
    "nNeta": 135,
    "neta": 414.44
   },
@@ -51,42 +51,42 @@
    "neta": 77.49
   }
  ],
- "rentables": 1638,
+ "rentables": 1674,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 23,
-   "neta": 29.44,
-   "dias": 0.73,
-   "semana": 281.78
+   "ops": 25,
+   "neta": 30.44,
+   "dias": 0.77,
+   "semana": 278.15
   },
   {
    "capital": 1000,
-   "ops": 34,
-   "neta": 99.15,
-   "dias": 0.73,
-   "semana": 949.12
+   "ops": 36,
+   "neta": 100.31,
+   "dias": 0.77,
+   "semana": 916.5
   },
   {
    "capital": 2000,
-   "ops": 45,
-   "neta": 113.99,
-   "dias": 0.73,
-   "semana": 1091.13
+   "ops": 49,
+   "neta": 115.47,
+   "dias": 0.77,
+   "semana": 1055
   }
  ],
  "semanas": [
   {
    "lunes": "2026-11-02",
    "dias": 1,
-   "horas": 5,
-   "episodios": 1157,
-   "sospechosas": 19,
-   "realistaNeta": 704.63,
+   "horas": 5.8,
+   "episodios": 1227,
+   "sospechosas": 21,
+   "realistaNeta": 706.11,
    "capital": {
-    "500": 23.96,
-    "1000": 93.64,
-    "2000": 108.99
+    "500": 24.96,
+    "1000": 94.81,
+    "2000": 110.47
    },
    "cumple": true
   }
@@ -94,7 +94,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 88,
+  "n": 90,
   "top": [
    {
     "inicio": 1794062797308,
@@ -200,32 +200,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1277,
-  "n": 391,
-  "gan": 2082.86,
-  "nNeta": 179,
-  "neta": 710.51
+  "conDato": 1345,
+  "n": 405,
+  "gan": 2109.83,
+  "nNeta": 183,
+  "neta": 711.99
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1128
+   "n": 1140
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1857
+   "n": 1896
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1180
+   "n": 1195
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 403
+   "n": 406
   },
   {
    "et": "30 s–5 min",
@@ -311,10 +311,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793905200000,
-   "n": 124
-  },
   {
    "h": 1793908800000,
    "n": 99
@@ -597,129 +593,133 @@
   },
   {
    "h": 1794164400000,
-   "n": 34
+   "n": 60
+  },
+  {
+   "h": 1794168000000,
+   "n": 44
   }
  ],
  "recientes": [
   {
-   "inicio": 1794165910847,
-   "titulo": "RC Celta de Vigo vs. Levante UD",
-   "dur": 0.606,
-   "gan": 2.27,
-   "neta": 0.85,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794165910181,
-   "titulo": "RC Celta de Vigo vs. Levante UD",
-   "dur": 0.658,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794165908156,
-   "titulo": "RC Celta de Vigo vs. Levante UD",
-   "dur": 1.053,
-   "gan": 0.74,
-   "neta": 0.07,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794165908049,
-   "titulo": "RC Celta de Vigo vs. Levante UD",
-   "dur": 0.051,
-   "gan": 0.92,
-   "neta": 0.08,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794165907845,
-   "titulo": "RC Celta de Vigo vs. Levante UD",
-   "dur": 0.143,
-   "gan": 2.74,
-   "neta": 0.83,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794165889983,
-   "titulo": "Real Sporting de Gijón vs. Real Valladolid CF",
-   "dur": 1.068,
-   "gan": 1.84,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794165889149,
-   "titulo": "Real Sporting de Gijón vs. Real Valladolid CF",
-   "dur": 0.153,
-   "gan": 8.72,
-   "neta": 5.54,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794165764294,
-   "titulo": "St. Truidense VV vs. SV Zulte Waregem",
-   "dur": 0.972,
+   "inicio": 1794168876323,
+   "titulo": "TSG 1899 Hoffenheim vs. FC Schalke 04",
+   "dur": 0.345,
    "gan": 0.57,
-   "neta": 0.04,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794165667488,
-   "titulo": "SD Aucas vs. CSD Independiente del Valle",
-   "dur": 0.787,
-   "gan": 0.66,
-   "neta": 0.09,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794165667409,
-   "titulo": "SD Aucas vs. CSD Independiente del Valle",
-   "dur": 0.077,
-   "gan": 0.51,
-   "neta": 0.05,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794165338659,
-   "titulo": "Vitória SC vs. FC Porto",
-   "dur": 6.509,
-   "gan": 1.42,
+   "inicio": 1794168839819,
+   "titulo": "ACF Fiorentina vs. Juventus FC",
+   "dur": 1.633,
+   "gan": 0.84,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794165160715,
-   "titulo": "RC Celta de Vigo vs. Levante UD",
-   "dur": 0.153,
+   "inicio": 1794168837382,
+   "titulo": "ACF Fiorentina vs. Juventus FC",
+   "dur": 1.848,
+   "gan": 0.84,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794168746147,
+   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
+   "dur": 2.781,
+   "gan": 6.85,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794168695415,
+   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
+   "dur": 1.786,
+   "gan": 2.41,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794168694738,
+   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
+   "dur": 0.287,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794168694682,
+   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
+   "dur": 0.023,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794168694635,
+   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
+   "dur": 0.002,
+   "gan": 2.34,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794168694617,
+   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
+   "dur": 0.006,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794168694547,
+   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
+   "dur": 0.002,
+   "gan": 2.09,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794168694506,
+   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
+   "dur": 0.01,
+   "gan": 2.09,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794168693800,
+   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
+   "dur": 0.696,
+   "gan": 2.43,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794168692126,
+   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
+   "dur": 0.598,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794168647738,
+   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
+   "dur": 5.029,
    "gan": 0.88,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794165041957,
-   "titulo": "TSG 1899 Hoffenheim vs. FC Schalke 04",
-   "dur": 1.091,
-   "gan": 4.87,
-   "neta": 2,
+   "inicio": 1794168632355,
+   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
+   "dur": 0.758,
+   "gan": 1.21,
+   "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1794164970721,
-   "titulo": "Villarreal CF vs. Getafe CF",
-   "dur": 1.402,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794164970284,
-   "titulo": "Villarreal CF vs. Getafe CF",
-   "dur": 0.379,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
   }
  ]
 }
