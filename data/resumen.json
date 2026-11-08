@@ -1,85 +1,85 @@
 {
- "actualizado": 1794114710801,
+ "actualizado": 1794117722582,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794111710663,
-  "fin": 1794114710801,
-  "mensajes": 7856795,
-  "reconexiones": 2,
-  "eventos": 644,
+  "inicio": 1794114722434,
+  "fin": 1794117722582,
+  "mensajes": 7645830,
+  "reconexiones": 4,
+  "eventos": 642,
   "errores": []
  },
- "total": 4308,
- "falsos": 1629,
+ "total": 4324,
+ "falsos": 1652,
  "largos": {
-  "episodios": 5346,
+  "episodios": 5420,
   "eventos": 109,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8379,
+  "episodios": 8381,
   "eventos": 25
  },
- "mediana": 0.613,
+ "mediana": 0.607,
  "captura": [
   {
    "s": 0.5,
-   "n": 2312,
-   "gan": 8196.01,
-   "nNeta": 703,
-   "neta": 2388.44
+   "n": 2315,
+   "gan": 8220.24,
+   "nNeta": 705,
+   "neta": 2400.86
   },
   {
    "s": 2,
-   "n": 1083,
-   "gan": 3695.81,
+   "n": 1084,
+   "gan": 3696.78,
    "nNeta": 250,
    "neta": 853.77
   },
   {
    "s": 5,
-   "n": 630,
-   "gan": 1988.48,
+   "n": 631,
+   "gan": 1989.45,
    "nNeta": 92,
    "neta": 148.69
   },
   {
    "s": 30,
-   "n": 201,
-   "gan": 329.93,
+   "n": 202,
+   "gan": 330.9,
    "nNeta": 25,
    "neta": 50.54
   }
  ],
- "rentables": 1311,
+ "rentables": 1320,
  "porCapital": [
   {
    "capital": 500,
    "ops": 5,
    "neta": 6.69,
-   "dias": 0.14,
-   "semana": 338.68
+   "dias": 0.17,
+   "semana": 270.53
   },
   {
    "capital": 1000,
    "ops": 7,
    "neta": 17.61,
-   "dias": 0.14,
-   "semana": 890.89
+   "dias": 0.17,
+   "semana": 711.61
   },
   {
    "capital": 2000,
    "ops": 7,
    "neta": 17.61,
-   "dias": 0.14,
-   "semana": 890.89
+   "dias": 0.17,
+   "semana": 711.61
   }
  ],
  "realista": {
   "reaccion": 0.5,
-  "conDato": 152,
-  "n": 47,
-  "gan": 89.47,
+  "conDato": 168,
+  "n": 48,
+  "gan": 90.44,
   "nNeta": 7,
   "neta": 17.61
  },
@@ -87,12 +87,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 974
+   "n": 977
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1648
+   "n": 1660
   },
   {
    "et": "1–5 s",
@@ -107,7 +107,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 145
+   "n": 146
   },
   {
    "et": "> 5 min",
@@ -474,129 +474,129 @@
   },
   {
    "h": 1794114000000,
-   "n": 7
+   "n": 23
   }
  ],
  "recientes": [
   {
-   "inicio": 1794114577173,
-   "titulo": "Riga FC vs. FC RFS",
-   "dur": 133.493,
-   "gan": 1,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794114642508,
-   "titulo": "Vissel Kōbe vs. Urawa Red Diamonds",
-   "dur": 0.207,
-   "gan": 1.2,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794114281858,
-   "titulo": "Club Atletico La Paz vs. Tlaxcala FC",
-   "dur": 0.005,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794114281843,
-   "titulo": "Club Atletico La Paz vs. Tlaxcala FC",
-   "dur": 0.007,
-   "gan": 0.91,
-   "neta": 0.53,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794114281778,
-   "titulo": "Club Atletico La Paz vs. Tlaxcala FC",
-   "dur": 0.062,
-   "gan": 0.55,
-   "neta": 0.15,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794114281738,
-   "titulo": "Club Atletico La Paz vs. Tlaxcala FC",
-   "dur": 0.008,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794114281706,
-   "titulo": "Club Atletico La Paz vs. Tlaxcala FC",
-   "dur": 0.025,
-   "gan": 1.59,
-   "neta": 0.11,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794113320750,
-   "titulo": "Pumas de la UNAM vs. CF América",
-   "dur": 0.483,
-   "gan": 0.84,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794113320145,
-   "titulo": "Pumas de la UNAM vs. CF América",
-   "dur": 0.104,
-   "gan": 0.85,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794113319844,
-   "titulo": "Pumas de la UNAM vs. CF América",
-   "dur": 0.089,
-   "gan": 1.71,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794113319740,
-   "titulo": "Pumas de la UNAM vs. CF América",
-   "dur": 0.091,
-   "gan": 0.84,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794113316611,
-   "titulo": "Pumas de la UNAM vs. CF América",
-   "dur": 1.97,
+   "inicio": 1794117473005,
+   "titulo": "Macarthur FC vs. Brisbane Roar FC",
+   "dur": 0.221,
    "gan": 0.77,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794113315245,
-   "titulo": "Pumas de la UNAM vs. CF América",
-   "dur": 0.197,
-   "gan": 0.68,
+   "inicio": 1794117471888,
+   "titulo": "Macarthur FC vs. Brisbane Roar FC",
+   "dur": 0.695,
+   "gan": 0.75,
+   "neta": 0.12,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794117462064,
+   "titulo": "Macarthur FC vs. Brisbane Roar FC",
+   "dur": 0.181,
+   "gan": 0.67,
+   "neta": 0.23,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794117462014,
+   "titulo": "Macarthur FC vs. Brisbane Roar FC",
+   "dur": 0.023,
+   "gan": 0.52,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794117461832,
+   "titulo": "Macarthur FC vs. Brisbane Roar FC",
+   "dur": 0.101,
+   "gan": 0.87,
+   "neta": 0.42,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794117461356,
+   "titulo": "Macarthur FC vs. Brisbane Roar FC",
+   "dur": 0.472,
+   "gan": 0.58,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794113309467,
-   "titulo": "Pumas de la UNAM vs. CF América",
-   "dur": 0.031,
+   "inicio": 1794117455680,
+   "titulo": "Macarthur FC vs. Brisbane Roar FC",
+   "dur": 0.41,
+   "gan": 0.7,
+   "neta": 0.18,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794117365760,
+   "titulo": "Macarthur FC vs. Brisbane Roar FC",
+   "dur": 0.735,
    "gan": 0.5,
-   "neta": 0,
+   "neta": 0.26,
    "lado": "si"
   },
   {
-   "inicio": 1794113308688,
-   "titulo": "Pumas de la UNAM vs. CF América",
-   "dur": 0.127,
-   "gan": 1.68,
-   "neta": 0,
+   "inicio": 1794117364713,
+   "titulo": "Macarthur FC vs. Brisbane Roar FC",
+   "dur": 0.108,
+   "gan": 2.53,
+   "neta": 2.33,
    "lado": "si"
+  },
+  {
+   "inicio": 1794116754073,
+   "titulo": "Vissel Kōbe vs. Urawa Red Diamonds",
+   "dur": 0.124,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794116753798,
+   "titulo": "Vissel Kōbe vs. Urawa Red Diamonds",
+   "dur": 0.21,
+   "gan": 3.2,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794116753694,
+   "titulo": "Vissel Kōbe vs. Urawa Red Diamonds",
+   "dur": 0.094,
+   "gan": 3.38,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794116753640,
+   "titulo": "Vissel Kōbe vs. Urawa Red Diamonds",
+   "dur": 0.025,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794115540960,
+   "titulo": "Macarthur FC vs. Brisbane Roar FC",
+   "dur": 0.406,
+   "gan": 0.91,
+   "neta": 0.57,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794115540779,
+   "titulo": "Macarthur FC vs. Brisbane Roar FC",
+   "dur": 0.126,
+   "gan": 0.61,
+   "neta": 0.21,
+   "lado": "no"
   }
  ]
 }
