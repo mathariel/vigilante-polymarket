@@ -1,73 +1,73 @@
 {
- "actualizado": 1794099648766,
+ "actualizado": 1794102663262,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794096648657,
-  "fin": 1794099648766,
-  "mensajes": 9512916,
-  "reconexiones": 2,
-  "eventos": 621,
+  "inicio": 1794099663162,
+  "fin": 1794102663262,
+  "mensajes": 9314412,
+  "reconexiones": 0,
+  "eventos": 642,
   "errores": []
  },
- "total": 7862,
- "falsos": 1562,
+ "total": 7901,
+ "falsos": 1576,
  "largos": {
-  "episodios": 4992,
+  "episodios": 5044,
   "eventos": 107,
   "dias": 7
  },
- "mediana": 0.66,
+ "mediana": 0.661,
  "captura": [
   {
    "s": 0.5,
-   "n": 4167,
-   "gan": 10614.05,
-   "nNeta": 2190,
-   "neta": 2909.79
+   "n": 4192,
+   "gan": 10669.97,
+   "nNeta": 2194,
+   "neta": 2920.14
   },
   {
    "s": 2,
-   "n": 2869,
-   "gan": 6243.85,
-   "nNeta": 1662,
-   "neta": 1427.42
+   "n": 2878,
+   "gan": 6273.18,
+   "nNeta": 1663,
+   "neta": 1434.77
   },
   {
    "s": 5,
-   "n": 1789,
-   "gan": 3677.71,
-   "nNeta": 1005,
-   "neta": 513.93
+   "n": 1794,
+   "gan": 3702.06,
+   "nNeta": 1006,
+   "neta": 521.28
   },
   {
    "s": 30,
-   "n": 538,
-   "gan": 1243.87,
-   "nNeta": 154,
-   "neta": 163.02
+   "n": 540,
+   "gan": 1257.5,
+   "nNeta": 155,
+   "neta": 170.37
   }
  ],
- "rentables": 4319,
+ "rentables": 4323,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2534
+   "n": 2542
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1813
+   "n": 1829
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1722
+   "n": 1732
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1251
+   "n": 1254
   },
   {
    "et": "30 s–5 min",
@@ -77,15 +77,15 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 267
+   "n": 269
   }
  ],
  "porEvento": [
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 2380,
-   "gan": 1690.48,
-   "neta": 223.89,
+   "n": 2381,
+   "gan": 1702.92,
+   "neta": 231.24,
    "mediana": 0.053
   },
   {
@@ -139,10 +139,10 @@
   },
   {
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "n": 93,
-   "gan": 411.09,
+   "n": 94,
+   "gan": 412.28,
    "neta": 0,
-   "mediana": 2999.512
+   "mediana": 2999.794
   },
   {
    "titulo": "RB Leipzig vs. Manchester City FC",
@@ -153,10 +153,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793840400000,
-   "n": 16
-  },
   {
    "h": 1793844000000,
    "n": 29
@@ -440,126 +436,130 @@
   {
    "h": 1794096000000,
    "n": 47
+  },
+  {
+   "h": 1794099600000,
+   "n": 39
   }
  ],
  "recientes": [
   {
-   "inicio": 1794096617448,
-   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 3031.213,
-   "gan": 12.53,
-   "neta": 7.11,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794096649854,
+   "inicio": 1794099659427,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 2998.807,
+   "dur": 3003.738,
    "gan": 1.19,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794099585071,
-   "titulo": "Atlético Nacional vs. Deportivo Pereira",
-   "dur": 0.115,
-   "gan": 0.53,
-   "neta": 0.01,
+   "inicio": 1794099647962,
+   "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
+   "dur": 3015.203,
+   "gan": 12.44,
+   "neta": 7.35,
    "lado": "si"
   },
   {
-   "inicio": 1794099584908,
-   "titulo": "Atlético Nacional vs. Deportivo Pereira",
-   "dur": 0.138,
-   "gan": 0.72,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794099584570,
-   "titulo": "Cuiabá EC vs. EC Juventude",
-   "dur": 0.361,
-   "gan": 5.26,
-   "neta": 4.13,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794099584829,
-   "titulo": "Atlético Nacional vs. Deportivo Pereira",
-   "dur": 0.079,
-   "gan": 0.66,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794099584771,
-   "titulo": "Atlético Nacional vs. Deportivo Pereira",
-   "dur": 0.049,
-   "gan": 0.53,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794099582284,
-   "titulo": "Atlético Nacional vs. Deportivo Pereira",
-   "dur": 1.835,
-   "gan": 0.51,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794099581542,
-   "titulo": "Atlético Nacional vs. Deportivo Pereira",
-   "dur": 0.149,
-   "gan": 0.51,
+   "inicio": 1794102346715,
+   "titulo": "San Diego FC vs. Sporting Kansas City",
+   "dur": 0.067,
+   "gan": 1,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794099581015,
-   "titulo": "Atlético Nacional vs. Deportivo Pereira",
-   "dur": 0.249,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794099580386,
-   "titulo": "Atlético Nacional vs. Deportivo Pereira",
-   "dur": 0.583,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794099580335,
-   "titulo": "Atlético Nacional vs. Deportivo Pereira",
-   "dur": 0.036,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794099579106,
-   "titulo": "Atlético Nacional vs. Deportivo Pereira",
-   "dur": 1.194,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794099550432,
-   "titulo": "Atlético Nacional vs. Deportivo Pereira",
-   "dur": 0.838,
-   "gan": 0.69,
-   "neta": 0.15,
    "lado": "no"
   },
   {
-   "inicio": 1794099550383,
-   "titulo": "Atlético Nacional vs. Deportivo Pereira",
-   "dur": 0.044,
-   "gan": 0.57,
+   "inicio": 1794102320780,
+   "titulo": "San Diego FC vs. Sporting Kansas City",
+   "dur": 3.547,
+   "gan": 1.85,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794102308443,
+   "titulo": "San Diego FC vs. Sporting Kansas City",
+   "dur": 0.553,
+   "gan": 1.45,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794101929603,
+   "titulo": "FC Dallas vs. Colorado Rapids SC",
+   "dur": 0.005,
+   "gan": 0.64,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794101900822,
+   "titulo": "FC Dallas vs. Colorado Rapids SC",
+   "dur": 0.929,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794101900800,
+   "titulo": "FC Dallas vs. Colorado Rapids SC",
+   "dur": 0.013,
+   "gan": 0.87,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794101900100,
+   "titulo": "FC Dallas vs. Colorado Rapids SC",
+   "dur": 0.694,
+   "gan": 0.82,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794101894415,
+   "titulo": "FC Dallas vs. Colorado Rapids SC",
+   "dur": 0.938,
+   "gan": 1.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794101676971,
+   "titulo": "Seattle Sounders FC vs. Los Angeles FC",
+   "dur": 0.099,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794101676584,
+   "titulo": "Seattle Sounders FC vs. Los Angeles FC",
+   "dur": 0.087,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794101645012,
+   "titulo": "San Diego FC vs. Sporting Kansas City",
+   "dur": 0.115,
+   "gan": 0.8,
+   "neta": 0.29,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794101644983,
+   "titulo": "San Diego FC vs. Sporting Kansas City",
+   "dur": 0.02,
+   "gan": 4.45,
+   "neta": 1.53,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794101633908,
+   "titulo": "FC Dallas vs. Colorado Rapids SC",
+   "dur": 1.165,
+   "gan": 1.7,
    "neta": 0,
    "lado": "no"
   }
