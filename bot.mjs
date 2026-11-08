@@ -13,6 +13,7 @@ import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
 const DURACION_MIN = Number(process.env.DURACION_MIN || 52);  // minutos por ejecución
 const GANANCIA_MIN = 0.50;                // dólares mínimos para contar un episodio
 const RETARDOS = [0.5, 2, 5, 30];         // tiempos de reacción simulados (segundos)
+const REACCION_RAPIDA = 0.5;              // reacción de un bot en un servidor dedicado (segundos)
 const TROZO = 400;                        // resultados por conexión
 const MAX_EPISODIOS = 20000;              // tope del historial guardado
 const GUARDAR_CADA_MIN = 5;               // guardado parcial
@@ -61,7 +62,9 @@ async function cargarEventos() {
         const f = m.feeSchedule || {};
         return m.feesEnabled === false ? { tasa: 0, exp: 1 } : { tasa: Number(f.rate) || 0, exp: Number(f.exponent) || 1 };
       });
-      nuevos.set(String(ev.id), { titulo: ev.title, fin: ev.endDate, patas, tasas });
+      // espera que Polymarket impone a las órdenes que toman liquidez (segundos); la mayor entre los resultados
+      const espera = Math.max(0, ...activos.map(m => Number(m.secondsDelay) || 0));
+      nuevos.set(String(ev.id), { titulo: ev.title, fin: ev.endDate, patas, tasas, espera });
     }
     if (pagina.length < 100) break;
   }
@@ -162,7 +165,7 @@ function evaluar(id, ts) {
     const ep = abiertos.get(clave);
     if (r.ganancia >= GANANCIA_MIN) {
       if (!ep) {
-        const nuevo = { id, lado, titulo: ev.titulo, n: ev.patas.length, fin: ev.fin, inicio: ts, ganInicio: +r.ganancia.toFixed(2), netaInicio: +r.neta.toFixed(2), tasa: Math.max(...ev.tasas.map(t => t.tasa)), costoInicio: +r.costo.toFixed(2), max: +r.ganancia.toFixed(2), serie: [[0, +r.ganancia.toFixed(2), +r.neta.toFixed(2)]], verificado: null };
+        const nuevo = { id, lado, titulo: ev.titulo, n: ev.patas.length, fin: ev.fin, inicio: ts, ganInicio: +r.ganancia.toFixed(2), netaInicio: +r.neta.toFixed(2), tasa: Math.max(...ev.tasas.map(t => t.tasa)), espera: ev.espera, costoInicio: +r.costo.toFixed(2), max: +r.ganancia.toFixed(2), serie: [[0, +r.ganancia.toFixed(2), +r.neta.toFixed(2)]], verificado: null };
         abiertos.set(clave, nuevo); verificar(nuevo, ev);
       } else {
         ep.max = Math.max(ep.max, +r.ganancia.toFixed(2));
@@ -234,6 +237,13 @@ function resumen(final) {
       return { s, n: cap.length, gan: +cap.reduce((a, b) => a + b.bruta, 0).toFixed(2), nNeta: netas.length, neta: +netas.reduce((a, b) => a + b.neta, 0).toFixed(2) };
     }),
     rentables: cerrados.filter(e => (e.netaInicio || 0) > 0).length,
+    // Escenario realista: un bot rápido (0.5 s) más la espera de Polymarket en ese mercado
+    realista: (() => {
+      const conDato = cerrados.filter(e => e.espera !== undefined);
+      const cap = conDato.map(e => capturaA(e, REACCION_RAPIDA + e.espera)).filter(x => x !== null);
+      const netas = cap.filter(x => x.neta > 0);
+      return { reaccion: REACCION_RAPIDA, conDato: conDato.length, n: cap.length, gan: +cap.reduce((a, b) => a + b.bruta, 0).toFixed(2), nNeta: netas.length, neta: +netas.reduce((a, b) => a + b.neta, 0).toFixed(2) };
+    })(),
     duraciones: cubetas.map(([et, lo, hi, rapido]) => ({ et, rapido: !!rapido, n: durs.filter(x => x >= lo && x < hi).length })),
     porEvento: [...grupos.values()].sort((a, b) => b.n - a.n).slice(0, 10).map(g => ({ titulo: g.titulo, n: g.n, gan: +g.gan.toFixed(2), neta: +g.neta.toFixed(2), mediana: g.durs.sort((a, b) => a - b)[Math.floor(g.durs.length / 2)] })),
     porHora: [...porHora.entries()].sort((a, b) => a[0] - b[0]).slice(-72).map(([h, n]) => ({ h, n })),
