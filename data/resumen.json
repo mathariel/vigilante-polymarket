@@ -1,47 +1,47 @@
 {
- "actualizado": 1794150865273,
+ "actualizado": 1794153881715,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794147865106,
-  "fin": 1794150865273,
-  "mensajes": 11230380,
-  "reconexiones": 5,
-  "eventos": 724,
+  "inicio": 1794150881558,
+  "fin": 1794153881715,
+  "mensajes": 13235739,
+  "reconexiones": 8,
+  "eventos": 701,
   "errores": []
  },
- "total": 4219,
- "falsos": 1693,
+ "total": 4349,
+ "falsos": 1755,
  "largos": {
-  "episodios": 5917,
+  "episodios": 5925,
   "eventos": 107,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8394,
+  "episodios": 8395,
   "eventos": 23
  },
- "mediana": 0.553,
+ "mediana": 0.552,
  "captura": [
   {
    "s": 0.5,
-   "n": 2194,
-   "gan": 9584.23,
-   "nNeta": 792,
-   "neta": 3206.14
+   "n": 2258,
+   "gan": 9823.11,
+   "nNeta": 821,
+   "neta": 3262.14
   },
   {
    "s": 2,
-   "n": 1034,
-   "gan": 4626.04,
-   "nNeta": 337,
-   "neta": 1560.32
+   "n": 1058,
+   "gan": 4709.12,
+   "nNeta": 342,
+   "neta": 1569.63
   },
   {
    "s": 5,
-   "n": 541,
-   "gan": 2393.18,
-   "nNeta": 127,
-   "neta": 391.65
+   "n": 551,
+   "gan": 2421.25,
+   "nNeta": 128,
+   "neta": 391.69
   },
   {
    "s": 30,
@@ -51,42 +51,42 @@
    "neta": 62.7
   }
  ],
- "rentables": 1434,
+ "rentables": 1503,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 17,
-   "neta": 27.03,
-   "dias": 0.56,
-   "semana": 339.75
+   "ops": 18,
+   "neta": 28.29,
+   "dias": 0.59,
+   "semana": 334.7
   },
   {
    "capital": 1000,
-   "ops": 26,
-   "neta": 94.23,
-   "dias": 0.56,
-   "semana": 1184.57
+   "ops": 27,
+   "neta": 96.99,
+   "dias": 0.59,
+   "semana": 1147.34
   },
   {
    "capital": 2000,
-   "ops": 35,
-   "neta": 106.67,
-   "dias": 0.56,
-   "semana": 1340.93
+   "ops": 37,
+   "neta": 111.7,
+   "dias": 0.59,
+   "semana": 1321.37
   }
  ],
  "semanas": [
   {
    "lunes": "2026-11-02",
    "dias": 1,
-   "horas": 0.8,
-   "episodios": 632,
-   "sospechosas": 13,
-   "realistaNeta": 589.2,
+   "horas": 1.7,
+   "episodios": 762,
+   "sospechosas": 16,
+   "realistaNeta": 600.37,
    "capital": {
-    "500": 21.54,
-    "1000": 88.51,
-    "2000": 101.66
+    "500": 22.81,
+    "1000": 91.47,
+    "2000": 106.69
    },
    "cumple": true
   }
@@ -94,7 +94,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 82,
+  "n": 85,
   "top": [
    {
     "inicio": 1794062797308,
@@ -200,32 +200,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 758,
-  "n": 281,
-  "gan": 1625.66,
-  "nNeta": 142,
-  "neta": 595.08
+  "conDato": 885,
+  "n": 313,
+  "gan": 1721.09,
+  "nNeta": 151,
+  "neta": 606.25
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1005
+   "n": 1024
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1608
+   "n": 1678
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1061
+   "n": 1092
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 371
+   "n": 381
   },
   {
    "et": "30 s–5 min",
@@ -282,6 +282,13 @@
    "mediana": 0.112
   },
   {
+   "titulo": "Sunderland AFC vs. Chelsea FC",
+   "n": 72,
+   "gan": 305.32,
+   "neta": 7.11,
+   "mediana": 0.184
+  },
+  {
    "titulo": "Fenerbahçe SK vs. Liverpool FC",
    "n": 65,
    "gan": 135.57,
@@ -296,13 +303,6 @@
    "mediana": 0.243
   },
   {
-   "titulo": "Sunderland AFC vs. Chelsea FC",
-   "n": 63,
-   "gan": 294.94,
-   "neta": 0.13,
-   "mediana": 0.183
-  },
-  {
    "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
    "n": 62,
    "gan": 48.83,
@@ -311,10 +311,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793890800000,
-   "n": 12
-  },
   {
    "h": 1793894400000,
    "n": 10
@@ -597,129 +593,133 @@
   },
   {
    "h": 1794150000000,
-   "n": 20
+   "n": 136
+  },
+  {
+   "h": 1794153600000,
+   "n": 14
   }
  ],
  "recientes": [
   {
-   "inicio": 1794150706275,
-   "titulo": "AC Monza vs. Atalanta BC",
-   "dur": 0.066,
-   "gan": 1.18,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794150706113,
-   "titulo": "AC Monza vs. Atalanta BC",
-   "dur": 0.102,
-   "gan": 1.43,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794150702131,
-   "titulo": "AC Monza vs. Atalanta BC",
-   "dur": 1.819,
-   "gan": 9.88,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794150621160,
-   "titulo": "AC Monza vs. Atalanta BC",
-   "dur": 0.03,
-   "gan": 0.97,
+   "inicio": 1794153780899,
+   "titulo": "AEK Athens vs. APO Levadiakos FC",
+   "dur": 28.475,
+   "gan": 0.7,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794150573161,
-   "titulo": "Wimborne Town FC vs. Crawley Town FC",
-   "dur": 0.462,
-   "gan": 2.04,
-   "neta": 0.05,
+   "inicio": 1794153772530,
+   "titulo": "CD Nacional vs. Académico de Viseu FC",
+   "dur": 1.057,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794153770252,
+   "titulo": "CD Nacional vs. Académico de Viseu FC",
+   "dur": 1.223,
+   "gan": 2.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794153753680,
+   "titulo": "CD Santa Clara vs. Gil Vicente FC",
+   "dur": 2.374,
+   "gan": 0.99,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794153642216,
+   "titulo": "Highest temperature in Taipei on November 9?",
+   "dur": 6.142,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794153629957,
+   "titulo": "Sunderland AFC vs. Chelsea FC",
+   "dur": 1.307,
+   "gan": 0.53,
+   "neta": 0.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794153626558,
+   "titulo": "Sunderland AFC vs. Chelsea FC",
+   "dur": 3.276,
+   "gan": 1.72,
+   "neta": 1.25,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794153626518,
+   "titulo": "Sunderland AFC vs. Chelsea FC",
+   "dur": 0.022,
+   "gan": 0.51,
+   "neta": 0.4,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794153612176,
+   "titulo": "Cray Wanderers FC vs. Stockport County FC",
+   "dur": 3.38,
+   "gan": 1.05,
+   "neta": 0.43,
    "lado": "no"
   },
   {
-   "inicio": 1794150562951,
-   "titulo": "AC Monza vs. Atalanta BC",
-   "dur": 0.811,
-   "gan": 0.91,
-   "neta": 0,
+   "inicio": 1794153608275,
+   "titulo": "Sunderland AFC vs. Chelsea FC",
+   "dur": 0.6,
+   "gan": 1.4,
+   "neta": 1.16,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794153607122,
+   "titulo": "Sunderland AFC vs. Chelsea FC",
+   "dur": 0.641,
+   "gan": 1.75,
+   "neta": 1.45,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794153606716,
+   "titulo": "Sunderland AFC vs. Chelsea FC",
+   "dur": 0.131,
+   "gan": 2.52,
+   "neta": 2.09,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794153606578,
+   "titulo": "Sunderland AFC vs. Chelsea FC",
+   "dur": 0.014,
+   "gan": 0.68,
+   "neta": 0.6,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794153602551,
+   "titulo": "Heart of Midlothian FC vs. Falkirk FC",
+   "dur": 1.047,
+   "gan": 0.68,
+   "neta": 0.02,
    "lado": "no"
   },
   {
-   "inicio": 1794150553016,
-   "titulo": "AC Monza vs. Atalanta BC",
-   "dur": 6.001,
-   "gan": 2.08,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794150528669,
-   "titulo": "FC Twente vs. AFC Ajax",
-   "dur": 1.059,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794150516584,
-   "titulo": "FC Twente vs. AFC Ajax",
-   "dur": 1.003,
-   "gan": 2.44,
+   "inicio": 1794153566943,
+   "titulo": "CD Nacional vs. Académico de Viseu FC",
+   "dur": 1.286,
+   "gan": 1.08,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794150515594,
-   "titulo": "FC Twente vs. AFC Ajax",
-   "dur": 0.015,
-   "gan": 1.06,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794150514275,
-   "titulo": "FC Twente vs. AFC Ajax",
-   "dur": 0.182,
-   "gan": 2.49,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794150514117,
-   "titulo": "FC Twente vs. AFC Ajax",
-   "dur": 0.067,
-   "gan": 2.49,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794150513334,
-   "titulo": "FC Twente vs. AFC Ajax",
-   "dur": 0.38,
-   "gan": 2.49,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794150512814,
-   "titulo": "FC Twente vs. AFC Ajax",
-   "dur": 0.412,
-   "gan": 2.49,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794150428818,
-   "titulo": "FC Twente vs. AFC Ajax",
-   "dur": 0.002,
-   "gan": 0.65,
-   "neta": 0.09,
-   "lado": "no"
   }
  ]
 }
