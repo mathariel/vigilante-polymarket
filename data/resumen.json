@@ -1,92 +1,92 @@
 {
- "actualizado": 1794159910262,
+ "actualizado": 1794162924469,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794156910101,
-  "fin": 1794159910262,
-  "mensajes": 11877481,
-  "reconexiones": 3,
+  "inicio": 1794159924300,
+  "fin": 1794162924469,
+  "mensajes": 10666908,
+  "reconexiones": 1,
   "eventos": 681,
   "errores": []
  },
- "total": 4505,
- "falsos": 1796,
+ "total": 4683,
+ "falsos": 1830,
  "largos": {
-  "episodios": 5971,
+  "episodios": 5982,
   "eventos": 109,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8399,
+  "episodios": 8400,
   "eventos": 23
  },
- "mediana": 0.546,
+ "mediana": 0.541,
  "captura": [
   {
    "s": 0.5,
-   "n": 2330,
-   "gan": 9982.44,
-   "nNeta": 850,
-   "neta": 3312.31
+   "n": 2411,
+   "gan": 10448.03,
+   "nNeta": 884,
+   "neta": 3511.04
   },
   {
    "s": 2,
-   "n": 1080,
-   "gan": 4750.21,
-   "nNeta": 351,
-   "neta": 1578.6
+   "n": 1109,
+   "gan": 4986.89,
+   "nNeta": 363,
+   "neta": 1670.15
   },
   {
    "s": 5,
-   "n": 560,
-   "gan": 2438.34,
-   "nNeta": 131,
-   "neta": 392.85
+   "n": 572,
+   "gan": 2540.29,
+   "nNeta": 135,
+   "neta": 414.44
   },
   {
    "s": 30,
-   "n": 170,
-   "gan": 363.66,
-   "nNeta": 30,
-   "neta": 62.7
+   "n": 172,
+   "gan": 381.8,
+   "nNeta": 31,
+   "neta": 77.49
   }
  ],
- "rentables": 1557,
+ "rentables": 1620,
  "porCapital": [
   {
    "capital": 500,
    "ops": 23,
    "neta": 29.44,
-   "dias": 0.66,
-   "semana": 311.49
+   "dias": 0.7,
+   "semana": 295.89
   },
   {
    "capital": 1000,
-   "ops": 32,
-   "neta": 98.95,
-   "dias": 0.66,
-   "semana": 1047.12
+   "ops": 34,
+   "neta": 99.15,
+   "dias": 0.7,
+   "semana": 996.66
   },
   {
    "capital": 2000,
-   "ops": 42,
-   "neta": 113.67,
-   "dias": 0.66,
-   "semana": 1202.79
+   "ops": 45,
+   "neta": 113.99,
+   "dias": 0.7,
+   "semana": 1145.78
   }
  ],
  "semanas": [
   {
    "lunes": "2026-11-02",
    "dias": 1,
-   "horas": 3.3,
-   "episodios": 918,
+   "horas": 4.2,
+   "episodios": 1096,
    "sospechosas": 18,
-   "realistaNeta": 609.42,
+   "realistaNeta": 704.63,
    "capital": {
     "500": 23.96,
-    "1000": 93.44,
-    "2000": 108.66
+    "1000": 93.64,
+    "2000": 108.99
    },
    "cumple": true
   }
@@ -200,32 +200,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1039,
-  "n": 341,
-  "gan": 1777.13,
-  "nNeta": 161,
-  "neta": 615.3
+  "conDato": 1217,
+  "n": 384,
+  "gan": 2035.17,
+  "nNeta": 179,
+  "neta": 710.51
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1063
+   "n": 1107
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1757
+   "n": 1830
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1121
+   "n": 1170
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 390
+   "n": 400
   },
   {
    "et": "30 s–5 min",
@@ -235,7 +235,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 52
+   "n": 54
   }
  ],
  "porEvento": [
@@ -245,6 +245,13 @@
    "gan": 781.01,
    "neta": 271.05,
    "mediana": 2.599
+  },
+  {
+   "titulo": "Manchester United FC vs. Aston Villa FC",
+   "n": 152,
+   "gan": 412.16,
+   "neta": 155.7,
+   "mediana": 0.377
   },
   {
    "titulo": "AEK vs. Real Madrid CF",
@@ -301,20 +308,9 @@
    "gan": 138.56,
    "neta": 10.6,
    "mediana": 0.243
-  },
-  {
-   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
-   "n": 62,
-   "gan": 48.83,
-   "neta": 0.61,
-   "mediana": 1.719
   }
  ],
  "porHora": [
-  {
-   "h": 1793898000000,
-   "n": 24
-  },
   {
    "h": 1793901600000,
    "n": 86
@@ -597,128 +593,132 @@
   },
   {
    "h": 1794157200000,
-   "n": 68
+   "n": 84
+  },
+  {
+   "h": 1794160800000,
+   "n": 162
   }
  ],
  "recientes": [
   {
-   "inicio": 1794159884098,
-   "titulo": "CSD Macara vs. CD Universidad Catolica del Ecuador",
-   "dur": 0.63,
-   "gan": 1.31,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794159849035,
-   "titulo": "CSD Macara vs. CD Universidad Catolica del Ecuador",
-   "dur": 2.15,
-   "gan": 10.81,
-   "neta": 6.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794159816567,
+   "inicio": 1794162593877,
    "titulo": "Manchester United FC vs. Aston Villa FC",
-   "dur": 1.404,
-   "gan": 0.86,
-   "neta": 0.03,
+   "dur": 330.426,
+   "gan": 13.15,
+   "neta": 12.05,
    "lado": "no"
   },
   {
-   "inicio": 1794159804140,
-   "titulo": "Manchester United FC vs. Aston Villa FC",
-   "dur": 0.76,
-   "gan": 0.51,
+   "inicio": 1794162884448,
+   "titulo": "FC Midtjylland vs. Sønderjyske Fodbold",
+   "dur": 5.709,
+   "gan": 20.99,
+   "neta": 0.2,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794162879702,
+   "titulo": "FC Midtjylland vs. Sønderjyske Fodbold",
+   "dur": 1.064,
+   "gan": 11.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794159776447,
+   "inicio": 1794162873124,
+   "titulo": "FC Midtjylland vs. Sønderjyske Fodbold",
+   "dur": 2.93,
+   "gan": 6.04,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794162868165,
+   "titulo": "FC Midtjylland vs. Sønderjyske Fodbold",
+   "dur": 1.04,
+   "gan": 25.98,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794162865896,
+   "titulo": "FC Midtjylland vs. Sønderjyske Fodbold",
+   "dur": 0.181,
+   "gan": 2.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794162812415,
    "titulo": "FC Internazionale Milano vs. Como 1907",
-   "dur": 1.773,
-   "gan": 0.64,
-   "neta": 0,
+   "dur": 1.806,
+   "gan": 1.83,
+   "neta": 0.21,
    "lado": "no"
   },
   {
-   "inicio": 1794159755058,
-   "titulo": "SC Freiburg vs. 1. FC Union Berlin",
-   "dur": 0.192,
-   "gan": 0.5,
-   "neta": 0.28,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794159754788,
-   "titulo": "SC Freiburg vs. 1. FC Union Berlin",
-   "dur": 0.034,
-   "gan": 0.6,
-   "neta": 0.38,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794159754737,
-   "titulo": "SC Freiburg vs. 1. FC Union Berlin",
-   "dur": 0.029,
-   "gan": 0.5,
-   "neta": 0.28,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794159754520,
-   "titulo": "SC Freiburg vs. 1. FC Union Berlin",
-   "dur": 0.013,
-   "gan": 1.12,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794159754404,
-   "titulo": "SC Freiburg vs. 1. FC Union Berlin",
-   "dur": 0.077,
-   "gan": 0.86,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794159688074,
-   "titulo": "RC Celta de Vigo vs. Levante UD",
-   "dur": 0.32,
+   "inicio": 1794162719837,
+   "titulo": "NK Varaždin vs. GNK Dinamo Zagreb",
+   "dur": 1.948,
    "gan": 0.88,
+   "neta": 0.28,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794162716358,
+   "titulo": "NK Varaždin vs. GNK Dinamo Zagreb",
+   "dur": 0.053,
+   "gan": 3.93,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794159524812,
-   "titulo": "Manchester United FC vs. Aston Villa FC",
-   "dur": 0.234,
-   "gan": 0.72,
+   "inicio": 1794162644704,
+   "titulo": "NK Varaždin vs. GNK Dinamo Zagreb",
+   "dur": 3.559,
+   "gan": 0.96,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794162644218,
+   "titulo": "NK Varaždin vs. GNK Dinamo Zagreb",
+   "dur": 0.115,
+   "gan": 0.93,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794162629261,
+   "titulo": "FC Internazionale Milano vs. Como 1907",
+   "dur": 1.051,
+   "gan": 0.82,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794159498138,
+   "inicio": 1794162593609,
    "titulo": "Manchester United FC vs. Aston Villa FC",
-   "dur": 9.604,
-   "gan": 1.87,
-   "neta": 0,
-   "lado": "si"
+   "dur": 0.203,
+   "gan": 8.84,
+   "neta": 8.21,
+   "lado": "no"
   },
   {
-   "inicio": 1794159497754,
+   "inicio": 1794162592769,
    "titulo": "Manchester United FC vs. Aston Villa FC",
-   "dur": 0.245,
-   "gan": 0.94,
+   "dur": 0.455,
+   "gan": 0.5,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794159496502,
+   "inicio": 1794162577000,
    "titulo": "Manchester United FC vs. Aston Villa FC",
-   "dur": 0.753,
-   "gan": 0.74,
-   "neta": 0,
+   "dur": 0.659,
+   "gan": 3.13,
+   "neta": 1.61,
    "lado": "si"
   }
  ]
