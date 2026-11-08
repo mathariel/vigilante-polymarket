@@ -1,91 +1,91 @@
 {
- "actualizado": 1794093622611,
+ "actualizado": 1794096633945,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794090622530,
-  "fin": 1794093622611,
-  "mensajes": 8740889,
+  "inicio": 1794093633835,
+  "fin": 1794096633945,
+  "mensajes": 6982063,
   "reconexiones": 0,
-  "eventos": 654,
+  "eventos": 623,
   "errores": []
  },
- "total": 7800,
- "falsos": 1530,
+ "total": 7815,
+ "falsos": 1535,
  "largos": {
-  "episodios": 4956,
-  "eventos": 105,
+  "episodios": 4967,
+  "eventos": 106,
   "dias": 7
  },
- "mediana": 0.662,
+ "mediana": 0.664,
  "captura": [
   {
    "s": 0.5,
-   "n": 4138,
-   "gan": 10538,
-   "nNeta": 2180,
-   "neta": 2890.3
+   "n": 4148,
+   "gan": 10571.27,
+   "nNeta": 2182,
+   "neta": 2895.62
   },
   {
    "s": 2,
-   "n": 2856,
-   "gan": 6188.27,
-   "nNeta": 1657,
-   "neta": 1409.21
+   "n": 2863,
+   "gan": 6213.37,
+   "nNeta": 1658,
+   "neta": 1414.37
   },
   {
    "s": 5,
-   "n": 1778,
-   "gan": 3624.6,
-   "nNeta": 1001,
-   "neta": 496.43
+   "n": 1785,
+   "gan": 3649.8,
+   "nNeta": 1002,
+   "neta": 501.64
   },
   {
    "s": 30,
-   "n": 533,
-   "gan": 1213.98,
-   "nNeta": 152,
-   "neta": 151.56
+   "n": 536,
+   "gan": 1230.15,
+   "nNeta": 153,
+   "neta": 155.91
   }
  ],
- "rentables": 4299,
+ "rentables": 4301,
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2518
+   "n": 2521
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1786
+   "n": 1790
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1714
+   "n": 1715
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 1245
+   "n": 1249
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 270
+   "n": 271
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 263
+   "n": 265
   }
  ],
  "porEvento": [
   {
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "n": 2378,
-   "gan": 1668.51,
-   "neta": 211.62,
+   "n": 2379,
+   "gan": 1677.95,
+   "neta": 216.78,
    "mediana": 0.053
   },
   {
@@ -139,10 +139,10 @@
   },
   {
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "n": 91,
-   "gan": 408.71,
+   "n": 92,
+   "gan": 409.9,
    "neta": 0,
-   "mediana": 2999.512
+   "mediana": 2999.794
   },
   {
    "titulo": "RB Leipzig vs. Manchester City FC",
@@ -439,129 +439,129 @@
   },
   {
    "h": 1794092400000,
-   "n": 29
+   "n": 44
   }
  ],
  "recientes": [
   {
-   "inicio": 1794090618558,
+   "inicio": 1794093629447,
    "titulo": "Rayo Vallecano de Madrid vs. Athletic Club",
-   "dur": 3003.975,
+   "dur": 3004.392,
    "gan": 1.19,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794090621672,
+   "inicio": 1794093636262,
    "titulo": "Which Senate Swing States will Republicans win? (Build Your Map)",
-   "dur": 3000.861,
-   "gan": 6.9,
-   "neta": 2.25,
+   "dur": 2997.577,
+   "gan": 9.44,
+   "neta": 5.16,
    "lado": "si"
   },
   {
-   "inicio": 1794093583858,
-   "titulo": "Cuiabá EC vs. EC Juventude",
-   "dur": 0.181,
-   "gan": 0.53,
+   "inicio": 1794095813768,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 15.725,
+   "gan": 0.69,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794093129741,
-   "titulo": "Atlas FC vs. CF Pachuca",
-   "dur": 0.491,
-   "gan": 3.09,
-   "neta": 1.35,
    "lado": "no"
   },
   {
-   "inicio": 1794093117493,
-   "titulo": "Atlético Nacional vs. Deportivo Pereira",
-   "dur": 0.236,
-   "gan": 1.21,
+   "inicio": 1794095767287,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 27.285,
+   "gan": 0.64,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794093117151,
-   "titulo": "Atlético Nacional vs. Deportivo Pereira",
-   "dur": 0.302,
-   "gan": 1.43,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794093115658,
-   "titulo": "Atlético Nacional vs. Deportivo Pereira",
-   "dur": 0.384,
-   "gan": 0.89,
-   "neta": 0.44,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794093046675,
-   "titulo": "CA Mineiro vs. Grêmio FBPA",
-   "dur": 1.622,
-   "gan": 0.51,
-   "neta": 0.46,
    "lado": "no"
   },
   {
-   "inicio": 1794093020261,
-   "titulo": "Chicago Fire FC vs. Columbus Crew",
-   "dur": 0.12,
-   "gan": 4.43,
-   "neta": 3.93,
-   "lado": "si"
+   "inicio": 1794095747924,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 1.074,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1794093007027,
-   "titulo": "Chicago Fire FC vs. Columbus Crew",
-   "dur": 5.352,
-   "gan": 2.19,
-   "neta": 1.65,
-   "lado": "si"
+   "inicio": 1794095313138,
+   "titulo": "Atlético Nacional vs. Deportivo Pereira",
+   "dur": 0.947,
+   "gan": 2.63,
+   "neta": 0.16,
+   "lado": "no"
   },
   {
-   "inicio": 1794092910970,
-   "titulo": "CA Mineiro vs. Grêmio FBPA",
-   "dur": 0.13,
+   "inicio": 1794095264924,
+   "titulo": "Highest temperature in San Francisco on November 8?",
+   "dur": 19.392,
    "gan": 0.97,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794092840338,
-   "titulo": "Chicago Fire FC vs. Columbus Crew",
-   "dur": 1.097,
-   "gan": 0.9,
-   "neta": 0.46,
+   "inicio": 1794094542941,
+   "titulo": "Atlético Nacional vs. Deportivo Pereira",
+   "dur": 0.006,
+   "gan": 0.89,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794094542930,
+   "titulo": "Atlético Nacional vs. Deportivo Pereira",
+   "dur": 0.009,
+   "gan": 0.89,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794094332223,
+   "titulo": "San Diego FC vs. Sporting Kansas City",
+   "dur": 0.812,
+   "gan": 4.92,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794092839719,
-   "titulo": "Chicago Fire FC vs. Columbus Crew",
-   "dur": 0.004,
-   "gan": 0.54,
-   "neta": 0.3,
+   "inicio": 1794094036681,
+   "titulo": "Atlas FC vs. CF Pachuca",
+   "dur": 0.022,
+   "gan": 0.93,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794094029899,
+   "titulo": "Vila Nova FC vs. Criciúma EC",
+   "dur": 0.375,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794093747990,
+   "titulo": "San Diego FC vs. Sporting Kansas City",
+   "dur": 44.685,
+   "gan": 6.14,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794092834140,
-   "titulo": "Chicago Fire FC vs. Columbus Crew",
-   "dur": 0.004,
-   "gan": 0.54,
-   "neta": 0.3,
+   "inicio": 1794093696809,
+   "titulo": "San Diego FC vs. Sporting Kansas City",
+   "dur": 29.481,
+   "gan": 6.03,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794092834045,
-   "titulo": "Chicago Fire FC vs. Columbus Crew",
-   "dur": 0.065,
-   "gan": 0.54,
-   "neta": 0.3,
-   "lado": "si"
+   "inicio": 1794093642754,
+   "titulo": "Cuiabá EC vs. EC Juventude",
+   "dur": 0.15,
+   "gan": 0.74,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
