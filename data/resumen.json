@@ -1,103 +1,103 @@
 {
- "actualizado": 1794141823220,
- "inicio": 1793742251691,
+ "actualizado": 1794144837112,
+ "inicio": 1793754292399,
  "ejecucion": {
-  "inicio": 1794138823081,
-  "fin": 1794141823220,
-  "mensajes": 10629391,
-  "reconexiones": 4,
-  "eventos": 662,
+  "inicio": 1794141836966,
+  "fin": 1794144837112,
+  "mensajes": 12289690,
+  "reconexiones": 2,
+  "eventos": 691,
   "errores": []
  },
- "total": 4110,
- "falsos": 1638,
+ "total": 4118,
+ "falsos": 1651,
  "largos": {
-  "episodios": 5897,
-  "eventos": 106,
+  "episodios": 5885,
+  "eventos": 107,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8392,
+  "episodios": 8393,
   "eventos": 23
  },
  "mediana": 0.571,
  "captura": [
   {
    "s": 0.5,
-   "n": 2154,
-   "gan": 8849.94,
-   "nNeta": 792,
-   "neta": 3052.09
+   "n": 2159,
+   "gan": 9025.7,
+   "nNeta": 797,
+   "neta": 3057.93
   },
   {
    "s": 2,
    "n": 1025,
-   "gan": 4562.46,
-   "nNeta": 335,
-   "neta": 1525.95
+   "gan": 4581.91,
+   "nNeta": 338,
+   "neta": 1540.89
   },
   {
    "s": 5,
-   "n": 541,
-   "gan": 2363.89,
-   "nNeta": 123,
-   "neta": 367.56
+   "n": 540,
+   "gan": 2378.17,
+   "nNeta": 126,
+   "neta": 382.5
   },
   {
    "s": 30,
-   "n": 170,
-   "gan": 363.26,
-   "nNeta": 27,
-   "neta": 53.5
+   "n": 169,
+   "gan": 357.01,
+   "nNeta": 28,
+   "neta": 54.2
   }
  ],
- "rentables": 1434,
+ "rentables": 1442,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 13,
-   "neta": 79.99,
-   "dias": 0.45,
-   "semana": 1238.35
+   "ops": 15,
+   "neta": 82.1,
+   "dias": 0.49,
+   "semana": 1179.98
   },
   {
    "capital": 1000,
-   "ops": 23,
-   "neta": 255.34,
-   "dias": 0.45,
-   "semana": 3952.84
+   "ops": 25,
+   "neta": 257.45,
+   "dias": 0.49,
+   "semana": 3700.06
   },
   {
    "capital": 2000,
-   "ops": 31,
-   "neta": 266.74,
-   "dias": 0.45,
-   "semana": 4129.35
+   "ops": 34,
+   "neta": 281.68,
+   "dias": 0.49,
+   "semana": 4048.33
   }
  ],
  "realista": {
   "reaccion": 0.5,
-  "conDato": 587,
-  "n": 247,
-  "gan": 1572.31,
-  "nNeta": 135,
-  "neta": 779.43
+  "conDato": 616,
+  "n": 256,
+  "gan": 1610.32,
+  "nNeta": 138,
+  "neta": 794.37
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 981
+   "n": 976
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1549
+   "n": 1557
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1035
+   "n": 1041
   },
   {
    "et": "5–30 s",
@@ -107,20 +107,20 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 121
+   "n": 119
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 49
+   "n": 50
   }
  ],
  "porEvento": [
   {
    "titulo": "Vitesse Arnhem vs. De Graafschap",
-   "n": 220,
-   "gan": 774.86,
-   "neta": 266.19,
+   "n": 224,
+   "gan": 781.01,
+   "neta": 271.05,
    "mediana": 2.599
   },
   {
@@ -188,10 +188,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793880000000,
-   "n": 3
-  },
   {
    "h": 1793883600000,
    "n": 35
@@ -474,129 +470,133 @@
   },
   {
    "h": 1794139200000,
-   "n": 95
+   "n": 107
+  },
+  {
+   "h": 1794142800000,
+   "n": 17
   }
  ],
  "recientes": [
   {
-   "inicio": 1794141785507,
-   "titulo": "SC Heerenveen vs. Feyenoord Rotterdam",
-   "dur": 1.001,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794141554836,
-   "titulo": "SC Heerenveen vs. Feyenoord Rotterdam",
-   "dur": 1.221,
+   "inicio": 1794143024149,
+   "titulo": "CE Europa vs. Atletico Madrid B",
+   "dur": 1812.82,
    "gan": 0.6,
+   "neta": 0.53,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794144810322,
+   "titulo": "FC St. Gallen 1879 vs. FC Lugano",
+   "dur": 0.034,
+   "gan": 0.55,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794144371995,
+   "titulo": "Java United FC vs. Persib Bandung",
+   "dur": 0.066,
+   "gan": 3.5,
+   "neta": 1.55,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794144310108,
+   "titulo": "A Team Test: New Zealand A vs India A",
+   "dur": 1.039,
+   "gan": 1.24,
+   "neta": 1.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794144003138,
+   "titulo": "SSC Napoli vs. SS Lazio",
+   "dur": 0.041,
+   "gan": 0.72,
+   "neta": 0.1,
    "lado": "no"
   },
   {
-   "inicio": 1794141553770,
-   "titulo": "SC Heerenveen vs. Feyenoord Rotterdam",
-   "dur": 1.018,
-   "gan": 0.52,
-   "neta": 0,
+   "inicio": 1794143779266,
+   "titulo": "SSC Napoli vs. SS Lazio",
+   "dur": 0.344,
+   "gan": 1,
+   "neta": 0.54,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794143778941,
+   "titulo": "SSC Napoli vs. SS Lazio",
+   "dur": 0.139,
+   "gan": 0.64,
+   "neta": 0.05,
    "lado": "no"
   },
   {
-   "inicio": 1794141455827,
-   "titulo": "SC Heerenveen vs. Feyenoord Rotterdam",
-   "dur": 0.548,
-   "gan": 1.93,
-   "neta": 1.22,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794141250944,
-   "titulo": "October Inflation China - Annual",
-   "dur": 2.266,
-   "gan": 0.64,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794141250914,
-   "titulo": "October Inflation China - Annual",
-   "dur": 0.014,
-   "gan": 0.64,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794141250877,
-   "titulo": "October Inflation China - Annual",
-   "dur": 0.014,
-   "gan": 0.64,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794141250843,
-   "titulo": "October Inflation China - Annual",
-   "dur": 0.015,
-   "gan": 0.64,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794141250804,
-   "titulo": "October Inflation China - Annual",
-   "dur": 0.016,
-   "gan": 0.6,
+   "inicio": 1794143631147,
+   "titulo": "Elche CF vs. Real Betis Balompié",
+   "dur": 0.308,
+   "gan": 0.57,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794141250762,
-   "titulo": "October Inflation China - Annual",
-   "dur": 0.016,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794141118932,
-   "titulo": "October Inflation China - Annual",
-   "dur": 131.458,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794141238706,
-   "titulo": "FK Tukums 2000/TSS vs. FK Auda Riga",
-   "dur": 0.472,
-   "gan": 0.83,
-   "neta": 0.23,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794141191278,
-   "titulo": "FK Haugesund vs. Odds BK",
-   "dur": 8.989,
-   "gan": 2,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794141160883,
-   "titulo": "SC Heerenveen vs. Feyenoord Rotterdam",
-   "dur": 0.622,
+   "inicio": 1794143312233,
+   "titulo": "SSC Napoli vs. SS Lazio",
+   "dur": 0.322,
    "gan": 1,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794141120785,
-   "titulo": "VfL Bochum vs. Karlsruher SC",
-   "dur": 0.028,
-   "gan": 0.5,
+   "inicio": 1794143305391,
+   "titulo": "SSC Napoli vs. SS Lazio",
+   "dur": 1.802,
+   "gan": 1.03,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794143302765,
+   "titulo": "SSC Napoli vs. SS Lazio",
+   "dur": 1.796,
+   "gan": 1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794143207747,
+   "titulo": "Vitesse Arnhem vs. De Graafschap",
+   "dur": 6.099,
+   "gan": 1.74,
+   "neta": 1.22,
    "lado": "no"
+  },
+  {
+   "inicio": 1794143206722,
+   "titulo": "Vitesse Arnhem vs. De Graafschap",
+   "dur": 1.024,
+   "gan": 0.63,
+   "neta": 0.39,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794143205721,
+   "titulo": "Vitesse Arnhem vs. De Graafschap",
+   "dur": 0.524,
+   "gan": 0.5,
+   "neta": 0.19,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794143133344,
+   "titulo": "SSC Napoli vs. SS Lazio",
+   "dur": 3.775,
+   "gan": 1.2,
+   "neta": 0,
+   "lado": "si"
   }
  ]
 }
