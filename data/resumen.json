@@ -1,103 +1,103 @@
 {
- "actualizado": 1794117722582,
+ "actualizado": 1794120733966,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794114722434,
-  "fin": 1794117722582,
-  "mensajes": 7645830,
-  "reconexiones": 4,
-  "eventos": 642,
+  "inicio": 1794117733833,
+  "fin": 1794120733966,
+  "mensajes": 8611236,
+  "reconexiones": 8,
+  "eventos": 661,
   "errores": []
  },
- "total": 4324,
- "falsos": 1652,
+ "total": 4336,
+ "falsos": 1664,
  "largos": {
-  "episodios": 5420,
+  "episodios": 5441,
   "eventos": 109,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8381,
+  "episodios": 8383,
   "eventos": 25
  },
- "mediana": 0.607,
+ "mediana": 0.608,
  "captura": [
   {
    "s": 0.5,
-   "n": 2315,
-   "gan": 8220.24,
-   "nNeta": 705,
-   "neta": 2400.86
+   "n": 2323,
+   "gan": 8227.85,
+   "nNeta": 713,
+   "neta": 2403.51
   },
   {
    "s": 2,
-   "n": 1084,
-   "gan": 3696.78,
-   "nNeta": 250,
-   "neta": 853.77
+   "n": 1086,
+   "gan": 3698.76,
+   "nNeta": 252,
+   "neta": 854.41
   },
   {
    "s": 5,
-   "n": 631,
-   "gan": 1989.45,
-   "nNeta": 92,
-   "neta": 148.69
+   "n": 632,
+   "gan": 1990.19,
+   "nNeta": 93,
+   "neta": 149.22
   },
   {
    "s": 30,
-   "n": 202,
-   "gan": 330.9,
-   "nNeta": 25,
-   "neta": 50.54
+   "n": 203,
+   "gan": 331.64,
+   "nNeta": 26,
+   "neta": 51.07
   }
  ],
- "rentables": 1320,
+ "rentables": 1329,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 5,
-   "neta": 6.69,
-   "dias": 0.17,
-   "semana": 270.53
+   "ops": 8,
+   "neta": 7.63,
+   "dias": 0.21,
+   "semana": 256.83
   },
   {
    "capital": 1000,
-   "ops": 7,
-   "neta": 17.61,
-   "dias": 0.17,
-   "semana": 711.61
+   "ops": 10,
+   "neta": 18.55,
+   "dias": 0.21,
+   "semana": 624.04
   },
   {
    "capital": 2000,
-   "ops": 7,
-   "neta": 17.61,
-   "dias": 0.17,
-   "semana": 711.61
+   "ops": 10,
+   "neta": 18.55,
+   "dias": 0.21,
+   "semana": 624.04
   }
  ],
  "realista": {
   "reaccion": 0.5,
-  "conDato": 168,
-  "n": 48,
-  "gan": 90.44,
-  "nNeta": 7,
-  "neta": 17.61
+  "conDato": 180,
+  "n": 51,
+  "gan": 93.42,
+  "nNeta": 10,
+  "neta": 18.55
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 977
+   "n": 980
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1660
+   "n": 1666
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1052
+   "n": 1054
   },
   {
    "et": "5–30 s",
@@ -107,7 +107,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 146
+   "n": 147
   },
   {
    "et": "> 5 min",
@@ -188,10 +188,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793854800000,
-   "n": 18
-  },
   {
    "h": 1793858400000,
    "n": 14
@@ -475,9 +471,109 @@
   {
    "h": 1794114000000,
    "n": 23
+  },
+  {
+   "h": 1794117600000,
+   "n": 12
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794120686634,
+   "titulo": "FC Seoul vs. Ulsan HD FC",
+   "dur": 47.202,
+   "gan": 0.74,
+   "neta": 0.53,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794120632382,
+   "titulo": "Vissel Kōbe vs. Urawa Red Diamonds",
+   "dur": 1.987,
+   "gan": 1.52,
+   "neta": 0.46,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794120622191,
+   "titulo": "Vissel Kōbe vs. Urawa Red Diamonds",
+   "dur": 0.517,
+   "gan": 1.11,
+   "neta": 0.15,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794120584249,
+   "titulo": "Vissel Kōbe vs. Urawa Red Diamonds",
+   "dur": 0.832,
+   "gan": 0.53,
+   "neta": 0.43,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794120376655,
+   "titulo": "FC Seoul vs. Ulsan HD FC",
+   "dur": 0.792,
+   "gan": 1,
+   "neta": 0.31,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794119863463,
+   "titulo": "FC Seoul vs. Ulsan HD FC",
+   "dur": 2.577,
+   "gan": 0.81,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794119862648,
+   "titulo": "FC Seoul vs. Ulsan HD FC",
+   "dur": 0.262,
+   "gan": 0.92,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794119543088,
+   "titulo": "FC Seoul vs. Ulsan HD FC",
+   "dur": 0.665,
+   "gan": 0.52,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794119423048,
+   "titulo": "Daejeon Hana Citizen FC vs. Incheon United FC",
+   "dur": 0.794,
+   "gan": 0.9,
+   "neta": 0.6,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794119422992,
+   "titulo": "Daejeon Hana Citizen FC vs. Incheon United FC",
+   "dur": 0.013,
+   "gan": 1.06,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794119000274,
+   "titulo": "Highest temperature in Beijing on November 8?",
+   "dur": 0.017,
+   "gan": 2.13,
+   "neta": 1.69,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794118391928,
+   "titulo": "Vissel Kōbe vs. Urawa Red Diamonds",
+   "dur": 0.058,
+   "gan": 0.69,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794117473005,
    "titulo": "Macarthur FC vs. Brisbane Roar FC",
@@ -501,102 +597,6 @@
    "gan": 0.67,
    "neta": 0.23,
    "lado": "si"
-  },
-  {
-   "inicio": 1794117462014,
-   "titulo": "Macarthur FC vs. Brisbane Roar FC",
-   "dur": 0.023,
-   "gan": 0.52,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794117461832,
-   "titulo": "Macarthur FC vs. Brisbane Roar FC",
-   "dur": 0.101,
-   "gan": 0.87,
-   "neta": 0.42,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794117461356,
-   "titulo": "Macarthur FC vs. Brisbane Roar FC",
-   "dur": 0.472,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794117455680,
-   "titulo": "Macarthur FC vs. Brisbane Roar FC",
-   "dur": 0.41,
-   "gan": 0.7,
-   "neta": 0.18,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794117365760,
-   "titulo": "Macarthur FC vs. Brisbane Roar FC",
-   "dur": 0.735,
-   "gan": 0.5,
-   "neta": 0.26,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794117364713,
-   "titulo": "Macarthur FC vs. Brisbane Roar FC",
-   "dur": 0.108,
-   "gan": 2.53,
-   "neta": 2.33,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794116754073,
-   "titulo": "Vissel Kōbe vs. Urawa Red Diamonds",
-   "dur": 0.124,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794116753798,
-   "titulo": "Vissel Kōbe vs. Urawa Red Diamonds",
-   "dur": 0.21,
-   "gan": 3.2,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794116753694,
-   "titulo": "Vissel Kōbe vs. Urawa Red Diamonds",
-   "dur": 0.094,
-   "gan": 3.38,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794116753640,
-   "titulo": "Vissel Kōbe vs. Urawa Red Diamonds",
-   "dur": 0.025,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794115540960,
-   "titulo": "Macarthur FC vs. Brisbane Roar FC",
-   "dur": 0.406,
-   "gan": 0.91,
-   "neta": 0.57,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794115540779,
-   "titulo": "Macarthur FC vs. Brisbane Roar FC",
-   "dur": 0.126,
-   "gan": 0.61,
-   "neta": 0.21,
-   "lado": "no"
   }
  ]
 }
