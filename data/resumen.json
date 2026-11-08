@@ -1,40 +1,40 @@
 {
- "actualizado": 1794171969907,
+ "actualizado": 1794174984829,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794168969728,
-  "fin": 1794171969907,
-  "mensajes": 8616857,
-  "reconexiones": 1,
-  "eventos": 623,
+  "inicio": 1794171984640,
+  "fin": 1794174984829,
+  "mensajes": 8764152,
+  "reconexiones": 2,
+  "eventos": 617,
   "errores": []
  },
- "total": 4865,
- "falsos": 1903,
+ "total": 4921,
+ "falsos": 1944,
  "largos": {
-  "episodios": 6627,
-  "eventos": 110,
+  "episodios": 6715,
+  "eventos": 111,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8401,
-  "eventos": 23
+  "episodios": 8572,
+  "eventos": 27
  },
- "mediana": 0.536,
+ "mediana": 0.534,
  "captura": [
   {
    "s": 0.5,
-   "n": 2495,
-   "gan": 10639.28,
-   "nNeta": 920,
-   "neta": 3543.2
+   "n": 2521,
+   "gan": 10751.67,
+   "nNeta": 925,
+   "neta": 3549.37
   },
   {
    "s": 2,
-   "n": 1134,
-   "gan": 5061.08,
-   "nNeta": 370,
-   "neta": 1672.34
+   "n": 1137,
+   "gan": 5068.73,
+   "nNeta": 371,
+   "neta": 1672.36
   },
   {
    "s": 5,
@@ -51,42 +51,42 @@
    "neta": 77.49
   }
  ],
- "rentables": 1699,
+ "rentables": 1721,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 25,
-   "neta": 30.44,
-   "dias": 0.8,
-   "semana": 266.02
+   "ops": 26,
+   "neta": 30.46,
+   "dias": 0.84,
+   "semana": 255.08
   },
   {
    "capital": 1000,
-   "ops": 36,
-   "neta": 100.31,
-   "dias": 0.8,
-   "semana": 876.52
+   "ops": 37,
+   "neta": 100.33,
+   "dias": 0.84,
+   "semana": 840.1
   },
   {
    "capital": 2000,
-   "ops": 53,
-   "neta": 115.93,
-   "dias": 0.8,
-   "semana": 1012.98
+   "ops": 54,
+   "neta": 115.95,
+   "dias": 0.84,
+   "semana": 970.87
   }
  ],
  "semanas": [
   {
    "lunes": "2026-11-02",
    "dias": 1,
-   "horas": 6.7,
-   "episodios": 1278,
-   "sospechosas": 22,
-   "realistaNeta": 707.12,
+   "horas": 7.5,
+   "episodios": 1334,
+   "sospechosas": 25,
+   "realistaNeta": 707.14,
    "capital": {
-    "500": 24.96,
-    "1000": 94.81,
-    "2000": 110.93
+    "500": 24.98,
+    "1000": 94.83,
+    "2000": 110.95
    },
    "cumple": true
   }
@@ -94,7 +94,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 91,
+  "n": 94,
   "top": [
    {
     "inicio": 1794062797308,
@@ -157,6 +157,16 @@
     "ret": 16
    },
    {
+    "inicio": 1794173497930,
+    "titulo": "ACF Fiorentina vs. Juventus FC",
+    "lado": "si",
+    "dur": 0.055,
+    "gan": 30.84,
+    "neta": 22.32,
+    "costo": 292.17,
+    "ret": 10.6
+   },
+   {
     "inicio": 1794147586859,
     "titulo": "Tromsø IL vs. FK Bodø/Glimt",
     "lado": "si",
@@ -185,42 +195,32 @@
     "neta": 12.13,
     "costo": 75.36,
     "ret": 19.4
-   },
-   {
-    "inicio": 1793911535571,
-    "titulo": "SK Puntigamer Sturm Graz vs. NK Celje - Halftime Result",
-    "lado": "si",
-    "dur": 0.055,
-    "gan": 14.45,
-    "neta": 13.45,
-    "costo": 30.55,
-    "ret": 47.3
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1395,
-  "n": 416,
-  "gan": 2118.4,
-  "nNeta": 188,
-  "neta": 713
+  "conDato": 1448,
+  "n": 423,
+  "gan": 2144.84,
+  "nNeta": 189,
+  "neta": 713.02
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1154
+   "n": 1172
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1917
+   "n": 1941
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1207
+   "n": 1221
   },
   {
    "et": "5–30 s",
@@ -597,128 +597,128 @@
   },
   {
    "h": 1794171600000,
-   "n": 1
+   "n": 57
   }
  ],
  "recientes": [
   {
-   "inicio": 1794171787930,
+   "inicio": 1794174768802,
+   "titulo": "Rio Ave FC vs. SC Braga",
+   "dur": 0.41,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794174342738,
+   "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
+   "dur": 0.054,
+   "gan": 1.08,
+   "neta": 0.18,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794174342659,
+   "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
+   "dur": 0.03,
+   "gan": 1.05,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794174341563,
+   "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
+   "dur": 1.074,
+   "gan": 0.54,
+   "neta": 0.04,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794174340848,
+   "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
+   "dur": 0.701,
+   "gan": 0.74,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794174338220,
+   "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
+   "dur": 1.191,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794174335192,
+   "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
+   "dur": 1.973,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794174237664,
    "titulo": "ACF Fiorentina vs. Juventus FC",
-   "dur": 0.695,
-   "gan": 2.35,
-   "neta": 0.81,
+   "dur": 0.453,
+   "gan": 2.92,
+   "neta": 2.55,
    "lado": "no"
   },
   {
-   "inicio": 1794171275002,
-   "titulo": "CD Unión La Calera vs. CD Huachipato",
-   "dur": 0.019,
-   "gan": 0.82,
-   "neta": 0,
+   "inicio": 1794174237595,
+   "titulo": "ACF Fiorentina vs. Juventus FC",
+   "dur": 0.004,
+   "gan": 0.53,
+   "neta": 0.34,
    "lado": "no"
   },
   {
-   "inicio": 1794170777634,
+   "inicio": 1794174156925,
+   "titulo": "ACF Fiorentina vs. Juventus FC",
+   "dur": 0.575,
+   "gan": 0.59,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794174119273,
    "titulo": "Club Atlético de Madrid vs. FC Barcelona",
-   "dur": 4.815,
-   "gan": 1.75,
+   "dur": 1.398,
+   "gan": 3.63,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794170773611,
-   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
-   "dur": 0.389,
-   "gan": 1.36,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794170750211,
-   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
-   "dur": 0.284,
-   "gan": 0.93,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794170541884,
-   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
-   "dur": 4.191,
+   "inicio": 1794174084477,
+   "titulo": "Jaguares de Córdoba FC vs. CA Bucaramanga",
+   "dur": 2.021,
    "gan": 0.75,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794170534027,
-   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
-   "dur": 4.618,
-   "gan": 0.78,
+   "inicio": 1794173981155,
+   "titulo": "CR Vasco da Gama vs. SE Palmeiras",
+   "dur": 1.786,
+   "gan": 8.98,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794170533416,
+   "inicio": 1794173601007,
+   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
+   "dur": 0.067,
+   "gan": 1.29,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794173600963,
    "titulo": "Club Atlético de Madrid vs. FC Barcelona",
    "dur": 0.031,
-   "gan": 0.78,
+   "gan": 0.66,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794170533043,
-   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
-   "dur": 0.198,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794170531879,
-   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
-   "dur": 1.163,
-   "gan": 0.8,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794170499906,
-   "titulo": "Olympiacos Piraeus vs. PAOK Thessaloniki",
-   "dur": 0.891,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794169757875,
-   "titulo": "FC Utrecht vs. NEC",
-   "dur": 0.193,
-   "gan": 0.73,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794169757597,
-   "titulo": "FC Utrecht vs. NEC",
-   "dur": 0.172,
-   "gan": 0.73,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794169757277,
-   "titulo": "FC Utrecht vs. NEC",
-   "dur": 0.188,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794169635443,
-   "titulo": "TSG 1899 Hoffenheim vs. FC Schalke 04",
-   "dur": 0.864,
-   "gan": 0.53,
-   "neta": 0.14,
    "lado": "si"
   }
  ]
