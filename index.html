@@ -66,7 +66,11 @@ function pintar(d) {
   const tablaCap = pc ? `<div class="carta"><h2>Con tu capital</h2><div class="nota">Simulación en el escenario realista, con el dinero bloqueado hasta que cada evento se resuelve. Datos de ${pc[0].dias < 1 ? (pc[0].dias * 24).toFixed(1) + ' horas' : pc[0].dias.toFixed(1) + ' días'}${pc[0].dias < 7 ? ' (con menos de 7 días, la proyección semanal es muy poco confiable)' : ''}.</div>
     <div class="cap cab"><span>Capital</span><span class="num">Operaciones</span><span class="num">Neto acumulado</span><span class="num">Por semana</span></div>
     ${pc.map(c => `<div class="cap"><span>$${ent(c.capital)}</span><span class="num">${c.ops}</span><span class="num neta">$${$(c.neta)}</span><span class="num">$${$(c.semana)} <span class="tenue">(${(c.semana / c.capital * 100).toFixed(1)}%)</span></span></div>`).join('')}
-    <div class="nota" style="margin-top:8px;margin-bottom:0">No incluye el costo del servidor (~$5–20 al mes), la conversión a dólares digitales (1–3%) ni el riesgo de que alguna pata no se compre.</div></div>` : '';
+    <div class="nota" style="margin-top:8px;margin-bottom:0">${d.sospechosas && d.sospechosas.n ? `Excluye ${d.sospechosas.n} operaciones sospechosas (ver abajo). ` : ''}No incluye el costo del servidor (~$5–20 al mes), la conversión a dólares digitales (1–3%) ni el riesgo de que alguna pata no se compre.</div></div>` : '';
+  const so = d.sospechosas;
+  const tablaSosp = so && so.n ? `<div class="carta"><h2>Operaciones sospechosas</h2><div class="nota">Arbitrajes que rendían más de ${Math.round(so.umbral * 100)}% de una sola vez. Suelen ser órdenes equivocadas en mercados con poca liquidez o mercados mal armados, así que no se cuentan en las simulaciones. Total: ${so.n}.</div>
+    <div class="rec cab"><span>Fecha y hora</span><span>Evento</span><span class="num">Retorno</span><span class="num">Bruta / <span class="neta">neta</span></span></div>
+    ${so.top.map(e => `<div class="rec"><span class="tenue">${hora(e.inicio)}</span><span class="nom" title="${esc(e.titulo)}">${esc(e.titulo)}</span><span class="num">${e.ret}%</span><span class="num">$${$(e.gan)}<br><span class="neta">$${$(e.neta)}</span></span></div>`).join('')}</div>` : '';
   const errores = d.ejecucion && d.ejecucion.errores && d.ejecucion.errores.length ? `<div class="error">Última ejecución con problemas: ${esc(d.ejecucion.errores.at(-1))}</div>` : '';
   app.innerHTML = `
     <div class="top"><div><h1>Vigilante de arbitrajes</h1><div class="sub">Polymarket · modo simulado, sin dinero · datos desde ${hora(d.inicio)}</div></div>
@@ -82,6 +86,7 @@ function pintar(d) {
     </div>
     <div class="carta"><h2>¿Los habría capturado?</h2><div class="nota">Porcentaje de episodios que seguían vivos después del tiempo de reacción del bot, y ganancia simulada.</div>${g1}<div class="leyenda"><span>$ bruta (sin comisiones)</span><span class="neta">→ $ neta (pagando comisiones)</span></div>${real}</div>
     ${tablaCap}
+    ${tablaSosp}
     <div class="carta"><h2>¿Cuánto duran?</h2><div class="nota">Episodios según su duración. En gris, los de menos de 1 segundo (solo para bots profesionales).</div>${g2}</div>
     <div class="carta"><h2>Actividad por hora</h2><div class="nota">Episodios detectados en cada hora (hora de Lima).</div>${g3}</div>
     <div class="carta"><h2>Dónde aparecen</h2><div class="nota">Eventos con más episodios.</div>

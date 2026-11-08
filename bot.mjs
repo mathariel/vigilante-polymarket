@@ -215,8 +215,13 @@ const esperaResolucion = (e) => { const m = margenCierre(e); return m !== null &
 // (fecha de cierre, o la compra si ya pasó, más 3 horas); mientras tanto no se puede reusar.
 // Si el arbitraje cuesta más que el dinero libre, se toma solo la parte que alcanza.
 const CAPITALES = [500, 1000, 2000];
+// Un arbitraje que rinde más de 10% de una sola vez es anormal: suele ser una orden equivocada
+// en un mercado con poca liquidez o un mercado mal armado. Se excluye de las simulaciones
+// y se muestra aparte para revisarlo.
+const UMBRAL_SOSPECHA = 0.10;
+const esSospechoso = (e) => e.costoInicio > 0 && e.ganInicio / e.costoInicio > UMBRAL_SOSPECHA;
 function simularCapitales(cerrados) {
-  const conDato = cerrados.filter(e => e.espera !== undefined).sort((a, b) => a.inicio - b.inicio);
+  const conDato = cerrados.filter(e => e.espera !== undefined && !esSospechoso(e)).sort((a, b) => a.inicio - b.inicio);
   if (!conDato.length) return null;
   const dias = Math.max((Date.now() - conDato[0].inicio) / 864e5, 1 / 24);
   return CAPITALES.map(cap => {
@@ -262,9 +267,18 @@ function resumen(final) {
     }),
     rentables: cerrados.filter(e => (e.netaInicio || 0) > 0).length,
     porCapital: simularCapitales(cerrados),
+    sospechosas: (() => {
+      const lista = cerrados.filter(esSospechoso);
+      return {
+        umbral: UMBRAL_SOSPECHA, n: lista.length,
+        top: lista.sort((a, b) => b.ganInicio - a.ganInicio).slice(0, 10).map(e => ({
+          inicio: e.inicio, titulo: e.titulo, lado: e.lado, dur: e.dur, gan: e.ganInicio, neta: e.netaInicio || 0,
+          costo: e.costoInicio, ret: +(e.ganInicio / e.costoInicio * 100).toFixed(1) }))
+      };
+    })(),
     // Escenario realista: un bot rápido (0.5 s) más la espera de Polymarket en ese mercado
     realista: (() => {
-      const conDato = cerrados.filter(e => e.espera !== undefined);
+      const conDato = cerrados.filter(e => e.espera !== undefined && !esSospechoso(e));
       const cap = conDato.map(e => capturaA(e, REACCION_RAPIDA + e.espera)).filter(x => x !== null);
       const netas = cap.filter(x => x.neta > 0);
       return { reaccion: REACCION_RAPIDA, conDato: conDato.length, n: cap.length, gan: +cap.reduce((a, b) => a + b.bruta, 0).toFixed(2), nNeta: netas.length, neta: +netas.reduce((a, b) => a + b.neta, 0).toFixed(2) };
