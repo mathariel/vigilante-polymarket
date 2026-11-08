@@ -1,47 +1,47 @@
 {
- "actualizado": 1794126758499,
+ "actualizado": 1794129771582,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794123758352,
-  "fin": 1794126758499,
-  "mensajes": 9804448,
-  "reconexiones": 10,
-  "eventos": 652,
+  "inicio": 1794126771462,
+  "fin": 1794129771582,
+  "mensajes": 9662470,
+  "reconexiones": 5,
+  "eventos": 647,
   "errores": []
  },
- "total": 4369,
- "falsos": 1685,
+ "total": 4398,
+ "falsos": 1699,
  "largos": {
-  "episodios": 5514,
+  "episodios": 5523,
   "eventos": 111,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8387,
+  "episodios": 8389,
   "eventos": 25
  },
  "mediana": 0.607,
  "captura": [
   {
    "s": 0.5,
-   "n": 2338,
-   "gan": 8250.28,
-   "nNeta": 717,
-   "neta": 2411.88
+   "n": 2354,
+   "gan": 8275.83,
+   "nNeta": 721,
+   "neta": 2417.84
   },
   {
    "s": 2,
-   "n": 1097,
-   "gan": 3716.55,
-   "nNeta": 254,
-   "neta": 861.29
+   "n": 1102,
+   "gan": 3734.25,
+   "nNeta": 256,
+   "neta": 865.77
   },
   {
    "s": 5,
-   "n": 640,
-   "gan": 1995.25,
-   "nNeta": 93,
-   "neta": 149.22
+   "n": 643,
+   "gan": 2010.59,
+   "nNeta": 95,
+   "neta": 153.45
   },
   {
    "s": 30,
@@ -51,58 +51,58 @@
    "neta": 51.07
   }
  ],
- "rentables": 1339,
+ "rentables": 1353,
  "porCapital": [
   {
    "capital": 500,
    "ops": 10,
    "neta": 9.71,
-   "dias": 0.28,
-   "semana": 244.68
+   "dias": 0.31,
+   "semana": 217.39
   },
   {
    "capital": 1000,
-   "ops": 12,
-   "neta": 25.16,
-   "dias": 0.28,
-   "semana": 633.96
+   "ops": 16,
+   "neta": 27.95,
+   "dias": 0.31,
+   "semana": 625.68
   },
   {
    "capital": 2000,
-   "ops": 12,
-   "neta": 25.16,
-   "dias": 0.28,
-   "semana": 633.96
+   "ops": 18,
+   "neta": 34.15,
+   "dias": 0.31,
+   "semana": 764.51
   }
  ],
  "realista": {
   "reaccion": 0.5,
-  "conDato": 213,
-  "n": 63,
-  "gan": 112.2,
-  "nNeta": 12,
-  "neta": 25.16
+  "conDato": 253,
+  "n": 77,
+  "gan": 142.12,
+  "nNeta": 18,
+  "neta": 34.15
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 993
+   "n": 1000
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1673
+   "n": 1681
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1059
+   "n": 1070
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 433
+   "n": 436
   },
   {
    "et": "30 s–5 min",
@@ -188,10 +188,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793865600000,
-   "n": 7
-  },
   {
    "h": 1793869200000,
    "n": 3
@@ -474,127 +470,131 @@
   },
   {
    "h": 1794124800000,
-   "n": 12
+   "n": 35
+  },
+  {
+   "h": 1794128400000,
+   "n": 17
   }
  ],
  "recientes": [
   {
-   "inicio": 1794125504687,
-   "titulo": "Dalian Yingbo FC vs. Tianjin Jinmen Hu FC",
-   "dur": 965.516,
-   "gan": 0.56,
-   "neta": 0,
+   "inicio": 1794129549004,
+   "titulo": "Gangwon FC vs. Jeonbuk Hyundai Motors FC",
+   "dur": 0.307,
+   "gan": 0.63,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794129120548,
+   "titulo": "Bucheon FC 1995 vs. Pohang Steelers FC",
+   "dur": 1.514,
+   "gan": 1.98,
+   "neta": 1.68,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794129045288,
+   "titulo": "Beijing Guoan FC vs. Chongqing Tonglianglong FC",
+   "dur": 0.347,
+   "gan": 3.8,
+   "neta": 3.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794128959323,
+   "titulo": "Shandong Taishan FC vs. Chengdu Rongcheng FC",
+   "dur": 1.19,
+   "gan": 1.28,
+   "neta": 0.04,
    "lado": "no"
   },
   {
-   "inicio": 1794126139334,
-   "titulo": "Shandong Taishan FC vs. Chengdu Rongcheng FC",
-   "dur": 1.026,
-   "gan": 0.75,
+   "inicio": 1794128839179,
+   "titulo": "Qingdao Hainiu FC vs. Shenzhen Xinpengcheng FC",
+   "dur": 2.471,
+   "gan": 0.53,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794125829481,
-   "titulo": "CZ # posts November 6 - November 13, 2026?",
-   "dur": 26.782,
-   "gan": 0.64,
+   "inicio": 1794128837163,
+   "titulo": "Qingdao Hainiu FC vs. Shenzhen Xinpengcheng FC",
+   "dur": 1.503,
+   "gan": 1.22,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794125788084,
-   "titulo": "CZ # posts November 6 - November 13, 2026?",
-   "dur": 0.061,
-   "gan": 0.64,
+   "inicio": 1794128836983,
+   "titulo": "Qingdao Hainiu FC vs. Shenzhen Xinpengcheng FC",
+   "dur": 0.064,
+   "gan": 0.95,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794125749464,
-   "titulo": "CZ # posts November 6 - November 13, 2026?",
-   "dur": 7.509,
-   "gan": 0.64,
+   "inicio": 1794128823632,
+   "titulo": "Qingdao Hainiu FC vs. Shenzhen Xinpengcheng FC",
+   "dur": 0.488,
+   "gan": 0.76,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794125713689,
-   "titulo": "CZ # posts November 6 - November 13, 2026?",
-   "dur": 0.075,
-   "gan": 0.64,
+   "inicio": 1794128822580,
+   "titulo": "Qingdao Hainiu FC vs. Shenzhen Xinpengcheng FC",
+   "dur": 0.441,
+   "gan": 0.65,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794125682567,
-   "titulo": "CZ # posts November 6 - November 13, 2026?",
-   "dur": 0.069,
-   "gan": 0.64,
+   "inicio": 1794128818085,
+   "titulo": "Qingdao Hainiu FC vs. Shenzhen Xinpengcheng FC",
+   "dur": 0.089,
+   "gan": 4.87,
+   "neta": 2.3,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794128816420,
+   "titulo": "Qingdao Hainiu FC vs. Shenzhen Xinpengcheng FC",
+   "dur": 0.217,
+   "gan": 0.83,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794125644448,
-   "titulo": "CZ # posts November 6 - November 13, 2026?",
-   "dur": 6.957,
-   "gan": 0.64,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794125593531,
-   "titulo": "CZ # posts November 6 - November 13, 2026?",
-   "dur": 16.341,
-   "gan": 0.64,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794125462384,
-   "titulo": "CZ # posts November 6 - November 13, 2026?",
-   "dur": 110.026,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794125387671,
-   "titulo": "CZ # posts November 6 - November 13, 2026?",
-   "dur": 74.653,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794124960177,
-   "titulo": "CZ # posts November 6 - November 13, 2026?",
-   "dur": 426.288,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794123673816,
-   "titulo": "Gamba Ōsaka vs. Cerezo Ōsaka",
-   "dur": 0.002,
-   "gan": 0.52,
-   "neta": 0.19,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794123589935,
-   "titulo": "Adelaide United FC vs. Melbourne Victory FC",
-   "dur": 2.801,
-   "gan": 2.12,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794123492882,
+   "inicio": 1794128579811,
    "titulo": "Shandong Taishan FC vs. Chengdu Rongcheng FC",
-   "dur": 1.804,
-   "gan": 1.25,
+   "dur": 0.472,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794128562638,
+   "titulo": "Shandong Taishan FC vs. Chengdu Rongcheng FC",
+   "dur": 0.839,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794128562492,
+   "titulo": "Shandong Taishan FC vs. Chengdu Rongcheng FC",
+   "dur": 0.027,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794128561516,
+   "titulo": "Shandong Taishan FC vs. Chengdu Rongcheng FC",
+   "dur": 0.907,
+   "gan": 0.7,
    "neta": 0,
    "lado": "no"
   }
