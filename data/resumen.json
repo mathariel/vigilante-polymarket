@@ -1,18 +1,18 @@
 {
- "actualizado": 1794144837112,
- "inicio": 1793754292399,
+ "actualizado": 1794147851146,
+ "inicio": 1793757390347,
  "ejecucion": {
-  "inicio": 1794141836966,
-  "fin": 1794144837112,
-  "mensajes": 12289690,
-  "reconexiones": 2,
-  "eventos": 691,
+  "inicio": 1794144851016,
+  "fin": 1794147851146,
+  "mensajes": 12412802,
+  "reconexiones": 4,
+  "eventos": 709,
   "errores": []
  },
- "total": 4118,
- "falsos": 1651,
+ "total": 4121,
+ "falsos": 1662,
  "largos": {
-  "episodios": 5885,
+  "episodios": 5881,
   "eventos": 107,
   "dias": 7
  },
@@ -20,99 +20,99 @@
   "episodios": 8393,
   "eventos": 23
  },
- "mediana": 0.571,
+ "mediana": 0.57,
  "captura": [
   {
    "s": 0.5,
    "n": 2159,
-   "gan": 9025.7,
-   "nNeta": 797,
-   "neta": 3057.93
+   "gan": 9483.68,
+   "nNeta": 787,
+   "neta": 3204.49
   },
   {
    "s": 2,
-   "n": 1025,
-   "gan": 4581.91,
-   "nNeta": 338,
-   "neta": 1540.89
+   "n": 1023,
+   "gan": 4608.48,
+   "nNeta": 336,
+   "neta": 1559.86
   },
   {
    "s": 5,
-   "n": 540,
-   "gan": 2378.17,
+   "n": 538,
+   "gan": 2389.58,
    "nNeta": 126,
-   "neta": 382.5
+   "neta": 391.19
   },
   {
    "s": 30,
-   "n": 169,
-   "gan": 357.01,
-   "nNeta": 28,
-   "neta": 54.2
+   "n": 170,
+   "gan": 363.66,
+   "nNeta": 30,
+   "neta": 62.7
   }
  ],
- "rentables": 1442,
+ "rentables": 1421,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 15,
-   "neta": 82.1,
-   "dias": 0.49,
-   "semana": 1179.98
+   "ops": 18,
+   "neta": 89.07,
+   "dias": 0.52,
+   "semana": 1194.55
   },
   {
    "capital": 1000,
-   "ops": 25,
-   "neta": 257.45,
-   "dias": 0.49,
-   "semana": 3700.06
+   "ops": 28,
+   "neta": 264.88,
+   "dias": 0.52,
+   "semana": 3552.52
   },
   {
    "capital": 2000,
-   "ops": 34,
-   "neta": 281.68,
-   "dias": 0.49,
-   "semana": 4048.33
+   "ops": 37,
+   "neta": 289.99,
+   "dias": 0.52,
+   "semana": 3889.17
   }
  ],
  "realista": {
   "reaccion": 0.5,
-  "conDato": 616,
-  "n": 256,
-  "gan": 1610.32,
-  "nNeta": 138,
-  "neta": 794.37
+  "conDato": 679,
+  "n": 273,
+  "gan": 1966.99,
+  "nNeta": 146,
+  "neta": 949.55
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 976
+   "n": 975
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1557
+   "n": 1561
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1041
+   "n": 1043
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 371
+   "n": 368
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 119
+   "n": 118
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 50
+   "n": 52
   }
  ],
  "porEvento": [
@@ -166,18 +166,18 @@
    "mediana": 0.418
   },
   {
-   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
-   "n": 64,
-   "gan": 50.6,
-   "neta": 0.61,
-   "mediana": 1.719
-  },
-  {
    "titulo": "Fulham FC vs. Newcastle United FC",
    "n": 64,
    "gan": 138.56,
    "neta": 10.6,
    "mediana": 0.243
+  },
+  {
+   "titulo": "Elon Musk # tweets November 5 - November 7, 2026?",
+   "n": 62,
+   "gan": 48.83,
+   "neta": 0.61,
+   "mediana": 1.719
   },
   {
    "titulo": "Club Independiente Petrolero vs. CD Real Tomayapo",
@@ -188,10 +188,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793883600000,
-   "n": 35
-  },
   {
    "h": 1793887200000,
    "n": 8
@@ -474,127 +470,131 @@
   },
   {
    "h": 1794142800000,
-   "n": 17
+   "n": 24
+  },
+  {
+   "h": 1794146400000,
+   "n": 56
   }
  ],
  "recientes": [
   {
-   "inicio": 1794143024149,
-   "titulo": "CE Europa vs. Atletico Madrid B",
-   "dur": 1812.82,
-   "gan": 0.6,
-   "neta": 0.53,
+   "inicio": 1794146843641,
+   "titulo": "Nyiregyhaza Spartacus FC vs. WKW ETO FC Gyor",
+   "dur": 1007.378,
+   "gan": 1.62,
+   "neta": 1.26,
    "lado": "si"
   },
   {
-   "inicio": 1794144810322,
-   "titulo": "FC St. Gallen 1879 vs. FC Lugano",
-   "dur": 0.034,
-   "gan": 0.55,
+   "inicio": 1794146292121,
+   "titulo": "Ratchaburi FC vs. Buriram United",
+   "dur": 1558.898,
+   "gan": 0.82,
+   "neta": 0.76,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794145935519,
+   "titulo": "Java United FC vs. Persib Bandung",
+   "dur": 1915.5,
+   "gan": 1.28,
+   "neta": 0.92,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794147825905,
+   "titulo": "Brighton & Hove Albion FC vs. Brentford FC",
+   "dur": 0.016,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794147800634,
+   "titulo": "Sunderland AFC vs. Chelsea FC",
+   "dur": 0.024,
+   "gan": 1.3,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794144371995,
-   "titulo": "Java United FC vs. Persib Bandung",
-   "dur": 0.066,
-   "gan": 3.5,
-   "neta": 1.55,
+   "inicio": 1794147800498,
+   "titulo": "Sunderland AFC vs. Chelsea FC",
+   "dur": 0.126,
+   "gan": 0.65,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794144310108,
-   "titulo": "A Team Test: New Zealand A vs India A",
-   "dur": 1.039,
-   "gan": 1.24,
-   "neta": 1.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794144003138,
-   "titulo": "SSC Napoli vs. SS Lazio",
-   "dur": 0.041,
-   "gan": 0.72,
-   "neta": 0.1,
+   "inicio": 1794147791653,
+   "titulo": "Brighton & Hove Albion FC vs. Brentford FC",
+   "dur": 0.19,
+   "gan": 0.6,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794143779266,
-   "titulo": "SSC Napoli vs. SS Lazio",
-   "dur": 0.344,
-   "gan": 1,
-   "neta": 0.54,
-   "lado": "si"
+   "inicio": 1794147789441,
+   "titulo": "Brighton & Hove Albion FC vs. Brentford FC",
+   "dur": 0.455,
+   "gan": 0.82,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1794143778941,
-   "titulo": "SSC Napoli vs. SS Lazio",
-   "dur": 0.139,
-   "gan": 0.64,
+   "inicio": 1794147781441,
+   "titulo": "Brighton & Hove Albion FC vs. Brentford FC",
+   "dur": 1.987,
+   "gan": 0.68,
+   "neta": 0.02,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794147781267,
+   "titulo": "Brighton & Hove Albion FC vs. Brentford FC",
+   "dur": 0.019,
+   "gan": 0.53,
+   "neta": 0.01,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794147781174,
+   "titulo": "Brighton & Hove Albion FC vs. Brentford FC",
+   "dur": 0.066,
+   "gan": 0.68,
+   "neta": 0.02,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794147780407,
+   "titulo": "Brighton & Hove Albion FC vs. Brentford FC",
+   "dur": 0.736,
+   "gan": 1.65,
    "neta": 0.05,
    "lado": "no"
   },
   {
-   "inicio": 1794143631147,
+   "inicio": 1794147740079,
    "titulo": "Elche CF vs. Real Betis Balompié",
-   "dur": 0.308,
-   "gan": 0.57,
+   "dur": 0.028,
+   "gan": 0.69,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794143312233,
-   "titulo": "SSC Napoli vs. SS Lazio",
-   "dur": 0.322,
-   "gan": 1,
+   "inicio": 1794147739592,
+   "titulo": "Elche CF vs. Real Betis Balompié",
+   "dur": 0.411,
+   "gan": 0.54,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794143305391,
-   "titulo": "SSC Napoli vs. SS Lazio",
-   "dur": 1.802,
-   "gan": 1.03,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794143302765,
-   "titulo": "SSC Napoli vs. SS Lazio",
-   "dur": 1.796,
-   "gan": 1,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794143207747,
-   "titulo": "Vitesse Arnhem vs. De Graafschap",
-   "dur": 6.099,
-   "gan": 1.74,
-   "neta": 1.22,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794143206722,
-   "titulo": "Vitesse Arnhem vs. De Graafschap",
-   "dur": 1.024,
-   "gan": 0.63,
-   "neta": 0.39,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794143205721,
-   "titulo": "Vitesse Arnhem vs. De Graafschap",
-   "dur": 0.524,
-   "gan": 0.5,
-   "neta": 0.19,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794143133344,
-   "titulo": "SSC Napoli vs. SS Lazio",
-   "dur": 3.775,
-   "gan": 1.2,
+   "inicio": 1794147725581,
+   "titulo": "PFC Levski Sofia vs. PFC CSKA Sofia",
+   "dur": 4.954,
+   "gan": 2,
    "neta": 0,
    "lado": "si"
   }
