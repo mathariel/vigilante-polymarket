@@ -1,18 +1,18 @@
 {
- "actualizado": 1794168950367,
+ "actualizado": 1794171969907,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794165950193,
-  "fin": 1794168950367,
-  "mensajes": 9627714,
-  "reconexiones": 6,
-  "eventos": 625,
+  "inicio": 1794168969728,
+  "fin": 1794171969907,
+  "mensajes": 8616857,
+  "reconexiones": 1,
+  "eventos": 623,
   "errores": []
  },
- "total": 4814,
- "falsos": 1884,
+ "total": 4865,
+ "falsos": 1903,
  "largos": {
-  "episodios": 6432,
+  "episodios": 6627,
   "eventos": 110,
   "dias": 7
  },
@@ -24,24 +24,24 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2471,
-   "gan": 10614.56,
-   "nNeta": 910,
-   "neta": 3540.05
+   "n": 2495,
+   "gan": 10639.28,
+   "nNeta": 920,
+   "neta": 3543.2
   },
   {
    "s": 2,
-   "n": 1125,
-   "gan": 5053.79,
-   "nNeta": 367,
-   "neta": 1671.63
+   "n": 1134,
+   "gan": 5061.08,
+   "nNeta": 370,
+   "neta": 1672.34
   },
   {
    "s": 5,
-   "n": 578,
-   "gan": 2551.01,
-   "nNeta": 135,
-   "neta": 414.44
+   "n": 582,
+   "gan": 2553.78,
+   "nNeta": 137,
+   "neta": 415.07
   },
   {
    "s": 30,
@@ -51,42 +51,42 @@
    "neta": 77.49
   }
  ],
- "rentables": 1674,
+ "rentables": 1699,
  "porCapital": [
   {
    "capital": 500,
    "ops": 25,
    "neta": 30.44,
-   "dias": 0.77,
-   "semana": 278.15
+   "dias": 0.8,
+   "semana": 266.02
   },
   {
    "capital": 1000,
    "ops": 36,
    "neta": 100.31,
-   "dias": 0.77,
-   "semana": 916.5
+   "dias": 0.8,
+   "semana": 876.52
   },
   {
    "capital": 2000,
-   "ops": 49,
-   "neta": 115.47,
-   "dias": 0.77,
-   "semana": 1055
+   "ops": 53,
+   "neta": 115.93,
+   "dias": 0.8,
+   "semana": 1012.98
   }
  ],
  "semanas": [
   {
    "lunes": "2026-11-02",
    "dias": 1,
-   "horas": 5.8,
-   "episodios": 1227,
-   "sospechosas": 21,
-   "realistaNeta": 706.11,
+   "horas": 6.7,
+   "episodios": 1278,
+   "sospechosas": 22,
+   "realistaNeta": 707.12,
    "capital": {
     "500": 24.96,
     "1000": 94.81,
-    "2000": 110.47
+    "2000": 110.93
    },
    "cumple": true
   }
@@ -94,7 +94,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 90,
+  "n": 91,
   "top": [
    {
     "inicio": 1794062797308,
@@ -200,32 +200,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1345,
-  "n": 405,
-  "gan": 2109.83,
-  "nNeta": 183,
-  "neta": 711.99
+  "conDato": 1395,
+  "n": 416,
+  "gan": 2118.4,
+  "nNeta": 188,
+  "neta": 713
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1140
+   "n": 1154
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1896
+   "n": 1917
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1195
+   "n": 1207
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 406
+   "n": 410
   },
   {
    "et": "30 s–5 min",
@@ -311,10 +311,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793908800000,
-   "n": 99
-  },
   {
    "h": 1793912400000,
    "n": 208
@@ -597,129 +593,133 @@
   },
   {
    "h": 1794168000000,
-   "n": 44
+   "n": 94
+  },
+  {
+   "h": 1794171600000,
+   "n": 1
   }
  ],
  "recientes": [
   {
-   "inicio": 1794168876323,
+   "inicio": 1794171787930,
+   "titulo": "ACF Fiorentina vs. Juventus FC",
+   "dur": 0.695,
+   "gan": 2.35,
+   "neta": 0.81,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794171275002,
+   "titulo": "CD Unión La Calera vs. CD Huachipato",
+   "dur": 0.019,
+   "gan": 0.82,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794170777634,
+   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
+   "dur": 4.815,
+   "gan": 1.75,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794170773611,
+   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
+   "dur": 0.389,
+   "gan": 1.36,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794170750211,
+   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
+   "dur": 0.284,
+   "gan": 0.93,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794170541884,
+   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
+   "dur": 4.191,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794170534027,
+   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
+   "dur": 4.618,
+   "gan": 0.78,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794170533416,
+   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
+   "dur": 0.031,
+   "gan": 0.78,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794170533043,
+   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
+   "dur": 0.198,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794170531879,
+   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
+   "dur": 1.163,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794170499906,
+   "titulo": "Olympiacos Piraeus vs. PAOK Thessaloniki",
+   "dur": 0.891,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794169757875,
+   "titulo": "FC Utrecht vs. NEC",
+   "dur": 0.193,
+   "gan": 0.73,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794169757597,
+   "titulo": "FC Utrecht vs. NEC",
+   "dur": 0.172,
+   "gan": 0.73,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794169757277,
+   "titulo": "FC Utrecht vs. NEC",
+   "dur": 0.188,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794169635443,
    "titulo": "TSG 1899 Hoffenheim vs. FC Schalke 04",
-   "dur": 0.345,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794168839819,
-   "titulo": "ACF Fiorentina vs. Juventus FC",
-   "dur": 1.633,
-   "gan": 0.84,
-   "neta": 0,
+   "dur": 0.864,
+   "gan": 0.53,
+   "neta": 0.14,
    "lado": "si"
-  },
-  {
-   "inicio": 1794168837382,
-   "titulo": "ACF Fiorentina vs. Juventus FC",
-   "dur": 1.848,
-   "gan": 0.84,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794168746147,
-   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
-   "dur": 2.781,
-   "gan": 6.85,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794168695415,
-   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
-   "dur": 1.786,
-   "gan": 2.41,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794168694738,
-   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
-   "dur": 0.287,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794168694682,
-   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
-   "dur": 0.023,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794168694635,
-   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
-   "dur": 0.002,
-   "gan": 2.34,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794168694617,
-   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
-   "dur": 0.006,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794168694547,
-   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
-   "dur": 0.002,
-   "gan": 2.09,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794168694506,
-   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
-   "dur": 0.01,
-   "gan": 2.09,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794168693800,
-   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
-   "dur": 0.696,
-   "gan": 2.43,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794168692126,
-   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
-   "dur": 0.598,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794168647738,
-   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
-   "dur": 5.029,
-   "gan": 0.88,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794168632355,
-   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
-   "dur": 0.758,
-   "gan": 1.21,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
