@@ -1,47 +1,47 @@
 {
- "actualizado": 1794174984829,
+ "actualizado": 1794177997540,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794171984640,
-  "fin": 1794174984829,
-  "mensajes": 8764152,
-  "reconexiones": 2,
-  "eventos": 617,
+  "inicio": 1794174997361,
+  "fin": 1794177997540,
+  "mensajes": 8460665,
+  "reconexiones": 0,
+  "eventos": 585,
   "errores": []
  },
- "total": 4921,
- "falsos": 1944,
+ "total": 4962,
+ "falsos": 1951,
  "largos": {
-  "episodios": 6715,
+  "episodios": 6858,
   "eventos": 111,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8572,
+  "episodios": 8666,
   "eventos": 27
  },
- "mediana": 0.534,
+ "mediana": 0.53,
  "captura": [
   {
    "s": 0.5,
-   "n": 2521,
-   "gan": 10751.67,
-   "nNeta": 925,
-   "neta": 3549.37
+   "n": 2535,
+   "gan": 10793.58,
+   "nNeta": 935,
+   "neta": 3567.69
   },
   {
    "s": 2,
-   "n": 1137,
-   "gan": 5068.73,
-   "nNeta": 371,
-   "neta": 1672.36
+   "n": 1141,
+   "gan": 5093.64,
+   "nNeta": 374,
+   "neta": 1686.84
   },
   {
    "s": 5,
-   "n": 582,
-   "gan": 2553.78,
-   "nNeta": 137,
-   "neta": 415.07
+   "n": 583,
+   "gan": 2556.18,
+   "nNeta": 138,
+   "neta": 416.26
   },
   {
    "s": 30,
@@ -51,42 +51,42 @@
    "neta": 77.49
   }
  ],
- "rentables": 1721,
+ "rentables": 1744,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 26,
-   "neta": 30.46,
-   "dias": 0.84,
-   "semana": 255.08
+   "ops": 27,
+   "neta": 37.76,
+   "dias": 0.87,
+   "semana": 303.53
   },
   {
    "capital": 1000,
-   "ops": 37,
-   "neta": 100.33,
-   "dias": 0.84,
-   "semana": 840.1
+   "ops": 41,
+   "neta": 113.93,
+   "dias": 0.87,
+   "semana": 915.76
   },
   {
    "capital": 2000,
-   "ops": 54,
-   "neta": 115.95,
-   "dias": 0.84,
-   "semana": 970.87
+   "ops": 58,
+   "neta": 129.8,
+   "dias": 0.87,
+   "semana": 1043.33
   }
  ],
  "semanas": [
   {
    "lunes": "2026-11-02",
    "dias": 1,
-   "horas": 7.5,
-   "episodios": 1334,
-   "sospechosas": 25,
-   "realistaNeta": 707.14,
+   "horas": 8.3,
+   "episodios": 1375,
+   "sospechosas": 26,
+   "realistaNeta": 723.1,
    "capital": {
-    "500": 24.98,
-    "1000": 94.83,
-    "2000": 110.95
+    "500": 32.28,
+    "1000": 108.43,
+    "2000": 124.86
    },
    "cumple": true
   }
@@ -94,7 +94,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 94,
+  "n": 95,
   "top": [
    {
     "inicio": 1794062797308,
@@ -200,32 +200,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1448,
-  "n": 423,
-  "gan": 2144.84,
-  "nNeta": 189,
-  "neta": 713.02
+  "conDato": 1488,
+  "n": 429,
+  "gan": 2173.84,
+  "nNeta": 194,
+  "neta": 728.98
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1172
+   "n": 1186
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1941
+   "n": 1960
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1221
+   "n": 1228
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 410
+   "n": 411
   },
   {
    "et": "30 s–5 min",
@@ -311,10 +311,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793912400000,
-   "n": 208
-  },
   {
    "h": 1793916000000,
    "n": 7
@@ -598,128 +594,132 @@
   {
    "h": 1794171600000,
    "n": 57
+  },
+  {
+   "h": 1794175200000,
+   "n": 41
   }
  ],
  "recientes": [
   {
-   "inicio": 1794174768802,
-   "titulo": "Rio Ave FC vs. SC Braga",
-   "dur": 0.41,
+   "inicio": 1794177611086,
+   "titulo": "CD Tolima vs. Millonarios FC",
+   "dur": 0.169,
+   "gan": 0.69,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794177565460,
+   "titulo": "Goiás EC vs. AA Ponte Preta",
+   "dur": 0.016,
+   "gan": 0.9,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794176646407,
+   "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
+   "dur": 7.692,
+   "gan": 2.4,
+   "neta": 1.19,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794176644994,
+   "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
+   "dur": 0.033,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794176643120,
+   "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
+   "dur": 0.481,
    "gan": 0.57,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794174342738,
+   "inicio": 1794176642708,
    "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
-   "dur": 0.054,
-   "gan": 1.08,
-   "neta": 0.18,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794174342659,
-   "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
-   "dur": 0.03,
-   "gan": 1.05,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794174341563,
-   "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
-   "dur": 1.074,
-   "gan": 0.54,
-   "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794174340848,
-   "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
-   "dur": 0.701,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794174338220,
-   "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
-   "dur": 1.191,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794174335192,
-   "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
-   "dur": 1.973,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794174237664,
-   "titulo": "ACF Fiorentina vs. Juventus FC",
-   "dur": 0.453,
-   "gan": 2.92,
-   "neta": 2.55,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794174237595,
-   "titulo": "ACF Fiorentina vs. Juventus FC",
-   "dur": 0.004,
-   "gan": 0.53,
-   "neta": 0.34,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794174156925,
-   "titulo": "ACF Fiorentina vs. Juventus FC",
-   "dur": 0.575,
-   "gan": 0.59,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794174119273,
-   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
-   "dur": 1.398,
-   "gan": 3.63,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794174084477,
-   "titulo": "Jaguares de Córdoba FC vs. CA Bucaramanga",
-   "dur": 2.021,
-   "gan": 0.75,
+   "dur": 0.02,
+   "gan": 0.6,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794173981155,
-   "titulo": "CR Vasco da Gama vs. SE Palmeiras",
-   "dur": 1.786,
-   "gan": 8.98,
+   "inicio": 1794176642599,
+   "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
+   "dur": 0.038,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794176642536,
+   "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
+   "dur": 0.024,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794176642455,
+   "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
+   "dur": 0.032,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794176635625,
+   "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
+   "dur": 1.852,
+   "gan": 2.72,
+   "neta": 1.28,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794176631859,
+   "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
+   "dur": 0.865,
+   "gan": 2.76,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794173601007,
-   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
-   "dur": 0.067,
-   "gan": 1.29,
-   "neta": 0,
+   "inicio": 1794176618193,
+   "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
+   "dur": 0.123,
+   "gan": 2.02,
+   "neta": 0.51,
    "lado": "si"
   },
   {
-   "inicio": 1794173600963,
-   "titulo": "Club Atlético de Madrid vs. FC Barcelona",
-   "dur": 0.031,
-   "gan": 0.66,
-   "neta": 0,
-   "lado": "si"
+   "inicio": 1794176583988,
+   "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
+   "dur": 0.466,
+   "gan": 16.54,
+   "neta": 13.57,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794176583127,
+   "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
+   "dur": 0.312,
+   "gan": 1.6,
+   "neta": 0.66,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794176580665,
+   "titulo": "CF Estrela da Amadora vs. Sport Lisboa e Benfica",
+   "dur": 2.335,
+   "gan": 6.75,
+   "neta": 5.57,
+   "lado": "no"
   }
  ]
 }
