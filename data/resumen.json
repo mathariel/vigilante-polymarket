@@ -1,103 +1,103 @@
 {
- "actualizado": 1794132785074,
- "inicio": 1793705568456,
+ "actualizado": 1794135796488,
+ "inicio": 1793727152691,
  "ejecucion": {
-  "inicio": 1794129784921,
-  "fin": 1794132785074,
-  "mensajes": 6785473,
+  "inicio": 1794132796362,
+  "fin": 1794135796488,
+  "mensajes": 6348433,
   "reconexiones": 12,
-  "eventos": 651,
+  "eventos": 650,
   "errores": []
  },
- "total": 4407,
- "falsos": 1704,
+ "total": 4400,
+ "falsos": 1696,
  "largos": {
-  "episodios": 5515,
+  "episodios": 5536,
   "eventos": 111,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8391,
+  "episodios": 8392,
   "eventos": 25
  },
- "mediana": 0.601,
+ "mediana": 0.6,
  "captura": [
   {
    "s": 0.5,
-   "n": 2344,
-   "gan": 8295.71,
+   "n": 2338,
+   "gan": 8319.82,
    "nNeta": 729,
-   "neta": 2452.77
+   "neta": 2462.8
   },
   {
    "s": 2,
    "n": 1095,
-   "gan": 3748.1,
-   "nNeta": 259,
-   "neta": 894.01
+   "gan": 3760.85,
+   "nNeta": 258,
+   "neta": 893.85
   },
   {
    "s": 5,
    "n": 637,
-   "gan": 1995.84,
-   "nNeta": 98,
-   "neta": 163.49
+   "gan": 2009.16,
+   "nNeta": 97,
+   "neta": 163.33
   },
   {
    "s": 30,
    "n": 203,
-   "gan": 320.4,
-   "nNeta": 26,
-   "neta": 51.07
+   "gan": 333.51,
+   "nNeta": 25,
+   "neta": 50.68
   }
  ],
- "rentables": 1363,
+ "rentables": 1365,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 11,
-   "neta": 16.52,
-   "dias": 0.35,
-   "semana": 332.68
+   "ops": 12,
+   "neta": 26.71,
+   "dias": 0.38,
+   "semana": 488.88
   },
   {
    "capital": 1000,
-   "ops": 17,
-   "neta": 34.76,
-   "dias": 0.35,
-   "semana": 700
+   "ops": 18,
+   "neta": 44.95,
+   "dias": 0.38,
+   "semana": 822.72
   },
   {
    "capital": 2000,
-   "ops": 20,
-   "neta": 45.25,
-   "dias": 0.35,
-   "semana": 911.37
+   "ops": 21,
+   "neta": 55.44,
+   "dias": 0.38,
+   "semana": 1014.83
   }
  ],
  "realista": {
   "reaccion": 0.5,
-  "conDato": 294,
-  "n": 83,
-  "gan": 194.82,
-  "nNeta": 23,
-  "neta": 65.16
+  "conDato": 300,
+  "n": 85,
+  "gan": 220.77,
+  "nNeta": 24,
+  "neta": 75.35
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1011
+   "n": 1012
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1689
+   "n": 1684
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1066
+   "n": 1063
   },
   {
    "et": "5–30 s",
@@ -107,12 +107,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 146
+   "n": 147
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 57
+   "n": 56
   }
  ],
  "porEvento": [
@@ -474,10 +474,58 @@
   },
   {
    "h": 1794132000000,
-   "n": 2
+   "n": 8
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794133357878,
+   "titulo": "Sunderland AFC vs. Chelsea FC",
+   "dur": 207.376,
+   "gan": 15.32,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794133478091,
+   "titulo": "Highest temperature in Tel Aviv on November 8?",
+   "dur": 0.024,
+   "gan": 0.59,
+   "neta": 0.53,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794133478053,
+   "titulo": "Highest temperature in Tel Aviv on November 8?",
+   "dur": 0.022,
+   "gan": 0.82,
+   "neta": 0.67,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794133478009,
+   "titulo": "Highest temperature in Tel Aviv on November 8?",
+   "dur": 0.02,
+   "gan": 3.7,
+   "neta": 3.39,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794133355354,
+   "titulo": "Sunderland AFC vs. Chelsea FC",
+   "dur": 1.473,
+   "gan": 7.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794133236035,
+   "titulo": "Lowest temperature in Shanghai on November 8?",
+   "dur": 0.599,
+   "gan": 10.58,
+   "neta": 10.19,
+   "lado": "si"
+  },
   {
    "inicio": 1794132314896,
    "titulo": "FC Utrecht vs. NEC",
@@ -547,54 +595,6 @@
    "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
    "dur": 0.093,
    "gan": 1.04,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794131480866,
-   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
-   "dur": 0.184,
-   "gan": 1.04,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794131467505,
-   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
-   "dur": 0.918,
-   "gan": 0.6,
-   "neta": 0.06,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794131467489,
-   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
-   "dur": 0.002,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794131457743,
-   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
-   "dur": 0.221,
-   "gan": 103.34,
-   "neta": 73.08,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794131455603,
-   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
-   "dur": 2.018,
-   "gan": 13.48,
-   "neta": 5.98,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794131281169,
-   "titulo": "SSC Napoli vs. SS Lazio",
-   "dur": 0.246,
-   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   }
