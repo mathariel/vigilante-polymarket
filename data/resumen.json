@@ -1,103 +1,103 @@
 {
- "actualizado": 1794111698029,
+ "actualizado": 1794114710801,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794108697883,
-  "fin": 1794111698029,
-  "mensajes": 6169581,
-  "reconexiones": 0,
-  "eventos": 649,
+  "inicio": 1794111710663,
+  "fin": 1794114710801,
+  "mensajes": 7856795,
+  "reconexiones": 2,
+  "eventos": 644,
   "errores": []
  },
- "total": 4280,
- "falsos": 1616,
+ "total": 4308,
+ "falsos": 1629,
  "largos": {
-  "episodios": 5190,
-  "eventos": 107,
+  "episodios": 5346,
+  "eventos": 109,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8377,
+  "episodios": 8379,
   "eventos": 25
  },
- "mediana": 0.619,
+ "mediana": 0.613,
  "captura": [
   {
    "s": 0.5,
-   "n": 2305,
-   "gan": 8175.68,
-   "nNeta": 701,
-   "neta": 2377.41
+   "n": 2312,
+   "gan": 8196.01,
+   "nNeta": 703,
+   "neta": 2388.44
   },
   {
    "s": 2,
-   "n": 1079,
-   "gan": 3678.59,
-   "nNeta": 249,
-   "neta": 843.27
+   "n": 1083,
+   "gan": 3695.81,
+   "nNeta": 250,
+   "neta": 853.77
   },
   {
    "s": 5,
-   "n": 628,
-   "gan": 1986.97,
+   "n": 630,
+   "gan": 1988.48,
    "nNeta": 92,
    "neta": 148.69
   },
   {
    "s": 30,
-   "n": 199,
-   "gan": 328.46,
+   "n": 201,
+   "gan": 329.93,
    "nNeta": 25,
    "neta": 50.54
   }
  ],
- "rentables": 1304,
+ "rentables": 1311,
  "porCapital": [
   {
    "capital": 500,
    "ops": 5,
    "neta": 6.69,
-   "dias": 0.1,
-   "semana": 452.78
+   "dias": 0.14,
+   "semana": 338.68
   },
   {
    "capital": 1000,
-   "ops": 6,
-   "neta": 7.11,
-   "dias": 0.1,
-   "semana": 480.88
+   "ops": 7,
+   "neta": 17.61,
+   "dias": 0.14,
+   "semana": 890.89
   },
   {
    "capital": 2000,
-   "ops": 6,
-   "neta": 7.11,
-   "dias": 0.1,
-   "semana": 480.88
+   "ops": 7,
+   "neta": 17.61,
+   "dias": 0.14,
+   "semana": 890.89
   }
  ],
  "realista": {
   "reaccion": 0.5,
-  "conDato": 124,
-  "n": 42,
-  "gan": 71.48,
-  "nNeta": 6,
-  "neta": 7.11
+  "conDato": 152,
+  "n": 47,
+  "gan": 89.47,
+  "nNeta": 7,
+  "neta": 17.61
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 962
+   "n": 974
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1637
+   "n": 1648
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1049
+   "n": 1052
   },
   {
    "et": "5–30 s",
@@ -107,12 +107,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 144
+   "n": 145
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 55
+   "n": 56
   }
  ],
  "porEvento": [
@@ -188,10 +188,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793851200000,
-   "n": 4
-  },
   {
    "h": 1793854800000,
    "n": 18
@@ -474,129 +470,133 @@
   },
   {
    "h": 1794110400000,
-   "n": 3
+   "n": 24
+  },
+  {
+   "h": 1794114000000,
+   "n": 7
   }
  ],
  "recientes": [
   {
-   "inicio": 1794111448817,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 0.024,
-   "gan": 0.53,
+   "inicio": 1794114577173,
+   "titulo": "Riga FC vs. FC RFS",
+   "dur": 133.493,
+   "gan": 1,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794114642508,
+   "titulo": "Vissel Kōbe vs. Urawa Red Diamonds",
+   "dur": 0.207,
+   "gan": 1.2,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794110727099,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 591.11,
-   "gan": 0.53,
+   "inicio": 1794114281858,
+   "titulo": "Club Atletico La Paz vs. Tlaxcala FC",
+   "dur": 0.005,
+   "gan": 0.67,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794110625637,
-   "titulo": "CZ # posts November 3 - November 10, 2026?",
-   "dur": 10.419,
-   "gan": 0.53,
+   "inicio": 1794114281843,
+   "titulo": "Club Atletico La Paz vs. Tlaxcala FC",
+   "dur": 0.007,
+   "gan": 0.91,
+   "neta": 0.53,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794114281778,
+   "titulo": "Club Atletico La Paz vs. Tlaxcala FC",
+   "dur": 0.062,
+   "gan": 0.55,
+   "neta": 0.15,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794114281738,
+   "titulo": "Club Atletico La Paz vs. Tlaxcala FC",
+   "dur": 0.008,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794114281706,
+   "titulo": "Club Atletico La Paz vs. Tlaxcala FC",
+   "dur": 0.025,
+   "gan": 1.59,
    "neta": 0.11,
    "lado": "si"
   },
   {
-   "inicio": 1794109783066,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 3.571,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794109769263,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 4.114,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794109755859,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 5.848,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794109745954,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 3.93,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794109738260,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 4.189,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794109729464,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 4.361,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794109723263,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 2.926,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794109580254,
-   "titulo": "América de Cali vs. AD Cali",
-   "dur": 0.688,
-   "gan": 0.69,
-   "neta": 0.32,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794109576239,
-   "titulo": "América de Cali vs. AD Cali",
-   "dur": 0.112,
-   "gan": 0.54,
-   "neta": 0.27,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794109451844,
+   "inicio": 1794113320750,
    "titulo": "Pumas de la UNAM vs. CF América",
-   "dur": 1.055,
-   "gan": 2.21,
-   "neta": 0.36,
-   "lado": "no"
+   "dur": 0.483,
+   "gan": 0.84,
+   "neta": 0,
+   "lado": "si"
   },
   {
-   "inicio": 1794109449223,
+   "inicio": 1794113320145,
    "titulo": "Pumas de la UNAM vs. CF América",
-   "dur": 0.681,
-   "gan": 0.63,
+   "dur": 0.104,
+   "gan": 0.85,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794109442435,
+   "inicio": 1794113319844,
    "titulo": "Pumas de la UNAM vs. CF América",
-   "dur": 0.28,
-   "gan": 0.9,
+   "dur": 0.089,
+   "gan": 1.71,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
+  },
+  {
+   "inicio": 1794113319740,
+   "titulo": "Pumas de la UNAM vs. CF América",
+   "dur": 0.091,
+   "gan": 0.84,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794113316611,
+   "titulo": "Pumas de la UNAM vs. CF América",
+   "dur": 1.97,
+   "gan": 0.77,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794113315245,
+   "titulo": "Pumas de la UNAM vs. CF América",
+   "dur": 0.197,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794113309467,
+   "titulo": "Pumas de la UNAM vs. CF América",
+   "dur": 0.031,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794113308688,
+   "titulo": "Pumas de la UNAM vs. CF América",
+   "dur": 0.127,
+   "gan": 1.68,
+   "neta": 0,
+   "lado": "si"
   }
  ]
 }
