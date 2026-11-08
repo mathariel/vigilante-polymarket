@@ -1,108 +1,108 @@
 {
- "actualizado": 1794108685899,
+ "actualizado": 1794111698029,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794105685751,
-  "fin": 1794108685899,
-  "mensajes": 6489062,
+  "inicio": 1794108697883,
+  "fin": 1794111698029,
+  "mensajes": 6169581,
   "reconexiones": 0,
-  "eventos": 625,
+  "eventos": 649,
   "errores": []
  },
- "total": 4263,
- "falsos": 1613,
+ "total": 4280,
+ "falsos": 1616,
  "largos": {
-  "episodios": 5074,
+  "episodios": 5190,
   "eventos": 107,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8375,
+  "episodios": 8377,
   "eventos": 25
  },
- "mediana": 0.615,
+ "mediana": 0.619,
  "captura": [
   {
    "s": 0.5,
-   "n": 2292,
-   "gan": 8165.74,
-   "nNeta": 697,
-   "neta": 2376.07
+   "n": 2305,
+   "gan": 8175.68,
+   "nNeta": 701,
+   "neta": 2377.41
   },
   {
    "s": 2,
-   "n": 1069,
-   "gan": 3672.57,
-   "nNeta": 247,
-   "neta": 842.78
+   "n": 1079,
+   "gan": 3678.59,
+   "nNeta": 249,
+   "neta": 843.27
   },
   {
    "s": 5,
-   "n": 625,
-   "gan": 1985.4,
-   "nNeta": 91,
-   "neta": 148.58
+   "n": 628,
+   "gan": 1986.97,
+   "nNeta": 92,
+   "neta": 148.69
   },
   {
    "s": 30,
-   "n": 198,
-   "gan": 327.93,
+   "n": 199,
+   "gan": 328.46,
    "nNeta": 25,
    "neta": 50.54
   }
  ],
- "rentables": 1298,
+ "rentables": 1304,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 4,
-   "neta": 6.62,
-   "dias": 0.07,
-   "semana": 675.16
+   "ops": 5,
+   "neta": 6.69,
+   "dias": 0.1,
+   "semana": 452.78
   },
   {
    "capital": 1000,
-   "ops": 4,
-   "neta": 6.62,
-   "dias": 0.07,
-   "semana": 675.16
+   "ops": 6,
+   "neta": 7.11,
+   "dias": 0.1,
+   "semana": 480.88
   },
   {
    "capital": 2000,
-   "ops": 4,
-   "neta": 6.62,
-   "dias": 0.07,
-   "semana": 675.16
+   "ops": 6,
+   "neta": 7.11,
+   "dias": 0.1,
+   "semana": 480.88
   }
  ],
  "realista": {
   "reaccion": 0.5,
-  "conDato": 107,
-  "n": 32,
-  "gan": 65.46,
-  "nNeta": 4,
-  "neta": 6.62
+  "conDato": 124,
+  "n": 42,
+  "gan": 71.48,
+  "nNeta": 6,
+  "neta": 7.11
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 961
+   "n": 962
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1632
+   "n": 1637
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1041
+   "n": 1049
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 427
+   "n": 429
   },
   {
    "et": "30 s–5 min",
@@ -112,7 +112,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 54
+   "n": 55
   }
  ],
  "porEvento": [
@@ -188,10 +188,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793847600000,
-   "n": 27
-  },
   {
    "h": 1793851200000,
    "n": 4
@@ -474,129 +470,133 @@
   },
   {
    "h": 1794106800000,
-   "n": 20
+   "n": 34
+  },
+  {
+   "h": 1794110400000,
+   "n": 3
   }
  ],
  "recientes": [
   {
-   "inicio": 1794107734827,
-   "titulo": "Pumas de la UNAM vs. CF América",
-   "dur": 8.408,
-   "gan": 0.64,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794107658656,
-   "titulo": "Pumas de la UNAM vs. CF América",
-   "dur": 0.612,
-   "gan": 1.74,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794107652864,
-   "titulo": "Pumas de la UNAM vs. CF América",
-   "dur": 1.472,
-   "gan": 0.72,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794107639993,
-   "titulo": "Pumas de la UNAM vs. CF América",
-   "dur": 0.873,
-   "gan": 9.57,
-   "neta": 0.36,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794107628670,
-   "titulo": "Pumas de la UNAM vs. CF América",
-   "dur": 0.016,
-   "gan": 0.73,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794107169380,
+   "inicio": 1794111448817,
    "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 218.493,
+   "dur": 0.024,
    "gan": 0.53,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794107153530,
+   "inicio": 1794110727099,
    "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 14.725,
-   "gan": 0.52,
+   "dur": 591.11,
+   "gan": 0.53,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794107099514,
+   "inicio": 1794110625637,
+   "titulo": "CZ # posts November 3 - November 10, 2026?",
+   "dur": 10.419,
+   "gan": 0.53,
+   "neta": 0.11,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794109783066,
    "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 51.024,
-   "gan": 0.52,
+   "dur": 3.571,
+   "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794107048556,
+   "inicio": 1794109769263,
    "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 49.565,
-   "gan": 0.52,
+   "dur": 4.114,
+   "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794106991504,
+   "inicio": 1794109755859,
    "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 54.013,
-   "gan": 0.52,
+   "dur": 5.848,
+   "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794106970494,
+   "inicio": 1794109745954,
    "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 19.637,
-   "gan": 0.52,
+   "dur": 3.93,
+   "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794106964499,
+   "inicio": 1794109738260,
    "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 3.055,
-   "gan": 0.52,
+   "dur": 4.189,
+   "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794106958514,
+   "inicio": 1794109729464,
    "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 2.997,
-   "gan": 0.52,
+   "dur": 4.361,
+   "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794106952494,
+   "inicio": 1794109723263,
    "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 3.015,
-   "gan": 0.52,
+   "dur": 2.926,
+   "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794106946485,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 3.03,
-   "gan": 0.52,
-   "neta": 0,
+   "inicio": 1794109580254,
+   "titulo": "América de Cali vs. AD Cali",
+   "dur": 0.688,
+   "gan": 0.69,
+   "neta": 0.32,
    "lado": "si"
+  },
+  {
+   "inicio": 1794109576239,
+   "titulo": "América de Cali vs. AD Cali",
+   "dur": 0.112,
+   "gan": 0.54,
+   "neta": 0.27,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794109451844,
+   "titulo": "Pumas de la UNAM vs. CF América",
+   "dur": 1.055,
+   "gan": 2.21,
+   "neta": 0.36,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794109449223,
+   "titulo": "Pumas de la UNAM vs. CF América",
+   "dur": 0.681,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794109442435,
+   "titulo": "Pumas de la UNAM vs. CF América",
+   "dur": 0.28,
+   "gan": 0.9,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
