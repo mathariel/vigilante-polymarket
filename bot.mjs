@@ -210,6 +210,30 @@ const DIAS_MAX = 7;
 const margenCierre = (e) => e.fin ? new Date(e.fin).getTime() - e.inicio : null;
 const esCorto = (e) => { const m = margenCierre(e); return m !== null && m >= -6 * 3600e3 && m <= DIAS_MAX * 864e5; };
 const esperaResolucion = (e) => { const m = margenCierre(e); return m !== null && m < -6 * 3600e3; };
+// Simulación con capital limitado, en el escenario realista.
+// El dinero queda bloqueado desde la compra hasta que el evento se resuelve
+// (fecha de cierre, o la compra si ya pasó, más 3 horas); mientras tanto no se puede reusar.
+// Si el arbitraje cuesta más que el dinero libre, se toma solo la parte que alcanza.
+const CAPITALES = [500, 1000, 2000];
+function simularCapitales(cerrados) {
+  const conDato = cerrados.filter(e => e.espera !== undefined).sort((a, b) => a.inicio - b.inicio);
+  if (!conDato.length) return null;
+  const dias = Math.max((Date.now() - conDato[0].inicio) / 864e5, 1 / 24);
+  return CAPITALES.map(cap => {
+    let libre = cap, bloqueos = [], neta = 0, ops = 0;
+    for (const e of conDato) {
+      const c = capturaA(e, REACCION_RAPIDA + e.espera);
+      if (!c || c.neta <= 0) continue;
+      bloqueos = bloqueos.filter(([hasta, monto]) => { if (hasta <= e.inicio) { libre += monto; return false; } return true; });
+      const usar = Math.min(e.costoInicio, libre);
+      if (usar < 1) continue;
+      neta += c.neta * usar / e.costoInicio; ops++; libre -= usar;
+      const fin = Math.max(e.fin ? new Date(e.fin).getTime() : e.inicio, e.inicio) + 3 * 3600e3;
+      bloqueos.push([fin, usar]);
+    }
+    return { capital: cap, ops, neta: +neta.toFixed(2), dias: +dias.toFixed(2), semana: +(neta / dias * 7).toFixed(2) };
+  });
+}
 function resumen(final) {
   const verificados = episodios.filter(e => e.verificado !== false);
   const cerrados = verificados.filter(esCorto);
@@ -237,6 +261,7 @@ function resumen(final) {
       return { s, n: cap.length, gan: +cap.reduce((a, b) => a + b.bruta, 0).toFixed(2), nNeta: netas.length, neta: +netas.reduce((a, b) => a + b.neta, 0).toFixed(2) };
     }),
     rentables: cerrados.filter(e => (e.netaInicio || 0) > 0).length,
+    porCapital: simularCapitales(cerrados),
     // Escenario realista: un bot rápido (0.5 s) más la espera de Polymarket en ese mercado
     realista: (() => {
       const conDato = cerrados.filter(e => e.espera !== undefined);
