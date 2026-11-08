@@ -1,40 +1,40 @@
 {
- "actualizado": 1794120733966,
+ "actualizado": 1794123746112,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794117733833,
-  "fin": 1794120733966,
-  "mensajes": 8611236,
-  "reconexiones": 8,
-  "eventos": 661,
+  "inicio": 1794120745970,
+  "fin": 1794123746112,
+  "mensajes": 7585973,
+  "reconexiones": 9,
+  "eventos": 653,
   "errores": []
  },
- "total": 4336,
- "falsos": 1664,
+ "total": 4357,
+ "falsos": 1676,
  "largos": {
-  "episodios": 5441,
-  "eventos": 109,
+  "episodios": 5469,
+  "eventos": 111,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8383,
+  "episodios": 8385,
   "eventos": 25
  },
- "mediana": 0.608,
+ "mediana": 0.605,
  "captura": [
   {
    "s": 0.5,
-   "n": 2323,
-   "gan": 8227.85,
-   "nNeta": 713,
-   "neta": 2403.51
+   "n": 2329,
+   "gan": 8244.47,
+   "nNeta": 717,
+   "neta": 2411.88
   },
   {
    "s": 2,
-   "n": 1086,
-   "gan": 3698.76,
-   "nNeta": 252,
-   "neta": 854.41
+   "n": 1089,
+   "gan": 3711.49,
+   "nNeta": 254,
+   "neta": 861.29
   },
   {
    "s": 5,
@@ -51,53 +51,53 @@
    "neta": 51.07
   }
  ],
- "rentables": 1329,
+ "rentables": 1339,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 8,
-   "neta": 7.63,
-   "dias": 0.21,
-   "semana": 256.83
+   "ops": 10,
+   "neta": 9.71,
+   "dias": 0.24,
+   "semana": 279.79
   },
   {
    "capital": 1000,
-   "ops": 10,
-   "neta": 18.55,
-   "dias": 0.21,
-   "semana": 624.04
+   "ops": 12,
+   "neta": 25.16,
+   "dias": 0.24,
+   "semana": 724.94
   },
   {
    "capital": 2000,
-   "ops": 10,
-   "neta": 18.55,
-   "dias": 0.21,
-   "semana": 624.04
+   "ops": 12,
+   "neta": 25.16,
+   "dias": 0.24,
+   "semana": 724.94
   }
  ],
  "realista": {
   "reaccion": 0.5,
-  "conDato": 180,
-  "n": 51,
-  "gan": 93.42,
-  "nNeta": 10,
-  "neta": 18.55
+  "conDato": 201,
+  "n": 55,
+  "gan": 107.14,
+  "nNeta": 12,
+  "neta": 25.16
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 980
+   "n": 990
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1666
+   "n": 1673
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1054
+   "n": 1058
   },
   {
    "et": "5–30 s",
@@ -188,10 +188,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793858400000,
-   "n": 14
-  },
   {
    "h": 1793862000000,
    "n": 12
@@ -474,129 +470,133 @@
   },
   {
    "h": 1794117600000,
-   "n": 12
+   "n": 20
+  },
+  {
+   "h": 1794121200000,
+   "n": 13
   }
  ],
  "recientes": [
   {
-   "inicio": 1794120686634,
-   "titulo": "FC Seoul vs. Ulsan HD FC",
-   "dur": 47.202,
-   "gan": 0.74,
-   "neta": 0.53,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794120632382,
-   "titulo": "Vissel Kōbe vs. Urawa Red Diamonds",
-   "dur": 1.987,
-   "gan": 1.52,
-   "neta": 0.46,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794120622191,
-   "titulo": "Vissel Kōbe vs. Urawa Red Diamonds",
-   "dur": 0.517,
-   "gan": 1.11,
-   "neta": 0.15,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794120584249,
-   "titulo": "Vissel Kōbe vs. Urawa Red Diamonds",
-   "dur": 0.832,
-   "gan": 0.53,
-   "neta": 0.43,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794120376655,
-   "titulo": "FC Seoul vs. Ulsan HD FC",
-   "dur": 0.792,
-   "gan": 1,
-   "neta": 0.31,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794119863463,
-   "titulo": "FC Seoul vs. Ulsan HD FC",
-   "dur": 2.577,
-   "gan": 0.81,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794119862648,
-   "titulo": "FC Seoul vs. Ulsan HD FC",
-   "dur": 0.262,
-   "gan": 0.92,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794119543088,
-   "titulo": "FC Seoul vs. Ulsan HD FC",
-   "dur": 0.665,
+   "inicio": 1794123673816,
+   "titulo": "Gamba Ōsaka vs. Cerezo Ōsaka",
+   "dur": 0.002,
    "gan": 0.52,
-   "neta": 0.01,
-   "lado": "si"
+   "neta": 0.19,
+   "lado": "no"
   },
   {
-   "inicio": 1794119423048,
-   "titulo": "Daejeon Hana Citizen FC vs. Incheon United FC",
-   "dur": 0.794,
-   "gan": 0.9,
-   "neta": 0.6,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794119422992,
-   "titulo": "Daejeon Hana Citizen FC vs. Incheon United FC",
-   "dur": 0.013,
-   "gan": 1.06,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794119000274,
-   "titulo": "Highest temperature in Beijing on November 8?",
-   "dur": 0.017,
-   "gan": 2.13,
-   "neta": 1.69,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794118391928,
-   "titulo": "Vissel Kōbe vs. Urawa Red Diamonds",
-   "dur": 0.058,
-   "gan": 0.69,
+   "inicio": 1794123589935,
+   "titulo": "Adelaide United FC vs. Melbourne Victory FC",
+   "dur": 2.801,
+   "gan": 2.12,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794117473005,
-   "titulo": "Macarthur FC vs. Brisbane Roar FC",
-   "dur": 0.221,
+   "inicio": 1794123492882,
+   "titulo": "Shandong Taishan FC vs. Chengdu Rongcheng FC",
+   "dur": 1.804,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794123314276,
+   "titulo": "Adelaide United FC vs. Melbourne Victory FC",
+   "dur": 0.261,
    "gan": 0.77,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794117471888,
-   "titulo": "Macarthur FC vs. Brisbane Roar FC",
-   "dur": 0.695,
-   "gan": 0.75,
-   "neta": 0.12,
+   "inicio": 1794123313939,
+   "titulo": "Adelaide United FC vs. Melbourne Victory FC",
+   "dur": 0.313,
+   "gan": 0.56,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794117462064,
-   "titulo": "Macarthur FC vs. Brisbane Roar FC",
-   "dur": 0.181,
-   "gan": 0.67,
-   "neta": 0.23,
+   "inicio": 1794123313757,
+   "titulo": "Adelaide United FC vs. Melbourne Victory FC",
+   "dur": 0.095,
+   "gan": 1.28,
+   "neta": 0,
    "lado": "si"
+  },
+  {
+   "inicio": 1794123144382,
+   "titulo": "Gangwon FC vs. Jeonbuk Hyundai Motors FC",
+   "dur": 3.19,
+   "gan": 18.93,
+   "neta": 12.04,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794121469972,
+   "titulo": "Highest temperature in Seoul (Incheon) on November 8?",
+   "dur": 0.016,
+   "gan": 1.39,
+   "neta": 0.82,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794121258440,
+   "titulo": "Highest temperature in Guangzhou on November 8?",
+   "dur": 2.852,
+   "gan": 1.04,
+   "neta": 0.71,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794121257861,
+   "titulo": "Highest temperature in Guangzhou on November 8?",
+   "dur": 0.054,
+   "gan": 0.69,
+   "neta": 0.57,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794121257712,
+   "titulo": "Highest temperature in Guangzhou on November 8?",
+   "dur": 0.124,
+   "gan": 0.69,
+   "neta": 0.57,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794121257567,
+   "titulo": "Highest temperature in Guangzhou on November 8?",
+   "dur": 0.119,
+   "gan": 0.86,
+   "neta": 0.58,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794121257506,
+   "titulo": "Highest temperature in Guangzhou on November 8?",
+   "dur": 0.043,
+   "gan": 1.67,
+   "neta": 1.55,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794121167635,
+   "titulo": "Adelaide United FC vs. Melbourne Victory FC - Halftime Result",
+   "dur": 0.541,
+   "gan": 0.65,
+   "neta": 0.49,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794121083005,
+   "titulo": "Adelaide United FC vs. Melbourne Victory FC",
+   "dur": 0.098,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
