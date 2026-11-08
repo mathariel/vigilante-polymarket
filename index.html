@@ -20,7 +20,7 @@
   h2{font-size:14px;margin:0 0 2px} .nota{color:var(--suave);font-size:12px;margin-bottom:10px}
   .b1{display:grid;grid-template-columns:44px minmax(0,1fr) 150px;align-items:center;gap:10px;margin:8px 0;font-size:13px}
   .b1-et{text-align:right} .b1-pista{height:18px;background:var(--acento-suave);border-radius:4px;overflow:hidden;display:block} .b1-pista span{display:block;height:100%;background:var(--acento);border-radius:4px}
-  .b1-val{color:var(--suave);white-space:nowrap} .b1-val b{color:var(--texto)} .neta{color:var(--verde);font-weight:600} .cap{display:grid;grid-template-columns:70px 1fr 1.2fr 1.6fr;gap:10px;padding:6px 0;border-top:1px solid var(--linea);font-size:13px;align-items:center} .cap.cab{color:var(--suave);font-size:11px;border-top:0} .real{margin-top:12px;padding:10px 12px;border-radius:8px;background:var(--verde-suave);font-size:13px;line-height:1.5} .leyenda{display:flex;gap:14px;font-size:12px;color:var(--suave);margin-top:6px}
+  .b1-val{color:var(--suave);white-space:nowrap} .b1-val b{color:var(--texto)} .neta{color:var(--verde);font-weight:600} .cap{display:grid;grid-template-columns:70px 1fr 1.2fr 1.6fr;gap:10px;padding:6px 0;border-top:1px solid var(--linea);font-size:13px;align-items:center} .cap.cab{color:var(--suave);font-size:11px;border-top:0} .sem{display:grid;grid-template-columns:1.3fr .6fr 1fr 1fr 1fr 1fr;gap:8px;padding:6px 0;border-top:1px solid var(--linea);font-size:13px;align-items:center} .sem.cab{color:var(--suave);font-size:11px;border-top:0} .no{color:#b42318;font-weight:600} .real{margin-top:12px;padding:10px 12px;border-radius:8px;background:var(--verde-suave);font-size:13px;line-height:1.5} .leyenda{display:flex;gap:14px;font-size:12px;color:var(--suave);margin-top:6px}
   .hist{display:flex;align-items:flex-end;gap:8px;height:150px;border-bottom:1px solid var(--gris);padding-top:6px;margin-bottom:28px}
   .h-col{flex:1;height:100%;display:flex;flex-direction:column;justify-content:flex-end;align-items:center;position:relative}
   .h-n{font-size:12px;margin-bottom:3px} .h-bar{width:100%;max-width:64px;background:var(--acento);border-radius:4px 4px 0 0;display:block} .h-bar.gris{background:var(--gris)}
@@ -71,6 +71,12 @@ function pintar(d) {
   const tablaSosp = so && so.n ? `<div class="carta"><h2>Operaciones sospechosas</h2><div class="nota">Arbitrajes que rendían más de ${Math.round(so.umbral * 100)}% de una sola vez. Suelen ser órdenes equivocadas en mercados con poca liquidez o mercados mal armados, así que no se cuentan en las simulaciones. Total: ${so.n}.</div>
     <div class="rec cab"><span>Fecha y hora</span><span>Evento</span><span class="num">Retorno</span><span class="num">Bruta / <span class="neta">neta</span></span></div>
     ${so.top.map(e => `<div class="rec"><span class="tenue">${hora(e.inicio)}</span><span class="nom" title="${esc(e.titulo)}">${esc(e.titulo)}</span><span class="num">${e.ret}%</span><span class="num">$${$(e.gan)}<br><span class="neta">$${$(e.neta)}</span></span></div>`).join('')}</div>` : '';
+  const sem = d.semanas || [];
+  const fechaCorta = (dia) => new Date(dia + 'T12:00:00Z').toLocaleDateString('es-PE', { day: '2-digit', month: 'short', timeZone: 'UTC' });
+  const tablaSem = sem.length ? `<div class="carta"><h2>Semana a semana</h2><div class="nota">Escenario realista, sin operaciones sospechosas. Cada semana va de lunes a domingo. Criterio de decisión: con $500, al menos $${d.criterioSemanal} netos en <b>cada</b> semana completa (el doble de un servidor de ~$20 al mes).</div>
+    <div class="sem cab"><span>Semana</span><span class="num">Horas</span><span class="num">$500</span><span class="num">$1,000</span><span class="num">$2,000</span><span class="num">Criterio</span></div>
+    ${sem.map((s, i) => `<div class="sem"><span>${fechaCorta(s.lunes)}${s.dias < 7 ? ` <span class="tenue">(${s.dias} d)</span>` : ''}</span><span class="num tenue">${Math.round(s.horas)}</span><span class="num neta">$${$(s.capital[500] || 0)}</span><span class="num">$${$(s.capital[1000] || 0)}</span><span class="num">$${$(s.capital[2000] || 0)}</span><span class="num">${s.dias < 7 ? `<span class="tenue">${i === sem.length - 1 ? 'en curso' : 'incompleta'}</span>` : s.cumple ? '<span class="neta">✓ cumple</span>' : '<span class="no">✗ no</span>'}</span></div>`).join('')}
+    <div class="nota" style="margin-top:8px;margin-bottom:0">"Horas" es el tiempo que el bot estuvo midiendo esa semana (máximo 168). Las simulaciones de cada día parten con el capital completo.</div></div>` : '';
   const errores = d.ejecucion && d.ejecucion.errores && d.ejecucion.errores.length ? `<div class="error">Última ejecución con problemas: ${esc(d.ejecucion.errores.at(-1))}</div>` : '';
   app.innerHTML = `
     <div class="top"><div><h1>Vigilante de arbitrajes</h1><div class="sub">Polymarket · modo simulado, sin dinero · datos desde ${hora(d.inicio)}</div></div>
@@ -85,6 +91,7 @@ function pintar(d) {
       <div class="k"><b>${ent(d.rentables || 0)}</b><span>rentables tras comisiones, de ${ent(d.total)}</span></div>
     </div>
     <div class="carta"><h2>¿Los habría capturado?</h2><div class="nota">Porcentaje de episodios que seguían vivos después del tiempo de reacción del bot, y ganancia simulada.</div>${g1}<div class="leyenda"><span>$ bruta (sin comisiones)</span><span class="neta">→ $ neta (pagando comisiones)</span></div>${real}</div>
+    ${tablaSem}
     ${tablaCap}
     ${tablaSosp}
     <div class="carta"><h2>¿Cuánto duran?</h2><div class="nota">Episodios según su duración. En gris, los de menos de 1 segundo (solo para bots profesionales).</div>${g2}</div>

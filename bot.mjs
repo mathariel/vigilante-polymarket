@@ -15,7 +15,7 @@ const GANANCIA_MIN = 0.50;                // dólares mínimos para contar un ep
 const RETARDOS = [0.5, 2, 5, 30];         // tiempos de reacción simulados (segundos)
 const REACCION_RAPIDA = 0.5;              // reacción de un bot en un servidor dedicado (segundos)
 const TROZO = 400;                        // resultados por conexión
-const MAX_EPISODIOS = 20000;              // tope del historial guardado
+const MAX_EPISODIOS = 30000;              // tope del historial detallado (unos 5 días); el resumen diario es permanente
 const GUARDAR_CADA_MIN = 5;               // guardado parcial
 
 const log = (...a) => console.log(new Date().toISOString().slice(11, 19), ...a);
@@ -24,6 +24,9 @@ if (!existsSync('data')) mkdirSync('data');
 // ---------- 1. Historial ----------
 let episodios = [];
 try { episodios = JSON.parse(readFileSync('data/episodios.json', 'utf8')); } catch { episodios = []; }
+// Resumen diario permanente: una entrada por día (hora de Lima), nunca se borra.
+let diario = {};
+try { diario = JSON.parse(readFileSync('data/diario.json', 'utf8')); } catch { diario = {}; }
 let inicioHistorial = episodios.length ? Math.min(...episodios.map(e => e.inicio)) : Date.now();
 const ejecucion = { inicio: Date.now(), mensajes: 0, reconexiones: 0, errores: [] };
 log(`Historial cargado: ${episodios.length} episodios`);
@@ -267,6 +270,7 @@ function resumen(final) {
     }),
     rentables: cerrados.filter(e => (e.netaInicio || 0) > 0).length,
     porCapital: simularCapitales(cerrados),
+    semanas: semanas(), criterioSemanal: CRITERIO_SEMANAL,
     sospechosas: (() => {
       const lista = cerrados.filter(esSospechoso);
       return {
@@ -289,7 +293,60 @@ function resumen(final) {
     recientes: cerrados.slice(-15).reverse().map(e => ({ inicio: e.inicio, titulo: e.titulo, dur: e.dur, gan: e.ganInicio, neta: e.netaInicio || 0, lado: e.lado }))
   };
 }
+// ---------- Resumen diario y semanal (permanente) ----------
+const INICIO_DIARIO = '2026-11-08';        // primer día completo con todas las correcciones
+const CRITERIO_SEMANAL = 10;               // neto semanal mínimo con $500: el doble de un servidor de ~$20 al mes
+const diaLima = (t) => new Date(t - 5 * 3600e3).toISOString().slice(0, 10);
+function resumirDia(dia) {
+  const delDia = episodios.filter(e => e.verificado !== false && diaLima(e.inicio) === dia);
+  const cortos = delDia.filter(esCorto);
+  const validos = cortos.filter(e => e.espera !== undefined && !esSospechoso(e));
+  const cap = validos.map(e => capturaA(e, REACCION_RAPIDA + e.espera)).filter(x => x !== null && x.neta > 0);
+  const caps = simularCapitales(validos) || [];
+  const previo = diario[dia] || {};
+  return {
+    minutos: previo.minutos || 0,
+    episodios: cortos.length, sospechosas: cortos.filter(esSospechoso).length,
+    realistaN: cap.length, realistaNeta: +cap.reduce((a, b) => a + b.neta, 0).toFixed(2),
+    capital: Object.fromEntries(caps.map(c => [c.capital, c.neta]))
+  };
+}
+function actualizarDiario(final) {
+  // se recalculan los días con episodios de esta ejecución (y el anterior, por si cruzó la medianoche)
+  const dias = new Set([diaLima(ejecucion.inicio), diaLima(Date.now()), diaLima(ejecucion.inicio - 864e5)]);
+  for (const dia of dias) {
+    if (dia < INICIO_DIARIO) continue;
+    // solo se recalcula si el historial detallado todavía cubre el día completo
+    const cubre = episodios.length && diaLima(episodios[0].inicio) < dia;
+    if (!cubre && diario[dia]) continue;
+    diario[dia] = resumirDia(dia);
+  }
+  if (final && diaLima(ejecucion.inicio) >= INICIO_DIARIO) {
+    const d = diaLima(ejecucion.inicio);
+    diario[d] = diario[d] || resumirDia(d);
+    diario[d].minutos = +((diario[d].minutos || 0) + (Date.now() - ejecucion.inicio) / 60000).toFixed(1);
+  }
+}
+function semanas() {
+  const grupos = new Map();
+  for (const [dia, r] of Object.entries(diario)) {
+    const f = new Date(dia + 'T12:00:00Z');
+    const lunes = new Date(f.getTime() - ((f.getUTCDay() + 6) % 7) * 864e5).toISOString().slice(0, 10);
+    const g = grupos.get(lunes) || { lunes, dias: 0, horas: 0, episodios: 0, sospechosas: 0, realistaNeta: 0, capital: {} };
+    g.dias++; g.horas += (r.minutos || 0) / 60; g.episodios += r.episodios; g.sospechosas += r.sospechosas; g.realistaNeta += r.realistaNeta;
+    for (const [c, v] of Object.entries(r.capital || {})) g.capital[c] = (g.capital[c] || 0) + v;
+    grupos.set(lunes, g);
+  }
+  return [...grupos.values()].sort((a, b) => a.lunes.localeCompare(b.lunes)).map(g => ({
+    ...g, horas: +g.horas.toFixed(1), realistaNeta: +g.realistaNeta.toFixed(2),
+    capital: Object.fromEntries(Object.entries(g.capital).map(([c, v]) => [c, +v.toFixed(2)])),
+    cumple: (g.capital[500] || 0) >= CRITERIO_SEMANAL
+  }));
+}
+
 function guardar(final) {
+  actualizarDiario(final);
+  writeFileSync('data/diario.json', JSON.stringify(diario, null, 1));
   writeFileSync('data/episodios.json', JSON.stringify(episodios));
   writeFileSync('data/resumen.json', JSON.stringify(resumen(final), null, 1));
 }
