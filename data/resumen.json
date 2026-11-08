@@ -1,118 +1,118 @@
 {
- "actualizado": 1794129771582,
+ "actualizado": 1794132785074,
  "inicio": 1793705568456,
  "ejecucion": {
-  "inicio": 1794126771462,
-  "fin": 1794129771582,
-  "mensajes": 9662470,
-  "reconexiones": 5,
-  "eventos": 647,
+  "inicio": 1794129784921,
+  "fin": 1794132785074,
+  "mensajes": 6785473,
+  "reconexiones": 12,
+  "eventos": 651,
   "errores": []
  },
- "total": 4398,
- "falsos": 1699,
+ "total": 4407,
+ "falsos": 1704,
  "largos": {
-  "episodios": 5523,
+  "episodios": 5515,
   "eventos": 111,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8389,
+  "episodios": 8391,
   "eventos": 25
  },
- "mediana": 0.607,
+ "mediana": 0.601,
  "captura": [
   {
    "s": 0.5,
-   "n": 2354,
-   "gan": 8275.83,
-   "nNeta": 721,
-   "neta": 2417.84
+   "n": 2344,
+   "gan": 8295.71,
+   "nNeta": 729,
+   "neta": 2452.77
   },
   {
    "s": 2,
-   "n": 1102,
-   "gan": 3734.25,
-   "nNeta": 256,
-   "neta": 865.77
+   "n": 1095,
+   "gan": 3748.1,
+   "nNeta": 259,
+   "neta": 894.01
   },
   {
    "s": 5,
-   "n": 643,
-   "gan": 2010.59,
-   "nNeta": 95,
-   "neta": 153.45
+   "n": 637,
+   "gan": 1995.84,
+   "nNeta": 98,
+   "neta": 163.49
   },
   {
    "s": 30,
-   "n": 207,
-   "gan": 334.14,
+   "n": 203,
+   "gan": 320.4,
    "nNeta": 26,
    "neta": 51.07
   }
  ],
- "rentables": 1353,
+ "rentables": 1363,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 10,
-   "neta": 9.71,
-   "dias": 0.31,
-   "semana": 217.39
+   "ops": 11,
+   "neta": 16.52,
+   "dias": 0.35,
+   "semana": 332.68
   },
   {
    "capital": 1000,
-   "ops": 16,
-   "neta": 27.95,
-   "dias": 0.31,
-   "semana": 625.68
+   "ops": 17,
+   "neta": 34.76,
+   "dias": 0.35,
+   "semana": 700
   },
   {
    "capital": 2000,
-   "ops": 18,
-   "neta": 34.15,
-   "dias": 0.31,
-   "semana": 764.51
+   "ops": 20,
+   "neta": 45.25,
+   "dias": 0.35,
+   "semana": 911.37
   }
  ],
  "realista": {
   "reaccion": 0.5,
-  "conDato": 253,
-  "n": 77,
-  "gan": 142.12,
-  "nNeta": 18,
-  "neta": 34.15
+  "conDato": 294,
+  "n": 83,
+  "gan": 194.82,
+  "nNeta": 23,
+  "neta": 65.16
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1000
+   "n": 1011
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1681
+   "n": 1689
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1070
+   "n": 1066
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 436
+   "n": 434
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 149
+   "n": 146
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 58
+   "n": 57
   }
  ],
  "porEvento": [
@@ -188,10 +188,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793869200000,
-   "n": 3
-  },
   {
    "h": 1793872800000,
    "n": 5
@@ -474,127 +470,131 @@
   },
   {
    "h": 1794128400000,
-   "n": 17
+   "n": 56
+  },
+  {
+   "h": 1794132000000,
+   "n": 2
   }
  ],
  "recientes": [
   {
-   "inicio": 1794129549004,
-   "titulo": "Gangwon FC vs. Jeonbuk Hyundai Motors FC",
-   "dur": 0.307,
-   "gan": 0.63,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794129120548,
-   "titulo": "Bucheon FC 1995 vs. Pohang Steelers FC",
-   "dur": 1.514,
-   "gan": 1.98,
-   "neta": 1.68,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794129045288,
-   "titulo": "Beijing Guoan FC vs. Chongqing Tonglianglong FC",
-   "dur": 0.347,
-   "gan": 3.8,
-   "neta": 3.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794128959323,
-   "titulo": "Shandong Taishan FC vs. Chengdu Rongcheng FC",
-   "dur": 1.19,
-   "gan": 1.28,
-   "neta": 0.04,
+   "inicio": 1794132314896,
+   "titulo": "FC Utrecht vs. NEC",
+   "dur": 0.065,
+   "gan": 1.64,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794128839179,
-   "titulo": "Qingdao Hainiu FC vs. Shenzhen Xinpengcheng FC",
-   "dur": 2.471,
-   "gan": 0.53,
+   "inicio": 1794132037396,
+   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
+   "dur": 0.042,
+   "gan": 3.02,
+   "neta": 1.44,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794131498274,
+   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
+   "dur": 0.994,
+   "gan": 2.18,
+   "neta": 1.28,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794131497295,
+   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
+   "dur": 0.95,
+   "gan": 1,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794131494888,
+   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
+   "dur": 0.315,
+   "gan": 1.37,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794131489963,
+   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
+   "dur": 0.129,
+   "gan": 1.02,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794131485440,
+   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
+   "dur": 1.61,
+   "gan": 0.7,
+   "neta": 0.31,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794131481864,
+   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
+   "dur": 0.094,
+   "gan": 0.9,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794131481256,
+   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
+   "dur": 0.093,
+   "gan": 1.04,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794131480866,
+   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
+   "dur": 0.184,
+   "gan": 1.04,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794131467505,
+   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
+   "dur": 0.918,
+   "gan": 0.6,
+   "neta": 0.06,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794131467489,
+   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
+   "dur": 0.002,
+   "gan": 0.61,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794128837163,
-   "titulo": "Qingdao Hainiu FC vs. Shenzhen Xinpengcheng FC",
-   "dur": 1.503,
-   "gan": 1.22,
-   "neta": 0,
+   "inicio": 1794131457743,
+   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
+   "dur": 0.221,
+   "gan": 103.34,
+   "neta": 73.08,
    "lado": "si"
   },
   {
-   "inicio": 1794128836983,
-   "titulo": "Qingdao Hainiu FC vs. Shenzhen Xinpengcheng FC",
-   "dur": 0.064,
-   "gan": 0.95,
-   "neta": 0,
+   "inicio": 1794131455603,
+   "titulo": "JEF United Ichihara Chiba vs. FC Mito Holly Hock",
+   "dur": 2.018,
+   "gan": 13.48,
+   "neta": 5.98,
    "lado": "si"
   },
   {
-   "inicio": 1794128823632,
-   "titulo": "Qingdao Hainiu FC vs. Shenzhen Xinpengcheng FC",
-   "dur": 0.488,
-   "gan": 0.76,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794128822580,
-   "titulo": "Qingdao Hainiu FC vs. Shenzhen Xinpengcheng FC",
-   "dur": 0.441,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794128818085,
-   "titulo": "Qingdao Hainiu FC vs. Shenzhen Xinpengcheng FC",
-   "dur": 0.089,
-   "gan": 4.87,
-   "neta": 2.3,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794128816420,
-   "titulo": "Qingdao Hainiu FC vs. Shenzhen Xinpengcheng FC",
-   "dur": 0.217,
-   "gan": 0.83,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794128579811,
-   "titulo": "Shandong Taishan FC vs. Chengdu Rongcheng FC",
-   "dur": 0.472,
+   "inicio": 1794131281169,
+   "titulo": "SSC Napoli vs. SS Lazio",
+   "dur": 0.246,
    "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794128562638,
-   "titulo": "Shandong Taishan FC vs. Chengdu Rongcheng FC",
-   "dur": 0.839,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794128562492,
-   "titulo": "Shandong Taishan FC vs. Chengdu Rongcheng FC",
-   "dur": 0.027,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794128561516,
-   "titulo": "Shandong Taishan FC vs. Chengdu Rongcheng FC",
-   "dur": 0.907,
-   "gan": 0.7,
    "neta": 0,
    "lado": "no"
   }
