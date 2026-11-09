@@ -218,6 +218,8 @@ const esperaResolucion = (e) => { const m = margenCierre(e); return m !== null &
 // (fecha de cierre, o la compra si ya pasó, más 3 horas); mientras tanto no se puede reusar.
 // Si el arbitraje cuesta más que el dinero libre, se toma solo la parte que alcanza.
 const CAPITALES = [500, 1000, 2000];
+const MIN_RENDIMIENTO = 0.005;           // rendimiento neto mínimo por operación (0.5%)
+const MAX_BLOQUEO_H = 24;                // solo se bloquea dinero en eventos que se resuelven en 24 horas o menos
 // Un arbitraje que rinde más de 10% de una sola vez es anormal: suele ser una orden equivocada
 // en un mercado con poca liquidez o un mercado mal armado. Se excluye de las simulaciones
 // y se muestra aparte para revisarlo.
@@ -227,19 +229,28 @@ function simularCapitales(cerrados) {
   const conDato = cerrados.filter(e => e.espera !== undefined && !esSospechoso(e)).sort((a, b) => a.inicio - b.inicio);
   if (!conDato.length) return null;
   const dias = Math.max((Date.now() - conDato[0].inicio) / 864e5, 1 / 24);
+  // Una sola simulación continua sobre todo el historial: el dinero bloqueado
+  // un día sigue bloqueado al día siguiente. La ganancia se anota en el día de la compra.
   return CAPITALES.map(cap => {
-    let libre = cap, bloqueos = [], neta = 0, ops = 0;
+    let libre = cap, bloqueos = [], neta = 0, ops = 0, descartadas = 0;
+    const porDia = {};
     for (const e of conDato) {
       const c = capturaA(e, REACCION_RAPIDA + e.espera);
       if (!c || c.neta <= 0) continue;
+      const fin = Math.max(e.fin ? new Date(e.fin).getTime() : e.inicio, e.inicio) + 3 * 3600e3;
+      // No se bloquea dinero en eventos que tardan más de 24 horas en resolverse,
+      // ni en arbitrajes que rinden menos de 0.5% (inmovilizan mucho dinero por centavos)
+      if (fin - e.inicio > MAX_BLOQUEO_H * 3600e3 || c.neta / e.costoInicio < MIN_RENDIMIENTO) { descartadas++; continue; }
       bloqueos = bloqueos.filter(([hasta, monto]) => { if (hasta <= e.inicio) { libre += monto; return false; } return true; });
       const usar = Math.min(e.costoInicio, libre);
       if (usar < 1) continue;
-      neta += c.neta * usar / e.costoInicio; ops++; libre -= usar;
-      const fin = Math.max(e.fin ? new Date(e.fin).getTime() : e.inicio, e.inicio) + 3 * 3600e3;
+      const g = c.neta * usar / e.costoInicio;
+      neta += g; ops++; libre -= usar;
+      const d = diaLima(e.inicio); porDia[d] = porDia[d] || { ops: 0, neta: 0 };
+      porDia[d].ops++; porDia[d].neta += g;
       bloqueos.push([fin, usar]);
     }
-    return { capital: cap, ops, neta: +neta.toFixed(2), dias: +dias.toFixed(2), semana: +(neta / dias * 7).toFixed(2) };
+    return { capital: cap, ops, descartadas, neta: +neta.toFixed(2), dias: +dias.toFixed(2), semana: +(neta / dias * 7).toFixed(2), porDia };
   });
 }
 // Oportunidades que aparecieron durante esta ejecución (para la línea "Última revisión" del tablero)
@@ -276,7 +287,7 @@ function resumen(final) {
       return { s, n: cap.length, gan: +cap.reduce((a, b) => a + b.bruta, 0).toFixed(2), nNeta: netas.length, neta: +netas.reduce((a, b) => a + b.neta, 0).toFixed(2) };
     }),
     rentables: cerrados.filter(e => (e.netaInicio || 0) > 0).length,
-    porCapital: simularCapitales(cerrados),
+    porCapital: (simularCapitales(cerrados) || []).map(({ porDia, ...c }) => c), maxBloqueoH: MAX_BLOQUEO_H, minRendimiento: MIN_RENDIMIENTO,
     semanas: semanas(), criterioSemanal: CRITERIO_SEMANAL,
     sospechosas: (() => {
       const lista = cerrados.filter(esSospechoso);
@@ -304,21 +315,21 @@ function resumen(final) {
 const INICIO_DIARIO = '2026-11-08';        // primer día completo con todas las correcciones
 const CRITERIO_SEMANAL = 10;               // neto semanal mínimo con $500: el doble de un servidor de ~$20 al mes
 const diaLima = (t) => new Date(t - 5 * 3600e3).toISOString().slice(0, 10);
-function resumirDia(dia) {
+function resumirDia(dia, sim) {
   const delDia = episodios.filter(e => e.verificado !== false && diaLima(e.inicio) === dia);
   const cortos = delDia.filter(esCorto);
   const validos = cortos.filter(e => e.espera !== undefined && !esSospechoso(e));
   const cap = validos.map(e => capturaA(e, REACCION_RAPIDA + e.espera)).filter(x => x !== null && x.neta > 0);
-  const caps = simularCapitales(validos) || [];
   const previo = diario[dia] || {};
   return {
     minutos: previo.minutos || 0,
     episodios: cortos.length, sospechosas: cortos.filter(esSospechoso).length,
     realistaN: cap.length, realistaNeta: +cap.reduce((a, b) => a + b.neta, 0).toFixed(2),
-    capital: Object.fromEntries(caps.map(c => [c.capital, c.neta]))
+    capital: Object.fromEntries((sim || []).map(c => [c.capital, +((c.porDia[dia] || {}).neta || 0).toFixed(2)]))
   };
 }
 function actualizarDiario(final) {
+  const sim = simularCapitales(episodios.filter(e => e.verificado !== false && esCorto(e)));
   // se recalculan los días con episodios de esta ejecución (y el anterior, por si cruzó la medianoche)
   const dias = new Set([diaLima(ejecucion.inicio), diaLima(Date.now()), diaLima(ejecucion.inicio - 864e5)]);
   for (const dia of dias) {
@@ -326,11 +337,11 @@ function actualizarDiario(final) {
     // solo se recalcula si el historial detallado todavía cubre el día completo
     const cubre = episodios.length && diaLima(episodios[0].inicio) < dia;
     if (!cubre && diario[dia]) continue;
-    diario[dia] = resumirDia(dia);
+    diario[dia] = resumirDia(dia, sim);
   }
   if (final && diaLima(ejecucion.inicio) >= INICIO_DIARIO) {
     const d = diaLima(ejecucion.inicio);
-    diario[d] = diario[d] || resumirDia(d);
+    diario[d] = diario[d] || resumirDia(d, sim);
     diario[d].minutos = +((diario[d].minutos || 0) + (Date.now() - ejecucion.inicio) / 60000).toFixed(1);
   }
 }
