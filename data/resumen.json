@@ -1,78 +1,78 @@
 {
- "actualizado": 1794244326649,
+ "actualizado": 1794247341583,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794241326465,
-  "fin": 1794244326649,
-  "mensajes": 7256675,
-  "reconexiones": 0,
-  "eventos": 551,
+  "inicio": 1794244341319,
+  "fin": 1794247341583,
+  "mensajes": 6353706,
+  "reconexiones": 2,
+  "eventos": 555,
   "errores": []
  },
- "total": 5195,
+ "total": 5201,
  "falsos": 2162,
  "largos": {
-  "episodios": 7847,
-  "eventos": 122,
+  "episodios": 7860,
+  "eventos": 123,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9638,
+  "episodios": 9642,
   "eventos": 29
  },
- "mediana": 0.525,
+ "mediana": 0.526,
  "captura": [
   {
    "s": 0.5,
-   "n": 2646,
-   "gan": 11075.53,
+   "n": 2651,
+   "gan": 11078.51,
    "nNeta": 973,
    "neta": 3598.23
   },
   {
    "s": 2,
-   "n": 1205,
-   "gan": 5314.4,
+   "n": 1210,
+   "gan": 5317.38,
    "nNeta": 393,
    "neta": 1702.62
   },
   {
    "s": 5,
-   "n": 624,
-   "gan": 2751.68,
+   "n": 629,
+   "gan": 2754.66,
    "nNeta": 147,
    "neta": 422.18
   },
   {
    "s": 30,
-   "n": 190,
-   "gan": 546.31,
+   "n": 193,
+   "gan": 548.25,
    "nNeta": 35,
    "neta": 81.01
   }
  ],
- "rentables": 1823,
+ "rentables": 1824,
  "porCapital": [
   {
    "capital": 500,
    "ops": 41,
    "neta": 44.43,
-   "dias": 1.64,
-   "semana": 189.8
+   "dias": 1.67,
+   "semana": 185.84
   },
   {
    "capital": 1000,
    "ops": 55,
    "neta": 123.16,
-   "dias": 1.64,
-   "semana": 526.13
+   "dias": 1.67,
+   "semana": 515.16
   },
   {
    "capital": 2000,
    "ops": 78,
    "neta": 140.76,
-   "dias": 1.64,
-   "semana": 601.33
+   "dias": 1.67,
+   "semana": 588.8
   }
  ],
  "semanas": [
@@ -93,8 +93,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 1,
-   "horas": 11.7,
-   "episodios": 94,
+   "horas": 12.5,
+   "episodios": 100,
    "sospechosas": 1,
    "realistaNeta": 6.24,
    "capital": {
@@ -214,9 +214,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1715,
-  "n": 516,
-  "gan": 2415.26,
+  "conDato": 1721,
+  "n": 521,
+  "gan": 2418.24,
   "nNeta": 219,
   "neta": 743.79
  },
@@ -229,7 +229,7 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2035
+   "n": 2036
   },
   {
    "et": "1–5 s",
@@ -239,17 +239,17 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 434
+   "n": 436
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 134
+   "n": 135
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 56
+   "n": 58
   }
  ],
  "porEvento": [
@@ -325,10 +325,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793984400000,
-   "n": 13
-  },
   {
    "h": 1793988000000,
    "n": 31
@@ -612,9 +608,61 @@
   {
    "h": 1794240000000,
    "n": 2
+  },
+  {
+   "h": 1794243600000,
+   "n": 6
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794246858895,
+   "titulo": "Elon Musk # tweets November 9 - November 11, 2026?",
+   "dur": 482.426,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794246840438,
+   "titulo": "Elon Musk # tweets November 9 - November 11, 2026?",
+   "dur": 5.954,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794246222887,
+   "titulo": "Elon Musk # tweets November 9 - November 11, 2026?",
+   "dur": 573.799,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794245942732,
+   "titulo": "Elon Musk # tweets November 9 - November 11, 2026?",
+   "dur": 100.847,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794245897531,
+   "titulo": "Elon Musk # tweets November 9 - November 11, 2026?",
+   "dur": 12.598,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794244973995,
+   "titulo": "What will the biggest earthquake be on November 8, 2026?",
+   "dur": 0.291,
+   "gan": 1.64,
+   "neta": 1.54,
+   "lado": "no"
+  },
   {
    "inicio": 1794240851932,
    "titulo": "Elon Musk # tweets November 9 - November 11, 2026?",
@@ -684,54 +732,6 @@
    "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
    "dur": 0.025,
    "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794239090437,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 0.001,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794239090109,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 0.279,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794239090034,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 0.003,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794239089879,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 0.122,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794239089551,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 0.325,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794238908809,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 0.074,
-   "gan": 0.53,
    "neta": 0,
    "lado": "si"
   }
