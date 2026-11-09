@@ -1,18 +1,18 @@
 {
- "actualizado": 1794187032904,
+ "actualizado": 1794190045847,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794184032716,
-  "fin": 1794187032904,
-  "mensajes": 7588511,
-  "reconexiones": 0,
-  "eventos": 571,
+  "inicio": 1794187045644,
+  "fin": 1794190045847,
+  "mensajes": 7726175,
+  "reconexiones": 2,
+  "eventos": 578,
   "errores": []
  },
- "total": 5056,
- "falsos": 2113,
+ "total": 5064,
+ "falsos": 2116,
  "largos": {
-  "episodios": 7049,
+  "episodios": 7066,
   "eventos": 112,
   "dias": 7
  },
@@ -24,15 +24,15 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2570,
-   "gan": 10856.21,
-   "nNeta": 955,
-   "neta": 3587.1
+   "n": 2574,
+   "gan": 10861.98,
+   "nNeta": 958,
+   "neta": 3590.46
   },
   {
    "s": 2,
-   "n": 1155,
-   "gan": 5119.1,
+   "n": 1156,
+   "gan": 5119.65,
    "nNeta": 383,
    "neta": 1696.04
   },
@@ -51,42 +51,42 @@
    "neta": 77.49
   }
  ],
- "rentables": 1786,
+ "rentables": 1792,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 32,
-   "neta": 40.03,
-   "dias": 0.98,
-   "semana": 287.3
+   "ops": 34,
+   "neta": 41.27,
+   "dias": 1.01,
+   "semana": 285.97
   },
   {
    "capital": 1000,
-   "ops": 46,
-   "neta": 117.77,
-   "dias": 0.98,
-   "semana": 845.19
+   "ops": 48,
+   "neta": 119.93,
+   "dias": 1.01,
+   "semana": 830.98
   },
   {
    "capital": 2000,
-   "ops": 69,
-   "neta": 135.25,
-   "dias": 0.98,
-   "semana": 970.58
+   "ops": 71,
+   "neta": 137.41,
+   "dias": 1.01,
+   "semana": 952.05
   }
  ],
  "semanas": [
   {
    "lunes": "2026-11-02",
    "dias": 1,
-   "horas": 10.8,
-   "episodios": 1469,
+   "horas": 11.7,
+   "episodios": 1477,
    "sospechosas": 31,
-   "realistaNeta": 728.55,
+   "realistaNeta": 730.71,
    "capital": {
-    "500": 34.55,
-    "1000": 112.29,
-    "2000": 130.31
+    "500": 35.79,
+    "1000": 114.45,
+    "2000": 132.47
    },
    "cumple": true
   }
@@ -200,27 +200,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1577,
-  "n": 446,
-  "gan": 2201.21,
-  "nNeta": 205,
-  "neta": 734.43
+  "conDato": 1585,
+  "n": 449,
+  "gan": 2204.9,
+  "nNeta": 207,
+  "neta": 736.59
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1218
+   "n": 1219
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1999
+   "n": 2002
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1245
+   "n": 1248
   },
   {
    "et": "5–30 s",
@@ -311,10 +311,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793923200000,
-   "n": 13
-  },
   {
    "h": 1793926800000,
    "n": 18
@@ -598,9 +594,77 @@
   {
    "h": 1794182400000,
    "n": 72
+  },
+  {
+   "h": 1794186000000,
+   "n": 8
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794188033112,
+   "titulo": "Querétaro FC vs. Club Puebla",
+   "dur": 0.126,
+   "gan": 0.5,
+   "neta": 0.17,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794188032339,
+   "titulo": "Querétaro FC vs. Club Puebla",
+   "dur": 0.749,
+   "gan": 0.86,
+   "neta": 0.18,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794188025740,
+   "titulo": "Querétaro FC vs. Club Puebla",
+   "dur": 0.218,
+   "gan": 1.84,
+   "neta": 0.11,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794187978422,
+   "titulo": "Club Blooming vs. CD Oriente Petrolero",
+   "dur": 1.618,
+   "gan": 1.94,
+   "neta": 1.62,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794187946250,
+   "titulo": "Querétaro FC vs. Club Puebla",
+   "dur": 1.924,
+   "gan": 0.56,
+   "neta": 0.04,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794187943294,
+   "titulo": "Querétaro FC vs. Club Puebla",
+   "dur": 0.05,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794187932943,
+   "titulo": "Querétaro FC vs. Club Puebla",
+   "dur": 4.04,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794187917332,
+   "titulo": "Querétaro FC vs. Club Puebla",
+   "dur": -0.001,
+   "gan": 0.9,
+   "neta": 0.63,
+   "lado": "si"
+  },
   {
    "inicio": 1794185788998,
    "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
@@ -655,70 +719,6 @@
    "dur": 0.629,
    "gan": 2.89,
    "neta": 1.44,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794185726112,
-   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
-   "dur": 0.04,
-   "gan": 0.53,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794185725983,
-   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
-   "dur": 0.079,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794185724285,
-   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
-   "dur": 0.339,
-   "gan": 0.89,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794185723808,
-   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
-   "dur": 0.451,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794185723369,
-   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
-   "dur": 0.437,
-   "gan": 1.96,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794185720135,
-   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
-   "dur": 0.025,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794185691600,
-   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
-   "dur": 0.042,
-   "gan": 0.53,
-   "neta": 0.22,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794185691485,
-   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
-   "dur": 0.097,
-   "gan": 0.79,
-   "neta": 0.5,
    "lado": "si"
   }
  ]
