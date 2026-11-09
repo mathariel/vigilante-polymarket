@@ -1,81 +1,81 @@
 {
- "actualizado": 1794259402635,
+ "actualizado": 1794262417229,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794256402405,
-  "fin": 1794259402635,
-  "mensajes": 9004738,
-  "reconexiones": 0,
-  "eventos": 551,
+  "inicio": 1794259416997,
+  "fin": 1794262417229,
+  "mensajes": 7798386,
+  "reconexiones": 1,
+  "eventos": 548,
   "errores": [],
-  "nuevos": 23,
-  "nuevosRentables": 2,
-  "nuevosNeta": 0.48
+  "nuevos": 16,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.25
  },
- "total": 5349,
- "falsos": 2221,
+ "total": 5366,
+ "falsos": 2227,
  "largos": {
-  "episodios": 7954,
+  "episodios": 7960,
   "eventos": 123,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9649,
-  "eventos": 29
+  "episodios": 9663,
+  "eventos": 30
  },
  "mediana": 0.514,
  "captura": [
   {
    "s": 0.5,
-   "n": 2706,
-   "gan": 11190.9,
-   "nNeta": 988,
-   "neta": 3611.31
+   "n": 2715,
+   "gan": 11200.55,
+   "nNeta": 991,
+   "neta": 3612.76
   },
   {
    "s": 2,
-   "n": 1233,
-   "gan": 5383.46,
-   "nNeta": 397,
-   "neta": 1707.69
+   "n": 1235,
+   "gan": 5385.71,
+   "nNeta": 398,
+   "neta": 1708.01
   },
   {
    "s": 5,
-   "n": 642,
-   "gan": 2782.14,
-   "nNeta": 148,
-   "neta": 425.33
+   "n": 644,
+   "gan": 2784.39,
+   "nNeta": 149,
+   "neta": 425.65
   },
   {
    "s": 30,
-   "n": 195,
-   "gan": 550.33,
-   "nNeta": 35,
-   "neta": 81.01
+   "n": 197,
+   "gan": 552.58,
+   "nNeta": 36,
+   "neta": 81.33
   }
  ],
- "rentables": 1855,
+ "rentables": 1863,
  "porCapital": [
   {
    "capital": 500,
    "ops": 42,
    "neta": 44.44,
-   "dias": 1.81,
-   "semana": 171.59
+   "dias": 1.85,
+   "semana": 168.35
   },
   {
    "capital": 1000,
    "ops": 56,
    "neta": 123.17,
-   "dias": 1.81,
-   "semana": 475.55
+   "dias": 1.85,
+   "semana": 466.57
   },
   {
    "capital": 2000,
    "ops": 79,
    "neta": 140.77,
-   "dias": 1.81,
-   "semana": 543.51
+   "dias": 1.85,
+   "semana": 533.25
   }
  ],
  "semanas": [
@@ -96,10 +96,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 1,
-   "horas": 15.8,
-   "episodios": 248,
+   "horas": 16.7,
+   "episodios": 265,
    "sospechosas": 3,
-   "realistaNeta": 11.34,
+   "realistaNeta": 11.59,
    "capital": {
     "500": 2.2,
     "1000": 2.27,
@@ -217,27 +217,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1867,
-  "n": 547,
-  "gan": 2486.96,
-  "nNeta": 224,
-  "neta": 748.89
+  "conDato": 1884,
+  "n": 549,
+  "gan": 2488.94,
+  "nNeta": 225,
+  "neta": 749.14
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1297
+   "n": 1299
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2106
+   "n": 2116
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1298
+   "n": 1301
   },
   {
    "et": "5–30 s",
@@ -247,12 +247,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 136
+   "n": 137
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 59
+   "n": 60
   }
  ],
  "porEvento": [
@@ -328,10 +328,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794002400000,
-   "n": 29
-  },
   {
    "h": 1794006000000,
    "n": 96
@@ -614,129 +610,133 @@
   },
   {
    "h": 1794258000000,
-   "n": 5
+   "n": 20
+  },
+  {
+   "h": 1794261600000,
+   "n": 2
   }
  ],
  "recientes": [
   {
-   "inicio": 1794258562923,
+   "inicio": 1794259400074,
    "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 839.485,
-   "gan": 1.38,
+   "dur": 3016.927,
+   "gan": 0.98,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794259384614,
-   "titulo": "UD Las Palmas vs. CD Eldense",
-   "dur": 3.132,
-   "gan": 0.54,
-   "neta": 0.18,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794259216162,
+   "inicio": 1794262240154,
    "titulo": "CD Tecnico Universitario vs. Manta FC",
-   "dur": 0.084,
-   "gan": 0.57,
-   "neta": 0.26,
+   "dur": 0.954,
+   "gan": 2.06,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794262240092,
+   "titulo": "CD Tecnico Universitario vs. Manta FC",
+   "dur": 0.046,
+   "gan": 0.74,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794261438394,
+   "titulo": "CD Tecnico Universitario vs. Manta FC",
+   "dur": 1.018,
+   "gan": 1,
+   "neta": 0.39,
    "lado": "si"
   },
   {
-   "inicio": 1794259094485,
-   "titulo": "Sportivo San Lorenzo vs. Rubio Nu",
-   "dur": 0.582,
-   "gan": 0.61,
+   "inicio": 1794261437044,
+   "titulo": "CD Tecnico Universitario vs. Manta FC",
+   "dur": 0.417,
+   "gan": 3.3,
+   "neta": 1.72,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794261208992,
+   "titulo": "CD Tecnico Universitario vs. Manta FC",
+   "dur": 0.859,
+   "gan": 0.88,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794258531138,
-   "titulo": "UD Las Palmas vs. CD Eldense",
-   "dur": 0.801,
+   "inicio": 1794260775351,
+   "titulo": "SCU Torreense vs. UD Leiria",
+   "dur": 0.246,
+   "gan": 12.68,
+   "neta": 8.15,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794260725271,
+   "titulo": "SCU Torreense vs. UD Leiria",
+   "dur": 0.27,
+   "gan": 0.57,
+   "neta": 0.17,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794260673963,
+   "titulo": "SCU Torreense vs. UD Leiria",
+   "dur": 0.024,
+   "gan": 0.66,
+   "neta": 0.34,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794260474055,
+   "titulo": "Sportivo San Lorenzo vs. Rubio Nu",
+   "dur": 1.107,
    "gan": 0.69,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794257810755,
-   "titulo": "Plymouth Parkway FC vs. Berkhamsted FC",
-   "dur": 0.684,
-   "gan": 11.49,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794257738158,
-   "titulo": "Jordan vs. Indonesia",
-   "dur": 0.558,
-   "gan": 0.54,
+   "inicio": 1794260473433,
+   "titulo": "Sportivo San Lorenzo vs. Rubio Nu",
+   "dur": 0.621,
+   "gan": 0.98,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794257498772,
-   "titulo": "AZ Picerno vs. SSC Bari",
-   "dur": 1.559,
-   "gan": 2.64,
-   "neta": 0.47,
+   "inicio": 1794260215739,
+   "titulo": "Independiente Valle Del Cauca vs. Union Magdalena",
+   "dur": 1.139,
+   "gan": 1.46,
+   "neta": 0.8,
    "lado": "si"
   },
   {
-   "inicio": 1794257155158,
-   "titulo": "UD Las Palmas vs. CD Eldense",
-   "dur": 0.713,
-   "gan": 5.91,
-   "neta": 3.96,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794257151359,
-   "titulo": "UD Las Palmas vs. CD Eldense",
-   "dur": 0.052,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794257137918,
-   "titulo": "UD Las Palmas vs. CD Eldense",
-   "dur": 0.946,
-   "gan": 0.54,
+   "inicio": 1794260019705,
+   "titulo": "Highest temperature in London on November 11?",
+   "dur": 56.566,
+   "gan": 0.81,
    "neta": 0.2,
    "lado": "si"
   },
   {
-   "inicio": 1794257137864,
-   "titulo": "UD Las Palmas vs. CD Eldense",
-   "dur": 0.023,
-   "gan": 0.61,
-   "neta": 0.2,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794257132137,
-   "titulo": "UD Las Palmas vs. CD Eldense",
-   "dur": 2.41,
+   "inicio": 1794260018864,
+   "titulo": "Highest temperature in London on November 11?",
+   "dur": 0.117,
    "gan": 0.67,
-   "neta": 0,
+   "neta": 0.01,
    "lado": "si"
   },
   {
-   "inicio": 1794257122599,
-   "titulo": "UD Las Palmas vs. CD Eldense",
-   "dur": 0.715,
-   "gan": 0.61,
+   "inicio": 1794259887079,
+   "titulo": "Sportivo San Lorenzo vs. Rubio Nu",
+   "dur": 0.19,
+   "gan": 0.53,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794257122388,
-   "titulo": "UD Las Palmas vs. CD Eldense",
-   "dur": 0.147,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
+   "lado": "no"
   }
  ]
 }
