@@ -1,92 +1,92 @@
 {
- "actualizado": 1794190045847,
+ "actualizado": 1794193060724,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794187045644,
-  "fin": 1794190045847,
-  "mensajes": 7726175,
+  "inicio": 1794190060530,
+  "fin": 1794193060724,
+  "mensajes": 7560446,
   "reconexiones": 2,
-  "eventos": 578,
+  "eventos": 575,
   "errores": []
  },
- "total": 5064,
- "falsos": 2116,
+ "total": 5074,
+ "falsos": 2117,
  "largos": {
-  "episodios": 7066,
-  "eventos": 112,
+  "episodios": 7121,
+  "eventos": 113,
   "dias": 7
  },
  "enEspera": {
   "episodios": 8965,
   "eventos": 27
  },
- "mediana": 0.52,
+ "mediana": 0.522,
  "captura": [
   {
    "s": 0.5,
-   "n": 2574,
-   "gan": 10861.98,
-   "nNeta": 958,
-   "neta": 3590.46
+   "n": 2582,
+   "gan": 10870.67,
+   "nNeta": 960,
+   "neta": 3591.97
   },
   {
    "s": 2,
-   "n": 1156,
-   "gan": 5119.65,
+   "n": 1162,
+   "gan": 5126.45,
    "nNeta": 383,
    "neta": 1696.04
   },
   {
    "s": 5,
-   "n": 589,
-   "gan": 2569.63,
+   "n": 595,
+   "gan": 2576.43,
    "nNeta": 142,
    "neta": 418.65
   },
   {
    "s": 30,
-   "n": 172,
-   "gan": 381.8,
+   "n": 177,
+   "gan": 388.05,
    "nNeta": 31,
    "neta": 77.49
   }
  ],
- "rentables": 1792,
+ "rentables": 1795,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 34,
-   "neta": 41.27,
-   "dias": 1.01,
-   "semana": 285.97
+   "ops": 35,
+   "neta": 42.23,
+   "dias": 1.05,
+   "semana": 282.86
   },
   {
    "capital": 1000,
-   "ops": 48,
-   "neta": 119.93,
-   "dias": 1.01,
-   "semana": 830.98
+   "ops": 49,
+   "neta": 120.89,
+   "dias": 1.05,
+   "semana": 809.67
   },
   {
    "capital": 2000,
-   "ops": 71,
-   "neta": 137.41,
-   "dias": 1.01,
-   "semana": 952.05
+   "ops": 72,
+   "neta": 138.37,
+   "dias": 1.05,
+   "semana": 926.69
   }
  ],
  "semanas": [
   {
    "lunes": "2026-11-02",
    "dias": 1,
-   "horas": 11.7,
-   "episodios": 1477,
+   "horas": 12.5,
+   "episodios": 1487,
    "sospechosas": 31,
-   "realistaNeta": 730.71,
+   "realistaNeta": 731.67,
    "capital": {
-    "500": 35.79,
-    "1000": 114.45,
-    "2000": 132.47
+    "500": 36.75,
+    "1000": 115.41,
+    "2000": 133.43
    },
    "cumple": true
   }
@@ -200,42 +200,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1585,
-  "n": 449,
-  "gan": 2204.9,
-  "nNeta": 207,
-  "neta": 736.59
+  "conDato": 1595,
+  "n": 456,
+  "gan": 2212.98,
+  "nNeta": 208,
+  "neta": 737.55
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1219
+   "n": 1220
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2002
+   "n": 2004
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1248
+   "n": 1249
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 417
+   "n": 418
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 118
+   "n": 122
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 54
+   "n": 55
   }
  ],
  "porEvento": [
@@ -311,10 +311,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793926800000,
-   "n": 18
-  },
   {
    "h": 1793930400000,
    "n": 8
@@ -598,9 +594,93 @@
   {
    "h": 1794186000000,
    "n": 8
+  },
+  {
+   "h": 1794189600000,
+   "n": 10
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794192859139,
+   "titulo": "Lowest temperature in Cape Town on November 9?",
+   "dur": 1.214,
+   "gan": 1.28,
+   "neta": 0.96,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794191626873,
+   "titulo": "Club León FC vs. CD Guadalajara",
+   "dur": 0.039,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794191223271,
+   "titulo": "What will the biggest earthquake be on November 9, 2026?",
+   "dur": 360.029,
+   "gan": 1.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794191421910,
+   "titulo": "Club León FC vs. CD Guadalajara",
+   "dur": 0.225,
+   "gan": 19.39,
+   "neta": 5.4,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794191103203,
+   "titulo": "What will the biggest earthquake be on November 9, 2026?",
+   "dur": 59.998,
+   "gan": 1.59,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794190983333,
+   "titulo": "What will the biggest earthquake be on November 9, 2026?",
+   "dur": 59.911,
+   "gan": 1.59,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794190863282,
+   "titulo": "What will the biggest earthquake be on November 9, 2026?",
+   "dur": 33.783,
+   "gan": 1.09,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794190743244,
+   "titulo": "What will the biggest earthquake be on November 9, 2026?",
+   "dur": 59.92,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794190683211,
+   "titulo": "What will the biggest earthquake be on November 9, 2026?",
+   "dur": 7.138,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794190387355,
+   "titulo": "Club Universitario de Deportes vs. CD Moquegua",
+   "dur": 0.772,
+   "gan": 0.51,
+   "neta": 0.45,
+   "lado": "no"
+  },
   {
    "inicio": 1794188033112,
    "titulo": "Querétaro FC vs. Club Puebla",
@@ -639,86 +719,6 @@
    "dur": 1.924,
    "gan": 0.56,
    "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794187943294,
-   "titulo": "Querétaro FC vs. Club Puebla",
-   "dur": 0.05,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794187932943,
-   "titulo": "Querétaro FC vs. Club Puebla",
-   "dur": 4.04,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794187917332,
-   "titulo": "Querétaro FC vs. Club Puebla",
-   "dur": -0.001,
-   "gan": 0.9,
-   "neta": 0.63,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794185788998,
-   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
-   "dur": 0.029,
-   "gan": 1.2,
-   "neta": 0.75,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794185788074,
-   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
-   "dur": 0.91,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794185728865,
-   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
-   "dur": 0.349,
-   "gan": 0.64,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794185728167,
-   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
-   "dur": 0.428,
-   "gan": 0.87,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794185727422,
-   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
-   "dur": 0.534,
-   "gan": 1.33,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794185726825,
-   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
-   "dur": 0.567,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794185726178,
-   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
-   "dur": 0.629,
-   "gan": 2.89,
-   "neta": 1.44,
    "lado": "si"
   }
  ]
