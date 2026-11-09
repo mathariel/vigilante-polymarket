@@ -1,45 +1,48 @@
 {
- "actualizado": 1794250356939,
+ "actualizado": 1794253372434,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794247356772,
-  "fin": 1794250356939,
-  "mensajes": 8107637,
-  "reconexiones": 2,
-  "eventos": 545,
-  "errores": []
+  "inicio": 1794250372196,
+  "fin": 1794253372434,
+  "mensajes": 8349486,
+  "reconexiones": 0,
+  "eventos": 548,
+  "errores": [],
+  "nuevos": 53,
+  "nuevosRentables": 1,
+  "nuevosNeta": 1.4
  },
- "total": 5249,
- "falsos": 2165,
+ "total": 5302,
+ "falsos": 2181,
  "largos": {
-  "episodios": 7880,
+  "episodios": 7889,
   "eventos": 123,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9644,
+  "episodios": 9646,
   "eventos": 29
  },
- "mediana": 0.517,
+ "mediana": 0.511,
  "captura": [
   {
    "s": 0.5,
-   "n": 2663,
-   "gan": 11096.38,
-   "nNeta": 973,
-   "neta": 3598.23
+   "n": 2679,
+   "gan": 11139.83,
+   "nNeta": 975,
+   "neta": 3600.79
   },
   {
    "s": 2,
-   "n": 1219,
-   "gan": 5333.17,
-   "nNeta": 393,
-   "neta": 1702.62
+   "n": 1224,
+   "gan": 5364.64,
+   "nNeta": 394,
+   "neta": 1704.02
   },
   {
    "s": 5,
-   "n": 634,
-   "gan": 2762.98,
+   "n": 638,
+   "gan": 2769.15,
    "nNeta": 147,
    "neta": 422.18
   },
@@ -51,28 +54,28 @@
    "neta": 81.01
   }
  ],
- "rentables": 1825,
+ "rentables": 1830,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 41,
-   "neta": 44.43,
-   "dias": 1.71,
-   "semana": 182.05
+   "ops": 42,
+   "neta": 44.44,
+   "dias": 1.74,
+   "semana": 178.45
   },
   {
    "capital": 1000,
-   "ops": 55,
-   "neta": 123.16,
-   "dias": 1.71,
-   "semana": 504.64
+   "ops": 56,
+   "neta": 123.17,
+   "dias": 1.74,
+   "semana": 494.59
   },
   {
    "capital": 2000,
-   "ops": 78,
-   "neta": 140.76,
-   "dias": 1.71,
-   "semana": 576.77
+   "ops": 79,
+   "neta": 140.77,
+   "dias": 1.74,
+   "semana": 565.27
   }
  ],
  "semanas": [
@@ -93,10 +96,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 1,
-   "horas": 13.3,
-   "episodios": 148,
-   "sospechosas": 1,
-   "realistaNeta": 6.24,
+   "horas": 14.2,
+   "episodios": 201,
+   "sospechosas": 2,
+   "realistaNeta": 7.64,
    "capital": {
     "500": 2.2,
     "1000": 2.27,
@@ -108,7 +111,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 101,
+  "n": 102,
   "top": [
    {
     "inicio": 1794062797308,
@@ -214,32 +217,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1769,
-  "n": 531,
-  "gan": 2434.63,
-  "nNeta": 219,
-  "neta": 743.79
+  "conDato": 1821,
+  "n": 536,
+  "gan": 2466.1,
+  "nNeta": 220,
+  "neta": 745.19
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1266
+   "n": 1288
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2058
+   "n": 2082
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1285
+   "n": 1288
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 440
+   "n": 444
   },
   {
    "et": "30 s–5 min",
@@ -282,6 +285,13 @@
    "mediana": 0.385
   },
   {
+   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
+   "n": 84,
+   "gan": 230.85,
+   "neta": 0.11,
+   "mediana": 0.123
+  },
+  {
    "titulo": "RB Leipzig vs. Manchester City FC",
    "n": 80,
    "gan": 76.21,
@@ -315,20 +325,9 @@
    "gan": 135.57,
    "neta": 2.57,
    "mediana": 0.418
-  },
-  {
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "n": 65,
-   "gan": 45.11,
-   "neta": 4.05,
-   "mediana": 3.042
   }
  ],
  "porHora": [
-  {
-   "h": 1793991600000,
-   "n": 35
-  },
   {
    "h": 1793995200000,
    "n": 86
@@ -612,128 +611,132 @@
   {
    "h": 1794247200000,
    "n": 48
+  },
+  {
+   "h": 1794250800000,
+   "n": 53
   }
  ],
  "recientes": [
   {
-   "inicio": 1794250064417,
+   "inicio": 1794253200477,
    "titulo": "Mushuc Runa SC vs. Delfin SC",
-   "dur": 0.009,
-   "gan": 1.02,
-   "neta": 0.11,
-   "lado": "no"
+   "dur": 2.54,
+   "gan": 25.3,
+   "neta": 1.4,
+   "lado": "si"
   },
   {
-   "inicio": 1794250064409,
+   "inicio": 1794253184729,
    "titulo": "Mushuc Runa SC vs. Delfin SC",
-   "dur": 0,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794249262748,
-   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
-   "dur": 1.72,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794249252669,
-   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
-   "dur": 0.342,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794249249038,
-   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
-   "dur": 3.5,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794248145268,
-   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
-   "dur": 8.12,
-   "gan": 2.36,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794248130125,
-   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
-   "dur": 0.009,
+   "dur": 12.233,
    "gan": 0.53,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794248130099,
-   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
-   "dur": 0.002,
-   "gan": 0.52,
+   "inicio": 1794253184484,
+   "titulo": "Mushuc Runa SC vs. Delfin SC",
+   "dur": 0.043,
+   "gan": 0.72,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794248130072,
-   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
-   "dur": 0.022,
-   "gan": 0.56,
+   "inicio": 1794253184367,
+   "titulo": "Mushuc Runa SC vs. Delfin SC",
+   "dur": 0.027,
+   "gan": 0.62,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794248129012,
-   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
-   "dur": 0.111,
-   "gan": 2.34,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794248128075,
-   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
-   "dur": 0.127,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794248127648,
-   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
-   "dur": 0.108,
-   "gan": 2.34,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794248126244,
-   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
-   "dur": 0.019,
+   "inicio": 1794253183084,
+   "titulo": "Mushuc Runa SC vs. Delfin SC",
+   "dur": 0.618,
    "gan": 0.53,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794248125919,
-   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
-   "dur": 0.107,
-   "gan": 2.39,
+   "inicio": 1794253164176,
+   "titulo": "Mushuc Runa SC vs. Delfin SC",
+   "dur": 0.232,
+   "gan": 1.31,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794248124952,
-   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
-   "dur": 0.114,
-   "gan": 1.41,
+   "inicio": 1794253163506,
+   "titulo": "Mushuc Runa SC vs. Delfin SC",
+   "dur": 0.607,
+   "gan": 0.7,
    "neta": 0,
    "lado": "si"
+  },
+  {
+   "inicio": 1794253163466,
+   "titulo": "Mushuc Runa SC vs. Delfin SC",
+   "dur": 0.038,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794253162808,
+   "titulo": "Mushuc Runa SC vs. Delfin SC",
+   "dur": 0.134,
+   "gan": 0.71,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794253162754,
+   "titulo": "Mushuc Runa SC vs. Delfin SC",
+   "dur": 0.018,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794253162437,
+   "titulo": "Mushuc Runa SC vs. Delfin SC",
+   "dur": 0.051,
+   "gan": 1.93,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794253162361,
+   "titulo": "Mushuc Runa SC vs. Delfin SC",
+   "dur": 0.017,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794253161418,
+   "titulo": "Mushuc Runa SC vs. Delfin SC",
+   "dur": 0.933,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794253146258,
+   "titulo": "Mushuc Runa SC vs. Delfin SC",
+   "dur": 0.043,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794253058822,
+   "titulo": "Mushuc Runa SC vs. Delfin SC",
+   "dur": 0.52,
+   "gan": 2.28,
+   "neta": 2.07,
+   "lado": "no"
   }
  ]
 }
