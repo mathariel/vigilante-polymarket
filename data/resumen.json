@@ -1,78 +1,78 @@
 {
- "actualizado": 1794247341583,
+ "actualizado": 1794250356939,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794244341319,
-  "fin": 1794247341583,
-  "mensajes": 6353706,
+  "inicio": 1794247356772,
+  "fin": 1794250356939,
+  "mensajes": 8107637,
   "reconexiones": 2,
-  "eventos": 555,
+  "eventos": 545,
   "errores": []
  },
- "total": 5201,
- "falsos": 2162,
+ "total": 5249,
+ "falsos": 2165,
  "largos": {
-  "episodios": 7860,
+  "episodios": 7880,
   "eventos": 123,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9642,
+  "episodios": 9644,
   "eventos": 29
  },
- "mediana": 0.526,
+ "mediana": 0.517,
  "captura": [
   {
    "s": 0.5,
-   "n": 2651,
-   "gan": 11078.51,
+   "n": 2663,
+   "gan": 11096.38,
    "nNeta": 973,
    "neta": 3598.23
   },
   {
    "s": 2,
-   "n": 1210,
-   "gan": 5317.38,
+   "n": 1219,
+   "gan": 5333.17,
    "nNeta": 393,
    "neta": 1702.62
   },
   {
    "s": 5,
-   "n": 629,
-   "gan": 2754.66,
+   "n": 634,
+   "gan": 2762.98,
    "nNeta": 147,
    "neta": 422.18
   },
   {
    "s": 30,
-   "n": 193,
-   "gan": 548.25,
+   "n": 194,
+   "gan": 548.95,
    "nNeta": 35,
    "neta": 81.01
   }
  ],
- "rentables": 1824,
+ "rentables": 1825,
  "porCapital": [
   {
    "capital": 500,
    "ops": 41,
    "neta": 44.43,
-   "dias": 1.67,
-   "semana": 185.84
+   "dias": 1.71,
+   "semana": 182.05
   },
   {
    "capital": 1000,
    "ops": 55,
    "neta": 123.16,
-   "dias": 1.67,
-   "semana": 515.16
+   "dias": 1.71,
+   "semana": 504.64
   },
   {
    "capital": 2000,
    "ops": 78,
    "neta": 140.76,
-   "dias": 1.67,
-   "semana": 588.8
+   "dias": 1.71,
+   "semana": 576.77
   }
  ],
  "semanas": [
@@ -93,8 +93,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 1,
-   "horas": 12.5,
-   "episodios": 100,
+   "horas": 13.3,
+   "episodios": 148,
    "sospechosas": 1,
    "realistaNeta": 6.24,
    "capital": {
@@ -214,9 +214,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1721,
-  "n": 521,
-  "gan": 2418.24,
+  "conDato": 1769,
+  "n": 531,
+  "gan": 2434.63,
   "nNeta": 219,
   "neta": 743.79
  },
@@ -224,27 +224,27 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1251
+   "n": 1266
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2036
+   "n": 2058
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1279
+   "n": 1285
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 436
+   "n": 440
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 135
+   "n": 136
   },
   {
    "et": "> 5 min",
@@ -325,10 +325,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793988000000,
-   "n": 31
-  },
   {
    "h": 1793991600000,
    "n": 35
@@ -612,126 +608,130 @@
   {
    "h": 1794243600000,
    "n": 6
+  },
+  {
+   "h": 1794247200000,
+   "n": 48
   }
  ],
  "recientes": [
   {
-   "inicio": 1794246858895,
-   "titulo": "Elon Musk # tweets November 9 - November 11, 2026?",
-   "dur": 482.426,
-   "gan": 0.66,
-   "neta": 0,
+   "inicio": 1794250064417,
+   "titulo": "Mushuc Runa SC vs. Delfin SC",
+   "dur": 0.009,
+   "gan": 1.02,
+   "neta": 0.11,
    "lado": "no"
   },
   {
-   "inicio": 1794246840438,
-   "titulo": "Elon Musk # tweets November 9 - November 11, 2026?",
-   "dur": 5.954,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794246222887,
-   "titulo": "Elon Musk # tweets November 9 - November 11, 2026?",
-   "dur": 573.799,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794245942732,
-   "titulo": "Elon Musk # tweets November 9 - November 11, 2026?",
-   "dur": 100.847,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794245897531,
-   "titulo": "Elon Musk # tweets November 9 - November 11, 2026?",
-   "dur": 12.598,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794244973995,
-   "titulo": "What will the biggest earthquake be on November 8, 2026?",
-   "dur": 0.291,
-   "gan": 1.64,
-   "neta": 1.54,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794240851932,
-   "titulo": "Elon Musk # tweets November 9 - November 11, 2026?",
-   "dur": 0.833,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794240339975,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 0.016,
-   "gan": 0.78,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794239249626,
-   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
-   "dur": 86.234,
-   "gan": 148.49,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794239227370,
-   "titulo": "Czechia vs. Spain",
-   "dur": 10.002,
-   "gan": 2.19,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794239101514,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 0.127,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794239097937,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 0.024,
+   "inicio": 1794250064409,
+   "titulo": "Mushuc Runa SC vs. Delfin SC",
+   "dur": 0,
    "gan": 0.56,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794239097347,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 0.58,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794239097145,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 0.157,
+   "inicio": 1794249262748,
+   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
+   "dur": 1.72,
    "gan": 0.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794239090507,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 0.025,
+   "inicio": 1794249252669,
+   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
+   "dur": 0.342,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794249249038,
+   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
+   "dur": 3.5,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794248145268,
+   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
+   "dur": 8.12,
+   "gan": 2.36,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794248130125,
+   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
+   "dur": 0.009,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794248130099,
+   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
+   "dur": 0.002,
    "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794248130072,
+   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
+   "dur": 0.022,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794248129012,
+   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
+   "dur": 0.111,
+   "gan": 2.34,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794248128075,
+   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
+   "dur": 0.127,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794248127648,
+   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
+   "dur": 0.108,
+   "gan": 2.34,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794248126244,
+   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
+   "dur": 0.019,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794248125919,
+   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
+   "dur": 0.107,
+   "gan": 2.39,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794248124952,
+   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
+   "dur": 0.114,
+   "gan": 1.41,
    "neta": 0,
    "lado": "si"
   }
