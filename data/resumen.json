@@ -1,81 +1,81 @@
 {
- "actualizado": 1794262417229,
+ "actualizado": 1794265432411,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794259416997,
-  "fin": 1794262417229,
-  "mensajes": 7798386,
-  "reconexiones": 1,
-  "eventos": 548,
+  "inicio": 1794262432177,
+  "fin": 1794265432412,
+  "mensajes": 6287684,
+  "reconexiones": 3,
+  "eventos": 541,
   "errores": [],
-  "nuevos": 16,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.25
+  "nuevos": 14,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5366,
- "falsos": 2227,
+ "total": 5381,
+ "falsos": 2233,
  "largos": {
-  "episodios": 7960,
+  "episodios": 7971,
   "eventos": 123,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9663,
-  "eventos": 30
+  "episodios": 9665,
+  "eventos": 32
  },
- "mediana": 0.514,
+ "mediana": 0.511,
  "captura": [
   {
    "s": 0.5,
-   "n": 2715,
-   "gan": 11200.55,
+   "n": 2719,
+   "gan": 11208.3,
    "nNeta": 991,
    "neta": 3612.76
   },
   {
    "s": 2,
-   "n": 1235,
-   "gan": 5385.71,
+   "n": 1236,
+   "gan": 5386.93,
    "nNeta": 398,
    "neta": 1708.01
   },
   {
    "s": 5,
-   "n": 644,
-   "gan": 2784.39,
+   "n": 645,
+   "gan": 2785.61,
    "nNeta": 149,
    "neta": 425.65
   },
   {
    "s": 30,
-   "n": 197,
-   "gan": 552.58,
+   "n": 198,
+   "gan": 553.8,
    "nNeta": 36,
    "neta": 81.33
   }
  ],
- "rentables": 1863,
+ "rentables": 1871,
  "porCapital": [
   {
    "capital": 500,
    "ops": 42,
    "neta": 44.44,
-   "dias": 1.85,
-   "semana": 168.35
+   "dias": 1.88,
+   "semana": 165.23
   },
   {
    "capital": 1000,
    "ops": 56,
    "neta": 123.17,
-   "dias": 1.85,
-   "semana": 466.57
+   "dias": 1.88,
+   "semana": 457.92
   },
   {
    "capital": 2000,
    "ops": 79,
    "neta": 140.77,
-   "dias": 1.85,
-   "semana": 533.25
+   "dias": 1.88,
+   "semana": 523.37
   }
  ],
  "semanas": [
@@ -96,9 +96,9 @@
   {
    "lunes": "2026-11-09",
    "dias": 1,
-   "horas": 16.7,
-   "episodios": 265,
-   "sospechosas": 3,
+   "horas": 17.5,
+   "episodios": 280,
+   "sospechosas": 5,
    "realistaNeta": 11.59,
    "capital": {
     "500": 2.2,
@@ -111,7 +111,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 103,
+  "n": 105,
   "top": [
    {
     "inicio": 1794062797308,
@@ -174,6 +174,16 @@
     "ret": 16
    },
    {
+    "inicio": 1794263162651,
+    "titulo": "CD Tecnico Universitario vs. Manta FC",
+    "lado": "si",
+    "dur": 0.018,
+    "gan": 35.69,
+    "neta": 33.56,
+    "costo": 65.13,
+    "ret": 54.8
+   },
+   {
     "inicio": 1794173497930,
     "titulo": "ACF Fiorentina vs. Juventus FC",
     "lado": "si",
@@ -184,6 +194,16 @@
     "ret": 10.6
    },
    {
+    "inicio": 1794263162676,
+    "titulo": "CD Tecnico Universitario vs. Manta FC",
+    "lado": "si",
+    "dur": 0.059,
+    "gan": 22.24,
+    "neta": 21.21,
+    "costo": 27.76,
+    "ret": 80.1
+   },
+   {
     "inicio": 1794147586859,
     "titulo": "Tromsø IL vs. FK Bodø/Glimt",
     "lado": "si",
@@ -192,34 +212,14 @@
     "neta": 12.96,
     "costo": 125.19,
     "ret": 13.7
-   },
-   {
-    "inicio": 1794087875144,
-    "titulo": "Paris Saint-Germain FC vs. ES Troyes AC",
-    "lado": "si",
-    "dur": 0.028,
-    "gan": 16.57,
-    "neta": 14.79,
-    "costo": 69.14,
-    "ret": 24
-   },
-   {
-    "inicio": 1793885126965,
-    "titulo": "Al Kholood Saudi Club vs. Al Khaleej Saudi Club",
-    "lado": "si",
-    "dur": 3.426,
-    "gan": 14.64,
-    "neta": 12.13,
-    "costo": 75.36,
-    "ret": 19.4
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1884,
-  "n": 549,
-  "gan": 2488.94,
+  "conDato": 1897,
+  "n": 551,
+  "gan": 2492.94,
   "nNeta": 225,
   "neta": 749.14
  },
@@ -227,17 +227,17 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1299
+   "n": 1306
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2116
+   "n": 2122
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1301
+   "n": 1302
   },
   {
    "et": "5–30 s",
@@ -252,7 +252,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 60
+   "n": 61
   }
  ],
  "porEvento": [
@@ -614,127 +614,127 @@
   },
   {
    "h": 1794261600000,
-   "n": 2
+   "n": 17
   }
  ],
  "recientes": [
   {
-   "inicio": 1794259400074,
+   "inicio": 1794262400122,
    "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 3016.927,
-   "gan": 0.98,
+   "dur": 1240.148,
+   "gan": 1.22,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794262240154,
+   "inicio": 1794263306583,
    "titulo": "CD Tecnico Universitario vs. Manta FC",
-   "dur": 0.954,
-   "gan": 2.06,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794262240092,
-   "titulo": "CD Tecnico Universitario vs. Manta FC",
-   "dur": 0.046,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794261438394,
-   "titulo": "CD Tecnico Universitario vs. Manta FC",
-   "dur": 1.018,
-   "gan": 1,
-   "neta": 0.39,
+   "dur": 0.302,
+   "gan": 1.88,
+   "neta": 0.69,
    "lado": "si"
   },
   {
-   "inicio": 1794261437044,
+   "inicio": 1794263217511,
    "titulo": "CD Tecnico Universitario vs. Manta FC",
-   "dur": 0.417,
-   "gan": 3.3,
-   "neta": 1.72,
+   "dur": 0.259,
+   "gan": 0.64,
+   "neta": 0.37,
    "lado": "si"
   },
   {
-   "inicio": 1794261208992,
+   "inicio": 1794263217497,
    "titulo": "CD Tecnico Universitario vs. Manta FC",
-   "dur": 0.859,
-   "gan": 0.88,
-   "neta": 0,
+   "dur": 0.008,
+   "gan": 0.56,
+   "neta": 0.35,
    "lado": "si"
   },
   {
-   "inicio": 1794260775351,
-   "titulo": "SCU Torreense vs. UD Leiria",
-   "dur": 0.246,
-   "gan": 12.68,
-   "neta": 8.15,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794260725271,
-   "titulo": "SCU Torreense vs. UD Leiria",
-   "dur": 0.27,
-   "gan": 0.57,
-   "neta": 0.17,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794260673963,
-   "titulo": "SCU Torreense vs. UD Leiria",
-   "dur": 0.024,
-   "gan": 0.66,
+   "inicio": 1794263217375,
+   "titulo": "CD Tecnico Universitario vs. Manta FC",
+   "dur": 0.017,
+   "gan": 0.5,
    "neta": 0.34,
    "lado": "si"
   },
   {
-   "inicio": 1794260474055,
-   "titulo": "Sportivo San Lorenzo vs. Rubio Nu",
-   "dur": 1.107,
-   "gan": 0.69,
+   "inicio": 1794263217305,
+   "titulo": "CD Tecnico Universitario vs. Manta FC",
+   "dur": 0.069,
+   "gan": 0.59,
+   "neta": 0.32,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794263162840,
+   "titulo": "CD Tecnico Universitario vs. Manta FC",
+   "dur": 0.047,
+   "gan": 0.7,
+   "neta": 0.18,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794263162676,
+   "titulo": "CD Tecnico Universitario vs. Manta FC",
+   "dur": 0.059,
+   "gan": 22.24,
+   "neta": 21.21,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794263162651,
+   "titulo": "CD Tecnico Universitario vs. Manta FC",
+   "dur": 0.018,
+   "gan": 35.69,
+   "neta": 33.56,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794262822702,
+   "titulo": "CD Tecnico Universitario vs. Manta FC",
+   "dur": 0.512,
+   "gan": 2.65,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794260473433,
-   "titulo": "Sportivo San Lorenzo vs. Rubio Nu",
-   "dur": 0.621,
-   "gan": 0.98,
+   "inicio": 1794262820854,
+   "titulo": "CD Tecnico Universitario vs. Manta FC",
+   "dur": 1.737,
+   "gan": 2.78,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794260215739,
-   "titulo": "Independiente Valle Del Cauca vs. Union Magdalena",
-   "dur": 1.139,
-   "gan": 1.46,
-   "neta": 0.8,
-   "lado": "si"
+   "inicio": 1794262820657,
+   "titulo": "CD Tecnico Universitario vs. Manta FC",
+   "dur": 0.087,
+   "gan": 2.88,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1794260019705,
-   "titulo": "Highest temperature in London on November 11?",
-   "dur": 56.566,
-   "gan": 0.81,
-   "neta": 0.2,
-   "lado": "si"
+   "inicio": 1794262779438,
+   "titulo": "Highest temperature in Paris on November 10?",
+   "dur": 0.107,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1794260018864,
-   "titulo": "Highest temperature in London on November 11?",
-   "dur": 0.117,
-   "gan": 0.67,
-   "neta": 0.01,
-   "lado": "si"
+   "inicio": 1794262508182,
+   "titulo": "CD Tecnico Universitario vs. Manta FC",
+   "dur": 0.61,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1794259887079,
-   "titulo": "Sportivo San Lorenzo vs. Rubio Nu",
-   "dur": 0.19,
-   "gan": 0.53,
+   "inicio": 1794262507979,
+   "titulo": "CD Tecnico Universitario vs. Manta FC",
+   "dur": 0.106,
+   "gan": 0.99,
    "neta": 0,
    "lado": "no"
   }
