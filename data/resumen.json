@@ -1,23 +1,23 @@
 {
- "actualizado": 1794226235289,
+ "actualizado": 1794229251430,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794223235114,
-  "fin": 1794226235289,
-  "mensajes": 6915919,
+  "inicio": 1794226251211,
+  "fin": 1794229251430,
+  "mensajes": 7078030,
   "reconexiones": 0,
-  "eventos": 545,
+  "eventos": 549,
   "errores": []
  },
- "total": 5167,
- "falsos": 2140,
+ "total": 5168,
+ "falsos": 2141,
  "largos": {
-  "episodios": 7704,
-  "eventos": 118,
+  "episodios": 7720,
+  "eventos": 120,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8987,
+  "episodios": 9038,
   "eventos": 29
  },
  "mediana": 0.527,
@@ -57,22 +57,22 @@
    "capital": 500,
    "ops": 41,
    "neta": 44.43,
-   "dias": 1.43,
-   "semana": 217.61
+   "dias": 1.46,
+   "semana": 212.42
   },
   {
    "capital": 1000,
    "ops": 55,
    "neta": 123.16,
-   "dias": 1.43,
-   "semana": 603.22
+   "dias": 1.46,
+   "semana": 588.84
   },
   {
    "capital": 2000,
    "ops": 78,
    "neta": 140.76,
-   "dias": 1.43,
-   "semana": 689.44
+   "dias": 1.46,
+   "semana": 673
   }
  ],
  "semanas": [
@@ -93,8 +93,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 1,
-   "horas": 6.7,
-   "episodios": 66,
+   "horas": 7.5,
+   "episodios": 67,
    "sospechosas": 0,
    "realistaNeta": 5.81,
    "capital": {
@@ -214,7 +214,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1688,
+  "conDato": 1689,
   "n": 507,
   "gan": 2262.32,
   "nNeta": 217,
@@ -229,7 +229,7 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2024
+   "n": 2025
   },
   {
    "et": "1–5 s",
@@ -325,10 +325,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793966400000,
-   "n": 2
-  },
   {
    "h": 1793970000000,
    "n": 7
@@ -612,9 +608,21 @@
   {
    "h": 1794222000000,
    "n": 20
+  },
+  {
+   "h": 1794225600000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794229157943,
+   "titulo": "CU Técnica de Cajamarca vs. CD Los Chankas",
+   "dur": 0.394,
+   "gan": 2,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794223895707,
    "titulo": "Highest temperature in Helsinki on November 11?",
@@ -723,14 +731,6 @@
    "inicio": 1794223758985,
    "titulo": "Highest temperature in Helsinki on November 11?",
    "dur": 0.111,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794223758623,
-   "titulo": "Highest temperature in Helsinki on November 11?",
-   "dur": 0.189,
    "gan": 0.5,
    "neta": 0,
    "lado": "no"
