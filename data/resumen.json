@@ -1,86 +1,86 @@
 {
- "actualizado": 1794199087618,
+ "actualizado": 1794202100238,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794196087420,
-  "fin": 1794199087618,
-  "mensajes": 6072333,
-  "reconexiones": 2,
-  "eventos": 558,
+  "inicio": 1794199100017,
+  "fin": 1794202100238,
+  "mensajes": 6662634,
+  "reconexiones": 1,
+  "eventos": 552,
   "errores": []
  },
- "total": 5100,
+ "total": 5104,
  "falsos": 2124,
  "largos": {
-  "episodios": 7242,
-  "eventos": 115,
+  "episodios": 7300,
+  "eventos": 116,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8966,
+  "episodios": 8968,
   "eventos": 27
  },
  "mediana": 0.525,
  "captura": [
   {
    "s": 0.5,
-   "n": 2598,
-   "gan": 10884.75,
-   "nNeta": 960,
-   "neta": 3591.97
+   "n": 2600,
+   "gan": 10886.87,
+   "nNeta": 962,
+   "neta": 3593.32
   },
   {
    "s": 2,
-   "n": 1170,
-   "gan": 5133.62,
-   "nNeta": 383,
-   "neta": 1696.04
+   "n": 1172,
+   "gan": 5135.74,
+   "nNeta": 385,
+   "neta": 1697.39
   },
   {
    "s": 5,
-   "n": 599,
-   "gan": 2579.48,
-   "nNeta": 142,
-   "neta": 418.65
+   "n": 600,
+   "gan": 2581.06,
+   "nNeta": 143,
+   "neta": 419.72
   },
   {
    "s": 30,
-   "n": 177,
-   "gan": 388.05,
-   "nNeta": 31,
-   "neta": 77.49
+   "n": 178,
+   "gan": 389.63,
+   "nNeta": 32,
+   "neta": 78.56
   }
  ],
- "rentables": 1795,
+ "rentables": 1799,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 35,
-   "neta": 42.23,
-   "dias": 1.11,
-   "semana": 265.16
+   "ops": 37,
+   "neta": 43.58,
+   "dias": 1.15,
+   "semana": 265.34
   },
   {
    "capital": 1000,
-   "ops": 49,
-   "neta": 120.89,
-   "dias": 1.11,
-   "semana": 759.01
+   "ops": 51,
+   "neta": 122.24,
+   "dias": 1.15,
+   "semana": 744.21
   },
   {
    "capital": 2000,
-   "ops": 72,
-   "neta": 138.37,
-   "dias": 1.11,
-   "semana": 868.72
+   "ops": 74,
+   "neta": 139.72,
+   "dias": 1.15,
+   "semana": 850.59
   }
  ],
  "semanas": [
   {
    "lunes": "2026-11-02",
    "dias": 1,
-   "horas": 14.2,
-   "episodios": 1513,
+   "horas": 15,
+   "episodios": 1514,
    "sospechosas": 31,
    "realistaNeta": 731.67,
    "capital": {
@@ -89,6 +89,20 @@
     "2000": 133.43
    },
    "cumple": true
+  },
+  {
+   "lunes": "2026-11-09",
+   "dias": 1,
+   "horas": 0,
+   "episodios": 3,
+   "sospechosas": 0,
+   "realistaNeta": 1.35,
+   "capital": {
+    "500": 1.35,
+    "1000": 1.35,
+    "2000": 1.35
+   },
+   "cumple": false
   }
  ],
  "criterioSemanal": 10,
@@ -200,27 +214,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1621,
-  "n": 470,
-  "gan": 2224.61,
-  "nNeta": 208,
-  "neta": 737.55
+  "conDato": 1625,
+  "n": 472,
+  "gan": 2226.73,
+  "nNeta": 210,
+  "neta": 738.9
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1226
+   "n": 1227
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2009
+   "n": 2010
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1260
+   "n": 1261
   },
   {
    "et": "5–30 s",
@@ -235,7 +249,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 55
+   "n": 56
   }
  ],
  "porEvento": [
@@ -311,10 +325,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793937600000,
-   "n": 4
-  },
   {
    "h": 1793941200000,
    "n": 4
@@ -597,10 +607,46 @@
   },
   {
    "h": 1794196800000,
-   "n": 2
+   "n": 3
+  },
+  {
+   "h": 1794200400000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794201568237,
+   "titulo": "A Team Test: New Zealand A vs India A",
+   "dur": 304.858,
+   "gan": 0.95,
+   "neta": 0.5,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794201365555,
+   "titulo": "A Team Test: New Zealand A vs India A",
+   "dur": 2.014,
+   "gan": 0.78,
+   "neta": 0.29,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794201365471,
+   "titulo": "A Team Test: New Zealand A vs India A",
+   "dur": 0.059,
+   "gan": 0.8,
+   "neta": 0.32,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794199993807,
+   "titulo": "How many 5.5 or above earthquakes worldwide November 2 - November 8?",
+   "dur": 0.178,
+   "gan": 0.83,
+   "neta": 0.73,
+   "lado": "si"
+  },
   {
    "inicio": 1794198886955,
    "titulo": "Test Match: Bangladesh vs West Indies",
@@ -686,38 +732,6 @@
    "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
    "dur": 22.756,
    "gan": 0.84,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794195322860,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 1.239,
-   "gan": 0.69,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794195316951,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 5.848,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794195315425,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 1.496,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794195292359,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 22.989,
-   "gan": 0.64,
    "neta": 0,
    "lado": "no"
   }
