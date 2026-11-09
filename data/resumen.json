@@ -1,38 +1,38 @@
 {
- "actualizado": 1794196074751,
+ "actualizado": 1794199087618,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794193074569,
-  "fin": 1794196074751,
-  "mensajes": 6607372,
-  "reconexiones": 1,
-  "eventos": 551,
+  "inicio": 1794196087420,
+  "fin": 1794199087618,
+  "mensajes": 6072333,
+  "reconexiones": 2,
+  "eventos": 558,
   "errores": []
  },
- "total": 5096,
- "falsos": 2120,
+ "total": 5100,
+ "falsos": 2124,
  "largos": {
-  "episodios": 7202,
-  "eventos": 114,
+  "episodios": 7242,
+  "eventos": 115,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8965,
+  "episodios": 8966,
   "eventos": 27
  },
- "mediana": 0.524,
+ "mediana": 0.525,
  "captura": [
   {
    "s": 0.5,
-   "n": 2595,
-   "gan": 10881.26,
+   "n": 2598,
+   "gan": 10884.75,
    "nNeta": 960,
    "neta": 3591.97
   },
   {
    "s": 2,
-   "n": 1169,
-   "gan": 5132.78,
+   "n": 1170,
+   "gan": 5133.62,
    "nNeta": 383,
    "neta": 1696.04
   },
@@ -57,30 +57,30 @@
    "capital": 500,
    "ops": 35,
    "neta": 42.23,
-   "dias": 1.08,
-   "semana": 273.72
+   "dias": 1.11,
+   "semana": 265.16
   },
   {
    "capital": 1000,
    "ops": 49,
    "neta": 120.89,
-   "dias": 1.08,
-   "semana": 783.52
+   "dias": 1.11,
+   "semana": 759.01
   },
   {
    "capital": 2000,
    "ops": 72,
    "neta": 138.37,
-   "dias": 1.08,
-   "semana": 896.76
+   "dias": 1.11,
+   "semana": 868.72
   }
  ],
  "semanas": [
   {
    "lunes": "2026-11-02",
    "dias": 1,
-   "horas": 13.3,
-   "episodios": 1509,
+   "horas": 14.2,
+   "episodios": 1513,
    "sospechosas": 31,
    "realistaNeta": 731.67,
    "capital": {
@@ -200,9 +200,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1617,
-  "n": 469,
-  "gan": 2223.57,
+  "conDato": 1621,
+  "n": 470,
+  "gan": 2224.61,
   "nNeta": 208,
   "neta": 737.55
  },
@@ -210,7 +210,7 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1225
+   "n": 1226
   },
   {
    "et": "0.1–1 s",
@@ -220,7 +220,7 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1257
+   "n": 1260
   },
   {
    "et": "5–30 s",
@@ -311,10 +311,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793934000000,
-   "n": 4
-  },
   {
    "h": 1793937600000,
    "n": 4
@@ -597,10 +593,46 @@
   },
   {
    "h": 1794193200000,
-   "n": 22
+   "n": 24
+  },
+  {
+   "h": 1794196800000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794198886955,
+   "titulo": "Test Match: Bangladesh vs West Indies",
+   "dur": 2.035,
+   "gan": 1.04,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794196877656,
+   "titulo": "Club León FC vs. CD Guadalajara",
+   "dur": 1.402,
+   "gan": 1.15,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794196477001,
+   "titulo": "Club León FC vs. CD Guadalajara",
+   "dur": 1.118,
+   "gan": 2.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794196476350,
+   "titulo": "Club León FC vs. CD Guadalajara",
+   "dur": 0.094,
+   "gan": 0.72,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794195885251,
    "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
@@ -686,38 +718,6 @@
    "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
    "dur": 22.989,
    "gan": 0.64,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794195291401,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 0.922,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794195290979,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 0.39,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794195290847,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 0.095,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794195289482,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 1.327,
-   "gan": 0.54,
    "neta": 0,
    "lado": "no"
   }
