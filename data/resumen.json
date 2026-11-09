@@ -1,23 +1,23 @@
 {
- "actualizado": 1794235282801,
+ "actualizado": 1794238297694,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794232282642,
-  "fin": 1794235282801,
-  "mensajes": 8439122,
-  "reconexiones": 1,
-  "eventos": 560,
+  "inicio": 1794235297465,
+  "fin": 1794238297694,
+  "mensajes": 8271788,
+  "reconexiones": 0,
+  "eventos": 547,
   "errores": []
  },
- "total": 5179,
- "falsos": 2149,
+ "total": 5180,
+ "falsos": 2155,
  "largos": {
-  "episodios": 7799,
+  "episodios": 7808,
   "eventos": 122,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9300,
+  "episodios": 9546,
   "eventos": 29
  },
  "mediana": 0.527,
@@ -51,28 +51,28 @@
    "neta": 81.01
   }
  ],
- "rentables": 1822,
+ "rentables": 1823,
  "porCapital": [
   {
    "capital": 500,
    "ops": 41,
    "neta": 44.43,
-   "dias": 1.53,
-   "semana": 202.75
+   "dias": 1.57,
+   "semana": 198.24
   },
   {
    "capital": 1000,
    "ops": 55,
    "neta": 123.16,
-   "dias": 1.53,
-   "semana": 562.04
+   "dias": 1.57,
+   "semana": 549.54
   },
   {
    "capital": 2000,
    "ops": 78,
    "neta": 140.76,
-   "dias": 1.53,
-   "semana": 642.37
+   "dias": 1.57,
+   "semana": 628.08
   }
  ],
  "semanas": [
@@ -93,8 +93,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 1,
-   "horas": 9.2,
-   "episodios": 78,
+   "horas": 10,
+   "episodios": 79,
    "sospechosas": 1,
    "realistaNeta": 6.24,
    "capital": {
@@ -214,7 +214,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1699,
+  "conDato": 1700,
   "n": 512,
   "gan": 2266.04,
   "nNeta": 219,
@@ -224,7 +224,7 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1244
+   "n": 1245
   },
   {
    "et": "0.1–1 s",
@@ -325,10 +325,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793977200000,
-   "n": 28
-  },
   {
    "h": 1793980800000,
    "n": 11
@@ -612,9 +608,21 @@
   {
    "h": 1794232800000,
    "n": 10
+  },
+  {
+   "h": 1794236400000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794237958775,
+   "titulo": "Highest temperature in Sao Paulo on November 9?",
+   "dur": 0.016,
+   "gan": 0.55,
+   "neta": 0.19,
+   "lado": "si"
+  },
   {
    "inicio": 1794235115070,
    "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
@@ -724,14 +732,6 @@
    "titulo": "Highest temperature in Helsinki on November 11?",
    "dur": 6.415,
    "gan": 0.69,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794223877637,
-   "titulo": "Highest temperature in Helsinki on November 11?",
-   "dur": 0.209,
-   "gan": 0.76,
    "neta": 0,
    "lado": "no"
   }
