@@ -1,50 +1,50 @@
 {
- "actualizado": 1794253372434,
+ "actualizado": 1794256388131,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794250372196,
-  "fin": 1794253372434,
-  "mensajes": 8349486,
-  "reconexiones": 0,
-  "eventos": 548,
+  "inicio": 1794253387984,
+  "fin": 1794256388131,
+  "mensajes": 8429106,
+  "reconexiones": 1,
+  "eventos": 554,
   "errores": [],
-  "nuevos": 53,
-  "nuevosRentables": 1,
-  "nuevosNeta": 1.4
+  "nuevos": 24,
+  "nuevosRentables": 2,
+  "nuevosNeta": 3.22
  },
- "total": 5302,
- "falsos": 2181,
+ "total": 5326,
+ "falsos": 2194,
  "largos": {
-  "episodios": 7889,
+  "episodios": 7909,
   "eventos": 123,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9646,
+  "episodios": 9647,
   "eventos": 29
  },
  "mediana": 0.511,
  "captura": [
   {
    "s": 0.5,
-   "n": 2679,
-   "gan": 11139.83,
-   "nNeta": 975,
-   "neta": 3600.79
+   "n": 2690,
+   "gan": 11161.57,
+   "nNeta": 983,
+   "neta": 3606.63
   },
   {
    "s": 2,
-   "n": 1224,
-   "gan": 5364.64,
-   "nNeta": 394,
-   "neta": 1704.02
+   "n": 1228,
+   "gan": 5378.61,
+   "nNeta": 396,
+   "neta": 1707.24
   },
   {
    "s": 5,
-   "n": 638,
-   "gan": 2769.15,
-   "nNeta": 147,
-   "neta": 422.18
+   "n": 640,
+   "gan": 2779.76,
+   "nNeta": 148,
+   "neta": 425.33
   },
   {
    "s": 30,
@@ -54,28 +54,28 @@
    "neta": 81.01
   }
  ],
- "rentables": 1830,
+ "rentables": 1848,
  "porCapital": [
   {
    "capital": 500,
    "ops": 42,
    "neta": 44.44,
-   "dias": 1.74,
-   "semana": 178.45
+   "dias": 1.78,
+   "semana": 174.95
   },
   {
    "capital": 1000,
    "ops": 56,
    "neta": 123.17,
-   "dias": 1.74,
-   "semana": 494.59
+   "dias": 1.78,
+   "semana": 484.88
   },
   {
    "capital": 2000,
    "ops": 79,
    "neta": 140.77,
-   "dias": 1.74,
-   "semana": 565.27
+   "dias": 1.78,
+   "semana": 554.18
   }
  ],
  "semanas": [
@@ -96,10 +96,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 1,
-   "horas": 14.2,
-   "episodios": 201,
+   "horas": 15,
+   "episodios": 225,
    "sospechosas": 2,
-   "realistaNeta": 7.64,
+   "realistaNeta": 10.86,
    "capital": {
     "500": 2.2,
     "1000": 2.27,
@@ -217,32 +217,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1821,
-  "n": 536,
-  "gan": 2466.1,
-  "nNeta": 220,
-  "neta": 745.19
+  "conDato": 1845,
+  "n": 540,
+  "gan": 2480.07,
+  "nNeta": 222,
+  "neta": 748.41
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1288
+   "n": 1292
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2082
+   "n": 2097
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1288
+   "n": 1291
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 444
+   "n": 446
   },
   {
    "et": "30 s–5 min",
@@ -286,10 +286,10 @@
   },
   {
    "titulo": "Kristiansund BK vs. Vålerenga Fotball",
-   "n": 84,
-   "gan": 230.85,
-   "neta": 0.11,
-   "mediana": 0.123
+   "n": 85,
+   "gan": 231.43,
+   "neta": 0.44,
+   "mediana": 0.115
   },
   {
    "titulo": "RB Leipzig vs. Manchester City FC",
@@ -328,10 +328,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793995200000,
-   "n": 86
-  },
   {
    "h": 1793998800000,
    "n": 59
@@ -614,129 +610,133 @@
   },
   {
    "h": 1794250800000,
-   "n": 53
+   "n": 71
+  },
+  {
+   "h": 1794254400000,
+   "n": 6
   }
  ],
  "recientes": [
   {
-   "inicio": 1794253200477,
-   "titulo": "Mushuc Runa SC vs. Delfin SC",
-   "dur": 2.54,
-   "gan": 25.3,
-   "neta": 1.4,
+   "inicio": 1794255066774,
+   "titulo": "Sportivo San Lorenzo vs. Rubio Nu",
+   "dur": 0.902,
+   "gan": 1.4,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794253184729,
-   "titulo": "Mushuc Runa SC vs. Delfin SC",
-   "dur": 12.233,
+   "inicio": 1794254970716,
+   "titulo": "Sportivo San Lorenzo vs. Rubio Nu",
+   "dur": 0.818,
+   "gan": 0.7,
+   "neta": 0.34,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794254884999,
+   "titulo": "CE Sabadell FC vs. Real Sociedad de Fútbol B",
+   "dur": 0.96,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794254881828,
+   "titulo": "CE Sabadell FC vs. Real Sociedad de Fútbol B",
+   "dur": 2.225,
+   "gan": 1.91,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794254867916,
+   "titulo": "CE Sabadell FC vs. Real Sociedad de Fútbol B",
+   "dur": 11.625,
+   "gan": 8.23,
+   "neta": 3.15,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794254823126,
+   "titulo": "CE Sabadell FC vs. Real Sociedad de Fútbol B",
+   "dur": 0.936,
    "gan": 0.53,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794253184484,
+   "inicio": 1794254364726,
    "titulo": "Mushuc Runa SC vs. Delfin SC",
-   "dur": 0.043,
-   "gan": 0.72,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794253184367,
-   "titulo": "Mushuc Runa SC vs. Delfin SC",
-   "dur": 0.027,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794253183084,
-   "titulo": "Mushuc Runa SC vs. Delfin SC",
-   "dur": 0.618,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794253164176,
-   "titulo": "Mushuc Runa SC vs. Delfin SC",
-   "dur": 0.232,
-   "gan": 1.31,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794253163506,
-   "titulo": "Mushuc Runa SC vs. Delfin SC",
-   "dur": 0.607,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794253163466,
-   "titulo": "Mushuc Runa SC vs. Delfin SC",
-   "dur": 0.038,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794253162808,
-   "titulo": "Mushuc Runa SC vs. Delfin SC",
-   "dur": 0.134,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794253162754,
-   "titulo": "Mushuc Runa SC vs. Delfin SC",
-   "dur": 0.018,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794253162437,
-   "titulo": "Mushuc Runa SC vs. Delfin SC",
-   "dur": 0.051,
-   "gan": 1.93,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794253162361,
-   "titulo": "Mushuc Runa SC vs. Delfin SC",
-   "dur": 0.017,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794253161418,
-   "titulo": "Mushuc Runa SC vs. Delfin SC",
-   "dur": 0.933,
+   "dur": 0.821,
    "gan": 0.6,
+   "neta": 0.5,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794254006266,
+   "titulo": "FC Botoşani vs. ASC Oțelul Galați",
+   "dur": 0.139,
+   "gan": 1.4,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794253146258,
-   "titulo": "Mushuc Runa SC vs. Delfin SC",
-   "dur": 0.043,
-   "gan": 0.54,
-   "neta": 0,
+   "inicio": 1794254003136,
+   "titulo": "FC Botoşani vs. ASC Oțelul Galați",
+   "dur": 3.093,
+   "gan": 1.48,
+   "neta": 0.07,
    "lado": "si"
   },
   {
-   "inicio": 1794253058822,
-   "titulo": "Mushuc Runa SC vs. Delfin SC",
-   "dur": 0.52,
-   "gan": 2.28,
-   "neta": 2.07,
-   "lado": "no"
+   "inicio": 1794253979782,
+   "titulo": "FC Botoşani vs. ASC Oțelul Galați",
+   "dur": 0.322,
+   "gan": 0.58,
+   "neta": 0.24,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794253978566,
+   "titulo": "FC Botoşani vs. ASC Oțelul Galați",
+   "dur": 0.363,
+   "gan": 0.63,
+   "neta": 0.29,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794253977607,
+   "titulo": "FC Botoşani vs. ASC Oțelul Galați",
+   "dur": 0.496,
+   "gan": 0.63,
+   "neta": 0.29,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794253976988,
+   "titulo": "FC Botoşani vs. ASC Oțelul Galați",
+   "dur": 0.023,
+   "gan": 0.55,
+   "neta": 0.21,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794253970292,
+   "titulo": "FC Botoşani vs. ASC Oțelul Galați",
+   "dur": 1.348,
+   "gan": 0.97,
+   "neta": 0.65,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794253970132,
+   "titulo": "FC Botoşani vs. ASC Oțelul Galați",
+   "dur": 0.123,
+   "gan": 0.65,
+   "neta": 0.42,
+   "lado": "si"
   }
  ]
 }
