@@ -1,47 +1,47 @@
 {
- "actualizado": 1794205113098,
+ "actualizado": 1794208128447,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794202112892,
-  "fin": 1794205113098,
-  "mensajes": 7011020,
-  "reconexiones": 2,
-  "eventos": 535,
+  "inicio": 1794205128239,
+  "fin": 1794208128447,
+  "mensajes": 7303034,
+  "reconexiones": 0,
+  "eventos": 539,
   "errores": []
  },
- "total": 5117,
+ "total": 5130,
  "falsos": 2124,
  "largos": {
-  "episodios": 7312,
+  "episodios": 7330,
   "eventos": 116,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8969,
+  "episodios": 8977,
   "eventos": 27
  },
- "mediana": 0.526,
+ "mediana": 0.53,
  "captura": [
   {
    "s": 0.5,
-   "n": 2609,
-   "gan": 10895.72,
-   "nNeta": 966,
-   "neta": 3594.44
+   "n": 2620,
+   "gan": 10907.48,
+   "nNeta": 969,
+   "neta": 3594.86
   },
   {
    "s": 2,
-   "n": 1176,
-   "gan": 5139.17,
-   "nNeta": 387,
-   "neta": 1698.62
+   "n": 1187,
+   "gan": 5151.01,
+   "nNeta": 390,
+   "neta": 1698.98
   },
   {
    "s": 5,
-   "n": 603,
-   "gan": 2585.4,
-   "nNeta": 145,
-   "neta": 421.82
+   "n": 609,
+   "gan": 2593.95,
+   "nNeta": 146,
+   "neta": 421.83
   },
   {
    "s": 30,
@@ -51,28 +51,28 @@
    "neta": 80.66
   }
  ],
- "rentables": 1805,
+ "rentables": 1809,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 40,
-   "neta": 44.4,
-   "dias": 1.18,
-   "semana": 262.37
+   "ops": 41,
+   "neta": 44.43,
+   "dias": 1.22,
+   "semana": 255
   },
   {
    "capital": 1000,
-   "ops": 54,
-   "neta": 123.06,
-   "dias": 1.18,
-   "semana": 727.15
+   "ops": 55,
+   "neta": 123.16,
+   "dias": 1.22,
+   "semana": 706.88
   },
   {
    "capital": 2000,
-   "ops": 77,
-   "neta": 140.54,
-   "dias": 1.18,
-   "semana": 830.4
+   "ops": 78,
+   "neta": 140.76,
+   "dias": 1.22,
+   "semana": 807.91
   }
  ],
  "semanas": [
@@ -93,14 +93,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 1,
-   "horas": 0.8,
-   "episodios": 16,
+   "horas": 1.7,
+   "episodios": 29,
    "sospechosas": 0,
-   "realistaNeta": 2.17,
+   "realistaNeta": 2.52,
    "capital": {
-    "500": 2.17,
-    "1000": 2.17,
-    "2000": 2.17
+    "500": 2.2,
+    "1000": 2.27,
+    "2000": 2.42
    },
    "cumple": false
   }
@@ -214,32 +214,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1638,
-  "n": 480,
-  "gan": 2235.01,
-  "nNeta": 213,
-  "neta": 739.72
+  "conDato": 1651,
+  "n": 491,
+  "gan": 2246.65,
+  "nNeta": 215,
+  "neta": 740.07
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1230
+   "n": 1231
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2012
+   "n": 2013
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1266
+   "n": 1271
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 423
+   "n": 429
   },
   {
    "et": "30 s–5 min",
@@ -611,10 +611,114 @@
   },
   {
    "h": 1794204000000,
-   "n": 1
+   "n": 14
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794207276831,
+   "titulo": "Highest temperature in Wuhan on November 9?",
+   "dur": 0.043,
+   "gan": 1.31,
+   "neta": 0.82,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794206936471,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 2.454,
+   "gan": 0.83,
+   "neta": 0.07,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794206184984,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 19.516,
+   "gan": 0.74,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794206183675,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 0.16,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794206180101,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 2.851,
+   "gan": 0.86,
+   "neta": 0.11,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794206166049,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 14.048,
+   "gan": 1.81,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794206134228,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 28.822,
+   "gan": 2.74,
+   "neta": 0.24,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794205473431,
+   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
+   "dur": 2.174,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794205468931,
+   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
+   "dur": 2.876,
+   "gan": 0.77,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794205463866,
+   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
+   "dur": 3.801,
+   "gan": 0.72,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794205441640,
+   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
+   "dur": 21.569,
+   "gan": 1.24,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794205397971,
+   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
+   "dur": 10.237,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794205387232,
+   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
+   "dur": 10.695,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794204757968,
    "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
@@ -630,110 +734,6 @@
    "gan": 0.76,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1794203959399,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 1.006,
-   "gan": 0.8,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794203543887,
-   "titulo": "A Team Test: New Zealand A vs India A",
-   "dur": 76.7,
-   "gan": 0.69,
-   "neta": 0.25,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794203572316,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 23.286,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794203571121,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 1.161,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794203566401,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 4.681,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794203478879,
-   "titulo": "A Team Test: New Zealand A vs India A",
-   "dur": 64.314,
-   "gan": 1.08,
-   "neta": 0.55,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794202932267,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 1.036,
-   "gan": 3.07,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794202932224,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 0.02,
-   "gan": 1.81,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794202932133,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 0.06,
-   "gan": 0.68,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794202724010,
-   "titulo": "A Team Test: New Zealand A vs India A",
-   "dur": 1.164,
-   "gan": 0.57,
-   "neta": 0.3,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794202501355,
-   "titulo": "Highest temperature in Chongqing on November 9?",
-   "dur": 0.258,
-   "gan": 0.65,
-   "neta": 0.34,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794201568237,
-   "titulo": "A Team Test: New Zealand A vs India A",
-   "dur": 304.858,
-   "gan": 0.95,
-   "neta": 0.5,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794201365555,
-   "titulo": "A Team Test: New Zealand A vs India A",
-   "dur": 2.014,
-   "gan": 0.78,
-   "neta": 0.29,
-   "lado": "si"
   }
  ]
 }
