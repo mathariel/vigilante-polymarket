@@ -1,52 +1,52 @@
 {
- "actualizado": 1794223217595,
+ "actualizado": 1794226235289,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794220217385,
-  "fin": 1794223217595,
-  "mensajes": 7036839,
-  "reconexiones": 1,
-  "eventos": 546,
+  "inicio": 1794223235114,
+  "fin": 1794226235289,
+  "mensajes": 6915919,
+  "reconexiones": 0,
+  "eventos": 545,
   "errores": []
  },
- "total": 5150,
+ "total": 5167,
  "falsos": 2140,
  "largos": {
-  "episodios": 7663,
+  "episodios": 7704,
   "eventos": 118,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8985,
+  "episodios": 8987,
   "eventos": 29
  },
- "mediana": 0.53,
+ "mediana": 0.527,
  "captura": [
   {
    "s": 0.5,
-   "n": 2631,
-   "gan": 10918.59,
+   "n": 2637,
+   "gan": 10922.59,
    "nNeta": 971,
    "neta": 3597.8
   },
   {
    "s": 2,
-   "n": 1196,
-   "gan": 5162.14,
+   "n": 1200,
+   "gan": 5164.77,
    "nNeta": 392,
    "neta": 1702.27
   },
   {
    "s": 5,
-   "n": 615,
-   "gan": 2599.22,
+   "n": 619,
+   "gan": 2602.05,
    "nNeta": 146,
    "neta": 421.83
   },
   {
    "s": 30,
-   "n": 185,
-   "gan": 398.01,
+   "n": 187,
+   "gan": 399.5,
    "nNeta": 34,
    "neta": 80.66
   }
@@ -57,22 +57,22 @@
    "capital": 500,
    "ops": 41,
    "neta": 44.43,
-   "dias": 1.39,
-   "semana": 223.06
+   "dias": 1.43,
+   "semana": 217.61
   },
   {
    "capital": 1000,
    "ops": 55,
    "neta": 123.16,
-   "dias": 1.39,
-   "semana": 618.33
+   "dias": 1.43,
+   "semana": 603.22
   },
   {
    "capital": 2000,
    "ops": 78,
    "neta": 140.76,
-   "dias": 1.39,
-   "semana": 706.71
+   "dias": 1.43,
+   "semana": 689.44
   }
  ],
  "semanas": [
@@ -93,8 +93,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 1,
-   "horas": 5.8,
-   "episodios": 49,
+   "horas": 6.7,
+   "episodios": 66,
    "sospechosas": 0,
    "realistaNeta": 5.81,
    "capital": {
@@ -214,9 +214,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1671,
-  "n": 501,
-  "gan": 2258.32,
+  "conDato": 1688,
+  "n": 507,
+  "gan": 2262.32,
   "nNeta": 217,
   "neta": 743.36
  },
@@ -224,27 +224,27 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1237
+   "n": 1241
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2017
+   "n": 2024
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1275
+   "n": 1277
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 430
+   "n": 432
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 129
+   "n": 131
   },
   {
    "et": "> 5 min",
@@ -611,129 +611,129 @@
   },
   {
    "h": 1794222000000,
-   "n": 3
+   "n": 20
   }
  ],
  "recientes": [
   {
-   "inicio": 1794222911617,
+   "inicio": 1794223895707,
    "titulo": "Highest temperature in Helsinki on November 11?",
-   "dur": 68.407,
-   "gan": 0.58,
+   "dur": 66.134,
+   "gan": 0.56,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794222865952,
+   "inicio": 1794223879776,
    "titulo": "Highest temperature in Helsinki on November 11?",
-   "dur": 0.029,
-   "gan": 0.54,
+   "dur": 6.415,
+   "gan": 0.69,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794222865116,
+   "inicio": 1794223877637,
    "titulo": "Highest temperature in Helsinki on November 11?",
-   "dur": 0.724,
-   "gan": 0.54,
+   "dur": 0.209,
+   "gan": 0.76,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794220928012,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 0.026,
-   "gan": 0.67,
-   "neta": 0.43,
-   "lado": "si"
+   "inicio": 1794223876061,
+   "titulo": "Highest temperature in Helsinki on November 11?",
+   "dur": 1.499,
+   "gan": 0.69,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1794220922420,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 0.024,
-   "gan": 0.61,
-   "neta": 0.32,
-   "lado": "si"
+   "inicio": 1794223874948,
+   "titulo": "Highest temperature in Helsinki on November 11?",
+   "dur": 0.052,
+   "gan": 0.89,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1794220919936,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 0.118,
-   "gan": 3.71,
-   "neta": 2.88,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794220919510,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 0.024,
-   "gan": 0.59,
-   "neta": 0.05,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794220919354,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 0.07,
-   "gan": 0.51,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794219043386,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 0.386,
+   "inicio": 1794223874408,
+   "titulo": "Highest temperature in Helsinki on November 11?",
+   "dur": 0.165,
    "gan": 0.74,
-   "neta": 0.19,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794218519638,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 52.95,
-   "gan": 2.15,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794218480020,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 13.858,
-   "gan": 0.64,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794217099808,
-   "titulo": "Highest temperature in Helsinki on November 11?",
-   "dur": 58.42,
-   "gan": 0.61,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794214467027,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 198.092,
-   "gan": 0.8,
+   "inicio": 1794223874195,
+   "titulo": "Highest temperature in Helsinki on November 11?",
+   "dur": 0.063,
+   "gan": 0.69,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794212941511,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 30.911,
-   "gan": 0.53,
+   "inicio": 1794223850363,
+   "titulo": "Highest temperature in Helsinki on November 11?",
+   "dur": 23.682,
+   "gan": 0.6,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794211864424,
-   "titulo": "Test Match: Bangladesh vs West Indies",
-   "dur": 4.991,
-   "gan": 0.77,
-   "neta": 0.03,
-   "lado": "si"
+   "inicio": 1794223848726,
+   "titulo": "Highest temperature in Helsinki on November 11?",
+   "dur": 1.528,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794223848634,
+   "titulo": "Highest temperature in Helsinki on November 11?",
+   "dur": 0.05,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794223848468,
+   "titulo": "Highest temperature in Helsinki on November 11?",
+   "dur": 0.024,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794223767272,
+   "titulo": "Highest temperature in Helsinki on November 11?",
+   "dur": 45.423,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794223759580,
+   "titulo": "Highest temperature in Helsinki on November 11?",
+   "dur": 0.272,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794223758985,
+   "titulo": "Highest temperature in Helsinki on November 11?",
+   "dur": 0.111,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794223758623,
+   "titulo": "Highest temperature in Helsinki on November 11?",
+   "dur": 0.189,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
