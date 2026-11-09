@@ -1,78 +1,78 @@
 {
- "actualizado": 1794202100238,
+ "actualizado": 1794205113098,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794199100017,
-  "fin": 1794202100238,
-  "mensajes": 6662634,
-  "reconexiones": 1,
-  "eventos": 552,
+  "inicio": 1794202112892,
+  "fin": 1794205113098,
+  "mensajes": 7011020,
+  "reconexiones": 2,
+  "eventos": 535,
   "errores": []
  },
- "total": 5104,
+ "total": 5117,
  "falsos": 2124,
  "largos": {
-  "episodios": 7300,
+  "episodios": 7312,
   "eventos": 116,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8968,
+  "episodios": 8969,
   "eventos": 27
  },
- "mediana": 0.525,
+ "mediana": 0.526,
  "captura": [
   {
    "s": 0.5,
-   "n": 2600,
-   "gan": 10886.87,
-   "nNeta": 962,
-   "neta": 3593.32
+   "n": 2609,
+   "gan": 10895.72,
+   "nNeta": 966,
+   "neta": 3594.44
   },
   {
    "s": 2,
-   "n": 1172,
-   "gan": 5135.74,
-   "nNeta": 385,
-   "neta": 1697.39
+   "n": 1176,
+   "gan": 5139.17,
+   "nNeta": 387,
+   "neta": 1698.62
   },
   {
    "s": 5,
-   "n": 600,
-   "gan": 2581.06,
-   "nNeta": 143,
-   "neta": 419.72
+   "n": 603,
+   "gan": 2585.4,
+   "nNeta": 145,
+   "neta": 421.82
   },
   {
    "s": 30,
-   "n": 178,
-   "gan": 389.63,
-   "nNeta": 32,
-   "neta": 78.56
+   "n": 180,
+   "gan": 393.36,
+   "nNeta": 34,
+   "neta": 80.66
   }
  ],
- "rentables": 1799,
+ "rentables": 1805,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 37,
-   "neta": 43.58,
-   "dias": 1.15,
-   "semana": 265.34
+   "ops": 40,
+   "neta": 44.4,
+   "dias": 1.18,
+   "semana": 262.37
   },
   {
    "capital": 1000,
-   "ops": 51,
-   "neta": 122.24,
-   "dias": 1.15,
-   "semana": 744.21
+   "ops": 54,
+   "neta": 123.06,
+   "dias": 1.18,
+   "semana": 727.15
   },
   {
    "capital": 2000,
-   "ops": 74,
-   "neta": 139.72,
-   "dias": 1.15,
-   "semana": 850.59
+   "ops": 77,
+   "neta": 140.54,
+   "dias": 1.18,
+   "semana": 830.4
   }
  ],
  "semanas": [
@@ -93,14 +93,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 1,
-   "horas": 0,
-   "episodios": 3,
+   "horas": 0.8,
+   "episodios": 16,
    "sospechosas": 0,
-   "realistaNeta": 1.35,
+   "realistaNeta": 2.17,
    "capital": {
-    "500": 1.35,
-    "1000": 1.35,
-    "2000": 1.35
+    "500": 2.17,
+    "1000": 2.17,
+    "2000": 2.17
    },
    "cumple": false
   }
@@ -214,37 +214,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1625,
-  "n": 472,
-  "gan": 2226.73,
-  "nNeta": 210,
-  "neta": 738.9
+  "conDato": 1638,
+  "n": 480,
+  "gan": 2235.01,
+  "nNeta": 213,
+  "neta": 739.72
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1227
+   "n": 1230
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2010
+   "n": 2012
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1261
+   "n": 1266
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 422
+   "n": 423
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 122
+   "n": 124
   },
   {
    "et": "> 5 min",
@@ -268,18 +268,18 @@
    "mediana": 0.377
   },
   {
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "n": 125,
+   "gan": 81.59,
+   "neta": 1.7,
+   "mediana": 23.158
+  },
+  {
    "titulo": "AEK vs. Real Madrid CF",
    "n": 124,
    "gan": 1087,
    "neta": 20.42,
    "mediana": 0.385
-  },
-  {
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "n": 120,
-   "gan": 78.22,
-   "neta": 1.7,
-   "mediana": 23.653
   },
   {
    "titulo": "RB Leipzig vs. Manchester City FC",
@@ -325,10 +325,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793941200000,
-   "n": 4
-  },
   {
    "h": 1793944800000,
    "n": 5
@@ -611,10 +607,118 @@
   },
   {
    "h": 1794200400000,
-   "n": 3
+   "n": 15
+  },
+  {
+   "h": 1794204000000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794204757968,
+   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
+   "dur": 0.042,
+   "gan": 0.84,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794203960455,
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "dur": 0.691,
+   "gan": 0.76,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794203959399,
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "dur": 1.006,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794203543887,
+   "titulo": "A Team Test: New Zealand A vs India A",
+   "dur": 76.7,
+   "gan": 0.69,
+   "neta": 0.25,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794203572316,
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "dur": 23.286,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794203571121,
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "dur": 1.161,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794203566401,
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "dur": 4.681,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794203478879,
+   "titulo": "A Team Test: New Zealand A vs India A",
+   "dur": 64.314,
+   "gan": 1.08,
+   "neta": 0.55,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794202932267,
+   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
+   "dur": 1.036,
+   "gan": 3.07,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794202932224,
+   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
+   "dur": 0.02,
+   "gan": 1.81,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794202932133,
+   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
+   "dur": 0.06,
+   "gan": 0.68,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794202724010,
+   "titulo": "A Team Test: New Zealand A vs India A",
+   "dur": 1.164,
+   "gan": 0.57,
+   "neta": 0.3,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794202501355,
+   "titulo": "Highest temperature in Chongqing on November 9?",
+   "dur": 0.258,
+   "gan": 0.65,
+   "neta": 0.34,
+   "lado": "si"
+  },
   {
    "inicio": 1794201568237,
    "titulo": "A Team Test: New Zealand A vs India A",
@@ -630,110 +734,6 @@
    "gan": 0.78,
    "neta": 0.29,
    "lado": "si"
-  },
-  {
-   "inicio": 1794201365471,
-   "titulo": "A Team Test: New Zealand A vs India A",
-   "dur": 0.059,
-   "gan": 0.8,
-   "neta": 0.32,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794199993807,
-   "titulo": "How many 5.5 or above earthquakes worldwide November 2 - November 8?",
-   "dur": 0.178,
-   "gan": 0.83,
-   "neta": 0.73,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794198886955,
-   "titulo": "Test Match: Bangladesh vs West Indies",
-   "dur": 2.035,
-   "gan": 1.04,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794196877656,
-   "titulo": "Club León FC vs. CD Guadalajara",
-   "dur": 1.402,
-   "gan": 1.15,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794196477001,
-   "titulo": "Club León FC vs. CD Guadalajara",
-   "dur": 1.118,
-   "gan": 2.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794196476350,
-   "titulo": "Club León FC vs. CD Guadalajara",
-   "dur": 0.094,
-   "gan": 0.72,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794195885251,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 4.952,
-   "gan": 1.95,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794195604696,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 0.006,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794195601889,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 2.649,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794195377033,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 1.25,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794195348503,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 28.477,
-   "gan": 0.82,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794195346942,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 1.511,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794195324135,
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "dur": 22.756,
-   "gan": 0.84,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
