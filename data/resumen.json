@@ -1,78 +1,78 @@
 {
- "actualizado": 1794217183418,
+ "actualizado": 1794220198356,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794214183197,
-  "fin": 1794217183418,
-  "mensajes": 7831495,
+  "inicio": 1794217198098,
+  "fin": 1794220198356,
+  "mensajes": 7221744,
   "reconexiones": 0,
-  "eventos": 541,
+  "eventos": 538,
   "errores": []
  },
- "total": 5139,
- "falsos": 2132,
+ "total": 5142,
+ "falsos": 2136,
  "largos": {
-  "episodios": 7517,
-  "eventos": 116,
+  "episodios": 7586,
+  "eventos": 117,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8979,
-  "eventos": 27
+  "episodios": 8983,
+  "eventos": 28
  },
- "mediana": 0.531,
+ "mediana": 0.532,
  "captura": [
   {
    "s": 0.5,
-   "n": 2627,
-   "gan": 10914.72,
+   "n": 2629,
+   "gan": 10917.47,
    "nNeta": 971,
    "neta": 3597.8
   },
   {
    "s": 2,
-   "n": 1193,
-   "gan": 5158.81,
+   "n": 1195,
+   "gan": 5161.56,
    "nNeta": 392,
    "neta": 1702.27
   },
   {
    "s": 5,
-   "n": 612,
-   "gan": 2595.89,
+   "n": 614,
+   "gan": 2598.64,
    "nNeta": 146,
    "neta": 421.83
   },
   {
    "s": 30,
-   "n": 183,
-   "gan": 395.3,
+   "n": 184,
+   "gan": 397.43,
    "nNeta": 34,
    "neta": 80.66
   }
  ],
- "rentables": 1812,
+ "rentables": 1813,
  "porCapital": [
   {
    "capital": 500,
    "ops": 41,
    "neta": 44.43,
-   "dias": 1.32,
-   "semana": 234.82
+   "dias": 1.36,
+   "semana": 228.79
   },
   {
    "capital": 1000,
    "ops": 55,
    "neta": 123.16,
-   "dias": 1.32,
-   "semana": 650.94
+   "dias": 1.36,
+   "semana": 634.23
   },
   {
    "capital": 2000,
    "ops": 78,
    "neta": 140.76,
-   "dias": 1.32,
-   "semana": 743.98
+   "dias": 1.36,
+   "semana": 724.88
   }
  ],
  "semanas": [
@@ -93,8 +93,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 1,
-   "horas": 4.2,
-   "episodios": 38,
+   "horas": 5,
+   "episodios": 41,
    "sospechosas": 0,
    "realistaNeta": 5.81,
    "capital": {
@@ -214,9 +214,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1660,
-  "n": 497,
-  "gan": 2254.45,
+  "conDato": 1663,
+  "n": 499,
+  "gan": 2257.2,
   "nNeta": 217,
   "neta": 743.36
  },
@@ -229,7 +229,7 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2014
+   "n": 2015
   },
   {
    "et": "1–5 s",
@@ -239,12 +239,12 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 429
+   "n": 430
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 127
+   "n": 128
   },
   {
    "et": "> 5 min",
@@ -325,10 +325,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793955600000,
-   "n": 8
-  },
   {
    "h": 1793962800000,
    "n": 1
@@ -612,9 +608,37 @@
   {
    "h": 1794214800000,
    "n": 1
+  },
+  {
+   "h": 1794218400000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794219043386,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 0.386,
+   "gan": 0.74,
+   "neta": 0.19,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794218519638,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 52.95,
+   "gan": 2.15,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794218480020,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 13.858,
+   "gan": 0.64,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794217099808,
    "titulo": "Highest temperature in Helsinki on November 11?",
@@ -708,30 +732,6 @@
    "titulo": "Test Match: Afghanistan vs Zimbabwe",
    "dur": 19.516,
    "gan": 0.74,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794206183675,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 0.16,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794206180101,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 2.851,
-   "gan": 0.86,
-   "neta": 0.11,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794206166049,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 14.048,
-   "gan": 1.81,
    "neta": 0,
    "lado": "no"
   }
