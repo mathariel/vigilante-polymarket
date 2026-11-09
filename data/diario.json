@@ -1,14 +1,14 @@
 {
  "2026-11-08": {
-  "minutos": 550,
-  "episodios": 1393,
-  "sospechosas": 28,
-  "realistaN": 191,
-  "realistaNeta": 724.77,
+  "minutos": 600,
+  "episodios": 1422,
+  "sospechosas": 31,
+  "realistaN": 192,
+  "realistaNeta": 726.53,
   "capital": {
-   "500": 33.95,
-   "1000": 110.1,
-   "2000": 126.53
+   "500": 34.16,
+   "1000": 111.86,
+   "2000": 128.29
   }
  }
 }

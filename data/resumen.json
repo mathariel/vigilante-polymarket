@@ -1,47 +1,47 @@
 {
- "actualizado": 1794181009163,
+ "actualizado": 1794184020962,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794178008985,
-  "fin": 1794181009163,
-  "mensajes": 8922569,
-  "reconexiones": 0,
-  "eventos": 592,
+  "inicio": 1794181020815,
+  "fin": 1794184020962,
+  "mensajes": 8925589,
+  "reconexiones": 1,
+  "eventos": 589,
   "errores": []
  },
- "total": 4980,
- "falsos": 1959,
+ "total": 5009,
+ "falsos": 2109,
  "largos": {
-  "episodios": 6916,
-  "eventos": 111,
+  "episodios": 7022,
+  "eventos": 112,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8803,
+  "episodios": 8962,
   "eventos": 27
  },
- "mediana": 0.528,
+ "mediana": 0.524,
  "captura": [
   {
    "s": 0.5,
-   "n": 2543,
-   "gan": 10812.27,
-   "nNeta": 939,
-   "neta": 3578.23
+   "n": 2550,
+   "gan": 10826.59,
+   "nNeta": 942,
+   "neta": 3580.82
   },
   {
    "s": 2,
-   "n": 1146,
-   "gan": 5103.06,
-   "nNeta": 376,
-   "neta": 1692.49
+   "n": 1148,
+   "gan": 5110.87,
+   "nNeta": 377,
+   "neta": 1694.25
   },
   {
    "s": 5,
-   "n": 585,
-   "gan": 2558.32,
-   "nNeta": 139,
-   "neta": 416.3
+   "n": 586,
+   "gan": 2564.22,
+   "nNeta": 140,
+   "neta": 418.06
   },
   {
    "s": 30,
@@ -51,42 +51,42 @@
    "neta": 77.49
   }
  ],
- "rentables": 1749,
+ "rentables": 1759,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 29,
-   "neta": 39.43,
-   "dias": 0.91,
-   "semana": 304.76
+   "ops": 30,
+   "neta": 39.64,
+   "dias": 0.94,
+   "semana": 295.05
   },
   {
    "capital": 1000,
-   "ops": 43,
-   "neta": 115.6,
-   "dias": 0.91,
-   "semana": 893.42
+   "ops": 44,
+   "neta": 117.36,
+   "dias": 0.94,
+   "semana": 873.41
   },
   {
    "capital": 2000,
-   "ops": 60,
-   "neta": 131.47,
-   "dias": 0.91,
-   "semana": 1016.08
+   "ops": 61,
+   "neta": 133.23,
+   "dias": 0.94,
+   "semana": 991.52
   }
  ],
  "semanas": [
   {
    "lunes": "2026-11-02",
    "dias": 1,
-   "horas": 9.2,
-   "episodios": 1393,
-   "sospechosas": 28,
-   "realistaNeta": 724.77,
+   "horas": 10,
+   "episodios": 1422,
+   "sospechosas": 31,
+   "realistaNeta": 726.53,
    "capital": {
-    "500": 33.95,
-    "1000": 110.1,
-    "2000": 126.53
+    "500": 34.16,
+    "1000": 111.86,
+    "2000": 128.29
    },
    "cumple": true
   }
@@ -94,7 +94,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 97,
+  "n": 100,
   "top": [
    {
     "inicio": 1794062797308,
@@ -200,32 +200,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1504,
-  "n": 434,
-  "gan": 2182.06,
-  "nNeta": 196,
-  "neta": 730.65
+  "conDato": 1530,
+  "n": 437,
+  "gan": 2191.67,
+  "nNeta": 197,
+  "neta": 732.41
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1192
+   "n": 1205
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1965
+   "n": 1977
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1233
+   "n": 1236
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 413
+   "n": 414
   },
   {
    "et": "30 s–5 min",
@@ -311,10 +311,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793919600000,
-   "n": 20
-  },
   {
    "h": 1793923200000,
    "n": 13
@@ -597,129 +593,133 @@
   },
   {
    "h": 1794178800000,
-   "n": 13
+   "n": 17
+  },
+  {
+   "h": 1794182400000,
+   "n": 25
   }
  ],
  "recientes": [
   {
-   "inicio": 1794180923618,
-   "titulo": "Ceará SC vs. América FC",
-   "dur": 2.135,
-   "gan": 1,
+   "inicio": 1794183883623,
+   "titulo": "Club Blooming vs. CD Oriente Petrolero",
+   "dur": 0.489,
+   "gan": 1.48,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794183873260,
+   "titulo": "Club Blooming vs. CD Oriente Petrolero",
+   "dur": 1.721,
+   "gan": 2.69,
+   "neta": 0.08,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794183869564,
+   "titulo": "Club Blooming vs. CD Oriente Petrolero",
+   "dur": 0.336,
+   "gan": 0.52,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794180908283,
-   "titulo": "Ceará SC vs. América FC",
-   "dur": 1.923,
-   "gan": 4.58,
-   "neta": 1.63,
-   "lado": "no"
+   "inicio": 1794182648521,
+   "titulo": "CA Central Córdoba vs. CA Lanús",
+   "dur": 0.131,
+   "gan": 1.19,
+   "neta": 0,
+   "lado": "si"
   },
   {
-   "inicio": 1794180787140,
-   "titulo": "CD Tolima vs. Millonarios FC",
-   "dur": 6.495,
+   "inicio": 1794182619067,
+   "titulo": "CA Central Córdoba vs. CA Lanús",
+   "dur": 2.138,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794182618933,
+   "titulo": "CA Central Córdoba vs. CA Lanús",
+   "dur": 0.049,
    "gan": 0.55,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794180692654,
-   "titulo": "What will the biggest earthquake be on November 9, 2026?",
-   "dur": 0.051,
-   "gan": 0.5,
+   "inicio": 1794182618822,
+   "titulo": "CA Central Córdoba vs. CA Lanús",
+   "dur": 0.073,
+   "gan": 0.8,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794180547120,
-   "titulo": "Barcelona SC vs. LDU Quito",
-   "dur": 0.254,
-   "gan": 0.54,
-   "neta": 0.17,
    "lado": "si"
   },
   {
-   "inicio": 1794180389859,
-   "titulo": "Barcelona SC vs. LDU Quito",
-   "dur": 0.021,
+   "inicio": 1794182618645,
+   "titulo": "CA Central Córdoba vs. CA Lanús",
+   "dur": 0.012,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794182618572,
+   "titulo": "CA Central Córdoba vs. CA Lanús",
+   "dur": 0.03,
+   "gan": 0.74,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794182618516,
+   "titulo": "CA Central Córdoba vs. CA Lanús",
+   "dur": 0.013,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794182618367,
+   "titulo": "CA Central Córdoba vs. CA Lanús",
+   "dur": 0.072,
+   "gan": 0.92,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794182618138,
+   "titulo": "CA Central Córdoba vs. CA Lanús",
+   "dur": 0.029,
+   "gan": 0.73,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794182616018,
+   "titulo": "CA Central Córdoba vs. CA Lanús",
+   "dur": 0.162,
+   "gan": 0.69,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794182615261,
+   "titulo": "CA Central Córdoba vs. CA Lanús",
+   "dur": 0.174,
    "gan": 0.53,
-   "neta": 0.24,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794180061545,
-   "titulo": "Lowest temperature in Munich on November 9?",
-   "dur": 0.856,
-   "gan": 3.36,
-   "neta": 3.26,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794179791814,
-   "titulo": "CD Tolima vs. Millonarios FC",
-   "dur": 0.423,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794179791717,
-   "titulo": "CD Tolima vs. Millonarios FC",
-   "dur": 0.038,
-   "gan": 0.73,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794179790221,
-   "titulo": "CD Tolima vs. Millonarios FC",
-   "dur": 1.35,
-   "gan": 0.66,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794178821991,
+   "inicio": 1794182615216,
    "titulo": "CA Central Córdoba vs. CA Lanús",
-   "dur": 0.107,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794178821867,
-   "titulo": "CA Central Córdoba vs. CA Lanús",
-   "dur": 0.079,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794178821480,
-   "titulo": "CA Central Córdoba vs. CA Lanús",
-   "dur": 0.296,
-   "gan": 1.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794178605021,
-   "titulo": "Barcelona SC vs. LDU Quito",
    "dur": 0.004,
-   "gan": 0.67,
+   "gan": 0.69,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794178604914,
-   "titulo": "Barcelona SC vs. LDU Quito",
-   "dur": 0.058,
-   "gan": 0.73,
-   "neta": 0,
-   "lado": "no"
+   "lado": "si"
   }
  ]
 }
