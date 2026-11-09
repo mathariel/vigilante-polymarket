@@ -242,6 +242,13 @@ function simularCapitales(cerrados) {
     return { capital: cap, ops, neta: +neta.toFixed(2), dias: +dias.toFixed(2), semana: +(neta / dias * 7).toFixed(2) };
   });
 }
+// Oportunidades que aparecieron durante esta ejecución (para la línea "Última revisión" del tablero)
+function nuevosDeEstaEjecucion(cerrados) {
+  const nuevos = cerrados.filter(e => e.inicio >= ejecucion.inicio);
+  const rent = nuevos.filter(e => e.espera !== undefined && !esSospechoso(e))
+    .map(e => capturaA(e, REACCION_RAPIDA + e.espera)).filter(c => c && c.neta > 0);
+  return { nuevos: nuevos.length, nuevosRentables: rent.length, nuevosNeta: +rent.reduce((a, b) => a + b.neta, 0).toFixed(2) };
+}
 function resumen(final) {
   const verificados = episodios.filter(e => e.verificado !== false);
   const cerrados = verificados.filter(esCorto);
@@ -258,7 +265,7 @@ function resumen(final) {
   for (const e of cerrados) { const h = Math.floor(e.inicio / 3600000) * 3600000; porHora.set(h, (porHora.get(h) || 0) + 1); }
   return {
     actualizado: Date.now(), inicio: inicioHistorial,
-    ejecucion: { inicio: ejecucion.inicio, fin: final ? Date.now() : null, mensajes: ejecucion.mensajes, reconexiones: ejecucion.reconexiones, eventos: eventos.size, errores: ejecucion.errores.slice(-5) },
+    ejecucion: { inicio: ejecucion.inicio, fin: final ? Date.now() : null, mensajes: ejecucion.mensajes, reconexiones: ejecucion.reconexiones, eventos: eventos.size, errores: ejecucion.errores.slice(-5), ...nuevosDeEstaEjecucion(cerrados) },
     total: cerrados.length, falsos: episodios.length - verificados.length,
     largos: { episodios: verificados.filter(e => !esCorto(e) && !esperaResolucion(e)).length, eventos: largos.size, dias: DIAS_MAX },
     enEspera: { episodios: verificados.filter(esperaResolucion).length, eventos: enEspera.size },

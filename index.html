@@ -34,6 +34,7 @@
   .barra{height:8px;background:var(--acento-suave);border-radius:4px;overflow:hidden} .barra div{height:100%;background:var(--acento);border-radius:4px}
   .num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap} .tenue{color:var(--tenue)} .vacio{color:var(--suave);font-size:13px;padding:6px 0}
   @media(max-width:480px){.b1{grid-template-columns:40px minmax(0,1fr) 128px;gap:8px}.fila{grid-template-columns:minmax(0,1fr) 30px 80px 58px}.fila .barra,.fila.cab div:nth-child(2){display:none}.rec{grid-template-columns:minmax(0,1fr) 58px 62px}.rec .tenue{display:none}.rec.cab span:first-child{display:none}}
+  .revision{background:var(--carta);border:1px solid var(--borde);border-radius:8px;padding:8px 12px;font-size:13px;margin-bottom:14px;color:var(--suave)} .revision b{color:var(--texto)}
   .error{background:var(--ambar-suave);color:var(--ambar);border-radius:8px;padding:8px 12px;font-size:13px;margin-bottom:14px}
 </style>
 </head>
@@ -77,10 +78,16 @@ function pintar(d) {
     <div class="sem cab"><span>Semana</span><span class="num">Horas</span><span class="num">$500</span><span class="num">$1,000</span><span class="num">$2,000</span><span class="num">Criterio</span></div>
     ${sem.map((s, i) => `<div class="sem"><span>${fechaCorta(s.lunes)}${s.dias < 7 ? ` <span class="tenue">(${s.dias} d)</span>` : ''}</span><span class="num tenue">${Math.round(s.horas)}</span><span class="num neta">$${$(s.capital[500] || 0)}</span><span class="num">$${$(s.capital[1000] || 0)}</span><span class="num">$${$(s.capital[2000] || 0)}</span><span class="num">${s.dias < 7 ? `<span class="tenue">${i === sem.length - 1 ? 'en curso' : 'incompleta'}</span>` : s.cumple ? '<span class="neta">✓ cumple</span>' : '<span class="no">✗ no</span>'}</span></div>`).join('')}
     <div class="nota" style="margin-top:8px;margin-bottom:0">"Horas" es el tiempo que el bot estuvo midiendo esa semana (máximo 168). Las simulaciones de cada día parten con el capital completo.</div></div>` : '';
+  const ej = d.ejecucion || {};
+  const hhmm = (t) => new Date(t).toLocaleTimeString('es-PE', { hour: '2-digit', minute: '2-digit', timeZone: 'America/Lima' });
+  const opNuevas = (n) => n === 1 ? '1 oportunidad nueva' : `${ent(n)} oportunidades nuevas`;
+  const detalle = ej.nuevos ? ` (${ej.nuevosRentables} rentable${ej.nuevosRentables === 1 ? '' : 's'} en el escenario realista${ej.nuevosRentables ? `, <span class="neta">$${$(ej.nuevosNeta)} netos</span>` : ''})` : '';
+  const ultima = ej.nuevos === undefined ? '' : `<div class="revision"><b>${enCurso ? 'Revisión en curso' : 'Última revisión'}:</b> ${enCurso ? `desde las ${hhmm(ej.inicio)} · ` : `${hhmm(ej.fin || d.actualizado)} · `}${opNuevas(ej.nuevos)}${enCurso ? ' hasta ahora' : ''}${detalle}</div>`;
   const errores = d.ejecucion && d.ejecucion.errores && d.ejecucion.errores.length ? `<div class="error">Última ejecución con problemas: ${esc(d.ejecucion.errores.at(-1))}</div>` : '';
   app.innerHTML = `
     <div class="top"><div><h1>Vigilante de arbitrajes</h1><div class="sub">Polymarket · modo simulado, sin dinero · datos desde ${hora(d.inicio)}</div></div>
       <span class="pill ${enCurso ? 'ok' : 'esp'}"><i></i>${enCurso ? 'Midiendo ahora' : 'En pausa entre ejecuciones'} · actualizado ${hace(d.actualizado)}</span></div>
+    ${ultima}
     ${errores}
     <div class="kpis">
       <div class="k"><b>${ent(d.total)}</b><span>episodios verificados</span></div>
