@@ -1,78 +1,78 @@
 {
- "actualizado": 1794220198356,
+ "actualizado": 1794223217595,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794217198098,
-  "fin": 1794220198356,
-  "mensajes": 7221744,
-  "reconexiones": 0,
-  "eventos": 538,
+  "inicio": 1794220217385,
+  "fin": 1794223217595,
+  "mensajes": 7036839,
+  "reconexiones": 1,
+  "eventos": 546,
   "errores": []
  },
- "total": 5142,
- "falsos": 2136,
+ "total": 5150,
+ "falsos": 2140,
  "largos": {
-  "episodios": 7586,
-  "eventos": 117,
+  "episodios": 7663,
+  "eventos": 118,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8983,
-  "eventos": 28
+  "episodios": 8985,
+  "eventos": 29
  },
- "mediana": 0.532,
+ "mediana": 0.53,
  "captura": [
   {
    "s": 0.5,
-   "n": 2629,
-   "gan": 10917.47,
+   "n": 2631,
+   "gan": 10918.59,
    "nNeta": 971,
    "neta": 3597.8
   },
   {
    "s": 2,
-   "n": 1195,
-   "gan": 5161.56,
+   "n": 1196,
+   "gan": 5162.14,
    "nNeta": 392,
    "neta": 1702.27
   },
   {
    "s": 5,
-   "n": 614,
-   "gan": 2598.64,
+   "n": 615,
+   "gan": 2599.22,
    "nNeta": 146,
    "neta": 421.83
   },
   {
    "s": 30,
-   "n": 184,
-   "gan": 397.43,
+   "n": 185,
+   "gan": 398.01,
    "nNeta": 34,
    "neta": 80.66
   }
  ],
- "rentables": 1813,
+ "rentables": 1818,
  "porCapital": [
   {
    "capital": 500,
    "ops": 41,
    "neta": 44.43,
-   "dias": 1.36,
-   "semana": 228.79
+   "dias": 1.39,
+   "semana": 223.06
   },
   {
    "capital": 1000,
    "ops": 55,
    "neta": 123.16,
-   "dias": 1.36,
-   "semana": 634.23
+   "dias": 1.39,
+   "semana": 618.33
   },
   {
    "capital": 2000,
    "ops": 78,
    "neta": 140.76,
-   "dias": 1.36,
-   "semana": 724.88
+   "dias": 1.39,
+   "semana": 706.71
   }
  ],
  "semanas": [
@@ -93,8 +93,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 1,
-   "horas": 5,
-   "episodios": 41,
+   "horas": 5.8,
+   "episodios": 49,
    "sospechosas": 0,
    "realistaNeta": 5.81,
    "capital": {
@@ -214,9 +214,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1663,
-  "n": 499,
-  "gan": 2257.2,
+  "conDato": 1671,
+  "n": 501,
+  "gan": 2258.32,
   "nNeta": 217,
   "neta": 743.36
  },
@@ -224,12 +224,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1232
+   "n": 1237
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2015
+   "n": 2017
   },
   {
    "et": "1–5 s",
@@ -244,7 +244,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 128
+   "n": 129
   },
   {
    "et": "> 5 min",
@@ -325,10 +325,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793962800000,
-   "n": 1
-  },
   {
    "h": 1793966400000,
    "n": 2
@@ -611,10 +607,78 @@
   },
   {
    "h": 1794218400000,
+   "n": 8
+  },
+  {
+   "h": 1794222000000,
    "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794222911617,
+   "titulo": "Highest temperature in Helsinki on November 11?",
+   "dur": 68.407,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794222865952,
+   "titulo": "Highest temperature in Helsinki on November 11?",
+   "dur": 0.029,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794222865116,
+   "titulo": "Highest temperature in Helsinki on November 11?",
+   "dur": 0.724,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794220928012,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 0.026,
+   "gan": 0.67,
+   "neta": 0.43,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794220922420,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 0.024,
+   "gan": 0.61,
+   "neta": 0.32,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794220919936,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 0.118,
+   "gan": 3.71,
+   "neta": 2.88,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794220919510,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 0.024,
+   "gan": 0.59,
+   "neta": 0.05,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794220919354,
+   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
+   "dur": 0.07,
+   "gan": 0.51,
+   "neta": 0.01,
+   "lado": "si"
+  },
   {
    "inicio": 1794219043386,
    "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
@@ -670,70 +734,6 @@
    "gan": 0.77,
    "neta": 0.03,
    "lado": "si"
-  },
-  {
-   "inicio": 1794210767271,
-   "titulo": "Ted Cruz # posts November 6 - November 13, 2026?",
-   "dur": 0.018,
-   "gan": 0.56,
-   "neta": 0.17,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794210695875,
-   "titulo": "Test Match: Bangladesh vs West Indies",
-   "dur": 2.135,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794210581009,
-   "titulo": "Test Match: Bangladesh vs West Indies",
-   "dur": 1.118,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794210187220,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 3.324,
-   "gan": 3.49,
-   "neta": 2.8,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794208839973,
-   "titulo": "Elon Musk # tweets November 7 - November 9, 2026?",
-   "dur": 0.338,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794207276831,
-   "titulo": "Highest temperature in Wuhan on November 9?",
-   "dur": 0.043,
-   "gan": 1.31,
-   "neta": 0.82,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794206936471,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 2.454,
-   "gan": 0.83,
-   "neta": 0.07,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794206184984,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 19.516,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
