@@ -1,47 +1,47 @@
 {
- "actualizado": 1794184020962,
+ "actualizado": 1794187032904,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794181020815,
-  "fin": 1794184020962,
-  "mensajes": 8925589,
-  "reconexiones": 1,
-  "eventos": 589,
+  "inicio": 1794184032716,
+  "fin": 1794187032904,
+  "mensajes": 7588511,
+  "reconexiones": 0,
+  "eventos": 571,
   "errores": []
  },
- "total": 5009,
- "falsos": 2109,
+ "total": 5056,
+ "falsos": 2113,
  "largos": {
-  "episodios": 7022,
+  "episodios": 7049,
   "eventos": 112,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8962,
+  "episodios": 8965,
   "eventos": 27
  },
- "mediana": 0.524,
+ "mediana": 0.52,
  "captura": [
   {
    "s": 0.5,
-   "n": 2550,
-   "gan": 10826.59,
-   "nNeta": 942,
-   "neta": 3580.82
+   "n": 2570,
+   "gan": 10856.21,
+   "nNeta": 955,
+   "neta": 3587.1
   },
   {
    "s": 2,
-   "n": 1148,
-   "gan": 5110.87,
-   "nNeta": 377,
-   "neta": 1694.25
+   "n": 1155,
+   "gan": 5119.1,
+   "nNeta": 383,
+   "neta": 1696.04
   },
   {
    "s": 5,
-   "n": 586,
-   "gan": 2564.22,
-   "nNeta": 140,
-   "neta": 418.06
+   "n": 589,
+   "gan": 2569.63,
+   "nNeta": 142,
+   "neta": 418.65
   },
   {
    "s": 30,
@@ -51,42 +51,42 @@
    "neta": 77.49
   }
  ],
- "rentables": 1759,
+ "rentables": 1786,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 30,
-   "neta": 39.64,
-   "dias": 0.94,
-   "semana": 295.05
+   "ops": 32,
+   "neta": 40.03,
+   "dias": 0.98,
+   "semana": 287.3
   },
   {
    "capital": 1000,
-   "ops": 44,
-   "neta": 117.36,
-   "dias": 0.94,
-   "semana": 873.41
+   "ops": 46,
+   "neta": 117.77,
+   "dias": 0.98,
+   "semana": 845.19
   },
   {
    "capital": 2000,
-   "ops": 61,
-   "neta": 133.23,
-   "dias": 0.94,
-   "semana": 991.52
+   "ops": 69,
+   "neta": 135.25,
+   "dias": 0.98,
+   "semana": 970.58
   }
  ],
  "semanas": [
   {
    "lunes": "2026-11-02",
    "dias": 1,
-   "horas": 10,
-   "episodios": 1422,
+   "horas": 10.8,
+   "episodios": 1469,
    "sospechosas": 31,
-   "realistaNeta": 726.53,
+   "realistaNeta": 728.55,
    "capital": {
-    "500": 34.16,
-    "1000": 111.86,
-    "2000": 128.29
+    "500": 34.55,
+    "1000": 112.29,
+    "2000": 130.31
    },
    "cumple": true
   }
@@ -200,32 +200,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1530,
-  "n": 437,
-  "gan": 2191.67,
-  "nNeta": 197,
-  "neta": 732.41
+  "conDato": 1577,
+  "n": 446,
+  "gan": 2201.21,
+  "nNeta": 205,
+  "neta": 734.43
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1205
+   "n": 1218
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1977
+   "n": 1999
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1236
+   "n": 1245
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 414
+   "n": 417
   },
   {
    "et": "30 s–5 min",
@@ -597,128 +597,128 @@
   },
   {
    "h": 1794182400000,
-   "n": 25
+   "n": 72
   }
  ],
  "recientes": [
   {
-   "inicio": 1794183883623,
-   "titulo": "Club Blooming vs. CD Oriente Petrolero",
-   "dur": 0.489,
-   "gan": 1.48,
-   "neta": 0,
-   "lado": "si"
+   "inicio": 1794185788998,
+   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
+   "dur": 0.029,
+   "gan": 1.2,
+   "neta": 0.75,
+   "lado": "no"
   },
   {
-   "inicio": 1794183873260,
-   "titulo": "Club Blooming vs. CD Oriente Petrolero",
-   "dur": 1.721,
-   "gan": 2.69,
-   "neta": 0.08,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794183869564,
-   "titulo": "Club Blooming vs. CD Oriente Petrolero",
-   "dur": 0.336,
-   "gan": 0.52,
+   "inicio": 1794185788074,
+   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
+   "dur": 0.91,
+   "gan": 0.65,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794182648521,
-   "titulo": "CA Central Córdoba vs. CA Lanús",
-   "dur": 0.131,
-   "gan": 1.19,
+   "inicio": 1794185728865,
+   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
+   "dur": 0.349,
+   "gan": 0.64,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794182619067,
-   "titulo": "CA Central Córdoba vs. CA Lanús",
-   "dur": 2.138,
+   "inicio": 1794185728167,
+   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
+   "dur": 0.428,
+   "gan": 0.87,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794185727422,
+   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
+   "dur": 0.534,
+   "gan": 1.33,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794185726825,
+   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
+   "dur": 0.567,
    "gan": 0.56,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794182618933,
-   "titulo": "CA Central Córdoba vs. CA Lanús",
-   "dur": 0.049,
-   "gan": 0.55,
-   "neta": 0,
+   "inicio": 1794185726178,
+   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
+   "dur": 0.629,
+   "gan": 2.89,
+   "neta": 1.44,
    "lado": "si"
   },
   {
-   "inicio": 1794182618822,
-   "titulo": "CA Central Córdoba vs. CA Lanús",
-   "dur": 0.073,
-   "gan": 0.8,
-   "neta": 0,
+   "inicio": 1794185726112,
+   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
+   "dur": 0.04,
+   "gan": 0.53,
+   "neta": 0.17,
    "lado": "si"
   },
   {
-   "inicio": 1794182618645,
-   "titulo": "CA Central Córdoba vs. CA Lanús",
-   "dur": 0.012,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794182618572,
-   "titulo": "CA Central Córdoba vs. CA Lanús",
-   "dur": 0.03,
+   "inicio": 1794185725983,
+   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
+   "dur": 0.079,
    "gan": 0.74,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794182618516,
-   "titulo": "CA Central Córdoba vs. CA Lanús",
-   "dur": 0.013,
-   "gan": 0.58,
+   "inicio": 1794185724285,
+   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
+   "dur": 0.339,
+   "gan": 0.89,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794182618367,
-   "titulo": "CA Central Córdoba vs. CA Lanús",
-   "dur": 0.072,
-   "gan": 0.92,
+   "inicio": 1794185723808,
+   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
+   "dur": 0.451,
+   "gan": 0.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794182618138,
-   "titulo": "CA Central Córdoba vs. CA Lanús",
-   "dur": 0.029,
-   "gan": 0.73,
+   "inicio": 1794185723369,
+   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
+   "dur": 0.437,
+   "gan": 1.96,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794182616018,
-   "titulo": "CA Central Córdoba vs. CA Lanús",
-   "dur": 0.162,
-   "gan": 0.69,
+   "inicio": 1794185720135,
+   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
+   "dur": 0.025,
+   "gan": 0.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794182615261,
-   "titulo": "CA Central Córdoba vs. CA Lanús",
-   "dur": 0.174,
+   "inicio": 1794185691600,
+   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
+   "dur": 0.042,
    "gan": 0.53,
-   "neta": 0,
+   "neta": 0.22,
    "lado": "si"
   },
   {
-   "inicio": 1794182615216,
-   "titulo": "CA Central Córdoba vs. CA Lanús",
-   "dur": 0.004,
-   "gan": 0.69,
-   "neta": 0,
+   "inicio": 1794185691485,
+   "titulo": "CD Garcilaso vs. CD Comerciantes Unidos",
+   "dur": 0.097,
+   "gan": 0.79,
+   "neta": 0.5,
    "lado": "si"
   }
  ]
