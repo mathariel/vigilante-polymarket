@@ -1,45 +1,45 @@
 {
- "actualizado": 1794193060724,
+ "actualizado": 1794196074751,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794190060530,
-  "fin": 1794193060724,
-  "mensajes": 7560446,
-  "reconexiones": 2,
-  "eventos": 575,
+  "inicio": 1794193074569,
+  "fin": 1794196074751,
+  "mensajes": 6607372,
+  "reconexiones": 1,
+  "eventos": 551,
   "errores": []
  },
- "total": 5074,
- "falsos": 2117,
+ "total": 5096,
+ "falsos": 2120,
  "largos": {
-  "episodios": 7121,
-  "eventos": 113,
+  "episodios": 7202,
+  "eventos": 114,
   "dias": 7
  },
  "enEspera": {
   "episodios": 8965,
   "eventos": 27
  },
- "mediana": 0.522,
+ "mediana": 0.524,
  "captura": [
   {
    "s": 0.5,
-   "n": 2582,
-   "gan": 10870.67,
+   "n": 2595,
+   "gan": 10881.26,
    "nNeta": 960,
    "neta": 3591.97
   },
   {
    "s": 2,
-   "n": 1162,
-   "gan": 5126.45,
+   "n": 1169,
+   "gan": 5132.78,
    "nNeta": 383,
    "neta": 1696.04
   },
   {
    "s": 5,
-   "n": 595,
-   "gan": 2576.43,
+   "n": 599,
+   "gan": 2579.48,
    "nNeta": 142,
    "neta": 418.65
   },
@@ -57,30 +57,30 @@
    "capital": 500,
    "ops": 35,
    "neta": 42.23,
-   "dias": 1.05,
-   "semana": 282.86
+   "dias": 1.08,
+   "semana": 273.72
   },
   {
    "capital": 1000,
    "ops": 49,
    "neta": 120.89,
-   "dias": 1.05,
-   "semana": 809.67
+   "dias": 1.08,
+   "semana": 783.52
   },
   {
    "capital": 2000,
    "ops": 72,
    "neta": 138.37,
-   "dias": 1.05,
-   "semana": 926.69
+   "dias": 1.08,
+   "semana": 896.76
   }
  ],
  "semanas": [
   {
    "lunes": "2026-11-02",
    "dias": 1,
-   "horas": 12.5,
-   "episodios": 1487,
+   "horas": 13.3,
+   "episodios": 1509,
    "sospechosas": 31,
    "realistaNeta": 731.67,
    "capital": {
@@ -200,9 +200,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1595,
-  "n": 456,
-  "gan": 2212.98,
+  "conDato": 1617,
+  "n": 469,
+  "gan": 2223.57,
   "nNeta": 208,
   "neta": 737.55
  },
@@ -210,22 +210,22 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1220
+   "n": 1225
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2004
+   "n": 2009
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1249
+   "n": 1257
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 418
+   "n": 422
   },
   {
    "et": "30 s–5 min",
@@ -262,10 +262,10 @@
   },
   {
    "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "n": 105,
-   "gan": 67.26,
+   "n": 120,
+   "gan": 78.22,
    "neta": 1.7,
-   "mediana": 25.703
+   "mediana": 23.653
   },
   {
    "titulo": "RB Leipzig vs. Manchester City FC",
@@ -311,10 +311,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793930400000,
-   "n": 8
-  },
   {
    "h": 1793934000000,
    "n": 4
@@ -598,128 +594,132 @@
   {
    "h": 1794189600000,
    "n": 10
+  },
+  {
+   "h": 1794193200000,
+   "n": 22
   }
  ],
  "recientes": [
   {
-   "inicio": 1794192859139,
-   "titulo": "Lowest temperature in Cape Town on November 9?",
-   "dur": 1.214,
-   "gan": 1.28,
-   "neta": 0.96,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794191626873,
-   "titulo": "Club León FC vs. CD Guadalajara",
-   "dur": 0.039,
-   "gan": 0.55,
+   "inicio": 1794195885251,
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "dur": 4.952,
+   "gan": 1.95,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794191223271,
-   "titulo": "What will the biggest earthquake be on November 9, 2026?",
-   "dur": 360.029,
-   "gan": 1.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794191421910,
-   "titulo": "Club León FC vs. CD Guadalajara",
-   "dur": 0.225,
-   "gan": 19.39,
-   "neta": 5.4,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794191103203,
-   "titulo": "What will the biggest earthquake be on November 9, 2026?",
-   "dur": 59.998,
-   "gan": 1.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794190983333,
-   "titulo": "What will the biggest earthquake be on November 9, 2026?",
-   "dur": 59.911,
-   "gan": 1.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794190863282,
-   "titulo": "What will the biggest earthquake be on November 9, 2026?",
-   "dur": 33.783,
-   "gan": 1.09,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794190743244,
-   "titulo": "What will the biggest earthquake be on November 9, 2026?",
-   "dur": 59.92,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794190683211,
-   "titulo": "What will the biggest earthquake be on November 9, 2026?",
-   "dur": 7.138,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794190387355,
-   "titulo": "Club Universitario de Deportes vs. CD Moquegua",
-   "dur": 0.772,
-   "gan": 0.51,
-   "neta": 0.45,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794188033112,
-   "titulo": "Querétaro FC vs. Club Puebla",
-   "dur": 0.126,
-   "gan": 0.5,
-   "neta": 0.17,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794188032339,
-   "titulo": "Querétaro FC vs. Club Puebla",
-   "dur": 0.749,
-   "gan": 0.86,
-   "neta": 0.18,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794188025740,
-   "titulo": "Querétaro FC vs. Club Puebla",
-   "dur": 0.218,
-   "gan": 1.84,
-   "neta": 0.11,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794187978422,
-   "titulo": "Club Blooming vs. CD Oriente Petrolero",
-   "dur": 1.618,
-   "gan": 1.94,
-   "neta": 1.62,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794187946250,
-   "titulo": "Querétaro FC vs. Club Puebla",
-   "dur": 1.924,
+   "inicio": 1794195604696,
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "dur": 0.006,
    "gan": 0.56,
-   "neta": 0.04,
-   "lado": "si"
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794195601889,
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "dur": 2.649,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794195377033,
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "dur": 1.25,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794195348503,
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "dur": 28.477,
+   "gan": 0.82,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794195346942,
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "dur": 1.511,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794195324135,
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "dur": 22.756,
+   "gan": 0.84,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794195322860,
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "dur": 1.239,
+   "gan": 0.69,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794195316951,
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "dur": 5.848,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794195315425,
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "dur": 1.496,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794195292359,
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "dur": 22.989,
+   "gan": 0.64,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794195291401,
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "dur": 0.922,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794195290979,
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "dur": 0.39,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794195290847,
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "dur": 0.095,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794195289482,
+   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
+   "dur": 1.327,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
