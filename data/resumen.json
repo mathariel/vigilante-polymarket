@@ -1,78 +1,78 @@
 {
- "actualizado": 1794211149200,
+ "actualizado": 1794214167719,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794208149021,
-  "fin": 1794211149200,
-  "mensajes": 7544592,
+  "inicio": 1794211167504,
+  "fin": 1794214167719,
+  "mensajes": 8139013,
   "reconexiones": 0,
-  "eventos": 518,
+  "eventos": 538,
   "errores": []
  },
- "total": 5135,
- "falsos": 2125,
+ "total": 5137,
+ "falsos": 2128,
  "largos": {
-  "episodios": 7457,
+  "episodios": 7474,
   "eventos": 116,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8977,
+  "episodios": 8978,
   "eventos": 27
  },
  "mediana": 0.53,
  "captura": [
   {
    "s": 0.5,
-   "n": 2623,
-   "gan": 10911.95,
-   "nNeta": 970,
-   "neta": 3597.63
+   "n": 2625,
+   "gan": 10913.31,
+   "nNeta": 971,
+   "neta": 3597.8
   },
   {
    "s": 2,
-   "n": 1189,
-   "gan": 5154.17,
-   "nNeta": 391,
-   "neta": 1701.1
+   "n": 1191,
+   "gan": 5157.4,
+   "nNeta": 392,
+   "neta": 1702.27
   },
   {
    "s": 5,
-   "n": 609,
-   "gan": 2593.95,
+   "n": 610,
+   "gan": 2594.48,
    "nNeta": 146,
    "neta": 421.83
   },
   {
    "s": 30,
-   "n": 180,
-   "gan": 393.36,
+   "n": 181,
+   "gan": 393.89,
    "nNeta": 34,
    "neta": 80.66
   }
  ],
- "rentables": 1811,
+ "rentables": 1812,
  "porCapital": [
   {
    "capital": 500,
    "ops": 41,
    "neta": 44.43,
-   "dias": 1.25,
-   "semana": 247.9
+   "dias": 1.29,
+   "semana": 241.18
   },
   {
    "capital": 1000,
    "ops": 55,
    "neta": 123.16,
-   "dias": 1.25,
-   "semana": 687.18
+   "dias": 1.29,
+   "semana": 668.56
   },
   {
    "capital": 2000,
    "ops": 78,
    "neta": 140.76,
-   "dias": 1.25,
-   "semana": 785.39
+   "dias": 1.29,
+   "semana": 764.11
   }
  ],
  "semanas": [
@@ -93,10 +93,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 1,
-   "horas": 2.5,
-   "episodios": 34,
+   "horas": 3.3,
+   "episodios": 36,
    "sospechosas": 0,
-   "realistaNeta": 4.64,
+   "realistaNeta": 5.81,
    "capital": {
     "500": 2.2,
     "1000": 2.27,
@@ -214,11 +214,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1656,
-  "n": 493,
-  "gan": 2249.81,
-  "nNeta": 216,
-  "neta": 742.19
+  "conDato": 1658,
+  "n": 495,
+  "gan": 2253.04,
+  "nNeta": 217,
+  "neta": 743.36
  },
  "duraciones": [
   {
@@ -234,7 +234,7 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1274
+   "n": 1275
   },
   {
    "et": "5–30 s",
@@ -244,7 +244,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 124
+   "n": 125
   },
   {
    "et": "> 5 min",
@@ -325,10 +325,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793948400000,
-   "n": 1
-  },
   {
    "h": 1793952000000,
    "n": 5
@@ -612,9 +608,29 @@
   {
    "h": 1794207600000,
    "n": 5
+  },
+  {
+   "h": 1794211200000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794212941511,
+   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
+   "dur": 30.911,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794211864424,
+   "titulo": "Test Match: Bangladesh vs West Indies",
+   "dur": 4.991,
+   "gan": 0.77,
+   "neta": 0.03,
+   "lado": "si"
+  },
   {
    "inicio": 1794210767271,
    "titulo": "Ted Cruz # posts November 6 - November 13, 2026?",
@@ -716,22 +732,6 @@
    "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
    "dur": 2.174,
    "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794205468931,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 2.876,
-   "gan": 0.77,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794205463866,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 3.801,
-   "gan": 0.72,
    "neta": 0,
    "lado": "si"
   }
