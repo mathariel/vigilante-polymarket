@@ -1,81 +1,81 @@
 {
- "actualizado": 1794256388131,
+ "actualizado": 1794259402635,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794253387984,
-  "fin": 1794256388131,
-  "mensajes": 8429106,
-  "reconexiones": 1,
-  "eventos": 554,
+  "inicio": 1794256402405,
+  "fin": 1794259402635,
+  "mensajes": 9004738,
+  "reconexiones": 0,
+  "eventos": 551,
   "errores": [],
-  "nuevos": 24,
+  "nuevos": 23,
   "nuevosRentables": 2,
-  "nuevosNeta": 3.22
+  "nuevosNeta": 0.48
  },
- "total": 5326,
- "falsos": 2194,
+ "total": 5349,
+ "falsos": 2221,
  "largos": {
-  "episodios": 7909,
+  "episodios": 7954,
   "eventos": 123,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9647,
+  "episodios": 9649,
   "eventos": 29
  },
- "mediana": 0.511,
+ "mediana": 0.514,
  "captura": [
   {
    "s": 0.5,
-   "n": 2690,
-   "gan": 11161.57,
-   "nNeta": 983,
-   "neta": 3606.63
+   "n": 2706,
+   "gan": 11190.9,
+   "nNeta": 988,
+   "neta": 3611.31
   },
   {
    "s": 2,
-   "n": 1228,
-   "gan": 5378.61,
-   "nNeta": 396,
-   "neta": 1707.24
+   "n": 1233,
+   "gan": 5383.46,
+   "nNeta": 397,
+   "neta": 1707.69
   },
   {
    "s": 5,
-   "n": 640,
-   "gan": 2779.76,
+   "n": 642,
+   "gan": 2782.14,
    "nNeta": 148,
    "neta": 425.33
   },
   {
    "s": 30,
-   "n": 194,
-   "gan": 548.95,
+   "n": 195,
+   "gan": 550.33,
    "nNeta": 35,
    "neta": 81.01
   }
  ],
- "rentables": 1848,
+ "rentables": 1855,
  "porCapital": [
   {
    "capital": 500,
    "ops": 42,
    "neta": 44.44,
-   "dias": 1.78,
-   "semana": 174.95
+   "dias": 1.81,
+   "semana": 171.59
   },
   {
    "capital": 1000,
    "ops": 56,
    "neta": 123.17,
-   "dias": 1.78,
-   "semana": 484.88
+   "dias": 1.81,
+   "semana": 475.55
   },
   {
    "capital": 2000,
    "ops": 79,
    "neta": 140.77,
-   "dias": 1.78,
-   "semana": 554.18
+   "dias": 1.81,
+   "semana": 543.51
   }
  ],
  "semanas": [
@@ -96,10 +96,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 1,
-   "horas": 15,
-   "episodios": 225,
-   "sospechosas": 2,
-   "realistaNeta": 10.86,
+   "horas": 15.8,
+   "episodios": 248,
+   "sospechosas": 3,
+   "realistaNeta": 11.34,
    "capital": {
     "500": 2.2,
     "1000": 2.27,
@@ -111,7 +111,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 102,
+  "n": 103,
   "top": [
    {
     "inicio": 1794062797308,
@@ -217,32 +217,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1845,
-  "n": 540,
-  "gan": 2480.07,
-  "nNeta": 222,
-  "neta": 748.41
+  "conDato": 1867,
+  "n": 547,
+  "gan": 2486.96,
+  "nNeta": 224,
+  "neta": 748.89
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1292
+   "n": 1297
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2097
+   "n": 2106
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1291
+   "n": 1298
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 446
+   "n": 447
   },
   {
    "et": "30 s–5 min",
@@ -252,7 +252,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 58
+   "n": 59
   }
  ],
  "porEvento": [
@@ -328,10 +328,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1793998800000,
-   "n": 59
-  },
   {
    "h": 1794002400000,
    "n": 29
@@ -614,128 +610,132 @@
   },
   {
    "h": 1794254400000,
-   "n": 6
+   "n": 24
+  },
+  {
+   "h": 1794258000000,
+   "n": 5
   }
  ],
  "recientes": [
   {
-   "inicio": 1794255066774,
+   "inicio": 1794258562923,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 839.485,
+   "gan": 1.38,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794259384614,
+   "titulo": "UD Las Palmas vs. CD Eldense",
+   "dur": 3.132,
+   "gan": 0.54,
+   "neta": 0.18,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794259216162,
+   "titulo": "CD Tecnico Universitario vs. Manta FC",
+   "dur": 0.084,
+   "gan": 0.57,
+   "neta": 0.26,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794259094485,
    "titulo": "Sportivo San Lorenzo vs. Rubio Nu",
-   "dur": 0.902,
-   "gan": 1.4,
+   "dur": 0.582,
+   "gan": 0.61,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794254970716,
-   "titulo": "Sportivo San Lorenzo vs. Rubio Nu",
-   "dur": 0.818,
-   "gan": 0.7,
-   "neta": 0.34,
-   "lado": "si"
+   "inicio": 1794258531138,
+   "titulo": "UD Las Palmas vs. CD Eldense",
+   "dur": 0.801,
+   "gan": 0.69,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1794254884999,
-   "titulo": "CE Sabadell FC vs. Real Sociedad de Fútbol B",
-   "dur": 0.96,
-   "gan": 0.65,
+   "inicio": 1794257810755,
+   "titulo": "Plymouth Parkway FC vs. Berkhamsted FC",
+   "dur": 0.684,
+   "gan": 11.49,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794254881828,
-   "titulo": "CE Sabadell FC vs. Real Sociedad de Fútbol B",
-   "dur": 2.225,
-   "gan": 1.91,
-   "neta": 0.02,
+   "inicio": 1794257738158,
+   "titulo": "Jordan vs. Indonesia",
+   "dur": 0.558,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794257498772,
+   "titulo": "AZ Picerno vs. SSC Bari",
+   "dur": 1.559,
+   "gan": 2.64,
+   "neta": 0.47,
    "lado": "si"
   },
   {
-   "inicio": 1794254867916,
-   "titulo": "CE Sabadell FC vs. Real Sociedad de Fútbol B",
-   "dur": 11.625,
-   "gan": 8.23,
-   "neta": 3.15,
+   "inicio": 1794257155158,
+   "titulo": "UD Las Palmas vs. CD Eldense",
+   "dur": 0.713,
+   "gan": 5.91,
+   "neta": 3.96,
    "lado": "si"
   },
   {
-   "inicio": 1794254823126,
-   "titulo": "CE Sabadell FC vs. Real Sociedad de Fútbol B",
-   "dur": 0.936,
-   "gan": 0.53,
+   "inicio": 1794257151359,
+   "titulo": "UD Las Palmas vs. CD Eldense",
+   "dur": 0.052,
+   "gan": 0.56,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794254364726,
-   "titulo": "Mushuc Runa SC vs. Delfin SC",
-   "dur": 0.821,
-   "gan": 0.6,
-   "neta": 0.5,
+   "inicio": 1794257137918,
+   "titulo": "UD Las Palmas vs. CD Eldense",
+   "dur": 0.946,
+   "gan": 0.54,
+   "neta": 0.2,
    "lado": "si"
   },
   {
-   "inicio": 1794254006266,
-   "titulo": "FC Botoşani vs. ASC Oțelul Galați",
-   "dur": 0.139,
-   "gan": 1.4,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794254003136,
-   "titulo": "FC Botoşani vs. ASC Oțelul Galați",
-   "dur": 3.093,
-   "gan": 1.48,
-   "neta": 0.07,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794253979782,
-   "titulo": "FC Botoşani vs. ASC Oțelul Galați",
-   "dur": 0.322,
-   "gan": 0.58,
-   "neta": 0.24,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794253978566,
-   "titulo": "FC Botoşani vs. ASC Oțelul Galați",
-   "dur": 0.363,
-   "gan": 0.63,
-   "neta": 0.29,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794253977607,
-   "titulo": "FC Botoşani vs. ASC Oțelul Galați",
-   "dur": 0.496,
-   "gan": 0.63,
-   "neta": 0.29,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794253976988,
-   "titulo": "FC Botoşani vs. ASC Oțelul Galați",
+   "inicio": 1794257137864,
+   "titulo": "UD Las Palmas vs. CD Eldense",
    "dur": 0.023,
-   "gan": 0.55,
-   "neta": 0.21,
+   "gan": 0.61,
+   "neta": 0.2,
    "lado": "si"
   },
   {
-   "inicio": 1794253970292,
-   "titulo": "FC Botoşani vs. ASC Oțelul Galați",
-   "dur": 1.348,
-   "gan": 0.97,
-   "neta": 0.65,
+   "inicio": 1794257132137,
+   "titulo": "UD Las Palmas vs. CD Eldense",
+   "dur": 2.41,
+   "gan": 0.67,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794253970132,
-   "titulo": "FC Botoşani vs. ASC Oțelul Galați",
-   "dur": 0.123,
-   "gan": 0.65,
-   "neta": 0.42,
+   "inicio": 1794257122599,
+   "titulo": "UD Las Palmas vs. CD Eldense",
+   "dur": 0.715,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794257122388,
+   "titulo": "UD Las Palmas vs. CD Eldense",
+   "dur": 0.147,
+   "gan": 0.61,
+   "neta": 0,
    "lado": "si"
   }
  ]
