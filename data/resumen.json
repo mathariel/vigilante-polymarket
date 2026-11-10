@@ -1,48 +1,48 @@
 {
- "actualizado": 1794307639071,
+ "actualizado": 1794310656348,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794304638814,
-  "fin": 1794307639071,
-  "mensajes": 6432002,
+  "inicio": 1794307656094,
+  "fin": 1794310656348,
+  "mensajes": 6712488,
   "reconexiones": 0,
-  "eventos": 531,
+  "eventos": 541,
   "errores": [],
-  "nuevos": 14,
+  "nuevos": 17,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5503,
+ "total": 5520,
  "falsos": 2274,
  "largos": {
-  "episodios": 8773,
+  "episodios": 8791,
   "eventos": 130,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9738,
+  "episodios": 9746,
   "eventos": 33
  },
- "mediana": 0.505,
+ "mediana": 0.507,
  "captura": [
   {
    "s": 0.5,
-   "n": 2767,
-   "gan": 11308.24,
+   "n": 2784,
+   "gan": 11320.02,
    "nNeta": 1010,
    "neta": 3647.79
   },
   {
    "s": 2,
-   "n": 1253,
-   "gan": 5407.33,
+   "n": 1268,
+   "gan": 5417.97,
    "nNeta": 400,
    "neta": 1714.05
   },
   {
    "s": 5,
-   "n": 656,
-   "gan": 2792.15,
+   "n": 668,
+   "gan": 2800.96,
    "nNeta": 149,
    "neta": 425.65
   },
@@ -61,24 +61,24 @@
    "ops": 25,
    "descartadas": 121,
    "neta": 89.34,
-   "dias": 2.37,
-   "semana": 263.74
+   "dias": 2.41,
+   "semana": 259.91
   },
   {
    "capital": 1000,
    "ops": 39,
    "descartadas": 121,
    "neta": 114.6,
-   "dias": 2.37,
-   "semana": 338.29
+   "dias": 2.41,
+   "semana": 333.38
   },
   {
    "capital": 2000,
    "ops": 52,
    "descartadas": 121,
    "neta": 175.23,
-   "dias": 2.37,
-   "semana": 517.25
+   "dias": 2.41,
+   "semana": 509.75
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 2,
-   "horas": 29.2,
-   "episodios": 402,
+   "horas": 30,
+   "episodios": 419,
    "sospechosas": 10,
    "realistaNeta": 20.5,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2014,
-  "n": 576,
-  "gan": 2525.92,
+  "conDato": 2031,
+  "n": 593,
+  "gan": 2537.7,
   "nNeta": 229,
   "neta": 758.05
  },
@@ -237,17 +237,17 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2176
+   "n": 2177
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1319
+   "n": 1323
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 458
+   "n": 470
   },
   {
    "et": "30 s–5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794034800000,
-   "n": 17
-  },
   {
    "h": 1794038400000,
    "n": 32
@@ -619,127 +615,131 @@
   },
   {
    "h": 1794304800000,
-   "n": 14
+   "n": 15
+  },
+  {
+   "h": 1794308400000,
+   "n": 16
   }
  ],
  "recientes": [
   {
-   "inicio": 1794307498471,
+   "inicio": 1794309429375,
    "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 8.021,
-   "gan": 0.66,
+   "dur": 6.375,
+   "gan": 0.75,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794307430915,
+   "inicio": 1794309375665,
    "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 7.493,
-   "gan": 0.68,
+   "dur": 1.657,
+   "gan": 0.51,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794307369002,
+   "inicio": 1794309362655,
    "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 1.873,
+   "dur": 6.679,
+   "gan": 0.79,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794309294602,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 7.956,
+   "gan": 0.78,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794309226357,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 8.151,
+   "gan": 0.78,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794309085447,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 8.889,
+   "gan": 0.77,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794309018212,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 7.162,
+   "gan": 0.74,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794308952129,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 6.04,
+   "gan": 0.71,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794308914411,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 2.69,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794308885070,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 7.023,
+   "gan": 0.88,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794308822060,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 2.965,
+   "gan": 0.69,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794308756978,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 4.985,
    "gan": 0.63,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794307362527,
+   "inicio": 1794308688823,
    "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 3.391,
-   "gan": 0.66,
+   "dur": 8.11,
+   "gan": 0.77,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794307235208,
+   "inicio": 1794308554565,
    "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 6.959,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794307167598,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 7.492,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794307100856,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 6.646,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794307034933,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 5.211,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794306968656,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 6.195,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794306840691,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 7.013,
+   "dur": 7.116,
    "gan": 0.64,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794306595416,
+   "inicio": 1794308486812,
    "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 0.742,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794306529319,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 6.026,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794306463246,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 6.025,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794306396338,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 6.854,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794301081506,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 2.634,
-   "gan": 0.6,
+   "dur": 6.796,
+   "gan": 0.57,
    "neta": 0,
    "lado": "no"
   }
