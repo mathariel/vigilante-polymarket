@@ -1,41 +1,41 @@
 {
- "actualizado": 1794280505022,
+ "actualizado": 1794283522120,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794277504771,
-  "fin": 1794280505022,
-  "mensajes": 6217283,
+  "inicio": 1794280521889,
+  "fin": 1794283522120,
+  "mensajes": 6117005,
   "reconexiones": 0,
-  "eventos": 502,
+  "eventos": 516,
   "errores": [],
-  "nuevos": 38,
-  "nuevosRentables": 2,
-  "nuevosNeta": 7.67
+  "nuevos": 8,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5473,
+ "total": 5481,
  "falsos": 2260,
  "largos": {
-  "episodios": 8267,
-  "eventos": 126,
+  "episodios": 8277,
+  "eventos": 127,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9665,
+  "episodios": 9673,
   "eventos": 32
  },
- "mediana": 0.504,
+ "mediana": 0.503,
  "captura": [
   {
    "s": 0.5,
-   "n": 2748,
-   "gan": 11296.29,
+   "n": 2751,
+   "gan": 11297.89,
    "nNeta": 1009,
    "neta": 3646.67
   },
   {
    "s": 2,
-   "n": 1239,
-   "gan": 5399.05,
+   "n": 1240,
+   "gan": 5399.55,
    "nNeta": 400,
    "neta": 1714.05
   },
@@ -61,24 +61,24 @@
    "ops": 24,
    "descartadas": 121,
    "neta": 88.22,
-   "dias": 2.06,
-   "semana": 300.19
+   "dias": 2.09,
+   "semana": 295.18
   },
   {
    "capital": 1000,
    "ops": 38,
    "descartadas": 121,
    "neta": 113.48,
-   "dias": 2.06,
-   "semana": 386.12
+   "dias": 2.09,
+   "semana": 379.67
   },
   {
    "capital": 2000,
    "ops": 51,
    "descartadas": 121,
    "neta": 174.11,
-   "dias": 2.06,
-   "semana": 592.4
+   "dias": 2.09,
+   "semana": 582.52
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 1,
-   "horas": 21.7,
-   "episodios": 372,
+   "horas": 22.5,
+   "episodios": 380,
    "sospechosas": 8,
    "realistaNeta": 19.38,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1986,
-  "n": 557,
-  "gan": 2513.97,
+  "conDato": 1994,
+  "n": 560,
+  "gan": 2515.57,
   "nNeta": 228,
   "neta": 756.93
  },
@@ -232,17 +232,17 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1338
+   "n": 1340
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2170
+   "n": 2174
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1314
+   "n": 1316
   },
   {
    "et": "5–30 s",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794016800000,
-   "n": 12
-  },
   {
    "h": 1794020400000,
    "n": 17
@@ -620,9 +616,77 @@
   {
    "h": 1794276000000,
    "n": 76
+  },
+  {
+   "h": 1794279600000,
+   "n": 8
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794281323531,
+   "titulo": "Highest temperature in Paris on November 10?",
+   "dur": 0.082,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794281323220,
+   "titulo": "Highest temperature in Paris on November 10?",
+   "dur": 0.075,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794281274039,
+   "titulo": "Highest temperature in Paris on November 10?",
+   "dur": 1.382,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794281257421,
+   "titulo": "Highest temperature in Paris on November 10?",
+   "dur": 2.478,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794281229525,
+   "titulo": "Highest temperature in Paris on November 10?",
+   "dur": 0.342,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794281228787,
+   "titulo": "Highest temperature in Paris on November 10?",
+   "dur": 0.695,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794281205094,
+   "titulo": "Highest temperature in Paris on November 10?",
+   "dur": 0.44,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794281202002,
+   "titulo": "Highest temperature in Paris on November 10?",
+   "dur": 0.254,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794277631331,
    "titulo": "Club Aurora vs. FC Universitario",
@@ -677,70 +741,6 @@
    "dur": 0.317,
    "gan": 17.5,
    "neta": 7.49,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794277625833,
-   "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 0.398,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794277625658,
-   "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 0.134,
-   "gan": 0.86,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794277625383,
-   "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 0.119,
-   "gan": 1.73,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794277623198,
-   "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 0.014,
-   "gan": 0.66,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794277621863,
-   "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 1.288,
-   "gan": 3.58,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794277609816,
-   "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 1.112,
-   "gan": 19.02,
-   "neta": 9.6,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794277598769,
-   "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 0.209,
-   "gan": 1.03,
-   "neta": 0.29,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794277598497,
-   "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 0.18,
-   "gan": 0.88,
-   "neta": 0.16,
    "lado": "si"
   }
  ]
