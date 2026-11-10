@@ -1,21 +1,21 @@
 {
- "actualizado": 1794286539068,
+ "actualizado": 1794289555736,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794283538838,
-  "fin": 1794286539068,
-  "mensajes": 6465269,
+  "inicio": 1794286555544,
+  "fin": 1794289555736,
+  "mensajes": 6516548,
   "reconexiones": 0,
-  "eventos": 530,
+  "eventos": 531,
   "errores": [],
-  "nuevos": 0,
+  "nuevos": 2,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5481,
+ "total": 5483,
  "falsos": 2261,
  "largos": {
-  "episodios": 8299,
+  "episodios": 8574,
   "eventos": 128,
   "dias": 7
  },
@@ -54,31 +54,31 @@
    "neta": 81.33
   }
  ],
- "rentables": 1918,
+ "rentables": 1920,
  "porCapital": [
   {
    "capital": 500,
    "ops": 24,
    "descartadas": 121,
    "neta": 88.22,
-   "dias": 2.13,
-   "semana": 290.33
+   "dias": 2.16,
+   "semana": 285.64
   },
   {
    "capital": 1000,
    "ops": 38,
    "descartadas": 121,
    "neta": 113.48,
-   "dias": 2.13,
-   "semana": 373.44
+   "dias": 2.16,
+   "semana": 367.41
   },
   {
    "capital": 2000,
    "ops": 51,
    "descartadas": 121,
    "neta": 174.11,
-   "dias": 2.13,
-   "semana": 572.95
+   "dias": 2.16,
+   "semana": 563.7
   }
  ],
  "maxBloqueoH": 24,
@@ -100,9 +100,9 @@
   },
   {
    "lunes": "2026-11-09",
-   "dias": 1,
-   "horas": 23.3,
-   "episodios": 380,
+   "dias": 2,
+   "horas": 24.2,
+   "episodios": 382,
    "sospechosas": 8,
    "realistaNeta": 19.38,
    "capital": {
@@ -222,7 +222,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1994,
+  "conDato": 1996,
   "n": 560,
   "gan": 2515.57,
   "nNeta": 228,
@@ -232,7 +232,7 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1340
+   "n": 1342
   },
   {
    "et": "0.1–1 s",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794020400000,
-   "n": 17
-  },
   {
    "h": 1794024000000,
    "n": 13
@@ -620,9 +616,29 @@
   {
    "h": 1794279600000,
    "n": 8
+  },
+  {
+   "h": 1794286800000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794288519404,
+   "titulo": "Highest temperature in Wellington on November 10?",
+   "dur": 0.014,
+   "gan": 1.3,
+   "neta": 1.13,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794288517835,
+   "titulo": "Highest temperature in Wellington on November 10?",
+   "dur": 0.017,
+   "gan": 0.98,
+   "neta": 0.87,
+   "lado": "si"
+  },
   {
    "inicio": 1794281323531,
    "titulo": "Highest temperature in Paris on November 10?",
@@ -725,22 +741,6 @@
    "dur": 0.043,
    "gan": 0.56,
    "neta": 0.16,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794277628498,
-   "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 0.01,
-   "gan": 0.92,
-   "neta": 0.53,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794277628141,
-   "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 0.317,
-   "gan": 17.5,
-   "neta": 7.49,
    "lado": "si"
   }
  ]
