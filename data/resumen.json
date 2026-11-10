@@ -1,21 +1,21 @@
 {
- "actualizado": 1794349968258,
+ "actualizado": 1794352982382,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794346968071,
-  "fin": 1794349968258,
-  "mensajes": 6729416,
-  "reconexiones": 2,
-  "eventos": 557,
+  "inicio": 1794349982134,
+  "fin": 1794352982382,
+  "mensajes": 7112109,
+  "reconexiones": 0,
+  "eventos": 568,
   "errores": [],
   "nuevos": 4,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5633,
- "falsos": 2349,
+ "total": 5638,
+ "falsos": 2353,
  "largos": {
-  "episodios": 9331,
+  "episodios": 9379,
   "eventos": 140,
   "dias": 7
  },
@@ -23,33 +23,33 @@
   "episodios": 9754,
   "eventos": 34
  },
- "mediana": 0.512,
+ "mediana": 0.514,
  "captura": [
   {
    "s": 0.5,
-   "n": 2850,
-   "gan": 11397.98,
+   "n": 2855,
+   "gan": 11404.44,
    "nNeta": 1019,
    "neta": 3652.01
   },
   {
    "s": 2,
-   "n": 1304,
-   "gan": 5464.44,
+   "n": 1309,
+   "gan": 5470.9,
    "nNeta": 404,
    "neta": 1715.03
   },
   {
    "s": 5,
-   "n": 694,
-   "gan": 2829.67,
+   "n": 699,
+   "gan": 2836.13,
    "nNeta": 153,
    "neta": 426.31
   },
   {
    "s": 30,
-   "n": 206,
-   "gan": 561.26,
+   "n": 211,
+   "gan": 567.89,
    "nNeta": 38,
    "neta": 81.77
   }
@@ -61,24 +61,24 @@
    "ops": 26,
    "descartadas": 124,
    "neta": 89.69,
-   "dias": 2.86,
-   "semana": 219.43
+   "dias": 2.9,
+   "semana": 216.79
   },
   {
    "capital": 1000,
    "ops": 40,
    "descartadas": 124,
    "neta": 114.95,
-   "dias": 2.86,
-   "semana": 281.22
+   "dias": 2.9,
+   "semana": 277.83
   },
   {
    "capital": 2000,
    "ops": 53,
    "descartadas": 124,
    "neta": 175.58,
-   "dias": 2.86,
-   "semana": 429.54
+   "dias": 2.9,
+   "semana": 424.37
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 2,
-   "horas": 40,
-   "episodios": 532,
+   "horas": 40.8,
+   "episodios": 537,
    "sospechosas": 11,
    "realistaNeta": 21.5,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2143,
-  "n": 636,
-  "gan": 2589.08,
+  "conDato": 2148,
+  "n": 641,
+  "gan": 2595.54,
   "nNeta": 233,
   "neta": 759.05
  },
@@ -252,12 +252,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 143
+   "n": 144
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 63
+   "n": 67
   }
  ],
  "porEvento": [
@@ -619,10 +619,50 @@
   },
   {
    "h": 1794348000000,
-   "n": 1
+   "n": 6
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794351453041,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 374.554,
+   "gan": 1.4,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794350967886,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 485.109,
+   "gan": 1.69,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794350491188,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 476.64,
+   "gan": 0.82,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794350056373,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 434.761,
+   "gan": 1.19,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794349967866,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 88.442,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794349726676,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
@@ -700,46 +740,6 @@
    "titulo": "FC Internazionale Milano vs. Manchester City WFC",
    "dur": 0.575,
    "gan": 0.61,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794342785060,
-   "titulo": "FC Internazionale Milano vs. Manchester City WFC",
-   "dur": 0.169,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794342785031,
-   "titulo": "FC Internazionale Milano vs. Manchester City WFC",
-   "dur": 0.007,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794342712441,
-   "titulo": "SD Amorebieta vs. UD Logroñés",
-   "dur": 0.252,
-   "gan": 7.83,
-   "neta": 5.51,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794342712434,
-   "titulo": "SD Amorebieta vs. UD Logroñés",
-   "dur": 0.005,
-   "gan": 5.22,
-   "neta": 2.89,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794342619940,
-   "titulo": "SCU Torreense vs. Sparta Prague",
-   "dur": 10.272,
-   "gan": 0.69,
    "neta": 0,
    "lado": "no"
   }
