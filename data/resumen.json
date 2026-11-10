@@ -1,84 +1,84 @@
 {
- "actualizado": 1794328748150,
+ "actualizado": 1794331763754,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794325747905,
-  "fin": 1794328748150,
-  "mensajes": 7726504,
-  "reconexiones": 6,
-  "eventos": 549,
+  "inicio": 1794328763502,
+  "fin": 1794331763754,
+  "mensajes": 7287647,
+  "reconexiones": 0,
+  "eventos": 555,
   "errores": [],
-  "nuevos": 4,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 19,
+  "nuevosRentables": 2,
+  "nuevosNeta": 0.28
  },
- "total": 5544,
- "falsos": 2305,
+ "total": 5563,
+ "falsos": 2307,
  "largos": {
-  "episodios": 9164,
-  "eventos": 136,
+  "episodios": 9207,
+  "eventos": 137,
   "dias": 7
  },
  "enEspera": {
   "episodios": 9751,
   "eventos": 33
  },
- "mediana": 0.509,
+ "mediana": 0.507,
  "captura": [
   {
    "s": 0.5,
-   "n": 2797,
-   "gan": 11331.26,
-   "nNeta": 1011,
-   "neta": 3648.14
+   "n": 2806,
+   "gan": 11337.52,
+   "nNeta": 1013,
+   "neta": 3648.42
   },
   {
    "s": 2,
-   "n": 1277,
-   "gan": 5426.81,
-   "nNeta": 401,
-   "neta": 1714.4
+   "n": 1286,
+   "gan": 5433.2,
+   "nNeta": 403,
+   "neta": 1714.66
   },
   {
    "s": 5,
-   "n": 673,
-   "gan": 2807.1,
-   "nNeta": 149,
-   "neta": 425.65
+   "n": 682,
+   "gan": 2813.51,
+   "nNeta": 151,
+   "neta": 425.93
   },
   {
    "s": 30,
-   "n": 201,
-   "gan": 556.22,
-   "nNeta": 36,
-   "neta": 81.33
+   "n": 203,
+   "gan": 557.8,
+   "nNeta": 37,
+   "neta": 81.4
   }
  ],
- "rentables": 1929,
+ "rentables": 1932,
  "porCapital": [
   {
    "capital": 500,
    "ops": 26,
-   "descartadas": 121,
+   "descartadas": 123,
    "neta": 89.69,
-   "dias": 2.62,
-   "semana": 240.04
+   "dias": 2.65,
+   "semana": 236.88
   },
   {
    "capital": 1000,
    "ops": 40,
-   "descartadas": 121,
+   "descartadas": 123,
    "neta": 114.95,
-   "dias": 2.62,
-   "semana": 307.63
+   "dias": 2.65,
+   "semana": 303.58
   },
   {
    "capital": 2000,
    "ops": 53,
-   "descartadas": 121,
+   "descartadas": 123,
    "neta": 175.58,
-   "dias": 2.62,
-   "semana": 469.88
+   "dias": 2.65,
+   "semana": 463.69
   }
  ],
  "maxBloqueoH": 24,
@@ -101,10 +101,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 2,
-   "horas": 35,
-   "episodios": 443,
+   "horas": 35.8,
+   "episodios": 462,
    "sospechosas": 10,
-   "realistaNeta": 20.85,
+   "realistaNeta": 21.13,
    "capital": {
     "500": 12.64,
     "1000": 12.64,
@@ -222,22 +222,22 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2055,
-  "n": 604,
-  "gan": 2547.69,
-  "nNeta": 230,
-  "neta": 758.4
+  "conDato": 2074,
+  "n": 613,
+  "gan": 2553.95,
+  "nNeta": 232,
+  "neta": 758.68
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1352
+   "n": 1353
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2183
+   "n": 2192
   },
   {
    "et": "1–5 s",
@@ -247,17 +247,17 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 472
+   "n": 479
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 140
+   "n": 141
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 61
+   "n": 62
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794052800000,
-   "n": 42
-  },
   {
    "h": 1794056400000,
    "n": 65
@@ -619,129 +615,133 @@
   },
   {
    "h": 1794326400000,
-   "n": 3
+   "n": 6
+  },
+  {
+   "h": 1794330000000,
+   "n": 16
   }
  ],
  "recientes": [
   {
-   "inicio": 1794327871382,
+   "inicio": 1794331724430,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 0.02,
-   "gan": 1.44,
-   "neta": 0.04,
+   "dur": 39.075,
+   "gan": 0.61,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794326799963,
-   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 14.33,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794326799828,
-   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 0.054,
-   "gan": 0.79,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794325934100,
-   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 1.266,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794323209286,
-   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 0.562,
-   "gan": 2,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794323045398,
-   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 0.224,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794322924815,
-   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 0.233,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794321914442,
-   "titulo": "White House # posts November 3 - November 10, 2026?",
-   "dur": 2.391,
-   "gan": 0.79,
-   "neta": 0.35,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794321077083,
-   "titulo": "Highest temperature in Cape Town on November 12?",
-   "dur": 202.601,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794321077067,
-   "titulo": "Highest temperature in Cape Town on November 12?",
-   "dur": 0.005,
-   "gan": 0.64,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794320962892,
-   "titulo": "Highest temperature in Cape Town on November 12?",
-   "dur": 113.188,
-   "gan": 0.72,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794320951736,
-   "titulo": "Highest temperature in Cape Town on November 12?",
-   "dur": 0.019,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794320951416,
-   "titulo": "Highest temperature in Cape Town on November 12?",
+   "inicio": 1794331713997,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
    "dur": 0.318,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794331700473,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 12.838,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794331697866,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 0.47,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794331685901,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 0.451,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794331672880,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 12.062,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794331661877,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 0.471,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794331651640,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 8.261,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794331648503,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 0.33,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794331636370,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 0.456,
    "gan": 0.51,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794320665842,
-   "titulo": "Highest temperature in Cape Town on November 12?",
-   "dur": 0.499,
-   "gan": 0.89,
+   "inicio": 1794331624512,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 0.359,
+   "gan": 0.51,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794320450047,
-   "titulo": "Highest temperature in Cape Town on November 12?",
-   "dur": 31.728,
-   "gan": 1,
+   "inicio": 1794331612295,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 0.469,
+   "gan": 0.51,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
+  },
+  {
+   "inicio": 1794331600340,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 0.425,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794331583619,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 16.012,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794331562855,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 18.48,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
   }
  ]
 }
