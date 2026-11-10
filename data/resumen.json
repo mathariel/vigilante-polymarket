@@ -1,21 +1,21 @@
 {
- "actualizado": 1794268445309,
+ "actualizado": 1794271459060,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794265445142,
-  "fin": 1794268445309,
-  "mensajes": 5920023,
+  "inicio": 1794268458811,
+  "fin": 1794271459060,
+  "mensajes": 6667316,
   "reconexiones": 0,
-  "eventos": 533,
+  "eventos": 528,
   "errores": [],
-  "nuevos": 0,
+  "nuevos": 3,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5381,
- "falsos": 2233,
+ "total": 5384,
+ "falsos": 2235,
  "largos": {
-  "episodios": 7995,
+  "episodios": 8064,
   "eventos": 125,
   "dias": 7
  },
@@ -27,10 +27,10 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2719,
-   "gan": 11208.3,
-   "nNeta": 991,
-   "neta": 3612.76
+   "n": 2720,
+   "gan": 11208.8,
+   "nNeta": 992,
+   "neta": 3613.12
   },
   {
    "s": 2,
@@ -54,31 +54,31 @@
    "neta": 81.33
   }
  ],
- "rentables": 1871,
+ "rentables": 1872,
  "porCapital": [
   {
    "capital": 500,
    "ops": 22,
    "descartadas": 120,
    "neta": 80.55,
-   "dias": 1.92,
-   "semana": 294.04
+   "dias": 1.95,
+   "semana": 288.78
   },
   {
    "capital": 1000,
    "ops": 36,
    "descartadas": 120,
    "neta": 105.81,
-   "dias": 1.92,
-   "semana": 386.23
+   "dias": 1.95,
+   "semana": 379.33
   },
   {
    "capital": 2000,
    "ops": 49,
    "descartadas": 120,
    "neta": 166.44,
-   "dias": 1.92,
-   "semana": 607.53
+   "dias": 1.95,
+   "semana": 596.67
   }
  ],
  "maxBloqueoH": 24,
@@ -101,9 +101,9 @@
   {
    "lunes": "2026-11-09",
    "dias": 1,
-   "horas": 18.3,
-   "episodios": 280,
-   "sospechosas": 5,
+   "horas": 19.2,
+   "episodios": 283,
+   "sospechosas": 6,
    "realistaNeta": 11.59,
    "capital": {
     "500": 3.5,
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 105,
+  "n": 106,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,7 +222,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1897,
+  "conDato": 1899,
   "n": 551,
   "gan": 2492.94,
   "nNeta": 225,
@@ -232,12 +232,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1306
+   "n": 1308
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2122
+   "n": 2123
   },
   {
    "et": "1–5 s",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794006000000,
-   "n": 96
-  },
   {
    "h": 1794009600000,
    "n": 38
@@ -620,9 +616,37 @@
   {
    "h": 1794261600000,
    "n": 17
+  },
+  {
+   "h": 1794268800000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794271359010,
+   "titulo": "CDP Junior FC vs. Cúcuta Deportivo FC",
+   "dur": 0.094,
+   "gan": 0.83,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794270903081,
+   "titulo": "CDP Junior FC vs. Cúcuta Deportivo FC",
+   "dur": 0.768,
+   "gan": 0.5,
+   "neta": 0.36,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794270902852,
+   "titulo": "CDP Junior FC vs. Cúcuta Deportivo FC",
+   "dur": 0.067,
+   "gan": 0.76,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794262400122,
    "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
@@ -716,30 +740,6 @@
    "titulo": "CD Tecnico Universitario vs. Manta FC",
    "dur": 0.087,
    "gan": 2.88,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794262779438,
-   "titulo": "Highest temperature in Paris on November 10?",
-   "dur": 0.107,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794262508182,
-   "titulo": "CD Tecnico Universitario vs. Manta FC",
-   "dur": 0.61,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794262507979,
-   "titulo": "CD Tecnico Universitario vs. Manta FC",
-   "dur": 0.106,
-   "gan": 0.99,
    "neta": 0,
    "lado": "no"
   }
