@@ -1,21 +1,21 @@
 {
- "actualizado": 1794274473077,
+ "actualizado": 1794277488251,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794271472762,
-  "fin": 1794274473077,
-  "mensajes": 7177621,
+  "inicio": 1794274488003,
+  "fin": 1794277488253,
+  "mensajes": 7082910,
   "reconexiones": 0,
-  "eventos": 526,
+  "eventos": 521,
   "errores": [],
-  "nuevos": 3,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 48,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.12
  },
- "total": 5387,
- "falsos": 2237,
+ "total": 5435,
+ "falsos": 2244,
  "largos": {
-  "episodios": 8194,
+  "episodios": 8260,
   "eventos": 125,
   "dias": 7
  },
@@ -23,21 +23,21 @@
   "episodios": 9665,
   "eventos": 32
  },
- "mediana": 0.511,
+ "mediana": 0.505,
  "captura": [
   {
    "s": 0.5,
-   "n": 2722,
-   "gan": 11210.34,
-   "nNeta": 993,
-   "neta": 3613.42
+   "n": 2735,
+   "gan": 11223.45,
+   "nNeta": 1001,
+   "neta": 3614.49
   },
   {
    "s": 2,
-   "n": 1236,
-   "gan": 5386.93,
-   "nNeta": 398,
-   "neta": 1708.01
+   "n": 1238,
+   "gan": 5389.33,
+   "nNeta": 399,
+   "neta": 1708.13
   },
   {
    "s": 5,
@@ -54,31 +54,31 @@
    "neta": 81.33
   }
  ],
- "rentables": 1874,
+ "rentables": 1894,
  "porCapital": [
   {
    "capital": 500,
    "ops": 22,
-   "descartadas": 120,
+   "descartadas": 121,
    "neta": 80.55,
-   "dias": 1.99,
-   "semana": 283.72
+   "dias": 2.02,
+   "semana": 278.82
   },
   {
    "capital": 1000,
    "ops": 36,
-   "descartadas": 120,
+   "descartadas": 121,
    "neta": 105.81,
-   "dias": 1.99,
-   "semana": 372.67
+   "dias": 2.02,
+   "semana": 366.24
   },
   {
    "capital": 2000,
    "ops": 49,
-   "descartadas": 120,
+   "descartadas": 121,
    "neta": 166.44,
-   "dias": 1.99,
-   "semana": 586.2
+   "dias": 2.02,
+   "semana": 576.08
   }
  ],
  "maxBloqueoH": 24,
@@ -101,10 +101,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 1,
-   "horas": 20,
-   "episodios": 286,
+   "horas": 20.8,
+   "episodios": 334,
    "sospechosas": 6,
-   "realistaNeta": 11.59,
+   "realistaNeta": 11.71,
    "capital": {
     "500": 3.5,
     "1000": 3.5,
@@ -222,27 +222,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1902,
-  "n": 552,
-  "gan": 2493.47,
-  "nNeta": 225,
-  "neta": 749.14
+  "conDato": 1950,
+  "n": 554,
+  "gan": 2495.87,
+  "nNeta": 226,
+  "neta": 749.26
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1309
+   "n": 1330
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2123
+   "n": 2146
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1304
+   "n": 1308
   },
   {
    "et": "5–30 s",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794013200000,
-   "n": 15
-  },
   {
    "h": 1794016800000,
    "n": 12
@@ -619,128 +615,132 @@
   },
   {
    "h": 1794272400000,
-   "n": 3
+   "n": 13
+  },
+  {
+   "h": 1794276000000,
+   "n": 38
   }
  ],
  "recientes": [
   {
-   "inicio": 1794273019510,
-   "titulo": "CDP Junior FC vs. Cúcuta Deportivo FC",
-   "dur": 1.292,
-   "gan": 1.01,
-   "neta": 0.3,
+   "inicio": 1794277367497,
+   "titulo": "Club Aurora vs. FC Universitario",
+   "dur": 0.039,
+   "gan": 0.77,
+   "neta": 0.01,
    "lado": "no"
   },
   {
-   "inicio": 1794273019309,
-   "titulo": "CDP Junior FC vs. Cúcuta Deportivo FC",
-   "dur": 0.095,
-   "gan": 1.01,
-   "neta": 0.3,
+   "inicio": 1794277367323,
+   "titulo": "Club Aurora vs. FC Universitario",
+   "dur": 0.173,
+   "gan": 0.58,
+   "neta": 0.01,
    "lado": "no"
   },
   {
-   "inicio": 1794272467492,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 1.182,
-   "gan": 0.53,
+   "inicio": 1794277361200,
+   "titulo": "Club Aurora vs. FC Universitario",
+   "dur": 0.548,
+   "gan": 1.01,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794271359010,
-   "titulo": "CDP Junior FC vs. Cúcuta Deportivo FC",
-   "dur": 0.094,
-   "gan": 0.83,
-   "neta": 0,
+   "inicio": 1794277339239,
+   "titulo": "Club Aurora vs. FC Universitario",
+   "dur": 0.709,
+   "gan": 0.52,
+   "neta": 0.01,
    "lado": "si"
   },
   {
-   "inicio": 1794270903081,
-   "titulo": "CDP Junior FC vs. Cúcuta Deportivo FC",
-   "dur": 0.768,
+   "inicio": 1794277338171,
+   "titulo": "Club Aurora vs. FC Universitario",
+   "dur": 0.486,
+   "gan": 0.57,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794277337063,
+   "titulo": "Club Aurora vs. FC Universitario",
+   "dur": 1.052,
+   "gan": 0.58,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794277336802,
+   "titulo": "Club Aurora vs. FC Universitario",
+   "dur": 0.025,
+   "gan": 0.51,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794277336027,
+   "titulo": "Club Aurora vs. FC Universitario",
+   "dur": 0.704,
    "gan": 0.5,
-   "neta": 0.36,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794270902852,
-   "titulo": "CDP Junior FC vs. Cúcuta Deportivo FC",
-   "dur": 0.067,
-   "gan": 0.76,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794262400122,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 1240.148,
-   "gan": 1.22,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794263306583,
-   "titulo": "CD Tecnico Universitario vs. Manta FC",
-   "dur": 0.302,
-   "gan": 1.88,
-   "neta": 0.69,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794263217511,
-   "titulo": "CD Tecnico Universitario vs. Manta FC",
-   "dur": 0.259,
-   "gan": 0.64,
-   "neta": 0.37,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794263217497,
-   "titulo": "CD Tecnico Universitario vs. Manta FC",
-   "dur": 0.008,
+   "inicio": 1794277316604,
+   "titulo": "Club Aurora vs. FC Universitario",
+   "dur": 1.162,
    "gan": 0.56,
-   "neta": 0.35,
+   "neta": 0.06,
    "lado": "si"
   },
   {
-   "inicio": 1794263217375,
-   "titulo": "CD Tecnico Universitario vs. Manta FC",
-   "dur": 0.017,
-   "gan": 0.5,
-   "neta": 0.34,
+   "inicio": 1794277305068,
+   "titulo": "Club Aurora vs. FC Universitario",
+   "dur": 0.157,
+   "gan": 2.51,
+   "neta": 1.02,
    "lado": "si"
   },
   {
-   "inicio": 1794263217305,
-   "titulo": "CD Tecnico Universitario vs. Manta FC",
-   "dur": 0.069,
-   "gan": 0.59,
-   "neta": 0.32,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794263162840,
-   "titulo": "CD Tecnico Universitario vs. Manta FC",
-   "dur": 0.047,
-   "gan": 0.7,
-   "neta": 0.18,
+   "inicio": 1794276521138,
+   "titulo": "Club Aurora vs. FC Universitario",
+   "dur": 0.043,
+   "gan": 0.6,
+   "neta": 0.01,
    "lado": "no"
   },
   {
-   "inicio": 1794263162676,
-   "titulo": "CD Tecnico Universitario vs. Manta FC",
-   "dur": 0.059,
-   "gan": 22.24,
-   "neta": 21.21,
+   "inicio": 1794276504696,
+   "titulo": "Club Aurora vs. FC Universitario",
+   "dur": 0.022,
+   "gan": 0.55,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794263162651,
-   "titulo": "CD Tecnico Universitario vs. Manta FC",
-   "dur": 0.018,
-   "gan": 35.69,
-   "neta": 33.56,
+   "inicio": 1794276503429,
+   "titulo": "Club Aurora vs. FC Universitario",
+   "dur": 0.002,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794276502859,
+   "titulo": "Club Aurora vs. FC Universitario",
+   "dur": 0.259,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794276488054,
+   "titulo": "Club Aurora vs. FC Universitario",
+   "dur": 0.039,
+   "gan": 0.59,
+   "neta": 0,
    "lado": "si"
   }
  ]
