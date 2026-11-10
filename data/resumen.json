@@ -1,48 +1,48 @@
 {
- "actualizado": 1794304624912,
+ "actualizado": 1794307639071,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794301624651,
-  "fin": 1794304624912,
-  "mensajes": 6098085,
+  "inicio": 1794304638814,
+  "fin": 1794307639071,
+  "mensajes": 6432002,
   "reconexiones": 0,
-  "eventos": 536,
+  "eventos": 531,
   "errores": [],
-  "nuevos": 0,
+  "nuevos": 14,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5489,
+ "total": 5503,
  "falsos": 2274,
  "largos": {
-  "episodios": 8763,
+  "episodios": 8773,
   "eventos": 130,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9715,
+  "episodios": 9738,
   "eventos": 33
  },
- "mediana": 0.503,
+ "mediana": 0.505,
  "captura": [
   {
    "s": 0.5,
-   "n": 2753,
-   "gan": 11299.82,
+   "n": 2767,
+   "gan": 11308.24,
    "nNeta": 1010,
    "neta": 3647.79
   },
   {
    "s": 2,
-   "n": 1241,
-   "gan": 5400.15,
+   "n": 1253,
+   "gan": 5407.33,
    "nNeta": 400,
    "neta": 1714.05
   },
   {
    "s": 5,
-   "n": 645,
-   "gan": 2785.61,
+   "n": 656,
+   "gan": 2792.15,
    "nNeta": 149,
    "neta": 425.65
   },
@@ -61,24 +61,24 @@
    "ops": 25,
    "descartadas": 121,
    "neta": 89.34,
-   "dias": 2.34,
-   "semana": 267.67
+   "dias": 2.37,
+   "semana": 263.74
   },
   {
    "capital": 1000,
    "ops": 39,
    "descartadas": 121,
    "neta": 114.6,
-   "dias": 2.34,
-   "semana": 343.34
+   "dias": 2.37,
+   "semana": 338.29
   },
   {
    "capital": 2000,
    "ops": 52,
    "descartadas": 121,
    "neta": 175.23,
-   "dias": 2.34,
-   "semana": 524.98
+   "dias": 2.37,
+   "semana": 517.25
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 2,
-   "horas": 28.3,
-   "episodios": 388,
+   "horas": 29.2,
+   "episodios": 402,
    "sospechosas": 10,
    "realistaNeta": 20.5,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2000,
-  "n": 562,
-  "gan": 2517.5,
+  "conDato": 2014,
+  "n": 576,
+  "gan": 2525.92,
   "nNeta": 229,
   "neta": 758.05
  },
@@ -237,17 +237,17 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2175
+   "n": 2176
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1317
+   "n": 1319
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 447
+   "n": 458
   },
   {
    "et": "30 s–5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794031200000,
-   "n": 32
-  },
   {
    "h": 1794034800000,
    "n": 17
@@ -620,126 +616,130 @@
   {
    "h": 1794297600000,
    "n": 1
+  },
+  {
+   "h": 1794304800000,
+   "n": 14
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794307498471,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 8.021,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794307430915,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 7.493,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794307369002,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 1.873,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794307362527,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 3.391,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794307235208,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 6.959,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794307167598,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 7.492,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794307100856,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 6.646,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794307034933,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 5.211,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794306968656,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 6.195,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794306840691,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 7.013,
+   "gan": 0.64,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794306595416,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 0.742,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794306529319,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 6.026,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794306463246,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 6.025,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794306396338,
+   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
+   "dur": 6.854,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794301081506,
    "titulo": "Test Match: Pakistan vs Sri Lanka",
    "dur": 2.634,
    "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794292408764,
-   "titulo": "Highest temperature in Kuala Lumpur on November 10?",
-   "dur": 0.021,
-   "gan": 0.6,
-   "neta": 0.54,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794292271368,
-   "titulo": "Highest temperature in Kuala Lumpur on November 10?",
-   "dur": 0.016,
-   "gan": 0.58,
-   "neta": 0.5,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794292270891,
-   "titulo": "Highest temperature in Kuala Lumpur on November 10?",
-   "dur": 0.017,
-   "gan": 0.58,
-   "neta": 0.5,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794292241744,
-   "titulo": "Highest temperature in Guangzhou on November 10?",
-   "dur": 0.045,
-   "gan": 0.53,
-   "neta": 0.41,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794292240691,
-   "titulo": "Highest temperature in Guangzhou on November 10?",
-   "dur": 0.952,
-   "gan": 0.68,
-   "neta": 0.5,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794288519404,
-   "titulo": "Highest temperature in Wellington on November 10?",
-   "dur": 0.014,
-   "gan": 1.3,
-   "neta": 1.13,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794288517835,
-   "titulo": "Highest temperature in Wellington on November 10?",
-   "dur": 0.017,
-   "gan": 0.98,
-   "neta": 0.87,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794281323531,
-   "titulo": "Highest temperature in Paris on November 10?",
-   "dur": 0.082,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794281323220,
-   "titulo": "Highest temperature in Paris on November 10?",
-   "dur": 0.075,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794281274039,
-   "titulo": "Highest temperature in Paris on November 10?",
-   "dur": 1.382,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794281257421,
-   "titulo": "Highest temperature in Paris on November 10?",
-   "dur": 2.478,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794281229525,
-   "titulo": "Highest temperature in Paris on November 10?",
-   "dur": 0.342,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794281228787,
-   "titulo": "Highest temperature in Paris on November 10?",
-   "dur": 0.695,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794281205094,
-   "titulo": "Highest temperature in Paris on November 10?",
-   "dur": 0.44,
-   "gan": 0.52,
    "neta": 0,
    "lado": "no"
   }
