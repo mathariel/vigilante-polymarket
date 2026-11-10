@@ -1,21 +1,21 @@
 {
- "actualizado": 1794334779710,
+ "actualizado": 1794337795551,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794331779509,
-  "fin": 1794334779710,
-  "mensajes": 8515215,
-  "reconexiones": 0,
-  "eventos": 563,
+  "inicio": 1794334795269,
+  "fin": 1794337795551,
+  "mensajes": 8730420,
+  "reconexiones": 1,
+  "eventos": 555,
   "errores": [],
-  "nuevos": 6,
+  "nuevos": 9,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5569,
- "falsos": 2311,
+ "total": 5579,
+ "falsos": 2315,
  "largos": {
-  "episodios": 9227,
+  "episodios": 9239,
   "eventos": 139,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 9751,
   "eventos": 33
  },
- "mediana": 0.507,
+ "mediana": 0.511,
  "captura": [
   {
    "s": 0.5,
-   "n": 2809,
-   "gan": 11339.62,
-   "nNeta": 1013,
-   "neta": 3648.42
+   "n": 2819,
+   "gan": 11355.17,
+   "nNeta": 1014,
+   "neta": 3648.79
   },
   {
    "s": 2,
-   "n": 1288,
-   "gan": 5434.74,
-   "nNeta": 403,
-   "neta": 1714.66
+   "n": 1294,
+   "gan": 5441.53,
+   "nNeta": 404,
+   "neta": 1715.03
   },
   {
    "s": 5,
-   "n": 684,
-   "gan": 2815.05,
-   "nNeta": 151,
-   "neta": 425.93
+   "n": 689,
+   "gan": 2821.27,
+   "nNeta": 152,
+   "neta": 426.3
   },
   {
    "s": 30,
-   "n": 204,
-   "gan": 558.83,
-   "nNeta": 37,
-   "neta": 81.4
+   "n": 205,
+   "gan": 560.6,
+   "nNeta": 38,
+   "neta": 81.77
   }
  ],
- "rentables": 1932,
+ "rentables": 1934,
  "porCapital": [
   {
    "capital": 500,
    "ops": 26,
-   "descartadas": 123,
+   "descartadas": 124,
    "neta": 89.69,
-   "dias": 2.69,
-   "semana": 233.8
+   "dias": 2.72,
+   "semana": 230.8
   },
   {
    "capital": 1000,
    "ops": 40,
-   "descartadas": 123,
+   "descartadas": 124,
    "neta": 114.95,
-   "dias": 2.69,
-   "semana": 299.63
+   "dias": 2.72,
+   "semana": 295.79
   },
   {
    "capital": 2000,
    "ops": 53,
-   "descartadas": 123,
+   "descartadas": 124,
    "neta": 175.58,
-   "dias": 2.69,
-   "semana": 457.66
+   "dias": 2.72,
+   "semana": 451.79
   }
  ],
  "maxBloqueoH": 24,
@@ -101,10 +101,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 2,
-   "horas": 36.7,
-   "episodios": 468,
+   "horas": 37.5,
+   "episodios": 478,
    "sospechosas": 10,
-   "realistaNeta": 21.13,
+   "realistaNeta": 21.5,
    "capital": {
     "500": 12.64,
     "1000": 12.64,
@@ -222,11 +222,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2080,
-  "n": 615,
-  "gan": 2555.49,
-  "nNeta": 232,
-  "neta": 758.68
+  "conDato": 2090,
+  "n": 622,
+  "gan": 2562.95,
+  "nNeta": 233,
+  "neta": 759.05
  },
  "duraciones": [
   {
@@ -242,17 +242,17 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1330
+   "n": 1335
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 480
+   "n": 484
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 141
+   "n": 142
   },
   {
    "et": "> 5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794060000000,
-   "n": 105
-  },
   {
    "h": 1794063600000,
    "n": 178
@@ -619,10 +615,94 @@
   },
   {
    "h": 1794333600000,
-   "n": 5
+   "n": 13
+  },
+  {
+   "h": 1794337200000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794337694750,
+   "titulo": "BK Häcken FF vs. Chelsea FC",
+   "dur": 7.772,
+   "gan": 1.36,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794337457604,
+   "titulo": "BK Häcken FF vs. Chelsea FC",
+   "dur": 1.249,
+   "gan": 3.61,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794336990283,
+   "titulo": "BK Häcken FF vs. Chelsea FC",
+   "dur": 1.12,
+   "gan": 3.94,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794336252318,
+   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
+   "dur": 6.005,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794336248626,
+   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
+   "dur": 3.471,
+   "gan": 0.74,
+   "neta": 0.03,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794335753176,
+   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
+   "dur": 1.116,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794335734605,
+   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
+   "dur": 10.535,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794335718564,
+   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
+   "dur": 15.869,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794335466643,
+   "titulo": "BK Häcken FF vs. Chelsea FC",
+   "dur": 1.69,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794334794172,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 65.236,
+   "gan": 1.77,
+   "neta": 0.37,
+   "lado": "si"
+  },
   {
    "inicio": 1794331784283,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
@@ -662,86 +742,6 @@
    "gan": 0.51,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1794334269168,
-   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 0.018,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794331724430,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 39.075,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794331713997,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 0.318,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794331700473,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 12.838,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794331697866,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 0.47,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794331685901,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 0.451,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794331672880,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 12.062,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794331661877,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 0.471,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794331651640,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 8.261,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794331648503,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 0.33,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
   }
  ]
 }
