@@ -1,22 +1,22 @@
 {
- "actualizado": 1794325732884,
+ "actualizado": 1794328748150,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794322732700,
-  "fin": 1794325732884,
-  "mensajes": 7266114,
-  "reconexiones": 1,
-  "eventos": 569,
+  "inicio": 1794325747905,
+  "fin": 1794328748150,
+  "mensajes": 7726504,
+  "reconexiones": 6,
+  "eventos": 549,
   "errores": [],
-  "nuevos": 3,
+  "nuevos": 4,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5540,
- "falsos": 2303,
+ "total": 5544,
+ "falsos": 2305,
  "largos": {
-  "episodios": 9057,
-  "eventos": 135,
+  "episodios": 9164,
+  "eventos": 136,
   "dias": 7
  },
  "enEspera": {
@@ -27,22 +27,22 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2795,
-   "gan": 11328.72,
+   "n": 2797,
+   "gan": 11331.26,
    "nNeta": 1011,
    "neta": 3648.14
   },
   {
    "s": 2,
-   "n": 1276,
-   "gan": 5423.72,
+   "n": 1277,
+   "gan": 5426.81,
    "nNeta": 401,
    "neta": 1714.4
   },
   {
    "s": 5,
-   "n": 672,
-   "gan": 2804.01,
+   "n": 673,
+   "gan": 2807.1,
    "nNeta": 149,
    "neta": 425.65
   },
@@ -54,31 +54,31 @@
    "neta": 81.33
   }
  ],
- "rentables": 1928,
+ "rentables": 1929,
  "porCapital": [
   {
    "capital": 500,
    "ops": 26,
    "descartadas": 121,
    "neta": 89.69,
-   "dias": 2.58,
-   "semana": 243.28
+   "dias": 2.62,
+   "semana": 240.04
   },
   {
    "capital": 1000,
    "ops": 40,
    "descartadas": 121,
    "neta": 114.95,
-   "dias": 2.58,
-   "semana": 311.79
+   "dias": 2.62,
+   "semana": 307.63
   },
   {
    "capital": 2000,
    "ops": 53,
    "descartadas": 121,
    "neta": 175.58,
-   "dias": 2.58,
-   "semana": 476.23
+   "dias": 2.62,
+   "semana": 469.88
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 2,
-   "horas": 34.2,
-   "episodios": 439,
+   "horas": 35,
+   "episodios": 443,
    "sospechosas": 10,
    "realistaNeta": 20.85,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2051,
-  "n": 603,
-  "gan": 2544.6,
+  "conDato": 2055,
+  "n": 604,
+  "gan": 2547.69,
   "nNeta": 230,
   "neta": 758.4
  },
@@ -232,7 +232,7 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1350
+   "n": 1352
   },
   {
    "et": "0.1–1 s",
@@ -242,12 +242,12 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1329
+   "n": 1330
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 471
+   "n": 472
   },
   {
    "et": "30 s–5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794049200000,
-   "n": 7
-  },
   {
    "h": 1794052800000,
    "n": 42
@@ -619,10 +615,46 @@
   },
   {
    "h": 1794322800000,
+   "n": 4
+  },
+  {
+   "h": 1794326400000,
    "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794327871382,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 0.02,
+   "gan": 1.44,
+   "neta": 0.04,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794326799963,
+   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
+   "dur": 14.33,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794326799828,
+   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
+   "dur": 0.054,
+   "gan": 0.79,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794325934100,
+   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
+   "dur": 1.266,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794323209286,
    "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
@@ -710,38 +742,6 @@
    "gan": 1,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1794315681202,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 3.201,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794315675284,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 5.878,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794315672623,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 1.192,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794315668859,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 2.713,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "si"
   }
  ]
 }
