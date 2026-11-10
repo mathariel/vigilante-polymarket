@@ -1,84 +1,84 @@
 {
- "actualizado": 1794343823796,
+ "actualizado": 1794349968258,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794340823547,
-  "fin": 1794343823796,
-  "mensajes": 10449071,
-  "reconexiones": 0,
-  "eventos": 562,
+  "inicio": 1794346968071,
+  "fin": 1794349968258,
+  "mensajes": 6729416,
+  "reconexiones": 2,
+  "eventos": 557,
   "errores": [],
-  "nuevos": 24,
+  "nuevos": 4,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5629,
- "falsos": 2344,
+ "total": 5633,
+ "falsos": 2349,
  "largos": {
-  "episodios": 9266,
+  "episodios": 9331,
   "eventos": 140,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9753,
-  "eventos": 33
+  "episodios": 9754,
+  "eventos": 34
  },
  "mediana": 0.512,
  "captura": [
   {
    "s": 0.5,
-   "n": 2847,
-   "gan": 11395.99,
-   "nNeta": 1018,
-   "neta": 3651.58
+   "n": 2850,
+   "gan": 11397.98,
+   "nNeta": 1019,
+   "neta": 3652.01
   },
   {
    "s": 2,
-   "n": 1303,
-   "gan": 5463.92,
+   "n": 1304,
+   "gan": 5464.44,
    "nNeta": 404,
    "neta": 1715.03
   },
   {
    "s": 5,
-   "n": 693,
-   "gan": 2829.16,
+   "n": 694,
+   "gan": 2829.67,
    "nNeta": 153,
    "neta": 426.31
   },
   {
    "s": 30,
-   "n": 205,
-   "gan": 560.6,
+   "n": 206,
+   "gan": 561.26,
    "nNeta": 38,
    "neta": 81.77
   }
  ],
- "rentables": 1950,
+ "rentables": 1952,
  "porCapital": [
   {
    "capital": 500,
    "ops": 26,
    "descartadas": 124,
    "neta": 89.69,
-   "dias": 2.79,
-   "semana": 225.03
+   "dias": 2.86,
+   "semana": 219.43
   },
   {
    "capital": 1000,
    "ops": 40,
    "descartadas": 124,
    "neta": 114.95,
-   "dias": 2.79,
-   "semana": 288.39
+   "dias": 2.86,
+   "semana": 281.22
   },
   {
    "capital": 2000,
    "ops": 53,
    "descartadas": 124,
    "neta": 175.58,
-   "dias": 2.79,
-   "semana": 440.49
+   "dias": 2.86,
+   "semana": 429.54
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 2,
-   "horas": 39.2,
-   "episodios": 528,
+   "horas": 40,
+   "episodios": 532,
    "sospechosas": 11,
    "realistaNeta": 21.5,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2139,
-  "n": 635,
-  "gan": 2588.56,
+  "conDato": 2143,
+  "n": 636,
+  "gan": 2589.08,
   "nNeta": 233,
   "neta": 759.05
  },
@@ -237,12 +237,12 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2208
+   "n": 2210
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1353
+   "n": 1354
   },
   {
    "et": "5–30 s",
@@ -252,7 +252,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 142
+   "n": 143
   },
   {
    "et": "> 5 min",
@@ -333,14 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794067200000,
-   "n": 168
-  },
-  {
-   "h": 1794070800000,
-   "n": 100
-  },
   {
    "h": 1794074400000,
    "n": 103
@@ -620,9 +612,49 @@
   {
    "h": 1794340800000,
    "n": 28
+  },
+  {
+   "h": 1794344400000,
+   "n": 3
+  },
+  {
+   "h": 1794348000000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794349726676,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 241.397,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794347990889,
+   "titulo": "Envigado FC vs. Boca Juniors de Cali",
+   "dur": 1.036,
+   "gan": 0.89,
+   "neta": 0.43,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794347848987,
+   "titulo": "Paris Saint-Germain FC vs. FC Bayern München",
+   "dur": 0.414,
+   "gan": 1.45,
+   "neta": 1.36,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794346989343,
+   "titulo": "AS Roma vs. Servette FC Chênois Féminin",
+   "dur": 0.593,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794343493864,
    "titulo": "FC Internazionale Milano vs. Manchester City WFC",
@@ -708,38 +740,6 @@
    "titulo": "SCU Torreense vs. Sparta Prague",
    "dur": 10.272,
    "gan": 0.69,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794342473415,
-   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 17.13,
-   "gan": 4.71,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794342173236,
-   "titulo": "FC Internazionale Milano vs. Manchester City WFC",
-   "dur": 0.802,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794341842383,
-   "titulo": "Paris Saint-Germain FC vs. FC Bayern München",
-   "dur": 1.552,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794341578143,
-   "titulo": "SCU Torreense vs. Sparta Prague",
-   "dur": 1.62,
-   "gan": 0.63,
    "neta": 0,
    "lado": "no"
   }
