@@ -1,48 +1,48 @@
 {
- "actualizado": 1794340810563,
+ "actualizado": 1794343823796,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794337810305,
-  "fin": 1794340810563,
-  "mensajes": 9054981,
-  "reconexiones": 1,
-  "eventos": 546,
+  "inicio": 1794340823547,
+  "fin": 1794343823796,
+  "mensajes": 10449071,
+  "reconexiones": 0,
+  "eventos": 562,
   "errores": [],
-  "nuevos": 26,
+  "nuevos": 24,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5605,
- "falsos": 2327,
+ "total": 5629,
+ "falsos": 2344,
  "largos": {
-  "episodios": 9248,
-  "eventos": 139,
+  "episodios": 9266,
+  "eventos": 140,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9752,
+  "episodios": 9753,
   "eventos": 33
  },
- "mediana": 0.511,
+ "mediana": 0.512,
  "captura": [
   {
    "s": 0.5,
-   "n": 2832,
-   "gan": 11370.72,
-   "nNeta": 1016,
-   "neta": 3650.87
+   "n": 2847,
+   "gan": 11395.99,
+   "nNeta": 1018,
+   "neta": 3651.58
   },
   {
    "s": 2,
-   "n": 1297,
-   "gan": 5448.14,
+   "n": 1303,
+   "gan": 5463.92,
    "nNeta": 404,
    "neta": 1715.03
   },
   {
    "s": 5,
-   "n": 690,
-   "gan": 2823.26,
+   "n": 693,
+   "gan": 2829.16,
    "nNeta": 153,
    "neta": 426.31
   },
@@ -54,31 +54,31 @@
    "neta": 81.77
   }
  ],
- "rentables": 1945,
+ "rentables": 1950,
  "porCapital": [
   {
    "capital": 500,
    "ops": 26,
    "descartadas": 124,
    "neta": 89.69,
-   "dias": 2.76,
-   "semana": 227.88
+   "dias": 2.79,
+   "semana": 225.03
   },
   {
    "capital": 1000,
    "ops": 40,
    "descartadas": 124,
    "neta": 114.95,
-   "dias": 2.76,
-   "semana": 292.04
+   "dias": 2.79,
+   "semana": 288.39
   },
   {
    "capital": 2000,
    "ops": 53,
    "descartadas": 124,
    "neta": 175.58,
-   "dias": 2.76,
-   "semana": 446.07
+   "dias": 2.79,
+   "semana": 440.49
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 2,
-   "horas": 38.3,
-   "episodios": 504,
+   "horas": 39.2,
+   "episodios": 528,
    "sospechosas": 11,
    "realistaNeta": 21.5,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2115,
-  "n": 627,
-  "gan": 2570.9,
+  "conDato": 2139,
+  "n": 635,
+  "gan": 2588.56,
   "nNeta": 233,
   "neta": 759.05
  },
@@ -232,22 +232,22 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1364
+   "n": 1369
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2200
+   "n": 2208
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1345
+   "n": 1353
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 485
+   "n": 488
   },
   {
    "et": "30 s–5 min",
@@ -619,127 +619,127 @@
   },
   {
    "h": 1794340800000,
-   "n": 4
+   "n": 28
   }
  ],
  "recientes": [
   {
-   "inicio": 1794340808487,
-   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 1.059,
-   "gan": 0.84,
+   "inicio": 1794343493864,
+   "titulo": "FC Internazionale Milano vs. Manchester City WFC",
+   "dur": 0.509,
+   "gan": 0.81,
+   "neta": 0.1,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794343422850,
+   "titulo": "Paris Saint-Germain FC vs. FC Bayern München",
+   "dur": 1.01,
+   "gan": 1.49,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794340807730,
-   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 0.153,
-   "gan": 0.99,
-   "neta": 0.01,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794340806332,
-   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 1.345,
+   "inicio": 1794343403335,
+   "titulo": "Paris Saint-Germain FC vs. FC Bayern München",
+   "dur": 0.081,
    "gan": 0.52,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794340804061,
-   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 1.458,
-   "gan": 1.35,
+   "inicio": 1794343387391,
+   "titulo": "Paris Saint-Germain FC vs. FC Bayern München",
+   "dur": 1.082,
+   "gan": 1.8,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794340490897,
-   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 3.824,
-   "gan": 3.39,
-   "neta": 0.37,
+   "inicio": 1794343372678,
+   "titulo": "Paris Saint-Germain FC vs. FC Bayern München",
+   "dur": 0.059,
+   "gan": 0.57,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794339784130,
+   "inicio": 1794342785250,
+   "titulo": "FC Internazionale Milano vs. Manchester City WFC",
+   "dur": 0.575,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794342785060,
+   "titulo": "FC Internazionale Milano vs. Manchester City WFC",
+   "dur": 0.169,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794342785031,
+   "titulo": "FC Internazionale Milano vs. Manchester City WFC",
+   "dur": 0.007,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794342712441,
+   "titulo": "SD Amorebieta vs. UD Logroñés",
+   "dur": 0.252,
+   "gan": 7.83,
+   "neta": 5.51,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794342712434,
+   "titulo": "SD Amorebieta vs. UD Logroñés",
+   "dur": 0.005,
+   "gan": 5.22,
+   "neta": 2.89,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794342619940,
+   "titulo": "SCU Torreense vs. Sparta Prague",
+   "dur": 10.272,
+   "gan": 0.69,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794342473415,
    "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 0.182,
-   "gan": 0.78,
+   "dur": 17.13,
+   "gan": 4.71,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794339769432,
-   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 12.751,
-   "gan": 2.73,
+   "inicio": 1794342173236,
+   "titulo": "FC Internazionale Milano vs. Manchester City WFC",
+   "dur": 0.802,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794341842383,
+   "titulo": "Paris Saint-Germain FC vs. FC Bayern München",
+   "dur": 1.552,
+   "gan": 1.25,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794339767276,
-   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 0.019,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794339563068,
-   "titulo": "BK Häcken FF vs. Chelsea FC",
-   "dur": 1.129,
-   "gan": 2.5,
-   "neta": 1.9,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794339468895,
-   "titulo": "BK Häcken FF vs. Chelsea FC",
-   "dur": 1.706,
-   "gan": 0.82,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794339450446,
-   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 0.018,
-   "gan": 0.67,
-   "neta": 0.48,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794339435596,
-   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 0.02,
-   "gan": 7.61,
-   "neta": 3.73,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794339354573,
-   "titulo": "BK Häcken FF vs. Chelsea FC",
-   "dur": 0.075,
-   "gan": 1.42,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794339319603,
-   "titulo": "BK Häcken FF vs. Chelsea FC",
-   "dur": 3.518,
-   "gan": 1.55,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794339280718,
-   "titulo": "BK Häcken FF vs. Chelsea FC",
-   "dur": 1.043,
-   "gan": 0.54,
+   "inicio": 1794341578143,
+   "titulo": "SCU Torreense vs. Sparta Prague",
+   "dur": 1.62,
+   "gan": 0.63,
    "neta": 0,
    "lado": "no"
   }
