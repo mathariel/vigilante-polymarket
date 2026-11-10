@@ -1,22 +1,22 @@
 {
- "actualizado": 1794322715981,
+ "actualizado": 1794325732884,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794319715715,
-  "fin": 1794322715981,
-  "mensajes": 6550117,
-  "reconexiones": 0,
-  "eventos": 574,
+  "inicio": 1794322732700,
+  "fin": 1794325732884,
+  "mensajes": 7266114,
+  "reconexiones": 1,
+  "eventos": 569,
   "errores": [],
-  "nuevos": 8,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.35
+  "nuevos": 3,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5537,
- "falsos": 2300,
+ "total": 5540,
+ "falsos": 2303,
  "largos": {
-  "episodios": 8959,
-  "eventos": 133,
+  "episodios": 9057,
+  "eventos": 135,
   "dias": 7
  },
  "enEspera": {
@@ -27,8 +27,8 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2794,
-   "gan": 11326.92,
+   "n": 2795,
+   "gan": 11328.72,
    "nNeta": 1011,
    "neta": 3648.14
   },
@@ -61,24 +61,24 @@
    "ops": 26,
    "descartadas": 121,
    "neta": 89.69,
-   "dias": 2.55,
-   "semana": 246.62
+   "dias": 2.58,
+   "semana": 243.28
   },
   {
    "capital": 1000,
    "ops": 40,
    "descartadas": 121,
    "neta": 114.95,
-   "dias": 2.55,
-   "semana": 316.06
+   "dias": 2.58,
+   "semana": 311.79
   },
   {
    "capital": 2000,
    "ops": 53,
    "descartadas": 121,
    "neta": 175.58,
-   "dias": 2.55,
-   "semana": 482.76
+   "dias": 2.58,
+   "semana": 476.23
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 2,
-   "horas": 33.3,
-   "episodios": 436,
+   "horas": 34.2,
+   "episodios": 439,
    "sospechosas": 10,
    "realistaNeta": 20.85,
    "capital": {
@@ -222,7 +222,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2048,
+  "conDato": 2051,
   "n": 603,
   "gan": 2544.6,
   "nNeta": 230,
@@ -237,7 +237,7 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2180
+   "n": 2183
   },
   {
    "et": "1–5 s",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794045600000,
-   "n": 21
-  },
   {
    "h": 1794049200000,
    "n": 7
@@ -620,9 +616,37 @@
   {
    "h": 1794319200000,
    "n": 8
+  },
+  {
+   "h": 1794322800000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794323209286,
+   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
+   "dur": 0.562,
+   "gan": 2,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794323045398,
+   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
+   "dur": 0.224,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794322924815,
+   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
+   "dur": 0.233,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794321914442,
    "titulo": "White House # posts November 3 - November 10, 2026?",
@@ -716,30 +740,6 @@
    "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
    "dur": 2.713,
    "gan": 0.75,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794315665624,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 3.2,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794315661417,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 0.138,
-   "gan": 1.01,
-   "neta": 0.07,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794315649439,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 1.136,
-   "gan": 0.5,
    "neta": 0,
    "lado": "si"
   }
