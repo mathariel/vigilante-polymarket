@@ -1,50 +1,50 @@
 {
- "actualizado": 1794337795551,
+ "actualizado": 1794340810563,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794334795269,
-  "fin": 1794337795551,
-  "mensajes": 8730420,
+  "inicio": 1794337810305,
+  "fin": 1794340810563,
+  "mensajes": 9054981,
   "reconexiones": 1,
-  "eventos": 555,
+  "eventos": 546,
   "errores": [],
-  "nuevos": 9,
+  "nuevos": 26,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5579,
- "falsos": 2315,
+ "total": 5605,
+ "falsos": 2327,
  "largos": {
-  "episodios": 9239,
+  "episodios": 9248,
   "eventos": 139,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9751,
+  "episodios": 9752,
   "eventos": 33
  },
  "mediana": 0.511,
  "captura": [
   {
    "s": 0.5,
-   "n": 2819,
-   "gan": 11355.17,
-   "nNeta": 1014,
-   "neta": 3648.79
+   "n": 2832,
+   "gan": 11370.72,
+   "nNeta": 1016,
+   "neta": 3650.87
   },
   {
    "s": 2,
-   "n": 1294,
-   "gan": 5441.53,
+   "n": 1297,
+   "gan": 5448.14,
    "nNeta": 404,
    "neta": 1715.03
   },
   {
    "s": 5,
-   "n": 689,
-   "gan": 2821.27,
-   "nNeta": 152,
-   "neta": 426.3
+   "n": 690,
+   "gan": 2823.26,
+   "nNeta": 153,
+   "neta": 426.31
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 81.77
   }
  ],
- "rentables": 1934,
+ "rentables": 1945,
  "porCapital": [
   {
    "capital": 500,
    "ops": 26,
    "descartadas": 124,
    "neta": 89.69,
-   "dias": 2.72,
-   "semana": 230.8
+   "dias": 2.76,
+   "semana": 227.88
   },
   {
    "capital": 1000,
    "ops": 40,
    "descartadas": 124,
    "neta": 114.95,
-   "dias": 2.72,
-   "semana": 295.79
+   "dias": 2.76,
+   "semana": 292.04
   },
   {
    "capital": 2000,
    "ops": 53,
    "descartadas": 124,
    "neta": 175.58,
-   "dias": 2.72,
-   "semana": 451.79
+   "dias": 2.76,
+   "semana": 446.07
   }
  ],
  "maxBloqueoH": 24,
@@ -101,9 +101,9 @@
   {
    "lunes": "2026-11-09",
    "dias": 2,
-   "horas": 37.5,
-   "episodios": 478,
-   "sospechosas": 10,
+   "horas": 38.3,
+   "episodios": 504,
+   "sospechosas": 11,
    "realistaNeta": 21.5,
    "capital": {
     "500": 12.64,
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 110,
+  "n": 111,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2090,
-  "n": 622,
-  "gan": 2562.95,
+  "conDato": 2115,
+  "n": 627,
+  "gan": 2570.9,
   "nNeta": 233,
   "neta": 759.05
  },
@@ -232,22 +232,22 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1354
+   "n": 1364
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2195
+   "n": 2200
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1335
+   "n": 1345
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 484
+   "n": 485
   },
   {
    "et": "30 s–5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794063600000,
-   "n": 178
-  },
   {
    "h": 1794067200000,
    "n": 168
@@ -619,127 +615,131 @@
   },
   {
    "h": 1794337200000,
-   "n": 2
+   "n": 24
+  },
+  {
+   "h": 1794340800000,
+   "n": 4
   }
  ],
  "recientes": [
   {
-   "inicio": 1794337694750,
-   "titulo": "BK Häcken FF vs. Chelsea FC",
-   "dur": 7.772,
-   "gan": 1.36,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794337457604,
-   "titulo": "BK Häcken FF vs. Chelsea FC",
-   "dur": 1.249,
-   "gan": 3.61,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794336990283,
-   "titulo": "BK Häcken FF vs. Chelsea FC",
-   "dur": 1.12,
-   "gan": 3.94,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794336252318,
+   "inicio": 1794340808487,
    "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 6.005,
-   "gan": 0.57,
+   "dur": 1.059,
+   "gan": 0.84,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794336248626,
+   "inicio": 1794340807730,
    "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 3.471,
-   "gan": 0.74,
-   "neta": 0.03,
+   "dur": 0.153,
+   "gan": 0.99,
+   "neta": 0.01,
    "lado": "no"
   },
   {
-   "inicio": 1794335753176,
+   "inicio": 1794340806332,
    "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 1.116,
-   "gan": 0.5,
+   "dur": 1.345,
+   "gan": 0.52,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794335734605,
+   "inicio": 1794340804061,
    "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 10.535,
-   "gan": 0.5,
+   "dur": 1.458,
+   "gan": 1.35,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794335718564,
+   "inicio": 1794340490897,
    "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 15.869,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794335466643,
-   "titulo": "BK Häcken FF vs. Chelsea FC",
-   "dur": 1.69,
-   "gan": 0.66,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794334794172,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 65.236,
-   "gan": 1.77,
+   "dur": 3.824,
+   "gan": 3.39,
    "neta": 0.37,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794331784283,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 2995.228,
-   "gan": 1.03,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794334376410,
-   "titulo": "BK Häcken FF vs. Chelsea FC",
-   "dur": 0.246,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794334375970,
-   "titulo": "BK Häcken FF vs. Chelsea FC",
-   "dur": 0.411,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794334375036,
-   "titulo": "BK Häcken FF vs. Chelsea FC",
-   "dur": 0.904,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794334270439,
+   "inicio": 1794339784130,
    "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 7.776,
-   "gan": 0.51,
+   "dur": 0.182,
+   "gan": 0.78,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794339769432,
+   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
+   "dur": 12.751,
+   "gan": 2.73,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794339767276,
+   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
+   "dur": 0.019,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794339563068,
+   "titulo": "BK Häcken FF vs. Chelsea FC",
+   "dur": 1.129,
+   "gan": 2.5,
+   "neta": 1.9,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794339468895,
+   "titulo": "BK Häcken FF vs. Chelsea FC",
+   "dur": 1.706,
+   "gan": 0.82,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794339450446,
+   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
+   "dur": 0.018,
+   "gan": 0.67,
+   "neta": 0.48,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794339435596,
+   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
+   "dur": 0.02,
+   "gan": 7.61,
+   "neta": 3.73,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794339354573,
+   "titulo": "BK Häcken FF vs. Chelsea FC",
+   "dur": 0.075,
+   "gan": 1.42,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794339319603,
+   "titulo": "BK Häcken FF vs. Chelsea FC",
+   "dur": 3.518,
+   "gan": 1.55,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794339280718,
+   "titulo": "BK Häcken FF vs. Chelsea FC",
+   "dur": 1.043,
+   "gan": 0.54,
    "neta": 0,
    "lado": "no"
   }
