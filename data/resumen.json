@@ -1,21 +1,21 @@
 {
- "actualizado": 1794271459060,
+ "actualizado": 1794274473077,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794268458811,
-  "fin": 1794271459060,
-  "mensajes": 6667316,
+  "inicio": 1794271472762,
+  "fin": 1794274473077,
+  "mensajes": 7177621,
   "reconexiones": 0,
-  "eventos": 528,
+  "eventos": 526,
   "errores": [],
   "nuevos": 3,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5384,
- "falsos": 2235,
+ "total": 5387,
+ "falsos": 2237,
  "largos": {
-  "episodios": 8064,
+  "episodios": 8194,
   "eventos": 125,
   "dias": 7
  },
@@ -27,10 +27,10 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2720,
-   "gan": 11208.8,
-   "nNeta": 992,
-   "neta": 3613.12
+   "n": 2722,
+   "gan": 11210.34,
+   "nNeta": 993,
+   "neta": 3613.42
   },
   {
    "s": 2,
@@ -54,31 +54,31 @@
    "neta": 81.33
   }
  ],
- "rentables": 1872,
+ "rentables": 1874,
  "porCapital": [
   {
    "capital": 500,
    "ops": 22,
    "descartadas": 120,
    "neta": 80.55,
-   "dias": 1.95,
-   "semana": 288.78
+   "dias": 1.99,
+   "semana": 283.72
   },
   {
    "capital": 1000,
    "ops": 36,
    "descartadas": 120,
    "neta": 105.81,
-   "dias": 1.95,
-   "semana": 379.33
+   "dias": 1.99,
+   "semana": 372.67
   },
   {
    "capital": 2000,
    "ops": 49,
    "descartadas": 120,
    "neta": 166.44,
-   "dias": 1.95,
-   "semana": 596.67
+   "dias": 1.99,
+   "semana": 586.2
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 1,
-   "horas": 19.2,
-   "episodios": 283,
+   "horas": 20,
+   "episodios": 286,
    "sospechosas": 6,
    "realistaNeta": 11.59,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1899,
-  "n": 551,
-  "gan": 2492.94,
+  "conDato": 1902,
+  "n": 552,
+  "gan": 2493.47,
   "nNeta": 225,
   "neta": 749.14
  },
@@ -232,7 +232,7 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1308
+   "n": 1309
   },
   {
    "et": "0.1–1 s",
@@ -242,7 +242,7 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1302
+   "n": 1304
   },
   {
    "et": "5–30 s",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794009600000,
-   "n": 38
-  },
   {
    "h": 1794013200000,
    "n": 15
@@ -620,9 +616,37 @@
   {
    "h": 1794268800000,
    "n": 3
+  },
+  {
+   "h": 1794272400000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794273019510,
+   "titulo": "CDP Junior FC vs. Cúcuta Deportivo FC",
+   "dur": 1.292,
+   "gan": 1.01,
+   "neta": 0.3,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794273019309,
+   "titulo": "CDP Junior FC vs. Cúcuta Deportivo FC",
+   "dur": 0.095,
+   "gan": 1.01,
+   "neta": 0.3,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794272467492,
+   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
+   "dur": 1.182,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794271359010,
    "titulo": "CDP Junior FC vs. Cúcuta Deportivo FC",
@@ -718,30 +742,6 @@
    "gan": 35.69,
    "neta": 33.56,
    "lado": "si"
-  },
-  {
-   "inicio": 1794262822702,
-   "titulo": "CD Tecnico Universitario vs. Manta FC",
-   "dur": 0.512,
-   "gan": 2.65,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794262820854,
-   "titulo": "CD Tecnico Universitario vs. Manta FC",
-   "dur": 1.737,
-   "gan": 2.78,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794262820657,
-   "titulo": "CD Tecnico Universitario vs. Manta FC",
-   "dur": 0.087,
-   "gan": 2.88,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
