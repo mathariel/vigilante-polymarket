@@ -1,26 +1,26 @@
 {
- "actualizado": 1794310656348,
+ "actualizado": 1794313669459,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794307656094,
-  "fin": 1794310656348,
-  "mensajes": 6712488,
-  "reconexiones": 0,
-  "eventos": 541,
+  "inicio": 1794310669216,
+  "fin": 1794313669459,
+  "mensajes": 5946829,
+  "reconexiones": 1,
+  "eventos": 558,
   "errores": [],
-  "nuevos": 17,
+  "nuevos": 1,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5520,
- "falsos": 2274,
+ "total": 5521,
+ "falsos": 2277,
  "largos": {
-  "episodios": 8791,
+  "episodios": 8798,
   "eventos": 130,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9746,
+  "episodios": 9747,
   "eventos": 33
  },
  "mediana": 0.507,
@@ -54,31 +54,31 @@
    "neta": 81.33
   }
  ],
- "rentables": 1925,
+ "rentables": 1926,
  "porCapital": [
   {
    "capital": 500,
    "ops": 25,
    "descartadas": 121,
    "neta": 89.34,
-   "dias": 2.41,
-   "semana": 259.91
+   "dias": 2.44,
+   "semana": 256.2
   },
   {
    "capital": 1000,
    "ops": 39,
    "descartadas": 121,
    "neta": 114.6,
-   "dias": 2.41,
-   "semana": 333.38
+   "dias": 2.44,
+   "semana": 328.62
   },
   {
    "capital": 2000,
    "ops": 52,
    "descartadas": 121,
    "neta": 175.23,
-   "dias": 2.41,
-   "semana": 509.75
+   "dias": 2.44,
+   "semana": 502.47
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 2,
-   "horas": 30,
-   "episodios": 419,
+   "horas": 30.8,
+   "episodios": 420,
    "sospechosas": 10,
    "realistaNeta": 20.5,
    "capital": {
@@ -222,7 +222,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2031,
+  "conDato": 2032,
   "n": 593,
   "gan": 2537.7,
   "nNeta": 229,
@@ -232,7 +232,7 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1346
+   "n": 1347
   },
   {
    "et": "0.1–1 s",
@@ -619,10 +619,18 @@
   },
   {
    "h": 1794308400000,
-   "n": 16
+   "n": 17
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794311944972,
+   "titulo": "Highest temperature in Warsaw on November 10?",
+   "dur": 0.019,
+   "gan": 0.5,
+   "neta": 0.11,
+   "lado": "si"
+  },
   {
    "inicio": 1794309429375,
    "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
@@ -732,14 +740,6 @@
    "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
    "dur": 7.116,
    "gan": 0.64,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794308486812,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 6.796,
-   "gan": 0.57,
    "neta": 0,
    "lado": "no"
   }
