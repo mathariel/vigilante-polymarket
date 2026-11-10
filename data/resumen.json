@@ -1,43 +1,43 @@
 {
- "actualizado": 1794277488251,
+ "actualizado": 1794280505022,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794274488003,
-  "fin": 1794277488253,
-  "mensajes": 7082910,
+  "inicio": 1794277504771,
+  "fin": 1794280505022,
+  "mensajes": 6217283,
   "reconexiones": 0,
-  "eventos": 521,
+  "eventos": 502,
   "errores": [],
-  "nuevos": 48,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.12
+  "nuevos": 38,
+  "nuevosRentables": 2,
+  "nuevosNeta": 7.67
  },
- "total": 5435,
- "falsos": 2244,
+ "total": 5473,
+ "falsos": 2260,
  "largos": {
-  "episodios": 8260,
-  "eventos": 125,
+  "episodios": 8267,
+  "eventos": 126,
   "dias": 7
  },
  "enEspera": {
   "episodios": 9665,
   "eventos": 32
  },
- "mediana": 0.505,
+ "mediana": 0.504,
  "captura": [
   {
    "s": 0.5,
-   "n": 2735,
-   "gan": 11223.45,
-   "nNeta": 1001,
-   "neta": 3614.49
+   "n": 2748,
+   "gan": 11296.29,
+   "nNeta": 1009,
+   "neta": 3646.67
   },
   {
    "s": 2,
-   "n": 1238,
-   "gan": 5389.33,
-   "nNeta": 399,
-   "neta": 1708.13
+   "n": 1239,
+   "gan": 5399.05,
+   "nNeta": 400,
+   "neta": 1714.05
   },
   {
    "s": 5,
@@ -54,31 +54,31 @@
    "neta": 81.33
   }
  ],
- "rentables": 1894,
+ "rentables": 1918,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 22,
+   "ops": 24,
    "descartadas": 121,
-   "neta": 80.55,
-   "dias": 2.02,
-   "semana": 278.82
+   "neta": 88.22,
+   "dias": 2.06,
+   "semana": 300.19
   },
   {
    "capital": 1000,
-   "ops": 36,
+   "ops": 38,
    "descartadas": 121,
-   "neta": 105.81,
-   "dias": 2.02,
-   "semana": 366.24
+   "neta": 113.48,
+   "dias": 2.06,
+   "semana": 386.12
   },
   {
    "capital": 2000,
-   "ops": 49,
+   "ops": 51,
    "descartadas": 121,
-   "neta": 166.44,
-   "dias": 2.02,
-   "semana": 576.08
+   "neta": 174.11,
+   "dias": 2.06,
+   "semana": 592.4
   }
  ],
  "maxBloqueoH": 24,
@@ -101,22 +101,22 @@
   {
    "lunes": "2026-11-09",
    "dias": 1,
-   "horas": 20.8,
-   "episodios": 334,
-   "sospechosas": 6,
-   "realistaNeta": 11.71,
+   "horas": 21.7,
+   "episodios": 372,
+   "sospechosas": 8,
+   "realistaNeta": 19.38,
    "capital": {
-    "500": 3.5,
-    "1000": 3.5,
-    "2000": 3.5
+    "500": 11.17,
+    "1000": 11.17,
+    "2000": 11.17
    },
-   "cumple": false
+   "cumple": true
   }
  ],
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 106,
+  "n": 108,
   "top": [
    {
     "inicio": 1794062797308,
@@ -199,6 +199,16 @@
     "ret": 10.6
    },
    {
+    "inicio": 1794277581937,
+    "titulo": "Club Aurora vs. FC Universitario",
+    "lado": "si",
+    "dur": 0.163,
+    "gan": 23.77,
+    "neta": 18.89,
+    "costo": 174.32,
+    "ret": 13.6
+   },
+   {
     "inicio": 1794263162676,
     "titulo": "CD Tecnico Universitario vs. Manta FC",
     "lado": "si",
@@ -207,42 +217,32 @@
     "neta": 21.21,
     "costo": 27.76,
     "ret": 80.1
-   },
-   {
-    "inicio": 1794147586859,
-    "titulo": "Tromsø IL vs. FK Bodø/Glimt",
-    "lado": "si",
-    "dur": 2.117,
-    "gan": 17.16,
-    "neta": 12.96,
-    "costo": 125.19,
-    "ret": 13.7
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 1950,
-  "n": 554,
-  "gan": 2495.87,
-  "nNeta": 226,
-  "neta": 749.26
+  "conDato": 1986,
+  "n": 557,
+  "gan": 2513.97,
+  "nNeta": 228,
+  "neta": 756.93
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1330
+   "n": 1338
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2146
+   "n": 2170
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1308
+   "n": 1314
   },
   {
    "et": "5–30 s",
@@ -290,6 +290,13 @@
    "mediana": 0.385
   },
   {
+   "titulo": "Club Aurora vs. FC Universitario",
+   "n": 86,
+   "gan": 175.62,
+   "neta": 66.75,
+   "mediana": 0.177
+  },
+  {
    "titulo": "Kristiansund BK vs. Vålerenga Fotball",
    "n": 85,
    "gan": 231.43,
@@ -323,13 +330,6 @@
    "gan": 305.32,
    "neta": 7.11,
    "mediana": 0.184
-  },
-  {
-   "titulo": "Fenerbahçe SK vs. Liverpool FC",
-   "n": 65,
-   "gan": 135.57,
-   "neta": 2.57,
-   "mediana": 0.418
   }
  ],
  "porHora": [
@@ -619,128 +619,128 @@
   },
   {
    "h": 1794276000000,
-   "n": 38
+   "n": 76
   }
  ],
  "recientes": [
   {
-   "inicio": 1794277367497,
+   "inicio": 1794277631331,
    "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 0.039,
-   "gan": 0.77,
-   "neta": 0.01,
+   "dur": 0.237,
+   "gan": 2.6,
+   "neta": 1.9,
    "lado": "no"
   },
   {
-   "inicio": 1794277367323,
+   "inicio": 1794277631096,
    "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 0.173,
-   "gan": 0.58,
-   "neta": 0.01,
+   "dur": 0.073,
+   "gan": 2.29,
+   "neta": 1.98,
    "lado": "no"
   },
   {
-   "inicio": 1794277361200,
+   "inicio": 1794277630988,
    "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 0.548,
-   "gan": 1.01,
-   "neta": 0,
-   "lado": "si"
+   "dur": 0.084,
+   "gan": 5.16,
+   "neta": 4.42,
+   "lado": "no"
   },
   {
-   "inicio": 1794277339239,
+   "inicio": 1794277630875,
    "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 0.709,
-   "gan": 0.52,
-   "neta": 0.01,
-   "lado": "si"
+   "dur": 0.103,
+   "gan": 2.01,
+   "neta": 1.47,
+   "lado": "no"
   },
   {
-   "inicio": 1794277338171,
-   "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 0.486,
-   "gan": 0.57,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794277337063,
-   "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 1.052,
-   "gan": 0.58,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794277336802,
-   "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 0.025,
-   "gan": 0.51,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794277336027,
-   "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 0.704,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794277316604,
-   "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 1.162,
-   "gan": 0.56,
-   "neta": 0.06,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794277305068,
-   "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 0.157,
-   "gan": 2.51,
-   "neta": 1.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794276521138,
+   "inicio": 1794277628909,
    "titulo": "Club Aurora vs. FC Universitario",
    "dur": 0.043,
-   "gan": 0.6,
-   "neta": 0.01,
-   "lado": "no"
+   "gan": 0.56,
+   "neta": 0.16,
+   "lado": "si"
   },
   {
-   "inicio": 1794276504696,
+   "inicio": 1794277628498,
    "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 0.022,
-   "gan": 0.55,
+   "dur": 0.01,
+   "gan": 0.92,
+   "neta": 0.53,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794277628141,
+   "titulo": "Club Aurora vs. FC Universitario",
+   "dur": 0.317,
+   "gan": 17.5,
+   "neta": 7.49,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794277625833,
+   "titulo": "Club Aurora vs. FC Universitario",
+   "dur": 0.398,
+   "gan": 0.74,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794276503429,
+   "inicio": 1794277625658,
    "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 0.002,
-   "gan": 0.5,
+   "dur": 0.134,
+   "gan": 0.86,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794276502859,
+   "inicio": 1794277625383,
    "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 0.259,
-   "gan": 0.52,
+   "dur": 0.119,
+   "gan": 1.73,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794276488054,
+   "inicio": 1794277623198,
    "titulo": "Club Aurora vs. FC Universitario",
-   "dur": 0.039,
-   "gan": 0.59,
+   "dur": 0.014,
+   "gan": 0.66,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794277621863,
+   "titulo": "Club Aurora vs. FC Universitario",
+   "dur": 1.288,
+   "gan": 3.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794277609816,
+   "titulo": "Club Aurora vs. FC Universitario",
+   "dur": 1.112,
+   "gan": 19.02,
+   "neta": 9.6,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794277598769,
+   "titulo": "Club Aurora vs. FC Universitario",
+   "dur": 0.209,
+   "gan": 1.03,
+   "neta": 0.29,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794277598497,
+   "titulo": "Club Aurora vs. FC Universitario",
+   "dur": 0.18,
+   "gan": 0.88,
+   "neta": 0.16,
    "lado": "si"
   }
  ]
