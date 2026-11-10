@@ -1,84 +1,84 @@
 {
- "actualizado": 1794319698899,
+ "actualizado": 1794322715981,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794316698629,
-  "fin": 1794319698899,
-  "mensajes": 6948455,
-  "reconexiones": 1,
-  "eventos": 561,
+  "inicio": 1794319715715,
+  "fin": 1794322715981,
+  "mensajes": 6550117,
+  "reconexiones": 0,
+  "eventos": 574,
   "errores": [],
-  "nuevos": 0,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 8,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.35
  },
- "total": 5529,
- "falsos": 2291,
+ "total": 5537,
+ "falsos": 2300,
  "largos": {
-  "episodios": 8914,
-  "eventos": 132,
+  "episodios": 8959,
+  "eventos": 133,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9749,
+  "episodios": 9751,
   "eventos": 33
  },
  "mediana": 0.509,
  "captura": [
   {
    "s": 0.5,
-   "n": 2790,
-   "gan": 11323.71,
-   "nNeta": 1010,
-   "neta": 3647.79
+   "n": 2794,
+   "gan": 11326.92,
+   "nNeta": 1011,
+   "neta": 3648.14
   },
   {
    "s": 2,
-   "n": 1272,
-   "gan": 5420.51,
-   "nNeta": 400,
-   "neta": 1714.05
+   "n": 1276,
+   "gan": 5423.72,
+   "nNeta": 401,
+   "neta": 1714.4
   },
   {
    "s": 5,
-   "n": 669,
-   "gan": 2801.59,
+   "n": 672,
+   "gan": 2804.01,
    "nNeta": 149,
    "neta": 425.65
   },
   {
    "s": 30,
-   "n": 198,
-   "gan": 553.8,
+   "n": 201,
+   "gan": 556.22,
    "nNeta": 36,
    "neta": 81.33
   }
  ],
- "rentables": 1927,
+ "rentables": 1928,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 25,
+   "ops": 26,
    "descartadas": 121,
-   "neta": 89.34,
-   "dias": 2.51,
-   "semana": 249.08
+   "neta": 89.69,
+   "dias": 2.55,
+   "semana": 246.62
   },
   {
    "capital": 1000,
-   "ops": 39,
+   "ops": 40,
    "descartadas": 121,
-   "neta": 114.6,
-   "dias": 2.51,
-   "semana": 319.48
+   "neta": 114.95,
+   "dias": 2.55,
+   "semana": 316.06
   },
   {
    "capital": 2000,
-   "ops": 52,
+   "ops": 53,
    "descartadas": 121,
-   "neta": 175.23,
-   "dias": 2.51,
-   "semana": 488.5
+   "neta": 175.58,
+   "dias": 2.55,
+   "semana": 482.76
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 2,
-   "horas": 32.5,
-   "episodios": 428,
+   "horas": 33.3,
+   "episodios": 436,
    "sospechosas": 10,
-   "realistaNeta": 20.5,
+   "realistaNeta": 20.85,
    "capital": {
-    "500": 12.29,
-    "1000": 12.29,
-    "2000": 12.29
+    "500": 12.64,
+    "1000": 12.64,
+    "2000": 12.64
    },
    "cumple": true
   }
@@ -222,27 +222,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2040,
-  "n": 599,
-  "gan": 2541.39,
-  "nNeta": 229,
-  "neta": 758.05
+  "conDato": 2048,
+  "n": 603,
+  "gan": 2544.6,
+  "nNeta": 230,
+  "neta": 758.4
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1348
+   "n": 1350
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2178
+   "n": 2180
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1328
+   "n": 1329
   },
   {
    "et": "5–30 s",
@@ -252,7 +252,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 137
+   "n": 140
   },
   {
    "et": "> 5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794042000000,
-   "n": 19
-  },
   {
    "h": 1794045600000,
    "n": 21
@@ -620,9 +616,77 @@
   {
    "h": 1794315600000,
    "n": 8
+  },
+  {
+   "h": 1794319200000,
+   "n": 8
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794321914442,
+   "titulo": "White House # posts November 3 - November 10, 2026?",
+   "dur": 2.391,
+   "gan": 0.79,
+   "neta": 0.35,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794321077083,
+   "titulo": "Highest temperature in Cape Town on November 12?",
+   "dur": 202.601,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794321077067,
+   "titulo": "Highest temperature in Cape Town on November 12?",
+   "dur": 0.005,
+   "gan": 0.64,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794320962892,
+   "titulo": "Highest temperature in Cape Town on November 12?",
+   "dur": 113.188,
+   "gan": 0.72,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794320951736,
+   "titulo": "Highest temperature in Cape Town on November 12?",
+   "dur": 0.019,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794320951416,
+   "titulo": "Highest temperature in Cape Town on November 12?",
+   "dur": 0.318,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794320665842,
+   "titulo": "Highest temperature in Cape Town on November 12?",
+   "dur": 0.499,
+   "gan": 0.89,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794320450047,
+   "titulo": "Highest temperature in Cape Town on November 12?",
+   "dur": 31.728,
+   "gan": 1,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794315681202,
    "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
@@ -678,70 +742,6 @@
    "gan": 0.5,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794315638104,
-   "titulo": "Elon Musk # tweets November 3 - November 10, 2026?",
-   "dur": 0.033,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794311944972,
-   "titulo": "Highest temperature in Warsaw on November 10?",
-   "dur": 0.019,
-   "gan": 0.5,
-   "neta": 0.11,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794309429375,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 6.375,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794309375665,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 1.657,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794309362655,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 6.679,
-   "gan": 0.79,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794309294602,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 7.956,
-   "gan": 0.78,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794309226357,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 8.151,
-   "gan": 0.78,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794309085447,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 8.889,
-   "gan": 0.77,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
