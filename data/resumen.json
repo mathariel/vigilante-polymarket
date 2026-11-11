@@ -1,22 +1,22 @@
 {
- "actualizado": 1794395172663,
+ "actualizado": 1794398187567,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794392172406,
-  "fin": 1794395172663,
-  "mensajes": 7925724,
-  "reconexiones": 1,
-  "eventos": 580,
+  "inicio": 1794395187300,
+  "fin": 1794398187567,
+  "mensajes": 7647003,
+  "reconexiones": 15,
+  "eventos": 599,
   "errores": [],
   "nuevos": 1,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.03
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5809,
- "falsos": 2382,
+ "total": 5811,
+ "falsos": 2385,
  "largos": {
-  "episodios": 9950,
-  "eventos": 148,
+  "episodios": 9978,
+  "eventos": 149,
   "dias": 7
  },
  "enEspera": {
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2993,
-   "gan": 11502.81,
-   "nNeta": 1031,
-   "neta": 3656.39
+   "n": 2994,
+   "gan": 11504.36,
+   "nNeta": 1032,
+   "neta": 3656.49
   },
   {
    "s": 2,
-   "n": 1344,
-   "gan": 5503.3,
-   "nNeta": 414,
-   "neta": 1718.38
+   "n": 1345,
+   "gan": 5504.85,
+   "nNeta": 415,
+   "neta": 1718.48
   },
   {
    "s": 5,
-   "n": 729,
-   "gan": 2862.06,
-   "nNeta": 160,
-   "neta": 428.54
+   "n": 730,
+   "gan": 2863.61,
+   "nNeta": 161,
+   "neta": 428.64
   },
   {
    "s": 30,
-   "n": 228,
-   "gan": 581.8,
-   "nNeta": 42,
-   "neta": 82.75
+   "n": 229,
+   "gan": 583.35,
+   "nNeta": 43,
+   "neta": 82.85
   }
  ],
- "rentables": 1969,
+ "rentables": 1970,
  "porCapital": [
   {
    "capital": 500,
    "ops": 26,
-   "descartadas": 134,
+   "descartadas": 135,
    "neta": 89.69,
-   "dias": 3.38,
-   "semana": 185.51
+   "dias": 3.42,
+   "semana": 183.62
   },
   {
    "capital": 1000,
    "ops": 40,
-   "descartadas": 134,
+   "descartadas": 135,
    "neta": 114.95,
-   "dias": 3.38,
-   "semana": 237.75
+   "dias": 3.42,
+   "semana": 235.32
   },
   {
    "capital": 2000,
    "ops": 53,
-   "descartadas": 134,
+   "descartadas": 135,
    "neta": 175.58,
-   "dias": 3.38,
-   "semana": 363.14
+   "dias": 3.42,
+   "semana": 359.44
   }
  ],
  "maxBloqueoH": 24,
@@ -101,10 +101,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 3,
-   "horas": 52.5,
-   "episodios": 708,
+   "horas": 53.3,
+   "episodios": 710,
    "sospechosas": 12,
-   "realistaNeta": 24.89,
+   "realistaNeta": 24.99,
    "capital": {
     "500": 12.64,
     "1000": 12.64,
@@ -222,11 +222,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2318,
-  "n": 775,
-  "gan": 2691.07,
-  "nNeta": 243,
-  "neta": 762.44
+  "conDato": 2320,
+  "n": 776,
+  "gan": 2692.62,
+  "nNeta": 244,
+  "neta": 762.54
  },
  "duraciones": [
   {
@@ -237,7 +237,7 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2318
+   "n": 2319
   },
   {
    "et": "1–5 s",
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 72
+   "n": 73
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794114000000,
-   "n": 23
-  },
   {
    "h": 1794117600000,
    "n": 20
@@ -620,9 +616,29 @@
   {
    "h": 1794391200000,
    "n": 1
+  },
+  {
+   "h": 1794394800000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794395177496,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 2278.775,
+   "gan": 1.55,
+   "neta": 0.1,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794395347872,
+   "titulo": "Uzbekistan vs. Russia",
+   "dur": 0.247,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794392175803,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
@@ -725,22 +741,6 @@
    "dur": 5.97,
    "gan": 1.96,
    "neta": 0.36,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794385900950,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 0.512,
-   "gan": 0.52,
-   "neta": 0.03,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794385898154,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 2.544,
-   "gan": 1.55,
-   "neta": 0.37,
    "lado": "no"
   }
  ]
