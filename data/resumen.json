@@ -1,55 +1,55 @@
 {
- "actualizado": 1794404216930,
+ "actualizado": 1794407231812,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794401216655,
-  "fin": 1794404216930,
-  "mensajes": 6845496,
+  "inicio": 1794404231544,
+  "fin": 1794407231812,
+  "mensajes": 6571342,
   "reconexiones": 0,
   "eventos": 598,
   "errores": [],
-  "nuevos": 21,
+  "nuevos": 18,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5834,
+ "total": 5853,
  "falsos": 2388,
  "largos": {
-  "episodios": 10134,
+  "episodios": 10216,
   "eventos": 150,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9777,
+  "episodios": 9778,
   "eventos": 35
  },
- "mediana": 0.544,
+ "mediana": 0.549,
  "captura": [
   {
    "s": 0.5,
-   "n": 3015,
-   "gan": 11517,
+   "n": 3034,
+   "gan": 11528.63,
    "nNeta": 1032,
    "neta": 3656.49
   },
   {
    "s": 2,
-   "n": 1364,
-   "gan": 5516.52,
+   "n": 1382,
+   "gan": 5527.58,
    "nNeta": 415,
    "neta": 1718.48
   },
   {
    "s": 5,
-   "n": 749,
-   "gan": 2875.72,
+   "n": 767,
+   "gan": 2886.78,
    "nNeta": 161,
    "neta": 428.64
   },
   {
    "s": 30,
-   "n": 244,
-   "gan": 592.84,
+   "n": 261,
+   "gan": 603.33,
    "nNeta": 43,
    "neta": 82.85
   }
@@ -61,24 +61,24 @@
    "ops": 26,
    "descartadas": 135,
    "neta": 89.69,
-   "dias": 3.49,
-   "semana": 179.95
+   "dias": 3.52,
+   "semana": 178.16
   },
   {
    "capital": 1000,
    "ops": 40,
    "descartadas": 135,
    "neta": 114.95,
-   "dias": 3.49,
-   "semana": 230.62
+   "dias": 3.52,
+   "semana": 228.33
   },
   {
    "capital": 2000,
    "ops": 53,
    "descartadas": 135,
    "neta": 175.58,
-   "dias": 3.49,
-   "semana": 352.25
+   "dias": 3.52,
+   "semana": 348.76
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 3,
-   "horas": 55,
-   "episodios": 733,
+   "horas": 55.8,
+   "episodios": 752,
    "sospechosas": 12,
    "realistaNeta": 24.99,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2343,
-  "n": 796,
-  "gan": 2704.04,
+  "conDato": 2362,
+  "n": 815,
+  "gan": 2715.67,
   "nNeta": 244,
   "neta": 762.54
  },
@@ -242,17 +242,17 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1373
+   "n": 1374
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 505
+   "n": 506
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 171
+   "n": 188
   },
   {
    "et": "> 5 min",
@@ -297,6 +297,13 @@
    "mediana": 0.385
   },
   {
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "n": 94,
+   "gan": 65.19,
+   "neta": 2.22,
+   "mediana": 56.919
+  },
+  {
    "titulo": "Club Aurora vs. FC Universitario",
    "n": 86,
    "gan": 175.62,
@@ -323,20 +330,9 @@
    "gan": 96.77,
    "neta": 16.77,
    "mediana": 0.239
-  },
-  {
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "n": 76,
-   "gan": 55.18,
-   "neta": 2.22,
-   "mediana": 20.811
   }
  ],
  "porHora": [
-  {
-   "h": 1794124800000,
-   "n": 35
-  },
   {
    "h": 1794128400000,
    "n": 56
@@ -619,127 +615,131 @@
   },
   {
    "h": 1794402000000,
-   "n": 21
+   "n": 29
+  },
+  {
+   "h": 1794405600000,
+   "n": 11
   }
  ],
  "recientes": [
   {
-   "inicio": 1794404147459,
+   "inicio": 1794407032241,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 69.2,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794404146208,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 1.121,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794403906987,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 236.112,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794403827389,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 78.944,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794403746813,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 79.496,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794403666526,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 79.606,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794403587598,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 78.256,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794403445392,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 141.218,
+   "dur": 199.306,
    "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794403365711,
+   "inicio": 1794406976326,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 255.221,
+   "gan": 1.58,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794406912749,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 79.356,
+   "dur": 119.377,
    "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794403265794,
+   "inicio": 1794406806605,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 99.029,
-   "gan": 0.5,
+   "dur": 99.688,
+   "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794403185417,
+   "inicio": 1794406791840,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 79.439,
-   "gan": 0.5,
+   "dur": 7.784,
+   "gan": 0.59,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794403104393,
+   "inicio": 1794406551775,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 80.302,
-   "gan": 0.64,
+   "dur": 239.929,
+   "gan": 0.57,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794403005532,
+   "inicio": 1794406517169,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 63.219,
-   "gan": 0.62,
+   "dur": 34.48,
+   "gan": 0.57,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794402924563,
+   "inicio": 1794406311622,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 61.393,
-   "gan": 0.62,
+   "dur": 205.483,
+   "gan": 0.57,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794402909319,
+   "inicio": 1794406309668,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 15.12,
-   "gan": 0.62,
+   "dur": 1.068,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794406069717,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 239.808,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794405829270,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 240.233,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794405588749,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 240.391,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794405348594,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 240.016,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794405108190,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 240.256,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794404937535,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 170.54,
+   "gan": 0.51,
    "neta": 0,
    "lado": "si"
   }
