@@ -1,34 +1,34 @@
 {
- "actualizado": 1794374072591,
+ "actualizado": 1794377085625,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794371072284,
-  "fin": 1794374072591,
-  "mensajes": 6530262,
+  "inicio": 1794374085425,
+  "fin": 1794377085625,
+  "mensajes": 7667151,
   "reconexiones": 0,
-  "eventos": 572,
+  "eventos": 568,
   "errores": [],
-  "nuevos": 107,
+  "nuevos": 1,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5760,
- "falsos": 2365,
+ "total": 5761,
+ "falsos": 2368,
  "largos": {
-  "episodios": 9686,
-  "eventos": 147,
+  "episodios": 9720,
+  "eventos": 148,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9758,
+  "episodios": 9762,
   "eventos": 35
  },
  "mediana": 0.536,
  "captura": [
   {
    "s": 0.5,
-   "n": 2960,
-   "gan": 11471.82,
+   "n": 2961,
+   "gan": 11472.41,
    "nNeta": 1022,
    "neta": 3653.43
   },
@@ -61,24 +61,24 @@
    "ops": 26,
    "descartadas": 127,
    "neta": 89.69,
-   "dias": 3.14,
-   "semana": 199.94
+   "dias": 3.18,
+   "semana": 197.74
   },
   {
    "capital": 1000,
    "ops": 40,
    "descartadas": 127,
    "neta": 114.95,
-   "dias": 3.14,
-   "semana": 256.24
+   "dias": 3.18,
+   "semana": 253.42
   },
   {
    "capital": 2000,
    "ops": 53,
    "descartadas": 127,
    "neta": 175.58,
-   "dias": 3.14,
-   "semana": 391.38
+   "dias": 3.18,
+   "semana": 387.08
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 3,
-   "horas": 46.7,
-   "episodios": 659,
+   "horas": 47.5,
+   "episodios": 660,
    "sospechosas": 11,
    "realistaNeta": 22.92,
    "capital": {
@@ -222,7 +222,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2270,
+  "conDato": 2271,
   "n": 746,
   "gan": 2662.92,
   "nNeta": 236,
@@ -237,7 +237,7 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2310
+   "n": 2311
   },
   {
    "et": "1–5 s",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794092400000,
-   "n": 42
-  },
   {
    "h": 1794096000000,
    "n": 45
@@ -620,9 +616,21 @@
   {
    "h": 1794369600000,
    "n": 107
+  },
+  {
+   "h": 1794373200000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794374726828,
+   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
+   "dur": 0.932,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794371830742,
    "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
@@ -731,14 +739,6 @@
    "inicio": 1794371804070,
    "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
    "dur": 0.507,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794371801739,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 0.845,
    "gan": 0.71,
    "neta": 0,
    "lado": "no"
