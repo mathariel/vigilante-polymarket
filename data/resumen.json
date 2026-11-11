@@ -1,21 +1,21 @@
 {
- "actualizado": 1794365034266,
+ "actualizado": 1794368046689,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794362034060,
-  "fin": 1794365034266,
-  "mensajes": 7015320,
+  "inicio": 1794365046473,
+  "fin": 1794368046690,
+  "mensajes": 6937496,
   "reconexiones": 0,
-  "eventos": 573,
+  "eventos": 561,
   "errores": [],
-  "nuevos": 10,
+  "nuevos": 1,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5652,
+ "total": 5653,
  "falsos": 2365,
  "largos": {
-  "episodios": 9478,
+  "episodios": 9529,
   "eventos": 144,
   "dias": 7
  },
@@ -23,7 +23,7 @@
   "episodios": 9755,
   "eventos": 35
  },
- "mediana": 0.516,
+ "mediana": 0.515,
  "captura": [
   {
    "s": 0.5,
@@ -61,24 +61,24 @@
    "ops": 26,
    "descartadas": 127,
    "neta": 89.69,
-   "dias": 3.04,
-   "semana": 206.83
+   "dias": 3.07,
+   "semana": 204.48
   },
   {
    "capital": 1000,
    "ops": 40,
    "descartadas": 127,
    "neta": 114.95,
-   "dias": 3.04,
-   "semana": 265.07
+   "dias": 3.07,
+   "semana": 262.06
   },
   {
    "capital": 2000,
    "ops": 53,
    "descartadas": 127,
    "neta": 175.58,
-   "dias": 3.04,
-   "semana": 404.87
+   "dias": 3.07,
+   "semana": 400.27
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 2,
-   "horas": 44.2,
-   "episodios": 551,
+   "horas": 45,
+   "episodios": 552,
    "sospechosas": 11,
    "realistaNeta": 22.92,
    "capital": {
@@ -222,7 +222,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2162,
+  "conDato": 2163,
   "n": 651,
   "gan": 2603.39,
   "nNeta": 236,
@@ -232,7 +232,7 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1370
+   "n": 1371
   },
   {
    "et": "0.1–1 s",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794085200000,
-   "n": 136
-  },
   {
    "h": 1794088800000,
    "n": 63
@@ -620,9 +616,21 @@
   {
    "h": 1794362400000,
    "n": 10
+  },
+  {
+   "h": 1794366000000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794367540162,
+   "titulo": "Highest temperature in Panama City on November 11?",
+   "dur": 0.017,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794364887073,
    "titulo": "Donald Trump # Truth Social posts November 10 - November 17, 2026?",
@@ -733,14 +741,6 @@
    "dur": 0.35,
    "gan": 0.54,
    "neta": 0.07,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794351453041,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 374.554,
-   "gan": 1.4,
-   "neta": 0,
    "lado": "si"
   }
  ]
