@@ -1,21 +1,21 @@
 {
- "actualizado": 1794380098511,
+ "actualizado": 1794383114036,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794377098305,
-  "fin": 1794380098511,
-  "mensajes": 7372435,
+  "inicio": 1794380113775,
+  "fin": 1794383114036,
+  "mensajes": 7266264,
   "reconexiones": 0,
-  "eventos": 577,
+  "eventos": 566,
   "errores": [],
-  "nuevos": 3,
+  "nuevos": 23,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5764,
- "falsos": 2372,
+ "total": 5787,
+ "falsos": 2376,
  "largos": {
-  "episodios": 9762,
+  "episodios": 9809,
   "eventos": 148,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2962,
-   "gan": 11473.17,
+   "n": 2975,
+   "gan": 11481.69,
    "nNeta": 1022,
    "neta": 3653.43
   },
   {
    "s": 2,
-   "n": 1321,
-   "gan": 5480.21,
+   "n": 1331,
+   "gan": 5486.28,
    "nNeta": 407,
    "neta": 1716.45
   },
   {
    "s": 5,
-   "n": 710,
-   "gan": 2844.73,
+   "n": 720,
+   "gan": 2850.81,
    "nNeta": 156,
    "neta": 427.73
   },
   {
    "s": 30,
-   "n": 220,
-   "gan": 574.49,
+   "n": 222,
+   "gan": 575.93,
    "nNeta": 40,
    "neta": 82.7
   }
  ],
- "rentables": 1958,
+ "rentables": 1959,
  "porCapital": [
   {
    "capital": 500,
    "ops": 26,
    "descartadas": 127,
    "neta": 89.69,
-   "dias": 3.21,
-   "semana": 195.59
+   "dias": 3.24,
+   "semana": 193.49
   },
   {
    "capital": 1000,
    "ops": 40,
    "descartadas": 127,
    "neta": 114.95,
-   "dias": 3.21,
-   "semana": 250.67
+   "dias": 3.24,
+   "semana": 247.97
   },
   {
    "capital": 2000,
    "ops": 53,
    "descartadas": 127,
    "neta": 175.58,
-   "dias": 3.21,
-   "semana": 382.88
+   "dias": 3.24,
+   "semana": 378.76
   }
  ],
  "maxBloqueoH": 24,
@@ -101,9 +101,9 @@
   {
    "lunes": "2026-11-09",
    "dias": 3,
-   "horas": 48.3,
-   "episodios": 663,
-   "sospechosas": 11,
+   "horas": 49.2,
+   "episodios": 686,
+   "sospechosas": 12,
    "realistaNeta": 22.92,
    "capital": {
     "500": 12.64,
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 111,
+  "n": 112,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2274,
-  "n": 747,
-  "gan": 2663.68,
+  "conDato": 2296,
+  "n": 760,
+  "gan": 2672.2,
   "nNeta": 236,
   "neta": 760.47
  },
@@ -232,32 +232,32 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1372
+   "n": 1380
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2312
+   "n": 2315
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1364
+   "n": 1366
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 490
+   "n": 498
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 153
+   "n": 154
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 67
+   "n": 68
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794099600000,
-   "n": 46
-  },
   {
    "h": 1794103200000,
    "n": 78
@@ -619,129 +615,133 @@
   },
   {
    "h": 1794376800000,
-   "n": 3
+   "n": 21
+  },
+  {
+   "h": 1794380400000,
+   "n": 5
   }
  ],
  "recientes": [
   {
-   "inicio": 1794378514889,
-   "titulo": "Elon Musk # tweets November 9 - November 11, 2026?",
-   "dur": 0.027,
-   "gan": 0.58,
+   "inicio": 1794380555833,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 2557.945,
+   "gan": 0.86,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794378191354,
-   "titulo": "Elon Musk # tweets November 9 - November 11, 2026?",
-   "dur": 5.146,
-   "gan": 0.76,
+   "inicio": 1794383090899,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.406,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794383047487,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.616,
+   "gan": 1.4,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794380555711,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 0.014,
+   "gan": 0.86,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794378143358,
-   "titulo": "Elon Musk # tweets November 9 - November 11, 2026?",
-   "dur": 0.454,
-   "gan": 0.6,
+   "inicio": 1794380377341,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 58.559,
+   "gan": 0.57,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794374726828,
-   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 0.932,
+   "inicio": 1794380402798,
+   "titulo": "Highest temperature in Wuhan on November 11?",
+   "dur": 0.016,
+   "gan": 0.98,
+   "neta": 0.87,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794380367135,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 10.188,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794380367042,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 0.061,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794380366989,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 0.033,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794380366934,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 0.029,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794380366874,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 0.036,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794380359996,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 6.858,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794380335507,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 24.425,
    "gan": 0.59,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794371830742,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 0.475,
-   "gan": 0.71,
+   "inicio": 1794380328881,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 6.606,
+   "gan": 0.59,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794371828738,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 0.838,
-   "gan": 0.71,
+   "inicio": 1794380305438,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 23.396,
+   "gan": 0.59,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794371826951,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 0.782,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794371824742,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 0.835,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794371823175,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 0.58,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794371820745,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 0.843,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794371818758,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 0.818,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794371816746,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 0.834,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794371813754,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 0.825,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794371811760,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 0.883,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794371809755,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 0.818,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "no"
+   "lado": "si"
   }
  ]
 }
