@@ -1,84 +1,84 @@
 {
- "actualizado": 1794436965492,
+ "actualizado": 1794439982272,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794433965242,
-  "fin": 1794436965492,
-  "mensajes": 6623801,
-  "reconexiones": 1,
-  "eventos": 579,
+  "inicio": 1794436981996,
+  "fin": 1794439982272,
+  "mensajes": 7622087,
+  "reconexiones": 0,
+  "eventos": 570,
   "errores": [],
-  "nuevos": 12,
-  "nuevosRentables": 12,
-  "nuevosNeta": 0.36
+  "nuevos": 1,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.05
  },
- "total": 6006,
- "falsos": 2425,
+ "total": 6008,
+ "falsos": 2430,
  "largos": {
-  "episodios": 10564,
-  "eventos": 153,
+  "episodios": 10685,
+  "eventos": 155,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9794,
-  "eventos": 37
+  "episodios": 9921,
+  "eventos": 38
  },
  "mediana": 0.589,
  "captura": [
   {
    "s": 0.5,
-   "n": 3174,
-   "gan": 11629.06,
-   "nNeta": 1049,
-   "neta": 3659.29
+   "n": 3176,
+   "gan": 11630.62,
+   "nNeta": 1051,
+   "neta": 3659.37
   },
   {
    "s": 2,
-   "n": 1515,
-   "gan": 5620.21,
-   "nNeta": 429,
-   "neta": 1718.91
+   "n": 1517,
+   "gan": 5621.77,
+   "nNeta": 431,
+   "neta": 1718.99
   },
   {
    "s": 5,
-   "n": 897,
-   "gan": 2977.69,
-   "nNeta": 175,
-   "neta": 429.07
+   "n": 899,
+   "gan": 2979.25,
+   "nNeta": 177,
+   "neta": 429.15
   },
   {
    "s": 30,
-   "n": 381,
-   "gan": 685.86,
-   "nNeta": 57,
-   "neta": 83.28
+   "n": 383,
+   "gan": 687.42,
+   "nNeta": 59,
+   "neta": 83.36
   }
  ],
- "rentables": 1991,
+ "rentables": 1993,
  "porCapital": [
   {
    "capital": 500,
    "ops": 26,
-   "descartadas": 149,
+   "descartadas": 151,
    "neta": 89.69,
-   "dias": 3.87,
-   "semana": 162.31
+   "dias": 3.9,
+   "semana": 160.86
   },
   {
    "capital": 1000,
    "ops": 40,
-   "descartadas": 149,
+   "descartadas": 151,
    "neta": 114.95,
-   "dias": 3.87,
-   "semana": 208.02
+   "dias": 3.9,
+   "semana": 206.16
   },
   {
    "capital": 2000,
    "ops": 53,
-   "descartadas": 149,
+   "descartadas": 151,
    "neta": 175.58,
-   "dias": 3.87,
-   "semana": 317.73
+   "dias": 3.9,
+   "semana": 314.89
   }
  ],
  "maxBloqueoH": 24,
@@ -101,10 +101,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 3,
-   "horas": 62.5,
-   "episodios": 905,
+   "horas": 63.3,
+   "episodios": 907,
    "sospechosas": 13,
-   "realistaNeta": 25.42,
+   "realistaNeta": 25.5,
    "capital": {
     "500": 12.64,
     "1000": 12.64,
@@ -222,11 +222,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2514,
-  "n": 952,
-  "gan": 2810.94,
-  "nNeta": 258,
-  "neta": 762.97
+  "conDato": 2516,
+  "n": 954,
+  "gan": 2812.5,
+  "nNeta": 260,
+  "neta": 763.05
  },
  "duraciones": [
   {
@@ -252,7 +252,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 306
+   "n": 308
   },
   {
    "et": "> 5 min",
@@ -270,10 +270,10 @@
   },
   {
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "n": 222,
-   "gan": 148.19,
-   "neta": 2.61,
-   "mediana": 188.011
+   "n": 224,
+   "gan": 149.75,
+   "neta": 2.69,
+   "mediana": 180.232
   },
   {
    "titulo": "Manchester United FC vs. Aston Villa FC",
@@ -619,10 +619,26 @@
   },
   {
    "h": 1794434400000,
-   "n": 10
+   "n": 12
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794437030438,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 95.106,
+   "gan": 0.79,
+   "neta": 0.05,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794436980296,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 50.088,
+   "gan": 0.77,
+   "neta": 0.03,
+   "lado": "si"
+  },
   {
    "inicio": 1794436739461,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
@@ -725,22 +741,6 @@
    "dur": 157.614,
    "gan": 0.77,
    "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794428279289,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 58.786,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794428039063,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 240.12,
-   "gan": 0.71,
-   "neta": 0,
    "lado": "si"
   }
  ]
