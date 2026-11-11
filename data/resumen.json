@@ -1,27 +1,27 @@
 {
- "actualizado": 1794352982382,
+ "actualizado": 1794355995653,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794349982134,
-  "fin": 1794352982382,
-  "mensajes": 7112109,
+  "inicio": 1794352995398,
+  "fin": 1794355995653,
+  "mensajes": 6959371,
   "reconexiones": 0,
-  "eventos": 568,
+  "eventos": 560,
   "errores": [],
-  "nuevos": 4,
+  "nuevos": 1,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5638,
- "falsos": 2353,
+ "total": 5639,
+ "falsos": 2354,
  "largos": {
-  "episodios": 9379,
-  "eventos": 140,
+  "episodios": 9390,
+  "eventos": 141,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9754,
-  "eventos": 34
+  "episodios": 9755,
+  "eventos": 35
  },
  "mediana": 0.514,
  "captura": [
@@ -54,31 +54,31 @@
    "neta": 81.77
   }
  ],
- "rentables": 1952,
+ "rentables": 1953,
  "porCapital": [
   {
    "capital": 500,
    "ops": 26,
    "descartadas": 124,
    "neta": 89.69,
-   "dias": 2.9,
-   "semana": 216.79
+   "dias": 2.93,
+   "semana": 214.21
   },
   {
    "capital": 1000,
    "ops": 40,
    "descartadas": 124,
    "neta": 114.95,
-   "dias": 2.9,
-   "semana": 277.83
+   "dias": 2.93,
+   "semana": 274.53
   },
   {
    "capital": 2000,
    "ops": 53,
    "descartadas": 124,
    "neta": 175.58,
-   "dias": 2.9,
-   "semana": 424.37
+   "dias": 2.93,
+   "semana": 419.32
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 2,
-   "horas": 40.8,
-   "episodios": 537,
+   "horas": 41.7,
+   "episodios": 538,
    "sospechosas": 11,
    "realistaNeta": 21.5,
    "capital": {
@@ -222,7 +222,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2148,
+  "conDato": 2149,
   "n": 641,
   "gan": 2595.54,
   "nNeta": 233,
@@ -237,7 +237,7 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2210
+   "n": 2211
   },
   {
    "et": "1–5 s",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794074400000,
-   "n": 103
-  },
   {
    "h": 1794078000000,
    "n": 89
@@ -620,9 +616,21 @@
   {
    "h": 1794348000000,
    "n": 6
+  },
+  {
+   "h": 1794351600000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794353328669,
+   "titulo": "Highest temperature in Wellington on November 12?",
+   "dur": 0.35,
+   "gan": 0.54,
+   "neta": 0.07,
+   "lado": "si"
+  },
   {
    "inicio": 1794351453041,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
@@ -732,14 +740,6 @@
    "titulo": "Paris Saint-Germain FC vs. FC Bayern München",
    "dur": 0.059,
    "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794342785250,
-   "titulo": "FC Internazionale Milano vs. Manchester City WFC",
-   "dur": 0.575,
-   "gan": 0.61,
    "neta": 0,
    "lado": "no"
   }
