@@ -1,48 +1,48 @@
 {
- "actualizado": 1794377085625,
+ "actualizado": 1794380098511,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794374085425,
-  "fin": 1794377085625,
-  "mensajes": 7667151,
+  "inicio": 1794377098305,
+  "fin": 1794380098511,
+  "mensajes": 7372435,
   "reconexiones": 0,
-  "eventos": 568,
+  "eventos": 577,
   "errores": [],
-  "nuevos": 1,
+  "nuevos": 3,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5761,
- "falsos": 2368,
+ "total": 5764,
+ "falsos": 2372,
  "largos": {
-  "episodios": 9720,
+  "episodios": 9762,
   "eventos": 148,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9762,
+  "episodios": 9777,
   "eventos": 35
  },
  "mediana": 0.536,
  "captura": [
   {
    "s": 0.5,
-   "n": 2961,
-   "gan": 11472.41,
+   "n": 2962,
+   "gan": 11473.17,
    "nNeta": 1022,
    "neta": 3653.43
   },
   {
    "s": 2,
-   "n": 1320,
-   "gan": 5479.45,
+   "n": 1321,
+   "gan": 5480.21,
    "nNeta": 407,
    "neta": 1716.45
   },
   {
    "s": 5,
-   "n": 709,
-   "gan": 2843.98,
+   "n": 710,
+   "gan": 2844.73,
    "nNeta": 156,
    "neta": 427.73
   },
@@ -61,24 +61,24 @@
    "ops": 26,
    "descartadas": 127,
    "neta": 89.69,
-   "dias": 3.18,
-   "semana": 197.74
+   "dias": 3.21,
+   "semana": 195.59
   },
   {
    "capital": 1000,
    "ops": 40,
    "descartadas": 127,
    "neta": 114.95,
-   "dias": 3.18,
-   "semana": 253.42
+   "dias": 3.21,
+   "semana": 250.67
   },
   {
    "capital": 2000,
    "ops": 53,
    "descartadas": 127,
    "neta": 175.58,
-   "dias": 3.18,
-   "semana": 387.08
+   "dias": 3.21,
+   "semana": 382.88
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 3,
-   "horas": 47.5,
-   "episodios": 660,
+   "horas": 48.3,
+   "episodios": 663,
    "sospechosas": 11,
    "realistaNeta": 22.92,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2271,
-  "n": 746,
-  "gan": 2662.92,
+  "conDato": 2274,
+  "n": 747,
+  "gan": 2663.68,
   "nNeta": 236,
   "neta": 760.47
  },
@@ -232,12 +232,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1371
+   "n": 1372
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2311
+   "n": 2312
   },
   {
    "et": "1–5 s",
@@ -247,7 +247,7 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 489
+   "n": 490
   },
   {
    "et": "30 s–5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794096000000,
-   "n": 45
-  },
   {
    "h": 1794099600000,
    "n": 46
@@ -620,9 +616,37 @@
   {
    "h": 1794373200000,
    "n": 1
+  },
+  {
+   "h": 1794376800000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794378514889,
+   "titulo": "Elon Musk # tweets November 9 - November 11, 2026?",
+   "dur": 0.027,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794378191354,
+   "titulo": "Elon Musk # tweets November 9 - November 11, 2026?",
+   "dur": 5.146,
+   "gan": 0.76,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794378143358,
+   "titulo": "Elon Musk # tweets November 9 - November 11, 2026?",
+   "dur": 0.454,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794374726828,
    "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
@@ -715,30 +739,6 @@
    "inicio": 1794371809755,
    "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
    "dur": 0.818,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794371807742,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 0.838,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794371805921,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 0.978,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794371804070,
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "dur": 0.507,
    "gan": 0.71,
    "neta": 0,
    "lado": "no"
