@@ -1,21 +1,21 @@
 {
- "actualizado": 1794362020494,
+ "actualizado": 1794365034266,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794359020260,
-  "fin": 1794362020495,
-  "mensajes": 6811777,
+  "inicio": 1794362034060,
+  "fin": 1794365034266,
+  "mensajes": 7015320,
   "reconexiones": 0,
-  "eventos": 569,
+  "eventos": 573,
   "errores": [],
-  "nuevos": 3,
-  "nuevosRentables": 3,
-  "nuevosNeta": 1.42
+  "nuevos": 10,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5642,
- "falsos": 2364,
+ "total": 5652,
+ "falsos": 2365,
  "largos": {
-  "episodios": 9449,
+  "episodios": 9478,
   "eventos": 144,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 9755,
   "eventos": 35
  },
- "mediana": 0.514,
+ "mediana": 0.516,
  "captura": [
   {
    "s": 0.5,
-   "n": 2858,
-   "gan": 11408.15,
+   "n": 2865,
+   "gan": 11412.29,
    "nNeta": 1022,
    "neta": 3653.43
   },
   {
    "s": 2,
-   "n": 1312,
-   "gan": 5474.61,
+   "n": 1318,
+   "gan": 5478.33,
    "nNeta": 407,
    "neta": 1716.45
   },
   {
    "s": 5,
-   "n": 702,
-   "gan": 2839.84,
+   "n": 707,
+   "gan": 2842.86,
    "nNeta": 156,
    "neta": 427.73
   },
   {
    "s": 30,
-   "n": 213,
-   "gan": 570.35,
+   "n": 218,
+   "gan": 573.37,
    "nNeta": 40,
    "neta": 82.7
   }
  ],
- "rentables": 1956,
+ "rentables": 1958,
  "porCapital": [
   {
    "capital": 500,
    "ops": 26,
    "descartadas": 127,
    "neta": 89.69,
-   "dias": 3,
-   "semana": 209.23
+   "dias": 3.04,
+   "semana": 206.83
   },
   {
    "capital": 1000,
    "ops": 40,
    "descartadas": 127,
    "neta": 114.95,
-   "dias": 3,
-   "semana": 268.15
+   "dias": 3.04,
+   "semana": 265.07
   },
   {
    "capital": 2000,
    "ops": 53,
    "descartadas": 127,
    "neta": 175.58,
-   "dias": 3,
-   "semana": 409.58
+   "dias": 3.04,
+   "semana": 404.87
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 2,
-   "horas": 43.3,
-   "episodios": 541,
+   "horas": 44.2,
+   "episodios": 551,
    "sospechosas": 11,
    "realistaNeta": 22.92,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2152,
-  "n": 644,
-  "gan": 2599.25,
+  "conDato": 2162,
+  "n": 651,
+  "gan": 2603.39,
   "nNeta": 236,
   "neta": 760.47
  },
@@ -232,17 +232,17 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1369
+   "n": 1370
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2211
+   "n": 2213
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1354
+   "n": 1356
   },
   {
    "et": "5–30 s",
@@ -252,7 +252,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 146
+   "n": 151
   },
   {
    "et": "> 5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794081600000,
-   "n": 98
-  },
   {
    "h": 1794085200000,
    "n": 136
@@ -620,9 +616,93 @@
   {
    "h": 1794358800000,
    "n": 3
+  },
+  {
+   "h": 1794362400000,
+   "n": 10
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794364887073,
+   "titulo": "Donald Trump # Truth Social posts November 10 - November 17, 2026?",
+   "dur": 0.302,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794364014635,
+   "titulo": "Elon Musk # tweets November 9 - November 11, 2026?",
+   "dur": 3.985,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794363199633,
+   "titulo": "Donald Trump # Truth Social posts November 10 - November 17, 2026?",
+   "dur": 141.238,
+   "gan": 0.64,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794363146492,
+   "titulo": "Donald Trump # Truth Social posts November 10 - November 17, 2026?",
+   "dur": 53.097,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794363080686,
+   "titulo": "Donald Trump # Truth Social posts November 10 - November 17, 2026?",
+   "dur": 64.418,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794363021370,
+   "titulo": "Donald Trump # Truth Social posts November 10 - November 17, 2026?",
+   "dur": 41.799,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794363019357,
+   "titulo": "Donald Trump # Truth Social posts November 10 - November 17, 2026?",
+   "dur": 1.715,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794362960306,
+   "titulo": "Donald Trump # Truth Social posts November 10 - November 17, 2026?",
+   "dur": 46.441,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794362930253,
+   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
+   "dur": 0.253,
+   "gan": 0.53,
+   "neta": 0.1,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794362930062,
+   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
+   "dur": 0.08,
+   "gan": 13.14,
+   "neta": 0.52,
+   "lado": "no"
+  },
   {
    "inicio": 1794360029544,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
@@ -662,86 +742,6 @@
    "gan": 1.4,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794350967886,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 485.109,
-   "gan": 1.69,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794350491188,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 476.64,
-   "gan": 0.82,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794350056373,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 434.761,
-   "gan": 1.19,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794349967866,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 88.442,
-   "gan": 0.8,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794349726676,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 241.397,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794347990889,
-   "titulo": "Envigado FC vs. Boca Juniors de Cali",
-   "dur": 1.036,
-   "gan": 0.89,
-   "neta": 0.43,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794347848987,
-   "titulo": "Paris Saint-Germain FC vs. FC Bayern München",
-   "dur": 0.414,
-   "gan": 1.45,
-   "neta": 1.36,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794346989343,
-   "titulo": "AS Roma vs. Servette FC Chênois Féminin",
-   "dur": 0.593,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794343493864,
-   "titulo": "FC Internazionale Milano vs. Manchester City WFC",
-   "dur": 0.509,
-   "gan": 0.81,
-   "neta": 0.1,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794343422850,
-   "titulo": "Paris Saint-Germain FC vs. FC Bayern München",
-   "dur": 1.01,
-   "gan": 1.49,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
