@@ -1,21 +1,21 @@
 {
- "actualizado": 1794398187567,
+ "actualizado": 1794401202862,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794395187300,
-  "fin": 1794398187567,
-  "mensajes": 7647003,
-  "reconexiones": 15,
-  "eventos": 599,
+  "inicio": 1794398202526,
+  "fin": 1794401202862,
+  "mensajes": 7255998,
+  "reconexiones": 0,
+  "eventos": 594,
   "errores": [],
-  "nuevos": 1,
+  "nuevos": 2,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5811,
+ "total": 5813,
  "falsos": 2385,
  "largos": {
-  "episodios": 9978,
+  "episodios": 10047,
   "eventos": 149,
   "dias": 7
  },
@@ -27,8 +27,8 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2994,
-   "gan": 11504.36,
+   "n": 2995,
+   "gan": 11505.58,
    "nNeta": 1032,
    "neta": 3656.49
   },
@@ -61,24 +61,24 @@
    "ops": 26,
    "descartadas": 135,
    "neta": 89.69,
-   "dias": 3.42,
-   "semana": 183.62
+   "dias": 3.45,
+   "semana": 181.76
   },
   {
    "capital": 1000,
    "ops": 40,
    "descartadas": 135,
    "neta": 114.95,
-   "dias": 3.42,
-   "semana": 235.32
+   "dias": 3.45,
+   "semana": 232.94
   },
   {
    "capital": 2000,
    "ops": 53,
    "descartadas": 135,
    "neta": 175.58,
-   "dias": 3.42,
-   "semana": 359.44
+   "dias": 3.45,
+   "semana": 355.8
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 3,
-   "horas": 53.3,
-   "episodios": 710,
+   "horas": 54.2,
+   "episodios": 712,
    "sospechosas": 12,
    "realistaNeta": 24.99,
    "capital": {
@@ -222,7 +222,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2320,
+  "conDato": 2322,
   "n": 776,
   "gan": 2692.62,
   "nNeta": 244,
@@ -237,7 +237,7 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2319
+   "n": 2321
   },
   {
    "et": "1–5 s",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794117600000,
-   "n": 20
-  },
   {
    "h": 1794121200000,
    "n": 13
@@ -620,9 +616,29 @@
   {
    "h": 1794394800000,
    "n": 2
+  },
+  {
+   "h": 1794398400000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794399217724,
+   "titulo": "Highest temperature in Warsaw on November 13?",
+   "dur": 0.474,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794398455838,
+   "titulo": "Juventus FC vs. OL Lyonnes",
+   "dur": 0.593,
+   "gan": 1.22,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794395177496,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
@@ -725,22 +741,6 @@
    "dur": 4.727,
    "gan": 0.65,
    "neta": 0.12,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794385908744,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 0.976,
-   "gan": 1.1,
-   "neta": 0.2,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794385902718,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 5.97,
-   "gan": 1.96,
-   "neta": 0.36,
    "lado": "no"
   }
  ]
