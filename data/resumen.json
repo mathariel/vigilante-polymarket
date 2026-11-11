@@ -1,21 +1,21 @@
 {
- "actualizado": 1794383114036,
+ "actualizado": 1794386129648,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794380113775,
-  "fin": 1794383114036,
-  "mensajes": 7266264,
-  "reconexiones": 0,
-  "eventos": 566,
+  "inicio": 1794383129390,
+  "fin": 1794386129648,
+  "mensajes": 7315418,
+  "reconexiones": 1,
+  "eventos": 576,
   "errores": [],
-  "nuevos": 23,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 12,
+  "nuevosRentables": 5,
+  "nuevosNeta": 1.92
  },
- "total": 5787,
- "falsos": 2376,
+ "total": 5801,
+ "falsos": 2379,
  "largos": {
-  "episodios": 9809,
+  "episodios": 9834,
   "eventos": 148,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 9777,
   "eventos": 35
  },
- "mediana": 0.536,
+ "mediana": 0.539,
  "captura": [
   {
    "s": 0.5,
-   "n": 2975,
-   "gan": 11481.69,
-   "nNeta": 1022,
-   "neta": 3653.43
+   "n": 2987,
+   "gan": 11496.38,
+   "nNeta": 1029,
+   "neta": 3656.34
   },
   {
    "s": 2,
-   "n": 1331,
-   "gan": 5486.28,
-   "nNeta": 407,
-   "neta": 1716.45
+   "n": 1340,
+   "gan": 5498.9,
+   "nNeta": 412,
+   "neta": 1718.33
   },
   {
    "s": 5,
-   "n": 720,
-   "gan": 2850.81,
-   "nNeta": 156,
-   "neta": 427.73
+   "n": 726,
+   "gan": 2858.41,
+   "nNeta": 158,
+   "neta": 428.49
   },
   {
    "s": 30,
-   "n": 222,
-   "gan": 575.93,
+   "n": 225,
+   "gan": 578.15,
    "nNeta": 40,
    "neta": 82.7
   }
  ],
- "rentables": 1959,
+ "rentables": 1967,
  "porCapital": [
   {
    "capital": 500,
    "ops": 26,
-   "descartadas": 127,
+   "descartadas": 132,
    "neta": 89.69,
-   "dias": 3.24,
-   "semana": 193.49
+   "dias": 3.28,
+   "semana": 191.43
   },
   {
    "capital": 1000,
    "ops": 40,
-   "descartadas": 127,
+   "descartadas": 132,
    "neta": 114.95,
-   "dias": 3.24,
-   "semana": 247.97
+   "dias": 3.28,
+   "semana": 245.33
   },
   {
    "capital": 2000,
    "ops": 53,
-   "descartadas": 127,
+   "descartadas": 132,
    "neta": 175.58,
-   "dias": 3.24,
-   "semana": 378.76
+   "dias": 3.28,
+   "semana": 374.73
   }
  ],
  "maxBloqueoH": 24,
@@ -101,10 +101,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 3,
-   "horas": 49.2,
-   "episodios": 686,
+   "horas": 50,
+   "episodios": 700,
    "sospechosas": 12,
-   "realistaNeta": 22.92,
+   "realistaNeta": 24.84,
    "capital": {
     "500": 12.64,
     "1000": 12.64,
@@ -222,42 +222,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2296,
-  "n": 760,
-  "gan": 2672.2,
-  "nNeta": 236,
-  "neta": 760.47
+  "conDato": 2310,
+  "n": 770,
+  "gan": 2685.64,
+  "nNeta": 241,
+  "neta": 762.39
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1380
+   "n": 1382
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2315
+   "n": 2318
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1366
+   "n": 1369
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 498
+   "n": 501
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 154
+   "n": 156
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 68
+   "n": 69
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794103200000,
-   "n": 78
-  },
   {
    "h": 1794106800000,
    "n": 34
@@ -619,127 +615,131 @@
   },
   {
    "h": 1794380400000,
-   "n": 5
+   "n": 9
+  },
+  {
+   "h": 1794384000000,
+   "n": 10
   }
  ],
  "recientes": [
   {
-   "inicio": 1794380555833,
+   "inicio": 1794383127578,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 2557.945,
-   "gan": 0.86,
+   "dur": 3001.814,
+   "gan": 1.14,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794383090899,
+   "inicio": 1794386124816,
+   "titulo": "Elon Musk # tweets November 9 - November 11, 2026?",
+   "dur": 0.019,
+   "gan": 1.38,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794385910946,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 4.727,
+   "gan": 0.65,
+   "neta": 0.12,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794385908744,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 0.976,
+   "gan": 1.1,
+   "neta": 0.2,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794385902718,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 5.97,
+   "gan": 1.96,
+   "neta": 0.36,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794385900950,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 0.512,
+   "gan": 0.52,
+   "neta": 0.03,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794385898154,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 2.544,
+   "gan": 1.55,
+   "neta": 0.37,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794385857896,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 4.058,
+   "gan": 2.11,
+   "neta": 0.47,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794385725099,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 7.432,
+   "gan": 1.21,
+   "neta": 0.13,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794384237483,
    "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.406,
+   "dur": 0.973,
+   "gan": 0.71,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794384236805,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.017,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794383213234,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 59.56,
+   "gan": 0.82,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794383162415,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 49.356,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794383118765,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 15.194,
    "gan": 0.54,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794383047487,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.616,
-   "gan": 1.4,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794380555711,
+   "inicio": 1794380555833,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 0.014,
+   "dur": 2557.945,
    "gan": 0.86,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794380377341,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 58.559,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794380402798,
-   "titulo": "Highest temperature in Wuhan on November 11?",
-   "dur": 0.016,
-   "gan": 0.98,
-   "neta": 0.87,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794380367135,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 10.188,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794380367042,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 0.061,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794380366989,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 0.033,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794380366934,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 0.029,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794380366874,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 0.036,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794380359996,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 6.858,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794380335507,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 24.425,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794380328881,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 6.606,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794380305438,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 23.396,
-   "gan": 0.59,
    "neta": 0,
    "lado": "si"
   }
