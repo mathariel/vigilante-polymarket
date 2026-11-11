@@ -1,21 +1,21 @@
 {
- "actualizado": 1794416277122,
+ "actualizado": 1794419290847,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794413276853,
-  "fin": 1794416277122,
-  "mensajes": 8253759,
+  "inicio": 1794416290603,
+  "fin": 1794419290847,
+  "mensajes": 7019935,
   "reconexiones": 0,
-  "eventos": 587,
+  "eventos": 598,
   "errores": [],
-  "nuevos": 16,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 21,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.04
  },
- "total": 5911,
- "falsos": 2395,
+ "total": 5932,
+ "falsos": 2415,
  "largos": {
-  "episodios": 10370,
+  "episodios": 10435,
   "eventos": 153,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 9785,
   "eventos": 35
  },
- "mediana": 0.569,
+ "mediana": 0.575,
  "captura": [
   {
    "s": 0.5,
-   "n": 3089,
-   "gan": 11564.5,
-   "nNeta": 1032,
-   "neta": 3656.49
+   "n": 3108,
+   "gan": 11582.55,
+   "nNeta": 1035,
+   "neta": 3658.39
   },
   {
    "s": 2,
-   "n": 1435,
-   "gan": 5562.13,
-   "nNeta": 415,
-   "neta": 1718.48
+   "n": 1451,
+   "gan": 5575.7,
+   "nNeta": 416,
+   "neta": 1718.52
   },
   {
    "s": 5,
-   "n": 819,
-   "gan": 2920.78,
-   "nNeta": 161,
-   "neta": 428.64
+   "n": 834,
+   "gan": 2933.83,
+   "nNeta": 162,
+   "neta": 428.68
   },
   {
    "s": 30,
-   "n": 307,
-   "gan": 633.83,
-   "nNeta": 43,
-   "neta": 82.85
+   "n": 322,
+   "gan": 646.88,
+   "nNeta": 44,
+   "neta": 82.89
   }
  ],
- "rentables": 1971,
+ "rentables": 1975,
  "porCapital": [
   {
    "capital": 500,
    "ops": 26,
-   "descartadas": 135,
+   "descartadas": 136,
    "neta": 89.69,
-   "dias": 3.63,
-   "semana": 173.02
+   "dias": 3.66,
+   "semana": 171.38
   },
   {
    "capital": 1000,
    "ops": 40,
-   "descartadas": 135,
+   "descartadas": 136,
    "neta": 114.95,
-   "dias": 3.63,
-   "semana": 221.74
+   "dias": 3.66,
+   "semana": 219.63
   },
   {
    "capital": 2000,
    "ops": 53,
-   "descartadas": 135,
+   "descartadas": 136,
    "neta": 175.58,
-   "dias": 3.63,
-   "semana": 338.7
+   "dias": 3.66,
+   "semana": 335.47
   }
  ],
  "maxBloqueoH": 24,
@@ -101,10 +101,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 3,
-   "horas": 58.3,
-   "episodios": 810,
-   "sospechosas": 12,
-   "realistaNeta": 24.99,
+   "horas": 59.2,
+   "episodios": 831,
+   "sospechosas": 13,
+   "realistaNeta": 25.03,
    "capital": {
     "500": 12.64,
     "1000": 12.64,
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 112,
+  "n": 113,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,11 +222,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2420,
-  "n": 870,
-  "gan": 2751.54,
-  "nNeta": 244,
-  "neta": 762.54
+  "conDato": 2440,
+  "n": 887,
+  "gan": 2765.78,
+  "nNeta": 245,
+  "neta": 762.58
  },
  "duraciones": [
   {
@@ -237,12 +237,12 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2323
+   "n": 2327
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1375
+   "n": 1377
   },
   {
    "et": "5–30 s",
@@ -252,12 +252,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 233
+   "n": 247
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 74
+   "n": 75
   }
  ],
  "porEvento": [
@@ -267,6 +267,13 @@
    "gan": 781.01,
    "neta": 271.05,
    "mediana": 2.599
+  },
+  {
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "n": 161,
+   "gan": 107.92,
+   "neta": 2.22,
+   "mediana": 99.688
   },
   {
    "titulo": "Manchester United FC vs. Aston Villa FC",
@@ -281,13 +288,6 @@
    "gan": 96.25,
    "neta": 0,
    "mediana": 0.831
-  },
-  {
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "n": 146,
-   "gan": 98.33,
-   "neta": 2.22,
-   "mediana": 82.258
   },
   {
    "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794135600000,
-   "n": 192
-  },
   {
    "h": 1794139200000,
    "n": 107
@@ -619,128 +615,132 @@
   },
   {
    "h": 1794412800000,
-   "n": 23
+   "n": 24
+  },
+  {
+   "h": 1794416400000,
+   "n": 20
   }
  ],
  "recientes": [
   {
-   "inicio": 1794416264032,
+   "inicio": 1794419149142,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 12.825,
+   "dur": 141.464,
    "gan": 0.65,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794416023594,
+   "inicio": 1794418908808,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 240.294,
-   "gan": 0.76,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794415783171,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 240.284,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794415543025,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 239.999,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794415302975,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 239.902,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794415062649,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 240.192,
+   "dur": 240.195,
    "gan": 0.65,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794414822456,
+   "inicio": 1794418668382,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 240.059,
+   "dur": 240.303,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794418428273,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 239.974,
    "gan": 0.67,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794414601433,
+   "inicio": 1794418187845,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 220.903,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794414582028,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 19.354,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794414341601,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 240.297,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794414101392,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 240.055,
+   "dur": 240.291,
    "gan": 0.67,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794413967098,
+   "inicio": 1794417947494,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 134.168,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794413861292,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 104.368,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794413620957,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 240.202,
+   "dur": 240.22,
    "gan": 0.65,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794413380800,
+   "inicio": 1794417707204,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 240.033,
-   "gan": 0.66,
+   "dur": 240.16,
+   "gan": 0.69,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794417467077,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 239.998,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794417495376,
+   "titulo": "Lowest temperature in Shanghai on November 12?",
+   "dur": 1.358,
+   "gan": 2.06,
+   "neta": 1.63,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794417465352,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 0.868,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794417225079,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 240.135,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794417045127,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 179.835,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794416985000,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 60.089,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794417033669,
+   "titulo": "Broendby IF vs. Rosenborg BK Kvinner",
+   "dur": 0.76,
+   "gan": 0.8,
+   "neta": 0.18,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794417033486,
+   "titulo": "Broendby IF vs. Rosenborg BK Kvinner",
+   "dur": 0.179,
+   "gan": 2,
+   "neta": 0.45,
    "lado": "si"
   }
  ]
