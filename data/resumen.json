@@ -1,84 +1,84 @@
 {
- "actualizado": 1794503393922,
- "inicio": 1793798179711,
+ "actualizado": 1794506410748,
+ "inicio": 1793804195513,
  "ejecucion": {
-  "inicio": 1794500393617,
-  "fin": 1794503393922,
-  "mensajes": 9833042,
+  "inicio": 1794503410442,
+  "fin": 1794506410748,
+  "mensajes": 9927999,
   "reconexiones": 0,
-  "eventos": 581,
+  "eventos": 587,
   "errores": [],
-  "nuevos": 46,
+  "nuevos": 24,
   "nuevosRentables": 1,
-  "nuevosNeta": 0.07
+  "nuevosNeta": 0.25
  },
- "total": 6294,
- "falsos": 2469,
+ "total": 6316,
+ "falsos": 2472,
  "largos": {
-  "episodios": 11393,
-  "eventos": 151,
+  "episodios": 11381,
+  "eventos": 150,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9916,
+  "episodios": 9912,
   "eventos": 39
  },
- "mediana": 0.573,
+ "mediana": 0.575,
  "captura": [
   {
    "s": 0.5,
-   "n": 3287,
-   "gan": 11865.87,
-   "nNeta": 1060,
-   "neta": 3728.01
+   "n": 3303,
+   "gan": 11922.45,
+   "nNeta": 1062,
+   "neta": 3728.48
   },
   {
    "s": 2,
-   "n": 1596,
-   "gan": 5729.86,
-   "nNeta": 434,
-   "neta": 1743.81
+   "n": 1608,
+   "gan": 5780.5,
+   "nNeta": 435,
+   "neta": 1744.47
   },
   {
    "s": 5,
-   "n": 968,
-   "gan": 3041.98,
+   "n": 976,
+   "gan": 3083.32,
    "nNeta": 175,
    "neta": 429.23
   },
   {
    "s": 30,
-   "n": 430,
-   "gan": 732.28,
+   "n": 435,
+   "gan": 767,
    "nNeta": 60,
    "neta": 83.39
   }
  ],
- "rentables": 2012,
+ "rentables": 2014,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 28,
+   "ops": 29,
    "descartadas": 154,
-   "neta": 98.29,
-   "dias": 4.64,
-   "semana": 148.38
+   "neta": 98.54,
+   "dias": 4.67,
+   "semana": 147.64
   },
   {
    "capital": 1000,
-   "ops": 43,
+   "ops": 44,
    "descartadas": 154,
-   "neta": 134.42,
-   "dias": 4.64,
-   "semana": 202.92
+   "neta": 134.67,
+   "dias": 4.67,
+   "semana": 201.78
   },
   {
    "capital": 2000,
-   "ops": 56,
+   "ops": 57,
    "descartadas": 154,
-   "neta": 195.05,
-   "dias": 4.64,
-   "semana": 294.44
+   "neta": 195.3,
+   "dias": 4.67,
+   "semana": 292.61
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 4,
-   "horas": 80,
-   "episodios": 1243,
+   "horas": 80.8,
+   "episodios": 1268,
    "sospechosas": 21,
-   "realistaNeta": 47.88,
+   "realistaNeta": 48.13,
    "capital": {
-    "500": 21.24,
-    "1000": 32.11,
-    "2000": 32.11
+    "500": 21.49,
+    "1000": 32.36,
+    "2000": 32.36
    },
    "cumple": true
   }
@@ -222,42 +222,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2844,
-  "n": 1065,
-  "gan": 2977.44,
-  "nNeta": 266,
-  "neta": 785.43
+  "conDato": 2869,
+  "n": 1078,
+  "gan": 3028.67,
+  "nNeta": 267,
+  "neta": 785.68
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1507
+   "n": 1509
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2406
+   "n": 2412
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1407
+   "n": 1413
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 538
+   "n": 541
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 332
+   "n": 336
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 98
+   "n": 99
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794222000000,
-   "n": 20
-  },
   {
    "h": 1794225600000,
    "n": 1
@@ -619,129 +615,133 @@
   },
   {
    "h": 1794502800000,
-   "n": 13
+   "n": 37
+  },
+  {
+   "h": 1794506400000,
+   "n": 1
   }
  ],
  "recientes": [
   {
-   "inicio": 1794502268505,
+   "inicio": 1794506410299,
    "titulo": "Pablo Picasso's “Le Baiser” Sale Price",
-   "dur": 1125.115,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794503336822,
-   "titulo": "Armenia vs. Cyprus",
-   "dur": 0.72,
-   "gan": 1.05,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794503323608,
-   "titulo": "Armenia vs. Cyprus",
-   "dur": 0.996,
+   "dur": 0.147,
    "gan": 0.6,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794503322849,
-   "titulo": "Armenia vs. Cyprus",
-   "dur": 0.333,
-   "gan": 0.6,
+   "inicio": 1794506283110,
+   "titulo": "Pablo Picasso's “Le Baiser” Sale Price",
+   "dur": 82.19,
+   "gan": 0.55,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794503271242,
-   "titulo": "Armenia vs. Cyprus",
-   "dur": 0.511,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794503271166,
-   "titulo": "Armenia vs. Cyprus",
-   "dur": 0.042,
-   "gan": 1.27,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794503269818,
-   "titulo": "Armenia vs. Cyprus",
-   "dur": 1.333,
-   "gan": 1.18,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794503269053,
-   "titulo": "Armenia vs. Cyprus",
-   "dur": 0.179,
-   "gan": 1.41,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794503150761,
-   "titulo": "Highest temperature in Los Angeles on November 14?",
-   "dur": 27.79,
-   "gan": 0.95,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794503120135,
-   "titulo": "Highest temperature in Los Angeles on November 14?",
-   "dur": 29.938,
+   "inicio": 1794506228460,
+   "titulo": "Pablo Picasso's “Le Baiser” Sale Price",
+   "dur": 54.637,
    "gan": 0.57,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794503030551,
-   "titulo": "Highest temperature in Los Angeles on November 14?",
-   "dur": 36.919,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794502940339,
-   "titulo": "Highest temperature in Los Angeles on November 14?",
-   "dur": 57.772,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794502850580,
-   "titulo": "Highest temperature in Los Angeles on November 14?",
-   "dur": 57.834,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794502841472,
-   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 0.02,
-   "gan": 0.5,
+   "inicio": 1794506155077,
+   "titulo": "Pablo Picasso's “Le Baiser” Sale Price",
+   "dur": 73.375,
+   "gan": 0.55,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794502758735,
-   "titulo": "Highest temperature in Los Angeles on November 14?",
-   "dur": 59.947,
-   "gan": 0.59,
+   "inicio": 1794503401688,
+   "titulo": "Pablo Picasso's “Le Baiser” Sale Price",
+   "dur": 2751.865,
+   "gan": 3.81,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794505867933,
+   "titulo": "Madagascar vs. Guinea-Bissau",
+   "dur": 0.375,
+   "gan": 0.62,
    "neta": 0,
    "lado": "no"
+  },
+  {
+   "inicio": 1794505579338,
+   "titulo": "Armenia vs. Cyprus - Halftime Result",
+   "dur": 3.09,
+   "gan": 0.6,
+   "neta": 0.25,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794504968573,
+   "titulo": "Türkiye vs. Belgium",
+   "dur": 0.197,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794504960439,
+   "titulo": "Türkiye vs. Belgium",
+   "dur": 0.665,
+   "gan": 1.9,
+   "neta": 0.22,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794504744685,
+   "titulo": "Türkiye vs. Belgium",
+   "dur": 29.205,
+   "gan": 2.27,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794504744055,
+   "titulo": "Türkiye vs. Belgium",
+   "dur": 0.402,
+   "gan": 2.27,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794504667543,
+   "titulo": "Türkiye vs. Belgium",
+   "dur": 0.022,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794504666925,
+   "titulo": "Türkiye vs. Belgium",
+   "dur": 0.037,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794504521011,
+   "titulo": "Türkiye vs. Belgium",
+   "dur": 1.366,
+   "gan": 1.24,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794504520073,
+   "titulo": "Türkiye vs. Belgium",
+   "dur": 0.16,
+   "gan": 2.58,
+   "neta": 0,
+   "lado": "si"
   }
  ]
 }
