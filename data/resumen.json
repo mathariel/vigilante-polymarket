@@ -1,84 +1,84 @@
 {
- "actualizado": 1794518475312,
- "inicio": 1793816249036,
+ "actualizado": 1794521491328,
+ "inicio": 1793819110783,
  "ejecucion": {
-  "inicio": 1794515474951,
-  "fin": 1794518475312,
-  "mensajes": 10559021,
-  "reconexiones": 2,
-  "eventos": 601,
+  "inicio": 1794518491019,
+  "fin": 1794521491328,
+  "mensajes": 7669644,
+  "reconexiones": 0,
+  "eventos": 584,
   "errores": [],
-  "nuevos": 93,
-  "nuevosRentables": 6,
-  "nuevosNeta": 12.2
+  "nuevos": 35,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.04
  },
- "total": 6360,
- "falsos": 2447,
+ "total": 6344,
+ "falsos": 2427,
  "largos": {
-  "episodios": 11409,
-  "eventos": 149,
+  "episodios": 11449,
+  "eventos": 148,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9895,
+  "episodios": 9894,
   "eventos": 38
  },
- "mediana": 0.587,
+ "mediana": 0.59,
  "captura": [
   {
    "s": 0.5,
-   "n": 3350,
-   "gan": 11135.94,
+   "n": 3347,
+   "gan": 10988.62,
    "nNeta": 1072,
-   "neta": 3730.21
+   "neta": 3718.51
   },
   {
    "s": 2,
-   "n": 1640,
-   "gan": 5031.86,
-   "nNeta": 436,
-   "neta": 1745.56
+   "n": 1637,
+   "gan": 5004.21,
+   "nNeta": 433,
+   "neta": 1744.58
   },
   {
    "s": 5,
-   "n": 988,
-   "gan": 2288.95,
+   "n": 991,
+   "gan": 2290.92,
    "nNeta": 172,
    "neta": 424.6
   },
   {
    "s": 30,
-   "n": 444,
-   "gan": 780.89,
+   "n": 446,
+   "gan": 782.09,
    "nNeta": 59,
    "neta": 83.21
   }
  ],
- "rentables": 2028,
+ "rentables": 2030,
  "porCapital": [
   {
    "capital": 500,
    "ops": 32,
-   "descartadas": 163,
+   "descartadas": 164,
    "neta": 108.46,
-   "dias": 4.81,
-   "semana": 157.79
+   "dias": 4.85,
+   "semana": 156.65
   },
   {
    "capital": 1000,
    "ops": 47,
-   "descartadas": 163,
+   "descartadas": 164,
    "neta": 144.59,
-   "dias": 4.81,
-   "semana": 210.35
+   "dias": 4.85,
+   "semana": 208.84
   },
   {
    "capital": 2000,
    "ops": 60,
-   "descartadas": 163,
+   "descartadas": 164,
    "neta": 205.22,
-   "dias": 4.81,
-   "semana": 298.55
+   "dias": 4.85,
+   "semana": 296.4
   }
  ],
  "maxBloqueoH": 24,
@@ -101,10 +101,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 4,
-   "horas": 84.2,
-   "episodios": 1527,
+   "horas": 85,
+   "episodios": 1563,
    "sospechosas": 21,
-   "realistaNeta": 62.78,
+   "realistaNeta": 62.82,
    "capital": {
     "500": 31.41,
     "1000": 42.28,
@@ -222,42 +222,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3128,
-  "n": 1168,
-  "gan": 3190.81,
-  "nNeta": 279,
-  "neta": 800.33
+  "conDato": 3164,
+  "n": 1178,
+  "gan": 3203.91,
+  "nNeta": 280,
+  "neta": 800.37
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1515
+   "n": 1508
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2405
+   "n": 2395
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1446
+   "n": 1444
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 544
+   "n": 545
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 342
+   "n": 343
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 102
+   "n": 103
   }
  ],
  "porEvento": [
@@ -312,10 +312,10 @@
   },
   {
    "titulo": "RB Leipzig vs. Manchester City FC",
-   "n": 80,
-   "gan": 76.21,
+   "n": 79,
+   "gan": 75.71,
    "neta": 6.14,
-   "mediana": 0.034
+   "mediana": 0.032
   },
   {
    "titulo": "Parma Calcio 1913 vs. Bologna FC 1909",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794236400000,
-   "n": 14
-  },
   {
    "h": 1794240000000,
    "n": 2
@@ -619,128 +615,132 @@
   },
   {
    "h": 1794517200000,
-   "n": 77
+   "n": 112
+  },
+  {
+   "h": 1794520800000,
+   "n": 1
   }
  ],
  "recientes": [
   {
-   "inicio": 1794518039840,
+   "inicio": 1794521345737,
+   "titulo": "Donald Trump # Truth Social posts November 10 - November 17, 2026?",
+   "dur": 145.286,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794518455188,
    "titulo": "Highest temperature in Buenos Aires on November 13?",
-   "dur": 435.114,
+   "dur": 1169.667,
    "gan": 0.68,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794518455514,
+   "inicio": 1794519476544,
    "titulo": "Montenegro vs. Latvia",
-   "dur": 0.22,
-   "gan": 0.78,
-   "neta": 0,
+   "dur": 0.896,
+   "gan": 0.79,
+   "neta": 0.66,
    "lado": "si"
   },
   {
-   "inicio": 1794518453689,
-   "titulo": "Czechia vs. Spain",
-   "dur": 0.393,
+   "inicio": 1794519474591,
+   "titulo": "Montenegro vs. Latvia",
+   "dur": 0.894,
+   "gan": 0.95,
+   "neta": 0.68,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794519459402,
+   "titulo": "Montenegro vs. Latvia",
+   "dur": 0.511,
+   "gan": 1.01,
+   "neta": 0.73,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794519394533,
+   "titulo": "England vs. Croatia",
+   "dur": 1.21,
+   "gan": 1.36,
+   "neta": 0.95,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794519336383,
+   "titulo": "England vs. Croatia",
+   "dur": 0.06,
    "gan": 0.51,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794518452152,
-   "titulo": "Czechia vs. Spain",
-   "dur": 1.08,
-   "gan": 1,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794518389968,
-   "titulo": "Czechia vs. Spain",
-   "dur": 1.454,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794518335811,
-   "titulo": "Montenegro vs. Latvia",
-   "dur": 2.221,
-   "gan": 0.65,
+   "inicio": 1794519336216,
+   "titulo": "England vs. Croatia",
+   "dur": 0.109,
+   "gan": 3.9,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794518327810,
+   "inicio": 1794519297412,
    "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
-   "dur": 0.108,
-   "gan": 0.98,
+   "dur": 0.233,
+   "gan": 1.11,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794518278592,
-   "titulo": "Italy vs. France",
-   "dur": 0.849,
-   "gan": 0.95,
-   "neta": 0,
+   "inicio": 1794519215828,
+   "titulo": "Montenegro vs. Latvia",
+   "dur": 1.511,
+   "gan": 0.75,
+   "neta": 0.04,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794519192657,
+   "titulo": "Montenegro vs. Latvia",
+   "dur": 0.212,
+   "gan": 2.66,
+   "neta": 2.23,
    "lado": "no"
   },
   {
-   "inicio": 1794518278181,
-   "titulo": "Italy vs. France",
-   "dur": 0.386,
-   "gan": 0.78,
-   "neta": 0,
+   "inicio": 1794519192602,
+   "titulo": "Montenegro vs. Latvia",
+   "dur": 0.046,
+   "gan": 0.96,
+   "neta": 0.55,
    "lado": "no"
   },
   {
-   "inicio": 1794518277916,
-   "titulo": "Italy vs. France",
-   "dur": 0.232,
-   "gan": 0.67,
-   "neta": 0,
+   "inicio": 1794519192562,
+   "titulo": "Montenegro vs. Latvia",
+   "dur": 0.026,
+   "gan": 1.41,
+   "neta": 0.41,
    "lado": "no"
   },
   {
-   "inicio": 1794518277822,
-   "titulo": "Italy vs. France",
-   "dur": 0.011,
-   "gan": 0.69,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794518277785,
-   "titulo": "Italy vs. France",
-   "dur": 0.023,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794518277460,
-   "titulo": "Italy vs. France",
-   "dur": 0.293,
-   "gan": 0.91,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794518257214,
-   "titulo": "Italy vs. France",
-   "dur": 1.96,
+   "inicio": 1794519101096,
+   "titulo": "Montenegro vs. Latvia",
+   "dur": 1.374,
    "gan": 1.25,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794518253759,
+   "inicio": 1794519090880,
    "titulo": "Italy vs. France",
-   "dur": 0.92,
-   "gan": 1.93,
-   "neta": 0,
+   "dur": 0.276,
+   "gan": 0.83,
+   "neta": 0.34,
    "lado": "no"
   }
  ]
