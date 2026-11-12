@@ -1,84 +1,84 @@
 {
- "actualizado": 1794521491328,
- "inicio": 1793819110783,
+ "actualizado": 1794524512210,
+ "inicio": 1793822278060,
  "ejecucion": {
-  "inicio": 1794518491019,
-  "fin": 1794521491328,
-  "mensajes": 7669644,
+  "inicio": 1794521511870,
+  "fin": 1794524512210,
+  "mensajes": 7719903,
   "reconexiones": 0,
-  "eventos": 584,
+  "eventos": 589,
   "errores": [],
-  "nuevos": 35,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.04
+  "nuevos": 1,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 6344,
- "falsos": 2427,
+ "total": 6326,
+ "falsos": 2409,
  "largos": {
-  "episodios": 11449,
-  "eventos": 148,
+  "episodios": 11487,
+  "eventos": 149,
   "dias": 7
  },
  "enEspera": {
   "episodios": 9894,
   "eventos": 38
  },
- "mediana": 0.59,
+ "mediana": 0.591,
  "captura": [
   {
    "s": 0.5,
-   "n": 3347,
-   "gan": 10988.62,
-   "nNeta": 1072,
-   "neta": 3718.51
+   "n": 3342,
+   "gan": 10981.21,
+   "nNeta": 1071,
+   "neta": 3718.49
   },
   {
    "s": 2,
-   "n": 1637,
-   "gan": 5004.21,
-   "nNeta": 433,
-   "neta": 1744.58
+   "n": 1635,
+   "gan": 5002.84,
+   "nNeta": 432,
+   "neta": 1744.56
   },
   {
    "s": 5,
-   "n": 991,
-   "gan": 2290.92,
-   "nNeta": 172,
-   "neta": 424.6
+   "n": 990,
+   "gan": 2290.13,
+   "nNeta": 171,
+   "neta": 424.58
   },
   {
    "s": 30,
-   "n": 446,
-   "gan": 782.09,
+   "n": 447,
+   "gan": 782.63,
    "nNeta": 59,
    "neta": 83.21
   }
  ],
- "rentables": 2030,
+ "rentables": 2029,
  "porCapital": [
   {
    "capital": 500,
    "ops": 32,
    "descartadas": 164,
    "neta": 108.46,
-   "dias": 4.85,
-   "semana": 156.65
+   "dias": 4.88,
+   "semana": 155.53
   },
   {
    "capital": 1000,
    "ops": 47,
    "descartadas": 164,
    "neta": 144.59,
-   "dias": 4.85,
-   "semana": 208.84
+   "dias": 4.88,
+   "semana": 207.34
   },
   {
    "capital": 2000,
    "ops": 60,
    "descartadas": 164,
    "neta": 205.22,
-   "dias": 4.85,
-   "semana": 296.4
+   "dias": 4.88,
+   "semana": 294.28
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 4,
-   "horas": 85,
-   "episodios": 1563,
+   "horas": 85.8,
+   "episodios": 1564,
    "sospechosas": 21,
    "realistaNeta": 62.82,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3164,
-  "n": 1178,
-  "gan": 3203.91,
+  "conDato": 3165,
+  "n": 1179,
+  "gan": 3204.45,
   "nNeta": 280,
   "neta": 800.37
  },
@@ -232,27 +232,27 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1508
+   "n": 1500
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2395
+   "n": 2389
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1444
+   "n": 1441
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 545
+   "n": 543
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 343
+   "n": 344
   },
   {
    "et": "> 5 min",
@@ -619,10 +619,18 @@
   },
   {
    "h": 1794520800000,
-   "n": 1
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794521514891,
+   "titulo": "Donald Trump # Truth Social posts November 10 - November 17, 2026?",
+   "dur": 191.912,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794521345737,
    "titulo": "Donald Trump # Truth Social posts November 10 - November 17, 2026?",
@@ -734,14 +742,6 @@
    "gan": 1.25,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794519090880,
-   "titulo": "Italy vs. France",
-   "dur": 0.276,
-   "gan": 0.83,
-   "neta": 0.34,
-   "lado": "no"
   }
  ]
 }
