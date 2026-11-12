@@ -1,21 +1,21 @@
 {
- "actualizado": 1794470240997,
+ "actualizado": 1794473254417,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794467240694,
-  "fin": 1794470240997,
-  "mensajes": 6976556,
-  "reconexiones": 1,
-  "eventos": 559,
+  "inicio": 1794470254209,
+  "fin": 1794473254417,
+  "mensajes": 5908505,
+  "reconexiones": 2,
+  "eventos": 564,
   "errores": [],
   "nuevos": 2,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6074,
- "falsos": 2450,
+ "total": 6077,
+ "falsos": 2456,
  "largos": {
-  "episodios": 11511,
+  "episodios": 11528,
   "eventos": 160,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3214,
-   "gan": 11749.59,
+   "n": 3216,
+   "gan": 11751.25,
    "nNeta": 1066,
    "neta": 3709.54
   },
   {
    "s": 2,
-   "n": 1538,
-   "gan": 5665.45,
+   "n": 1540,
+   "gan": 5667.11,
    "nNeta": 436,
    "neta": 1730.54
   },
   {
    "s": 5,
-   "n": 913,
-   "gan": 2992.72,
+   "n": 915,
+   "gan": 2994.38,
    "nNeta": 179,
    "neta": 430
   },
   {
    "s": 30,
-   "n": 393,
-   "gan": 696.71,
+   "n": 394,
+   "gan": 697.55,
    "nNeta": 60,
    "neta": 83.39
   }
  ],
- "rentables": 2015,
+ "rentables": 2016,
  "porCapital": [
   {
    "capital": 500,
    "ops": 28,
    "descartadas": 153,
    "neta": 98.29,
-   "dias": 4.25,
-   "semana": 161.76
+   "dias": 4.29,
+   "semana": 160.45
   },
   {
    "capital": 1000,
    "ops": 43,
    "descartadas": 153,
    "neta": 134.42,
-   "dias": 4.25,
-   "semana": 221.23
+   "dias": 4.29,
+   "semana": 219.43
   },
   {
    "capital": 2000,
    "ops": 56,
    "descartadas": 153,
    "neta": 195.05,
-   "dias": 4.25,
-   "semana": 321
+   "dias": 4.29,
+   "semana": 318.39
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 4,
-   "horas": 70.8,
-   "episodios": 973,
+   "horas": 71.7,
+   "episodios": 976,
    "sospechosas": 17,
    "realistaNeta": 47.81,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2578,
-  "n": 979,
-  "gan": 2887.12,
+  "conDato": 2581,
+  "n": 981,
+  "gan": 2888.78,
   "nNeta": 265,
   "neta": 785.36
  },
@@ -232,7 +232,7 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1410
+   "n": 1411
   },
   {
    "et": "0.1–1 s",
@@ -247,7 +247,7 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 520
+   "n": 521
   },
   {
    "et": "30 s–5 min",
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 79
+   "n": 80
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794186000000,
-   "n": 8
-  },
   {
    "h": 1794189600000,
    "n": 10
@@ -619,10 +615,38 @@
   },
   {
    "h": 1794466800000,
-   "n": 4
+   "n": 5
+  },
+  {
+   "h": 1794470400000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794470132751,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 3121.461,
+   "gan": 0.84,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794472975381,
+   "titulo": "Highest temperature in Amsterdam on November 14?",
+   "dur": 24.075,
+   "gan": 0.82,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794470443115,
+   "titulo": "Highest temperature in Shenzhen on November 12?",
+   "dur": 0.001,
+   "gan": 0.64,
+   "neta": 0.44,
+   "lado": "si"
+  },
   {
    "inicio": 1794467232028,
    "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
@@ -716,30 +740,6 @@
    "titulo": "CZ # posts November 6 - November 13, 2026?",
    "dur": 0.147,
    "gan": 0.79,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794461418463,
-   "titulo": "CZ # posts November 6 - November 13, 2026?",
-   "dur": 0.017,
-   "gan": 0.64,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794461258907,
-   "titulo": "CZ # posts November 6 - November 13, 2026?",
-   "dur": 159.524,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794461253295,
-   "titulo": "CZ # posts November 6 - November 13, 2026?",
-   "dur": 5.552,
-   "gan": 0.55,
    "neta": 0,
    "lado": "si"
   }
