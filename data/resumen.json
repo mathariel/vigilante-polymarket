@@ -1,55 +1,55 @@
 {
- "actualizado": 1794467226643,
+ "actualizado": 1794470240997,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794464226357,
-  "fin": 1794467226643,
-  "mensajes": 7197172,
+  "inicio": 1794467240694,
+  "fin": 1794470240997,
+  "mensajes": 6976556,
   "reconexiones": 1,
-  "eventos": 569,
+  "eventos": 559,
   "errores": [],
   "nuevos": 2,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6071,
- "falsos": 2449,
+ "total": 6074,
+ "falsos": 2450,
  "largos": {
-  "episodios": 11492,
-  "eventos": 159,
+  "episodios": 11511,
+  "eventos": 160,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9930,
+  "episodios": 9931,
   "eventos": 39
  },
  "mediana": 0.59,
  "captura": [
   {
    "s": 0.5,
-   "n": 3211,
-   "gan": 11747.33,
+   "n": 3214,
+   "gan": 11749.59,
    "nNeta": 1066,
    "neta": 3709.54
   },
   {
    "s": 2,
-   "n": 1536,
-   "gan": 5663.9,
+   "n": 1538,
+   "gan": 5665.45,
    "nNeta": 436,
    "neta": 1730.54
   },
   {
    "s": 5,
-   "n": 912,
-   "gan": 2991.74,
+   "n": 913,
+   "gan": 2992.72,
    "nNeta": 179,
    "neta": 430
   },
   {
    "s": 30,
-   "n": 392,
-   "gan": 695.73,
+   "n": 393,
+   "gan": 696.71,
    "nNeta": 60,
    "neta": 83.39
   }
@@ -61,24 +61,24 @@
    "ops": 28,
    "descartadas": 153,
    "neta": 98.29,
-   "dias": 4.22,
-   "semana": 163.1
+   "dias": 4.25,
+   "semana": 161.76
   },
   {
    "capital": 1000,
    "ops": 43,
    "descartadas": 153,
    "neta": 134.42,
-   "dias": 4.22,
-   "semana": 223.05
+   "dias": 4.25,
+   "semana": 221.23
   },
   {
    "capital": 2000,
    "ops": 56,
    "descartadas": 153,
    "neta": 195.05,
-   "dias": 4.22,
-   "semana": 323.66
+   "dias": 4.25,
+   "semana": 321
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 4,
-   "horas": 70,
-   "episodios": 970,
+   "horas": 70.8,
+   "episodios": 973,
    "sospechosas": 17,
    "realistaNeta": 47.81,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2575,
-  "n": 977,
-  "gan": 2885.58,
+  "conDato": 2578,
+  "n": 979,
+  "gan": 2887.12,
   "nNeta": 265,
   "neta": 785.36
  },
@@ -242,7 +242,7 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1394
+   "n": 1396
   },
   {
    "et": "5–30 s",
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 78
+   "n": 79
   }
  ],
  "porEvento": [
@@ -619,10 +619,34 @@
   },
   {
    "h": 1794466800000,
-   "n": 1
+   "n": 4
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794467232028,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 3008.669,
+   "gan": 0.98,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794467863639,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 3.988,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794467688988,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 1.118,
+   "gan": 0.72,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794464221810,
    "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
@@ -718,30 +742,6 @@
    "gan": 0.55,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794461222550,
-   "titulo": "CZ # posts November 6 - November 13, 2026?",
-   "dur": 30.639,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794457779267,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 19.909,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794457779168,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 0.037,
-   "gan": 0.79,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
