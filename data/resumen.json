@@ -1,22 +1,22 @@
 {
- "actualizado": 1794458186034,
+ "actualizado": 1794461200140,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794455185738,
-  "fin": 1794458186034,
-  "mensajes": 7035872,
+  "inicio": 1794458199907,
+  "fin": 1794461200140,
+  "mensajes": 7891999,
   "reconexiones": 0,
-  "eventos": 559,
+  "eventos": 568,
   "errores": [],
-  "nuevos": 16,
+  "nuevos": 0,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
  "total": 6058,
  "falsos": 2445,
  "largos": {
-  "episodios": 10885,
-  "eventos": 158,
+  "episodios": 11278,
+  "eventos": 159,
   "dias": 7
  },
  "enEspera": {
@@ -61,24 +61,24 @@
    "ops": 28,
    "descartadas": 153,
    "neta": 98.29,
-   "dias": 4.11,
-   "semana": 167.25
+   "dias": 4.15,
+   "semana": 165.84
   },
   {
    "capital": 1000,
    "ops": 43,
    "descartadas": 153,
    "neta": 134.42,
-   "dias": 4.11,
-   "semana": 228.73
+   "dias": 4.15,
+   "semana": 226.8
   },
   {
    "capital": 2000,
    "ops": 56,
    "descartadas": 153,
    "neta": 195.05,
-   "dias": 4.11,
-   "semana": 331.89
+   "dias": 4.15,
+   "semana": 329.1
   }
  ],
  "maxBloqueoH": 24,
@@ -100,8 +100,8 @@
   },
   {
    "lunes": "2026-11-09",
-   "dias": 3,
-   "horas": 67.5,
+   "dias": 4,
+   "horas": 68.3,
    "episodios": 957,
    "sospechosas": 16,
    "realistaNeta": 47.81,
