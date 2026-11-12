@@ -1,84 +1,84 @@
 {
- "actualizado": 1794476267956,
- "inicio": 1793760347875,
+ "actualizado": 1794479282819,
+ "inicio": 1793763394841,
  "ejecucion": {
-  "inicio": 1794473267671,
-  "fin": 1794476267956,
-  "mensajes": 6582822,
-  "reconexiones": 1,
-  "eventos": 583,
+  "inicio": 1794476282528,
+  "fin": 1794479282819,
+  "mensajes": 7178435,
+  "reconexiones": 0,
+  "eventos": 584,
   "errores": [],
-  "nuevos": 3,
+  "nuevos": 84,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6081,
- "falsos": 2454,
+ "total": 6158,
+ "falsos": 2458,
  "largos": {
-  "episodios": 11544,
-  "eventos": 160,
+  "episodios": 11472,
+  "eventos": 158,
   "dias": 7
  },
  "enEspera": {
   "episodios": 9931,
   "eventos": 39
  },
- "mediana": 0.591,
+ "mediana": 0.575,
  "captura": [
   {
    "s": 0.5,
-   "n": 3219,
-   "gan": 11753.21,
-   "nNeta": 1066,
-   "neta": 3709.54
+   "n": 3223,
+   "gan": 11739.96,
+   "nNeta": 1065,
+   "neta": 3709.49
   },
   {
    "s": 2,
-   "n": 1542,
-   "gan": 5668.47,
+   "n": 1546,
+   "gan": 5655.59,
    "nNeta": 436,
    "neta": 1730.54
   },
   {
    "s": 5,
-   "n": 916,
-   "gan": 2995.22,
+   "n": 921,
+   "gan": 2986.18,
    "nNeta": 179,
    "neta": 430
   },
   {
    "s": 30,
-   "n": 395,
-   "gan": 698.39,
+   "n": 398,
+   "gan": 698.17,
    "nNeta": 60,
    "neta": 83.39
   }
  ],
- "rentables": 2016,
+ "rentables": 2015,
  "porCapital": [
   {
    "capital": 500,
    "ops": 28,
    "descartadas": 153,
    "neta": 98.29,
-   "dias": 4.32,
-   "semana": 159.15
+   "dias": 4.36,
+   "semana": 157.88
   },
   {
    "capital": 1000,
    "ops": 43,
    "descartadas": 153,
    "neta": 134.42,
-   "dias": 4.32,
-   "semana": 217.66
+   "dias": 4.36,
+   "semana": 215.91
   },
   {
    "capital": 2000,
    "ops": 56,
    "descartadas": 153,
    "neta": 195.05,
-   "dias": 4.32,
-   "semana": 315.82
+   "dias": 4.36,
+   "semana": 313.29
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 4,
-   "horas": 72.5,
-   "episodios": 980,
+   "horas": 73.3,
+   "episodios": 1065,
    "sospechosas": 17,
    "realistaNeta": 47.81,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2585,
-  "n": 984,
-  "gan": 2890.74,
+  "conDato": 2670,
+  "n": 994,
+  "gan": 2897.58,
   "nNeta": 265,
   "neta": 785.36
  },
@@ -232,41 +232,41 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1411
+   "n": 1476
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2351
+   "n": 2359
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1397
+   "n": 1396
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 521
+   "n": 523
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 314
+   "n": 315
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 81
+   "n": 83
   }
  ],
  "porEvento": [
   {
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "n": 225,
-   "gan": 150.3,
+   "n": 303,
+   "gan": 192.19,
    "neta": 2.69,
-   "mediana": 179.835
+   "mediana": 63.56
   },
   {
    "titulo": "Vitesse Arnhem vs. De Graafschap",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794193200000,
-   "n": 24
-  },
   {
    "h": 1794196800000,
    "n": 3
@@ -619,128 +615,132 @@
   },
   {
    "h": 1794474000000,
-   "n": 3
+   "n": 4
+  },
+  {
+   "h": 1794477600000,
+   "n": 84
   }
  ],
  "recientes": [
   {
-   "inicio": 1794473244656,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 3023.019,
-   "gan": 0.84,
+   "inicio": 1794479213221,
+   "titulo": "Highest temperature in Amsterdam on November 14?",
+   "dur": 69.31,
+   "gan": 1.1,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794475680849,
-   "titulo": "Amedeo Modigliani's “Tête” Sale Price",
-   "dur": 0.808,
+   "inicio": 1794478871158,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 411.373,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794476261816,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 3020.715,
+   "gan": 1.47,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794479218138,
+   "titulo": "RB Leipzig vs. Mlada Boleslav",
+   "dur": 0.134,
    "gan": 0.6,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794475460003,
-   "titulo": "Highest temperature in Helsinki on November 14?",
-   "dur": 3.317,
+   "inicio": 1794478896166,
+   "titulo": "Amedeo Modigliani's “Tête” Sale Price",
+   "dur": 25.572,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794478870653,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 0.487,
    "gan": 0.52,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794474106214,
-   "titulo": "Stevenage FC vs. Mansfield Town FC",
-   "dur": 0.284,
-   "gan": 0.97,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794470132751,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 3121.461,
-   "gan": 0.84,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794472975381,
-   "titulo": "Highest temperature in Amsterdam on November 14?",
-   "dur": 24.075,
-   "gan": 0.82,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794470443115,
-   "titulo": "Highest temperature in Shenzhen on November 12?",
-   "dur": 0.001,
-   "gan": 0.64,
-   "neta": 0.44,
    "lado": "si"
   },
   {
-   "inicio": 1794467232028,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 3008.669,
-   "gan": 0.98,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794467863639,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 3.988,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794467688988,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 1.118,
-   "gan": 0.72,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794464221810,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 3004.55,
-   "gan": 1.2,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794466811617,
-   "titulo": "Highest temperature in Beijing on November 12?",
-   "dur": 0.424,
-   "gan": 0.59,
-   "neta": 0.5,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794465721080,
+   "inicio": 1794478858844,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 0.052,
-   "gan": 0.55,
+   "dur": 11.789,
+   "gan": 0.52,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794461214562,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 2998.922,
-   "gan": 1.76,
+   "inicio": 1794478861153,
+   "titulo": "Highest temperature in Munich on November 12?",
+   "dur": 0.171,
+   "gan": 5.43,
+   "neta": 3.81,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794478858356,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 0.459,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794478846767,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 11.57,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794478846369,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 0.382,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794478835563,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 10.787,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794478810569,
+   "titulo": "Amedeo Modigliani's “Tête” Sale Price",
+   "dur": 25.313,
+   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794463254047,
-   "titulo": "Highest temperature in Qingdao on November 12?",
-   "dur": 0.016,
-   "gan": 4.61,
-   "neta": 4.16,
+   "inicio": 1794478823064,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 0.591,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794478811101,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 0.449,
+   "gan": 0.52,
+   "neta": 0,
    "lado": "si"
   }
  ]
