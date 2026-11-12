@@ -1,55 +1,55 @@
 {
- "actualizado": 1794452041351,
+ "actualizado": 1794458186034,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794449041105,
-  "fin": 1794452041351,
-  "mensajes": 7151368,
+  "inicio": 1794455185738,
+  "fin": 1794458186034,
+  "mensajes": 7035872,
   "reconexiones": 0,
-  "eventos": 563,
+  "eventos": 559,
   "errores": [],
-  "nuevos": 3,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.82
+  "nuevos": 16,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 6042,
- "falsos": 2442,
+ "total": 6058,
+ "falsos": 2445,
  "largos": {
-  "episodios": 10847,
-  "eventos": 157,
+  "episodios": 10885,
+  "eventos": 158,
   "dias": 7
  },
  "enEspera": {
   "episodios": 9928,
   "eventos": 39
  },
- "mediana": 0.589,
+ "mediana": 0.59,
  "captura": [
   {
    "s": 0.5,
-   "n": 3195,
-   "gan": 11733.36,
+   "n": 3206,
+   "gan": 11742.72,
    "nNeta": 1066,
    "neta": 3709.54
   },
   {
    "s": 2,
-   "n": 1525,
-   "gan": 5654.18,
+   "n": 1531,
+   "gan": 5659.29,
    "nNeta": 436,
    "neta": 1730.54
   },
   {
    "s": 5,
-   "n": 902,
-   "gan": 2981.51,
+   "n": 907,
+   "gan": 2987.13,
    "nNeta": 179,
    "neta": 430
   },
   {
    "s": 30,
-   "n": 385,
-   "gan": 688.58,
+   "n": 388,
+   "gan": 691.67,
    "nNeta": 60,
    "neta": 83.39
   }
@@ -61,24 +61,24 @@
    "ops": 28,
    "descartadas": 153,
    "neta": 98.29,
-   "dias": 4.04,
-   "semana": 170.19
+   "dias": 4.11,
+   "semana": 167.25
   },
   {
    "capital": 1000,
    "ops": 43,
    "descartadas": 153,
    "neta": 134.42,
-   "dias": 4.04,
-   "semana": 232.75
+   "dias": 4.11,
+   "semana": 228.73
   },
   {
    "capital": 2000,
    "ops": 56,
    "descartadas": 153,
    "neta": 195.05,
-   "dias": 4.04,
-   "semana": 337.73
+   "dias": 4.11,
+   "semana": 331.89
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 3,
-   "horas": 66.7,
-   "episodios": 941,
+   "horas": 67.5,
+   "episodios": 957,
    "sospechosas": 16,
    "realistaNeta": 47.81,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2547,
-  "n": 962,
-  "gan": 2872.41,
+  "conDato": 2563,
+  "n": 972,
+  "gan": 2880.97,
   "nNeta": 265,
   "neta": 785.36
  },
@@ -232,7 +232,7 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1399
+   "n": 1404
   },
   {
    "et": "0.1–1 s",
@@ -242,17 +242,17 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1388
+   "n": 1394
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 517
+   "n": 519
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 309
+   "n": 312
   },
   {
    "et": "> 5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794171600000,
-   "n": 57
-  },
   {
    "h": 1794175200000,
    "n": 46
@@ -620,126 +616,130 @@
   {
    "h": 1794448800000,
    "n": 3
+  },
+  {
+   "h": 1794456000000,
+   "n": 16
   }
  ],
  "recientes": [
   {
-   "inicio": 1794450759985,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.067,
+   "inicio": 1794457779267,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 19.909,
    "gan": 0.56,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794449695864,
-   "titulo": "Deportes Quindio vs. Tigres FC",
-   "dur": 0.648,
-   "gan": 2.11,
-   "neta": 1.87,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794449622591,
-   "titulo": "Deportes Quindio vs. Tigres FC",
-   "dur": 7.41,
-   "gan": 1.1,
-   "neta": 0.82,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794448035256,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 356.423,
-   "gan": 0.63,
+   "inicio": 1794457779168,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 0.037,
+   "gan": 0.79,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794444496939,
-   "titulo": "Real Cundinamarca vs. Real Cartagena FC",
-   "dur": 1.505,
-   "gan": 34.79,
-   "neta": 16.88,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794444414724,
-   "titulo": "Real Cundinamarca vs. Real Cartagena FC",
-   "dur": 2.174,
-   "gan": 4.71,
-   "neta": 4.1,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794444410115,
-   "titulo": "Real Cundinamarca vs. Real Cartagena FC",
-   "dur": 1.115,
-   "gan": 0.93,
-   "neta": 0.17,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794443671756,
-   "titulo": "Highest temperature in Seattle on November 12?",
-   "dur": 150.064,
-   "gan": 0.58,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794440966630,
-   "titulo": "Londrina EC vs. Clube Náutico Capibaribe",
-   "dur": 1.379,
-   "gan": 4.37,
-   "neta": 4.13,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794440945730,
-   "titulo": "Londrina EC vs. Clube Náutico Capibaribe",
-   "dur": 0.702,
-   "gan": 1.49,
-   "neta": 0.12,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794440923429,
-   "titulo": "Londrina EC vs. Clube Náutico Capibaribe",
-   "dur": 2.257,
-   "gan": 10.12,
-   "neta": 3.61,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794440916506,
-   "titulo": "Londrina EC vs. Clube Náutico Capibaribe",
-   "dur": 2.449,
-   "gan": 2.2,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794440916257,
-   "titulo": "Londrina EC vs. Clube Náutico Capibaribe",
-   "dur": 0.115,
-   "gan": 2.29,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794440905447,
-   "titulo": "Londrina EC vs. Clube Náutico Capibaribe",
-   "dur": 0.338,
-   "gan": 0.69,
+   "inicio": 1794457700260,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 71.954,
+   "gan": 0.56,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794440905184,
-   "titulo": "Londrina EC vs. Clube Náutico Capibaribe",
-   "dur": 0.024,
-   "gan": 0.69,
+   "inicio": 1794457700178,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 0.035,
+   "gan": 0.77,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794457671861,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 15.922,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794457671777,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 0.03,
+   "gan": 0.77,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794457669865,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 1.907,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794457659956,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 1.993,
+   "gan": 0.9,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794457658053,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 1.896,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794457657950,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 0.033,
+   "gan": 0.77,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794457630665,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 1.045,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794457625709,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 4.879,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794457511650,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 114.058,
+   "gan": 0.9,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794457509742,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 1.904,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794457509646,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 0.039,
+   "gan": 0.77,
    "neta": 0,
    "lado": "no"
   }
