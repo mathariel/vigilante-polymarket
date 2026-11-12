@@ -1,84 +1,84 @@
 {
- "actualizado": 1794479282819,
- "inicio": 1793763394841,
+ "actualizado": 1794482296583,
+ "inicio": 1793766424556,
  "ejecucion": {
-  "inicio": 1794476282528,
-  "fin": 1794479282819,
-  "mensajes": 7178435,
+  "inicio": 1794479296310,
+  "fin": 1794482296583,
+  "mensajes": 7362888,
   "reconexiones": 0,
-  "eventos": 584,
+  "eventos": 580,
   "errores": [],
-  "nuevos": 84,
+  "nuevos": 43,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6158,
- "falsos": 2458,
+ "total": 6203,
+ "falsos": 2457,
  "largos": {
-  "episodios": 11472,
-  "eventos": 158,
+  "episodios": 11434,
+  "eventos": 155,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9931,
+  "episodios": 9930,
   "eventos": 39
  },
- "mediana": 0.575,
+ "mediana": 0.569,
  "captura": [
   {
    "s": 0.5,
-   "n": 3223,
-   "gan": 11739.96,
+   "n": 3237,
+   "gan": 11761.47,
    "nNeta": 1065,
    "neta": 3709.49
   },
   {
    "s": 2,
-   "n": 1546,
-   "gan": 5655.59,
+   "n": 1554,
+   "gan": 5663.3,
    "nNeta": 436,
    "neta": 1730.54
   },
   {
    "s": 5,
-   "n": 921,
-   "gan": 2986.18,
+   "n": 927,
+   "gan": 2990.49,
    "nNeta": 179,
    "neta": 430
   },
   {
    "s": 30,
-   "n": 398,
-   "gan": 698.17,
+   "n": 402,
+   "gan": 701.1,
    "nNeta": 60,
    "neta": 83.39
   }
  ],
- "rentables": 2015,
+ "rentables": 2016,
  "porCapital": [
   {
    "capital": 500,
    "ops": 28,
    "descartadas": 153,
    "neta": 98.29,
-   "dias": 4.36,
-   "semana": 157.88
+   "dias": 4.39,
+   "semana": 156.63
   },
   {
    "capital": 1000,
    "ops": 43,
    "descartadas": 153,
    "neta": 134.42,
-   "dias": 4.36,
-   "semana": 215.91
+   "dias": 4.39,
+   "semana": 214.2
   },
   {
    "capital": 2000,
    "ops": 56,
    "descartadas": 153,
    "neta": 195.05,
-   "dias": 4.36,
-   "semana": 313.29
+   "dias": 4.39,
+   "semana": 310.81
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 4,
-   "horas": 73.3,
-   "episodios": 1065,
+   "horas": 74.2,
+   "episodios": 1110,
    "sospechosas": 17,
    "realistaNeta": 47.81,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2670,
-  "n": 994,
-  "gan": 2897.58,
+  "conDato": 2715,
+  "n": 1007,
+  "gan": 2911.38,
   "nNeta": 265,
   "neta": 785.36
  },
@@ -232,41 +232,41 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1476
+   "n": 1479
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2359
+   "n": 2392
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1396
+   "n": 1399
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 523
+   "n": 525
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 315
+   "n": 318
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 83
+   "n": 84
   }
  ],
  "porEvento": [
   {
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "n": 303,
-   "gan": 192.19,
+   "n": 307,
+   "gan": 194.74,
    "neta": 2.69,
-   "mediana": 63.56
+   "mediana": 63.219
   },
   {
    "titulo": "Vitesse Arnhem vs. De Graafschap",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794196800000,
-   "n": 3
-  },
   {
    "h": 1794200400000,
    "n": 15
@@ -619,129 +615,133 @@
   },
   {
    "h": 1794477600000,
-   "n": 84
+   "n": 114
+  },
+  {
+   "h": 1794481200000,
+   "n": 15
   }
  ],
  "recientes": [
   {
-   "inicio": 1794479213221,
-   "titulo": "Highest temperature in Amsterdam on November 14?",
-   "dur": 69.31,
-   "gan": 1.1,
+   "inicio": 1794482248215,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 22.679,
+   "gan": 0.69,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794478871158,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 411.373,
-   "gan": 0.52,
+   "inicio": 1794482251662,
+   "titulo": "RB Leipzig vs. Mlada Boleslav",
+   "dur": 1.055,
+   "gan": 8,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794476261816,
+   "inicio": 1794482166654,
    "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 3020.715,
+   "dur": 12.129,
+   "gan": 0.69,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794482080015,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 0.032,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794481991500,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 0.414,
+   "gan": 0.94,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794481902393,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 0.41,
+   "gan": 0.84,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794481812127,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 0.62,
+   "gan": 0.94,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794481722514,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 0.439,
+   "gan": 0.94,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794481642215,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 0.407,
+   "gan": 0.89,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794481592358,
+   "titulo": "Highest temperature in Paris on November 12?",
+   "dur": 0.019,
+   "gan": 0.66,
+   "neta": 0.27,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794481552820,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 0.435,
    "gan": 1.47,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794479218138,
-   "titulo": "RB Leipzig vs. Mlada Boleslav",
-   "dur": 0.134,
-   "gan": 0.6,
+   "inicio": 1794481472762,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 0.417,
+   "gan": 1.47,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794478896166,
-   "titulo": "Amedeo Modigliani's “Tête” Sale Price",
-   "dur": 25.572,
-   "gan": 0.6,
+   "inicio": 1794481392969,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 0.412,
+   "gan": 1.47,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794478870653,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 0.487,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794478858844,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 11.789,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794478861153,
-   "titulo": "Highest temperature in Munich on November 12?",
-   "dur": 0.171,
-   "gan": 5.43,
-   "neta": 3.81,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794478858356,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 0.459,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794478846767,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 11.57,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794478846369,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 0.382,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794478835563,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 10.787,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794478810569,
-   "titulo": "Amedeo Modigliani's “Tête” Sale Price",
-   "dur": 25.313,
-   "gan": 0.5,
+   "inicio": 1794481302458,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 0.43,
+   "gan": 1.47,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794478823064,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 0.591,
-   "gan": 0.52,
+   "inicio": 1794481210925,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 0.679,
+   "gan": 1.47,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794478811101,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 0.449,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
+   "lado": "no"
   }
  ]
 }
