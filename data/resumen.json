@@ -1,21 +1,21 @@
 {
- "actualizado": 1794497364877,
+ "actualizado": 1794500379132,
  "inicio": 1793798179711,
  "ejecucion": {
-  "inicio": 1794494364587,
-  "fin": 1794497364877,
-  "mensajes": 9134667,
+  "inicio": 1794497378831,
+  "fin": 1794500379132,
+  "mensajes": 9577117,
   "reconexiones": 0,
   "eventos": 581,
   "errores": [],
-  "nuevos": 8,
+  "nuevos": 6,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6244,
- "falsos": 2466,
+ "total": 6247,
+ "falsos": 2467,
  "largos": {
-  "episodios": 11418,
+  "episodios": 11421,
   "eventos": 152,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 9929,
   "eventos": 39
  },
- "mediana": 0.571,
+ "mediana": 0.573,
  "captura": [
   {
    "s": 0.5,
-   "n": 3259,
-   "gan": 11798.73,
-   "nNeta": 1056,
-   "neta": 3718.69
+   "n": 3263,
+   "gan": 11802.66,
+   "nNeta": 1055,
+   "neta": 3718.31
   },
   {
    "s": 2,
-   "n": 1578,
-   "gan": 5711.76,
+   "n": 1582,
+   "gan": 5715.59,
    "nNeta": 433,
    "neta": 1743.74
   },
   {
    "s": 5,
-   "n": 952,
-   "gan": 3027.78,
+   "n": 956,
+   "gan": 3031.53,
    "nNeta": 175,
    "neta": 429.23
   },
   {
    "s": 30,
-   "n": 417,
-   "gan": 719.58,
+   "n": 421,
+   "gan": 723.33,
    "nNeta": 60,
    "neta": 83.39
   }
  ],
- "rentables": 2001,
+ "rentables": 1998,
  "porCapital": [
   {
    "capital": 500,
    "ops": 28,
    "descartadas": 153,
    "neta": 98.29,
-   "dias": 4.57,
-   "semana": 150.65
+   "dias": 4.6,
+   "semana": 149.5
   },
   {
    "capital": 1000,
    "ops": 43,
    "descartadas": 153,
    "neta": 134.42,
-   "dias": 4.57,
-   "semana": 206.02
+   "dias": 4.6,
+   "semana": 204.46
   },
   {
    "capital": 2000,
    "ops": 56,
    "descartadas": 153,
    "neta": 195.05,
-   "dias": 4.57,
-   "semana": 298.94
+   "dias": 4.6,
+   "semana": 296.67
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 4,
-   "horas": 78.3,
-   "episodios": 1190,
+   "horas": 79.2,
+   "episodios": 1196,
    "sospechosas": 20,
    "realistaNeta": 47.81,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2792,
-  "n": 1047,
-  "gan": 2959.36,
+  "conDato": 2798,
+  "n": 1051,
+  "gan": 2963.19,
   "nNeta": 265,
   "neta": 785.36
  },
@@ -232,7 +232,7 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1497
+   "n": 1496
   },
   {
    "et": "0.1–1 s",
@@ -252,19 +252,19 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 324
+   "n": 325
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 93
+   "n": 96
   }
  ],
  "porEvento": [
   {
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "n": 312,
-   "gan": 197.85,
+   "n": 313,
+   "gan": 198.76,
    "neta": 2.69,
    "mediana": 65.236
   },
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794214800000,
-   "n": 1
-  },
   {
    "h": 1794218400000,
    "n": 8
@@ -619,10 +615,62 @@
   },
   {
    "h": 1794495600000,
-   "n": 5
+   "n": 10
+  },
+  {
+   "h": 1794499200000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794498451471,
+   "titulo": "Pablo Picasso's “Le Baiser” Sale Price",
+   "dur": 1927.364,
+   "gan": 1.41,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794499807392,
+   "titulo": "Uzbekistan vs. Russia",
+   "dur": 0.84,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794498469495,
+   "titulo": "Uzbekistan vs. Russia",
+   "dur": 0.018,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794497510736,
+   "titulo": "Pablo Picasso's “Le Baiser” Sale Price",
+   "dur": 940.018,
+   "gan": 0.77,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794497381828,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 714.202,
+   "gan": 0.91,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794497380050,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 98.545,
+   "gan": 0.74,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794497341424,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
@@ -692,54 +740,6 @@
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
    "dur": 172.153,
    "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794491333907,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 3016.336,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794493313411,
-   "titulo": "Pablo Picasso's “Le Baiser” Sale Price",
-   "dur": 344.074,
-   "gan": 0.77,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794492217146,
-   "titulo": "Pablo Picasso's “Le Baiser” Sale Price",
-   "dur": 1096.117,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794492780507,
-   "titulo": "Young Boys vs. FC Stade-Lausanne-Ouchy",
-   "dur": 5.316,
-   "gan": 13.38,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794492243113,
-   "titulo": "Highest temperature in Madrid on November 12?",
-   "dur": 0.029,
-   "gan": 1.32,
-   "neta": 0.6,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794491585490,
-   "titulo": "Pablo Picasso's “Le Baiser” Sale Price",
-   "dur": 61.239,
-   "gan": 2.6,
    "neta": 0,
    "lado": "si"
   }
