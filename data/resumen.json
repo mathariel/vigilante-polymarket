@@ -1,55 +1,55 @@
 {
- "actualizado": 1794446013646,
+ "actualizado": 1794449028614,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794443013385,
-  "fin": 1794446013646,
-  "mensajes": 6550487,
+  "inicio": 1794446028331,
+  "fin": 1794449028614,
+  "mensajes": 6818536,
   "reconexiones": 0,
-  "eventos": 572,
+  "eventos": 567,
   "errores": [],
-  "nuevos": 4,
-  "nuevosRentables": 2,
-  "nuevosNeta": 15.07
+  "nuevos": 1,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 6038,
+ "total": 6039,
  "falsos": 2442,
  "largos": {
-  "episodios": 10730,
+  "episodios": 10833,
   "eventos": 157,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9925,
+  "episodios": 9927,
   "eventos": 39
  },
  "mediana": 0.589,
  "captura": [
   {
    "s": 0.5,
-   "n": 3192,
-   "gan": 11729.52,
+   "n": 3193,
+   "gan": 11730.15,
    "nNeta": 1064,
    "neta": 3706.85
   },
   {
    "s": 2,
-   "n": 1523,
-   "gan": 5652.5,
+   "n": 1524,
+   "gan": 5653.08,
    "nNeta": 435,
    "neta": 1729.72
   },
   {
    "s": 5,
-   "n": 900,
-   "gan": 2979.83,
+   "n": 901,
+   "gan": 2980.41,
    "nNeta": 178,
    "neta": 429.18
   },
   {
    "s": 30,
-   "n": 384,
-   "gan": 688,
+   "n": 385,
+   "gan": 688.58,
    "nNeta": 60,
    "neta": 83.39
   }
@@ -61,24 +61,24 @@
    "ops": 28,
    "descartadas": 153,
    "neta": 98.29,
-   "dias": 3.97,
-   "semana": 173.18
+   "dias": 4.01,
+   "semana": 171.67
   },
   {
    "capital": 1000,
    "ops": 42,
    "descartadas": 153,
    "neta": 133.6,
-   "dias": 3.97,
-   "semana": 235.39
+   "dias": 4.01,
+   "semana": 233.34
   },
   {
    "capital": 2000,
    "ops": 55,
    "descartadas": 153,
    "neta": 194.23,
-   "dias": 3.97,
-   "semana": 342.22
+   "dias": 4.01,
+   "semana": 339.24
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 3,
-   "horas": 65,
-   "episodios": 937,
+   "horas": 65.8,
+   "episodios": 938,
    "sospechosas": 15,
    "realistaNeta": 46.99,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2544,
-  "n": 960,
-  "gan": 2870.68,
+  "conDato": 2545,
+  "n": 961,
+  "gan": 2871.31,
   "nNeta": 264,
   "neta": 784.54
  },
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 75
+   "n": 76
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794164400000,
-   "n": 60
-  },
   {
    "h": 1794168000000,
    "n": 94
@@ -620,9 +616,21 @@
   {
    "h": 1794441600000,
    "n": 4
+  },
+  {
+   "h": 1794445200000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794448035256,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 356.423,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794444496939,
    "titulo": "Real Cundinamarca vs. Real Cartagena FC",
@@ -732,14 +740,6 @@
    "titulo": "Londrina EC vs. Clube Náutico Capibaribe",
    "dur": 0.184,
    "gan": 1.37,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794440887356,
-   "titulo": "Londrina EC vs. Clube Náutico Capibaribe",
-   "dur": 0.008,
-   "gan": 0.71,
    "neta": 0,
    "lado": "no"
   }
