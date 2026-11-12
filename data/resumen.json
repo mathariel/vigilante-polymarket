@@ -1,84 +1,84 @@
 {
- "actualizado": 1794482296583,
- "inicio": 1793766424556,
+ "actualizado": 1794485309730,
+ "inicio": 1793769363397,
  "ejecucion": {
-  "inicio": 1794479296310,
-  "fin": 1794482296583,
-  "mensajes": 7362888,
-  "reconexiones": 0,
-  "eventos": 580,
+  "inicio": 1794482309443,
+  "fin": 1794485309730,
+  "mensajes": 8337905,
+  "reconexiones": 1,
+  "eventos": 589,
   "errores": [],
-  "nuevos": 43,
+  "nuevos": 22,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6203,
- "falsos": 2457,
+ "total": 6215,
+ "falsos": 2460,
  "largos": {
-  "episodios": 11434,
-  "eventos": 155,
+  "episodios": 11426,
+  "eventos": 154,
   "dias": 7
  },
  "enEspera": {
   "episodios": 9930,
   "eventos": 39
  },
- "mediana": 0.569,
+ "mediana": 0.571,
  "captura": [
   {
    "s": 0.5,
-   "n": 3237,
-   "gan": 11761.47,
-   "nNeta": 1065,
-   "neta": 3709.49
+   "n": 3246,
+   "gan": 11781.14,
+   "nNeta": 1064,
+   "neta": 3722.8
   },
   {
    "s": 2,
-   "n": 1554,
-   "gan": 5663.3,
-   "nNeta": 436,
-   "neta": 1730.54
+   "n": 1563,
+   "gan": 5683.14,
+   "nNeta": 435,
+   "neta": 1743.85
   },
   {
    "s": 5,
-   "n": 927,
-   "gan": 2990.49,
-   "nNeta": 179,
-   "neta": 430
+   "n": 937,
+   "gan": 2997.47,
+   "nNeta": 178,
+   "neta": 429.89
   },
   {
    "s": 30,
-   "n": 402,
-   "gan": 701.1,
+   "n": 403,
+   "gan": 701.86,
    "nNeta": 60,
    "neta": 83.39
   }
  ],
- "rentables": 2016,
+ "rentables": 2017,
  "porCapital": [
   {
    "capital": 500,
    "ops": 28,
    "descartadas": 153,
    "neta": 98.29,
-   "dias": 4.39,
-   "semana": 156.63
+   "dias": 4.43,
+   "semana": 155.39
   },
   {
    "capital": 1000,
    "ops": 43,
    "descartadas": 153,
    "neta": 134.42,
-   "dias": 4.39,
-   "semana": 214.2
+   "dias": 4.43,
+   "semana": 212.51
   },
   {
    "capital": 2000,
    "ops": 56,
    "descartadas": 153,
    "neta": 195.05,
-   "dias": 4.39,
-   "semana": 310.81
+   "dias": 4.43,
+   "semana": 308.36
   }
  ],
  "maxBloqueoH": 24,
@@ -101,9 +101,9 @@
   {
    "lunes": "2026-11-09",
    "dias": 4,
-   "horas": 74.2,
-   "episodios": 1110,
-   "sospechosas": 17,
+   "horas": 75,
+   "episodios": 1132,
+   "sospechosas": 18,
    "realistaNeta": 47.81,
    "capital": {
     "500": 21.24,
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 117,
+  "n": 118,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2715,
-  "n": 1007,
-  "gan": 2911.38,
+  "conDato": 2736,
+  "n": 1021,
+  "gan": 2921.82,
   "nNeta": 265,
   "neta": 785.36
  },
@@ -237,17 +237,17 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2392
+   "n": 2395
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1399
+   "n": 1398
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 525
+   "n": 534
   },
   {
    "et": "30 s–5 min",
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 84
+   "n": 85
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794200400000,
-   "n": 15
-  },
   {
    "h": 1794204000000,
    "n": 14
@@ -619,127 +615,131 @@
   },
   {
    "h": 1794481200000,
-   "n": 15
+   "n": 36
+  },
+  {
+   "h": 1794484800000,
+   "n": 1
   }
  ],
  "recientes": [
   {
-   "inicio": 1794482248215,
+   "inicio": 1794483073149,
    "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 22.679,
-   "gan": 0.69,
+   "dur": 2236.297,
+   "gan": 0.76,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794482251662,
-   "titulo": "RB Leipzig vs. Mlada Boleslav",
-   "dur": 1.055,
-   "gan": 8,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794482166654,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 12.129,
-   "gan": 0.69,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794482080015,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 0.032,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794481991500,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 0.414,
-   "gan": 0.94,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794481902393,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 0.41,
-   "gan": 0.84,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794481812127,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 0.62,
-   "gan": 0.94,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794481722514,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 0.439,
-   "gan": 0.94,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794481642215,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 0.407,
-   "gan": 0.89,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794481592358,
+   "inicio": 1794484893587,
    "titulo": "Highest temperature in Paris on November 12?",
-   "dur": 0.019,
-   "gan": 0.66,
-   "neta": 0.27,
+   "dur": 3.446,
+   "gan": 17.07,
+   "neta": 16.12,
    "lado": "si"
   },
   {
-   "inicio": 1794481552820,
+   "inicio": 1794484296578,
+   "titulo": "BK Hacken vs. Fredrikstad FK",
+   "dur": 0.316,
+   "gan": 1.16,
+   "neta": 0.99,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794483038807,
    "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 0.435,
-   "gan": 1.47,
+   "dur": 11.462,
+   "gan": 0.76,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794481472762,
+   "inicio": 1794483012567,
    "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 0.417,
-   "gan": 1.47,
+   "dur": 12.489,
+   "gan": 0.76,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794481392969,
+   "inicio": 1794482998065,
    "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 0.412,
-   "gan": 1.47,
+   "dur": 0.382,
+   "gan": 0.69,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794481302458,
+   "inicio": 1794482973872,
    "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 0.43,
-   "gan": 1.47,
+   "dur": 16.703,
+   "gan": 0.76,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794481210925,
+   "inicio": 1794482942496,
    "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 0.679,
-   "gan": 1.47,
+   "dur": 13.141,
+   "gan": 0.76,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794482917734,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 11.753,
+   "gan": 1.26,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794482916333,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 0.021,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794482881517,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 12.747,
+   "gan": 0.76,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794482845281,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 15.094,
+   "gan": 0.76,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794482843080,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 0.404,
+   "gan": 0.69,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794482813500,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 12.408,
+   "gan": 0.76,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794482788538,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 12.053,
+   "gan": 0.76,
    "neta": 0,
    "lado": "no"
   }
