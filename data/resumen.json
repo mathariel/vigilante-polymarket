@@ -1,84 +1,84 @@
 {
- "actualizado": 1794494350533,
- "inicio": 1793778326829,
+ "actualizado": 1794497364877,
+ "inicio": 1793798179711,
  "ejecucion": {
-  "inicio": 1794491350240,
-  "fin": 1794494350533,
-  "mensajes": 8969398,
+  "inicio": 1794494364587,
+  "fin": 1794497364877,
+  "mensajes": 9134667,
   "reconexiones": 0,
-  "eventos": 590,
+  "eventos": 581,
   "errores": [],
-  "nuevos": 5,
+  "nuevos": 8,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6254,
- "falsos": 2458,
+ "total": 6244,
+ "falsos": 2466,
  "largos": {
-  "episodios": 11410,
-  "eventos": 151,
+  "episodios": 11418,
+  "eventos": 152,
   "dias": 7
  },
  "enEspera": {
   "episodios": 9929,
   "eventos": 39
  },
- "mediana": 0.57,
+ "mediana": 0.571,
  "captura": [
   {
    "s": 0.5,
-   "n": 3263,
-   "gan": 11810.06,
-   "nNeta": 1062,
-   "neta": 3721.99
+   "n": 3259,
+   "gan": 11798.73,
+   "nNeta": 1056,
+   "neta": 3718.69
   },
   {
    "s": 2,
-   "n": 1574,
-   "gan": 5709.62,
-   "nNeta": 434,
-   "neta": 1743.98
+   "n": 1578,
+   "gan": 5711.76,
+   "nNeta": 433,
+   "neta": 1743.74
   },
   {
    "s": 5,
-   "n": 947,
-   "gan": 3023.56,
-   "nNeta": 176,
-   "neta": 429.47
+   "n": 952,
+   "gan": 3027.78,
+   "nNeta": 175,
+   "neta": 429.23
   },
   {
    "s": 30,
-   "n": 413,
-   "gan": 716.19,
+   "n": 417,
+   "gan": 719.58,
    "nNeta": 60,
    "neta": 83.39
   }
  ],
- "rentables": 2014,
+ "rentables": 2001,
  "porCapital": [
   {
    "capital": 500,
    "ops": 28,
    "descartadas": 153,
    "neta": 98.29,
-   "dias": 4.53,
-   "semana": 151.81
+   "dias": 4.57,
+   "semana": 150.65
   },
   {
    "capital": 1000,
    "ops": 43,
    "descartadas": 153,
    "neta": 134.42,
-   "dias": 4.53,
-   "semana": 207.6
+   "dias": 4.57,
+   "semana": 206.02
   },
   {
    "capital": 2000,
    "ops": 56,
    "descartadas": 153,
    "neta": 195.05,
-   "dias": 4.53,
-   "semana": 301.24
+   "dias": 4.57,
+   "semana": 298.94
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 4,
-   "horas": 77.5,
-   "episodios": 1181,
+   "horas": 78.3,
+   "episodios": 1190,
    "sospechosas": 20,
    "realistaNeta": 47.81,
    "capital": {
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 119,
+  "n": 118,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2783,
-  "n": 1041,
-  "gan": 2954.59,
+  "conDato": 2792,
+  "n": 1047,
+  "gan": 2959.36,
   "nNeta": 265,
   "neta": 785.36
  },
@@ -232,41 +232,41 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1499
+   "n": 1497
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2397
+   "n": 2387
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1405
+   "n": 1402
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 534
+   "n": 535
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 322
+   "n": 324
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 91
+   "n": 93
   }
  ],
  "porEvento": [
   {
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "n": 309,
-   "gan": 195.92,
+   "n": 312,
+   "gan": 197.85,
    "neta": 2.69,
-   "mediana": 63.56
+   "mediana": 65.236
   },
   {
    "titulo": "Vitesse Arnhem vs. De Graafschap",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794211200000,
-   "n": 3
-  },
   {
    "h": 1794214800000,
    "n": 1
@@ -619,10 +615,86 @@
   },
   {
    "h": 1794492000000,
-   "n": 4
+   "n": 8
+  },
+  {
+   "h": 1794495600000,
+   "n": 5
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794497341424,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 23.166,
+   "gan": 0.73,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794497333088,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 31.502,
+   "gan": 0.74,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794495056488,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 2284.691,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794495772122,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 1560.749,
+   "gan": 1.45,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794496794167,
+   "titulo": "Ghana vs. Somalia - Halftime Result",
+   "dur": 11.946,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794496082091,
+   "titulo": "Young Boys vs. FC Stade-Lausanne-Ouchy",
+   "dur": 0.07,
+   "gan": 2.26,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794495230342,
+   "titulo": "Donald Trump # Truth Social posts November 10 - November 17, 2026?",
+   "dur": 0.034,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794494690485,
+   "titulo": "Grenada vs. St. Kitts and Nevis",
+   "dur": 0.138,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794494362270,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 172.153,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794491333907,
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
@@ -670,78 +742,6 @@
    "gan": 2.6,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794490550467,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 787.173,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794488334097,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 1696.785,
-   "gan": 3.48,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794485313518,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 3009.048,
-   "gan": 4.22,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794487954539,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 1.038,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794487954389,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.082,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794487954184,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.083,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794487953984,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.082,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794487952584,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.082,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794487952388,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.079,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
