@@ -1,21 +1,21 @@
 {
- "actualizado": 1794473254417,
+ "actualizado": 1794476267956,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794470254209,
-  "fin": 1794473254417,
-  "mensajes": 5908505,
-  "reconexiones": 2,
-  "eventos": 564,
+  "inicio": 1794473267671,
+  "fin": 1794476267956,
+  "mensajes": 6582822,
+  "reconexiones": 1,
+  "eventos": 583,
   "errores": [],
-  "nuevos": 2,
+  "nuevos": 3,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6077,
- "falsos": 2456,
+ "total": 6081,
+ "falsos": 2454,
  "largos": {
-  "episodios": 11528,
+  "episodios": 11544,
   "eventos": 160,
   "dias": 7
  },
@@ -23,33 +23,33 @@
   "episodios": 9931,
   "eventos": 39
  },
- "mediana": 0.59,
+ "mediana": 0.591,
  "captura": [
   {
    "s": 0.5,
-   "n": 3216,
-   "gan": 11751.25,
+   "n": 3219,
+   "gan": 11753.21,
    "nNeta": 1066,
    "neta": 3709.54
   },
   {
    "s": 2,
-   "n": 1540,
-   "gan": 5667.11,
+   "n": 1542,
+   "gan": 5668.47,
    "nNeta": 436,
    "neta": 1730.54
   },
   {
    "s": 5,
-   "n": 915,
-   "gan": 2994.38,
+   "n": 916,
+   "gan": 2995.22,
    "nNeta": 179,
    "neta": 430
   },
   {
    "s": 30,
-   "n": 394,
-   "gan": 697.55,
+   "n": 395,
+   "gan": 698.39,
    "nNeta": 60,
    "neta": 83.39
   }
@@ -61,24 +61,24 @@
    "ops": 28,
    "descartadas": 153,
    "neta": 98.29,
-   "dias": 4.29,
-   "semana": 160.45
+   "dias": 4.32,
+   "semana": 159.15
   },
   {
    "capital": 1000,
    "ops": 43,
    "descartadas": 153,
    "neta": 134.42,
-   "dias": 4.29,
-   "semana": 219.43
+   "dias": 4.32,
+   "semana": 217.66
   },
   {
    "capital": 2000,
    "ops": 56,
    "descartadas": 153,
    "neta": 195.05,
-   "dias": 4.29,
-   "semana": 318.39
+   "dias": 4.32,
+   "semana": 315.82
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 4,
-   "horas": 71.7,
-   "episodios": 976,
+   "horas": 72.5,
+   "episodios": 980,
    "sospechosas": 17,
    "realistaNeta": 47.81,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2581,
-  "n": 981,
-  "gan": 2888.78,
+  "conDato": 2585,
+  "n": 984,
+  "gan": 2890.74,
   "nNeta": 265,
   "neta": 785.36
  },
@@ -237,12 +237,12 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2349
+   "n": 2351
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1396
+   "n": 1397
   },
   {
    "et": "5–30 s",
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 80
+   "n": 81
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794189600000,
-   "n": 10
-  },
   {
    "h": 1794193200000,
    "n": 24
@@ -619,10 +615,46 @@
   },
   {
    "h": 1794470400000,
-   "n": 2
+   "n": 3
+  },
+  {
+   "h": 1794474000000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794473244656,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 3023.019,
+   "gan": 0.84,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794475680849,
+   "titulo": "Amedeo Modigliani's “Tête” Sale Price",
+   "dur": 0.808,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794475460003,
+   "titulo": "Highest temperature in Helsinki on November 14?",
+   "dur": 3.317,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794474106214,
+   "titulo": "Stevenage FC vs. Mansfield Town FC",
+   "dur": 0.284,
+   "gan": 0.97,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794470132751,
    "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
@@ -709,38 +741,6 @@
    "dur": 0.016,
    "gan": 4.61,
    "neta": 4.16,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794461527759,
-   "titulo": "Highest temperature in Hong Kong on November 12?",
-   "dur": 0.004,
-   "gan": 0.56,
-   "neta": 0.1,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794461527747,
-   "titulo": "Highest temperature in Hong Kong on November 12?",
-   "dur": 0.002,
-   "gan": 0.56,
-   "neta": 0.1,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794461527488,
-   "titulo": "Highest temperature in Hong Kong on November 12?",
-   "dur": 0.015,
-   "gan": 1.1,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794461418635,
-   "titulo": "CZ # posts November 6 - November 13, 2026?",
-   "dur": 0.147,
-   "gan": 0.79,
-   "neta": 0,
    "lado": "si"
   }
  ]
