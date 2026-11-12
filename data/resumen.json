@@ -1,55 +1,55 @@
 {
- "actualizado": 1794488322822,
- "inicio": 1793772412097,
+ "actualizado": 1794491337936,
+ "inicio": 1793775071623,
  "ejecucion": {
-  "inicio": 1794485322560,
-  "fin": 1794488322822,
-  "mensajes": 8589565,
+  "inicio": 1794488337633,
+  "fin": 1794491337936,
+  "mensajes": 8882519,
   "reconexiones": 0,
-  "eventos": 597,
+  "eventos": 585,
   "errores": [],
-  "nuevos": 40,
+  "nuevos": 1,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6255,
- "falsos": 2457,
+ "total": 6256,
+ "falsos": 2464,
  "largos": {
-  "episodios": 11395,
-  "eventos": 155,
+  "episodios": 11394,
+  "eventos": 156,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9930,
+  "episodios": 9931,
   "eventos": 39
  },
- "mediana": 0.566,
+ "mediana": 0.567,
  "captura": [
   {
    "s": 0.5,
-   "n": 3260,
-   "gan": 11792.62,
+   "n": 3262,
+   "gan": 11796.61,
    "nNeta": 1065,
    "neta": 3723.35
   },
   {
    "s": 2,
-   "n": 1570,
-   "gan": 5690.63,
+   "n": 1572,
+   "gan": 5694.62,
    "nNeta": 436,
    "neta": 1744.4
   },
   {
    "s": 5,
-   "n": 942,
-   "gan": 3003.77,
+   "n": 944,
+   "gan": 3007.76,
    "nNeta": 178,
    "neta": 429.89
   },
   {
    "s": 30,
-   "n": 407,
-   "gan": 707.66,
+   "n": 409,
+   "gan": 711.65,
    "nNeta": 60,
    "neta": 83.39
   }
@@ -61,24 +61,24 @@
    "ops": 28,
    "descartadas": 153,
    "neta": 98.29,
-   "dias": 4.46,
-   "semana": 154.18
+   "dias": 4.5,
+   "semana": 152.98
   },
   {
    "capital": 1000,
    "ops": 43,
    "descartadas": 153,
    "neta": 134.42,
-   "dias": 4.46,
-   "semana": 210.85
+   "dias": 4.5,
+   "semana": 209.21
   },
   {
    "capital": 2000,
    "ops": 56,
    "descartadas": 153,
    "neta": 195.05,
-   "dias": 4.46,
-   "semana": 305.95
+   "dias": 4.5,
+   "semana": 303.58
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 4,
-   "horas": 75.8,
-   "episodios": 1173,
+   "horas": 76.7,
+   "episodios": 1175,
    "sospechosas": 20,
    "realistaNeta": 47.81,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2775,
-  "n": 1034,
-  "gan": 2932.68,
+  "conDato": 2777,
+  "n": 1036,
+  "gan": 2936.67,
   "nNeta": 265,
   "neta": 785.36
  },
@@ -232,7 +232,7 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1500
+   "n": 1499
   },
   {
    "et": "0.1–1 s",
@@ -257,16 +257,16 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 86
+   "n": 88
   }
  ],
  "porEvento": [
   {
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "n": 307,
-   "gan": 194.74,
+   "n": 308,
+   "gan": 195.25,
    "neta": 2.69,
-   "mediana": 63.219
+   "mediana": 63.56
   },
   {
    "titulo": "Vitesse Arnhem vs. De Graafschap",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794204000000,
-   "n": 14
-  },
   {
    "h": 1794207600000,
    "n": 5
@@ -619,10 +615,30 @@
   },
   {
    "h": 1794484800000,
-   "n": 42
+   "n": 43
+  },
+  {
+   "h": 1794488400000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794490550467,
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "dur": 787.173,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794488334097,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 1696.785,
+   "gan": 3.48,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794485313518,
    "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
@@ -723,22 +739,6 @@
    "inicio": 1794487942888,
    "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
    "dur": 0.077,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794487942685,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.082,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794487942490,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.078,
    "gan": 0.5,
    "neta": 0,
    "lado": "no"
