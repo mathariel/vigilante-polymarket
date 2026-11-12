@@ -1,84 +1,84 @@
 {
- "actualizado": 1794515456878,
- "inicio": 1793812889856,
+ "actualizado": 1794518475312,
+ "inicio": 1793816249036,
  "ejecucion": {
-  "inicio": 1794512456575,
-  "fin": 1794515456878,
-  "mensajes": 11529874,
-  "reconexiones": 4,
-  "eventos": 597,
+  "inicio": 1794515474951,
+  "fin": 1794518475312,
+  "mensajes": 10559021,
+  "reconexiones": 2,
+  "eventos": 601,
   "errores": [],
-  "nuevos": 52,
-  "nuevosRentables": 2,
-  "nuevosNeta": 2.08
+  "nuevos": 93,
+  "nuevosRentables": 6,
+  "nuevosNeta": 12.2
  },
- "total": 6388,
- "falsos": 2468,
+ "total": 6360,
+ "falsos": 2447,
  "largos": {
-  "episodios": 11355,
+  "episodios": 11409,
   "eventos": 149,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9896,
+  "episodios": 9895,
   "eventos": 38
  },
- "mediana": 0.575,
+ "mediana": 0.587,
  "captura": [
   {
    "s": 0.5,
-   "n": 3340,
-   "gan": 11149.07,
-   "nNeta": 1067,
-   "neta": 3723.88
+   "n": 3350,
+   "gan": 11135.94,
+   "nNeta": 1072,
+   "neta": 3730.21
   },
   {
    "s": 2,
-   "n": 1630,
-   "gan": 5006.18,
-   "nNeta": 434,
-   "neta": 1743.76
+   "n": 1640,
+   "gan": 5031.86,
+   "nNeta": 436,
+   "neta": 1745.56
   },
   {
    "s": 5,
-   "n": 985,
-   "gan": 2303.87,
-   "nNeta": 173,
-   "neta": 427.99
+   "n": 988,
+   "gan": 2288.95,
+   "nNeta": 172,
+   "neta": 424.6
   },
   {
    "s": 30,
-   "n": 441,
-   "gan": 779.15,
+   "n": 444,
+   "gan": 780.89,
    "nNeta": 59,
    "neta": 83.21
   }
  ],
- "rentables": 2020,
+ "rentables": 2028,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 30,
-   "descartadas": 159,
-   "neta": 100.58,
-   "dias": 4.78,
-   "semana": 147.4
+   "ops": 32,
+   "descartadas": 163,
+   "neta": 108.46,
+   "dias": 4.81,
+   "semana": 157.79
   },
   {
    "capital": 1000,
-   "ops": 45,
-   "descartadas": 159,
-   "neta": 136.71,
-   "dias": 4.78,
-   "semana": 200.34
+   "ops": 47,
+   "descartadas": 163,
+   "neta": 144.59,
+   "dias": 4.81,
+   "semana": 210.35
   },
   {
    "capital": 2000,
-   "ops": 58,
-   "descartadas": 159,
-   "neta": 197.34,
-   "dias": 4.78,
-   "semana": 289.19
+   "ops": 60,
+   "descartadas": 163,
+   "neta": 205.22,
+   "dias": 4.81,
+   "semana": 298.55
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 4,
-   "horas": 83.3,
-   "episodios": 1434,
+   "horas": 84.2,
+   "episodios": 1527,
    "sospechosas": 21,
-   "realistaNeta": 50.58,
+   "realistaNeta": 62.78,
    "capital": {
-    "500": 23.53,
-    "1000": 34.4,
-    "2000": 34.4
+    "500": 31.41,
+    "1000": 42.28,
+    "2000": 42.28
    },
    "cumple": true
   }
@@ -222,27 +222,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3035,
-  "n": 1140,
-  "gan": 3118.8,
-  "nNeta": 273,
-  "neta": 788.13
+  "conDato": 3128,
+  "n": 1168,
+  "gan": 3190.81,
+  "nNeta": 279,
+  "neta": 800.33
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1530
+   "n": 1515
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2431
+   "n": 2405
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1436
+   "n": 1446
   },
   {
    "et": "5–30 s",
@@ -252,12 +252,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 340
+   "n": 342
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 101
+   "n": 102
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794232800000,
-   "n": 10
-  },
   {
    "h": 1794236400000,
    "n": 14
@@ -619,127 +615,131 @@
   },
   {
    "h": 1794513600000,
-   "n": 16
+   "n": 32
+  },
+  {
+   "h": 1794517200000,
+   "n": 77
   }
  ],
  "recientes": [
   {
-   "inicio": 1794515427712,
-   "titulo": "Czechia vs. Spain",
-   "dur": 1.901,
-   "gan": 2.56,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794515095163,
-   "titulo": "Czechia vs. Spain",
-   "dur": 1.835,
-   "gan": 0.81,
+   "inicio": 1794518039840,
+   "titulo": "Highest temperature in Buenos Aires on November 13?",
+   "dur": 435.114,
+   "gan": 0.68,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794515095020,
-   "titulo": "Czechia vs. Spain",
-   "dur": 0.059,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794515069457,
-   "titulo": "Czechia vs. Spain",
-   "dur": 1.072,
-   "gan": 1.3,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794515037642,
-   "titulo": "Italy vs. France",
-   "dur": 4.115,
-   "gan": 1.73,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794514752651,
+   "inicio": 1794518455514,
    "titulo": "Montenegro vs. Latvia",
-   "dur": 1.467,
-   "gan": 0.6,
+   "dur": 0.22,
+   "gan": 0.78,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794514645177,
+   "inicio": 1794518453689,
    "titulo": "Czechia vs. Spain",
-   "dur": 6.14,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794514558694,
-   "titulo": "England vs. Croatia",
-   "dur": 1.414,
-   "gan": 0.99,
+   "dur": 0.393,
+   "gan": 0.51,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794514421034,
-   "titulo": "Italy vs. France",
-   "dur": 0.024,
-   "gan": 1.99,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794514403140,
-   "titulo": "Italy vs. France",
-   "dur": 15.92,
-   "gan": 0.92,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794514380332,
-   "titulo": "Albania vs. Finland",
-   "dur": 1.45,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794514326615,
+   "inicio": 1794518452152,
    "titulo": "Czechia vs. Spain",
-   "dur": 1.598,
+   "dur": 1.08,
+   "gan": 1,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794518389968,
+   "titulo": "Czechia vs. Spain",
+   "dur": 1.454,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794518335811,
+   "titulo": "Montenegro vs. Latvia",
+   "dur": 2.221,
    "gan": 0.65,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794514324310,
-   "titulo": "Czechia vs. Spain",
-   "dur": 0.946,
-   "gan": 1.5,
+   "inicio": 1794518327810,
+   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
+   "dur": 0.108,
+   "gan": 0.98,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794514240687,
-   "titulo": "Bonaire vs. Cuba",
-   "dur": 0.106,
-   "gan": 0.52,
+   "inicio": 1794518278592,
+   "titulo": "Italy vs. France",
+   "dur": 0.849,
+   "gan": 0.95,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794514238153,
-   "titulo": "Bonaire vs. Cuba",
-   "dur": 0.019,
-   "gan": 0.53,
+   "inicio": 1794518278181,
+   "titulo": "Italy vs. France",
+   "dur": 0.386,
+   "gan": 0.78,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794518277916,
+   "titulo": "Italy vs. France",
+   "dur": 0.232,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794518277822,
+   "titulo": "Italy vs. France",
+   "dur": 0.011,
+   "gan": 0.69,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794518277785,
+   "titulo": "Italy vs. France",
+   "dur": 0.023,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794518277460,
+   "titulo": "Italy vs. France",
+   "dur": 0.293,
+   "gan": 0.91,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794518257214,
+   "titulo": "Italy vs. France",
+   "dur": 1.96,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794518253759,
+   "titulo": "Italy vs. France",
+   "dur": 0.92,
+   "gan": 1.93,
    "neta": 0,
    "lado": "no"
   }
