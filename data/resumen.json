@@ -1,50 +1,50 @@
 {
- "actualizado": 1794449028614,
+ "actualizado": 1794452041351,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794446028331,
-  "fin": 1794449028614,
-  "mensajes": 6818536,
+  "inicio": 1794449041105,
+  "fin": 1794452041351,
+  "mensajes": 7151368,
   "reconexiones": 0,
-  "eventos": 567,
+  "eventos": 563,
   "errores": [],
-  "nuevos": 1,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 3,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.82
  },
- "total": 6039,
+ "total": 6042,
  "falsos": 2442,
  "largos": {
-  "episodios": 10833,
+  "episodios": 10847,
   "eventos": 157,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9927,
+  "episodios": 9928,
   "eventos": 39
  },
  "mediana": 0.589,
  "captura": [
   {
    "s": 0.5,
-   "n": 3193,
-   "gan": 11730.15,
-   "nNeta": 1064,
-   "neta": 3706.85
+   "n": 3195,
+   "gan": 11733.36,
+   "nNeta": 1066,
+   "neta": 3709.54
   },
   {
    "s": 2,
-   "n": 1524,
-   "gan": 5653.08,
-   "nNeta": 435,
-   "neta": 1729.72
+   "n": 1525,
+   "gan": 5654.18,
+   "nNeta": 436,
+   "neta": 1730.54
   },
   {
    "s": 5,
-   "n": 901,
-   "gan": 2980.41,
-   "nNeta": 178,
-   "neta": 429.18
+   "n": 902,
+   "gan": 2981.51,
+   "nNeta": 179,
+   "neta": 430
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 83.39
   }
  ],
- "rentables": 2009,
+ "rentables": 2011,
  "porCapital": [
   {
    "capital": 500,
    "ops": 28,
    "descartadas": 153,
    "neta": 98.29,
-   "dias": 4.01,
-   "semana": 171.67
+   "dias": 4.04,
+   "semana": 170.19
   },
   {
    "capital": 1000,
-   "ops": 42,
+   "ops": 43,
    "descartadas": 153,
-   "neta": 133.6,
-   "dias": 4.01,
-   "semana": 233.34
+   "neta": 134.42,
+   "dias": 4.04,
+   "semana": 232.75
   },
   {
    "capital": 2000,
-   "ops": 55,
+   "ops": 56,
    "descartadas": 153,
-   "neta": 194.23,
-   "dias": 4.01,
-   "semana": 339.24
+   "neta": 195.05,
+   "dias": 4.04,
+   "semana": 337.73
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 3,
-   "horas": 65.8,
-   "episodios": 938,
-   "sospechosas": 15,
-   "realistaNeta": 46.99,
+   "horas": 66.7,
+   "episodios": 941,
+   "sospechosas": 16,
+   "realistaNeta": 47.81,
    "capital": {
     "500": 21.24,
-    "1000": 31.29,
-    "2000": 31.29
+    "1000": 32.11,
+    "2000": 32.11
    },
    "cumple": true
   }
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 115,
+  "n": 116,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,22 +222,22 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2545,
-  "n": 961,
-  "gan": 2871.31,
-  "nNeta": 264,
-  "neta": 784.54
+  "conDato": 2547,
+  "n": 962,
+  "gan": 2872.41,
+  "nNeta": 265,
+  "neta": 785.36
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1398
+   "n": 1399
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2346
+   "n": 2347
   },
   {
    "et": "1–5 s",
@@ -247,7 +247,7 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 516
+   "n": 517
   },
   {
    "et": "30 s–5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794168000000,
-   "n": 94
-  },
   {
    "h": 1794171600000,
    "n": 57
@@ -620,9 +616,37 @@
   {
    "h": 1794445200000,
    "n": 1
+  },
+  {
+   "h": 1794448800000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794450759985,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.067,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794449695864,
+   "titulo": "Deportes Quindio vs. Tigres FC",
+   "dur": 0.648,
+   "gan": 2.11,
+   "neta": 1.87,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794449622591,
+   "titulo": "Deportes Quindio vs. Tigres FC",
+   "dur": 7.41,
+   "gan": 1.1,
+   "neta": 0.82,
+   "lado": "no"
+  },
   {
    "inicio": 1794448035256,
    "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
@@ -716,30 +740,6 @@
    "titulo": "Londrina EC vs. Clube Náutico Capibaribe",
    "dur": 0.024,
    "gan": 0.69,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794440903336,
-   "titulo": "Londrina EC vs. Clube Náutico Capibaribe",
-   "dur": 0.045,
-   "gan": 0.57,
-   "neta": 0.02,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794440900691,
-   "titulo": "Londrina EC vs. Clube Náutico Capibaribe",
-   "dur": 2.454,
-   "gan": 12.13,
-   "neta": 2.81,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794440887414,
-   "titulo": "Londrina EC vs. Clube Náutico Capibaribe",
-   "dur": 0.184,
-   "gan": 1.37,
    "neta": 0,
    "lado": "no"
   }
