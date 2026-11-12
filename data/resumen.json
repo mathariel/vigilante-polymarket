@@ -1,84 +1,84 @@
 {
- "actualizado": 1794485309730,
- "inicio": 1793769363397,
+ "actualizado": 1794488322822,
+ "inicio": 1793772412097,
  "ejecucion": {
-  "inicio": 1794482309443,
-  "fin": 1794485309730,
-  "mensajes": 8337905,
-  "reconexiones": 1,
-  "eventos": 589,
+  "inicio": 1794485322560,
+  "fin": 1794488322822,
+  "mensajes": 8589565,
+  "reconexiones": 0,
+  "eventos": 597,
   "errores": [],
-  "nuevos": 22,
+  "nuevos": 40,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6215,
- "falsos": 2460,
+ "total": 6255,
+ "falsos": 2457,
  "largos": {
-  "episodios": 11426,
-  "eventos": 154,
+  "episodios": 11395,
+  "eventos": 155,
   "dias": 7
  },
  "enEspera": {
   "episodios": 9930,
   "eventos": 39
  },
- "mediana": 0.571,
+ "mediana": 0.566,
  "captura": [
   {
    "s": 0.5,
-   "n": 3246,
-   "gan": 11781.14,
-   "nNeta": 1064,
-   "neta": 3722.8
+   "n": 3260,
+   "gan": 11792.62,
+   "nNeta": 1065,
+   "neta": 3723.35
   },
   {
    "s": 2,
-   "n": 1563,
-   "gan": 5683.14,
-   "nNeta": 435,
-   "neta": 1743.85
+   "n": 1570,
+   "gan": 5690.63,
+   "nNeta": 436,
+   "neta": 1744.4
   },
   {
    "s": 5,
-   "n": 937,
-   "gan": 2997.47,
+   "n": 942,
+   "gan": 3003.77,
    "nNeta": 178,
    "neta": 429.89
   },
   {
    "s": 30,
-   "n": 403,
-   "gan": 701.86,
+   "n": 407,
+   "gan": 707.66,
    "nNeta": 60,
    "neta": 83.39
   }
  ],
- "rentables": 2017,
+ "rentables": 2019,
  "porCapital": [
   {
    "capital": 500,
    "ops": 28,
    "descartadas": 153,
    "neta": 98.29,
-   "dias": 4.43,
-   "semana": 155.39
+   "dias": 4.46,
+   "semana": 154.18
   },
   {
    "capital": 1000,
    "ops": 43,
    "descartadas": 153,
    "neta": 134.42,
-   "dias": 4.43,
-   "semana": 212.51
+   "dias": 4.46,
+   "semana": 210.85
   },
   {
    "capital": 2000,
    "ops": 56,
    "descartadas": 153,
    "neta": 195.05,
-   "dias": 4.43,
-   "semana": 308.36
+   "dias": 4.46,
+   "semana": 305.95
   }
  ],
  "maxBloqueoH": 24,
@@ -101,9 +101,9 @@
   {
    "lunes": "2026-11-09",
    "dias": 4,
-   "horas": 75,
-   "episodios": 1132,
-   "sospechosas": 18,
+   "horas": 75.8,
+   "episodios": 1173,
+   "sospechosas": 20,
    "realistaNeta": 47.81,
    "capital": {
     "500": 21.24,
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 118,
+  "n": 119,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2736,
-  "n": 1021,
-  "gan": 2921.82,
+  "conDato": 2775,
+  "n": 1034,
+  "gan": 2932.68,
   "nNeta": 265,
   "neta": 785.36
  },
@@ -232,32 +232,32 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1479
+   "n": 1500
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2395
+   "n": 2401
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1398
+   "n": 1406
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 534
+   "n": 535
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 318
+   "n": 321
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 85
+   "n": 86
   }
  ],
  "porEvento": [
@@ -619,127 +619,127 @@
   },
   {
    "h": 1794484800000,
-   "n": 1
+   "n": 42
   }
  ],
  "recientes": [
   {
-   "inicio": 1794483073149,
+   "inicio": 1794485313518,
    "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 2236.297,
-   "gan": 0.76,
+   "dur": 3009.048,
+   "gan": 4.22,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794484893587,
-   "titulo": "Highest temperature in Paris on November 12?",
-   "dur": 3.446,
-   "gan": 17.07,
-   "neta": 16.12,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794484296578,
-   "titulo": "BK Hacken vs. Fredrikstad FK",
-   "dur": 0.316,
-   "gan": 1.16,
-   "neta": 0.99,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794483038807,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 11.462,
-   "gan": 0.76,
+   "inicio": 1794487954539,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 1.038,
+   "gan": 0.51,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794483012567,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 12.489,
-   "gan": 0.76,
+   "inicio": 1794487954389,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.082,
+   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794482998065,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 0.382,
-   "gan": 0.69,
+   "inicio": 1794487954184,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.083,
+   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794482973872,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 16.703,
-   "gan": 0.76,
+   "inicio": 1794487953984,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.082,
+   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794482942496,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 13.141,
-   "gan": 0.76,
+   "inicio": 1794487952584,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.082,
+   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794482917734,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 11.753,
-   "gan": 1.26,
+   "inicio": 1794487952388,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.079,
+   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794482916333,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 0.021,
-   "gan": 0.56,
+   "inicio": 1794487952189,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.081,
+   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794482881517,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 12.747,
-   "gan": 0.76,
+   "inicio": 1794487951991,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.075,
+   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794482845281,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 15.094,
-   "gan": 0.76,
+   "inicio": 1794487951791,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.075,
+   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794482843080,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 0.404,
-   "gan": 0.69,
+   "inicio": 1794487946832,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.019,
+   "gan": 0.52,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794482813500,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 12.408,
-   "gan": 0.76,
+   "inicio": 1794487944136,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 1.442,
+   "gan": 0.53,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794482788538,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 12.053,
-   "gan": 0.76,
+   "inicio": 1794487942888,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.077,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794487942685,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.082,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794487942490,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.078,
+   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   }
