@@ -1,84 +1,84 @@
 {
- "actualizado": 1794509425703,
- "inicio": 1793807245902,
+ "actualizado": 1794512440575,
+ "inicio": 1793810218626,
  "ejecucion": {
-  "inicio": 1794506425402,
-  "fin": 1794509425703,
-  "mensajes": 10229405,
-  "reconexiones": 2,
-  "eventos": 597,
+  "inicio": 1794509440228,
+  "fin": 1794512440575,
+  "mensajes": 9785178,
+  "reconexiones": 0,
+  "eventos": 595,
   "errores": [],
-  "nuevos": 73,
-  "nuevosRentables": 3,
-  "nuevosNeta": 0.35
+  "nuevos": 40,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.02
  },
- "total": 6383,
- "falsos": 2474,
+ "total": 6420,
+ "falsos": 2469,
  "largos": {
-  "episodios": 11328,
+  "episodios": 11310,
   "eventos": 150,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9907,
+  "episodios": 9900,
   "eventos": 38
  },
  "mediana": 0.58,
  "captura": [
   {
    "s": 0.5,
-   "n": 3345,
-   "gan": 11969.44,
-   "nNeta": 1064,
-   "neta": 3728.37
+   "n": 3364,
+   "gan": 11999.13,
+   "nNeta": 1067,
+   "neta": 3725.85
   },
   {
    "s": 2,
-   "n": 1636,
-   "gan": 5812.92,
-   "nNeta": 437,
-   "neta": 1744.73
+   "n": 1646,
+   "gan": 5835.32,
+   "nNeta": 435,
+   "neta": 1742.96
   },
   {
    "s": 5,
-   "n": 995,
-   "gan": 3105.48,
+   "n": 1003,
+   "gan": 3125.7,
    "nNeta": 176,
    "neta": 429.27
   },
   {
    "s": 30,
-   "n": 445,
-   "gan": 778.43,
+   "n": 446,
+   "gan": 783.3,
    "nNeta": 60,
    "neta": 83.39
   }
  ],
- "rentables": 2019,
+ "rentables": 2026,
  "porCapital": [
   {
    "capital": 500,
    "ops": 29,
-   "descartadas": 157,
+   "descartadas": 158,
    "neta": 98.54,
-   "dias": 4.71,
-   "semana": 146.55
+   "dias": 4.74,
+   "semana": 145.47
   },
   {
    "capital": 1000,
    "ops": 44,
-   "descartadas": 157,
+   "descartadas": 158,
    "neta": 134.67,
-   "dias": 4.71,
-   "semana": 200.28
+   "dias": 4.74,
+   "semana": 198.81
   },
   {
    "capital": 2000,
    "ops": 57,
-   "descartadas": 157,
+   "descartadas": 158,
    "neta": 195.3,
-   "dias": 4.71,
-   "semana": 290.44
+   "dias": 4.74,
+   "semana": 288.31
   }
  ],
  "maxBloqueoH": 24,
@@ -101,10 +101,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 4,
-   "horas": 81.7,
-   "episodios": 1341,
+   "horas": 82.5,
+   "episodios": 1382,
    "sospechosas": 21,
-   "realistaNeta": 48.48,
+   "realistaNeta": 48.5,
    "capital": {
     "500": 21.49,
     "1000": 32.36,
@@ -222,32 +222,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2942,
-  "n": 1109,
-  "gan": 3061.63,
-  "nNeta": 270,
-  "neta": 786.03
+  "conDato": 2983,
+  "n": 1123,
+  "gan": 3087.79,
+  "nNeta": 271,
+  "neta": 786.05
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1522
+   "n": 1531
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2432
+   "n": 2443
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1428
+   "n": 1437
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 550
+   "n": 557
   },
   {
    "et": "30 s–5 min",
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 101
+   "n": 102
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794225600000,
-   "n": 1
-  },
   {
    "h": 1794229200000,
    "n": 1
@@ -619,128 +615,132 @@
   },
   {
    "h": 1794506400000,
-   "n": 74
+   "n": 77
+  },
+  {
+   "h": 1794510000000,
+   "n": 38
   }
  ],
  "recientes": [
   {
-   "inicio": 1794509205039,
-   "titulo": "Pablo Picasso's “Le Baiser” Sale Price",
-   "dur": 220.366,
-   "gan": 0.55,
+   "inicio": 1794512250630,
+   "titulo": "Donald Trump # Truth Social posts November 10 - November 17, 2026?",
+   "dur": 3.39,
+   "gan": 0.56,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794509254414,
-   "titulo": "Türkiye vs. Belgium",
-   "dur": 2.537,
-   "gan": 2.08,
-   "neta": 0.23,
    "lado": "no"
   },
   {
-   "inicio": 1794509181542,
-   "titulo": "Türkiye vs. Belgium",
-   "dur": 0.251,
+   "inicio": 1794512240449,
+   "titulo": "Donald Trump # Truth Social posts November 10 - November 17, 2026?",
+   "dur": 7.179,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794512244274,
+   "titulo": "FC Barcelona vs. Arsenal WFC",
+   "dur": 1.099,
    "gan": 0.58,
-   "neta": 0,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1794509128957,
-   "titulo": "Pablo Picasso's “Le Baiser” Sale Price",
-   "dur": 10.577,
-   "gan": 0.59,
-   "neta": 0,
+   "inicio": 1794512243018,
+   "titulo": "FC Barcelona vs. Arsenal WFC",
+   "dur": 1.044,
+   "gan": 1.25,
+   "neta": 0.06,
    "lado": "si"
   },
   {
-   "inicio": 1794509086283,
-   "titulo": "Armenia vs. Cyprus",
-   "dur": 1.797,
+   "inicio": 1794512241542,
+   "titulo": "FC Barcelona vs. Arsenal WFC",
+   "dur": 1.424,
+   "gan": 1.5,
+   "neta": 0.31,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794512235977,
+   "titulo": "FC Barcelona vs. Arsenal WFC",
+   "dur": 1.741,
    "gan": 0.5,
-   "neta": 0,
+   "neta": 0.02,
    "lado": "si"
   },
   {
-   "inicio": 1794508489184,
-   "titulo": "Pablo Picasso's “Le Baiser” Sale Price",
-   "dur": 398.817,
-   "gan": 0.87,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794508877950,
-   "titulo": "Türkiye vs. Belgium",
-   "dur": 2.505,
-   "gan": 0.8,
+   "inicio": 1794512209657,
+   "titulo": "Donald Trump # Truth Social posts November 10 - November 17, 2026?",
+   "dur": 0.121,
+   "gan": 0.54,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794508746900,
-   "titulo": "Armenia vs. Cyprus",
-   "dur": 0.176,
-   "gan": 0.6,
+   "inicio": 1794512208406,
+   "titulo": "FC Barcelona vs. Arsenal WFC",
+   "dur": 0.999,
+   "gan": 1.24,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794508745697,
-   "titulo": "Armenia vs. Cyprus",
-   "dur": 0.163,
-   "gan": 0.6,
+   "inicio": 1794512208352,
+   "titulo": "FC Barcelona vs. Arsenal WFC",
+   "dur": 0.006,
+   "gan": 0.67,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794508744853,
-   "titulo": "Armenia vs. Cyprus",
-   "dur": 0.766,
-   "gan": 0.65,
+   "inicio": 1794512208317,
+   "titulo": "FC Barcelona vs. Arsenal WFC",
+   "dur": 0.034,
+   "gan": 0.61,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794508744742,
-   "titulo": "Armenia vs. Cyprus",
-   "dur": 0.044,
-   "gan": 0.6,
+   "inicio": 1794512104136,
+   "titulo": "Donald Trump # Truth Social posts November 10 - November 17, 2026?",
+   "dur": 1.561,
+   "gan": 0.71,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794508477239,
-   "titulo": "Pablo Picasso's “Le Baiser” Sale Price",
-   "dur": 11.941,
-   "gan": 0.66,
+   "inicio": 1794512100780,
+   "titulo": "Donald Trump # Truth Social posts November 10 - November 17, 2026?",
+   "dur": 2.826,
+   "gan": 0.71,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794508477209,
-   "titulo": "Pablo Picasso's “Le Baiser” Sale Price",
-   "dur": 0.011,
-   "gan": 0.66,
+   "inicio": 1794512087779,
+   "titulo": "Donald Trump # Truth Social posts November 10 - November 17, 2026?",
+   "dur": 8.11,
+   "gan": 0.71,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794508343683,
-   "titulo": "Pablo Picasso's “Le Baiser” Sale Price",
-   "dur": 133.506,
-   "gan": 0.66,
+   "inicio": 1794512074972,
+   "titulo": "Donald Trump # Truth Social posts November 10 - November 17, 2026?",
+   "dur": 9.517,
+   "gan": 0.71,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794508445873,
-   "titulo": "Türkiye vs. Belgium",
-   "dur": 7.239,
-   "gan": 1.15,
-   "neta": 0.04,
+   "inicio": 1794512061970,
+   "titulo": "Donald Trump # Truth Social posts November 10 - November 17, 2026?",
+   "dur": 8.058,
+   "gan": 0.71,
+   "neta": 0,
    "lado": "no"
   }
  ]
