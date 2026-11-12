@@ -1,84 +1,84 @@
 {
- "actualizado": 1794500379132,
+ "actualizado": 1794503393922,
  "inicio": 1793798179711,
  "ejecucion": {
-  "inicio": 1794497378831,
-  "fin": 1794500379132,
-  "mensajes": 9577117,
+  "inicio": 1794500393617,
+  "fin": 1794503393922,
+  "mensajes": 9833042,
   "reconexiones": 0,
   "eventos": 581,
   "errores": [],
-  "nuevos": 6,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 46,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.07
  },
- "total": 6247,
- "falsos": 2467,
+ "total": 6294,
+ "falsos": 2469,
  "largos": {
-  "episodios": 11421,
-  "eventos": 152,
+  "episodios": 11393,
+  "eventos": 151,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9929,
+  "episodios": 9916,
   "eventos": 39
  },
  "mediana": 0.573,
  "captura": [
   {
    "s": 0.5,
-   "n": 3263,
-   "gan": 11802.66,
-   "nNeta": 1055,
-   "neta": 3718.31
+   "n": 3287,
+   "gan": 11865.87,
+   "nNeta": 1060,
+   "neta": 3728.01
   },
   {
    "s": 2,
-   "n": 1582,
-   "gan": 5715.59,
-   "nNeta": 433,
-   "neta": 1743.74
+   "n": 1596,
+   "gan": 5729.86,
+   "nNeta": 434,
+   "neta": 1743.81
   },
   {
    "s": 5,
-   "n": 956,
-   "gan": 3031.53,
+   "n": 968,
+   "gan": 3041.98,
    "nNeta": 175,
    "neta": 429.23
   },
   {
    "s": 30,
-   "n": 421,
-   "gan": 723.33,
+   "n": 430,
+   "gan": 732.28,
    "nNeta": 60,
    "neta": 83.39
   }
  ],
- "rentables": 1998,
+ "rentables": 2012,
  "porCapital": [
   {
    "capital": 500,
    "ops": 28,
-   "descartadas": 153,
+   "descartadas": 154,
    "neta": 98.29,
-   "dias": 4.6,
-   "semana": 149.5
+   "dias": 4.64,
+   "semana": 148.38
   },
   {
    "capital": 1000,
    "ops": 43,
-   "descartadas": 153,
+   "descartadas": 154,
    "neta": 134.42,
-   "dias": 4.6,
-   "semana": 204.46
+   "dias": 4.64,
+   "semana": 202.92
   },
   {
    "capital": 2000,
    "ops": 56,
-   "descartadas": 153,
+   "descartadas": 154,
    "neta": 195.05,
-   "dias": 4.6,
-   "semana": 296.67
+   "dias": 4.64,
+   "semana": 294.44
   }
  ],
  "maxBloqueoH": 24,
@@ -101,10 +101,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 4,
-   "horas": 79.2,
-   "episodios": 1196,
-   "sospechosas": 20,
-   "realistaNeta": 47.81,
+   "horas": 80,
+   "episodios": 1243,
+   "sospechosas": 21,
+   "realistaNeta": 47.88,
    "capital": {
     "500": 21.24,
     "1000": 32.11,
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 118,
+  "n": 119,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,42 +222,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2798,
-  "n": 1051,
-  "gan": 2963.19,
-  "nNeta": 265,
-  "neta": 785.36
+  "conDato": 2844,
+  "n": 1065,
+  "gan": 2977.44,
+  "nNeta": 266,
+  "neta": 785.43
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1496
+   "n": 1507
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2387
+   "n": 2406
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1402
+   "n": 1407
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 535
+   "n": 538
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 325
+   "n": 332
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 96
+   "n": 98
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794218400000,
-   "n": 8
-  },
   {
    "h": 1794222000000,
    "n": 20
@@ -619,129 +615,133 @@
   },
   {
    "h": 1794499200000,
-   "n": 1
+   "n": 35
+  },
+  {
+   "h": 1794502800000,
+   "n": 13
   }
  ],
  "recientes": [
   {
-   "inicio": 1794498451471,
+   "inicio": 1794502268505,
    "titulo": "Pablo Picasso's “Le Baiser” Sale Price",
-   "dur": 1927.364,
+   "dur": 1125.115,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794503336822,
+   "titulo": "Armenia vs. Cyprus",
+   "dur": 0.72,
+   "gan": 1.05,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794503323608,
+   "titulo": "Armenia vs. Cyprus",
+   "dur": 0.996,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794503322849,
+   "titulo": "Armenia vs. Cyprus",
+   "dur": 0.333,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794503271242,
+   "titulo": "Armenia vs. Cyprus",
+   "dur": 0.511,
+   "gan": 0.74,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794503271166,
+   "titulo": "Armenia vs. Cyprus",
+   "dur": 0.042,
+   "gan": 1.27,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794503269818,
+   "titulo": "Armenia vs. Cyprus",
+   "dur": 1.333,
+   "gan": 1.18,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794503269053,
+   "titulo": "Armenia vs. Cyprus",
+   "dur": 0.179,
    "gan": 1.41,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794499807392,
-   "titulo": "Uzbekistan vs. Russia",
-   "dur": 0.84,
+   "inicio": 1794503150761,
+   "titulo": "Highest temperature in Los Angeles on November 14?",
+   "dur": 27.79,
+   "gan": 0.95,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794503120135,
+   "titulo": "Highest temperature in Los Angeles on November 14?",
+   "dur": 29.938,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794503030551,
+   "titulo": "Highest temperature in Los Angeles on November 14?",
+   "dur": 36.919,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794502940339,
+   "titulo": "Highest temperature in Los Angeles on November 14?",
+   "dur": 57.772,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794502850580,
+   "titulo": "Highest temperature in Los Angeles on November 14?",
+   "dur": 57.834,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794502841472,
+   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
+   "dur": 0.02,
    "gan": 0.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794498469495,
-   "titulo": "Uzbekistan vs. Russia",
-   "dur": 0.018,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794497510736,
-   "titulo": "Pablo Picasso's “Le Baiser” Sale Price",
-   "dur": 940.018,
-   "gan": 0.77,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794497381828,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 714.202,
-   "gan": 0.91,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794497380050,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 98.545,
-   "gan": 0.74,
+   "inicio": 1794502758735,
+   "titulo": "Highest temperature in Los Angeles on November 14?",
+   "dur": 59.947,
+   "gan": 0.59,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1794497341424,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 23.166,
-   "gan": 0.73,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794497333088,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 31.502,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794495056488,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 2284.691,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794495772122,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 1560.749,
-   "gan": 1.45,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794496794167,
-   "titulo": "Ghana vs. Somalia - Halftime Result",
-   "dur": 11.946,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794496082091,
-   "titulo": "Young Boys vs. FC Stade-Lausanne-Ouchy",
-   "dur": 0.07,
-   "gan": 2.26,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794495230342,
-   "titulo": "Donald Trump # Truth Social posts November 10 - November 17, 2026?",
-   "dur": 0.034,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794494690485,
-   "titulo": "Grenada vs. St. Kitts and Nevis",
-   "dur": 0.138,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794494362270,
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "dur": 172.153,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
   }
  ]
 }
