@@ -1,21 +1,21 @@
 {
- "actualizado": 1794461200140,
+ "actualizado": 1794464213751,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794458199907,
-  "fin": 1794461200140,
-  "mensajes": 7891999,
-  "reconexiones": 0,
-  "eventos": 568,
+  "inicio": 1794461213482,
+  "fin": 1794464213751,
+  "mensajes": 7147837,
+  "reconexiones": 1,
+  "eventos": 559,
   "errores": [],
-  "nuevos": 0,
+  "nuevos": 10,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6058,
- "falsos": 2445,
+ "total": 6068,
+ "falsos": 2447,
  "largos": {
-  "episodios": 11278,
+  "episodios": 11447,
   "eventos": 159,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3206,
-   "gan": 11742.72,
+   "n": 3210,
+   "gan": 11746.13,
    "nNeta": 1066,
    "neta": 3709.54
   },
   {
    "s": 2,
-   "n": 1531,
-   "gan": 5659.29,
+   "n": 1535,
+   "gan": 5662.7,
    "nNeta": 436,
    "neta": 1730.54
   },
   {
    "s": 5,
-   "n": 907,
-   "gan": 2987.13,
+   "n": 911,
+   "gan": 2990.54,
    "nNeta": 179,
    "neta": 430
   },
   {
    "s": 30,
-   "n": 388,
-   "gan": 691.67,
+   "n": 391,
+   "gan": 694.53,
    "nNeta": 60,
    "neta": 83.39
   }
  ],
- "rentables": 2011,
+ "rentables": 2014,
  "porCapital": [
   {
    "capital": 500,
    "ops": 28,
    "descartadas": 153,
    "neta": 98.29,
-   "dias": 4.15,
-   "semana": 165.84
+   "dias": 4.18,
+   "semana": 164.46
   },
   {
    "capital": 1000,
    "ops": 43,
    "descartadas": 153,
    "neta": 134.42,
-   "dias": 4.15,
-   "semana": 226.8
+   "dias": 4.18,
+   "semana": 224.91
   },
   {
    "capital": 2000,
    "ops": 56,
    "descartadas": 153,
    "neta": 195.05,
-   "dias": 4.15,
-   "semana": 329.1
+   "dias": 4.18,
+   "semana": 326.36
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 4,
-   "horas": 68.3,
-   "episodios": 957,
+   "horas": 69.2,
+   "episodios": 967,
    "sospechosas": 16,
    "realistaNeta": 47.81,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2563,
-  "n": 972,
-  "gan": 2880.97,
+  "conDato": 2573,
+  "n": 976,
+  "gan": 2884.38,
   "nNeta": 265,
   "neta": 785.36
  },
@@ -232,12 +232,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1404
+   "n": 1409
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2347
+   "n": 2348
   },
   {
    "et": "1–5 s",
@@ -247,17 +247,17 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 519
+   "n": 520
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 312
+   "n": 314
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 76
+   "n": 77
   }
  ],
  "porEvento": [
@@ -333,14 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794175200000,
-   "n": 46
-  },
-  {
-   "h": 1794178800000,
-   "n": 17
-  },
   {
    "h": 1794182400000,
    "n": 72
@@ -620,9 +612,97 @@
   {
    "h": 1794456000000,
    "n": 16
+  },
+  {
+   "h": 1794459600000,
+   "n": 9
+  },
+  {
+   "h": 1794463200000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794461214562,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 2998.922,
+   "gan": 1.76,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794463254047,
+   "titulo": "Highest temperature in Qingdao on November 12?",
+   "dur": 0.016,
+   "gan": 4.61,
+   "neta": 4.16,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794461527759,
+   "titulo": "Highest temperature in Hong Kong on November 12?",
+   "dur": 0.004,
+   "gan": 0.56,
+   "neta": 0.1,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794461527747,
+   "titulo": "Highest temperature in Hong Kong on November 12?",
+   "dur": 0.002,
+   "gan": 0.56,
+   "neta": 0.1,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794461527488,
+   "titulo": "Highest temperature in Hong Kong on November 12?",
+   "dur": 0.015,
+   "gan": 1.1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794461418635,
+   "titulo": "CZ # posts November 6 - November 13, 2026?",
+   "dur": 0.147,
+   "gan": 0.79,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794461418463,
+   "titulo": "CZ # posts November 6 - November 13, 2026?",
+   "dur": 0.017,
+   "gan": 0.64,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794461258907,
+   "titulo": "CZ # posts November 6 - November 13, 2026?",
+   "dur": 159.524,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794461253295,
+   "titulo": "CZ # posts November 6 - November 13, 2026?",
+   "dur": 5.552,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794461222550,
+   "titulo": "CZ # posts November 6 - November 13, 2026?",
+   "dur": 30.639,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794457779267,
    "titulo": "Test Match: Pakistan vs Sri Lanka",
@@ -660,86 +740,6 @@
    "titulo": "Test Match: Pakistan vs Sri Lanka",
    "dur": 15.922,
    "gan": 0.56,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794457671777,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 0.03,
-   "gan": 0.77,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794457669865,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 1.907,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794457659956,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 1.993,
-   "gan": 0.9,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794457658053,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 1.896,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794457657950,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 0.033,
-   "gan": 0.77,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794457630665,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 1.045,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794457625709,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 4.879,
-   "gan": 0.8,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794457511650,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 114.058,
-   "gan": 0.9,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794457509742,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 1.904,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794457509646,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 0.039,
-   "gan": 0.77,
    "neta": 0,
    "lado": "no"
   }
