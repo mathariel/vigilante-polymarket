@@ -1,84 +1,84 @@
 {
- "actualizado": 1794443000332,
+ "actualizado": 1794446013646,
  "inicio": 1793760347875,
  "ejecucion": {
-  "inicio": 1794440000061,
-  "fin": 1794443000332,
-  "mensajes": 7120799,
-  "reconexiones": 1,
-  "eventos": 570,
+  "inicio": 1794443013385,
+  "fin": 1794446013646,
+  "mensajes": 6550487,
+  "reconexiones": 0,
+  "eventos": 572,
   "errores": [],
-  "nuevos": 26,
+  "nuevos": 4,
   "nuevosRentables": 2,
-  "nuevosNeta": 6.42
+  "nuevosNeta": 15.07
  },
- "total": 6034,
- "falsos": 2437,
+ "total": 6038,
+ "falsos": 2442,
  "largos": {
-  "episodios": 10716,
+  "episodios": 10730,
   "eventos": 157,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9924,
+  "episodios": 9925,
   "eventos": 39
  },
  "mediana": 0.589,
  "captura": [
   {
    "s": 0.5,
-   "n": 3188,
-   "gan": 11690.15,
-   "nNeta": 1060,
-   "neta": 3687.05
+   "n": 3192,
+   "gan": 11729.52,
+   "nNeta": 1064,
+   "neta": 3706.85
   },
   {
    "s": 2,
-   "n": 1521,
-   "gan": 5647.04,
-   "nNeta": 433,
-   "neta": 1725.41
+   "n": 1523,
+   "gan": 5652.5,
+   "nNeta": 435,
+   "neta": 1729.72
   },
   {
    "s": 5,
-   "n": 899,
-   "gan": 2979.25,
-   "nNeta": 177,
-   "neta": 429.15
+   "n": 900,
+   "gan": 2979.83,
+   "nNeta": 178,
+   "neta": 429.18
   },
   {
    "s": 30,
-   "n": 383,
-   "gan": 687.42,
-   "nNeta": 59,
-   "neta": 83.36
+   "n": 384,
+   "gan": 688,
+   "nNeta": 60,
+   "neta": 83.39
   }
  ],
- "rentables": 2005,
+ "rentables": 2009,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 27,
-   "descartadas": 152,
-   "neta": 93.3,
-   "dias": 3.94,
-   "semana": 165.85
+   "ops": 28,
+   "descartadas": 153,
+   "neta": 98.29,
+   "dias": 3.97,
+   "semana": 173.18
   },
   {
    "capital": 1000,
-   "ops": 41,
-   "descartadas": 152,
-   "neta": 118.56,
-   "dias": 3.94,
-   "semana": 210.74
+   "ops": 42,
+   "descartadas": 153,
+   "neta": 133.6,
+   "dias": 3.97,
+   "semana": 235.39
   },
   {
    "capital": 2000,
-   "ops": 54,
-   "descartadas": 152,
-   "neta": 179.19,
-   "dias": 3.94,
-   "semana": 318.51
+   "ops": 55,
+   "descartadas": 153,
+   "neta": 194.23,
+   "dias": 3.97,
+   "semana": 342.22
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 3,
-   "horas": 64.2,
-   "episodios": 933,
-   "sospechosas": 14,
-   "realistaNeta": 31.92,
+   "horas": 65,
+   "episodios": 937,
+   "sospechosas": 15,
+   "realistaNeta": 46.99,
    "capital": {
-    "500": 16.25,
-    "1000": 16.25,
-    "2000": 16.25
+    "500": 21.24,
+    "1000": 31.29,
+    "2000": 31.29
    },
    "cumple": true
   }
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 114,
+  "n": 115,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,11 +222,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 2541,
-  "n": 958,
-  "gan": 2837.77,
-  "nNeta": 262,
-  "neta": 769.47
+  "conDato": 2544,
+  "n": 960,
+  "gan": 2870.68,
+  "nNeta": 264,
+  "neta": 784.54
  },
  "duraciones": [
   {
@@ -242,7 +242,7 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1385
+   "n": 1388
   },
   {
    "et": "5–30 s",
@@ -252,7 +252,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 308
+   "n": 309
   },
   {
    "et": "> 5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794160800000,
-   "n": 189
-  },
   {
    "h": 1794164400000,
    "n": 60
@@ -620,9 +616,45 @@
   {
    "h": 1794438000000,
    "n": 26
+  },
+  {
+   "h": 1794441600000,
+   "n": 4
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794444496939,
+   "titulo": "Real Cundinamarca vs. Real Cartagena FC",
+   "dur": 1.505,
+   "gan": 34.79,
+   "neta": 16.88,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794444414724,
+   "titulo": "Real Cundinamarca vs. Real Cartagena FC",
+   "dur": 2.174,
+   "gan": 4.71,
+   "neta": 4.1,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794444410115,
+   "titulo": "Real Cundinamarca vs. Real Cartagena FC",
+   "dur": 1.115,
+   "gan": 0.93,
+   "neta": 0.17,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794443671756,
+   "titulo": "Highest temperature in Seattle on November 12?",
+   "dur": 150.064,
+   "gan": 0.58,
+   "neta": 0.03,
+   "lado": "si"
+  },
   {
    "inicio": 1794440966630,
    "titulo": "Londrina EC vs. Clube Náutico Capibaribe",
@@ -708,38 +740,6 @@
    "titulo": "Londrina EC vs. Clube Náutico Capibaribe",
    "dur": 0.008,
    "gan": 0.71,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794440887293,
-   "titulo": "Londrina EC vs. Clube Náutico Capibaribe",
-   "dur": 0.01,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794440887231,
-   "titulo": "Londrina EC vs. Clube Náutico Capibaribe",
-   "dur": 0.011,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794440876508,
-   "titulo": "Londrina EC vs. Clube Náutico Capibaribe",
-   "dur": 0.385,
-   "gan": 8.38,
-   "neta": 0.09,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794440866143,
-   "titulo": "Londrina EC vs. Clube Náutico Capibaribe",
-   "dur": 0.025,
-   "gan": 0.6,
    "neta": 0,
    "lado": "no"
   }
