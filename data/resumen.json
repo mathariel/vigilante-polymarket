@@ -1,84 +1,84 @@
 {
- "actualizado": 1794590877426,
- "inicio": 1793903661123,
+ "actualizado": 1794593892205,
+ "inicio": 1793906677618,
  "ejecucion": {
-  "inicio": 1794587877146,
-  "fin": 1794590877426,
-  "mensajes": 10906890,
+  "inicio": 1794590891894,
+  "fin": 1794593892205,
+  "mensajes": 9398033,
   "reconexiones": 0,
-  "eventos": 599,
+  "eventos": 602,
   "errores": [],
-  "nuevos": 27,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.39
+  "nuevos": 7,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5843,
- "falsos": 2241,
+ "total": 5806,
+ "falsos": 2246,
  "largos": {
-  "episodios": 12272,
+  "episodios": 12562,
   "eventos": 149,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9896,
-  "eventos": 35
+  "episodios": 9642,
+  "eventos": 34
  },
- "mediana": 0.547,
+ "mediana": 0.542,
  "captura": [
   {
    "s": 0.5,
-   "n": 3025,
-   "gan": 9822.99,
-   "nNeta": 1000,
-   "neta": 3405.41
+   "n": 2996,
+   "gan": 9698.57,
+   "nNeta": 987,
+   "neta": 3395.53
   },
   {
    "s": 2,
-   "n": 1452,
-   "gan": 4471,
-   "nNeta": 401,
-   "neta": 1507.24
+   "n": 1441,
+   "gan": 4413.62,
+   "nNeta": 396,
+   "neta": 1499.16
   },
   {
    "s": 5,
-   "n": 882,
-   "gan": 2117.46,
-   "nNeta": 172,
-   "neta": 405.21
+   "n": 878,
+   "gan": 2084.92,
+   "nNeta": 169,
+   "neta": 402.43
   },
   {
    "s": 30,
-   "n": 407,
-   "gan": 753.35,
-   "nNeta": 56,
-   "neta": 75.59
+   "n": 406,
+   "gan": 744.29,
+   "nNeta": 54,
+   "neta": 73.48
   }
  ],
- "rentables": 1940,
+ "rentables": 1925,
  "porCapital": [
   {
    "capital": 500,
    "ops": 47,
    "descartadas": 189,
    "neta": 123.24,
-   "dias": 5.65,
-   "semana": 152.7
+   "dias": 5.68,
+   "semana": 151.77
   },
   {
    "capital": 1000,
    "ops": 63,
    "descartadas": 189,
    "neta": 164.76,
-   "dias": 5.65,
-   "semana": 204.14
+   "dias": 5.68,
+   "semana": 202.89
   },
   {
    "capital": 2000,
    "ops": 76,
    "descartadas": 189,
    "neta": 225.39,
-   "dias": 5.65,
-   "semana": 279.26
+   "dias": 5.68,
+   "semana": 277.55
   }
  ],
  "maxBloqueoH": 24,
@@ -101,9 +101,9 @@
   {
    "lunes": "2026-11-09",
    "dias": 5,
-   "horas": 104.2,
-   "episodios": 1838,
-   "sospechosas": 25,
+   "horas": 105,
+   "episodios": 1847,
+   "sospechosas": 26,
    "realistaNeta": 99.81,
    "capital": {
     "500": 46.19,
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 112,
+  "n": 113,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3435,
-  "n": 1291,
-  "gan": 3366.42,
+  "conDato": 3443,
+  "n": 1297,
+  "gan": 3372.31,
   "nNeta": 321,
   "neta": 837.36
  },
@@ -232,32 +232,32 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1412
+   "n": 1409
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2247
+   "n": 2238
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1296
+   "n": 1275
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 475
+   "n": 472
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 300
+   "n": 298
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 107
+   "n": 108
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794319200000,
-   "n": 8
-  },
   {
    "h": 1794322800000,
    "n": 4
@@ -619,10 +615,86 @@
   },
   {
    "h": 1794589200000,
-   "n": 15
+   "n": 23
+  },
+  {
+   "h": 1794592800000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794590750418,
+   "titulo": "Belarus vs. Albania",
+   "dur": 3141.479,
+   "gan": 1.47,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794593500255,
+   "titulo": "Moldova vs. Kazakhstan",
+   "dur": 2.07,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794590888564,
+   "titulo": "Wassily Kandinsky's “Betonte Ecken” Sale Price",
+   "dur": 1769.857,
+   "gan": 1.54,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794592596694,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 0.146,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794592404239,
+   "titulo": "South Africa vs. Kenya",
+   "dur": 4.903,
+   "gan": 0.91,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794592181602,
+   "titulo": "# of views of Grand Theft Auto VI: Pre-Load Now on week 1?",
+   "dur": 72.829,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794591652148,
+   "titulo": "# of views of Grand Theft Auto VI: Pre-Load Now on week 1?",
+   "dur": 12.387,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794591582129,
+   "titulo": "Moldova vs. Kazakhstan",
+   "dur": 0.255,
+   "gan": 0.55,
+   "neta": 0.4,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794591474858,
+   "titulo": "Moldova vs. Kazakhstan",
+   "dur": 0.719,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794587894889,
    "titulo": "Wassily Kandinsky's “Betonte Ecken” Sale Price",
@@ -670,78 +742,6 @@
    "gan": 0.57,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794590719575,
-   "titulo": "Tunisia vs. Libya",
-   "dur": 0.151,
-   "gan": 1.11,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794590670999,
-   "titulo": "Cape Verde vs. Liberia",
-   "dur": 2.383,
-   "gan": 0.84,
-   "neta": 0.38,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794590596192,
-   "titulo": "South Africa vs. Kenya",
-   "dur": 0.899,
-   "gan": 0.94,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794590582682,
-   "titulo": "Tunisia vs. Libya",
-   "dur": 0.418,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794590582152,
-   "titulo": "Tunisia vs. Libya",
-   "dur": 0.497,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794590561978,
-   "titulo": "Tunisia vs. Libya",
-   "dur": 0.687,
-   "gan": 0.5,
-   "neta": 0.33,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794590561785,
-   "titulo": "Tunisia vs. Libya",
-   "dur": 0.01,
-   "gan": 0.6,
-   "neta": 0.13,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794590118949,
-   "titulo": "Nigeria vs. Tanzania",
-   "dur": 0.485,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794590118705,
-   "titulo": "Nigeria vs. Tanzania",
-   "dur": 0.23,
-   "gan": 1.05,
-   "neta": 0.1,
-   "lado": "no"
   }
  ]
 }
