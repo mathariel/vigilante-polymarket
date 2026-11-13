@@ -1,84 +1,84 @@
 {
- "actualizado": 1794581814528,
+ "actualizado": 1794584843591,
  "inicio": 1793900669772,
  "ejecucion": {
-  "inicio": 1794578814220,
-  "fin": 1794581814528,
-  "mensajes": 10678013,
-  "reconexiones": 0,
-  "eventos": 587,
+  "inicio": 1794581843369,
+  "fin": 1794584843591,
+  "mensajes": 9772170,
+  "reconexiones": 1,
+  "eventos": 589,
   "errores": [],
-  "nuevos": 18,
-  "nuevosRentables": 4,
-  "nuevosNeta": 7.57
+  "nuevos": 16,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5937,
- "falsos": 2277,
+ "total": 5903,
+ "falsos": 2260,
  "largos": {
-  "episodios": 12117,
+  "episodios": 12178,
   "eventos": 150,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9904,
+  "episodios": 9900,
   "eventos": 36
  },
  "mediana": 0.555,
  "captura": [
   {
    "s": 0.5,
-   "n": 3083,
-   "gan": 10020.2,
-   "nNeta": 1026,
-   "neta": 3489.58
+   "n": 3065,
+   "gan": 9949.28,
+   "nNeta": 1014,
+   "neta": 3437.92
   },
   {
    "s": 2,
-   "n": 1474,
-   "gan": 4593.37,
-   "nNeta": 413,
-   "neta": 1572.53
+   "n": 1465,
+   "gan": 4531.57,
+   "nNeta": 404,
+   "neta": 1520.96
   },
   {
    "s": 5,
-   "n": 889,
-   "gan": 2168.95,
-   "nNeta": 180,
-   "neta": 422.72
+   "n": 890,
+   "gan": 2173.8,
+   "nNeta": 177,
+   "neta": 419.74
   },
   {
    "s": 30,
-   "n": 405,
-   "gan": 765.8,
+   "n": 408,
+   "gan": 776.3,
    "nNeta": 58,
    "neta": 81.69
   }
  ],
- "rentables": 1970,
+ "rentables": 1949,
  "porCapital": [
   {
    "capital": 500,
    "ops": 45,
    "descartadas": 187,
    "neta": 122.53,
-   "dias": 5.54,
-   "semana": 154.7
+   "dias": 5.58,
+   "semana": 153.72
   },
   {
    "capital": 1000,
    "ops": 61,
    "descartadas": 187,
    "neta": 164.05,
-   "dias": 5.54,
-   "semana": 207.11
+   "dias": 5.58,
+   "semana": 205.81
   },
   {
    "capital": 2000,
    "ops": 74,
    "descartadas": 187,
    "neta": 224.68,
-   "dias": 5.54,
-   "semana": 283.65
+   "dias": 5.58,
+   "semana": 281.87
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 5,
-   "horas": 101.7,
-   "episodios": 1766,
+   "horas": 102.5,
+   "episodios": 1782,
    "sospechosas": 22,
    "realistaNeta": 98.62,
    "capital": {
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 112,
+  "n": 111,
   "top": [
    {
     "inicio": 1794062797308,
@@ -147,16 +147,6 @@
     "neta": 242.2,
     "costo": 1694.22,
     "ret": 16.7
-   },
-   {
-    "inicio": 1793903072946,
-    "titulo": "AC Sparta Praha vs. AFC Bournemouth",
-    "lado": "si",
-    "dur": 3.057,
-    "gan": 56.08,
-    "neta": 46.26,
-    "costo": 308.39,
-    "ret": 18.2
    },
    {
     "inicio": 1794047787171,
@@ -217,14 +207,24 @@
     "neta": 21.21,
     "costo": 27.76,
     "ret": 80.1
+   },
+   {
+    "inicio": 1794559847719,
+    "titulo": "Highest temperature in Tel Aviv on November 13?",
+    "lado": "si",
+    "dur": 0.028,
+    "gan": 20.77,
+    "neta": 19.22,
+    "costo": 78.47,
+    "ret": 26.5
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3366,
-  "n": 1273,
-  "gan": 3342.26,
+  "conDato": 3382,
+  "n": 1279,
+  "gan": 3355.32,
   "nNeta": 317,
   "neta": 836.17
  },
@@ -232,22 +232,22 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1421
+   "n": 1411
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2289
+   "n": 2280
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1332
+   "n": 1316
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 484
+   "n": 482
   },
   {
    "et": "30 s–5 min",
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 100
+   "n": 103
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794304800000,
-   "n": 15
-  },
   {
    "h": 1794308400000,
    "n": 17
@@ -619,128 +615,132 @@
   },
   {
    "h": 1794578400000,
-   "n": 24
+   "n": 25
+  },
+  {
+   "h": 1794582000000,
+   "n": 15
   }
  ],
  "recientes": [
   {
-   "inicio": 1794581586006,
-   "titulo": "Zambia vs. Burundi",
-   "dur": 0.01,
+   "inicio": 1794584786317,
+   "titulo": "Saudi Arabia vs. Korea Republic",
+   "dur": 0.309,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794584458526,
+   "titulo": "October Inflation UK - Annual",
+   "dur": 5.766,
+   "gan": 1.72,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794583951857,
+   "titulo": "United Arab Emirates vs. Honduras",
+   "dur": 0.563,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794583578115,
+   "titulo": "United Arab Emirates vs. Honduras",
+   "dur": 0.392,
+   "gan": 6.91,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794583570664,
+   "titulo": "United Arab Emirates vs. Honduras",
+   "dur": 0.133,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794583570300,
+   "titulo": "United Arab Emirates vs. Honduras",
+   "dur": 0.333,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794583290413,
+   "titulo": "United Arab Emirates vs. Honduras",
+   "dur": 0.368,
+   "gan": 2.39,
+   "neta": 1.66,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794583178405,
+   "titulo": "Saudi Arabia vs. Korea Republic - Halftime Result",
+   "dur": 0.092,
+   "gan": 0.5,
+   "neta": 0.33,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794583169311,
+   "titulo": "Saudi Arabia vs. Korea Republic",
+   "dur": 0.817,
+   "gan": 2.96,
+   "neta": 1.97,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794582148396,
+   "titulo": "Serbia vs. Germany",
+   "dur": 885.646,
+   "gan": 19.19,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794582278499,
+   "titulo": "Wassily Kandinsky's “Betonte Ecken” Sale Price",
+   "dur": 539.955,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794582761534,
+   "titulo": "Saudi Arabia vs. Korea Republic",
+   "dur": 1.939,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794582617198,
+   "titulo": "Saudi Arabia vs. Korea Republic",
+   "dur": 0.493,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794582611705,
+   "titulo": "Saudi Arabia vs. Korea Republic",
+   "dur": 5.015,
    "gan": 0.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794581340603,
-   "titulo": "OpenRouter token usage week of November 9?",
-   "dur": 0.026,
-   "gan": 0.52,
-   "neta": 0.1,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794581325114,
-   "titulo": "Mozambique vs. Ethiopia",
-   "dur": 0.698,
-   "gan": 0.56,
+   "inicio": 1794581865883,
+   "titulo": "Wassily Kandinsky's “Betonte Ecken” Sale Price",
+   "dur": 301.259,
+   "gan": 0.71,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794581314937,
-   "titulo": "Mozambique vs. Ethiopia",
-   "dur": 0.444,
-   "gan": 0.9,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794581300436,
-   "titulo": "Zambia vs. Burundi",
-   "dur": 0.694,
-   "gan": 2.29,
-   "neta": 0.16,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794581296736,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.403,
-   "gan": 1.01,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794581285953,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.722,
-   "gan": 1.02,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794581259864,
-   "titulo": "Zambia vs. Burundi",
-   "dur": 2.76,
-   "gan": 8.9,
-   "neta": 3.35,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794581253653,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 2.029,
-   "gan": 1.18,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794581247611,
-   "titulo": "Zambia vs. Burundi",
-   "dur": 0.251,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794581125767,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.063,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794581125216,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.104,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794581100564,
-   "titulo": "United Arab Emirates vs. Honduras",
-   "dur": 0.195,
-   "gan": 1,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794581100079,
-   "titulo": "United Arab Emirates vs. Honduras",
-   "dur": 0.076,
-   "gan": 1.46,
-   "neta": 0.84,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794580041144,
-   "titulo": "Highest temperature in Warsaw on November 13?",
-   "dur": 16.038,
-   "gan": 6.71,
-   "neta": 4.34,
    "lado": "si"
   }
  ]
