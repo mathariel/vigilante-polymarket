@@ -1,84 +1,84 @@
 {
- "actualizado": 1794545632942,
- "inicio": 1793840355524,
+ "actualizado": 1794548646841,
+ "inicio": 1793849414955,
  "ejecucion": {
-  "inicio": 1794542632729,
-  "fin": 1794545632942,
-  "mensajes": 7339666,
+  "inicio": 1794545646467,
+  "fin": 1794548646842,
+  "mensajes": 7546048,
   "reconexiones": 0,
-  "eventos": 582,
+  "eventos": 574,
   "errores": [],
-  "nuevos": 10,
-  "nuevosRentables": 2,
-  "nuevosNeta": 0.53
+  "nuevos": 2,
+  "nuevosRentables": 1,
+  "nuevosNeta": 10.75
  },
- "total": 5980,
- "falsos": 2325,
+ "total": 5940,
+ "falsos": 2323,
  "largos": {
-  "episodios": 11909,
-  "eventos": 152,
+  "episodios": 11975,
+  "eventos": 149,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9949,
+  "episodios": 9934,
   "eventos": 38
  },
- "mediana": 0.579,
+ "mediana": 0.571,
  "captura": [
   {
    "s": 0.5,
-   "n": 3136,
-   "gan": 10230.59,
-   "nNeta": 1035,
-   "neta": 3628.61
+   "n": 3107,
+   "gan": 10236.14,
+   "nNeta": 1033,
+   "neta": 3636.38
   },
   {
    "s": 2,
-   "n": 1507,
-   "gan": 4801.36,
+   "n": 1486,
+   "gan": 4810.53,
    "nNeta": 418,
-   "neta": 1723.05
+   "neta": 1731.06
   },
   {
    "s": 5,
-   "n": 897,
-   "gan": 2190.59,
+   "n": 878,
+   "gan": 2178.65,
    "nNeta": 169,
    "neta": 423.42
   },
   {
    "s": 30,
-   "n": 405,
-   "gan": 752,
+   "n": 394,
+   "gan": 744.73,
    "nNeta": 56,
    "neta": 81.77
   }
  ],
- "rentables": 1957,
+ "rentables": 1952,
  "porCapital": [
   {
    "capital": 500,
    "ops": 33,
-   "descartadas": 168,
+   "descartadas": 169,
    "neta": 115.3,
-   "dias": 5.13,
-   "semana": 157.46
+   "dias": 5.16,
+   "semana": 156.39
   },
   {
    "capital": 1000,
    "ops": 48,
-   "descartadas": 168,
+   "descartadas": 169,
    "neta": 151.43,
-   "dias": 5.13,
-   "semana": 206.79
+   "dias": 5.16,
+   "semana": 205.4
   },
   {
    "capital": 2000,
    "ops": 61,
-   "descartadas": 168,
+   "descartadas": 169,
    "neta": 212.06,
-   "dias": 5.13,
-   "semana": 289.59
+   "dias": 5.16,
+   "semana": 287.63
   }
  ],
  "maxBloqueoH": 24,
@@ -100,11 +100,11 @@
   },
   {
    "lunes": "2026-11-09",
-   "dias": 4,
-   "horas": 91.7,
-   "episodios": 1632,
+   "dias": 5,
+   "horas": 92.5,
+   "episodios": 1635,
    "sospechosas": 21,
-   "realistaNeta": 71.3,
+   "realistaNeta": 82.05,
    "capital": {
     "500": 38.25,
     "1000": 49.12,
@@ -222,42 +222,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3233,
-  "n": 1199,
-  "gan": 3233.71,
-  "nNeta": 285,
-  "neta": 808.85
+  "conDato": 3236,
+  "n": 1202,
+  "gan": 3261.03,
+  "nNeta": 286,
+  "neta": 819.6
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1415
+   "n": 1406
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2291
+   "n": 2287
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1371
+   "n": 1363
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 492
+   "n": 484
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 307
+   "n": 298
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 98
+   "n": 96
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794261600000,
-   "n": 17
-  },
   {
    "h": 1794268800000,
    "n": 3
@@ -619,10 +615,38 @@
   },
   {
    "h": 1794542400000,
-   "n": 10
+   "n": 11
+  },
+  {
+   "h": 1794546000000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794547987454,
+   "titulo": "Claude Monet's “Le Jardin des Tuileries” Sale Price",
+   "dur": 659.016,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794545635900,
+   "titulo": "Claude Monet's “Le Jardin des Tuileries” Sale Price",
+   "dur": 2351.55,
+   "gan": 0.78,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794546482208,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 2.902,
+   "gan": 22.86,
+   "neta": 9.48,
+   "lado": "si"
+  },
   {
    "inicio": 1794545631916,
    "titulo": "Claude Monet's “Le Jardin des Tuileries” Sale Price",
@@ -715,30 +739,6 @@
    "inicio": 1794540553186,
    "titulo": "\"The Cat in the Hat\" 2nd Weekend Box Office",
    "dur": 76.109,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794540549236,
-   "titulo": "\"The Cat in the Hat\" 2nd Weekend Box Office",
-   "dur": 3.054,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794540397859,
-   "titulo": "\"The Cat in the Hat\" 2nd Weekend Box Office",
-   "dur": 141.245,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794540363592,
-   "titulo": "\"The Cat in the Hat\" 2nd Weekend Box Office",
-   "dur": 0.024,
    "gan": 0.65,
    "neta": 0,
    "lado": "no"
