@@ -1,84 +1,84 @@
 {
- "actualizado": 1794572762794,
+ "actualizado": 1794575778872,
  "inicio": 1793897584954,
  "ejecucion": {
-  "inicio": 1794569762509,
-  "fin": 1794572762794,
-  "mensajes": 7320281,
-  "reconexiones": 15,
-  "eventos": 594,
+  "inicio": 1794572778579,
+  "fin": 1794575778872,
+  "mensajes": 7773716,
+  "reconexiones": 2,
+  "eventos": 580,
   "errores": [],
-  "nuevos": 2,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 15,
+  "nuevosRentables": 5,
+  "nuevosNeta": 2.18
  },
- "total": 5921,
- "falsos": 2277,
+ "total": 5935,
+ "falsos": 2280,
  "largos": {
-  "episodios": 12116,
+  "episodios": 12100,
   "eventos": 149,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9904,
+  "episodios": 9908,
   "eventos": 36
  },
- "mediana": 0.552,
+ "mediana": 0.553,
  "captura": [
   {
    "s": 0.5,
-   "n": 3071,
-   "gan": 10052.95,
-   "nNeta": 1025,
-   "neta": 3522.02
+   "n": 3079,
+   "gan": 10059.86,
+   "nNeta": 1030,
+   "neta": 3524.2
   },
   {
    "s": 2,
-   "n": 1462,
-   "gan": 4624.86,
-   "nNeta": 414,
-   "neta": 1605.06
+   "n": 1466,
+   "gan": 4629.38,
+   "nNeta": 415,
+   "neta": 1605.78
   },
   {
    "s": 5,
-   "n": 869,
-   "gan": 2153.59,
-   "nNeta": 176,
-   "neta": 417.78
+   "n": 874,
+   "gan": 2159.95,
+   "nNeta": 177,
+   "neta": 418.5
   },
   {
    "s": 30,
-   "n": 390,
-   "gan": 749.47,
+   "n": 392,
+   "gan": 751.86,
    "nNeta": 57,
    "neta": 81.32
   }
  ],
- "rentables": 1963,
+ "rentables": 1974,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 38,
+   "ops": 43,
    "descartadas": 186,
-   "neta": 118.52,
-   "dias": 5.44,
-   "semana": 152.51
+   "neta": 120.7,
+   "dias": 5.47,
+   "semana": 154.33
   },
   {
    "capital": 1000,
-   "ops": 53,
+   "ops": 58,
    "descartadas": 186,
-   "neta": 154.65,
-   "dias": 5.44,
-   "semana": 199
+   "neta": 156.83,
+   "dias": 5.47,
+   "semana": 200.52
   },
   {
    "capital": 2000,
-   "ops": 66,
+   "ops": 71,
    "descartadas": 186,
-   "neta": 215.28,
-   "dias": 5.44,
-   "semana": 277.02
+   "neta": 217.46,
+   "dias": 5.47,
+   "semana": 278.04
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 5,
-   "horas": 99.2,
-   "episodios": 1706,
+   "horas": 100,
+   "episodios": 1721,
    "sospechosas": 22,
-   "realistaNeta": 88.87,
+   "realistaNeta": 91.05,
    "capital": {
-    "500": 41.47,
-    "1000": 52.34,
-    "2000": 52.34
+    "500": 43.65,
+    "1000": 54.52,
+    "2000": 54.52
    },
    "cumple": true
   }
@@ -222,37 +222,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3306,
-  "n": 1231,
-  "gan": 3293.9,
-  "nNeta": 308,
-  "neta": 826.42
+  "conDato": 3321,
+  "n": 1240,
+  "gan": 3302.65,
+  "nNeta": 313,
+  "neta": 828.6
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1419
+   "n": 1424
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2287
+   "n": 2289
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1340
+   "n": 1342
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 479
+   "n": 482
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 295
+   "n": 297
   },
   {
    "et": "> 5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794290400000,
-   "n": 5
-  },
   {
    "h": 1794297600000,
    "n": 1
@@ -619,129 +615,133 @@
   },
   {
    "h": 1794571200000,
-   "n": 1
+   "n": 12
+  },
+  {
+   "h": 1794574800000,
+   "n": 4
   }
  ],
  "recientes": [
   {
-   "inicio": 1794571637574,
+   "inicio": 1794575743555,
+   "titulo": "Wassily Kandinsky's “Betonte Ecken” Sale Price",
+   "dur": 35.028,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794575738394,
+   "titulo": "Wassily Kandinsky's “Betonte Ecken” Sale Price",
+   "dur": 5.118,
+   "gan": 0.79,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794575590763,
    "titulo": "Singapore vs. Paraguay",
-   "dur": 0.751,
-   "gan": 2.16,
-   "neta": 0,
+   "dur": 0.225,
+   "gan": 0.62,
+   "neta": 0.44,
    "lado": "no"
   },
   {
-   "inicio": 1794569883145,
-   "titulo": "TSV Hartberg vs. Floridsdorfer AC",
-   "dur": 0.621,
-   "gan": 1.03,
-   "neta": 0.38,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794569323784,
-   "titulo": "White House # posts November 6 - November 13, 2026?",
-   "dur": 0.049,
-   "gan": 0.6,
+   "inicio": 1794575247849,
+   "titulo": "Wassily Kandinsky's “Betonte Ecken” Sale Price",
+   "dur": 70.555,
+   "gan": 0.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794568697032,
-   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
-   "dur": 0.218,
-   "gan": 1.43,
-   "neta": 1.16,
-   "lado": "no"
+   "inicio": 1794574613055,
+   "titulo": "Highest temperature in London on November 13?",
+   "dur": 14.614,
+   "gan": 1.61,
+   "neta": 0.7,
+   "lado": "si"
   },
   {
-   "inicio": 1794568697021,
-   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
-   "dur": 0.01,
-   "gan": 0.51,
-   "neta": 0.19,
-   "lado": "no"
+   "inicio": 1794574417565,
+   "titulo": "Highest temperature in Seattle on November 13?",
+   "dur": 1.88,
+   "gan": 0.54,
+   "neta": 0.14,
+   "lado": "si"
   },
   {
-   "inicio": 1794568696997,
-   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
-   "dur": 0.023,
-   "gan": 0.5,
-   "neta": 0.18,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794568696918,
-   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
-   "dur": 0.052,
-   "gan": 0.5,
+   "inicio": 1794574416996,
+   "titulo": "Highest temperature in Seattle on November 13?",
+   "dur": 0.05,
+   "gan": 0.57,
    "neta": 0.17,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794568696893,
-   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
-   "dur": 0.001,
-   "gan": 0.66,
+   "inicio": 1794574416578,
+   "titulo": "Highest temperature in Seattle on November 13?",
+   "dur": 0.043,
+   "gan": 0.57,
    "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794574416461,
+   "titulo": "Highest temperature in Seattle on November 13?",
+   "dur": 0.047,
+   "gan": 0.57,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794574415144,
+   "titulo": "Highest temperature in Seattle on November 13?",
+   "dur": 1.213,
+   "gan": 0.54,
+   "neta": 0.14,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794574413972,
+   "titulo": "Highest temperature in Seattle on November 13?",
+   "dur": 0.065,
+   "gan": 0.57,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794574408390,
+   "titulo": "Highest temperature in Seattle on November 13?",
+   "dur": 0.838,
+   "gan": 0.57,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794574407484,
+   "titulo": "Highest temperature in Seattle on November 13?",
+   "dur": 0.021,
+   "gan": 0.57,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794574299375,
+   "titulo": "Singapore vs. Paraguay",
+   "dur": 18.53,
+   "gan": 1.88,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794568695693,
-   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
-   "dur": 0.158,
-   "gan": 1.58,
-   "neta": 1.3,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794568695599,
-   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
-   "dur": 0.092,
+   "inicio": 1794573243684,
+   "titulo": "Highest temperature in Madrid on November 13?",
+   "dur": 1.507,
    "gan": 0.5,
-   "neta": 0.18,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794568695523,
-   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
-   "dur": 0.034,
-   "gan": 0.5,
-   "neta": 0.17,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794568692562,
-   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
-   "dur": 0.574,
-   "gan": 0.52,
-   "neta": 0.18,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794568692534,
-   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
-   "dur": 0.001,
-   "gan": 0.64,
-   "neta": 0.17,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794568691406,
-   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
-   "dur": 0.149,
-   "gan": 1.45,
-   "neta": 1.17,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794568691367,
-   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
-   "dur": 0.034,
-   "gan": 0.53,
-   "neta": 0.19,
-   "lado": "no"
+   "neta": 0.35,
+   "lado": "si"
   }
  ]
 }
