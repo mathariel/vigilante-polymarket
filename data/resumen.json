@@ -1,84 +1,84 @@
 {
- "actualizado": 1794575778872,
+ "actualizado": 1794578793929,
  "inicio": 1793897584954,
  "ejecucion": {
-  "inicio": 1794572778579,
-  "fin": 1794575778872,
-  "mensajes": 7773716,
-  "reconexiones": 2,
-  "eventos": 580,
+  "inicio": 1794575793664,
+  "fin": 1794578793929,
+  "mensajes": 9914895,
+  "reconexiones": 0,
+  "eventos": 586,
   "errores": [],
-  "nuevos": 15,
-  "nuevosRentables": 5,
-  "nuevosNeta": 2.18
+  "nuevos": 25,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5935,
- "falsos": 2280,
+ "total": 5936,
+ "falsos": 2275,
  "largos": {
-  "episodios": 12100,
+  "episodios": 12114,
   "eventos": 149,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9908,
+  "episodios": 9904,
   "eventos": 36
  },
- "mediana": 0.553,
+ "mediana": 0.556,
  "captura": [
   {
    "s": 0.5,
-   "n": 3079,
-   "gan": 10059.86,
-   "nNeta": 1030,
-   "neta": 3524.2
+   "n": 3086,
+   "gan": 10010.85,
+   "nNeta": 1022,
+   "neta": 3481.91
   },
   {
    "s": 2,
-   "n": 1466,
-   "gan": 4629.38,
-   "nNeta": 415,
-   "neta": 1605.78
+   "n": 1475,
+   "gan": 4583.29,
+   "nNeta": 409,
+   "neta": 1564.96
   },
   {
    "s": 5,
-   "n": 874,
-   "gan": 2159.95,
+   "n": 889,
+   "gan": 2166.23,
    "nNeta": 177,
    "neta": 418.5
   },
   {
    "s": 30,
-   "n": 392,
-   "gan": 751.86,
+   "n": 402,
+   "gan": 760.34,
    "nNeta": 57,
    "neta": 81.32
   }
  ],
- "rentables": 1974,
+ "rentables": 1966,
  "porCapital": [
   {
    "capital": 500,
    "ops": 43,
    "descartadas": 186,
    "neta": 120.7,
-   "dias": 5.47,
-   "semana": 154.33
+   "dias": 5.51,
+   "semana": 153.35
   },
   {
    "capital": 1000,
    "ops": 58,
    "descartadas": 186,
    "neta": 156.83,
-   "dias": 5.47,
-   "semana": 200.52
+   "dias": 5.51,
+   "semana": 199.25
   },
   {
    "capital": 2000,
    "ops": 71,
    "descartadas": 186,
    "neta": 217.46,
-   "dias": 5.47,
-   "semana": 278.04
+   "dias": 5.51,
+   "semana": 276.28
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 5,
-   "horas": 100,
-   "episodios": 1721,
+   "horas": 100.8,
+   "episodios": 1747,
    "sospechosas": 22,
    "realistaNeta": 91.05,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3321,
-  "n": 1240,
-  "gan": 3302.65,
+  "conDato": 3347,
+  "n": 1265,
+  "gan": 3319.55,
   "nNeta": 313,
   "neta": 828.6
  },
@@ -232,7 +232,7 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1424
+   "n": 1418
   },
   {
    "et": "0.1–1 s",
@@ -242,22 +242,22 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1342
+   "n": 1334
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 482
+   "n": 487
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 297
+   "n": 303
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 95
+   "n": 99
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794297600000,
-   "n": 1
-  },
   {
    "h": 1794304800000,
    "n": 15
@@ -619,129 +615,133 @@
   },
   {
    "h": 1794574800000,
-   "n": 4
+   "n": 25
+  },
+  {
+   "h": 1794578400000,
+   "n": 5
   }
  ],
  "recientes": [
   {
-   "inicio": 1794575743555,
-   "titulo": "Wassily Kandinsky's “Betonte Ecken” Sale Price",
-   "dur": 35.028,
-   "gan": 0.65,
+   "inicio": 1794578383659,
+   "titulo": "Pablo Picasso's “Le Baiser” Sale Price",
+   "dur": 410.008,
+   "gan": 2.4,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794575738394,
-   "titulo": "Wassily Kandinsky's “Betonte Ecken” Sale Price",
-   "dur": 5.118,
-   "gan": 0.79,
-   "neta": 0,
+   "inicio": 1794578608362,
+   "titulo": "Elon Musk # tweets November 6 - November 13, 2026?",
+   "dur": 0.141,
+   "gan": 0.82,
+   "neta": 0.01,
    "lado": "si"
   },
   {
-   "inicio": 1794575590763,
-   "titulo": "Singapore vs. Paraguay",
-   "dur": 0.225,
-   "gan": 0.62,
-   "neta": 0.44,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794575247849,
-   "titulo": "Wassily Kandinsky's “Betonte Ecken” Sale Price",
-   "dur": 70.555,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794574613055,
-   "titulo": "Highest temperature in London on November 13?",
-   "dur": 14.614,
-   "gan": 1.61,
-   "neta": 0.7,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794574417565,
-   "titulo": "Highest temperature in Seattle on November 13?",
-   "dur": 1.88,
-   "gan": 0.54,
-   "neta": 0.14,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794574416996,
-   "titulo": "Highest temperature in Seattle on November 13?",
-   "dur": 0.05,
-   "gan": 0.57,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794574416578,
-   "titulo": "Highest temperature in Seattle on November 13?",
-   "dur": 0.043,
-   "gan": 0.57,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794574416461,
-   "titulo": "Highest temperature in Seattle on November 13?",
-   "dur": 0.047,
-   "gan": 0.57,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794574415144,
-   "titulo": "Highest temperature in Seattle on November 13?",
-   "dur": 1.213,
-   "gan": 0.54,
-   "neta": 0.14,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794574413972,
-   "titulo": "Highest temperature in Seattle on November 13?",
-   "dur": 0.065,
-   "gan": 0.57,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794574408390,
-   "titulo": "Highest temperature in Seattle on November 13?",
-   "dur": 0.838,
-   "gan": 0.57,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794574407484,
-   "titulo": "Highest temperature in Seattle on November 13?",
-   "dur": 0.021,
-   "gan": 0.57,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794574299375,
-   "titulo": "Singapore vs. Paraguay",
-   "dur": 18.53,
-   "gan": 1.88,
+   "inicio": 1794578495224,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 71.246,
+   "gan": 0.53,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794573243684,
-   "titulo": "Highest temperature in Madrid on November 13?",
-   "dur": 1.507,
+   "inicio": 1794578474150,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 20.92,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794578471715,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 2.243,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794578470444,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 1.132,
    "gan": 0.5,
-   "neta": 0.35,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794577429841,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 1040.049,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794577168909,
+   "titulo": "Pablo Picasso's “Le Baiser” Sale Price",
+   "dur": 1211.77,
+   "gan": 1.68,
+   "neta": 0,
    "lado": "si"
+  },
+  {
+   "inicio": 1794578302157,
+   "titulo": "Wassily Kandinsky's “Betonte Ecken” Sale Price",
+   "dur": 17.541,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794577399626,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 30.061,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794577365897,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 33.67,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794577351450,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 14.364,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794577335787,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 15.475,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794577298919,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 36.61,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794577281460,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 16.976,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
