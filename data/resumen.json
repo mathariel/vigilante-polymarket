@@ -1,84 +1,84 @@
 {
- "actualizado": 1794593892205,
- "inicio": 1793906677618,
+ "actualizado": 1794596907216,
+ "inicio": 1793909692332,
  "ejecucion": {
-  "inicio": 1794590891894,
-  "fin": 1794593892205,
-  "mensajes": 9398033,
+  "inicio": 1794593906959,
+  "fin": 1794596907216,
+  "mensajes": 8924773,
   "reconexiones": 0,
-  "eventos": 602,
+  "eventos": 592,
   "errores": [],
-  "nuevos": 7,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 18,
+  "nuevosRentables": 2,
+  "nuevosNeta": 1.26
  },
- "total": 5806,
- "falsos": 2246,
+ "total": 5818,
+ "falsos": 2275,
  "largos": {
-  "episodios": 12562,
+  "episodios": 12573,
   "eventos": 149,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9642,
-  "eventos": 34
+  "episodios": 9596,
+  "eventos": 35
  },
- "mediana": 0.542,
+ "mediana": 0.547,
  "captura": [
   {
    "s": 0.5,
-   "n": 2996,
-   "gan": 9698.57,
-   "nNeta": 987,
-   "neta": 3395.53
+   "n": 3010,
+   "gan": 9716.76,
+   "nNeta": 991,
+   "neta": 3397.48
   },
   {
    "s": 2,
-   "n": 1441,
-   "gan": 4413.62,
-   "nNeta": 396,
-   "neta": 1499.16
+   "n": 1448,
+   "gan": 4426.89,
+   "nNeta": 397,
+   "neta": 1500.39
   },
   {
    "s": 5,
-   "n": 878,
-   "gan": 2084.92,
+   "n": 887,
+   "gan": 2097.02,
    "nNeta": 169,
    "neta": 402.43
   },
   {
    "s": 30,
-   "n": 406,
-   "gan": 744.29,
+   "n": 412,
+   "gan": 754.66,
    "nNeta": 54,
    "neta": 73.48
   }
  ],
- "rentables": 1925,
+ "rentables": 1927,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 47,
-   "descartadas": 189,
-   "neta": 123.24,
-   "dias": 5.68,
-   "semana": 151.77
+   "ops": 48,
+   "descartadas": 190,
+   "neta": 124.29,
+   "dias": 5.72,
+   "semana": 152.13
   },
   {
    "capital": 1000,
-   "ops": 63,
-   "descartadas": 189,
-   "neta": 164.76,
-   "dias": 5.68,
-   "semana": 202.89
+   "ops": 64,
+   "descartadas": 190,
+   "neta": 165.81,
+   "dias": 5.72,
+   "semana": 202.94
   },
   {
    "capital": 2000,
-   "ops": 76,
-   "descartadas": 189,
-   "neta": 225.39,
-   "dias": 5.68,
-   "semana": 277.55
+   "ops": 77,
+   "descartadas": 190,
+   "neta": 226.44,
+   "dias": 5.72,
+   "semana": 277.14
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 5,
-   "horas": 105,
-   "episodios": 1847,
+   "horas": 105.8,
+   "episodios": 1866,
    "sospechosas": 26,
-   "realistaNeta": 99.81,
+   "realistaNeta": 101.07,
    "capital": {
-    "500": 46.19,
-    "1000": 62.45,
-    "2000": 62.45
+    "500": 47.24,
+    "1000": 63.5,
+    "2000": 63.5
    },
    "cumple": true
   }
@@ -222,11 +222,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3443,
-  "n": 1297,
-  "gan": 3372.31,
-  "nNeta": 321,
-  "neta": 837.36
+  "conDato": 3462,
+  "n": 1312,
+  "gan": 3390.7,
+  "nNeta": 323,
+  "neta": 838.62
  },
  "duraciones": [
   {
@@ -242,22 +242,22 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1275
+   "n": 1278
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 472
+   "n": 475
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 298
+   "n": 302
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 108
+   "n": 110
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794322800000,
-   "n": 4
-  },
   {
    "h": 1794326400000,
    "n": 6
@@ -619,128 +615,132 @@
   },
   {
    "h": 1794592800000,
-   "n": 1
+   "n": 17
+  },
+  {
+   "h": 1794596400000,
+   "n": 3
   }
  ],
  "recientes": [
   {
-   "inicio": 1794590750418,
+   "inicio": 1794593902201,
    "titulo": "Belarus vs. Albania",
-   "dur": 3141.479,
+   "dur": 3004.761,
    "gan": 1.47,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794593500255,
-   "titulo": "Moldova vs. Kazakhstan",
-   "dur": 2.07,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794590888564,
-   "titulo": "Wassily Kandinsky's “Betonte Ecken” Sale Price",
-   "dur": 1769.857,
-   "gan": 1.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794592596694,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 0.146,
+   "inicio": 1794596648357,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 0.028,
    "gan": 0.56,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794592404239,
-   "titulo": "South Africa vs. Kenya",
-   "dur": 4.903,
-   "gan": 0.91,
+   "inicio": 1794596494916,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 152.662,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794596494864,
+   "titulo": "Slovakia vs. Faroe Islands",
+   "dur": 87.525,
+   "gan": 6.31,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794592181602,
-   "titulo": "# of views of Grand Theft Auto VI: Pre-Load Now on week 1?",
-   "dur": 72.829,
+   "inicio": 1794595938417,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 556.411,
    "gan": 0.52,
    "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794595979062,
+   "titulo": "# of views of Grand Theft Auto VI: Pre-Load Now on week 1?",
+   "dur": 1.978,
+   "gan": 1.06,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794591652148,
-   "titulo": "# of views of Grand Theft Auto VI: Pre-Load Now on week 1?",
-   "dur": 12.387,
+   "inicio": 1794595923871,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 6.262,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794595912493,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 9.927,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794595909359,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 1.53,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794595893958,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 1.492,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794595789703,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 104.244,
    "gan": 0.63,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794591582129,
-   "titulo": "Moldova vs. Kazakhstan",
-   "dur": 0.255,
-   "gan": 0.55,
-   "neta": 0.4,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794591474858,
-   "titulo": "Moldova vs. Kazakhstan",
-   "dur": 0.719,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794587894889,
-   "titulo": "Wassily Kandinsky's “Betonte Ecken” Sale Price",
-   "dur": 2982.26,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794587672234,
-   "titulo": "Belarus vs. Albania",
-   "dur": 3204.915,
-   "gan": 1.47,
-   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794590796295,
-   "titulo": "Moldova vs. Kazakhstan",
-   "dur": 0.076,
-   "gan": 1.9,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794590789179,
-   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
-   "dur": 0.344,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794590788899,
-   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
-   "dur": 0.034,
-   "gan": 0.84,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794590314865,
+   "inicio": 1794595803474,
    "titulo": "# of views of Grand Theft Auto VI: Pre-Load Now on week 1?",
-   "dur": 418.429,
-   "gan": 0.57,
+   "dur": 69.639,
+   "gan": 0.72,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794595843614,
+   "titulo": "Moldova vs. Kazakhstan",
+   "dur": 2.531,
+   "gan": 0.65,
+   "neta": 0.21,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794595842775,
+   "titulo": "Moldova vs. Kazakhstan",
+   "dur": 0.838,
+   "gan": 0.55,
+   "neta": 0.11,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794595774586,
+   "titulo": "Moldova vs. Kazakhstan",
+   "dur": 1.122,
+   "gan": 0.53,
+   "neta": 0.18,
    "lado": "si"
   }
  ]
