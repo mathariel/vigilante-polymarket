@@ -1,84 +1,84 @@
 {
- "actualizado": 1794584843591,
- "inicio": 1793900669772,
+ "actualizado": 1794587863566,
+ "inicio": 1793903656688,
  "ejecucion": {
-  "inicio": 1794581843369,
-  "fin": 1794584843591,
-  "mensajes": 9772170,
+  "inicio": 1794584863199,
+  "fin": 1794587863566,
+  "mensajes": 11451467,
   "reconexiones": 1,
-  "eventos": 589,
+  "eventos": 595,
   "errores": [],
-  "nuevos": 16,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 28,
+  "nuevosRentables": 3,
+  "nuevosNeta": 0.8
  },
- "total": 5903,
- "falsos": 2260,
+ "total": 5869,
+ "falsos": 2275,
  "largos": {
-  "episodios": 12178,
-  "eventos": 150,
+  "episodios": 12207,
+  "eventos": 149,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9900,
-  "eventos": 36
+  "episodios": 9896,
+  "eventos": 35
  },
- "mediana": 0.555,
+ "mediana": 0.549,
  "captura": [
   {
    "s": 0.5,
-   "n": 3065,
-   "gan": 9949.28,
-   "nNeta": 1014,
-   "neta": 3437.92
+   "n": 3041,
+   "gan": 9871.44,
+   "nNeta": 1012,
+   "neta": 3429.41
   },
   {
    "s": 2,
-   "n": 1465,
-   "gan": 4531.57,
-   "nNeta": 404,
-   "neta": 1520.96
+   "n": 1455,
+   "gan": 4488.19,
+   "nNeta": 406,
+   "neta": 1521.67
   },
   {
    "s": 5,
-   "n": 890,
-   "gan": 2173.8,
-   "nNeta": 177,
-   "neta": 419.74
+   "n": 884,
+   "gan": 2133.71,
+   "nNeta": 178,
+   "neta": 420.03
   },
   {
    "s": 30,
-   "n": 408,
-   "gan": 776.3,
+   "n": 406,
+   "gan": 758.28,
    "nNeta": 58,
    "neta": 81.69
   }
  ],
- "rentables": 1949,
+ "rentables": 1953,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 45,
-   "descartadas": 187,
-   "neta": 122.53,
-   "dias": 5.58,
-   "semana": 153.72
+   "ops": 47,
+   "descartadas": 188,
+   "neta": 123.24,
+   "dias": 5.61,
+   "semana": 153.65
   },
   {
    "capital": 1000,
-   "ops": 61,
-   "descartadas": 187,
-   "neta": 164.05,
-   "dias": 5.58,
-   "semana": 205.81
+   "ops": 63,
+   "descartadas": 188,
+   "neta": 164.76,
+   "dias": 5.61,
+   "semana": 205.41
   },
   {
    "capital": 2000,
-   "ops": 74,
-   "descartadas": 187,
-   "neta": 224.68,
-   "dias": 5.58,
-   "semana": 281.87
+   "ops": 76,
+   "descartadas": 188,
+   "neta": 225.39,
+   "dias": 5.61,
+   "semana": 281
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 5,
-   "horas": 102.5,
-   "episodios": 1782,
-   "sospechosas": 22,
-   "realistaNeta": 98.62,
+   "horas": 103.3,
+   "episodios": 1810,
+   "sospechosas": 23,
+   "realistaNeta": 99.42,
    "capital": {
-    "500": 45.48,
-    "1000": 61.74,
-    "2000": 61.74
+    "500": 46.19,
+    "1000": 62.45,
+    "2000": 62.45
    },
    "cumple": true
   }
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 111,
+  "n": 112,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,42 +222,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3382,
-  "n": 1279,
-  "gan": 3355.32,
-  "nNeta": 317,
-  "neta": 836.17
+  "conDato": 3409,
+  "n": 1286,
+  "gan": 3362.16,
+  "nNeta": 320,
+  "neta": 836.97
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1411
+   "n": 1413
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2280
+   "n": 2261
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1316
+   "n": 1305
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 482
+   "n": 478
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 305
+   "n": 302
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 103
+   "n": 104
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794308400000,
-   "n": 17
-  },
   {
    "h": 1794315600000,
    "n": 8
@@ -619,128 +615,132 @@
   },
   {
    "h": 1794582000000,
-   "n": 15
+   "n": 21
+  },
+  {
+   "h": 1794585600000,
+   "n": 22
   }
  ],
  "recientes": [
   {
-   "inicio": 1794584786317,
-   "titulo": "Saudi Arabia vs. Korea Republic",
-   "dur": 0.309,
-   "gan": 0.58,
+   "inicio": 1794587844778,
+   "titulo": "Wassily Kandinsky's “Betonte Ecken” Sale Price",
+   "dur": 18.424,
+   "gan": 0.6,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794584458526,
-   "titulo": "October Inflation UK - Annual",
-   "dur": 5.766,
-   "gan": 1.72,
+   "inicio": 1794587462789,
+   "titulo": "Belarus vs. Albania",
+   "dur": 400.413,
+   "gan": 1.47,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794583951857,
-   "titulo": "United Arab Emirates vs. Honduras",
-   "dur": 0.563,
+   "inicio": 1794587709803,
+   "titulo": "Wassily Kandinsky's “Betonte Ecken” Sale Price",
+   "dur": 29.515,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794587326500,
+   "titulo": "Highest temperature in Shanghai on November 14?",
+   "dur": 7.144,
+   "gan": 0.96,
+   "neta": 0.15,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794587325219,
+   "titulo": "Highest temperature in Shanghai on November 14?",
+   "dur": 0.553,
+   "gan": 0.59,
+   "neta": 0.04,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794587324874,
+   "titulo": "Highest temperature in Shanghai on November 14?",
+   "dur": 0.09,
+   "gan": 0.69,
+   "neta": 0.09,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794587322761,
+   "titulo": "Highest temperature in Shanghai on November 14?",
+   "dur": 0.021,
+   "gan": 1.02,
+   "neta": 0.8,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794587322727,
+   "titulo": "Highest temperature in Shanghai on November 14?",
+   "dur": 0.029,
+   "gan": 2.09,
+   "neta": 1.71,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794587320885,
+   "titulo": "Highest temperature in Shanghai on November 14?",
+   "dur": 0.02,
+   "gan": 0.7,
+   "neta": 0.12,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794587319579,
+   "titulo": "Highest temperature in Shanghai on November 14?",
+   "dur": 0.025,
+   "gan": 1.96,
+   "neta": 0.12,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794587319554,
+   "titulo": "Highest temperature in Shanghai on November 14?",
+   "dur": 0.024,
    "gan": 0.8,
+   "neta": 0.12,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794587319526,
+   "titulo": "Highest temperature in Shanghai on November 14?",
+   "dur": 0.026,
+   "gan": 0.93,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794583578115,
-   "titulo": "United Arab Emirates vs. Honduras",
-   "dur": 0.392,
-   "gan": 6.91,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794583570664,
-   "titulo": "United Arab Emirates vs. Honduras",
-   "dur": 0.133,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794583570300,
-   "titulo": "United Arab Emirates vs. Honduras",
-   "dur": 0.333,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794583290413,
-   "titulo": "United Arab Emirates vs. Honduras",
-   "dur": 0.368,
-   "gan": 2.39,
-   "neta": 1.66,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794583178405,
-   "titulo": "Saudi Arabia vs. Korea Republic - Halftime Result",
-   "dur": 0.092,
-   "gan": 0.5,
-   "neta": 0.33,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794583169311,
-   "titulo": "Saudi Arabia vs. Korea Republic",
-   "dur": 0.817,
-   "gan": 2.96,
-   "neta": 1.97,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794582148396,
-   "titulo": "Serbia vs. Germany",
-   "dur": 885.646,
-   "gan": 19.19,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794582278499,
-   "titulo": "Wassily Kandinsky's “Betonte Ecken” Sale Price",
-   "dur": 539.955,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794582761534,
-   "titulo": "Saudi Arabia vs. Korea Republic",
-   "dur": 1.939,
+   "inicio": 1794587309807,
+   "titulo": "Highest temperature in Shanghai on November 14?",
+   "dur": 3.691,
    "gan": 0.55,
-   "neta": 0,
+   "neta": 0.29,
    "lado": "si"
   },
   {
-   "inicio": 1794582617198,
-   "titulo": "Saudi Arabia vs. Korea Republic",
-   "dur": 0.493,
-   "gan": 0.6,
-   "neta": 0,
+   "inicio": 1794587308367,
+   "titulo": "Highest temperature in Shanghai on November 14?",
+   "dur": 0.024,
+   "gan": 1.12,
+   "neta": 0.74,
    "lado": "si"
   },
   {
-   "inicio": 1794582611705,
-   "titulo": "Saudi Arabia vs. Korea Republic",
-   "dur": 5.015,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794581865883,
-   "titulo": "Wassily Kandinsky's “Betonte Ecken” Sale Price",
-   "dur": 301.259,
-   "gan": 0.71,
-   "neta": 0,
+   "inicio": 1794587308176,
+   "titulo": "Highest temperature in Shanghai on November 14?",
+   "dur": 0.189,
+   "gan": 0.61,
+   "neta": 0.09,
    "lado": "si"
   }
  ]
