@@ -1,84 +1,84 @@
 {
- "actualizado": 1794563720462,
- "inicio": 1793885529606,
+ "actualizado": 1794566734287,
+ "inicio": 1793891527059,
  "ejecucion": {
-  "inicio": 1794560720184,
-  "fin": 1794563720462,
-  "mensajes": 6779307,
+  "inicio": 1794563734056,
+  "fin": 1794566734287,
+  "mensajes": 6990946,
   "reconexiones": 0,
-  "eventos": 568,
+  "eventos": 573,
   "errores": [],
-  "nuevos": 0,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 12,
+  "nuevosRentables": 9,
+  "nuevosNeta": 1.15
  },
- "total": 5882,
- "falsos": 2290,
+ "total": 5894,
+ "falsos": 2280,
  "largos": {
-  "episodios": 12129,
+  "episodios": 12133,
   "eventos": 150,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9907,
-  "eventos": 37
+  "episodios": 9904,
+  "eventos": 36
  },
- "mediana": 0.556,
+ "mediana": 0.56,
  "captura": [
   {
    "s": 0.5,
-   "n": 3057,
-   "gan": 10050.89,
-   "nNeta": 1009,
-   "neta": 3514.34
+   "n": 3069,
+   "gan": 10058.83,
+   "nNeta": 1018,
+   "neta": 3515.49
   },
   {
    "s": 2,
-   "n": 1453,
-   "gan": 4631.31,
-   "nNeta": 404,
-   "neta": 1602.13
+   "n": 1462,
+   "gan": 4637.45,
+   "nNeta": 411,
+   "neta": 1602.65
   },
   {
    "s": 5,
-   "n": 865,
-   "gan": 2165.76,
-   "nNeta": 170,
-   "neta": 417.32
+   "n": 871,
+   "gan": 2169.65,
+   "nNeta": 175,
+   "neta": 417.68
   },
   {
    "s": 30,
-   "n": 389,
-   "gan": 748.65,
+   "n": 390,
+   "gan": 749.62,
    "nNeta": 56,
    "neta": 81.22
   }
  ],
- "rentables": 1926,
+ "rentables": 1936,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 36,
-   "descartadas": 176,
-   "neta": 117.48,
-   "dias": 5.34,
-   "semana": 154.14
+   "ops": 37,
+   "descartadas": 184,
+   "neta": 118.03,
+   "dias": 5.37,
+   "semana": 153.85
   },
   {
    "capital": 1000,
-   "ops": 51,
-   "descartadas": 176,
-   "neta": 153.61,
-   "dias": 5.34,
-   "semana": 201.54
+   "ops": 52,
+   "descartadas": 184,
+   "neta": 154.16,
+   "dias": 5.37,
+   "semana": 200.95
   },
   {
    "capital": 2000,
-   "ops": 64,
-   "descartadas": 176,
-   "neta": 214.24,
-   "dias": 5.34,
-   "semana": 281.08
+   "ops": 65,
+   "descartadas": 184,
+   "neta": 214.79,
+   "dias": 5.37,
+   "semana": 279.98
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 5,
-   "horas": 96.7,
-   "episodios": 1657,
+   "horas": 97.5,
+   "episodios": 1669,
    "sospechosas": 22,
-   "realistaNeta": 85.31,
+   "realistaNeta": 86.46,
    "capital": {
-    "500": 40.43,
-    "1000": 51.3,
-    "2000": 51.3
+    "500": 40.98,
+    "1000": 51.85,
+    "2000": 51.85
    },
    "cumple": true
   }
@@ -222,11 +222,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3257,
-  "n": 1215,
-  "gan": 3281.16,
-  "nNeta": 296,
-  "neta": 822.86
+  "conDato": 3269,
+  "n": 1227,
+  "gan": 3289.1,
+  "nNeta": 305,
+  "neta": 824.01
  },
  "duraciones": [
   {
@@ -237,17 +237,17 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2274
+   "n": 2275
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1334
+   "n": 1339
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 476
+   "n": 481
   },
   {
    "et": "30 s–5 min",
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 94
+   "n": 95
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794276000000,
-   "n": 76
-  },
   {
    "h": 1794279600000,
    "n": 8
@@ -620,9 +616,109 @@
   {
    "h": 1794556800000,
    "n": 20
+  },
+  {
+   "h": 1794564000000,
+   "n": 12
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794564240139,
+   "titulo": "Singapore vs. Paraguay",
+   "dur": 1136.09,
+   "gan": 0.97,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794565269435,
+   "titulo": "Highest temperature in Ankara on November 13?",
+   "dur": 0.826,
+   "gan": 1.85,
+   "neta": 1.25,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794564795314,
+   "titulo": "Zelenskyy # posts November 6 - November 13, 2026?",
+   "dur": 27.413,
+   "gan": 0.53,
+   "neta": 0.07,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794564786564,
+   "titulo": "Zelenskyy # posts November 6 - November 13, 2026?",
+   "dur": 8.651,
+   "gan": 0.52,
+   "neta": 0.06,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794564780085,
+   "titulo": "Zelenskyy # posts November 6 - November 13, 2026?",
+   "dur": 6.411,
+   "gan": 0.52,
+   "neta": 0.07,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794564764215,
+   "titulo": "Zelenskyy # posts November 6 - November 13, 2026?",
+   "dur": 15.755,
+   "gan": 0.53,
+   "neta": 0.07,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794564761409,
+   "titulo": "Zelenskyy # posts November 6 - November 13, 2026?",
+   "dur": 2.709,
+   "gan": 0.55,
+   "neta": 0.08,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794564760129,
+   "titulo": "Zelenskyy # posts November 6 - November 13, 2026?",
+   "dur": 1.237,
+   "gan": 0.55,
+   "neta": 0.08,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794564744813,
+   "titulo": "Zelenskyy # posts November 6 - November 13, 2026?",
+   "dur": 14.286,
+   "gan": 0.75,
+   "neta": 0.08,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794564741534,
+   "titulo": "Zelenskyy # posts November 6 - November 13, 2026?",
+   "dur": 3.235,
+   "gan": 0.76,
+   "neta": 0.08,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794564738279,
+   "titulo": "Zelenskyy # posts November 6 - November 13, 2026?",
+   "dur": 3.027,
+   "gan": 0.93,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794564736630,
+   "titulo": "Zelenskyy # posts November 6 - November 13, 2026?",
+   "dur": 1.594,
+   "gan": 0.86,
+   "neta": 0.04,
+   "lado": "si"
+  },
   {
    "inicio": 1794560271820,
    "titulo": "Highest temperature in Tel Aviv on November 13?",
@@ -645,102 +741,6 @@
    "dur": 11.517,
    "gan": 0.53,
    "neta": 0.15,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794560253284,
-   "titulo": "Highest temperature in Tel Aviv on November 13?",
-   "dur": 1.13,
-   "gan": 0.5,
-   "neta": 0.12,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794560253229,
-   "titulo": "Highest temperature in Tel Aviv on November 13?",
-   "dur": 0.037,
-   "gan": 0.77,
-   "neta": 0.32,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794560236729,
-   "titulo": "Highest temperature in Tel Aviv on November 13?",
-   "dur": 16.478,
-   "gan": 0.5,
-   "neta": 0.13,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794560231327,
-   "titulo": "Highest temperature in Tel Aviv on November 13?",
-   "dur": 4.799,
-   "gan": 0.55,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794560229909,
-   "titulo": "Highest temperature in Tel Aviv on November 13?",
-   "dur": 0.024,
-   "gan": 0.51,
-   "neta": 0.13,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794560208627,
-   "titulo": "Highest temperature in Tel Aviv on November 13?",
-   "dur": 7.985,
-   "gan": 1.28,
-   "neta": 0.91,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794559847904,
-   "titulo": "Highest temperature in Tel Aviv on November 13?",
-   "dur": 3.546,
-   "gan": 1.08,
-   "neta": 0.75,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794559847857,
-   "titulo": "Highest temperature in Tel Aviv on November 13?",
-   "dur": 0.021,
-   "gan": 0.57,
-   "neta": 0.28,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794559847719,
-   "titulo": "Highest temperature in Tel Aviv on November 13?",
-   "dur": 0.028,
-   "gan": 20.77,
-   "neta": 19.22,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794559005211,
-   "titulo": "Japan vs. Brazil",
-   "dur": 57.846,
-   "gan": 10.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794556993831,
-   "titulo": "Mark Rothko's “Untitled” Sale Price",
-   "dur": 93.906,
-   "gan": 0.6,
-   "neta": 0.06,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794557022485,
-   "titulo": "Highest temperature in Kuala Lumpur on November 13?",
-   "dur": 0.046,
-   "gan": 0.52,
-   "neta": 0.18,
    "lado": "si"
   }
  ]
