@@ -1,84 +1,84 @@
 {
- "actualizado": 1794533558543,
- "inicio": 1793825143679,
+ "actualizado": 1794536577339,
+ "inicio": 1793828264278,
  "ejecucion": {
-  "inicio": 1794530558254,
-  "fin": 1794533558543,
-  "mensajes": 7163526,
+  "inicio": 1794533577128,
+  "fin": 1794536577339,
+  "mensajes": 7731762,
   "reconexiones": 0,
-  "eventos": 576,
+  "eventos": 584,
   "errores": [],
-  "nuevos": 9,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.83
+  "nuevos": 13,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 6080,
- "falsos": 2356,
+ "total": 6068,
+ "falsos": 2342,
  "largos": {
-  "episodios": 11700,
-  "eventos": 150,
+  "episodios": 11754,
+  "eventos": 153,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9995,
-  "eventos": 39
+  "episodios": 9973,
+  "eventos": 38
  },
- "mediana": 0.583,
+ "mediana": 0.58,
  "captura": [
   {
    "s": 0.5,
-   "n": 3200,
-   "gan": 10372.26,
-   "nNeta": 1063,
-   "neta": 3670.36
+   "n": 3186,
+   "gan": 10361.21,
+   "nNeta": 1058,
+   "neta": 3666.8
   },
   {
    "s": 2,
-   "n": 1538,
-   "gan": 4879.4,
-   "nNeta": 431,
-   "neta": 1744.77
+   "n": 1525,
+   "gan": 4870.64,
+   "nNeta": 428,
+   "neta": 1744.18
   },
   {
    "s": 5,
-   "n": 914,
-   "gan": 2228.66,
-   "nNeta": 172,
-   "neta": 424.86
+   "n": 903,
+   "gan": 2221.5,
+   "nNeta": 170,
+   "neta": 424.28
   },
   {
    "s": 30,
-   "n": 413,
-   "gan": 758.58,
-   "nNeta": 59,
-   "neta": 83.21
+   "n": 405,
+   "gan": 752.21,
+   "nNeta": 57,
+   "neta": 82.63
   }
  ],
- "rentables": 2004,
+ "rentables": 1998,
  "porCapital": [
   {
    "capital": 500,
    "ops": 32,
    "descartadas": 166,
    "neta": 108.46,
-   "dias": 4.99,
-   "semana": 152.27
+   "dias": 5.02,
+   "semana": 151.21
   },
   {
    "capital": 1000,
    "ops": 47,
    "descartadas": 166,
    "neta": 144.59,
-   "dias": 4.99,
-   "semana": 202.99
+   "dias": 5.02,
+   "semana": 201.58
   },
   {
    "capital": 2000,
    "ops": 60,
    "descartadas": 166,
    "neta": 205.22,
-   "dias": 4.99,
-   "semana": 288.1
+   "dias": 5.02,
+   "semana": 286.1
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 4,
-   "horas": 88.3,
-   "episodios": 1601,
+   "horas": 89.2,
+   "episodios": 1614,
    "sospechosas": 21,
    "realistaNeta": 63.93,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3202,
-  "n": 1186,
-  "gan": 3212.1,
+  "conDato": 3215,
+  "n": 1189,
+  "gan": 3215.09,
   "nNeta": 282,
   "neta": 801.48
  },
@@ -232,32 +232,32 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1428
+   "n": 1430
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2333
+   "n": 2332
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1399
+   "n": 1397
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 501
+   "n": 498
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 310
+   "n": 306
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 103
+   "n": 99
   }
  ],
  "porEvento": [
@@ -333,14 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794247200000,
-   "n": 48
-  },
-  {
-   "h": 1794250800000,
-   "n": 71
-  },
   {
    "h": 1794254400000,
    "n": 24
@@ -620,9 +612,121 @@
   {
    "h": 1794528000000,
    "n": 26
+  },
+  {
+   "h": 1794531600000,
+   "n": 8
+  },
+  {
+   "h": 1794535200000,
+   "n": 5
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794536090532,
+   "titulo": "Curaçao vs. Panama",
+   "dur": 1.307,
+   "gan": 0.84,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794536090316,
+   "titulo": "Curaçao vs. Panama",
+   "dur": 0.1,
+   "gan": 0.84,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794536088746,
+   "titulo": "Curaçao vs. Panama",
+   "dur": 0.114,
+   "gan": 1.69,
+   "neta": 0.15,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794536043561,
+   "titulo": "\"Godzilla Minus Zero\" 2nd Weekend Box Office",
+   "dur": 0.019,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794535461547,
+   "titulo": "Curaçao vs. Panama",
+   "dur": 17.184,
+   "gan": 1.02,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794534994190,
+   "titulo": "Curaçao vs. Panama",
+   "dur": 0.006,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794534994146,
+   "titulo": "Curaçao vs. Panama",
+   "dur": 0.041,
+   "gan": 0.64,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794534439631,
+   "titulo": "Llaneros FC vs. Boyacá Chicó FC",
+   "dur": 7.209,
+   "gan": 0.81,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794534416827,
+   "titulo": "Llaneros FC vs. Boyacá Chicó FC",
+   "dur": 2.532,
+   "gan": 0.87,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794534415160,
+   "titulo": "Llaneros FC vs. Boyacá Chicó FC",
+   "dur": 0.203,
+   "gan": 0.91,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794533784012,
+   "titulo": "Llaneros FC vs. Boyacá Chicó FC",
+   "dur": 1.329,
+   "gan": 4.09,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794533744811,
+   "titulo": "Llaneros FC vs. Boyacá Chicó FC",
+   "dur": 0.742,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794533705457,
+   "titulo": "Llaneros FC vs. Boyacá Chicó FC",
+   "dur": 0.296,
+   "gan": 2.13,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794531191354,
    "titulo": "Cerro Largo FC vs. CA Progreso",
@@ -637,110 +741,6 @@
    "dur": 0.895,
    "gan": 1.31,
    "neta": 0.11,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794531115627,
-   "titulo": "Cerro Largo FC vs. CA Progreso",
-   "dur": 4.19,
-   "gan": 1.98,
-   "neta": 0.83,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794530824589,
-   "titulo": "São Bernardo FC vs. Athletic Club",
-   "dur": 1.808,
-   "gan": 0.96,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794530813749,
-   "titulo": "São Bernardo FC vs. Athletic Club",
-   "dur": 0.46,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794530813321,
-   "titulo": "São Bernardo FC vs. Athletic Club",
-   "dur": 0.39,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794530811495,
-   "titulo": "São Bernardo FC vs. Athletic Club",
-   "dur": 0.167,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794530809586,
-   "titulo": "São Bernardo FC vs. Athletic Club",
-   "dur": 1.866,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794530729919,
-   "titulo": "São Bernardo FC vs. Athletic Club",
-   "dur": 0.856,
-   "gan": 0.84,
-   "neta": 0.68,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794530469542,
-   "titulo": "São Bernardo FC vs. Athletic Club",
-   "dur": 0.209,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794530468154,
-   "titulo": "São Bernardo FC vs. Athletic Club",
-   "dur": 1.328,
-   "gan": 5.56,
-   "neta": 1.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794530438408,
-   "titulo": "São Bernardo FC vs. Athletic Club",
-   "dur": 0.212,
-   "gan": 1.05,
-   "neta": 0.61,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794530040182,
-   "titulo": "Highest temperature in Jeddah on November 13?",
-   "dur": 0.001,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794530039920,
-   "titulo": "Highest temperature in Jeddah on November 13?",
-   "dur": 0.235,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794530039287,
-   "titulo": "Highest temperature in Jeddah on November 13?",
-   "dur": 0.166,
-   "gan": 0.67,
-   "neta": 0.09,
    "lado": "si"
   }
  ]
