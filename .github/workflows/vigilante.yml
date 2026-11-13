@@ -35,10 +35,20 @@ jobs:
         run: |
           git config user.name "vigilante-bot"
           git config user.email "vigilante-bot@users.noreply.github.com"
-          git add data
-          git commit -m "Resultados $(date -u +'%Y-%m-%d %H:%M') UTC" || echo "Sin cambios"
-          git pull --rebase --autostash || true
-          git push
+          # Si otra ejecución guardó al mismo tiempo, se toma la versión más reciente del
+          # repositorio, se ponen encima los datos de esta ejecución y se reintenta (hasta 5 veces).
+          cp -r data /tmp/datos-nuevos
+          for intento in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            rm -rf data && cp -r /tmp/datos-nuevos data
+            git add data
+            git commit -m "Resultados $(date -u +'%Y-%m-%d %H:%M') UTC" || { echo "Sin cambios"; exit 0; }
+            if git push origin HEAD:main; then exit 0; fi
+            echo "Choque al guardar (intento $intento); reintentando en 10 s"
+            sleep 10
+          done
+          exit 1
 
       # Encadena la siguiente ejecución sin esperar al horario de GitHub,
       # que a veces se retrasa o se salta. El horario de arriba queda como respaldo.
