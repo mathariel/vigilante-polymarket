@@ -1,84 +1,84 @@
 {
- "actualizado": 1794539594854,
- "inicio": 1793831288935,
+ "actualizado": 1794542617861,
+ "inicio": 1793834193521,
  "ejecucion": {
-  "inicio": 1794536594572,
-  "fin": 1794539594854,
-  "mensajes": 7803741,
+  "inicio": 1794539617655,
+  "fin": 1794542617861,
+  "mensajes": 8044681,
   "reconexiones": 0,
-  "eventos": 580,
+  "eventos": 577,
   "errores": [],
-  "nuevos": 3,
-  "nuevosRentables": 1,
-  "nuevosNeta": 6.84
+  "nuevos": 5,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 6044,
- "falsos": 2343,
+ "total": 6022,
+ "falsos": 2340,
  "largos": {
-  "episodios": 11785,
+  "episodios": 11821,
   "eventos": 152,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9971,
+  "episodios": 9969,
   "eventos": 38
  },
  "mediana": 0.58,
  "captura": [
   {
    "s": 0.5,
-   "n": 3174,
-   "gan": 10340.1,
-   "nNeta": 1056,
-   "neta": 3662.9
+   "n": 3163,
+   "gan": 10303.96,
+   "nNeta": 1052,
+   "neta": 3640.45
   },
   {
    "s": 2,
-   "n": 1523,
-   "gan": 4862.8,
-   "nNeta": 427,
-   "neta": 1740.08
+   "n": 1522,
+   "gan": 4847.11,
+   "nNeta": 426,
+   "neta": 1728.67
   },
   {
    "s": 5,
-   "n": 902,
-   "gan": 2220.67,
+   "n": 903,
+   "gan": 2221.53,
    "nNeta": 170,
    "neta": 424.28
   },
   {
    "s": 30,
-   "n": 404,
-   "gan": 751.38,
+   "n": 407,
+   "gan": 753.66,
    "nNeta": 57,
    "neta": 82.63
   }
  ],
- "rentables": 1996,
+ "rentables": 1984,
  "porCapital": [
   {
    "capital": 500,
    "ops": 33,
    "descartadas": 166,
    "neta": 115.3,
-   "dias": 5.06,
-   "semana": 159.63
+   "dias": 5.09,
+   "semana": 158.54
   },
   {
    "capital": 1000,
    "ops": 48,
    "descartadas": 166,
    "neta": 151.43,
-   "dias": 5.06,
-   "semana": 209.65
+   "dias": 5.09,
+   "semana": 208.21
   },
   {
    "capital": 2000,
    "ops": 61,
    "descartadas": 166,
    "neta": 212.06,
-   "dias": 5.06,
-   "semana": 293.59
+   "dias": 5.09,
+   "semana": 291.57
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 4,
-   "horas": 90,
-   "episodios": 1617,
+   "horas": 90.8,
+   "episodios": 1622,
    "sospechosas": 21,
    "realistaNeta": 70.77,
    "capital": {
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 117,
+  "n": 116,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3218,
-  "n": 1190,
-  "gan": 3223.19,
+  "conDato": 3223,
+  "n": 1194,
+  "gan": 3226.52,
   "nNeta": 283,
   "neta": 808.32
  },
@@ -232,27 +232,27 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1425
+   "n": 1421
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2320
+   "n": 2307
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1391
+   "n": 1385
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 498
+   "n": 496
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 306
+   "n": 309
   },
   {
    "et": "> 5 min",
@@ -619,10 +619,50 @@
   },
   {
    "h": 1794538800000,
-   "n": 1
+   "n": 6
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794541937329,
+   "titulo": "\"The Cat in the Hat\" 2nd Weekend Box Office",
+   "dur": 72.561,
+   "gan": 1.38,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794540553186,
+   "titulo": "\"The Cat in the Hat\" 2nd Weekend Box Office",
+   "dur": 76.109,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794540549236,
+   "titulo": "\"The Cat in the Hat\" 2nd Weekend Box Office",
+   "dur": 3.054,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794540397859,
+   "titulo": "\"The Cat in the Hat\" 2nd Weekend Box Office",
+   "dur": 141.245,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794540363592,
+   "titulo": "\"The Cat in the Hat\" 2nd Weekend Box Office",
+   "dur": 0.024,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794539275833,
    "titulo": "CZ # posts November 6 - November 13, 2026?",
@@ -702,46 +742,6 @@
    "gan": 0.64,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794534439631,
-   "titulo": "Llaneros FC vs. Boyacá Chicó FC",
-   "dur": 7.209,
-   "gan": 0.81,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794534416827,
-   "titulo": "Llaneros FC vs. Boyacá Chicó FC",
-   "dur": 2.532,
-   "gan": 0.87,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794534415160,
-   "titulo": "Llaneros FC vs. Boyacá Chicó FC",
-   "dur": 0.203,
-   "gan": 0.91,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794533784012,
-   "titulo": "Llaneros FC vs. Boyacá Chicó FC",
-   "dur": 1.329,
-   "gan": 4.09,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794533744811,
-   "titulo": "Llaneros FC vs. Boyacá Chicó FC",
-   "dur": 0.742,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
