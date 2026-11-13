@@ -1,84 +1,84 @@
 {
- "actualizado": 1794578793929,
- "inicio": 1793897584954,
+ "actualizado": 1794581814528,
+ "inicio": 1793900669772,
  "ejecucion": {
-  "inicio": 1794575793664,
-  "fin": 1794578793929,
-  "mensajes": 9914895,
+  "inicio": 1794578814220,
+  "fin": 1794581814528,
+  "mensajes": 10678013,
   "reconexiones": 0,
-  "eventos": 586,
+  "eventos": 587,
   "errores": [],
-  "nuevos": 25,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 18,
+  "nuevosRentables": 4,
+  "nuevosNeta": 7.57
  },
- "total": 5936,
- "falsos": 2275,
+ "total": 5937,
+ "falsos": 2277,
  "largos": {
-  "episodios": 12114,
-  "eventos": 149,
+  "episodios": 12117,
+  "eventos": 150,
   "dias": 7
  },
  "enEspera": {
   "episodios": 9904,
   "eventos": 36
  },
- "mediana": 0.556,
+ "mediana": 0.555,
  "captura": [
   {
    "s": 0.5,
-   "n": 3086,
-   "gan": 10010.85,
-   "nNeta": 1022,
-   "neta": 3481.91
+   "n": 3083,
+   "gan": 10020.2,
+   "nNeta": 1026,
+   "neta": 3489.58
   },
   {
    "s": 2,
-   "n": 1475,
-   "gan": 4583.29,
-   "nNeta": 409,
-   "neta": 1564.96
+   "n": 1474,
+   "gan": 4593.37,
+   "nNeta": 413,
+   "neta": 1572.53
   },
   {
    "s": 5,
    "n": 889,
-   "gan": 2166.23,
-   "nNeta": 177,
-   "neta": 418.5
+   "gan": 2168.95,
+   "nNeta": 180,
+   "neta": 422.72
   },
   {
    "s": 30,
-   "n": 402,
-   "gan": 760.34,
-   "nNeta": 57,
-   "neta": 81.32
+   "n": 405,
+   "gan": 765.8,
+   "nNeta": 58,
+   "neta": 81.69
   }
  ],
- "rentables": 1966,
+ "rentables": 1970,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 43,
-   "descartadas": 186,
-   "neta": 120.7,
-   "dias": 5.51,
-   "semana": 153.35
+   "ops": 45,
+   "descartadas": 187,
+   "neta": 122.53,
+   "dias": 5.54,
+   "semana": 154.7
   },
   {
    "capital": 1000,
-   "ops": 58,
-   "descartadas": 186,
-   "neta": 156.83,
-   "dias": 5.51,
-   "semana": 199.25
+   "ops": 61,
+   "descartadas": 187,
+   "neta": 164.05,
+   "dias": 5.54,
+   "semana": 207.11
   },
   {
    "capital": 2000,
-   "ops": 71,
-   "descartadas": 186,
-   "neta": 217.46,
-   "dias": 5.51,
-   "semana": 276.28
+   "ops": 74,
+   "descartadas": 187,
+   "neta": 224.68,
+   "dias": 5.54,
+   "semana": 283.65
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 5,
-   "horas": 100.8,
-   "episodios": 1747,
+   "horas": 101.7,
+   "episodios": 1766,
    "sospechosas": 22,
-   "realistaNeta": 91.05,
+   "realistaNeta": 98.62,
    "capital": {
-    "500": 43.65,
-    "1000": 54.52,
-    "2000": 54.52
+    "500": 45.48,
+    "1000": 61.74,
+    "2000": 61.74
    },
    "cumple": true
   }
@@ -222,17 +222,17 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3347,
-  "n": 1265,
-  "gan": 3319.55,
-  "nNeta": 313,
-  "neta": 828.6
+  "conDato": 3366,
+  "n": 1273,
+  "gan": 3342.26,
+  "nNeta": 317,
+  "neta": 836.17
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1418
+   "n": 1421
   },
   {
    "et": "0.1–1 s",
@@ -242,22 +242,22 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1334
+   "n": 1332
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 487
+   "n": 484
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 303
+   "n": 305
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 99
+   "n": 100
   }
  ],
  "porEvento": [
@@ -325,11 +325,11 @@
    "mediana": 0.184
   },
   {
-   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
    "n": 66,
-   "gan": 114.48,
-   "neta": 16.57,
-   "mediana": 0.399
+   "gan": 46.71,
+   "neta": 1.11,
+   "mediana": 0.403
   }
  ],
  "porHora": [
@@ -619,129 +619,129 @@
   },
   {
    "h": 1794578400000,
-   "n": 5
+   "n": 24
   }
  ],
  "recientes": [
   {
-   "inicio": 1794578383659,
-   "titulo": "Pablo Picasso's “Le Baiser” Sale Price",
-   "dur": 410.008,
-   "gan": 2.4,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794578608362,
-   "titulo": "Elon Musk # tweets November 6 - November 13, 2026?",
-   "dur": 0.141,
-   "gan": 0.82,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794578495224,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 71.246,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794578474150,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 20.92,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794578471715,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 2.243,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794578470444,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 1.132,
+   "inicio": 1794581586006,
+   "titulo": "Zambia vs. Burundi",
+   "dur": 0.01,
    "gan": 0.5,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794577429841,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 1040.049,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1794581340603,
+   "titulo": "OpenRouter token usage week of November 9?",
+   "dur": 0.026,
+   "gan": 0.52,
+   "neta": 0.1,
+   "lado": "si"
   },
   {
-   "inicio": 1794577168909,
-   "titulo": "Pablo Picasso's “Le Baiser” Sale Price",
-   "dur": 1211.77,
-   "gan": 1.68,
+   "inicio": 1794581325114,
+   "titulo": "Mozambique vs. Ethiopia",
+   "dur": 0.698,
+   "gan": 0.56,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794578302157,
-   "titulo": "Wassily Kandinsky's “Betonte Ecken” Sale Price",
-   "dur": 17.541,
-   "gan": 0.66,
+   "inicio": 1794581314937,
+   "titulo": "Mozambique vs. Ethiopia",
+   "dur": 0.444,
+   "gan": 0.9,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794577399626,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 30.061,
-   "gan": 0.55,
+   "inicio": 1794581300436,
+   "titulo": "Zambia vs. Burundi",
+   "dur": 0.694,
+   "gan": 2.29,
+   "neta": 0.16,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794581296736,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.403,
+   "gan": 1.01,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794581285953,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.722,
+   "gan": 1.02,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794581259864,
+   "titulo": "Zambia vs. Burundi",
+   "dur": 2.76,
+   "gan": 8.9,
+   "neta": 3.35,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794581253653,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 2.029,
+   "gan": 1.18,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794581247611,
+   "titulo": "Zambia vs. Burundi",
+   "dur": 0.251,
+   "gan": 0.54,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794577365897,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 33.67,
-   "gan": 0.55,
+   "inicio": 1794581125767,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.063,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794581125216,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.104,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794581100564,
+   "titulo": "United Arab Emirates vs. Honduras",
+   "dur": 0.195,
+   "gan": 1,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794577351450,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 14.364,
-   "gan": 0.55,
-   "neta": 0,
+   "inicio": 1794581100079,
+   "titulo": "United Arab Emirates vs. Honduras",
+   "dur": 0.076,
+   "gan": 1.46,
+   "neta": 0.84,
    "lado": "no"
   },
   {
-   "inicio": 1794577335787,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 15.475,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794577298919,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 36.61,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794577281460,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 16.976,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1794580041144,
+   "titulo": "Highest temperature in Warsaw on November 13?",
+   "dur": 16.038,
+   "gan": 6.71,
+   "neta": 4.34,
+   "lado": "si"
   }
  ]
 }
