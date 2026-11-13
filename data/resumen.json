@@ -1,84 +1,84 @@
 {
- "actualizado": 1794557689342,
- "inicio": 1793876479443,
+ "actualizado": 1794560704832,
+ "inicio": 1793882051758,
  "ejecucion": {
-  "inicio": 1794554689056,
-  "fin": 1794557689342,
-  "mensajes": 7543939,
+  "inicio": 1794557704544,
+  "fin": 1794560704832,
+  "mensajes": 8004056,
   "reconexiones": 0,
-  "eventos": 571,
+  "eventos": 574,
   "errores": [],
-  "nuevos": 7,
-  "nuevosRentables": 3,
-  "nuevosNeta": 0.6
+  "nuevos": 13,
+  "nuevosRentables": 7,
+  "nuevosNeta": 2.66
  },
- "total": 5925,
- "falsos": 2311,
+ "total": 5902,
+ "falsos": 2303,
  "largos": {
-  "episodios": 12047,
-  "eventos": 149,
+  "episodios": 12087,
+  "eventos": 150,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9915,
+  "episodios": 9911,
   "eventos": 37
  },
- "mediana": 0.57,
+ "mediana": 0.56,
  "captura": [
   {
    "s": 0.5,
-   "n": 3096,
-   "gan": 10224.98,
-   "nNeta": 1035,
-   "neta": 3636.92
+   "n": 3073,
+   "gan": 10118.33,
+   "nNeta": 1018,
+   "neta": 3564.68
   },
   {
    "s": 2,
-   "n": 1478,
-   "gan": 4806.32,
-   "nNeta": 421,
-   "neta": 1731.67
+   "n": 1466,
+   "gan": 4743.84,
+   "nNeta": 410,
+   "neta": 1690.2
   },
   {
    "s": 5,
-   "n": 872,
-   "gan": 2176.57,
-   "nNeta": 171,
-   "neta": 423.79
+   "n": 871,
+   "gan": 2171.29,
+   "nNeta": 170,
+   "neta": 417.32
   },
   {
    "s": 30,
-   "n": 394,
-   "gan": 745.92,
-   "nNeta": 57,
-   "neta": 81.83
+   "n": 393,
+   "gan": 752.1,
+   "nNeta": 56,
+   "neta": 81.22
   }
  ],
- "rentables": 1955,
+ "rentables": 1939,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 34,
-   "descartadas": 171,
-   "neta": 115.61,
-   "dias": 5.27,
-   "semana": 153.7
+   "ops": 36,
+   "descartadas": 176,
+   "neta": 117.48,
+   "dias": 5.3,
+   "semana": 155.15
   },
   {
    "capital": 1000,
-   "ops": 49,
-   "descartadas": 171,
-   "neta": 151.74,
-   "dias": 5.27,
-   "semana": 201.73
+   "ops": 51,
+   "descartadas": 176,
+   "neta": 153.61,
+   "dias": 5.3,
+   "semana": 202.87
   },
   {
    "capital": 2000,
-   "ops": 62,
-   "descartadas": 171,
-   "neta": 212.37,
-   "dias": 5.27,
-   "semana": 282.33
+   "ops": 64,
+   "descartadas": 176,
+   "neta": 214.24,
+   "dias": 5.3,
+   "semana": 282.94
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 5,
-   "horas": 95,
-   "episodios": 1644,
-   "sospechosas": 21,
-   "realistaNeta": 82.65,
+   "horas": 95.8,
+   "episodios": 1657,
+   "sospechosas": 22,
+   "realistaNeta": 85.31,
    "capital": {
-    "500": 38.56,
-    "1000": 49.43,
-    "2000": 49.43
+    "500": 40.43,
+    "1000": 51.3,
+    "2000": 51.3
    },
    "cumple": true
   }
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 115,
+  "n": 113,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,27 +222,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3245,
-  "n": 1207,
-  "gan": 3265.56,
-  "nNeta": 289,
-  "neta": 820.2
+  "conDato": 3257,
+  "n": 1215,
+  "gan": 3281.16,
+  "nNeta": 296,
+  "neta": 822.86
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1403
+   "n": 1406
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2285
+   "n": 2276
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1359
+   "n": 1343
   },
   {
    "et": "5–30 s",
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 95
+   "n": 94
   }
  ],
  "porEvento": [
@@ -619,10 +619,114 @@
   },
   {
    "h": 1794556800000,
-   "n": 7
+   "n": 20
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794560271820,
+   "titulo": "Highest temperature in Tel Aviv on November 13?",
+   "dur": 24.698,
+   "gan": 0.53,
+   "neta": 0.15,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794560267015,
+   "titulo": "Highest temperature in Tel Aviv on November 13?",
+   "dur": 0.02,
+   "gan": 0.82,
+   "neta": 0.36,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794560255475,
+   "titulo": "Highest temperature in Tel Aviv on November 13?",
+   "dur": 11.517,
+   "gan": 0.53,
+   "neta": 0.15,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794560253284,
+   "titulo": "Highest temperature in Tel Aviv on November 13?",
+   "dur": 1.13,
+   "gan": 0.5,
+   "neta": 0.12,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794560253229,
+   "titulo": "Highest temperature in Tel Aviv on November 13?",
+   "dur": 0.037,
+   "gan": 0.77,
+   "neta": 0.32,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794560236729,
+   "titulo": "Highest temperature in Tel Aviv on November 13?",
+   "dur": 16.478,
+   "gan": 0.5,
+   "neta": 0.13,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794560231327,
+   "titulo": "Highest temperature in Tel Aviv on November 13?",
+   "dur": 4.799,
+   "gan": 0.55,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794560229909,
+   "titulo": "Highest temperature in Tel Aviv on November 13?",
+   "dur": 0.024,
+   "gan": 0.51,
+   "neta": 0.13,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794560208627,
+   "titulo": "Highest temperature in Tel Aviv on November 13?",
+   "dur": 7.985,
+   "gan": 1.28,
+   "neta": 0.91,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794559847904,
+   "titulo": "Highest temperature in Tel Aviv on November 13?",
+   "dur": 3.546,
+   "gan": 1.08,
+   "neta": 0.75,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794559847857,
+   "titulo": "Highest temperature in Tel Aviv on November 13?",
+   "dur": 0.021,
+   "gan": 0.57,
+   "neta": 0.28,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794559847719,
+   "titulo": "Highest temperature in Tel Aviv on November 13?",
+   "dur": 0.028,
+   "gan": 20.77,
+   "neta": 19.22,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794559005211,
+   "titulo": "Japan vs. Brazil",
+   "dur": 57.846,
+   "gan": 10.5,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794556993831,
    "titulo": "Mark Rothko's “Untitled” Sale Price",
@@ -637,110 +741,6 @@
    "dur": 0.046,
    "gan": 0.52,
    "neta": 0.18,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794557020659,
-   "titulo": "Highest temperature in Kuala Lumpur on November 13?",
-   "dur": 0.083,
-   "gan": 0.56,
-   "neta": 0.22,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794557020583,
-   "titulo": "Highest temperature in Kuala Lumpur on November 13?",
-   "dur": 0.021,
-   "gan": 0.5,
-   "neta": 0.16,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794557015912,
-   "titulo": "Highest temperature in Kuala Lumpur on November 13?",
-   "dur": 4.372,
-   "gan": 0.66,
-   "neta": 0.23,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794557010432,
-   "titulo": "Highest temperature in Kuala Lumpur on November 13?",
-   "dur": 5.444,
-   "gan": 0.51,
-   "neta": 0.18,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794557008405,
-   "titulo": "Highest temperature in Kuala Lumpur on November 13?",
-   "dur": 0.38,
-   "gan": 0.5,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794551395114,
-   "titulo": "Highest temperature in Panama City on November 13?",
-   "dur": 1.378,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794548657818,
-   "titulo": "Claude Monet's “Le Jardin des Tuileries” Sale Price",
-   "dur": 216.72,
-   "gan": 1.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794547987454,
-   "titulo": "Claude Monet's “Le Jardin des Tuileries” Sale Price",
-   "dur": 659.016,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794545635900,
-   "titulo": "Claude Monet's “Le Jardin des Tuileries” Sale Price",
-   "dur": 2351.55,
-   "gan": 0.78,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794546482208,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 2.902,
-   "gan": 22.86,
-   "neta": 9.48,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794545631916,
-   "titulo": "Claude Monet's “Le Jardin des Tuileries” Sale Price",
-   "dur": 0.816,
-   "gan": 0.78,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794544308033,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.346,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794544307511,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.488,
-   "gan": 0.53,
-   "neta": 0,
    "lado": "si"
   }
  ]
