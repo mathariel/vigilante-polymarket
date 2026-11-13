@@ -1,84 +1,84 @@
 {
- "actualizado": 1794527527970,
+ "actualizado": 1794530544072,
  "inicio": 1793822278060,
  "ejecucion": {
-  "inicio": 1794524527657,
-  "fin": 1794527527970,
-  "mensajes": 6897661,
-  "reconexiones": 4,
-  "eventos": 587,
+  "inicio": 1794527543771,
+  "fin": 1794530544072,
+  "mensajes": 7655289,
+  "reconexiones": 0,
+  "eventos": 585,
   "errores": [],
-  "nuevos": 11,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.28
+  "nuevos": 17,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 6311,
- "falsos": 2401,
+ "total": 6123,
+ "falsos": 2369,
  "largos": {
-  "episodios": 11510,
-  "eventos": 149,
+  "episodios": 11636,
+  "eventos": 150,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9896,
+  "episodios": 9996,
   "eventos": 39
  },
- "mediana": 0.589,
+ "mediana": 0.58,
  "captura": [
   {
    "s": 0.5,
-   "n": 3326,
-   "gan": 10961.14,
-   "nNeta": 1073,
-   "neta": 3722.99
+   "n": 3217,
+   "gan": 10421.16,
+   "nNeta": 1068,
+   "neta": 3672.95
   },
   {
    "s": 2,
-   "n": 1623,
-   "gan": 4985.56,
-   "nNeta": 433,
-   "neta": 1744.84
+   "n": 1546,
+   "gan": 4890.31,
+   "nNeta": 431,
+   "neta": 1744.29
   },
   {
    "s": 5,
-   "n": 979,
-   "gan": 2275.12,
+   "n": 919,
+   "gan": 2232.8,
    "nNeta": 172,
    "neta": 424.86
   },
   {
    "s": 30,
-   "n": 443,
-   "gan": 779.82,
+   "n": 418,
+   "gan": 762.72,
    "nNeta": 59,
    "neta": 83.21
   }
  ],
- "rentables": 2031,
+ "rentables": 2025,
  "porCapital": [
   {
    "capital": 500,
    "ops": 32,
    "descartadas": 165,
    "neta": 108.46,
-   "dias": 4.92,
-   "semana": 154.43
+   "dias": 4.95,
+   "semana": 153.34
   },
   {
    "capital": 1000,
    "ops": 47,
    "descartadas": 165,
    "neta": 144.59,
-   "dias": 4.92,
-   "semana": 205.87
+   "dias": 4.95,
+   "semana": 204.42
   },
   {
    "capital": 2000,
    "ops": 60,
    "descartadas": 165,
    "neta": 205.22,
-   "dias": 4.92,
-   "semana": 292.19
+   "dias": 4.95,
+   "semana": 290.13
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 4,
-   "horas": 86.7,
-   "episodios": 1575,
+   "horas": 87.5,
+   "episodios": 1592,
    "sospechosas": 21,
    "realistaNeta": 63.1,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3176,
-  "n": 1182,
-  "gan": 3207.79,
+  "conDato": 3193,
+  "n": 1183,
+  "gan": 3208.6,
   "nNeta": 281,
   "neta": 800.65
  },
@@ -232,27 +232,27 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1500
+   "n": 1446
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2390
+   "n": 2347
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1436
+   "n": 1405
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 536
+   "n": 501
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 340
+   "n": 315
   },
   {
    "et": "> 5 min",
@@ -290,13 +290,6 @@
    "mediana": 0.831
   },
   {
-   "titulo": "Donald Trump # Truth Social posts November 3 - November 10, 2026?",
-   "n": 115,
-   "gan": 72.57,
-   "neta": 0.03,
-   "mediana": 23.158
-  },
-  {
    "titulo": "Club Aurora vs. FC Universitario",
    "n": 86,
    "gan": 175.62,
@@ -311,13 +304,6 @@
    "mediana": 0.115
   },
   {
-   "titulo": "RB Leipzig vs. Manchester City FC",
-   "n": 79,
-   "gan": 75.71,
-   "neta": 6.14,
-   "mediana": 0.032
-  },
-  {
    "titulo": "Parma Calcio 1913 vs. Bologna FC 1909",
    "n": 77,
    "gan": 96.77,
@@ -330,13 +316,23 @@
    "gan": 90.3,
    "neta": 30.1,
    "mediana": 0.112
+  },
+  {
+   "titulo": "Sunderland AFC vs. Chelsea FC",
+   "n": 72,
+   "gan": 305.32,
+   "neta": 7.11,
+   "mediana": 0.184
+  },
+  {
+   "titulo": "Sport Lisboa e Benfica vs. FK Austria Wien",
+   "n": 66,
+   "gan": 114.48,
+   "neta": 16.57,
+   "mediana": 0.399
   }
  ],
  "porHora": [
-  {
-   "h": 1794243600000,
-   "n": 6
-  },
   {
    "h": 1794247200000,
    "n": 48
@@ -620,128 +616,132 @@
   {
    "h": 1794524400000,
    "n": 11
+  },
+  {
+   "h": 1794528000000,
+   "n": 17
   }
  ],
  "recientes": [
   {
-   "inicio": 1794527389160,
-   "titulo": "Academia Puerto Cabello vs. Monagas SC",
-   "dur": 0.731,
-   "gan": 4.66,
-   "neta": 2.79,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794526831582,
-   "titulo": "Aruba vs. Martinique",
-   "dur": 0.782,
-   "gan": 1.07,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794526798771,
-   "titulo": "Aruba vs. Martinique",
-   "dur": 24.199,
-   "gan": 7.88,
-   "neta": 1.16,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794526211479,
-   "titulo": "Cerro Largo FC vs. CA Progreso",
-   "dur": 0.154,
-   "gan": 2.91,
+   "inicio": 1794530469542,
+   "titulo": "São Bernardo FC vs. Athletic Club",
+   "dur": 0.209,
+   "gan": 0.57,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794526066330,
-   "titulo": "AA Ponte Preta vs. Operário Ferroviário EC",
-   "dur": 0.189,
+   "inicio": 1794530468154,
+   "titulo": "São Bernardo FC vs. Athletic Club",
+   "dur": 1.328,
+   "gan": 5.56,
+   "neta": 1.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794530438408,
+   "titulo": "São Bernardo FC vs. Athletic Club",
+   "dur": 0.212,
+   "gan": 1.05,
+   "neta": 0.61,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794530040182,
+   "titulo": "Highest temperature in Jeddah on November 13?",
+   "dur": 0.001,
    "gan": 0.53,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794526044854,
-   "titulo": "AA Ponte Preta vs. Operário Ferroviário EC",
-   "dur": 4.076,
-   "gan": 0.64,
+   "inicio": 1794530039920,
+   "titulo": "Highest temperature in Jeddah on November 13?",
+   "dur": 0.235,
+   "gan": 0.63,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794525819060,
-   "titulo": "Antigua and Barbuda vs. Trinidad and Tobago",
+   "inicio": 1794530039287,
+   "titulo": "Highest temperature in Jeddah on November 13?",
+   "dur": 0.166,
+   "gan": 0.67,
+   "neta": 0.09,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794530025289,
+   "titulo": "Highest temperature in Jeddah on November 13?",
+   "dur": 13.969,
+   "gan": 0.81,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794529892386,
+   "titulo": "AD Pasto vs. CDP Junior FC",
+   "dur": 0.05,
+   "gan": 0.91,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794529892275,
+   "titulo": "AD Pasto vs. CDP Junior FC",
    "dur": 0.101,
-   "gan": 0.58,
-   "neta": 0.08,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794525664193,
-   "titulo": "Aruba vs. Martinique",
-   "dur": 0.039,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794525664139,
-   "titulo": "Aruba vs. Martinique",
-   "dur": 0.035,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794525663456,
-   "titulo": "Aruba vs. Martinique",
-   "dur": 0.677,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794525657783,
-   "titulo": "Aruba vs. Martinique",
-   "dur": 2.759,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794521514891,
-   "titulo": "Donald Trump # Truth Social posts November 10 - November 17, 2026?",
-   "dur": 191.912,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794521345737,
-   "titulo": "Donald Trump # Truth Social posts November 10 - November 17, 2026?",
-   "dur": 145.286,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794518455188,
-   "titulo": "Highest temperature in Buenos Aires on November 13?",
-   "dur": 1169.667,
-   "gan": 0.68,
+   "gan": 1.79,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794519476544,
-   "titulo": "Montenegro vs. Latvia",
-   "dur": 0.896,
-   "gan": 0.79,
-   "neta": 0.66,
+   "inicio": 1794529892111,
+   "titulo": "AD Pasto vs. CDP Junior FC",
+   "dur": 0.049,
+   "gan": 9.52,
+   "neta": 0,
    "lado": "si"
+  },
+  {
+   "inicio": 1794529136903,
+   "titulo": "AD Pasto vs. CDP Junior FC",
+   "dur": 0.892,
+   "gan": 0.98,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794529052159,
+   "titulo": "AD Pasto vs. CDP Junior FC",
+   "dur": 0.518,
+   "gan": 0.6,
+   "neta": 0.29,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794529051905,
+   "titulo": "AD Pasto vs. CDP Junior FC",
+   "dur": 0.04,
+   "gan": 0.88,
+   "neta": 0.61,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794528652714,
+   "titulo": "Cerro Largo FC vs. CA Progreso",
+   "dur": 0.267,
+   "gan": 4.84,
+   "neta": 1.94,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794528605911,
+   "titulo": "Cerro Largo FC vs. CA Progreso",
+   "dur": 0.324,
+   "gan": 0.81,
+   "neta": 0.65,
+   "lado": "no"
   }
  ]
 }
