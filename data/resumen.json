@@ -1,21 +1,21 @@
 {
- "actualizado": 1794605960794,
- "inicio": 1793909692332,
+ "actualizado": 1794608975885,
+ "inicio": 1793912523521,
  "ejecucion": {
-  "inicio": 1794602960492,
-  "fin": 1794605960794,
-  "mensajes": 13631154,
-  "reconexiones": 1,
-  "eventos": 607,
+  "inicio": 1794605975526,
+  "fin": 1794608975885,
+  "mensajes": 9369197,
+  "reconexiones": 0,
+  "eventos": 577,
   "errores": [],
-  "nuevos": 104,
-  "nuevosRentables": 4,
-  "nuevosNeta": 0.95
+  "nuevos": 4,
+  "nuevosRentables": 3,
+  "nuevosNeta": 3.77
  },
- "total": 5858,
+ "total": 5851,
  "falsos": 2304,
  "largos": {
-  "episodios": 12738,
+  "episodios": 12749,
   "eventos": 149,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 9372,
   "eventos": 37
  },
- "mediana": 0.56,
+ "mediana": 0.558,
  "captura": [
   {
    "s": 0.5,
-   "n": 3049,
-   "gan": 10099.57,
-   "nNeta": 1009,
-   "neta": 3559.03
+   "n": 3045,
+   "gan": 10097.26,
+   "nNeta": 1010,
+   "neta": 3561.57
   },
   {
    "s": 2,
-   "n": 1469,
-   "gan": 4670.67,
-   "nNeta": 407,
-   "neta": 1627.15
+   "n": 1468,
+   "gan": 4670.46,
+   "nNeta": 409,
+   "neta": 1629.94
   },
   {
    "s": 5,
    "n": 900,
-   "gan": 2335.37,
-   "nNeta": 174,
-   "neta": 531.42
+   "gan": 2336.22,
+   "nNeta": 175,
+   "neta": 532.63
   },
   {
    "s": 30,
-   "n": 418,
-   "gan": 759.19,
-   "nNeta": 55,
-   "neta": 70.92
+   "n": 419,
+   "gan": 760.54,
+   "nNeta": 56,
+   "neta": 72.13
   }
  ],
  "rentables": 1962,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 50,
+   "ops": 52,
    "descartadas": 206,
-   "neta": 129.05,
-   "dias": 5.82,
-   "semana": 155.1
+   "neta": 131.58,
+   "dias": 5.86,
+   "semana": 157.2
   },
   {
    "capital": 1000,
-   "ops": 66,
+   "ops": 68,
    "descartadas": 206,
-   "neta": 184.98,
-   "dias": 5.82,
-   "semana": 222.33
+   "neta": 187.51,
+   "dias": 5.86,
+   "semana": 224.02
   },
   {
    "capital": 2000,
-   "ops": 79,
+   "ops": 81,
    "descartadas": 206,
-   "neta": 274.44,
-   "dias": 5.82,
-   "semana": 329.85
+   "neta": 276.97,
+   "dias": 5.86,
+   "semana": 330.91
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 5,
-   "horas": 108.3,
-   "episodios": 2082,
+   "horas": 109.2,
+   "episodios": 2086,
    "sospechosas": 26,
-   "realistaNeta": 243.75,
+   "realistaNeta": 247.52,
    "capital": {
-    "500": 52,
-    "1000": 82.67,
-    "2000": 111.51
+    "500": 54.53,
+    "1000": 85.2,
+    "2000": 114.04
    },
    "cumple": true
   }
@@ -222,32 +222,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3678,
-  "n": 1374,
-  "gan": 3724.36,
-  "nNeta": 343,
-  "neta": 981.3
+  "conDato": 3682,
+  "n": 1377,
+  "gan": 3729.31,
+  "nNeta": 346,
+  "neta": 985.07
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1409
+   "n": 1408
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2252
+   "n": 2248
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1291
+   "n": 1289
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 482
+   "n": 481
   },
   {
    "et": "30 s–5 min",
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 114
+   "n": 115
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794333600000,
-   "n": 13
-  },
   {
    "h": 1794337200000,
    "n": 24
@@ -619,10 +615,46 @@
   },
   {
    "h": 1794603600000,
-   "n": 87
+   "n": 90
+  },
+  {
+   "h": 1794607200000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794606015873,
+   "titulo": "Limavady United FC vs. Cliftonville FC",
+   "dur": 2959.657,
+   "gan": 0.55,
+   "neta": 0.49,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794608408584,
+   "titulo": "Highest temperature in Helsinki on November 14?",
+   "dur": 2.027,
+   "gan": 1.55,
+   "neta": 0.9,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794606138289,
+   "titulo": "Slovenia vs. Switzerland",
+   "dur": 0.017,
+   "gan": 0.73,
+   "neta": 0.47,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794606133886,
+   "titulo": "Slovenia vs. Switzerland",
+   "dur": 4.385,
+   "gan": 2.54,
+   "neta": 2.11,
+   "lado": "si"
+  },
   {
    "inicio": 1794605839785,
    "titulo": "Luxembourg vs. Estonia",
@@ -708,38 +740,6 @@
    "titulo": "Slovakia vs. Faroe Islands",
    "dur": 0.292,
    "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794605356267,
-   "titulo": "Slovakia vs. Faroe Islands",
-   "dur": 0.014,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794602854928,
-   "titulo": "Belarus vs. Albania",
-   "dur": 2259.973,
-   "gan": 1.47,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794605091268,
-   "titulo": "Slovakia vs. Faroe Islands",
-   "dur": 1.744,
-   "gan": 0.69,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794605090231,
-   "titulo": "Slovakia vs. Faroe Islands",
-   "dur": 0.044,
-   "gan": 0.51,
    "neta": 0,
    "lado": "si"
   }
