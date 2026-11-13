@@ -1,84 +1,84 @@
 {
- "actualizado": 1794542617861,
- "inicio": 1793834193521,
+ "actualizado": 1794545632942,
+ "inicio": 1793840355524,
  "ejecucion": {
-  "inicio": 1794539617655,
-  "fin": 1794542617861,
-  "mensajes": 8044681,
+  "inicio": 1794542632729,
+  "fin": 1794545632942,
+  "mensajes": 7339666,
   "reconexiones": 0,
-  "eventos": 577,
+  "eventos": 582,
   "errores": [],
-  "nuevos": 5,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 10,
+  "nuevosRentables": 2,
+  "nuevosNeta": 0.53
  },
- "total": 6022,
- "falsos": 2340,
+ "total": 5980,
+ "falsos": 2325,
  "largos": {
-  "episodios": 11821,
+  "episodios": 11909,
   "eventos": 152,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9969,
+  "episodios": 9949,
   "eventos": 38
  },
- "mediana": 0.58,
+ "mediana": 0.579,
  "captura": [
   {
    "s": 0.5,
-   "n": 3163,
-   "gan": 10303.96,
-   "nNeta": 1052,
-   "neta": 3640.45
+   "n": 3136,
+   "gan": 10230.59,
+   "nNeta": 1035,
+   "neta": 3628.61
   },
   {
    "s": 2,
-   "n": 1522,
-   "gan": 4847.11,
-   "nNeta": 426,
-   "neta": 1728.67
+   "n": 1507,
+   "gan": 4801.36,
+   "nNeta": 418,
+   "neta": 1723.05
   },
   {
    "s": 5,
-   "n": 903,
-   "gan": 2221.53,
-   "nNeta": 170,
-   "neta": 424.28
+   "n": 897,
+   "gan": 2190.59,
+   "nNeta": 169,
+   "neta": 423.42
   },
   {
    "s": 30,
-   "n": 407,
-   "gan": 753.66,
-   "nNeta": 57,
-   "neta": 82.63
+   "n": 405,
+   "gan": 752,
+   "nNeta": 56,
+   "neta": 81.77
   }
  ],
- "rentables": 1984,
+ "rentables": 1957,
  "porCapital": [
   {
    "capital": 500,
    "ops": 33,
-   "descartadas": 166,
+   "descartadas": 168,
    "neta": 115.3,
-   "dias": 5.09,
-   "semana": 158.54
+   "dias": 5.13,
+   "semana": 157.46
   },
   {
    "capital": 1000,
    "ops": 48,
-   "descartadas": 166,
+   "descartadas": 168,
    "neta": 151.43,
-   "dias": 5.09,
-   "semana": 208.21
+   "dias": 5.13,
+   "semana": 206.79
   },
   {
    "capital": 2000,
    "ops": 61,
-   "descartadas": 166,
+   "descartadas": 168,
    "neta": 212.06,
-   "dias": 5.09,
-   "semana": 291.57
+   "dias": 5.13,
+   "semana": 289.59
   }
  ],
  "maxBloqueoH": 24,
@@ -101,10 +101,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 4,
-   "horas": 90.8,
-   "episodios": 1622,
+   "horas": 91.7,
+   "episodios": 1632,
    "sospechosas": 21,
-   "realistaNeta": 70.77,
+   "realistaNeta": 71.3,
    "capital": {
     "500": 38.25,
     "1000": 49.12,
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 116,
+  "n": 115,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,37 +222,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3223,
-  "n": 1194,
-  "gan": 3226.52,
-  "nNeta": 283,
-  "neta": 808.32
+  "conDato": 3233,
+  "n": 1199,
+  "gan": 3233.71,
+  "nNeta": 285,
+  "neta": 808.85
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1421
+   "n": 1415
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2307
+   "n": 2291
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1385
+   "n": 1371
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 496
+   "n": 492
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 309
+   "n": 307
   },
   {
    "et": "> 5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794258000000,
-   "n": 20
-  },
   {
    "h": 1794261600000,
    "n": 17
@@ -620,9 +616,93 @@
   {
    "h": 1794538800000,
    "n": 6
+  },
+  {
+   "h": 1794542400000,
+   "n": 10
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794545631916,
+   "titulo": "Claude Monet's “Le Jardin des Tuileries” Sale Price",
+   "dur": 0.816,
+   "gan": 0.78,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794544308033,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.346,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794544307511,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.488,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794544306850,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.626,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794544306770,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.045,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794544297085,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 9.544,
+   "gan": 0.76,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794544296345,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.145,
+   "gan": 1.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794544295061,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.017,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794544292855,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 1.753,
+   "gan": 4.02,
+   "neta": 1.09,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794544291707,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 1.109,
+   "gan": 1.49,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794541937329,
    "titulo": "\"The Cat in the Hat\" 2nd Weekend Box Office",
@@ -662,86 +742,6 @@
    "gan": 0.65,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1794539275833,
-   "titulo": "CZ # posts November 6 - November 13, 2026?",
-   "dur": 0.735,
-   "gan": 8.1,
-   "neta": 6.84,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794538438238,
-   "titulo": "Highest temperature in Wellington on November 13?",
-   "dur": 0.032,
-   "gan": 1.02,
-   "neta": 0.23,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794536605015,
-   "titulo": "Curaçao vs. Panama",
-   "dur": 0.367,
-   "gan": 0.58,
-   "neta": 0.44,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794536090532,
-   "titulo": "Curaçao vs. Panama",
-   "dur": 1.307,
-   "gan": 0.84,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794536090316,
-   "titulo": "Curaçao vs. Panama",
-   "dur": 0.1,
-   "gan": 0.84,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794536088746,
-   "titulo": "Curaçao vs. Panama",
-   "dur": 0.114,
-   "gan": 1.69,
-   "neta": 0.15,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794536043561,
-   "titulo": "\"Godzilla Minus Zero\" 2nd Weekend Box Office",
-   "dur": 0.019,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794535461547,
-   "titulo": "Curaçao vs. Panama",
-   "dur": 17.184,
-   "gan": 1.02,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794534994190,
-   "titulo": "Curaçao vs. Panama",
-   "dur": 0.006,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794534994146,
-   "titulo": "Curaçao vs. Panama",
-   "dur": 0.041,
-   "gan": 0.64,
-   "neta": 0,
-   "lado": "si"
   }
  ]
 }
