@@ -1,84 +1,84 @@
 {
- "actualizado": 1794596907216,
+ "actualizado": 1794599921148,
  "inicio": 1793909692332,
  "ejecucion": {
-  "inicio": 1794593906959,
-  "fin": 1794596907216,
-  "mensajes": 8924773,
+  "inicio": 1794596920880,
+  "fin": 1794599921148,
+  "mensajes": 10894500,
   "reconexiones": 0,
-  "eventos": 592,
+  "eventos": 600,
   "errores": [],
-  "nuevos": 18,
-  "nuevosRentables": 2,
-  "nuevosNeta": 1.26
+  "nuevos": 47,
+  "nuevosRentables": 7,
+  "nuevosNeta": 138.44
  },
- "total": 5818,
- "falsos": 2275,
+ "total": 5832,
+ "falsos": 2282,
  "largos": {
-  "episodios": 12573,
+  "episodios": 12618,
   "eventos": 149,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9596,
+  "episodios": 9534,
   "eventos": 35
  },
- "mediana": 0.547,
+ "mediana": 0.552,
  "captura": [
   {
    "s": 0.5,
-   "n": 3010,
-   "gan": 9716.76,
-   "nNeta": 991,
-   "neta": 3397.48
+   "n": 3023,
+   "gan": 10088.95,
+   "nNeta": 1000,
+   "neta": 3572.58
   },
   {
    "s": 2,
-   "n": 1448,
-   "gan": 4426.89,
-   "nNeta": 397,
-   "neta": 1500.39
+   "n": 1458,
+   "gan": 4683.24,
+   "nNeta": 403,
+   "neta": 1638.66
   },
   {
    "s": 5,
-   "n": 887,
-   "gan": 2097.02,
-   "nNeta": 169,
-   "neta": 402.43
+   "n": 893,
+   "gan": 2344.88,
+   "nNeta": 172,
+   "neta": 537.95
   },
   {
    "s": 30,
-   "n": 412,
-   "gan": 754.66,
-   "nNeta": 54,
-   "neta": 73.48
+   "n": 416,
+   "gan": 758.97,
+   "nNeta": 55,
+   "neta": 74.02
   }
  ],
- "rentables": 1927,
+ "rentables": 1943,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 48,
-   "descartadas": 190,
-   "neta": 124.29,
-   "dias": 5.72,
-   "semana": 152.13
+   "ops": 49,
+   "descartadas": 195,
+   "neta": 128.6,
+   "dias": 5.75,
+   "semana": 156.44
   },
   {
    "capital": 1000,
-   "ops": 64,
-   "descartadas": 190,
-   "neta": 165.81,
-   "dias": 5.72,
-   "semana": 202.94
+   "ops": 65,
+   "descartadas": 195,
+   "neta": 184.53,
+   "dias": 5.75,
+   "semana": 224.48
   },
   {
    "capital": 2000,
-   "ops": 77,
-   "descartadas": 190,
-   "neta": 226.44,
-   "dias": 5.72,
-   "semana": 277.14
+   "ops": 78,
+   "descartadas": 195,
+   "neta": 273.99,
+   "dias": 5.75,
+   "semana": 333.31
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 5,
-   "horas": 105.8,
-   "episodios": 1866,
+   "horas": 106.7,
+   "episodios": 1914,
    "sospechosas": 26,
-   "realistaNeta": 101.07,
+   "realistaNeta": 239.51,
    "capital": {
-    "500": 47.24,
-    "1000": 63.5,
-    "2000": 63.5
+    "500": 51.55,
+    "1000": 82.22,
+    "2000": 111.06
    },
    "cumple": true
   }
@@ -222,11 +222,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3462,
-  "n": 1312,
-  "gan": 3390.7,
-  "nNeta": 323,
-  "neta": 838.62
+  "conDato": 3510,
+  "n": 1331,
+  "gan": 3660.35,
+  "nNeta": 330,
+  "neta": 977.06
  },
  "duraciones": [
   {
@@ -237,27 +237,27 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2238
+   "n": 2239
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1278
+   "n": 1285
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 475
+   "n": 477
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 302
+   "n": 304
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 110
+   "n": 112
   }
  ],
  "porEvento": [
@@ -312,8 +312,8 @@
   },
   {
    "titulo": "Celtic FC vs. Beşiktaş JK",
-   "n": 75,
-   "gan": 90.3,
+   "n": 74,
+   "gan": 89.75,
    "neta": 30.1,
    "mediana": 0.112
   },
@@ -326,10 +326,10 @@
   },
   {
    "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "n": 66,
-   "gan": 46.71,
+   "n": 69,
+   "gan": 49.37,
    "neta": 1.11,
-   "mediana": 0.403
+   "mediana": 0.406
   }
  ],
  "porHora": [
@@ -619,128 +619,128 @@
   },
   {
    "h": 1794596400000,
-   "n": 3
+   "n": 51
   }
  ],
  "recientes": [
   {
-   "inicio": 1794593902201,
+   "inicio": 1794596876027,
    "titulo": "Belarus vs. Albania",
-   "dur": 3004.761,
+   "dur": 3044.857,
    "gan": 1.47,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794596648357,
-   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
-   "dur": 0.028,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794596494916,
-   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
-   "dur": 152.662,
-   "gan": 0.66,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794596494864,
-   "titulo": "Slovakia vs. Faroe Islands",
-   "dur": 87.525,
-   "gan": 6.31,
+   "inicio": 1794599778609,
+   "titulo": "CD Leganés vs. Burgos CF",
+   "dur": 0.739,
+   "gan": 0.95,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794595938417,
-   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
-   "dur": 556.411,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794595979062,
-   "titulo": "# of views of Grand Theft Auto VI: Pre-Load Now on week 1?",
-   "dur": 1.978,
-   "gan": 1.06,
+   "inicio": 1794599778352,
+   "titulo": "CD Leganés vs. Burgos CF",
+   "dur": 0.178,
+   "gan": 1.48,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794595923871,
-   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
-   "dur": 6.262,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794595912493,
-   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
-   "dur": 9.927,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794595909359,
-   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
-   "dur": 1.53,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794595893958,
-   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
-   "dur": 1.492,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794595789703,
-   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
-   "dur": 104.244,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794595803474,
-   "titulo": "# of views of Grand Theft Auto VI: Pre-Load Now on week 1?",
-   "dur": 69.639,
-   "gan": 0.72,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794595843614,
-   "titulo": "Moldova vs. Kazakhstan",
-   "dur": 2.531,
-   "gan": 0.65,
-   "neta": 0.21,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794595842775,
-   "titulo": "Moldova vs. Kazakhstan",
-   "dur": 0.838,
-   "gan": 0.55,
-   "neta": 0.11,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794595774586,
-   "titulo": "Moldova vs. Kazakhstan",
-   "dur": 1.122,
+   "inicio": 1794599762501,
+   "titulo": "Serbia vs. Germany",
+   "dur": 1.814,
    "gan": 0.53,
-   "neta": 0.18,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794599744317,
+   "titulo": "Serbia vs. Germany",
+   "dur": 0.745,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794599634606,
+   "titulo": "Luxembourg vs. Estonia",
+   "dur": 3.873,
+   "gan": 1.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794599636441,
+   "titulo": "Liechtenstein vs. Azerbaijan - Halftime Result",
+   "dur": 0.425,
+   "gan": 0.88,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794599632564,
+   "titulo": "Liechtenstein vs. Azerbaijan - Halftime Result",
+   "dur": 2.002,
+   "gan": 0.92,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794599633959,
+   "titulo": "Luxembourg vs. Estonia",
+   "dur": 0.203,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794598557771,
+   "titulo": "# of views of Grand Theft Auto VI: Pre-Load Now on week 1?",
+   "dur": 1064.995,
+   "gan": 1.1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794599551770,
+   "titulo": "Serbia vs. Germany",
+   "dur": 1.832,
+   "gan": 0.97,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794599477789,
+   "titulo": "Mali vs. Rwanda - Halftime Result",
+   "dur": 0.267,
+   "gan": 0.55,
+   "neta": 0.47,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794599458718,
+   "titulo": "Luxembourg vs. Estonia",
+   "dur": 7.68,
+   "gan": 1.21,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794599381131,
+   "titulo": "Serbia vs. Germany",
+   "dur": 6.915,
+   "gan": 0.54,
+   "neta": 0.29,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794599367992,
+   "titulo": "Serbia vs. Germany",
+   "dur": 1.051,
+   "gan": 4.75,
+   "neta": 2.28,
    "lado": "si"
   }
  ]
