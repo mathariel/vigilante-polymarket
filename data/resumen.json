@@ -1,36 +1,36 @@
 {
- "actualizado": 1794569749817,
- "inicio": 1793894588189,
+ "actualizado": 1794572762794,
+ "inicio": 1793897584954,
  "ejecucion": {
-  "inicio": 1794566749546,
-  "fin": 1794569749817,
-  "mensajes": 6829713,
-  "reconexiones": 0,
-  "eventos": 586,
+  "inicio": 1794569762509,
+  "fin": 1794572762794,
+  "mensajes": 7320281,
+  "reconexiones": 15,
+  "eventos": 594,
   "errores": [],
-  "nuevos": 35,
-  "nuevosRentables": 3,
-  "nuevosNeta": 2.41
+  "nuevos": 2,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5919,
+ "total": 5921,
  "falsos": 2277,
  "largos": {
-  "episodios": 12119,
+  "episodios": 12116,
   "eventos": 149,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9900,
+  "episodios": 9904,
   "eventos": 36
  },
- "mediana": 0.549,
+ "mediana": 0.552,
  "captura": [
   {
    "s": 0.5,
-   "n": 3069,
-   "gan": 10049.6,
-   "nNeta": 1023,
-   "neta": 3521.51
+   "n": 3071,
+   "gan": 10052.95,
+   "nNeta": 1025,
+   "neta": 3522.02
   },
   {
    "s": 2,
@@ -54,31 +54,31 @@
    "neta": 81.32
   }
  ],
- "rentables": 1962,
+ "rentables": 1963,
  "porCapital": [
   {
    "capital": 500,
    "ops": 38,
    "descartadas": 186,
    "neta": 118.52,
-   "dias": 5.41,
-   "semana": 153.5
+   "dias": 5.44,
+   "semana": 152.51
   },
   {
    "capital": 1000,
    "ops": 53,
    "descartadas": 186,
    "neta": 154.65,
-   "dias": 5.41,
-   "semana": 200.29
+   "dias": 5.44,
+   "semana": 199
   },
   {
    "capital": 2000,
    "ops": 66,
    "descartadas": 186,
    "neta": 215.28,
-   "dias": 5.41,
-   "semana": 278.8
+   "dias": 5.44,
+   "semana": 277.02
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 5,
-   "horas": 98.3,
-   "episodios": 1704,
+   "horas": 99.2,
+   "episodios": 1706,
    "sospechosas": 22,
    "realistaNeta": 88.87,
    "capital": {
@@ -222,7 +222,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3304,
+  "conDato": 3306,
   "n": 1231,
   "gan": 3293.9,
   "nNeta": 308,
@@ -237,7 +237,7 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2285
+   "n": 2287
   },
   {
    "et": "1–5 s",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794286800000,
-   "n": 2
-  },
   {
    "h": 1794290400000,
    "n": 5
@@ -619,10 +615,30 @@
   },
   {
    "h": 1794567600000,
-   "n": 34
+   "n": 35
+  },
+  {
+   "h": 1794571200000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794571637574,
+   "titulo": "Singapore vs. Paraguay",
+   "dur": 0.751,
+   "gan": 2.16,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794569883145,
+   "titulo": "TSV Hartberg vs. Floridsdorfer AC",
+   "dur": 0.621,
+   "gan": 1.03,
+   "neta": 0.38,
+   "lado": "si"
+  },
   {
    "inicio": 1794569323784,
    "titulo": "White House # posts November 6 - November 13, 2026?",
@@ -725,22 +741,6 @@
    "dur": 0.034,
    "gan": 0.53,
    "neta": 0.19,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794568688757,
-   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
-   "dur": 0.259,
-   "gan": 0.52,
-   "neta": 0.19,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794568688646,
-   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
-   "dur": 0.01,
-   "gan": 0.5,
-   "neta": 0.17,
    "lado": "no"
   }
  ]
