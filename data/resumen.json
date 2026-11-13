@@ -1,21 +1,21 @@
 {
- "actualizado": 1794587863566,
- "inicio": 1793903656688,
+ "actualizado": 1794590877426,
+ "inicio": 1793903661123,
  "ejecucion": {
-  "inicio": 1794584863199,
-  "fin": 1794587863566,
-  "mensajes": 11451467,
-  "reconexiones": 1,
-  "eventos": 595,
+  "inicio": 1794587877146,
+  "fin": 1794590877426,
+  "mensajes": 10906890,
+  "reconexiones": 0,
+  "eventos": 599,
   "errores": [],
-  "nuevos": 28,
-  "nuevosRentables": 3,
-  "nuevosNeta": 0.8
+  "nuevos": 27,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.39
  },
- "total": 5869,
- "falsos": 2275,
+ "total": 5843,
+ "falsos": 2241,
  "largos": {
-  "episodios": 12207,
+  "episodios": 12272,
   "eventos": 149,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 9896,
   "eventos": 35
  },
- "mediana": 0.549,
+ "mediana": 0.547,
  "captura": [
   {
    "s": 0.5,
-   "n": 3041,
-   "gan": 9871.44,
-   "nNeta": 1012,
-   "neta": 3429.41
+   "n": 3025,
+   "gan": 9822.99,
+   "nNeta": 1000,
+   "neta": 3405.41
   },
   {
    "s": 2,
-   "n": 1455,
-   "gan": 4488.19,
-   "nNeta": 406,
-   "neta": 1521.67
+   "n": 1452,
+   "gan": 4471,
+   "nNeta": 401,
+   "neta": 1507.24
   },
   {
    "s": 5,
-   "n": 884,
-   "gan": 2133.71,
-   "nNeta": 178,
-   "neta": 420.03
+   "n": 882,
+   "gan": 2117.46,
+   "nNeta": 172,
+   "neta": 405.21
   },
   {
    "s": 30,
-   "n": 406,
-   "gan": 758.28,
-   "nNeta": 58,
-   "neta": 81.69
+   "n": 407,
+   "gan": 753.35,
+   "nNeta": 56,
+   "neta": 75.59
   }
  ],
- "rentables": 1953,
+ "rentables": 1940,
  "porCapital": [
   {
    "capital": 500,
    "ops": 47,
-   "descartadas": 188,
+   "descartadas": 189,
    "neta": 123.24,
-   "dias": 5.61,
-   "semana": 153.65
+   "dias": 5.65,
+   "semana": 152.7
   },
   {
    "capital": 1000,
    "ops": 63,
-   "descartadas": 188,
+   "descartadas": 189,
    "neta": 164.76,
-   "dias": 5.61,
-   "semana": 205.41
+   "dias": 5.65,
+   "semana": 204.14
   },
   {
    "capital": 2000,
    "ops": 76,
-   "descartadas": 188,
+   "descartadas": 189,
    "neta": 225.39,
-   "dias": 5.61,
-   "semana": 281
+   "dias": 5.65,
+   "semana": 279.26
   }
  ],
  "maxBloqueoH": 24,
@@ -101,10 +101,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 5,
-   "horas": 103.3,
-   "episodios": 1810,
-   "sospechosas": 23,
-   "realistaNeta": 99.42,
+   "horas": 104.2,
+   "episodios": 1838,
+   "sospechosas": 25,
+   "realistaNeta": 99.81,
    "capital": {
     "500": 46.19,
     "1000": 62.45,
@@ -222,42 +222,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3409,
-  "n": 1286,
-  "gan": 3362.16,
-  "nNeta": 320,
-  "neta": 836.97
+  "conDato": 3435,
+  "n": 1291,
+  "gan": 3366.42,
+  "nNeta": 321,
+  "neta": 837.36
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1413
+   "n": 1412
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2261
+   "n": 2247
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1305
+   "n": 1296
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 478
+   "n": 475
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 302
+   "n": 300
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 104
+   "n": 107
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794315600000,
-   "n": 8
-  },
   {
    "h": 1794319200000,
    "n": 8
@@ -619,129 +615,133 @@
   },
   {
    "h": 1794585600000,
-   "n": 22
+   "n": 35
+  },
+  {
+   "h": 1794589200000,
+   "n": 15
   }
  ],
  "recientes": [
   {
-   "inicio": 1794587844778,
+   "inicio": 1794587894889,
    "titulo": "Wassily Kandinsky's “Betonte Ecken” Sale Price",
-   "dur": 18.424,
+   "dur": 2982.26,
    "gan": 0.6,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794587462789,
+   "inicio": 1794587672234,
    "titulo": "Belarus vs. Albania",
-   "dur": 400.413,
+   "dur": 3204.915,
    "gan": 1.47,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794587709803,
-   "titulo": "Wassily Kandinsky's “Betonte Ecken” Sale Price",
-   "dur": 29.515,
+   "inicio": 1794590796295,
+   "titulo": "Moldova vs. Kazakhstan",
+   "dur": 0.076,
+   "gan": 1.9,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794590789179,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 0.344,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794590788899,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 0.034,
+   "gan": 0.84,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794590314865,
+   "titulo": "# of views of Grand Theft Auto VI: Pre-Load Now on week 1?",
+   "dur": 418.429,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794590719575,
+   "titulo": "Tunisia vs. Libya",
+   "dur": 0.151,
+   "gan": 1.11,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794590670999,
+   "titulo": "Cape Verde vs. Liberia",
+   "dur": 2.383,
+   "gan": 0.84,
+   "neta": 0.38,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794590596192,
+   "titulo": "South Africa vs. Kenya",
+   "dur": 0.899,
+   "gan": 0.94,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794590582682,
+   "titulo": "Tunisia vs. Libya",
+   "dur": 0.418,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794590582152,
+   "titulo": "Tunisia vs. Libya",
+   "dur": 0.497,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794590561978,
+   "titulo": "Tunisia vs. Libya",
+   "dur": 0.687,
+   "gan": 0.5,
+   "neta": 0.33,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794590561785,
+   "titulo": "Tunisia vs. Libya",
+   "dur": 0.01,
    "gan": 0.6,
+   "neta": 0.13,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794590118949,
+   "titulo": "Nigeria vs. Tanzania",
+   "dur": 0.485,
+   "gan": 0.62,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794587326500,
-   "titulo": "Highest temperature in Shanghai on November 14?",
-   "dur": 7.144,
-   "gan": 0.96,
-   "neta": 0.15,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794587325219,
-   "titulo": "Highest temperature in Shanghai on November 14?",
-   "dur": 0.553,
-   "gan": 0.59,
-   "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794587324874,
-   "titulo": "Highest temperature in Shanghai on November 14?",
-   "dur": 0.09,
-   "gan": 0.69,
-   "neta": 0.09,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794587322761,
-   "titulo": "Highest temperature in Shanghai on November 14?",
-   "dur": 0.021,
-   "gan": 1.02,
-   "neta": 0.8,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794587322727,
-   "titulo": "Highest temperature in Shanghai on November 14?",
-   "dur": 0.029,
-   "gan": 2.09,
-   "neta": 1.71,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794587320885,
-   "titulo": "Highest temperature in Shanghai on November 14?",
-   "dur": 0.02,
-   "gan": 0.7,
-   "neta": 0.12,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794587319579,
-   "titulo": "Highest temperature in Shanghai on November 14?",
-   "dur": 0.025,
-   "gan": 1.96,
-   "neta": 0.12,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794587319554,
-   "titulo": "Highest temperature in Shanghai on November 14?",
-   "dur": 0.024,
-   "gan": 0.8,
-   "neta": 0.12,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794587319526,
-   "titulo": "Highest temperature in Shanghai on November 14?",
-   "dur": 0.026,
-   "gan": 0.93,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794587309807,
-   "titulo": "Highest temperature in Shanghai on November 14?",
-   "dur": 3.691,
-   "gan": 0.55,
-   "neta": 0.29,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794587308367,
-   "titulo": "Highest temperature in Shanghai on November 14?",
-   "dur": 0.024,
-   "gan": 1.12,
-   "neta": 0.74,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794587308176,
-   "titulo": "Highest temperature in Shanghai on November 14?",
-   "dur": 0.189,
-   "gan": 0.61,
-   "neta": 0.09,
-   "lado": "si"
+   "inicio": 1794590118705,
+   "titulo": "Nigeria vs. Tanzania",
+   "dur": 0.23,
+   "gan": 1.05,
+   "neta": 0.1,
+   "lado": "no"
   }
  ]
 }
