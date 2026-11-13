@@ -1,84 +1,84 @@
 {
- "actualizado": 1794536577339,
- "inicio": 1793828264278,
+ "actualizado": 1794539594854,
+ "inicio": 1793831288935,
  "ejecucion": {
-  "inicio": 1794533577128,
-  "fin": 1794536577339,
-  "mensajes": 7731762,
+  "inicio": 1794536594572,
+  "fin": 1794539594854,
+  "mensajes": 7803741,
   "reconexiones": 0,
-  "eventos": 584,
+  "eventos": 580,
   "errores": [],
-  "nuevos": 13,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 3,
+  "nuevosRentables": 1,
+  "nuevosNeta": 6.84
  },
- "total": 6068,
- "falsos": 2342,
+ "total": 6044,
+ "falsos": 2343,
  "largos": {
-  "episodios": 11754,
-  "eventos": 153,
+  "episodios": 11785,
+  "eventos": 152,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9973,
+  "episodios": 9971,
   "eventos": 38
  },
  "mediana": 0.58,
  "captura": [
   {
    "s": 0.5,
-   "n": 3186,
-   "gan": 10361.21,
-   "nNeta": 1058,
-   "neta": 3666.8
+   "n": 3174,
+   "gan": 10340.1,
+   "nNeta": 1056,
+   "neta": 3662.9
   },
   {
    "s": 2,
-   "n": 1525,
-   "gan": 4870.64,
-   "nNeta": 428,
-   "neta": 1744.18
+   "n": 1523,
+   "gan": 4862.8,
+   "nNeta": 427,
+   "neta": 1740.08
   },
   {
    "s": 5,
-   "n": 903,
-   "gan": 2221.5,
+   "n": 902,
+   "gan": 2220.67,
    "nNeta": 170,
    "neta": 424.28
   },
   {
    "s": 30,
-   "n": 405,
-   "gan": 752.21,
+   "n": 404,
+   "gan": 751.38,
    "nNeta": 57,
    "neta": 82.63
   }
  ],
- "rentables": 1998,
+ "rentables": 1996,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 32,
+   "ops": 33,
    "descartadas": 166,
-   "neta": 108.46,
-   "dias": 5.02,
-   "semana": 151.21
+   "neta": 115.3,
+   "dias": 5.06,
+   "semana": 159.63
   },
   {
    "capital": 1000,
-   "ops": 47,
+   "ops": 48,
    "descartadas": 166,
-   "neta": 144.59,
-   "dias": 5.02,
-   "semana": 201.58
+   "neta": 151.43,
+   "dias": 5.06,
+   "semana": 209.65
   },
   {
    "capital": 2000,
-   "ops": 60,
+   "ops": 61,
    "descartadas": 166,
-   "neta": 205.22,
-   "dias": 5.02,
-   "semana": 286.1
+   "neta": 212.06,
+   "dias": 5.06,
+   "semana": 293.59
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 4,
-   "horas": 89.2,
-   "episodios": 1614,
+   "horas": 90,
+   "episodios": 1617,
    "sospechosas": 21,
-   "realistaNeta": 63.93,
+   "realistaNeta": 70.77,
    "capital": {
-    "500": 31.41,
-    "1000": 42.28,
-    "2000": 42.28
+    "500": 38.25,
+    "1000": 49.12,
+    "2000": 49.12
    },
    "cumple": true
   }
@@ -222,27 +222,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3215,
-  "n": 1189,
-  "gan": 3215.09,
-  "nNeta": 282,
-  "neta": 801.48
+  "conDato": 3218,
+  "n": 1190,
+  "gan": 3223.19,
+  "nNeta": 283,
+  "neta": 808.32
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1430
+   "n": 1425
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2332
+   "n": 2320
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1397
+   "n": 1391
   },
   {
    "et": "5–30 s",
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 99
+   "n": 98
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794254400000,
-   "n": 24
-  },
   {
    "h": 1794258000000,
    "n": 20
@@ -619,10 +615,38 @@
   },
   {
    "h": 1794535200000,
-   "n": 5
+   "n": 7
+  },
+  {
+   "h": 1794538800000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794539275833,
+   "titulo": "CZ # posts November 6 - November 13, 2026?",
+   "dur": 0.735,
+   "gan": 8.1,
+   "neta": 6.84,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794538438238,
+   "titulo": "Highest temperature in Wellington on November 13?",
+   "dur": 0.032,
+   "gan": 1.02,
+   "neta": 0.23,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794536605015,
+   "titulo": "Curaçao vs. Panama",
+   "dur": 0.367,
+   "gan": 0.58,
+   "neta": 0.44,
+   "lado": "si"
+  },
   {
    "inicio": 1794536090532,
    "titulo": "Curaçao vs. Panama",
@@ -718,30 +742,6 @@
    "gan": 0.56,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1794533705457,
-   "titulo": "Llaneros FC vs. Boyacá Chicó FC",
-   "dur": 0.296,
-   "gan": 2.13,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794531191354,
-   "titulo": "Cerro Largo FC vs. CA Progreso",
-   "dur": 0.393,
-   "gan": 1.31,
-   "neta": 0.11,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794531190344,
-   "titulo": "Cerro Largo FC vs. CA Progreso",
-   "dur": 0.895,
-   "gan": 1.31,
-   "neta": 0.11,
-   "lado": "si"
   }
  ]
 }
