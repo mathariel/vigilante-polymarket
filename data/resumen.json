@@ -1,84 +1,84 @@
 {
- "actualizado": 1794566734287,
- "inicio": 1793891527059,
+ "actualizado": 1794569749817,
+ "inicio": 1793894588189,
  "ejecucion": {
-  "inicio": 1794563734056,
-  "fin": 1794566734287,
-  "mensajes": 6990946,
+  "inicio": 1794566749546,
+  "fin": 1794569749817,
+  "mensajes": 6829713,
   "reconexiones": 0,
-  "eventos": 573,
+  "eventos": 586,
   "errores": [],
-  "nuevos": 12,
-  "nuevosRentables": 9,
-  "nuevosNeta": 1.15
+  "nuevos": 35,
+  "nuevosRentables": 3,
+  "nuevosNeta": 2.41
  },
- "total": 5894,
- "falsos": 2280,
+ "total": 5919,
+ "falsos": 2277,
  "largos": {
-  "episodios": 12133,
-  "eventos": 150,
+  "episodios": 12119,
+  "eventos": 149,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9904,
+  "episodios": 9900,
   "eventos": 36
  },
- "mediana": 0.56,
+ "mediana": 0.549,
  "captura": [
   {
    "s": 0.5,
    "n": 3069,
-   "gan": 10058.83,
-   "nNeta": 1018,
-   "neta": 3515.49
+   "gan": 10049.6,
+   "nNeta": 1023,
+   "neta": 3521.51
   },
   {
    "s": 2,
    "n": 1462,
-   "gan": 4637.45,
-   "nNeta": 411,
-   "neta": 1602.65
+   "gan": 4624.86,
+   "nNeta": 414,
+   "neta": 1605.06
   },
   {
    "s": 5,
-   "n": 871,
-   "gan": 2169.65,
-   "nNeta": 175,
-   "neta": 417.68
+   "n": 869,
+   "gan": 2153.59,
+   "nNeta": 176,
+   "neta": 417.78
   },
   {
    "s": 30,
    "n": 390,
-   "gan": 749.62,
-   "nNeta": 56,
-   "neta": 81.22
+   "gan": 749.47,
+   "nNeta": 57,
+   "neta": 81.32
   }
  ],
- "rentables": 1936,
+ "rentables": 1962,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 37,
-   "descartadas": 184,
-   "neta": 118.03,
-   "dias": 5.37,
-   "semana": 153.85
+   "ops": 38,
+   "descartadas": 186,
+   "neta": 118.52,
+   "dias": 5.41,
+   "semana": 153.5
   },
   {
    "capital": 1000,
-   "ops": 52,
-   "descartadas": 184,
-   "neta": 154.16,
-   "dias": 5.37,
-   "semana": 200.95
+   "ops": 53,
+   "descartadas": 186,
+   "neta": 154.65,
+   "dias": 5.41,
+   "semana": 200.29
   },
   {
    "capital": 2000,
-   "ops": 65,
-   "descartadas": 184,
-   "neta": 214.79,
-   "dias": 5.37,
-   "semana": 279.98
+   "ops": 66,
+   "descartadas": 186,
+   "neta": 215.28,
+   "dias": 5.41,
+   "semana": 278.8
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 5,
-   "horas": 97.5,
-   "episodios": 1669,
+   "horas": 98.3,
+   "episodios": 1704,
    "sospechosas": 22,
-   "realistaNeta": 86.46,
+   "realistaNeta": 88.87,
    "capital": {
-    "500": 40.98,
-    "1000": 51.85,
-    "2000": 51.85
+    "500": 41.47,
+    "1000": 52.34,
+    "2000": 52.34
    },
    "cumple": true
   }
@@ -222,32 +222,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3269,
-  "n": 1227,
-  "gan": 3289.1,
-  "nNeta": 305,
-  "neta": 824.01
+  "conDato": 3304,
+  "n": 1231,
+  "gan": 3293.9,
+  "nNeta": 308,
+  "neta": 826.42
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1403
+   "n": 1419
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2275
+   "n": 2285
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1339
+   "n": 1340
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 481
+   "n": 479
   },
   {
    "et": "30 s–5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794279600000,
-   "n": 8
-  },
   {
    "h": 1794286800000,
    "n": 2
@@ -619,129 +615,133 @@
   },
   {
    "h": 1794564000000,
-   "n": 12
+   "n": 13
+  },
+  {
+   "h": 1794567600000,
+   "n": 34
   }
  ],
  "recientes": [
   {
-   "inicio": 1794564240139,
-   "titulo": "Singapore vs. Paraguay",
-   "dur": 1136.09,
-   "gan": 0.97,
+   "inicio": 1794569323784,
+   "titulo": "White House # posts November 6 - November 13, 2026?",
+   "dur": 0.049,
+   "gan": 0.6,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794568697032,
+   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
+   "dur": 0.218,
+   "gan": 1.43,
+   "neta": 1.16,
    "lado": "no"
   },
   {
-   "inicio": 1794565269435,
-   "titulo": "Highest temperature in Ankara on November 13?",
-   "dur": 0.826,
-   "gan": 1.85,
-   "neta": 1.25,
-   "lado": "si"
+   "inicio": 1794568697021,
+   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
+   "dur": 0.01,
+   "gan": 0.51,
+   "neta": 0.19,
+   "lado": "no"
   },
   {
-   "inicio": 1794564795314,
-   "titulo": "Zelenskyy # posts November 6 - November 13, 2026?",
-   "dur": 27.413,
-   "gan": 0.53,
-   "neta": 0.07,
-   "lado": "si"
+   "inicio": 1794568696997,
+   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
+   "dur": 0.023,
+   "gan": 0.5,
+   "neta": 0.18,
+   "lado": "no"
   },
   {
-   "inicio": 1794564786564,
-   "titulo": "Zelenskyy # posts November 6 - November 13, 2026?",
-   "dur": 8.651,
+   "inicio": 1794568696918,
+   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
+   "dur": 0.052,
+   "gan": 0.5,
+   "neta": 0.17,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794568696893,
+   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
+   "dur": 0.001,
+   "gan": 0.66,
+   "neta": 0.17,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794568695693,
+   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
+   "dur": 0.158,
+   "gan": 1.58,
+   "neta": 1.3,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794568695599,
+   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
+   "dur": 0.092,
+   "gan": 0.5,
+   "neta": 0.18,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794568695523,
+   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
+   "dur": 0.034,
+   "gan": 0.5,
+   "neta": 0.17,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794568692562,
+   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
+   "dur": 0.574,
    "gan": 0.52,
-   "neta": 0.06,
-   "lado": "si"
+   "neta": 0.18,
+   "lado": "no"
   },
   {
-   "inicio": 1794564780085,
-   "titulo": "Zelenskyy # posts November 6 - November 13, 2026?",
-   "dur": 6.411,
+   "inicio": 1794568692534,
+   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
+   "dur": 0.001,
+   "gan": 0.64,
+   "neta": 0.17,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794568691406,
+   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
+   "dur": 0.149,
+   "gan": 1.45,
+   "neta": 1.17,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794568691367,
+   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
+   "dur": 0.034,
+   "gan": 0.53,
+   "neta": 0.19,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794568688757,
+   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
+   "dur": 0.259,
    "gan": 0.52,
-   "neta": 0.07,
-   "lado": "si"
+   "neta": 0.19,
+   "lado": "no"
   },
   {
-   "inicio": 1794564764215,
-   "titulo": "Zelenskyy # posts November 6 - November 13, 2026?",
-   "dur": 15.755,
-   "gan": 0.53,
-   "neta": 0.07,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794564761409,
-   "titulo": "Zelenskyy # posts November 6 - November 13, 2026?",
-   "dur": 2.709,
-   "gan": 0.55,
-   "neta": 0.08,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794564760129,
-   "titulo": "Zelenskyy # posts November 6 - November 13, 2026?",
-   "dur": 1.237,
-   "gan": 0.55,
-   "neta": 0.08,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794564744813,
-   "titulo": "Zelenskyy # posts November 6 - November 13, 2026?",
-   "dur": 14.286,
-   "gan": 0.75,
-   "neta": 0.08,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794564741534,
-   "titulo": "Zelenskyy # posts November 6 - November 13, 2026?",
-   "dur": 3.235,
-   "gan": 0.76,
-   "neta": 0.08,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794564738279,
-   "titulo": "Zelenskyy # posts November 6 - November 13, 2026?",
-   "dur": 3.027,
-   "gan": 0.93,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794564736630,
-   "titulo": "Zelenskyy # posts November 6 - November 13, 2026?",
-   "dur": 1.594,
-   "gan": 0.86,
-   "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794560271820,
-   "titulo": "Highest temperature in Tel Aviv on November 13?",
-   "dur": 24.698,
-   "gan": 0.53,
-   "neta": 0.15,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794560267015,
-   "titulo": "Highest temperature in Tel Aviv on November 13?",
-   "dur": 0.02,
-   "gan": 0.82,
-   "neta": 0.36,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794560255475,
-   "titulo": "Highest temperature in Tel Aviv on November 13?",
-   "dur": 11.517,
-   "gan": 0.53,
-   "neta": 0.15,
-   "lado": "si"
+   "inicio": 1794568688646,
+   "titulo": "Mlada Boleslav vs. Vysocina Jihlava",
+   "dur": 0.01,
+   "gan": 0.5,
+   "neta": 0.17,
+   "lado": "no"
   }
  ]
 }
