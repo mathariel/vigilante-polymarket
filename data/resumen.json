@@ -1,84 +1,84 @@
 {
- "actualizado": 1794602944766,
+ "actualizado": 1794605960794,
  "inicio": 1793909692332,
  "ejecucion": {
-  "inicio": 1794599944560,
-  "fin": 1794602944766,
-  "mensajes": 13573968,
-  "reconexiones": 4,
-  "eventos": 614,
+  "inicio": 1794602960492,
+  "fin": 1794605960794,
+  "mensajes": 13631154,
+  "reconexiones": 1,
+  "eventos": 607,
   "errores": [],
-  "nuevos": 63,
-  "nuevosRentables": 9,
-  "nuevosNeta": 3.29
+  "nuevos": 104,
+  "nuevosRentables": 4,
+  "nuevosNeta": 0.95
  },
- "total": 5859,
- "falsos": 2317,
+ "total": 5858,
+ "falsos": 2304,
  "largos": {
-  "episodios": 12710,
+  "episodios": 12738,
   "eventos": 149,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9384,
+  "episodios": 9372,
   "eventos": 37
  },
- "mediana": 0.552,
+ "mediana": 0.56,
  "captura": [
   {
    "s": 0.5,
-   "n": 3041,
-   "gan": 10117.45,
-   "nNeta": 1016,
-   "neta": 3576.55
+   "n": 3049,
+   "gan": 10099.57,
+   "nNeta": 1009,
+   "neta": 3559.03
   },
   {
    "s": 2,
    "n": 1469,
-   "gan": 4693.19,
-   "nNeta": 409,
-   "neta": 1636.79
+   "gan": 4670.67,
+   "nNeta": 407,
+   "neta": 1627.15
   },
   {
    "s": 5,
-   "n": 896,
-   "gan": 2344.94,
-   "nNeta": 173,
-   "neta": 535.31
+   "n": 900,
+   "gan": 2335.37,
+   "nNeta": 174,
+   "neta": 531.42
   },
   {
    "s": 30,
-   "n": 417,
-   "gan": 757.72,
+   "n": 418,
+   "gan": 759.19,
    "nNeta": 55,
    "neta": 70.92
   }
  ],
- "rentables": 1967,
+ "rentables": 1962,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 49,
-   "descartadas": 203,
-   "neta": 128.6,
-   "dias": 5.79,
-   "semana": 155.49
+   "ops": 50,
+   "descartadas": 206,
+   "neta": 129.05,
+   "dias": 5.82,
+   "semana": 155.1
   },
   {
    "capital": 1000,
-   "ops": 65,
-   "descartadas": 203,
-   "neta": 184.53,
-   "dias": 5.79,
-   "semana": 223.12
+   "ops": 66,
+   "descartadas": 206,
+   "neta": 184.98,
+   "dias": 5.82,
+   "semana": 222.33
   },
   {
    "capital": 2000,
-   "ops": 78,
-   "descartadas": 203,
-   "neta": 273.99,
-   "dias": 5.79,
-   "semana": 331.3
+   "ops": 79,
+   "descartadas": 206,
+   "neta": 274.44,
+   "dias": 5.82,
+   "semana": 329.85
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 5,
-   "horas": 107.5,
-   "episodios": 1977,
+   "horas": 108.3,
+   "episodios": 2082,
    "sospechosas": 26,
-   "realistaNeta": 242.8,
+   "realistaNeta": 243.75,
    "capital": {
-    "500": 51.55,
-    "1000": 82.22,
-    "2000": 111.06
+    "500": 52,
+    "1000": 82.67,
+    "2000": 111.51
    },
    "cumple": true
   }
@@ -222,32 +222,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3573,
-  "n": 1352,
-  "gan": 3688.32,
-  "nNeta": 339,
-  "neta": 980.35
+  "conDato": 3678,
+  "n": 1374,
+  "gan": 3724.36,
+  "nNeta": 343,
+  "neta": 981.3
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1415
+   "n": 1409
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2248
+   "n": 2252
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1294
+   "n": 1291
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 479
+   "n": 482
   },
   {
    "et": "30 s–5 min",
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 113
+   "n": 114
   }
  ],
  "porEvento": [
@@ -290,6 +290,13 @@
    "mediana": 0.831
   },
   {
+   "titulo": "Slovakia vs. Faroe Islands",
+   "n": 95,
+   "gan": 100.55,
+   "neta": 1.64,
+   "mediana": 0.385
+  },
+  {
    "titulo": "Club Aurora vs. FC Universitario",
    "n": 86,
    "gan": 175.62,
@@ -311,13 +318,6 @@
    "mediana": 0.239
   },
   {
-   "titulo": "Celtic FC vs. Beşiktaş JK",
-   "n": 74,
-   "gan": 89.75,
-   "neta": 30.1,
-   "mediana": 0.112
-  },
-  {
    "titulo": "Sunderland AFC vs. Chelsea FC",
    "n": 72,
    "gan": 305.32,
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794330000000,
-   "n": 17
-  },
   {
    "h": 1794333600000,
    "n": 13
@@ -619,129 +615,133 @@
   },
   {
    "h": 1794600000000,
-   "n": 57
+   "n": 75
+  },
+  {
+   "h": 1794603600000,
+   "n": 87
   }
  ],
  "recientes": [
   {
-   "inicio": 1794599949840,
+   "inicio": 1794605839785,
+   "titulo": "Luxembourg vs. Estonia",
+   "dur": 3.154,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794605839588,
+   "titulo": "Luxembourg vs. Estonia",
+   "dur": 0.023,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794605777081,
+   "titulo": "Luxembourg vs. Estonia",
+   "dur": 10.295,
+   "gan": 0.54,
+   "neta": 0.45,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794605742782,
+   "titulo": "Crusaders FC vs. Carrick Rangers",
+   "dur": 0.991,
+   "gan": 0.6,
+   "neta": 0.53,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794605711798,
+   "titulo": "Slovakia vs. Faroe Islands",
+   "dur": 1.264,
+   "gan": 2.19,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794605561857,
+   "titulo": "Slovakia vs. Faroe Islands",
+   "dur": 0.972,
+   "gan": 0.64,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794605372299,
+   "titulo": "Slovakia vs. Faroe Islands",
+   "dur": 0.478,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794605371854,
+   "titulo": "Slovakia vs. Faroe Islands",
+   "dur": 0.418,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794605371622,
+   "titulo": "Slovakia vs. Faroe Islands",
+   "dur": 0.023,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794605359215,
+   "titulo": "Slovakia vs. Faroe Islands",
+   "dur": 0.457,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794605356312,
+   "titulo": "Slovakia vs. Faroe Islands",
+   "dur": 0.292,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794605356267,
+   "titulo": "Slovakia vs. Faroe Islands",
+   "dur": 0.014,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794602854928,
    "titulo": "Belarus vs. Albania",
-   "dur": 2994.723,
+   "dur": 2259.973,
    "gan": 1.47,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794602506004,
-   "titulo": "Puerto Rico vs. Dominica",
-   "dur": 2.375,
-   "gan": 0.63,
-   "neta": 0.4,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794602500885,
-   "titulo": "Puerto Rico vs. Dominica",
-   "dur": 1.159,
-   "gan": 0.7,
-   "neta": 0.51,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794602362765,
-   "titulo": "USPF Saint-Philbert-de-Grand-Lieu vs. Vendée Fontenay Foot",
-   "dur": 23.623,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794602356302,
-   "titulo": "USPF Saint-Philbert-de-Grand-Lieu vs. Vendée Fontenay Foot",
-   "dur": 4.841,
-   "gan": 0.94,
-   "neta": 0.02,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794602296262,
-   "titulo": "Slovenia vs. Switzerland",
-   "dur": 2.212,
-   "gan": 0.5,
+   "inicio": 1794605091268,
+   "titulo": "Slovakia vs. Faroe Islands",
+   "dur": 1.744,
+   "gan": 0.69,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794602292092,
-   "titulo": "Slovenia vs. Switzerland",
-   "dur": 1.98,
-   "gan": 1.35,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794602291690,
-   "titulo": "Slovenia vs. Switzerland",
-   "dur": 0.035,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794602133821,
-   "titulo": "Slovenia vs. Switzerland",
-   "dur": 0.942,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794601572970,
-   "titulo": "CD Leganés vs. Burgos CF",
-   "dur": 81.581,
-   "gan": 0.97,
-   "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794601243646,
-   "titulo": "Andorra vs. Gibraltar",
-   "dur": 0.001,
+   "inicio": 1794605090231,
+   "titulo": "Slovakia vs. Faroe Islands",
+   "dur": 0.044,
    "gan": 0.51,
-   "neta": 0.2,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794601176356,
-   "titulo": "Mali vs. Rwanda",
-   "dur": 1.452,
-   "gan": 0.68,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794601090021,
-   "titulo": "Slovakia vs. Faroe Islands",
-   "dur": 1.796,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794601088684,
-   "titulo": "Slovakia vs. Faroe Islands",
-   "dur": 0.021,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794601088115,
-   "titulo": "Slovakia vs. Faroe Islands",
-   "dur": 0.032,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
