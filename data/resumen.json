@@ -1,84 +1,84 @@
 {
- "actualizado": 1794530544072,
- "inicio": 1793822278060,
+ "actualizado": 1794533558543,
+ "inicio": 1793825143679,
  "ejecucion": {
-  "inicio": 1794527543771,
-  "fin": 1794530544072,
-  "mensajes": 7655289,
+  "inicio": 1794530558254,
+  "fin": 1794533558543,
+  "mensajes": 7163526,
   "reconexiones": 0,
-  "eventos": 585,
+  "eventos": 576,
   "errores": [],
-  "nuevos": 17,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 9,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.83
  },
- "total": 6123,
- "falsos": 2369,
+ "total": 6080,
+ "falsos": 2356,
  "largos": {
-  "episodios": 11636,
+  "episodios": 11700,
   "eventos": 150,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9996,
+  "episodios": 9995,
   "eventos": 39
  },
- "mediana": 0.58,
+ "mediana": 0.583,
  "captura": [
   {
    "s": 0.5,
-   "n": 3217,
-   "gan": 10421.16,
-   "nNeta": 1068,
-   "neta": 3672.95
+   "n": 3200,
+   "gan": 10372.26,
+   "nNeta": 1063,
+   "neta": 3670.36
   },
   {
    "s": 2,
-   "n": 1546,
-   "gan": 4890.31,
+   "n": 1538,
+   "gan": 4879.4,
    "nNeta": 431,
-   "neta": 1744.29
+   "neta": 1744.77
   },
   {
    "s": 5,
-   "n": 919,
-   "gan": 2232.8,
+   "n": 914,
+   "gan": 2228.66,
    "nNeta": 172,
    "neta": 424.86
   },
   {
    "s": 30,
-   "n": 418,
-   "gan": 762.72,
+   "n": 413,
+   "gan": 758.58,
    "nNeta": 59,
    "neta": 83.21
   }
  ],
- "rentables": 2025,
+ "rentables": 2004,
  "porCapital": [
   {
    "capital": 500,
    "ops": 32,
-   "descartadas": 165,
+   "descartadas": 166,
    "neta": 108.46,
-   "dias": 4.95,
-   "semana": 153.34
+   "dias": 4.99,
+   "semana": 152.27
   },
   {
    "capital": 1000,
    "ops": 47,
-   "descartadas": 165,
+   "descartadas": 166,
    "neta": 144.59,
-   "dias": 4.95,
-   "semana": 204.42
+   "dias": 4.99,
+   "semana": 202.99
   },
   {
    "capital": 2000,
    "ops": 60,
-   "descartadas": 165,
+   "descartadas": 166,
    "neta": 205.22,
-   "dias": 4.95,
-   "semana": 290.13
+   "dias": 4.99,
+   "semana": 288.1
   }
  ],
  "maxBloqueoH": 24,
@@ -101,10 +101,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 4,
-   "horas": 87.5,
-   "episodios": 1592,
+   "horas": 88.3,
+   "episodios": 1601,
    "sospechosas": 21,
-   "realistaNeta": 63.1,
+   "realistaNeta": 63.93,
    "capital": {
     "500": 31.41,
     "1000": 42.28,
@@ -222,27 +222,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3193,
-  "n": 1183,
-  "gan": 3208.6,
-  "nNeta": 281,
-  "neta": 800.65
+  "conDato": 3202,
+  "n": 1186,
+  "gan": 3212.1,
+  "nNeta": 282,
+  "neta": 801.48
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1446
+   "n": 1428
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2347
+   "n": 2333
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1405
+   "n": 1399
   },
   {
    "et": "5–30 s",
@@ -252,7 +252,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 315
+   "n": 310
   },
   {
    "et": "> 5 min",
@@ -619,10 +619,82 @@
   },
   {
    "h": 1794528000000,
-   "n": 17
+   "n": 26
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794531191354,
+   "titulo": "Cerro Largo FC vs. CA Progreso",
+   "dur": 0.393,
+   "gan": 1.31,
+   "neta": 0.11,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794531190344,
+   "titulo": "Cerro Largo FC vs. CA Progreso",
+   "dur": 0.895,
+   "gan": 1.31,
+   "neta": 0.11,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794531115627,
+   "titulo": "Cerro Largo FC vs. CA Progreso",
+   "dur": 4.19,
+   "gan": 1.98,
+   "neta": 0.83,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794530824589,
+   "titulo": "São Bernardo FC vs. Athletic Club",
+   "dur": 1.808,
+   "gan": 0.96,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794530813749,
+   "titulo": "São Bernardo FC vs. Athletic Club",
+   "dur": 0.46,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794530813321,
+   "titulo": "São Bernardo FC vs. Athletic Club",
+   "dur": 0.39,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794530811495,
+   "titulo": "São Bernardo FC vs. Athletic Club",
+   "dur": 0.167,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794530809586,
+   "titulo": "São Bernardo FC vs. Athletic Club",
+   "dur": 1.866,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794530729919,
+   "titulo": "São Bernardo FC vs. Athletic Club",
+   "dur": 0.856,
+   "gan": 0.84,
+   "neta": 0.68,
+   "lado": "no"
+  },
   {
    "inicio": 1794530469542,
    "titulo": "São Bernardo FC vs. Athletic Club",
@@ -670,78 +742,6 @@
    "gan": 0.67,
    "neta": 0.09,
    "lado": "si"
-  },
-  {
-   "inicio": 1794530025289,
-   "titulo": "Highest temperature in Jeddah on November 13?",
-   "dur": 13.969,
-   "gan": 0.81,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794529892386,
-   "titulo": "AD Pasto vs. CDP Junior FC",
-   "dur": 0.05,
-   "gan": 0.91,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794529892275,
-   "titulo": "AD Pasto vs. CDP Junior FC",
-   "dur": 0.101,
-   "gan": 1.79,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794529892111,
-   "titulo": "AD Pasto vs. CDP Junior FC",
-   "dur": 0.049,
-   "gan": 9.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794529136903,
-   "titulo": "AD Pasto vs. CDP Junior FC",
-   "dur": 0.892,
-   "gan": 0.98,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794529052159,
-   "titulo": "AD Pasto vs. CDP Junior FC",
-   "dur": 0.518,
-   "gan": 0.6,
-   "neta": 0.29,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794529051905,
-   "titulo": "AD Pasto vs. CDP Junior FC",
-   "dur": 0.04,
-   "gan": 0.88,
-   "neta": 0.61,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794528652714,
-   "titulo": "Cerro Largo FC vs. CA Progreso",
-   "dur": 0.267,
-   "gan": 4.84,
-   "neta": 1.94,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794528605911,
-   "titulo": "Cerro Largo FC vs. CA Progreso",
-   "dur": 0.324,
-   "gan": 0.81,
-   "neta": 0.65,
-   "lado": "no"
   }
  ]
 }
