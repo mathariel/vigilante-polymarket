@@ -1,84 +1,84 @@
 {
- "actualizado": 1794548646841,
- "inicio": 1793849414955,
+ "actualizado": 1794551662809,
+ "inicio": 1793861173668,
  "ejecucion": {
-  "inicio": 1794545646467,
-  "fin": 1794548646842,
-  "mensajes": 7546048,
-  "reconexiones": 0,
-  "eventos": 574,
+  "inicio": 1794548662522,
+  "fin": 1794551662809,
+  "mensajes": 9316125,
+  "reconexiones": 2,
+  "eventos": 570,
   "errores": [],
-  "nuevos": 2,
-  "nuevosRentables": 1,
-  "nuevosNeta": 10.75
+  "nuevos": 1,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5940,
- "falsos": 2323,
+ "total": 5921,
+ "falsos": 2312,
  "largos": {
-  "episodios": 11975,
+  "episodios": 12023,
   "eventos": 149,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9934,
-  "eventos": 38
+  "episodios": 9926,
+  "eventos": 37
  },
  "mediana": 0.571,
  "captura": [
   {
    "s": 0.5,
-   "n": 3107,
-   "gan": 10236.14,
-   "nNeta": 1033,
-   "neta": 3636.38
+   "n": 3096,
+   "gan": 10225.39,
+   "nNeta": 1032,
+   "neta": 3636.32
   },
   {
    "s": 2,
-   "n": 1486,
-   "gan": 4810.53,
+   "n": 1478,
+   "gan": 4806.63,
    "nNeta": 418,
    "neta": 1731.06
   },
   {
    "s": 5,
-   "n": 878,
-   "gan": 2178.65,
+   "n": 871,
+   "gan": 2175.57,
    "nNeta": 169,
    "neta": 423.42
   },
   {
    "s": 30,
    "n": 394,
-   "gan": 744.73,
+   "gan": 745.83,
    "nNeta": 56,
    "neta": 81.77
   }
  ],
- "rentables": 1952,
+ "rentables": 1948,
  "porCapital": [
   {
    "capital": 500,
    "ops": 33,
    "descartadas": 169,
    "neta": 115.3,
-   "dias": 5.16,
-   "semana": 156.39
+   "dias": 5.2,
+   "semana": 155.34
   },
   {
    "capital": 1000,
    "ops": 48,
    "descartadas": 169,
    "neta": 151.43,
-   "dias": 5.16,
-   "semana": 205.4
+   "dias": 5.2,
+   "semana": 204.02
   },
   {
    "capital": 2000,
    "ops": 61,
    "descartadas": 169,
    "neta": 212.06,
-   "dias": 5.16,
-   "semana": 287.63
+   "dias": 5.2,
+   "semana": 285.7
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 5,
-   "horas": 92.5,
-   "episodios": 1635,
+   "horas": 93.3,
+   "episodios": 1637,
    "sospechosas": 21,
    "realistaNeta": 82.05,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3236,
-  "n": 1202,
-  "gan": 3261.03,
+  "conDato": 3238,
+  "n": 1204,
+  "gan": 3263.39,
   "nNeta": 286,
   "neta": 819.6
  },
@@ -232,22 +232,22 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1406
+   "n": 1400
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2287
+   "n": 2284
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1363
+   "n": 1360
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 484
+   "n": 477
   },
   {
    "et": "30 s–5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794268800000,
-   "n": 3
-  },
   {
    "h": 1794272400000,
    "n": 13
@@ -619,10 +615,30 @@
   },
   {
    "h": 1794546000000,
-   "n": 2
+   "n": 3
+  },
+  {
+   "h": 1794549600000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794551395114,
+   "titulo": "Highest temperature in Panama City on November 13?",
+   "dur": 1.378,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794548657818,
+   "titulo": "Claude Monet's “Le Jardin des Tuileries” Sale Price",
+   "dur": 216.72,
+   "gan": 1.61,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794547987454,
    "titulo": "Claude Monet's “Le Jardin des Tuileries” Sale Price",
@@ -726,22 +742,6 @@
    "gan": 1.49,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794541937329,
-   "titulo": "\"The Cat in the Hat\" 2nd Weekend Box Office",
-   "dur": 72.561,
-   "gan": 1.38,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794540553186,
-   "titulo": "\"The Cat in the Hat\" 2nd Weekend Box Office",
-   "dur": 76.109,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
