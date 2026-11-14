@@ -1,84 +1,84 @@
 {
- "actualizado": 1794669290521,
+ "actualizado": 1794672313302,
  "inicio": 1793954888835,
  "ejecucion": {
-  "inicio": 1794666290317,
-  "fin": 1794669290521,
-  "mensajes": 12028131,
-  "reconexiones": 0,
-  "eventos": 621,
+  "inicio": 1794669313090,
+  "fin": 1794672313302,
+  "mensajes": 13190115,
+  "reconexiones": 2,
+  "eventos": 648,
   "errores": [],
-  "nuevos": 41,
-  "nuevosRentables": 5,
-  "nuevosNeta": 41.45
+  "nuevos": 40,
+  "nuevosRentables": 3,
+  "nuevosNeta": 2.75
  },
- "total": 5939,
- "falsos": 2376,
+ "total": 5979,
+ "falsos": 2385,
  "largos": {
-  "episodios": 13651,
-  "eventos": 154,
+  "episodios": 13663,
+  "eventos": 153,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8406,
+  "episodios": 8351,
   "eventos": 35
  },
- "mediana": 0.55,
+ "mediana": 0.549,
  "captura": [
   {
    "s": 0.5,
-   "n": 3082,
-   "gan": 10318.72,
-   "nNeta": 1024,
-   "neta": 3665.07
+   "n": 3102,
+   "gan": 10362.06,
+   "nNeta": 1033,
+   "neta": 3675.22
   },
   {
    "s": 2,
-   "n": 1478,
-   "gan": 4749.06,
-   "nNeta": 420,
-   "neta": 1691.18
+   "n": 1488,
+   "gan": 4773.71,
+   "nNeta": 424,
+   "neta": 1697.41
   },
   {
    "s": 5,
-   "n": 902,
-   "gan": 2361.96,
-   "nNeta": 178,
-   "neta": 562.82
+   "n": 909,
+   "gan": 2381.97,
+   "nNeta": 180,
+   "neta": 566.94
   },
   {
    "s": 30,
-   "n": 412,
-   "gan": 750.42,
-   "nNeta": 56,
-   "neta": 73.04
+   "n": 413,
+   "gan": 754.11,
+   "nNeta": 57,
+   "neta": 76.52
   }
  ],
- "rentables": 1995,
+ "rentables": 2009,
  "porCapital": [
   {
    "capital": 500,
    "ops": 62,
-   "descartadas": 219,
+   "descartadas": 222,
    "neta": 164.55,
-   "dias": 6.56,
-   "semana": 175.67
+   "dias": 6.59,
+   "semana": 174.73
   },
   {
    "capital": 1000,
    "ops": 79,
-   "descartadas": 219,
+   "descartadas": 222,
    "neta": 250.3,
-   "dias": 6.56,
-   "semana": 267.21
+   "dias": 6.59,
+   "semana": 265.79
   },
   {
    "capital": 2000,
    "ops": 93,
-   "descartadas": 219,
+   "descartadas": 222,
    "neta": 354.8,
-   "dias": 6.56,
-   "semana": 378.77
+   "dias": 6.59,
+   "semana": 376.76
   }
  ],
  "maxBloqueoH": 24,
@@ -101,10 +101,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 6,
-   "horas": 125.8,
-   "episodios": 2362,
-   "sospechosas": 28,
-   "realistaNeta": 330.64,
+   "horas": 126.7,
+   "episodios": 2402,
+   "sospechosas": 29,
+   "realistaNeta": 333.39,
    "capital": {
     "500": 87.51,
     "1000": 147.99,
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 110,
+  "n": 111,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,32 +222,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3956,
-  "n": 1443,
-  "gan": 3905.49,
-  "nNeta": 371,
-  "neta": 1068.19
+  "conDato": 3995,
+  "n": 1452,
+  "gan": 3926.45,
+  "nNeta": 374,
+  "neta": 1070.94
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1419
+   "n": 1425
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2304
+   "n": 2326
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1308
+   "n": 1313
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 490
+   "n": 496
   },
   {
    "et": "30 s–5 min",
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 110
+   "n": 111
   }
  ],
  "porEvento": [
@@ -298,9 +298,9 @@
   },
   {
    "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "n": 86,
-   "gan": 144.3,
-   "neta": 53.93,
+   "n": 94,
+   "gan": 153.59,
+   "neta": 55.81,
    "mediana": 0.406
   },
   {
@@ -619,129 +619,129 @@
   },
   {
    "h": 1794668400000,
-   "n": 23
+   "n": 63
   }
  ],
  "recientes": [
   {
-   "inicio": 1794669289566,
-   "titulo": "Walsall FC vs. Barnet FC",
-   "dur": 0.753,
-   "gan": 0.7,
-   "neta": 0.35,
+   "inicio": 1794671447505,
+   "titulo": "Southend United FC vs. Aldershot Town FC - Halftime Result",
+   "dur": 865.588,
+   "gan": 3.69,
+   "neta": 3.48,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794671356643,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 3.942,
+   "gan": 2.75,
+   "neta": 1.49,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794671196061,
+   "titulo": "Kosovo vs. Israel",
+   "dur": 0.151,
+   "gan": 1.18,
+   "neta": 0.04,
    "lado": "no"
   },
   {
-   "inicio": 1794669210801,
-   "titulo": "Kosovo vs. Israel",
-   "dur": 0.353,
-   "gan": 0.76,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794669143184,
-   "titulo": "Kosovo vs. Israel",
-   "dur": 0.966,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794669017643,
+   "inicio": 1794671062742,
    "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 9.649,
-   "gan": 0.61,
+   "dur": 0.021,
+   "gan": 0.93,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794669026501,
-   "titulo": "Stockport County FC vs. Reading FC",
-   "dur": 0.234,
+   "inicio": 1794671035654,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.028,
+   "gan": 0.67,
+   "neta": 0.34,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794671028911,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.173,
    "gan": 0.6,
-   "neta": 0.11,
+   "neta": 0.05,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794671026024,
+   "titulo": "Eastleigh FC vs. AFC Fylde",
+   "dur": 0.914,
+   "gan": 3.09,
+   "neta": 0.03,
    "lado": "no"
   },
   {
-   "inicio": 1794669016111,
+   "inicio": 1794670779757,
    "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.22,
-   "gan": 0.54,
+   "dur": 7.155,
+   "gan": 0.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794668991213,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 1.338,
-   "gan": 0.92,
+   "inicio": 1794670719473,
+   "titulo": "Sutton United FC vs. Solihull Moors FC",
+   "dur": 0.998,
+   "gan": 2.52,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794668833592,
-   "titulo": "Kosovo vs. Israel",
-   "dur": 1.403,
-   "gan": 0.73,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794668744681,
-   "titulo": "Stockport County FC vs. Reading FC",
-   "dur": 0.066,
+   "inicio": 1794670601168,
+   "titulo": "Hornchurch FC vs. Tamworth FC",
+   "dur": 0.564,
    "gan": 1,
-   "neta": 0.45,
+   "neta": 0.49,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794670540793,
+   "titulo": "Highest temperature in Chongqing on November 15?",
+   "dur": 22.207,
+   "gan": 0.52,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794668715076,
-   "titulo": "Walsall FC vs. Barnet FC",
-   "dur": 0.134,
-   "gan": 0.82,
-   "neta": 0.19,
-   "lado": "no"
+   "inicio": 1794670529271,
+   "titulo": "Highest temperature in Chongqing on November 15?",
+   "dur": 11.457,
+   "gan": 0.72,
+   "neta": 0,
+   "lado": "si"
   },
   {
-   "inicio": 1794668712291,
-   "titulo": "Walsall FC vs. Barnet FC",
-   "dur": 0.141,
-   "gan": 1.03,
-   "neta": 0.71,
-   "lado": "no"
+   "inicio": 1794670456509,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 6.128,
+   "gan": 0.79,
+   "neta": 0,
+   "lado": "si"
   },
   {
-   "inicio": 1794668711777,
-   "titulo": "Walsall FC vs. Barnet FC",
-   "dur": 0.481,
-   "gan": 0.55,
-   "neta": 0.3,
-   "lado": "no"
+   "inicio": 1794670456290,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.142,
+   "gan": 0.79,
+   "neta": 0,
+   "lado": "si"
   },
   {
-   "inicio": 1794668575715,
-   "titulo": "Doncaster Rovers FC vs. Leyton Orient FC",
-   "dur": 0.094,
-   "gan": 1.23,
-   "neta": 1.04,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794668575026,
-   "titulo": "Doncaster Rovers FC vs. Leyton Orient FC",
-   "dur": 0.668,
-   "gan": 0.55,
-   "neta": 0.36,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794668564321,
-   "titulo": "Doncaster Rovers FC vs. Leyton Orient FC",
-   "dur": 0.066,
-   "gan": 0.55,
-   "neta": 0.39,
-   "lado": "no"
+   "inicio": 1794670032660,
+   "titulo": "Real Sociedad de Fútbol B vs. Real Sporting de Gijón",
+   "dur": 0.036,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
   }
  ]
 }
