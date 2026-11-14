@@ -1,84 +1,84 @@
 {
- "actualizado": 1794678341555,
- "inicio": 1793967082192,
+ "actualizado": 1794681356388,
+ "inicio": 1793976073515,
  "ejecucion": {
-  "inicio": 1794675341264,
-  "fin": 1794678341555,
-  "mensajes": 11806950,
-  "reconexiones": 0,
-  "eventos": 599,
+  "inicio": 1794678356091,
+  "fin": 1794681356388,
+  "mensajes": 10742643,
+  "reconexiones": 1,
+  "eventos": 615,
   "errores": [],
-  "nuevos": 59,
+  "nuevos": 60,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6053,
- "falsos": 2405,
+ "total": 6079,
+ "falsos": 2409,
  "largos": {
-  "episodios": 13634,
-  "eventos": 152,
+  "episodios": 13629,
+  "eventos": 153,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8293,
+  "episodios": 8273,
   "eventos": 34
  },
- "mediana": 0.552,
+ "mediana": 0.556,
  "captura": [
   {
    "s": 0.5,
-   "n": 3146,
-   "gan": 10493.69,
-   "nNeta": 1040,
-   "neta": 3690.79
+   "n": 3166,
+   "gan": 10484.64,
+   "nNeta": 1031,
+   "neta": 3663.88
   },
   {
    "s": 2,
-   "n": 1508,
-   "gan": 4811.64,
-   "nNeta": 424,
-   "neta": 1701.34
+   "n": 1530,
+   "gan": 4819.96,
+   "nNeta": 420,
+   "neta": 1677.97
   },
   {
    "s": 5,
-   "n": 918,
-   "gan": 2401.45,
-   "nNeta": 180,
-   "neta": 566.94
+   "n": 933,
+   "gan": 2404.05,
+   "nNeta": 178,
+   "neta": 546.8
   },
   {
    "s": 30,
-   "n": 413,
-   "gan": 755.5,
-   "nNeta": 57,
-   "neta": 76.52
+   "n": 420,
+   "gan": 744.53,
+   "nNeta": 56,
+   "neta": 56.58
   }
  ],
- "rentables": 2020,
+ "rentables": 2008,
  "porCapital": [
   {
    "capital": 500,
    "ops": 63,
    "descartadas": 222,
    "neta": 171.01,
-   "dias": 6.66,
-   "semana": 179.69
+   "dias": 6.7,
+   "semana": 178.75
   },
   {
    "capital": 1000,
    "ops": 80,
    "descartadas": 222,
    "neta": 256.76,
-   "dias": 6.66,
-   "semana": 269.79
+   "dias": 6.7,
+   "semana": 268.39
   },
   {
    "capital": 2000,
    "ops": 94,
    "descartadas": 222,
    "neta": 361.26,
-   "dias": 6.66,
-   "semana": 379.6
+   "dias": 6.7,
+   "semana": 377.62
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 6,
-   "horas": 128.3,
-   "episodios": 2490,
+   "horas": 129.2,
+   "episodios": 2550,
    "sospechosas": 31,
    "realistaNeta": 339.85,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4081,
-  "n": 1485,
-  "gan": 3983.01,
+  "conDato": 4141,
+  "n": 1512,
+  "gan": 4019.03,
   "nNeta": 375,
   "neta": 1077.4
  },
@@ -232,32 +232,32 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1439
+   "n": 1440
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2355
+   "n": 2359
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1335
+   "n": 1340
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 505
+   "n": 513
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 306
+   "n": 312
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 107
+   "n": 108
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794405600000,
-   "n": 27
-  },
   {
    "h": 1794409200000,
    "n": 19
@@ -619,127 +615,131 @@
   },
   {
    "h": 1794675600000,
-   "n": 59
+   "n": 72
+  },
+  {
+   "h": 1794679200000,
+   "n": 47
   }
  ],
  "recientes": [
   {
-   "inicio": 1794678149386,
+   "inicio": 1794681292627,
    "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 191.881,
+   "dur": 63.467,
+   "gan": 1.01,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794681268179,
+   "titulo": "Deportivo Pereira vs. América de Cali",
+   "dur": 0.804,
+   "gan": 14.92,
+   "neta": 2.09,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794681162240,
+   "titulo": "Georgia vs. Hungary",
+   "dur": 0.996,
+   "gan": 1.26,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794681007514,
+   "titulo": "Deportivo Pereira vs. América de Cali",
+   "dur": 3.657,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794680984056,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 0.057,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794680759402,
+   "titulo": "Norway vs. Wales",
+   "dur": 0.552,
+   "gan": 2.12,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794680742512,
+   "titulo": "Norway vs. Wales",
+   "dur": 0.288,
+   "gan": 1.11,
+   "neta": 0.28,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794680742234,
+   "titulo": "Norway vs. Wales",
+   "dur": 0.205,
+   "gan": 1.11,
+   "neta": 0.28,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794680569955,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 4.115,
+   "gan": 0.92,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794680563379,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 5.697,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794680565998,
+   "titulo": "Georgia vs. Hungary",
+   "dur": 0.779,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794680480168,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 0.728,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794680408181,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 71.765,
    "gan": 0.59,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794678216630,
+   "inicio": 1794680439812,
    "titulo": "Georgia vs. Hungary",
-   "dur": 7.916,
-   "gan": 1.15,
+   "dur": 0.97,
+   "gan": 1.01,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794678216289,
-   "titulo": "Georgia vs. Hungary",
-   "dur": 0.31,
-   "gan": 2.37,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794678216179,
-   "titulo": "Georgia vs. Hungary",
-   "dur": 0.029,
-   "gan": 1.18,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794678205526,
-   "titulo": "Georgia vs. Hungary",
-   "dur": 0.008,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794678204829,
-   "titulo": "Georgia vs. Hungary",
-   "dur": 0.667,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794678202770,
-   "titulo": "Georgia vs. Hungary",
-   "dur": 0.431,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794678187205,
-   "titulo": "Georgia vs. Hungary",
-   "dur": 0.184,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794678187113,
-   "titulo": "Georgia vs. Hungary",
-   "dur": 0.089,
-   "gan": 0.69,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794678187004,
-   "titulo": "Georgia vs. Hungary",
-   "dur": 0.055,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794678186495,
-   "titulo": "Georgia vs. Hungary",
-   "dur": 0.465,
-   "gan": 0.82,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794678061352,
+   "inicio": 1794680402281,
    "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 87.739,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794678011176,
-   "titulo": "Deportivo Pereira vs. América de Cali",
-   "dur": 6.715,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794678009089,
-   "titulo": "Deportivo Pereira vs. América de Cali",
-   "dur": 0.402,
-   "gan": 1.27,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794677995095,
-   "titulo": "Deportivo Pereira vs. América de Cali",
-   "dur": 12.971,
-   "gan": 0.84,
+   "dur": 5.84,
+   "gan": 0.63,
    "neta": 0,
    "lado": "no"
   }
