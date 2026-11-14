@@ -1,84 +1,84 @@
 {
- "actualizado": 1794681356388,
- "inicio": 1793976073515,
+ "actualizado": 1794684370393,
+ "inicio": 1793979074598,
  "ejecucion": {
-  "inicio": 1794678356091,
-  "fin": 1794681356388,
-  "mensajes": 10742643,
-  "reconexiones": 1,
-  "eventos": 615,
+  "inicio": 1794681370119,
+  "fin": 1794684370393,
+  "mensajes": 10835462,
+  "reconexiones": 0,
+  "eventos": 584,
   "errores": [],
-  "nuevos": 60,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 110,
+  "nuevosRentables": 7,
+  "nuevosNeta": 21.78
  },
- "total": 6079,
- "falsos": 2409,
+ "total": 6167,
+ "falsos": 2417,
  "largos": {
-  "episodios": 13629,
-  "eventos": 153,
+  "episodios": 13548,
+  "eventos": 152,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8273,
+  "episodios": 8264,
   "eventos": 34
  },
- "mediana": 0.556,
+ "mediana": 0.545,
  "captura": [
   {
    "s": 0.5,
-   "n": 3166,
-   "gan": 10484.64,
-   "nNeta": 1031,
-   "neta": 3663.88
+   "n": 3189,
+   "gan": 10648.08,
+   "nNeta": 1044,
+   "neta": 3694.14
   },
   {
    "s": 2,
-   "n": 1530,
-   "gan": 4819.96,
-   "nNeta": 420,
-   "neta": 1677.97
+   "n": 1539,
+   "gan": 4966.98,
+   "nNeta": 424,
+   "neta": 1695.08
   },
   {
    "s": 5,
-   "n": 933,
-   "gan": 2404.05,
-   "nNeta": 178,
-   "neta": 546.8
+   "n": 932,
+   "gan": 2510.92,
+   "nNeta": 177,
+   "neta": 545.67
   },
   {
    "s": 30,
-   "n": 420,
-   "gan": 744.53,
-   "nNeta": 56,
-   "neta": 56.58
+   "n": 418,
+   "gan": 794.87,
+   "nNeta": 55,
+   "neta": 55.45
   }
  ],
- "rentables": 2008,
+ "rentables": 2060,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 63,
-   "descartadas": 222,
-   "neta": 171.01,
-   "dias": 6.7,
-   "semana": 178.75
+   "ops": 66,
+   "descartadas": 225,
+   "neta": 174.55,
+   "dias": 6.73,
+   "semana": 181.5
   },
   {
    "capital": 1000,
-   "ops": 80,
-   "descartadas": 222,
-   "neta": 256.76,
-   "dias": 6.7,
-   "semana": 268.39
+   "ops": 83,
+   "descartadas": 225,
+   "neta": 260.71,
+   "dias": 6.73,
+   "semana": 271.1
   },
   {
    "capital": 2000,
-   "ops": 94,
-   "descartadas": 222,
-   "neta": 361.26,
-   "dias": 6.7,
-   "semana": 377.62
+   "ops": 98,
+   "descartadas": 225,
+   "neta": 379.54,
+   "dias": 6.73,
+   "semana": 394.67
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 6,
-   "horas": 129.2,
-   "episodios": 2550,
+   "horas": 130,
+   "episodios": 2660,
    "sospechosas": 31,
-   "realistaNeta": 339.85,
+   "realistaNeta": 361.63,
    "capital": {
-    "500": 93.97,
-    "1000": 154.45,
-    "2000": 198.33
+    "500": 97.5,
+    "1000": 158.4,
+    "2000": 216.61
    },
    "cumple": true
   }
@@ -222,42 +222,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4141,
-  "n": 1512,
-  "gan": 4019.03,
-  "nNeta": 375,
-  "neta": 1077.4
+  "conDato": 4251,
+  "n": 1533,
+  "gan": 4181.02,
+  "nNeta": 382,
+  "neta": 1099.18
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1440
+   "n": 1478
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2359
+   "n": 2394
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1340
+   "n": 1356
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 513
+   "n": 514
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 312
+   "n": 314
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 108
+   "n": 104
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794409200000,
-   "n": 19
-  },
   {
    "h": 1794412800000,
    "n": 24
@@ -619,129 +615,133 @@
   },
   {
    "h": 1794679200000,
-   "n": 47
+   "n": 133
+  },
+  {
+   "h": 1794682800000,
+   "n": 24
   }
  ],
  "recientes": [
   {
-   "inicio": 1794681292627,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 63.467,
-   "gan": 1.01,
-   "neta": 0,
+   "inicio": 1794684369107,
+   "titulo": "De Graafschap vs. TOP Oss",
+   "dur": 1.015,
+   "gan": 5.37,
+   "neta": 0.52,
    "lado": "no"
   },
   {
-   "inicio": 1794681268179,
-   "titulo": "Deportivo Pereira vs. América de Cali",
-   "dur": 0.804,
-   "gan": 14.92,
-   "neta": 2.09,
+   "inicio": 1794684349820,
+   "titulo": "RCD Mallorca vs. Córdoba CF",
+   "dur": 0.042,
+   "gan": 0.81,
+   "neta": 0.29,
    "lado": "si"
   },
   {
-   "inicio": 1794681162240,
-   "titulo": "Georgia vs. Hungary",
-   "dur": 0.996,
-   "gan": 1.26,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1794684307245,
+   "titulo": "RCD Mallorca vs. Córdoba CF",
+   "dur": 1.682,
+   "gan": 5.49,
+   "neta": 2.73,
+   "lado": "si"
   },
   {
-   "inicio": 1794681007514,
-   "titulo": "Deportivo Pereira vs. América de Cali",
-   "dur": 3.657,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794680984056,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 0.057,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794680759402,
-   "titulo": "Norway vs. Wales",
-   "dur": 0.552,
-   "gan": 2.12,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794680742512,
-   "titulo": "Norway vs. Wales",
-   "dur": 0.288,
-   "gan": 1.11,
-   "neta": 0.28,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794680742234,
-   "titulo": "Norway vs. Wales",
-   "dur": 0.205,
-   "gan": 1.11,
-   "neta": 0.28,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794680569955,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 4.115,
-   "gan": 0.92,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794680563379,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 5.697,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794680565998,
-   "titulo": "Georgia vs. Hungary",
-   "dur": 0.779,
-   "gan": 0.5,
+   "inicio": 1794684301331,
+   "titulo": "RCD Mallorca vs. Córdoba CF",
+   "dur": 5.265,
+   "gan": 2.4,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794680480168,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 0.728,
-   "gan": 0.63,
+   "inicio": 1794684300729,
+   "titulo": "RCD Mallorca vs. Córdoba CF",
+   "dur": 0.585,
+   "gan": 1.93,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794680408181,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 71.765,
+   "inicio": 1794684300545,
+   "titulo": "RCD Mallorca vs. Córdoba CF",
+   "dur": 0.063,
+   "gan": 1.92,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794684300332,
+   "titulo": "RCD Mallorca vs. Córdoba CF",
+   "dur": 0.101,
+   "gan": 1.54,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794684300213,
+   "titulo": "RCD Mallorca vs. Córdoba CF",
+   "dur": 0.091,
+   "gan": 1.18,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794684300026,
+   "titulo": "RCD Mallorca vs. Córdoba CF",
+   "dur": 0.098,
+   "gan": 1.16,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794684298090,
+   "titulo": "RCD Mallorca vs. Córdoba CF",
+   "dur": 1.322,
+   "gan": 0.81,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794684295384,
+   "titulo": "RCD Mallorca vs. Córdoba CF",
+   "dur": 2.146,
+   "gan": 22.41,
+   "neta": 17.57,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794684293214,
+   "titulo": "RCD Mallorca vs. Córdoba CF",
+   "dur": 0.459,
+   "gan": 0.81,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794684285081,
+   "titulo": "RCD Mallorca vs. Córdoba CF",
+   "dur": 4.602,
    "gan": 0.59,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794680439812,
-   "titulo": "Georgia vs. Hungary",
-   "dur": 0.97,
-   "gan": 1.01,
-   "neta": 0,
+   "neta": 0.14,
    "lado": "si"
   },
   {
-   "inicio": 1794680402281,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 5.84,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1794684273263,
+   "titulo": "RCD Mallorca vs. Córdoba CF",
+   "dur": 0.117,
+   "gan": 0.6,
+   "neta": 0.07,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794684241090,
+   "titulo": "RCD Mallorca vs. Córdoba CF",
+   "dur": 0.039,
+   "gan": 0.8,
+   "neta": 0.34,
+   "lado": "si"
   }
  ]
 }
