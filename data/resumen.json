@@ -1,84 +1,84 @@
 {
- "actualizado": 1794687383164,
- "inicio": 1793987687465,
+ "actualizado": 1794690400120,
+ "inicio": 1793991121764,
  "ejecucion": {
-  "inicio": 1794684382950,
-  "fin": 1794687383164,
-  "mensajes": 12109049,
+  "inicio": 1794687399826,
+  "fin": 1794690400120,
+  "mensajes": 12366443,
   "reconexiones": 0,
-  "eventos": 593,
+  "eventos": 607,
   "errores": [],
-  "nuevos": 56,
-  "nuevosRentables": 4,
-  "nuevosNeta": 2.56
+  "nuevos": 123,
+  "nuevosRentables": 11,
+  "nuevosNeta": 8.4
  },
- "total": 6179,
- "falsos": 2428,
+ "total": 6197,
+ "falsos": 2423,
  "largos": {
-  "episodios": 13530,
+  "episodios": 13532,
   "eventos": 152,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8264,
-  "eventos": 34
+  "episodios": 8255,
+  "eventos": 33
  },
- "mediana": 0.546,
+ "mediana": 0.549,
  "captura": [
   {
    "s": 0.5,
-   "n": 3202,
-   "gan": 10683.32,
-   "nNeta": 1040,
-   "neta": 3693.02
+   "n": 3214,
+   "gan": 10681.31,
+   "nNeta": 1038,
+   "neta": 3664.13
   },
   {
    "s": 2,
-   "n": 1540,
-   "gan": 4971.62,
-   "nNeta": 425,
-   "neta": 1696.16
+   "n": 1560,
+   "gan": 5000.85,
+   "nNeta": 430,
+   "neta": 1689.79
   },
   {
    "s": 5,
-   "n": 930,
-   "gan": 2506.05,
-   "nNeta": 179,
-   "neta": 546.56
+   "n": 941,
+   "gan": 2531.31,
+   "nNeta": 178,
+   "neta": 545.33
   },
   {
    "s": 30,
-   "n": 412,
-   "gan": 783.66,
+   "n": 417,
+   "gan": 795.98,
    "nNeta": 56,
    "neta": 56.17
   }
  ],
- "rentables": 2045,
+ "rentables": 2033,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 68,
-   "descartadas": 227,
-   "neta": 176.45,
-   "dias": 6.77,
-   "semana": 182.53
+   "ops": 72,
+   "descartadas": 234,
+   "neta": 182.77,
+   "dias": 6.8,
+   "semana": 188.1
   },
   {
    "capital": 1000,
-   "ops": 85,
-   "descartadas": 227,
-   "neta": 262.61,
-   "dias": 6.77,
-   "semana": 271.67
+   "ops": 89,
+   "descartadas": 234,
+   "neta": 268.93,
+   "dias": 6.8,
+   "semana": 276.78
   },
   {
    "capital": 2000,
-   "ops": 100,
-   "descartadas": 227,
-   "neta": 381.44,
-   "dias": 6.77,
-   "semana": 394.6
+   "ops": 104,
+   "descartadas": 234,
+   "neta": 387.76,
+   "dias": 6.8,
+   "semana": 399.08
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 6,
-   "horas": 130.8,
-   "episodios": 2716,
+   "horas": 131.7,
+   "episodios": 2839,
    "sospechosas": 31,
-   "realistaNeta": 364.19,
+   "realistaNeta": 372.59,
    "capital": {
-    "500": 99.4,
-    "1000": 160.3,
-    "2000": 218.51
+    "500": 105.72,
+    "1000": 166.62,
+    "2000": 224.83
    },
    "cumple": true
   }
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 111,
+  "n": 104,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,37 +222,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4307,
-  "n": 1555,
-  "gan": 4219.32,
-  "nNeta": 386,
-  "neta": 1101.74
+  "conDato": 4430,
+  "n": 1592,
+  "gan": 4298.91,
+  "nNeta": 397,
+  "neta": 1110.14
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1475
+   "n": 1467
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2400
+   "n": 2410
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1366
+   "n": 1371
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 518
+   "n": 524
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 310
+   "n": 315
   },
   {
    "et": "> 5 min",
@@ -325,18 +325,14 @@
    "mediana": 0.239
   },
   {
-   "titulo": "Sunderland AFC vs. Chelsea FC",
-   "n": 72,
-   "gan": 305.32,
-   "neta": 7.11,
-   "mediana": 0.184
+   "titulo": "Deportivo Pereira vs. América de Cali",
+   "n": 73,
+   "gan": 168.95,
+   "neta": 10.13,
+   "mediana": 2.207
   }
  ],
  "porHora": [
-  {
-   "h": 1794416400000,
-   "n": 26
-  },
   {
    "h": 1794420000000,
    "n": 21
@@ -619,127 +615,131 @@
   },
   {
    "h": 1794686400000,
-   "n": 28
+   "n": 115
+  },
+  {
+   "h": 1794690000000,
+   "n": 36
   }
  ],
  "recientes": [
   {
-   "inicio": 1794685931432,
-   "titulo": "Hercules de Alicante CF vs. Villarreal CF B",
-   "dur": 1451.52,
-   "gan": 2.2,
-   "neta": 1.98,
-   "lado": "si"
+   "inicio": 1794690378185,
+   "titulo": "Portugal vs. Denmark",
+   "dur": 0.695,
+   "gan": 0.93,
+   "neta": 0.02,
+   "lado": "no"
   },
   {
-   "inicio": 1794687306988,
+   "inicio": 1794690377635,
+   "titulo": "Portugal vs. Denmark",
+   "dur": 0.417,
+   "gan": 1.3,
+   "neta": 0.09,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794690354353,
    "titulo": "Austria vs. Republic of Ireland",
-   "dur": 3.794,
-   "gan": 1,
+   "dur": 1.78,
+   "gan": 0.65,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794687304381,
-   "titulo": "Austria vs. Republic of Ireland",
-   "dur": 0.316,
-   "gan": 0.55,
+   "inicio": 1794690313591,
+   "titulo": "Atlético Nacional vs. Once Caldas",
+   "dur": 1.807,
+   "gan": 0.57,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794687304224,
-   "titulo": "Austria vs. Republic of Ireland",
-   "dur": 0.034,
-   "gan": 0.55,
+   "inicio": 1794690296740,
+   "titulo": "Romania vs. Poland",
+   "dur": 0.631,
+   "gan": 0.88,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794690296704,
+   "titulo": "Romania vs. Poland",
+   "dur": 0.015,
+   "gan": 0.88,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794690296259,
+   "titulo": "Romania vs. Poland",
+   "dur": 0.421,
+   "gan": 0.98,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794690272804,
+   "titulo": "Romania vs. Poland",
+   "dur": 0.854,
+   "gan": 0.76,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794687302959,
-   "titulo": "Austria vs. Republic of Ireland",
-   "dur": 0.117,
+   "inicio": 1794690272717,
+   "titulo": "Romania vs. Poland",
+   "dur": 0.028,
+   "gan": 0.76,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794690272014,
+   "titulo": "Romania vs. Poland",
+   "dur": 0.376,
    "gan": 0.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794687268587,
-   "titulo": "Stade Béthunois FC vs. AS Nancy-Lorraine",
-   "dur": 3.337,
-   "gan": 1.28,
-   "neta": 1.18,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794687227109,
-   "titulo": "Portugal vs. Denmark",
-   "dur": 0.825,
-   "gan": 0.72,
+   "inicio": 1794690260477,
+   "titulo": "Atlético Nacional vs. Once Caldas",
+   "dur": 2.21,
+   "gan": 0.64,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794687205853,
-   "titulo": "Portugal vs. Denmark",
-   "dur": 0.541,
+   "inicio": 1794690258129,
+   "titulo": "Atlético Nacional vs. Once Caldas",
+   "dur": 0.144,
+   "gan": 0.64,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794690244712,
+   "titulo": "Romania vs. Poland",
+   "dur": 5.126,
    "gan": 0.6,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794687203487,
-   "titulo": "Portugal vs. Denmark",
-   "dur": 1.376,
-   "gan": 0.6,
+   "inicio": 1794690244617,
+   "titulo": "Romania vs. Poland",
+   "dur": 0.032,
+   "gan": 0.53,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794687200410,
-   "titulo": "Portugal vs. Denmark",
-   "dur": 1.798,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794687068764,
-   "titulo": "Northern Ireland vs. Ukraine",
-   "dur": 0.262,
-   "gan": 0.72,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794687053965,
-   "titulo": "Northern Ireland vs. Ukraine",
-   "dur": 0.167,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794687051753,
-   "titulo": "Northern Ireland vs. Ukraine",
-   "dur": 2.065,
-   "gan": 0.97,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794687051574,
-   "titulo": "Northern Ireland vs. Ukraine",
-   "dur": 0.171,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794687041996,
-   "titulo": "Northern Ireland vs. Ukraine",
-   "dur": 0.025,
-   "gan": 1.11,
+   "inicio": 1794690244022,
+   "titulo": "Romania vs. Poland",
+   "dur": 0.583,
+   "gan": 0.56,
    "neta": 0,
    "lado": "si"
   }
