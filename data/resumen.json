@@ -1,84 +1,84 @@
 {
- "actualizado": 1794651201827,
- "inicio": 1793948827423,
+ "actualizado": 1794654216415,
+ "inicio": 1793951629059,
  "ejecucion": {
-  "inicio": 1794648201518,
-  "fin": 1794651201827,
-  "mensajes": 8888390,
+  "inicio": 1794651216122,
+  "fin": 1794654216415,
+  "mensajes": 9205092,
   "reconexiones": 0,
-  "eventos": 598,
+  "eventos": 602,
   "errores": [],
-  "nuevos": 0,
+  "nuevos": 4,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5852,
- "falsos": 2268,
+ "total": 5855,
+ "falsos": 2269,
  "largos": {
-  "episodios": 13420,
+  "episodios": 13437,
   "eventos": 151,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8807,
+  "episodios": 8791,
   "eventos": 35
  },
- "mediana": 0.558,
+ "mediana": 0.557,
  "captura": [
   {
    "s": 0.5,
    "n": 3050,
-   "gan": 10207.47,
-   "nNeta": 1000,
-   "neta": 3611.84
+   "gan": 10207.97,
+   "nNeta": 1001,
+   "neta": 3612.59
   },
   {
    "s": 2,
-   "n": 1470,
-   "gan": 4678.59,
+   "n": 1469,
+   "gan": 4678.09,
    "nNeta": 411,
    "neta": 1646.04
   },
   {
    "s": 5,
-   "n": 901,
-   "gan": 2359.89,
+   "n": 900,
+   "gan": 2359.39,
    "nNeta": 175,
    "neta": 559.54
   },
   {
    "s": 30,
-   "n": 412,
-   "gan": 747.56,
+   "n": 411,
+   "gan": 747.06,
    "nNeta": 54,
    "neta": 70.32
   }
  ],
- "rentables": 1932,
+ "rentables": 1934,
  "porCapital": [
   {
    "capital": 500,
    "ops": 56,
    "descartadas": 214,
    "neta": 156.83,
-   "dias": 6.35,
-   "semana": 172.95
+   "dias": 6.38,
+   "semana": 172
   },
   {
    "capital": 1000,
    "ops": 73,
    "descartadas": 214,
    "neta": 221.28,
-   "dias": 6.35,
-   "semana": 244.02
+   "dias": 6.38,
+   "semana": 242.68
   },
   {
    "capital": 2000,
    "ops": 86,
    "descartadas": 214,
    "neta": 310.74,
-   "dias": 6.35,
-   "semana": 342.67
+   "dias": 6.38,
+   "semana": 340.8
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 6,
-   "horas": 120.8,
-   "episodios": 2262,
+   "horas": 121.7,
+   "episodios": 2266,
    "sospechosas": 28,
    "realistaNeta": 284.59,
    "capital": {
@@ -222,7 +222,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3856,
+  "conDato": 3860,
   "n": 1422,
   "gan": 3820.53,
   "nNeta": 359,
@@ -232,12 +232,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1395
+   "n": 1397
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2259
+   "n": 2261
   },
   {
    "et": "1–5 s",
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 110
+   "n": 109
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794376800000,
-   "n": 21
-  },
   {
    "h": 1794380400000,
    "n": 9
@@ -620,9 +616,45 @@
   {
    "h": 1794643200000,
    "n": 2
+  },
+  {
+   "h": 1794650400000,
+   "n": 4
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794653654634,
+   "titulo": "China PR vs. Malaysia",
+   "dur": 0.352,
+   "gan": 3.7,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794653319700,
+   "titulo": "Japan vs. Brazil",
+   "dur": 0.835,
+   "gan": 0.6,
+   "neta": 0.36,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794653319657,
+   "titulo": "Japan vs. Brazil",
+   "dur": 0.003,
+   "gan": 0.5,
+   "neta": 0.26,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794652472383,
+   "titulo": "Japan vs. Brazil",
+   "dur": 0.093,
+   "gan": 1.79,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794646711807,
    "titulo": "Highest temperature in Cape Town on November 14?",
@@ -709,38 +741,6 @@
    "dur": 0.003,
    "gan": 0.61,
    "neta": 0.37,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794640710937,
-   "titulo": "Tahiti vs. Cook Islands",
-   "dur": 0.029,
-   "gan": 0.63,
-   "neta": 0.38,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794640710258,
-   "titulo": "Tahiti vs. Cook Islands",
-   "dur": 0.637,
-   "gan": 1.23,
-   "neta": 0.68,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794640709494,
-   "titulo": "Tahiti vs. Cook Islands",
-   "dur": 0.01,
-   "gan": 0.5,
-   "neta": 0.14,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794640709407,
-   "titulo": "Tahiti vs. Cook Islands",
-   "dur": 0.055,
-   "gan": 0.51,
-   "neta": 0.14,
    "lado": "no"
   }
  ]
