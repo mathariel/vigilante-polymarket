@@ -1,26 +1,26 @@
 {
- "actualizado": 1794627073307,
+ "actualizado": 1794630095132,
  "inicio": 1793927757459,
  "ejecucion": {
-  "inicio": 1794624073046,
-  "fin": 1794627073307,
-  "mensajes": 10096684,
-  "reconexiones": 1,
-  "eventos": 565,
+  "inicio": 1794627094924,
+  "fin": 1794630095132,
+  "mensajes": 10121066,
+  "reconexiones": 0,
+  "eventos": 568,
   "errores": [],
-  "nuevos": 3,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 4,
+  "nuevosRentables": 3,
+  "nuevosNeta": 9.92
  },
- "total": 5814,
- "falsos": 2267,
+ "total": 5812,
+ "falsos": 2257,
  "largos": {
-  "episodios": 12984,
-  "eventos": 150,
+  "episodios": 13005,
+  "eventos": 149,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9238,
+  "episodios": 9233,
   "eventos": 35
  },
  "mediana": 0.565,
@@ -28,23 +28,23 @@
   {
    "s": 0.5,
    "n": 3039,
-   "gan": 10157.59,
-   "nNeta": 987,
-   "neta": 3571.91
+   "gan": 10165.47,
+   "nNeta": 988,
+   "neta": 3579.34
   },
   {
    "s": 2,
-   "n": 1467,
-   "gan": 4651.18,
-   "nNeta": 407,
-   "neta": 1613.16
+   "n": 1469,
+   "gan": 4661.78,
+   "nNeta": 409,
+   "neta": 1622.82
   },
   {
    "s": 5,
-   "n": 902,
-   "gan": 2338.61,
-   "nNeta": 173,
-   "neta": 528.99
+   "n": 903,
+   "gan": 2346.9,
+   "nNeta": 174,
+   "neta": 536.62
   },
   {
    "s": 30,
@@ -58,27 +58,27 @@
  "porCapital": [
   {
    "capital": 500,
-   "ops": 54,
-   "descartadas": 209,
-   "neta": 133.96,
-   "dias": 6.07,
-   "semana": 154.52
+   "ops": 55,
+   "descartadas": 211,
+   "neta": 141.59,
+   "dias": 6.1,
+   "semana": 162.38
   },
   {
    "capital": 1000,
-   "ops": 70,
-   "descartadas": 209,
-   "neta": 189.89,
-   "dias": 6.07,
-   "semana": 219.04
+   "ops": 71,
+   "descartadas": 211,
+   "neta": 197.52,
+   "dias": 6.1,
+   "semana": 226.53
   },
   {
    "capital": 2000,
-   "ops": 83,
-   "descartadas": 209,
-   "neta": 279.35,
-   "dias": 6.07,
-   "semana": 322.23
+   "ops": 84,
+   "descartadas": 211,
+   "neta": 286.98,
+   "dias": 6.1,
+   "semana": 329.14
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 5,
-   "horas": 114.2,
-   "episodios": 2200,
+   "horas": 115,
+   "episodios": 2204,
    "sospechosas": 27,
-   "realistaNeta": 250.15,
+   "realistaNeta": 260.07,
    "capital": {
-    "500": 56.91,
-    "1000": 87.58,
-    "2000": 116.42
+    "500": 64.54,
+    "1000": 95.21,
+    "2000": 124.05
    },
    "cumple": true
   }
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 110,
+  "n": 109,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,11 +222,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3795,
-  "n": 1408,
-  "gan": 3772.03,
-  "nNeta": 351,
-  "neta": 987.7
+  "conDato": 3799,
+  "n": 1411,
+  "gan": 3783.31,
+  "nNeta": 354,
+  "neta": 997.62
  },
  "duraciones": [
   {
@@ -237,17 +237,17 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2237
+   "n": 2235
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1285
+   "n": 1284
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 485
+   "n": 486
   },
   {
    "et": "30 s–5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794358800000,
-   "n": 3
-  },
   {
    "h": 1794362400000,
    "n": 10
@@ -619,10 +615,46 @@
   },
   {
    "h": 1794625200000,
+   "n": 4
+  },
+  {
+   "h": 1794628800000,
    "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794629606865,
+   "titulo": "# of views of Grand Theft Auto VI: Pre-Load Now on week 1?",
+   "dur": 1.548,
+   "gan": 0.68,
+   "neta": 0.26,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794629606806,
+   "titulo": "# of views of Grand Theft Auto VI: Pre-Load Now on week 1?",
+   "dur": 0.027,
+   "gan": 0.71,
+   "neta": 0.3,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794628502884,
+   "titulo": "Guatemala vs. Canada",
+   "dur": 6.084,
+   "gan": 1.48,
+   "neta": 1.37,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794628498814,
+   "titulo": "Guatemala vs. Canada",
+   "dur": 4.046,
+   "gan": 0.81,
+   "neta": 0.61,
+   "lado": "si"
+  },
   {
    "inicio": 1794626346157,
    "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
@@ -708,38 +740,6 @@
    "titulo": "Guatemala vs. Canada",
    "dur": 4.151,
    "gan": 0.63,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794622631265,
-   "titulo": "Guatemala vs. Canada",
-   "dur": 0.497,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794622628350,
-   "titulo": "Guatemala vs. Canada",
-   "dur": 0.159,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794622566127,
-   "titulo": "Guatemala vs. Canada",
-   "dur": 0.651,
-   "gan": 2,
-   "neta": 0.8,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794621485546,
-   "titulo": "Internacional de Bogotá vs. Independiente Santa Fe",
-   "dur": 0.103,
-   "gan": 0.54,
    "neta": 0,
    "lado": "si"
   }
