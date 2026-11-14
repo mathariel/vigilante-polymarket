@@ -1,50 +1,50 @@
 {
- "actualizado": 1794639144877,
- "inicio": 1793939807429,
+ "actualizado": 1794642157757,
+ "inicio": 1793942782477,
  "ejecucion": {
-  "inicio": 1794636144668,
-  "fin": 1794639144877,
-  "mensajes": 11298876,
-  "reconexiones": 0,
-  "eventos": 588,
+  "inicio": 1794639157457,
+  "fin": 1794642157757,
+  "mensajes": 10333168,
+  "reconexiones": 13,
+  "eventos": 576,
   "errores": [],
-  "nuevos": 3,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 49,
+  "nuevosRentables": 4,
+  "nuevosNeta": 24.22
  },
- "total": 5807,
- "falsos": 2266,
+ "total": 5854,
+ "falsos": 2269,
  "largos": {
-  "episodios": 13290,
-  "eventos": 150,
+  "episodios": 13309,
+  "eventos": 151,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8958,
+  "episodios": 8893,
   "eventos": 35
  },
- "mediana": 0.565,
+ "mediana": 0.56,
  "captura": [
   {
    "s": 0.5,
-   "n": 3035,
-   "gan": 10164.01,
-   "nNeta": 990,
-   "neta": 3581.7
+   "n": 3052,
+   "gan": 10213.6,
+   "nNeta": 999,
+   "neta": 3611.54
   },
   {
    "s": 2,
-   "n": 1464,
-   "gan": 4652.3,
-   "nNeta": 408,
-   "neta": 1622.16
+   "n": 1472,
+   "gan": 4684.72,
+   "nNeta": 410,
+   "neta": 1645.74
   },
   {
    "s": 5,
-   "n": 899,
-   "gan": 2338.22,
-   "nNeta": 173,
-   "neta": 535.96
+   "n": 903,
+   "gan": 2366.19,
+   "nNeta": 175,
+   "neta": 559.54
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 70.32
   }
  ],
- "rentables": 1898,
+ "rentables": 1930,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 55,
-   "descartadas": 211,
-   "neta": 141.59,
-   "dias": 6.21,
-   "semana": 159.64
+   "ops": 56,
+   "descartadas": 214,
+   "neta": 156.83,
+   "dias": 6.24,
+   "semana": 175.85
   },
   {
    "capital": 1000,
-   "ops": 71,
-   "descartadas": 211,
-   "neta": 197.52,
-   "dias": 6.21,
-   "semana": 222.71
+   "ops": 72,
+   "descartadas": 214,
+   "neta": 220.98,
+   "dias": 6.24,
+   "semana": 247.77
   },
   {
    "capital": 2000,
-   "ops": 84,
-   "descartadas": 211,
-   "neta": 286.98,
-   "dias": 6.21,
-   "semana": 323.59
+   "ops": 85,
+   "descartadas": 214,
+   "neta": 310.44,
+   "dias": 6.24,
+   "semana": 348.08
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 6,
-   "horas": 117.5,
-   "episodios": 2211,
+   "horas": 118.3,
+   "episodios": 2260,
    "sospechosas": 28,
-   "realistaNeta": 260.07,
+   "realistaNeta": 284.29,
    "capital": {
-    "500": 64.54,
-    "1000": 95.21,
-    "2000": 124.05
+    "500": 79.78,
+    "1000": 118.67,
+    "2000": 147.51
    },
    "cumple": true
   }
@@ -222,32 +222,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3805,
-  "n": 1411,
-  "gan": 3783.31,
-  "nNeta": 354,
-  "neta": 997.62
+  "conDato": 3854,
+  "n": 1421,
+  "gan": 3819.83,
+  "nNeta": 358,
+  "neta": 1021.84
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1383
+   "n": 1395
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2236
+   "n": 2259
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1283
+   "n": 1291
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 485
+   "n": 489
   },
   {
    "et": "30 s–5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794369600000,
-   "n": 107
-  },
   {
    "h": 1794373200000,
    "n": 1
@@ -620,128 +616,132 @@
   {
    "h": 1794636000000,
    "n": 3
+  },
+  {
+   "h": 1794639600000,
+   "n": 49
   }
  ],
  "recientes": [
   {
-   "inicio": 1794637623039,
-   "titulo": "Fujieda MYFC vs. Ventforet Kōfu",
-   "dur": 0.17,
-   "gan": 2.59,
-   "neta": 1.72,
+   "inicio": 1794642035085,
+   "titulo": "Tahiti vs. Cook Islands",
+   "dur": 1.013,
+   "gan": 1.05,
+   "neta": 0.38,
    "lado": "si"
   },
   {
-   "inicio": 1794637467969,
-   "titulo": "Albirex Niigata vs. Tegevajaro Miyazaki",
-   "dur": 0.086,
-   "gan": 2.41,
+   "inicio": 1794641935515,
+   "titulo": "Tahiti vs. Cook Islands",
+   "dur": 2.732,
+   "gan": 0.63,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794636708757,
-   "titulo": "Bahrain vs. Yemen",
-   "dur": 0.021,
-   "gan": 0.73,
-   "neta": 0.02,
    "lado": "no"
   },
   {
-   "inicio": 1794635019699,
-   "titulo": "Shōnan Bellmāre vs. Yokohama FC - Halftime Result",
-   "dur": 1,
-   "gan": 0.78,
-   "neta": 0.33,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794634930423,
-   "titulo": "Shōnan Bellmāre vs. Yokohama FC",
-   "dur": 0.505,
-   "gan": 8.37,
-   "neta": 2.62,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794634253173,
-   "titulo": "Ōita Trinita vs. Tochigi City FC",
-   "dur": 0.541,
-   "gan": 0.55,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794632160516,
-   "titulo": "Highest temperature in Chongqing on November 14?",
-   "dur": 0.016,
-   "gan": 0.78,
-   "neta": 0.36,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794629606865,
-   "titulo": "# of views of Grand Theft Auto VI: Pre-Load Now on week 1?",
-   "dur": 1.548,
-   "gan": 0.68,
-   "neta": 0.26,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794629606806,
-   "titulo": "# of views of Grand Theft Auto VI: Pre-Load Now on week 1?",
-   "dur": 0.027,
-   "gan": 0.71,
-   "neta": 0.3,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794628502884,
-   "titulo": "Guatemala vs. Canada",
-   "dur": 6.084,
-   "gan": 1.48,
-   "neta": 1.37,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794628498814,
-   "titulo": "Guatemala vs. Canada",
-   "dur": 4.046,
-   "gan": 0.81,
-   "neta": 0.61,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794626346157,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 1.281,
-   "gan": 0.69,
+   "inicio": 1794641935324,
+   "titulo": "Tahiti vs. Cook Islands",
+   "dur": 0.154,
+   "gan": 0.88,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794626071013,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.203,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
+   "inicio": 1794640732052,
+   "titulo": "Tahiti vs. Cook Islands",
+   "dur": 1.87,
+   "gan": 1.4,
+   "neta": 0.38,
+   "lado": "no"
   },
   {
-   "inicio": 1794624759145,
-   "titulo": "Peru vs. Bolivia",
-   "dur": 1.038,
-   "gan": 1.03,
-   "neta": 0.86,
-   "lado": "si"
+   "inicio": 1794640712334,
+   "titulo": "Tahiti vs. Cook Islands",
+   "dur": 0.052,
+   "gan": 1.06,
+   "neta": 0.59,
+   "lado": "no"
   },
   {
-   "inicio": 1794623530648,
-   "titulo": "Peru vs. Bolivia",
+   "inicio": 1794640712241,
+   "titulo": "Tahiti vs. Cook Islands",
+   "dur": 0.059,
+   "gan": 1.18,
+   "neta": 0.69,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794640711612,
+   "titulo": "Tahiti vs. Cook Islands",
+   "dur": 0.398,
+   "gan": 0.52,
+   "neta": 0.31,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794640711076,
+   "titulo": "Tahiti vs. Cook Islands",
+   "dur": 0.422,
+   "gan": 0.63,
+   "neta": 0.5,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794640711008,
+   "titulo": "Tahiti vs. Cook Islands",
+   "dur": 0.003,
+   "gan": 0.61,
+   "neta": 0.37,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794640710937,
+   "titulo": "Tahiti vs. Cook Islands",
    "dur": 0.029,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
+   "gan": 0.63,
+   "neta": 0.38,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794640710258,
+   "titulo": "Tahiti vs. Cook Islands",
+   "dur": 0.637,
+   "gan": 1.23,
+   "neta": 0.68,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794640709494,
+   "titulo": "Tahiti vs. Cook Islands",
+   "dur": 0.01,
+   "gan": 0.5,
+   "neta": 0.14,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794640709407,
+   "titulo": "Tahiti vs. Cook Islands",
+   "dur": 0.055,
+   "gan": 0.51,
+   "neta": 0.14,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794640708935,
+   "titulo": "Tahiti vs. Cook Islands",
+   "dur": 0.291,
+   "gan": 0.52,
+   "neta": 0.14,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794640705686,
+   "titulo": "Tahiti vs. Cook Islands",
+   "dur": 0.378,
+   "gan": 1.01,
+   "neta": 0.41,
+   "lado": "no"
   }
  ]
 }
