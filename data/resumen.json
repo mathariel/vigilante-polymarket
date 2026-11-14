@@ -1,21 +1,21 @@
 {
- "actualizado": 1794684370393,
- "inicio": 1793979074598,
+ "actualizado": 1794687383164,
+ "inicio": 1793987687465,
  "ejecucion": {
-  "inicio": 1794681370119,
-  "fin": 1794684370393,
-  "mensajes": 10835462,
+  "inicio": 1794684382950,
+  "fin": 1794687383164,
+  "mensajes": 12109049,
   "reconexiones": 0,
-  "eventos": 584,
+  "eventos": 593,
   "errores": [],
-  "nuevos": 110,
-  "nuevosRentables": 7,
-  "nuevosNeta": 21.78
+  "nuevos": 56,
+  "nuevosRentables": 4,
+  "nuevosNeta": 2.56
  },
- "total": 6167,
- "falsos": 2417,
+ "total": 6179,
+ "falsos": 2428,
  "largos": {
-  "episodios": 13548,
+  "episodios": 13530,
   "eventos": 152,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 8264,
   "eventos": 34
  },
- "mediana": 0.545,
+ "mediana": 0.546,
  "captura": [
   {
    "s": 0.5,
-   "n": 3189,
-   "gan": 10648.08,
-   "nNeta": 1044,
-   "neta": 3694.14
+   "n": 3202,
+   "gan": 10683.32,
+   "nNeta": 1040,
+   "neta": 3693.02
   },
   {
    "s": 2,
-   "n": 1539,
-   "gan": 4966.98,
-   "nNeta": 424,
-   "neta": 1695.08
+   "n": 1540,
+   "gan": 4971.62,
+   "nNeta": 425,
+   "neta": 1696.16
   },
   {
    "s": 5,
-   "n": 932,
-   "gan": 2510.92,
-   "nNeta": 177,
-   "neta": 545.67
+   "n": 930,
+   "gan": 2506.05,
+   "nNeta": 179,
+   "neta": 546.56
   },
   {
    "s": 30,
-   "n": 418,
-   "gan": 794.87,
-   "nNeta": 55,
-   "neta": 55.45
+   "n": 412,
+   "gan": 783.66,
+   "nNeta": 56,
+   "neta": 56.17
   }
  ],
- "rentables": 2060,
+ "rentables": 2045,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 66,
-   "descartadas": 225,
-   "neta": 174.55,
-   "dias": 6.73,
-   "semana": 181.5
+   "ops": 68,
+   "descartadas": 227,
+   "neta": 176.45,
+   "dias": 6.77,
+   "semana": 182.53
   },
   {
    "capital": 1000,
-   "ops": 83,
-   "descartadas": 225,
-   "neta": 260.71,
-   "dias": 6.73,
-   "semana": 271.1
+   "ops": 85,
+   "descartadas": 227,
+   "neta": 262.61,
+   "dias": 6.77,
+   "semana": 271.67
   },
   {
    "capital": 2000,
-   "ops": 98,
-   "descartadas": 225,
-   "neta": 379.54,
-   "dias": 6.73,
-   "semana": 394.67
+   "ops": 100,
+   "descartadas": 227,
+   "neta": 381.44,
+   "dias": 6.77,
+   "semana": 394.6
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 6,
-   "horas": 130,
-   "episodios": 2660,
+   "horas": 130.8,
+   "episodios": 2716,
    "sospechosas": 31,
-   "realistaNeta": 361.63,
+   "realistaNeta": 364.19,
    "capital": {
-    "500": 97.5,
-    "1000": 158.4,
-    "2000": 216.61
+    "500": 99.4,
+    "1000": 160.3,
+    "2000": 218.51
    },
    "cumple": true
   }
@@ -222,42 +222,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4251,
-  "n": 1533,
-  "gan": 4181.02,
-  "nNeta": 382,
-  "neta": 1099.18
+  "conDato": 4307,
+  "n": 1555,
+  "gan": 4219.32,
+  "nNeta": 386,
+  "neta": 1101.74
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1478
+   "n": 1475
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2394
+   "n": 2400
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1356
+   "n": 1366
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 514
+   "n": 518
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 314
+   "n": 310
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 104
+   "n": 102
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794412800000,
-   "n": 24
-  },
   {
    "h": 1794416400000,
    "n": 26
@@ -619,128 +615,132 @@
   },
   {
    "h": 1794682800000,
-   "n": 24
+   "n": 52
+  },
+  {
+   "h": 1794686400000,
+   "n": 28
   }
  ],
  "recientes": [
   {
-   "inicio": 1794684369107,
-   "titulo": "De Graafschap vs. TOP Oss",
-   "dur": 1.015,
-   "gan": 5.37,
-   "neta": 0.52,
+   "inicio": 1794685931432,
+   "titulo": "Hercules de Alicante CF vs. Villarreal CF B",
+   "dur": 1451.52,
+   "gan": 2.2,
+   "neta": 1.98,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794687306988,
+   "titulo": "Austria vs. Republic of Ireland",
+   "dur": 3.794,
+   "gan": 1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794687304381,
+   "titulo": "Austria vs. Republic of Ireland",
+   "dur": 0.316,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794687304224,
+   "titulo": "Austria vs. Republic of Ireland",
+   "dur": 0.034,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794687302959,
+   "titulo": "Austria vs. Republic of Ireland",
+   "dur": 0.117,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794687268587,
+   "titulo": "Stade Béthunois FC vs. AS Nancy-Lorraine",
+   "dur": 3.337,
+   "gan": 1.28,
+   "neta": 1.18,
    "lado": "no"
   },
   {
-   "inicio": 1794684349820,
-   "titulo": "RCD Mallorca vs. Córdoba CF",
-   "dur": 0.042,
-   "gan": 0.81,
-   "neta": 0.29,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794684307245,
-   "titulo": "RCD Mallorca vs. Córdoba CF",
-   "dur": 1.682,
-   "gan": 5.49,
-   "neta": 2.73,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794684301331,
-   "titulo": "RCD Mallorca vs. Córdoba CF",
-   "dur": 5.265,
-   "gan": 2.4,
+   "inicio": 1794687227109,
+   "titulo": "Portugal vs. Denmark",
+   "dur": 0.825,
+   "gan": 0.72,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794684300729,
-   "titulo": "RCD Mallorca vs. Córdoba CF",
-   "dur": 0.585,
-   "gan": 1.93,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794684300545,
-   "titulo": "RCD Mallorca vs. Córdoba CF",
-   "dur": 0.063,
-   "gan": 1.92,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794684300332,
-   "titulo": "RCD Mallorca vs. Córdoba CF",
-   "dur": 0.101,
-   "gan": 1.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794684300213,
-   "titulo": "RCD Mallorca vs. Córdoba CF",
-   "dur": 0.091,
-   "gan": 1.18,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794684300026,
-   "titulo": "RCD Mallorca vs. Córdoba CF",
-   "dur": 0.098,
-   "gan": 1.16,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794684298090,
-   "titulo": "RCD Mallorca vs. Córdoba CF",
-   "dur": 1.322,
-   "gan": 0.81,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794684295384,
-   "titulo": "RCD Mallorca vs. Córdoba CF",
-   "dur": 2.146,
-   "gan": 22.41,
-   "neta": 17.57,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794684293214,
-   "titulo": "RCD Mallorca vs. Córdoba CF",
-   "dur": 0.459,
-   "gan": 0.81,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794684285081,
-   "titulo": "RCD Mallorca vs. Córdoba CF",
-   "dur": 4.602,
-   "gan": 0.59,
-   "neta": 0.14,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794684273263,
-   "titulo": "RCD Mallorca vs. Córdoba CF",
-   "dur": 0.117,
+   "inicio": 1794687205853,
+   "titulo": "Portugal vs. Denmark",
+   "dur": 0.541,
    "gan": 0.6,
-   "neta": 0.07,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794684241090,
-   "titulo": "RCD Mallorca vs. Córdoba CF",
-   "dur": 0.039,
-   "gan": 0.8,
-   "neta": 0.34,
+   "inicio": 1794687203487,
+   "titulo": "Portugal vs. Denmark",
+   "dur": 1.376,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794687200410,
+   "titulo": "Portugal vs. Denmark",
+   "dur": 1.798,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794687068764,
+   "titulo": "Northern Ireland vs. Ukraine",
+   "dur": 0.262,
+   "gan": 0.72,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794687053965,
+   "titulo": "Northern Ireland vs. Ukraine",
+   "dur": 0.167,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794687051753,
+   "titulo": "Northern Ireland vs. Ukraine",
+   "dur": 2.065,
+   "gan": 0.97,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794687051574,
+   "titulo": "Northern Ireland vs. Ukraine",
+   "dur": 0.171,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794687041996,
+   "titulo": "Northern Ireland vs. Ukraine",
+   "dur": 0.025,
+   "gan": 1.11,
+   "neta": 0,
    "lado": "si"
   }
  ]
