@@ -1,84 +1,84 @@
 {
- "actualizado": 1794618021148,
- "inicio": 1793915664560,
+ "actualizado": 1794621035212,
+ "inicio": 1793918725515,
  "ejecucion": {
-  "inicio": 1794615020855,
-  "fin": 1794618021148,
-  "mensajes": 10290543,
+  "inicio": 1794618034935,
+  "fin": 1794621035212,
+  "mensajes": 9563271,
   "reconexiones": 0,
-  "eventos": 551,
+  "eventos": 564,
   "errores": [],
-  "nuevos": 42,
-  "nuevosRentables": 3,
-  "nuevosNeta": 0.71
+  "nuevos": 39,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5796,
- "falsos": 2273,
+ "total": 5829,
+ "falsos": 2287,
  "largos": {
-  "episodios": 12883,
+  "episodios": 12907,
   "eventos": 149,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9336,
+  "episodios": 9268,
   "eventos": 36
  },
- "mediana": 0.57,
+ "mediana": 0.562,
  "captura": [
   {
    "s": 0.5,
-   "n": 3027,
-   "gan": 10117.7,
-   "nNeta": 987,
-   "neta": 3569.59
+   "n": 3042,
+   "gan": 10181.32,
+   "nNeta": 986,
+   "neta": 3569.41
   },
   {
    "s": 2,
-   "n": 1469,
-   "gan": 4657.58,
+   "n": 1471,
+   "gan": 4664.16,
    "nNeta": 407,
    "neta": 1614.4
   },
   {
    "s": 5,
    "n": 902,
-   "gan": 2339.97,
+   "gan": 2338.61,
    "nNeta": 173,
    "neta": 528.99
   },
   {
    "s": 30,
    "n": 417,
-   "gan": 757.46,
+   "gan": 755.86,
    "nNeta": 55,
    "neta": 70.98
   }
  ],
- "rentables": 1910,
+ "rentables": 1908,
  "porCapital": [
   {
    "capital": 500,
    "ops": 54,
    "descartadas": 208,
    "neta": 133.96,
-   "dias": 5.96,
-   "semana": 157.23
+   "dias": 6,
+   "semana": 156.32
   },
   {
    "capital": 1000,
    "ops": 70,
    "descartadas": 208,
    "neta": 189.89,
-   "dias": 5.96,
-   "semana": 222.89
+   "dias": 6,
+   "semana": 221.59
   },
   {
    "capital": 2000,
    "ops": 83,
    "descartadas": 208,
    "neta": 279.35,
-   "dias": 5.96,
-   "semana": 327.89
+   "dias": 6,
+   "semana": 325.99
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 5,
-   "horas": 111.7,
-   "episodios": 2143,
+   "horas": 112.5,
+   "episodios": 2182,
    "sospechosas": 27,
    "realistaNeta": 250.13,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3738,
-  "n": 1396,
-  "gan": 3755,
+  "conDato": 3777,
+  "n": 1401,
+  "gan": 3764.77,
   "nNeta": 350,
   "neta": 987.68
  },
@@ -232,17 +232,17 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1384
+   "n": 1394
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2221
+   "n": 2242
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1283
+   "n": 1285
   },
   {
    "et": "5–30 s",
@@ -252,12 +252,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 303
+   "n": 304
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 114
+   "n": 113
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794344400000,
-   "n": 3
-  },
   {
    "h": 1794348000000,
    "n": 6
@@ -620,128 +616,132 @@
   {
    "h": 1794614400000,
    "n": 43
+  },
+  {
+   "h": 1794618000000,
+   "n": 39
   }
  ],
  "recientes": [
   {
-   "inicio": 1794617643033,
-   "titulo": "Argentina vs. Uruguay",
-   "dur": 1.11,
-   "gan": 3.84,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794617239580,
-   "titulo": "Montserrat vs. Nicaragua",
-   "dur": 1.142,
-   "gan": 90.15,
-   "neta": 65.57,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794617012254,
-   "titulo": "Argentina vs. Uruguay",
-   "dur": 0.027,
-   "gan": 0.51,
+   "inicio": 1794620421198,
+   "titulo": "Internacional de Bogotá vs. Independiente Santa Fe",
+   "dur": 0.392,
+   "gan": 0.69,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794617012184,
-   "titulo": "Argentina vs. Uruguay",
-   "dur": 0.036,
-   "gan": 0.5,
+   "inicio": 1794620419444,
+   "titulo": "Internacional de Bogotá vs. Independiente Santa Fe",
+   "dur": 1.146,
+   "gan": 0.84,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794617007796,
-   "titulo": "Argentina vs. Uruguay",
-   "dur": 2.623,
-   "gan": 1.47,
+   "inicio": 1794620416779,
+   "titulo": "Internacional de Bogotá vs. Independiente Santa Fe",
+   "dur": 0.104,
+   "gan": 0.87,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794616924362,
-   "titulo": "Argentina vs. Uruguay",
-   "dur": 0.074,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794616868073,
-   "titulo": "Argentina vs. Uruguay",
-   "dur": 0.32,
-   "gan": 7.01,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794616843035,
-   "titulo": "Montserrat vs. Nicaragua",
-   "dur": 0.375,
-   "gan": 4.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794616584559,
-   "titulo": "Argentina vs. Uruguay",
-   "dur": 4.573,
-   "gan": 1.2,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794616559041,
-   "titulo": "Montserrat vs. Nicaragua",
-   "dur": 5.992,
-   "gan": 2.06,
-   "neta": 0.9,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794616435828,
-   "titulo": "Montserrat vs. Nicaragua",
-   "dur": 22.815,
-   "gan": 1,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794616433023,
-   "titulo": "Montserrat vs. Nicaragua",
-   "dur": 2.667,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794616430600,
-   "titulo": "Montserrat vs. Nicaragua",
-   "dur": 2.317,
+   "inicio": 1794620416145,
+   "titulo": "Internacional de Bogotá vs. Independiente Santa Fe",
+   "dur": 0.4,
    "gan": 0.88,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794616429290,
-   "titulo": "Montserrat vs. Nicaragua",
-   "dur": 1.309,
-   "gan": 0.7,
+   "inicio": 1794620413154,
+   "titulo": "Internacional de Bogotá vs. Independiente Santa Fe",
+   "dur": 0.959,
+   "gan": 2.47,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794616428867,
-   "titulo": "Montserrat vs. Nicaragua",
-   "dur": 0.387,
-   "gan": 0.61,
+   "inicio": 1794620272794,
+   "titulo": "Colombia vs. Chile",
+   "dur": 0.385,
+   "gan": 0.6,
    "neta": 0,
    "lado": "si"
+  },
+  {
+   "inicio": 1794620107771,
+   "titulo": "Internacional de Bogotá vs. Independiente Santa Fe",
+   "dur": 0.955,
+   "gan": 0.91,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794619035172,
+   "titulo": "Montserrat vs. Nicaragua",
+   "dur": 0.61,
+   "gan": 1.05,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794619034931,
+   "titulo": "Montserrat vs. Nicaragua",
+   "dur": 0.202,
+   "gan": 1.08,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794619027671,
+   "titulo": "Montserrat vs. Nicaragua",
+   "dur": 0.024,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794618596057,
+   "titulo": "Montserrat vs. Nicaragua",
+   "dur": 0.565,
+   "gan": 7.67,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794618595961,
+   "titulo": "Montserrat vs. Nicaragua",
+   "dur": 0.035,
+   "gan": 10.59,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794618584676,
+   "titulo": "Montserrat vs. Nicaragua",
+   "dur": 0.512,
+   "gan": 8.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794618584254,
+   "titulo": "Montserrat vs. Nicaragua",
+   "dur": 0.368,
+   "gan": 22.07,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794618584198,
+   "titulo": "Montserrat vs. Nicaragua",
+   "dur": 0.023,
+   "gan": 13.81,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
