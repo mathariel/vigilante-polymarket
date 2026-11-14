@@ -1,41 +1,41 @@
 {
- "actualizado": 1794624057243,
- "inicio": 1793921759354,
+ "actualizado": 1794627073307,
+ "inicio": 1793927757459,
  "ejecucion": {
-  "inicio": 1794621057047,
-  "fin": 1794624057243,
-  "mensajes": 9703777,
-  "reconexiones": 0,
-  "eventos": 564,
+  "inicio": 1794624073046,
+  "fin": 1794627073307,
+  "mensajes": 10096684,
+  "reconexiones": 1,
+  "eventos": 565,
   "errores": [],
-  "nuevos": 15,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.02
+  "nuevos": 3,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5824,
- "falsos": 2264,
+ "total": 5814,
+ "falsos": 2267,
  "largos": {
-  "episodios": 12965,
-  "eventos": 149,
+  "episodios": 12984,
+  "eventos": 150,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9244,
+  "episodios": 9238,
   "eventos": 35
  },
- "mediana": 0.563,
+ "mediana": 0.565,
  "captura": [
   {
    "s": 0.5,
-   "n": 3041,
-   "gan": 10180.31,
+   "n": 3039,
+   "gan": 10157.59,
    "nNeta": 987,
-   "neta": 3571.4
+   "neta": 3571.91
   },
   {
    "s": 2,
-   "n": 1468,
-   "gan": 4652.91,
+   "n": 1467,
+   "gan": 4651.18,
    "nNeta": 407,
    "neta": 1613.16
   },
@@ -54,31 +54,31 @@
    "neta": 70.98
   }
  ],
- "rentables": 1904,
+ "rentables": 1898,
  "porCapital": [
   {
    "capital": 500,
    "ops": 54,
    "descartadas": 209,
    "neta": 133.96,
-   "dias": 6.03,
-   "semana": 155.41
+   "dias": 6.07,
+   "semana": 154.52
   },
   {
    "capital": 1000,
    "ops": 70,
    "descartadas": 209,
    "neta": 189.89,
-   "dias": 6.03,
-   "semana": 220.3
+   "dias": 6.07,
+   "semana": 219.04
   },
   {
    "capital": 2000,
    "ops": 83,
    "descartadas": 209,
    "neta": 279.35,
-   "dias": 6.03,
-   "semana": 324.1
+   "dias": 6.07,
+   "semana": 322.23
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 5,
-   "horas": 113.3,
-   "episodios": 2197,
+   "horas": 114.2,
+   "episodios": 2200,
    "sospechosas": 27,
    "realistaNeta": 250.15,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3792,
-  "n": 1407,
-  "gan": 3771.34,
+  "conDato": 3795,
+  "n": 1408,
+  "gan": 3772.03,
   "nNeta": 351,
   "neta": 987.7
  },
@@ -232,12 +232,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1393
+   "n": 1384
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2238
+   "n": 2237
   },
   {
    "et": "1–5 s",
@@ -318,25 +318,21 @@
    "mediana": 0.239
   },
   {
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "n": 74,
+   "gan": 52.68,
+   "neta": 1.11,
+   "mediana": 0.406
+  },
+  {
    "titulo": "Sunderland AFC vs. Chelsea FC",
    "n": 72,
    "gan": 305.32,
    "neta": 7.11,
    "mediana": 0.184
-  },
-  {
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "n": 72,
-   "gan": 51.44,
-   "neta": 1.11,
-   "mediana": 0.406
   }
  ],
  "porHora": [
-  {
-   "h": 1794351600000,
-   "n": 1
-  },
   {
    "h": 1794358800000,
    "n": 3
@@ -619,10 +615,38 @@
   },
   {
    "h": 1794621600000,
-   "n": 11
+   "n": 12
+  },
+  {
+   "h": 1794625200000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794626346157,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 1.281,
+   "gan": 0.69,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794626071013,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.203,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794624759145,
+   "titulo": "Peru vs. Bolivia",
+   "dur": 1.038,
+   "gan": 1.03,
+   "neta": 0.86,
+   "lado": "si"
+  },
   {
    "inicio": 1794623530648,
    "titulo": "Peru vs. Bolivia",
@@ -718,30 +742,6 @@
    "gan": 0.54,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794621447094,
-   "titulo": "Internacional de Bogotá vs. Independiente Santa Fe",
-   "dur": 1.388,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794621447025,
-   "titulo": "Internacional de Bogotá vs. Independiente Santa Fe",
-   "dur": 0.024,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794621442456,
-   "titulo": "Internacional de Bogotá vs. Independiente Santa Fe",
-   "dur": 1.04,
-   "gan": 1.1,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
