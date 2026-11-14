@@ -1,84 +1,84 @@
 {
- "actualizado": 1794645171162,
+ "actualizado": 1794648186440,
  "inicio": 1793945675960,
  "ejecucion": {
-  "inicio": 1794642170857,
-  "fin": 1794645171162,
-  "mensajes": 9132368,
-  "reconexiones": 0,
-  "eventos": 583,
+  "inicio": 1794645186162,
+  "fin": 1794648186440,
+  "mensajes": 9111954,
+  "reconexiones": 1,
+  "eventos": 586,
   "errores": [],
-  "nuevos": 0,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 2,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.3
  },
- "total": 5854,
- "falsos": 2272,
+ "total": 5852,
+ "falsos": 2266,
  "largos": {
-  "episodios": 13318,
-  "eventos": 152,
+  "episodios": 13387,
+  "eventos": 151,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8888,
+  "episodios": 8835,
   "eventos": 35
  },
- "mediana": 0.56,
+ "mediana": 0.558,
  "captura": [
   {
    "s": 0.5,
-   "n": 3052,
-   "gan": 10213.6,
-   "nNeta": 999,
-   "neta": 3611.54
+   "n": 3050,
+   "gan": 10207.47,
+   "nNeta": 1000,
+   "neta": 3611.84
   },
   {
    "s": 2,
-   "n": 1472,
-   "gan": 4684.72,
-   "nNeta": 410,
-   "neta": 1645.74
+   "n": 1470,
+   "gan": 4678.59,
+   "nNeta": 411,
+   "neta": 1646.04
   },
   {
    "s": 5,
-   "n": 903,
-   "gan": 2366.19,
+   "n": 901,
+   "gan": 2359.89,
    "nNeta": 175,
    "neta": 559.54
   },
   {
    "s": 30,
-   "n": 414,
-   "gan": 753.86,
+   "n": 412,
+   "gan": 747.56,
    "nNeta": 54,
    "neta": 70.32
   }
  ],
- "rentables": 1930,
+ "rentables": 1932,
  "porCapital": [
   {
    "capital": 500,
    "ops": 56,
    "descartadas": 214,
    "neta": 156.83,
-   "dias": 6.28,
-   "semana": 174.87
+   "dias": 6.31,
+   "semana": 173.9
   },
   {
    "capital": 1000,
-   "ops": 72,
+   "ops": 73,
    "descartadas": 214,
-   "neta": 220.98,
-   "dias": 6.28,
-   "semana": 246.4
+   "neta": 221.28,
+   "dias": 6.31,
+   "semana": 245.37
   },
   {
    "capital": 2000,
-   "ops": 85,
+   "ops": 86,
    "descartadas": 214,
-   "neta": 310.44,
-   "dias": 6.28,
-   "semana": 346.15
+   "neta": 310.74,
+   "dias": 6.31,
+   "semana": 344.57
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 6,
-   "horas": 119.2,
-   "episodios": 2260,
+   "horas": 120,
+   "episodios": 2262,
    "sospechosas": 28,
-   "realistaNeta": 284.29,
+   "realistaNeta": 284.59,
    "capital": {
     "500": 79.78,
-    "1000": 118.67,
-    "2000": 147.51
+    "1000": 118.97,
+    "2000": 147.81
    },
    "cumple": true
   }
@@ -222,11 +222,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3854,
-  "n": 1421,
-  "gan": 3819.83,
-  "nNeta": 358,
-  "neta": 1021.84
+  "conDato": 3856,
+  "n": 1422,
+  "gan": 3820.53,
+  "nNeta": 359,
+  "neta": 1022.14
  },
  "duraciones": [
   {
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 112
+   "n": 110
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794373200000,
-   "n": 1
-  },
   {
    "h": 1794376800000,
    "n": 21
@@ -620,9 +616,29 @@
   {
    "h": 1794639600000,
    "n": 49
+  },
+  {
+   "h": 1794643200000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794646711807,
+   "titulo": "Highest temperature in Cape Town on November 14?",
+   "dur": 2.871,
+   "gan": 0.65,
+   "neta": 0.27,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794646711734,
+   "titulo": "Highest temperature in Cape Town on November 14?",
+   "dur": 0.054,
+   "gan": 0.65,
+   "neta": 0.26,
+   "lado": "si"
+  },
   {
    "inicio": 1794642035085,
    "titulo": "Tahiti vs. Cook Islands",
@@ -725,22 +741,6 @@
    "dur": 0.055,
    "gan": 0.51,
    "neta": 0.14,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794640708935,
-   "titulo": "Tahiti vs. Cook Islands",
-   "dur": 0.291,
-   "gan": 0.52,
-   "neta": 0.14,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794640705686,
-   "titulo": "Tahiti vs. Cook Islands",
-   "dur": 0.378,
-   "gan": 1.01,
-   "neta": 0.41,
    "lado": "no"
   }
  ]
