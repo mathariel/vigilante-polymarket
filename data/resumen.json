@@ -1,43 +1,43 @@
 {
- "actualizado": 1794621035212,
- "inicio": 1793918725515,
+ "actualizado": 1794624057243,
+ "inicio": 1793921759354,
  "ejecucion": {
-  "inicio": 1794618034935,
-  "fin": 1794621035212,
-  "mensajes": 9563271,
+  "inicio": 1794621057047,
+  "fin": 1794624057243,
+  "mensajes": 9703777,
   "reconexiones": 0,
   "eventos": 564,
   "errores": [],
-  "nuevos": 39,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 15,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.02
  },
- "total": 5829,
- "falsos": 2287,
+ "total": 5824,
+ "falsos": 2264,
  "largos": {
-  "episodios": 12907,
+  "episodios": 12965,
   "eventos": 149,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9268,
-  "eventos": 36
+  "episodios": 9244,
+  "eventos": 35
  },
- "mediana": 0.562,
+ "mediana": 0.563,
  "captura": [
   {
    "s": 0.5,
-   "n": 3042,
-   "gan": 10181.32,
-   "nNeta": 986,
-   "neta": 3569.41
+   "n": 3041,
+   "gan": 10180.31,
+   "nNeta": 987,
+   "neta": 3571.4
   },
   {
    "s": 2,
-   "n": 1471,
-   "gan": 4664.16,
+   "n": 1468,
+   "gan": 4652.91,
    "nNeta": 407,
-   "neta": 1614.4
+   "neta": 1613.16
   },
   {
    "s": 5,
@@ -54,31 +54,31 @@
    "neta": 70.98
   }
  ],
- "rentables": 1908,
+ "rentables": 1904,
  "porCapital": [
   {
    "capital": 500,
    "ops": 54,
-   "descartadas": 208,
+   "descartadas": 209,
    "neta": 133.96,
-   "dias": 6,
-   "semana": 156.32
+   "dias": 6.03,
+   "semana": 155.41
   },
   {
    "capital": 1000,
    "ops": 70,
-   "descartadas": 208,
+   "descartadas": 209,
    "neta": 189.89,
-   "dias": 6,
-   "semana": 221.59
+   "dias": 6.03,
+   "semana": 220.3
   },
   {
    "capital": 2000,
    "ops": 83,
-   "descartadas": 208,
+   "descartadas": 209,
    "neta": 279.35,
-   "dias": 6,
-   "semana": 325.99
+   "dias": 6.03,
+   "semana": 324.1
   }
  ],
  "maxBloqueoH": 24,
@@ -101,10 +101,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 5,
-   "horas": 112.5,
-   "episodios": 2182,
+   "horas": 113.3,
+   "episodios": 2197,
    "sospechosas": 27,
-   "realistaNeta": 250.13,
+   "realistaNeta": 250.15,
    "capital": {
     "500": 56.91,
     "1000": 87.58,
@@ -222,22 +222,22 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3777,
-  "n": 1401,
-  "gan": 3764.77,
-  "nNeta": 350,
-  "neta": 987.68
+  "conDato": 3792,
+  "n": 1407,
+  "gan": 3771.34,
+  "nNeta": 351,
+  "neta": 987.7
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1394
+   "n": 1393
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2242
+   "n": 2238
   },
   {
    "et": "1–5 s",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794348000000,
-   "n": 6
-  },
   {
    "h": 1794351600000,
    "n": 1
@@ -619,127 +615,131 @@
   },
   {
    "h": 1794618000000,
-   "n": 39
+   "n": 43
+  },
+  {
+   "h": 1794621600000,
+   "n": 11
   }
  ],
  "recientes": [
   {
-   "inicio": 1794620421198,
-   "titulo": "Internacional de Bogotá vs. Independiente Santa Fe",
-   "dur": 0.392,
-   "gan": 0.69,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794620419444,
-   "titulo": "Internacional de Bogotá vs. Independiente Santa Fe",
-   "dur": 1.146,
-   "gan": 0.84,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794620416779,
-   "titulo": "Internacional de Bogotá vs. Independiente Santa Fe",
-   "dur": 0.104,
-   "gan": 0.87,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794620416145,
-   "titulo": "Internacional de Bogotá vs. Independiente Santa Fe",
-   "dur": 0.4,
-   "gan": 0.88,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794620413154,
-   "titulo": "Internacional de Bogotá vs. Independiente Santa Fe",
-   "dur": 0.959,
-   "gan": 2.47,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794620272794,
-   "titulo": "Colombia vs. Chile",
-   "dur": 0.385,
+   "inicio": 1794623530648,
+   "titulo": "Peru vs. Bolivia",
+   "dur": 0.029,
    "gan": 0.6,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794620107771,
+   "inicio": 1794623526719,
+   "titulo": "Peru vs. Bolivia",
+   "dur": 3.906,
+   "gan": 0.7,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794623522791,
+   "titulo": "Peru vs. Bolivia",
+   "dur": 3.329,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794623439049,
+   "titulo": "Peru vs. Bolivia",
+   "dur": 1.845,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794623437193,
+   "titulo": "Peru vs. Bolivia",
+   "dur": 1.797,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794623273336,
+   "titulo": "Guatemala vs. Canada",
+   "dur": 0.681,
+   "gan": 0.93,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794622637233,
+   "titulo": "Guatemala vs. Canada",
+   "dur": 1.885,
+   "gan": 3.84,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794622631995,
+   "titulo": "Guatemala vs. Canada",
+   "dur": 4.151,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794622631265,
+   "titulo": "Guatemala vs. Canada",
+   "dur": 0.497,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794622628350,
+   "titulo": "Guatemala vs. Canada",
+   "dur": 0.159,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794622566127,
+   "titulo": "Guatemala vs. Canada",
+   "dur": 0.651,
+   "gan": 2,
+   "neta": 0.8,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794621485546,
    "titulo": "Internacional de Bogotá vs. Independiente Santa Fe",
-   "dur": 0.955,
-   "gan": 0.91,
+   "dur": 0.103,
+   "gan": 0.54,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794619035172,
-   "titulo": "Montserrat vs. Nicaragua",
-   "dur": 0.61,
-   "gan": 1.05,
+   "inicio": 1794621447094,
+   "titulo": "Internacional de Bogotá vs. Independiente Santa Fe",
+   "dur": 1.388,
+   "gan": 0.63,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794619034931,
-   "titulo": "Montserrat vs. Nicaragua",
-   "dur": 0.202,
-   "gan": 1.08,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794619027671,
-   "titulo": "Montserrat vs. Nicaragua",
+   "inicio": 1794621447025,
+   "titulo": "Internacional de Bogotá vs. Independiente Santa Fe",
    "dur": 0.024,
-   "gan": 0.66,
+   "gan": 0.75,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794618596057,
-   "titulo": "Montserrat vs. Nicaragua",
-   "dur": 0.565,
-   "gan": 7.67,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794618595961,
-   "titulo": "Montserrat vs. Nicaragua",
-   "dur": 0.035,
-   "gan": 10.59,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794618584676,
-   "titulo": "Montserrat vs. Nicaragua",
-   "dur": 0.512,
-   "gan": 8.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794618584254,
-   "titulo": "Montserrat vs. Nicaragua",
-   "dur": 0.368,
-   "gan": 22.07,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794618584198,
-   "titulo": "Montserrat vs. Nicaragua",
-   "dur": 0.023,
-   "gan": 13.81,
+   "inicio": 1794621442456,
+   "titulo": "Internacional de Bogotá vs. Independiente Santa Fe",
+   "dur": 1.04,
+   "gan": 1.1,
    "neta": 0,
    "lado": "no"
   }
