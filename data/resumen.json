@@ -1,36 +1,36 @@
 {
- "actualizado": 1794660242129,
- "inicio": 1793951629059,
+ "actualizado": 1794663254595,
+ "inicio": 1793951891991,
  "ejecucion": {
-  "inicio": 1794657241835,
-  "fin": 1794660242129,
-  "mensajes": 10302569,
-  "reconexiones": 0,
-  "eventos": 617,
+  "inicio": 1794660254366,
+  "fin": 1794663254595,
+  "mensajes": 11610301,
+  "reconexiones": 1,
+  "eventos": 635,
   "errores": [],
-  "nuevos": 29,
-  "nuevosRentables": 5,
-  "nuevosNeta": 2.94
+  "nuevos": 7,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5883,
- "falsos": 2274,
+ "total": 5890,
+ "falsos": 2282,
  "largos": {
-  "episodios": 13487,
-  "eventos": 151,
+  "episodios": 13578,
+  "eventos": 152,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8717,
+  "episodios": 8613,
   "eventos": 35
  },
  "mediana": 0.553,
  "captura": [
   {
    "s": 0.5,
-   "n": 3057,
-   "gan": 10224.81,
-   "nNeta": 1011,
-   "neta": 3622.04
+   "n": 3060,
+   "gan": 10227.93,
+   "nNeta": 1012,
+   "neta": 3622.26
   },
   {
    "s": 2,
@@ -54,31 +54,31 @@
    "neta": 70.7
   }
  ],
- "rentables": 1961,
+ "rentables": 1966,
  "porCapital": [
   {
    "capital": 500,
    "ops": 58,
    "descartadas": 217,
    "neta": 158.82,
-   "dias": 6.45,
-   "semana": 172.3
+   "dias": 6.49,
+   "semana": 171.37
   },
   {
    "capital": 1000,
    "ops": 75,
    "descartadas": 217,
    "neta": 223.27,
-   "dias": 6.45,
-   "semana": 242.22
+   "dias": 6.49,
+   "semana": 240.92
   },
   {
    "capital": 2000,
    "ops": 88,
    "descartadas": 217,
    "neta": 312.73,
-   "dias": 6.45,
-   "semana": 339.27
+   "dias": 6.49,
+   "semana": 337.45
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 6,
-   "horas": 123.3,
-   "episodios": 2298,
+   "horas": 124.2,
+   "episodios": 2305,
    "sospechosas": 28,
    "realistaNeta": 287.53,
    "capital": {
@@ -222,7 +222,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3892,
+  "conDato": 3899,
   "n": 1427,
   "gan": 3830.12,
   "nNeta": 364,
@@ -232,17 +232,17 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1407
+   "n": 1409
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2275
+   "n": 2279
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1296
+   "n": 1297
   },
   {
    "et": "5–30 s",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794387600000,
-   "n": 3
-  },
   {
    "h": 1794391200000,
    "n": 1
@@ -619,10 +615,70 @@
   },
   {
    "h": 1794657600000,
-   "n": 29
+   "n": 30
+  },
+  {
+   "h": 1794661200000,
+   "n": 6
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794662314770,
+   "titulo": "Real Valladolid CF vs. CD Castellón",
+   "dur": 0.539,
+   "gan": 1.05,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794662312947,
+   "titulo": "Real Valladolid CF vs. CD Castellón",
+   "dur": 0.587,
+   "gan": 1.3,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794661891711,
+   "titulo": "SSV Jahn Regensburg vs. FC Blau Weiss Linz",
+   "dur": 1.166,
+   "gan": 0.77,
+   "neta": 0.22,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794661891593,
+   "titulo": "SSV Jahn Regensburg vs. FC Blau Weiss Linz",
+   "dur": 0.09,
+   "gan": 0.77,
+   "neta": 0.22,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794661891473,
+   "titulo": "SSV Jahn Regensburg vs. FC Blau Weiss Linz",
+   "dur": 0.084,
+   "gan": 3.06,
+   "neta": 2.11,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794661880665,
+   "titulo": "SSV Jahn Regensburg vs. FC Blau Weiss Linz",
+   "dur": 0.4,
+   "gan": 0.68,
+   "neta": 0.54,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794660438173,
+   "titulo": "Widzew Lodz vs. Unia Skierniewice",
+   "dur": 0.386,
+   "gan": 0.66,
+   "neta": 0.47,
+   "lado": "si"
+  },
   {
    "inicio": 1794658251685,
    "titulo": "China PR vs. Malaysia - Halftime Result",
@@ -685,62 +741,6 @@
    "dur": 2.641,
    "gan": 1.16,
    "neta": 0.5,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794658175678,
-   "titulo": "Japan vs. Brazil",
-   "dur": 0.031,
-   "gan": 0.89,
-   "neta": 0.53,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794658174112,
-   "titulo": "Japan vs. Brazil",
-   "dur": 1.564,
-   "gan": 1.75,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794658173829,
-   "titulo": "Japan vs. Brazil",
-   "dur": 0.275,
-   "gan": 0.88,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794658139829,
-   "titulo": "Japan vs. Brazil",
-   "dur": 0.759,
-   "gan": 0.91,
-   "neta": 0.19,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794658114052,
-   "titulo": "Japan vs. Brazil",
-   "dur": 0.322,
-   "gan": 0.86,
-   "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794658114019,
-   "titulo": "Japan vs. Brazil",
-   "dur": 0.015,
-   "gan": 0.53,
-   "neta": 0.19,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794658113329,
-   "titulo": "Japan vs. Brazil",
-   "dur": 0.681,
-   "gan": 1,
-   "neta": 0.04,
    "lado": "si"
   }
  ]
