@@ -1,84 +1,84 @@
 {
- "actualizado": 1794693412436,
- "inicio": 1793997231917,
+ "actualizado": 1794696426798,
+ "inicio": 1793999959126,
  "ejecucion": {
-  "inicio": 1794690412174,
-  "fin": 1794693412436,
-  "mensajes": 11509959,
-  "reconexiones": 1,
-  "eventos": 597,
+  "inicio": 1794693426502,
+  "fin": 1794696426798,
+  "mensajes": 10265415,
+  "reconexiones": 2,
+  "eventos": 588,
   "errores": [],
-  "nuevos": 110,
+  "nuevos": 73,
   "nuevosRentables": 7,
-  "nuevosNeta": 7.31
+  "nuevosNeta": 17.82
  },
- "total": 6249,
- "falsos": 2407,
+ "total": 6310,
+ "falsos": 2422,
  "largos": {
-  "episodios": 13523,
+  "episodios": 13501,
   "eventos": 151,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8236,
+  "episodios": 8189,
   "eventos": 32
  },
  "mediana": 0.552,
  "captura": [
   {
    "s": 0.5,
-   "n": 3248,
-   "gan": 10722.89,
-   "nNeta": 1045,
-   "neta": 3670.25
+   "n": 3278,
+   "gan": 10770.13,
+   "nNeta": 1057,
+   "neta": 3688.56
   },
   {
    "s": 2,
-   "n": 1573,
-   "gan": 5018.12,
-   "nNeta": 432,
-   "neta": 1695.06
+   "n": 1589,
+   "gan": 5039.22,
+   "nNeta": 438,
+   "neta": 1707.76
   },
   {
    "s": 5,
-   "n": 946,
-   "gan": 2539.28,
-   "nNeta": 179,
-   "neta": 544.94
+   "n": 951,
+   "gan": 2549.6,
+   "nNeta": 180,
+   "neta": 556.89
   },
   {
    "s": 30,
-   "n": 417,
-   "gan": 796.33,
-   "nNeta": 55,
-   "neta": 55.66
+   "n": 418,
+   "gan": 797.33,
+   "nNeta": 56,
+   "neta": 56.59
   }
  ],
- "rentables": 2048,
+ "rentables": 2071,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 73,
-   "descartadas": 238,
-   "neta": 183.36,
-   "dias": 6.84,
+   "ops": 74,
+   "descartadas": 242,
+   "neta": 184.29,
+   "dias": 6.87,
    "semana": 187.75
   },
   {
    "capital": 1000,
-   "ops": 92,
-   "descartadas": 238,
-   "neta": 275.9,
-   "dias": 6.84,
-   "semana": 282.5
+   "ops": 94,
+   "descartadas": 242,
+   "neta": 281.6,
+   "dias": 6.87,
+   "semana": 286.87
   },
   {
    "capital": 2000,
-   "ops": 107,
-   "descartadas": 238,
-   "neta": 394.73,
-   "dias": 6.84,
-   "semana": 404.18
+   "ops": 110,
+   "descartadas": 242,
+   "neta": 411.82,
+   "dias": 6.87,
+   "semana": 419.54
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 6,
-   "horas": 132.5,
-   "episodios": 2949,
-   "sospechosas": 32,
-   "realistaNeta": 379.9,
+   "horas": 133.3,
+   "episodios": 3022,
+   "sospechosas": 34,
+   "realistaNeta": 397.72,
    "capital": {
-    "500": 106.32,
-    "1000": 173.59,
-    "2000": 231.8
+    "500": 107.25,
+    "1000": 179.29,
+    "2000": 248.89
    },
    "cumple": true
   }
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 105,
+  "n": 107,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,37 +222,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4539,
-  "n": 1618,
-  "gan": 4345.57,
-  "nNeta": 404,
-  "neta": 1117.45
+  "conDato": 4610,
+  "n": 1639,
+  "gan": 4393.55,
+  "nNeta": 411,
+  "neta": 1135.27
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1472
+   "n": 1478
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2439
+   "n": 2468
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1383
+   "n": 1404
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 529
+   "n": 533
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 316
+   "n": 317
   },
   {
    "et": "> 5 min",
@@ -326,17 +326,13 @@
   },
   {
    "titulo": "Deportivo Pereira vs. América de Cali",
-   "n": 80,
-   "gan": 177.02,
+   "n": 81,
+   "gan": 178.04,
    "neta": 10.69,
-   "mediana": 2.908
+   "mediana": 2.719
   }
  ],
  "porHora": [
-  {
-   "h": 1794420000000,
-   "n": 21
-  },
   {
    "h": 1794423600000,
    "n": 27
@@ -619,128 +615,132 @@
   },
   {
    "h": 1794690000000,
-   "n": 146
+   "n": 152
+  },
+  {
+   "h": 1794693600000,
+   "n": 67
   }
  ],
  "recientes": [
   {
-   "inicio": 1794693206627,
-   "titulo": "AD Cali vs. CD Tolima",
-   "dur": 0.178,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794693206027,
-   "titulo": "AD Cali vs. CD Tolima",
-   "dur": 0.563,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794693205981,
-   "titulo": "AD Cali vs. CD Tolima",
-   "dur": 0.03,
-   "gan": 0.51,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794693088311,
-   "titulo": "AD Cali vs. CD Tolima",
-   "dur": 0.605,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794692910281,
-   "titulo": "Cúcuta Deportivo FC vs. Jaguares de Córdoba FC",
-   "dur": 0.474,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794692905988,
-   "titulo": "Haiti vs. United States",
-   "dur": 0.439,
-   "gan": 0.73,
-   "neta": 0.08,
+   "inicio": 1794696120246,
+   "titulo": "CSD Xelajú MC vs. CD Guastatoya",
+   "dur": 173.092,
+   "gan": 1,
+   "neta": 0.93,
    "lado": "no"
   },
   {
-   "inicio": 1794692903453,
+   "inicio": 1794696159616,
    "titulo": "Haiti vs. United States",
-   "dur": 0.685,
-   "gan": 0.55,
-   "neta": 0.11,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794692898534,
-   "titulo": "Haiti vs. United States",
-   "dur": 0.176,
-   "gan": 1.38,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794692791183,
-   "titulo": "Haiti vs. United States",
-   "dur": 2.284,
-   "gan": 1.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794692788737,
-   "titulo": "Haiti vs. United States",
-   "dur": 0.034,
-   "gan": 0.66,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794692788101,
-   "titulo": "Haiti vs. United States",
-   "dur": 0.024,
-   "gan": 0.51,
-   "neta": 0.04,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794692770965,
-   "titulo": "Deportivo Pereira vs. América de Cali",
-   "dur": 1.003,
-   "gan": 0.72,
-   "neta": 0.37,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794692350887,
-   "titulo": "Romania vs. Poland",
-   "dur": 3.528,
-   "gan": 0.6,
-   "neta": 0.37,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794692329271,
-   "titulo": "Sweden vs. Bosnia and Herzegovina",
-   "dur": 1.028,
+   "dur": 3.329,
    "gan": 0.57,
+   "neta": 0.19,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794695841531,
+   "titulo": "Haiti vs. United States",
+   "dur": 1.042,
+   "gan": 3.27,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794695820402,
+   "titulo": "Haiti vs. United States",
+   "dur": 1.219,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794695819070,
+   "titulo": "Haiti vs. United States",
+   "dur": 1.267,
+   "gan": 3.43,
+   "neta": 0.01,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794695751133,
+   "titulo": "AD Cali vs. CD Tolima",
+   "dur": 0.309,
+   "gan": 1.48,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794695750105,
+   "titulo": "AD Cali vs. CD Tolima",
+   "dur": 0.071,
+   "gan": 1.44,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794695749622,
+   "titulo": "AD Cali vs. CD Tolima",
+   "dur": 0.211,
+   "gan": 1.48,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794695749066,
+   "titulo": "AD Cali vs. CD Tolima",
+   "dur": 0.035,
+   "gan": 1.22,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794695628247,
+   "titulo": "AD Cali vs. CD Tolima",
+   "dur": 0.075,
+   "gan": 1.25,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794692269787,
-   "titulo": "Sweden vs. Bosnia and Herzegovina",
-   "dur": 0.589,
-   "gan": 0.83,
-   "neta": 0.02,
+   "inicio": 1794695626574,
+   "titulo": "AD Cali vs. CD Tolima",
+   "dur": 1.63,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794695450914,
+   "titulo": "Atlético Nacional vs. Once Caldas",
+   "dur": 0.483,
+   "gan": 3.86,
+   "neta": 3.54,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794695449056,
+   "titulo": "CA Bucaramanga vs. Fortaleza FC",
+   "dur": 0.814,
+   "gan": 0.51,
+   "neta": 0.07,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794695418070,
+   "titulo": "CA Bucaramanga vs. Fortaleza FC",
+   "dur": 0.369,
+   "gan": 2.65,
+   "neta": 2.56,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794695417991,
+   "titulo": "CA Bucaramanga vs. Fortaleza FC",
+   "dur": 0.07,
+   "gan": 1.4,
+   "neta": 1.31,
    "lado": "si"
   }
  ]
