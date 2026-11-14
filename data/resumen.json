@@ -1,84 +1,84 @@
 {
- "actualizado": 1794657229479,
+ "actualizado": 1794660242129,
  "inicio": 1793951629059,
  "ejecucion": {
-  "inicio": 1794654229191,
-  "fin": 1794657229479,
-  "mensajes": 9920905,
+  "inicio": 1794657241835,
+  "fin": 1794660242129,
+  "mensajes": 10302569,
   "reconexiones": 0,
-  "eventos": 607,
+  "eventos": 617,
   "errores": [],
-  "nuevos": 3,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 29,
+  "nuevosRentables": 5,
+  "nuevosNeta": 2.94
  },
- "total": 5854,
- "falsos": 2269,
+ "total": 5883,
+ "falsos": 2274,
  "largos": {
-  "episodios": 13465,
+  "episodios": 13487,
   "eventos": 151,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8768,
+  "episodios": 8717,
   "eventos": 35
  },
- "mediana": 0.556,
+ "mediana": 0.553,
  "captura": [
   {
    "s": 0.5,
-   "n": 3047,
-   "gan": 10205.58,
-   "nNeta": 1001,
-   "neta": 3612.59
+   "n": 3057,
+   "gan": 10224.81,
+   "nNeta": 1011,
+   "neta": 3622.04
   },
   {
    "s": 2,
-   "n": 1467,
-   "gan": 4674.62,
-   "nNeta": 411,
-   "neta": 1646.04
+   "n": 1470,
+   "gan": 4681.09,
+   "nNeta": 414,
+   "neta": 1648.41
   },
   {
    "s": 5,
-   "n": 898,
-   "gan": 2355.92,
-   "nNeta": 175,
-   "neta": 559.54
+   "n": 899,
+   "gan": 2357.49,
+   "nNeta": 176,
+   "neta": 559.92
   },
   {
    "s": 30,
-   "n": 411,
-   "gan": 747.06,
-   "nNeta": 54,
-   "neta": 70.32
+   "n": 412,
+   "gan": 748.63,
+   "nNeta": 55,
+   "neta": 70.7
   }
  ],
- "rentables": 1936,
+ "rentables": 1961,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 56,
-   "descartadas": 214,
-   "neta": 156.83,
-   "dias": 6.42,
-   "semana": 171.07
+   "ops": 58,
+   "descartadas": 217,
+   "neta": 158.82,
+   "dias": 6.45,
+   "semana": 172.3
   },
   {
    "capital": 1000,
-   "ops": 73,
-   "descartadas": 214,
-   "neta": 221.28,
-   "dias": 6.42,
-   "semana": 241.36
+   "ops": 75,
+   "descartadas": 217,
+   "neta": 223.27,
+   "dias": 6.45,
+   "semana": 242.22
   },
   {
    "capital": 2000,
-   "ops": 86,
-   "descartadas": 214,
-   "neta": 310.74,
-   "dias": 6.42,
-   "semana": 338.95
+   "ops": 88,
+   "descartadas": 217,
+   "neta": 312.73,
+   "dias": 6.45,
+   "semana": 339.27
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 6,
-   "horas": 122.5,
-   "episodios": 2269,
+   "horas": 123.3,
+   "episodios": 2298,
    "sospechosas": 28,
-   "realistaNeta": 284.59,
+   "realistaNeta": 287.53,
    "capital": {
-    "500": 79.78,
-    "1000": 118.97,
-    "2000": 147.81
+    "500": 81.77,
+    "1000": 120.96,
+    "2000": 149.8
    },
    "cumple": true
   }
@@ -222,27 +222,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3863,
-  "n": 1422,
-  "gan": 3820.53,
-  "nNeta": 359,
-  "neta": 1022.14
+  "conDato": 3892,
+  "n": 1427,
+  "gan": 3830.12,
+  "nNeta": 364,
+  "neta": 1025.08
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1399
+   "n": 1407
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2260
+   "n": 2275
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1291
+   "n": 1296
   },
   {
    "et": "5–30 s",
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 109
+   "n": 110
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794384000000,
-   "n": 14
-  },
   {
    "h": 1794387600000,
    "n": 3
@@ -620,128 +616,132 @@
   {
    "h": 1794654000000,
    "n": 3
+  },
+  {
+   "h": 1794657600000,
+   "n": 29
   }
  ],
  "recientes": [
   {
-   "inicio": 1794657032987,
-   "titulo": "Japan vs. Brazil",
-   "dur": 0.011,
-   "gan": 0.66,
-   "neta": 0.36,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794657032903,
-   "titulo": "Japan vs. Brazil",
-   "dur": 0.066,
-   "gan": 2.41,
-   "neta": 1.17,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794656326652,
-   "titulo": "Japan vs. Brazil",
-   "dur": 0.092,
-   "gan": 1.29,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794653654634,
-   "titulo": "China PR vs. Malaysia",
-   "dur": 0.352,
-   "gan": 3.7,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794653319700,
-   "titulo": "Japan vs. Brazil",
-   "dur": 0.835,
-   "gan": 0.6,
-   "neta": 0.36,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794653319657,
-   "titulo": "Japan vs. Brazil",
-   "dur": 0.003,
-   "gan": 0.5,
-   "neta": 0.26,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794652472383,
-   "titulo": "Japan vs. Brazil",
-   "dur": 0.093,
-   "gan": 1.79,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794646711807,
-   "titulo": "Highest temperature in Cape Town on November 14?",
-   "dur": 2.871,
-   "gan": 0.65,
-   "neta": 0.27,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794646711734,
-   "titulo": "Highest temperature in Cape Town on November 14?",
-   "dur": 0.054,
-   "gan": 0.65,
-   "neta": 0.26,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794642035085,
-   "titulo": "Tahiti vs. Cook Islands",
-   "dur": 1.013,
-   "gan": 1.05,
+   "inicio": 1794658251685,
+   "titulo": "China PR vs. Malaysia - Halftime Result",
+   "dur": 1990.153,
+   "gan": 1.6,
    "neta": 0.38,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794658391849,
+   "titulo": "Widzew Lodz vs. Unia Skierniewice",
+   "dur": 0.877,
+   "gan": 0.75,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1794641935515,
-   "titulo": "Tahiti vs. Cook Islands",
-   "dur": 2.732,
-   "gan": 0.63,
+   "inicio": 1794658251514,
+   "titulo": "China PR vs. Malaysia - Halftime Result",
+   "dur": 0.063,
+   "gan": 0.55,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794641935324,
-   "titulo": "Tahiti vs. Cook Islands",
-   "dur": 0.154,
+   "inicio": 1794658251199,
+   "titulo": "China PR vs. Malaysia - Halftime Result",
+   "dur": 0.227,
+   "gan": 1,
+   "neta": 0.06,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794658250915,
+   "titulo": "China PR vs. Malaysia - Halftime Result",
+   "dur": 0.116,
+   "gan": 1.85,
+   "neta": 0.61,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794658197808,
+   "titulo": "Japan vs. Brazil",
+   "dur": 1.917,
+   "gan": 0.62,
+   "neta": 0.19,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794658192258,
+   "titulo": "Japan vs. Brazil",
+   "dur": 0.192,
+   "gan": 0.52,
+   "neta": 0.15,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794658175712,
+   "titulo": "Japan vs. Brazil",
+   "dur": 2.641,
+   "gan": 1.16,
+   "neta": 0.5,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794658175678,
+   "titulo": "Japan vs. Brazil",
+   "dur": 0.031,
+   "gan": 0.89,
+   "neta": 0.53,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794658174112,
+   "titulo": "Japan vs. Brazil",
+   "dur": 1.564,
+   "gan": 1.75,
+   "neta": 0.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794658173829,
+   "titulo": "Japan vs. Brazil",
+   "dur": 0.275,
    "gan": 0.88,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794640732052,
-   "titulo": "Tahiti vs. Cook Islands",
-   "dur": 1.87,
-   "gan": 1.4,
-   "neta": 0.38,
-   "lado": "no"
+   "inicio": 1794658139829,
+   "titulo": "Japan vs. Brazil",
+   "dur": 0.759,
+   "gan": 0.91,
+   "neta": 0.19,
+   "lado": "si"
   },
   {
-   "inicio": 1794640712334,
-   "titulo": "Tahiti vs. Cook Islands",
-   "dur": 0.052,
-   "gan": 1.06,
-   "neta": 0.59,
-   "lado": "no"
+   "inicio": 1794658114052,
+   "titulo": "Japan vs. Brazil",
+   "dur": 0.322,
+   "gan": 0.86,
+   "neta": 0.04,
+   "lado": "si"
   },
   {
-   "inicio": 1794640712241,
-   "titulo": "Tahiti vs. Cook Islands",
-   "dur": 0.059,
-   "gan": 1.18,
-   "neta": 0.69,
-   "lado": "no"
+   "inicio": 1794658114019,
+   "titulo": "Japan vs. Brazil",
+   "dur": 0.015,
+   "gan": 0.53,
+   "neta": 0.19,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794658113329,
+   "titulo": "Japan vs. Brazil",
+   "dur": 0.681,
+   "gan": 1,
+   "neta": 0.04,
+   "lado": "si"
   }
  ]
 }
