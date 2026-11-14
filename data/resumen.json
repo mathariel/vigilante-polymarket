@@ -1,84 +1,84 @@
 {
- "actualizado": 1794675328067,
- "inicio": 1793964041668,
+ "actualizado": 1794678341555,
+ "inicio": 1793967082192,
  "ejecucion": {
-  "inicio": 1794672327837,
-  "fin": 1794675328067,
-  "mensajes": 12924964,
-  "reconexiones": 2,
-  "eventos": 633,
+  "inicio": 1794675341264,
+  "fin": 1794678341555,
+  "mensajes": 11806950,
+  "reconexiones": 0,
+  "eventos": 599,
   "errores": [],
-  "nuevos": 29,
-  "nuevosRentables": 1,
-  "nuevosNeta": 6.46
+  "nuevos": 59,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 6006,
+ "total": 6053,
  "falsos": 2405,
  "largos": {
-  "episodios": 13655,
+  "episodios": 13634,
   "eventos": 152,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8315,
+  "episodios": 8293,
   "eventos": 34
  },
- "mediana": 0.549,
+ "mediana": 0.552,
  "captura": [
   {
    "s": 0.5,
-   "n": 3116,
-   "gan": 10455.02,
+   "n": 3146,
+   "gan": 10493.69,
    "nNeta": 1040,
-   "neta": 3691.52
+   "neta": 3690.79
   },
   {
    "s": 2,
-   "n": 1493,
-   "gan": 4785.96,
-   "nNeta": 425,
-   "neta": 1703.87
+   "n": 1508,
+   "gan": 4811.64,
+   "nNeta": 424,
+   "neta": 1701.34
   },
   {
    "s": 5,
-   "n": 911,
-   "gan": 2383.13,
+   "n": 918,
+   "gan": 2401.45,
    "nNeta": 180,
    "neta": 566.94
   },
   {
    "s": 30,
-   "n": 412,
-   "gan": 753.31,
+   "n": 413,
+   "gan": 755.5,
    "nNeta": 57,
    "neta": 76.52
   }
  ],
- "rentables": 2018,
+ "rentables": 2020,
  "porCapital": [
   {
    "capital": 500,
    "ops": 63,
    "descartadas": 222,
    "neta": 171.01,
-   "dias": 6.63,
-   "semana": 180.64
+   "dias": 6.66,
+   "semana": 179.69
   },
   {
    "capital": 1000,
    "ops": 80,
    "descartadas": 222,
    "neta": 256.76,
-   "dias": 6.63,
-   "semana": 271.21
+   "dias": 6.66,
+   "semana": 269.79
   },
   {
    "capital": 2000,
    "ops": 94,
    "descartadas": 222,
    "neta": 361.26,
-   "dias": 6.63,
-   "semana": 381.6
+   "dias": 6.66,
+   "semana": 379.6
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 6,
-   "horas": 127.5,
-   "episodios": 2431,
+   "horas": 128.3,
+   "episodios": 2490,
    "sospechosas": 31,
    "realistaNeta": 339.85,
    "capital": {
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 113,
+  "n": 111,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4022,
-  "n": 1459,
-  "gan": 3941.68,
+  "conDato": 4081,
+  "n": 1485,
+  "gan": 3983.01,
   "nNeta": 375,
   "neta": 1077.4
  },
@@ -232,32 +232,32 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1432
+   "n": 1439
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2339
+   "n": 2355
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1318
+   "n": 1335
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 499
+   "n": 505
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 302
+   "n": 306
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 110
+   "n": 107
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794402000000,
-   "n": 29
-  },
   {
    "h": 1794405600000,
    "n": 27
@@ -620,128 +616,132 @@
   {
    "h": 1794672000000,
    "n": 29
+  },
+  {
+   "h": 1794675600000,
+   "n": 59
   }
  ],
  "recientes": [
   {
-   "inicio": 1794675118246,
-   "titulo": "Scunthorpe United FC vs. Worthing FC",
-   "dur": 0.966,
-   "gan": 1.21,
-   "neta": 1.13,
-   "lado": "si"
+   "inicio": 1794678149386,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 191.881,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1794674451956,
-   "titulo": "Real Sociedad de Fútbol B vs. Real Sporting de Gijón",
-   "dur": 0.288,
-   "gan": 0.56,
+   "inicio": 1794678216630,
+   "titulo": "Georgia vs. Hungary",
+   "dur": 7.916,
+   "gan": 1.15,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794674451450,
-   "titulo": "Real Sociedad de Fútbol B vs. Real Sporting de Gijón",
-   "dur": 0.385,
-   "gan": 0.56,
+   "inicio": 1794678216289,
+   "titulo": "Georgia vs. Hungary",
+   "dur": 0.31,
+   "gan": 2.37,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794674450742,
-   "titulo": "Real Sociedad de Fútbol B vs. Real Sporting de Gijón",
-   "dur": 0.192,
-   "gan": 0.56,
+   "inicio": 1794678216179,
+   "titulo": "Georgia vs. Hungary",
+   "dur": 0.029,
+   "gan": 1.18,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794674449865,
-   "titulo": "Real Sociedad de Fútbol B vs. Real Sporting de Gijón",
-   "dur": 0.512,
+   "inicio": 1794678205526,
+   "titulo": "Georgia vs. Hungary",
+   "dur": 0.008,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794678204829,
+   "titulo": "Georgia vs. Hungary",
+   "dur": 0.667,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794678202770,
+   "titulo": "Georgia vs. Hungary",
+   "dur": 0.431,
    "gan": 0.61,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794674448716,
-   "titulo": "Real Sociedad de Fútbol B vs. Real Sporting de Gijón",
-   "dur": 1.11,
-   "gan": 0.93,
+   "inicio": 1794678187205,
+   "titulo": "Georgia vs. Hungary",
+   "dur": 0.184,
+   "gan": 0.54,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794674448015,
-   "titulo": "Real Sociedad de Fútbol B vs. Real Sporting de Gijón",
-   "dur": 0.7,
-   "gan": 0.73,
-   "neta": 0.01,
+   "inicio": 1794678187113,
+   "titulo": "Georgia vs. Hungary",
+   "dur": 0.089,
+   "gan": 0.69,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794674447539,
-   "titulo": "Real Sociedad de Fútbol B vs. Real Sporting de Gijón",
-   "dur": 0.469,
-   "gan": 0.64,
-   "neta": 0.01,
+   "inicio": 1794678187004,
+   "titulo": "Georgia vs. Hungary",
+   "dur": 0.055,
+   "gan": 0.54,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794674440299,
-   "titulo": "Real Sociedad de Fútbol B vs. Real Sporting de Gijón",
-   "dur": 0.243,
-   "gan": 0.53,
+   "inicio": 1794678186495,
+   "titulo": "Georgia vs. Hungary",
+   "dur": 0.465,
+   "gan": 0.82,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794678061352,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 87.739,
+   "gan": 0.71,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794674426320,
-   "titulo": "Real Sociedad de Fútbol B vs. Real Sporting de Gijón",
-   "dur": 5.106,
-   "gan": 1.14,
+   "inicio": 1794678011176,
+   "titulo": "Deportivo Pereira vs. América de Cali",
+   "dur": 6.715,
+   "gan": 0.55,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794674274536,
-   "titulo": "Hartlepool United FC vs. Wealdstone FC",
-   "dur": 2.572,
-   "gan": 9.75,
-   "neta": 6.46,
    "lado": "no"
   },
   {
-   "inicio": 1794674145741,
-   "titulo": "Uganda vs. Botswana - Halftime Result",
-   "dur": 0.068,
-   "gan": 1.17,
-   "neta": 0.39,
-   "lado": "si"
+   "inicio": 1794678009089,
+   "titulo": "Deportivo Pereira vs. América de Cali",
+   "dur": 0.402,
+   "gan": 1.27,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1794673822598,
-   "titulo": "AS Saint-Ouen-l'Aumône vs. US Boulogne Côte d'Opale",
-   "dur": 0.077,
-   "gan": 1.16,
+   "inicio": 1794677995095,
+   "titulo": "Deportivo Pereira vs. América de Cali",
+   "dur": 12.971,
+   "gan": 0.84,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794673787065,
-   "titulo": "Real Sociedad de Fútbol B vs. Real Sporting de Gijón",
-   "dur": 4.711,
-   "gan": 1.08,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794673777323,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 12.67,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "si"
+   "lado": "no"
   }
  ]
 }
