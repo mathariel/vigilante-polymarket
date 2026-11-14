@@ -1,84 +1,84 @@
 {
- "actualizado": 1794615003476,
- "inicio": 1793912523521,
+ "actualizado": 1794618021148,
+ "inicio": 1793915664560,
  "ejecucion": {
-  "inicio": 1794612003179,
-  "fin": 1794615003476,
-  "mensajes": 9758734,
-  "reconexiones": 1,
-  "eventos": 562,
+  "inicio": 1794615020855,
+  "fin": 1794618021148,
+  "mensajes": 10290543,
+  "reconexiones": 0,
+  "eventos": 551,
   "errores": [],
-  "nuevos": 7,
-  "nuevosRentables": 1,
-  "nuevosNeta": 1.9
+  "nuevos": 42,
+  "nuevosRentables": 3,
+  "nuevosNeta": 0.71
  },
- "total": 5772,
- "falsos": 2293,
+ "total": 5796,
+ "falsos": 2273,
  "largos": {
-  "episodios": 12852,
+  "episodios": 12883,
   "eventos": 149,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9367,
+  "episodios": 9336,
   "eventos": 36
  },
- "mediana": 0.567,
+ "mediana": 0.57,
  "captura": [
   {
    "s": 0.5,
-   "n": 3010,
-   "gan": 10006.44,
-   "nNeta": 985,
-   "neta": 3504.1
+   "n": 3027,
+   "gan": 10117.7,
+   "nNeta": 987,
+   "neta": 3569.59
   },
   {
    "s": 2,
-   "n": 1462,
-   "gan": 4649.57,
-   "nNeta": 405,
-   "neta": 1613.75
+   "n": 1469,
+   "gan": 4657.58,
+   "nNeta": 407,
+   "neta": 1614.4
   },
   {
    "s": 5,
-   "n": 899,
-   "gan": 2337.02,
-   "nNeta": 172,
-   "neta": 528.51
+   "n": 902,
+   "gan": 2339.97,
+   "nNeta": 173,
+   "neta": 528.99
   },
   {
    "s": 30,
-   "n": 419,
-   "gan": 760.34,
+   "n": 417,
+   "gan": 757.46,
    "nNeta": 55,
    "neta": 70.98
   }
  ],
- "rentables": 1906,
+ "rentables": 1910,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 53,
-   "descartadas": 206,
-   "neta": 133.48,
-   "dias": 5.93,
-   "semana": 157.59
+   "ops": 54,
+   "descartadas": 208,
+   "neta": 133.96,
+   "dias": 5.96,
+   "semana": 157.23
   },
   {
    "capital": 1000,
-   "ops": 69,
-   "descartadas": 206,
-   "neta": 189.41,
-   "dias": 5.93,
-   "semana": 223.63
+   "ops": 70,
+   "descartadas": 208,
+   "neta": 189.89,
+   "dias": 5.96,
+   "semana": 222.89
   },
   {
    "capital": 2000,
-   "ops": 82,
-   "descartadas": 206,
-   "neta": 278.87,
-   "dias": 5.93,
-   "semana": 329.26
+   "ops": 83,
+   "descartadas": 208,
+   "neta": 279.35,
+   "dias": 5.96,
+   "semana": 327.89
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 5,
-   "horas": 110.8,
-   "episodios": 2101,
+   "horas": 111.7,
+   "episodios": 2143,
    "sospechosas": 27,
-   "realistaNeta": 249.42,
+   "realistaNeta": 250.13,
    "capital": {
-    "500": 56.43,
-    "1000": 87.1,
-    "2000": 115.94
+    "500": 56.91,
+    "1000": 87.58,
+    "2000": 116.42
    },
    "cumple": true
   }
@@ -222,42 +222,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3696,
-  "n": 1382,
-  "gan": 3740.61,
-  "nNeta": 347,
-  "neta": 986.97
+  "conDato": 3738,
+  "n": 1396,
+  "gan": 3755,
+  "nNeta": 350,
+  "neta": 987.68
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1382
+   "n": 1384
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2211
+   "n": 2221
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1274
+   "n": 1283
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 480
+   "n": 485
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 304
+   "n": 303
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 115
+   "n": 114
   }
  ],
  "porEvento": [
@@ -326,10 +326,10 @@
   },
   {
    "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "n": 71,
-   "gan": 50.79,
+   "n": 72,
+   "gan": 51.44,
    "neta": 1.11,
-   "mediana": 0.403
+   "mediana": 0.406
   }
  ],
  "porHora": [
@@ -619,129 +619,129 @@
   },
   {
    "h": 1794614400000,
-   "n": 1
+   "n": 43
   }
  ],
  "recientes": [
   {
-   "inicio": 1794614989930,
-   "titulo": "Lowest temperature in Tokyo on November 14?",
-   "dur": 0.941,
-   "gan": 3.95,
-   "neta": 3.56,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794614310295,
-   "titulo": "Highest temperature in Wellington on November 14?",
-   "dur": 1.62,
-   "gan": 2.67,
-   "neta": 1.96,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794613808403,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.021,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794613763560,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.016,
-   "gan": 0.77,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794613732795,
+   "inicio": 1794617643033,
    "titulo": "Argentina vs. Uruguay",
-   "dur": 0.197,
-   "gan": 0.53,
+   "dur": 1.11,
+   "gan": 3.84,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794613112099,
-   "titulo": "Argentina vs. Uruguay - Halftime Result",
-   "dur": 1.358,
-   "gan": 1.62,
-   "neta": 0,
-   "lado": "si"
+   "inicio": 1794617239580,
+   "titulo": "Montserrat vs. Nicaragua",
+   "dur": 1.142,
+   "gan": 90.15,
+   "neta": 65.57,
+   "lado": "no"
   },
   {
-   "inicio": 1794612158878,
+   "inicio": 1794617012254,
    "titulo": "Argentina vs. Uruguay",
-   "dur": 0.836,
-   "gan": 1.04,
+   "dur": 0.027,
+   "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794611578086,
+   "inicio": 1794617012184,
    "titulo": "Argentina vs. Uruguay",
-   "dur": 4.357,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794611541667,
-   "titulo": "Argentina vs. Uruguay",
-   "dur": 29.662,
+   "dur": 0.036,
    "gan": 0.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794611522650,
-   "titulo": "Saint-Martin vs. El Salvador",
-   "dur": 33.039,
-   "gan": 1.11,
+   "inicio": 1794617007796,
+   "titulo": "Argentina vs. Uruguay",
+   "dur": 2.623,
+   "gan": 1.47,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794616924362,
+   "titulo": "Argentina vs. Uruguay",
+   "dur": 0.074,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794616868073,
+   "titulo": "Argentina vs. Uruguay",
+   "dur": 0.32,
+   "gan": 7.01,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794611301553,
-   "titulo": "Saint-Martin vs. El Salvador",
-   "dur": 1.876,
+   "inicio": 1794616843035,
+   "titulo": "Montserrat vs. Nicaragua",
+   "dur": 0.375,
+   "gan": 4.54,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794616584559,
+   "titulo": "Argentina vs. Uruguay",
+   "dur": 4.573,
+   "gan": 1.2,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794616559041,
+   "titulo": "Montserrat vs. Nicaragua",
+   "dur": 5.992,
+   "gan": 2.06,
+   "neta": 0.9,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794616435828,
+   "titulo": "Montserrat vs. Nicaragua",
+   "dur": 22.815,
+   "gan": 1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794616433023,
+   "titulo": "Montserrat vs. Nicaragua",
+   "dur": 2.667,
    "gan": 0.63,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794611266301,
-   "titulo": "Saint-Martin vs. El Salvador",
-   "dur": 0.014,
-   "gan": 0.67,
+   "inicio": 1794616430600,
+   "titulo": "Montserrat vs. Nicaragua",
+   "dur": 2.317,
+   "gan": 0.88,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794611266132,
-   "titulo": "Saint-Martin vs. El Salvador",
-   "dur": 0.128,
-   "gan": 1.26,
-   "neta": 0.17,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794611264668,
-   "titulo": "Saint-Martin vs. El Salvador",
-   "dur": 1.433,
-   "gan": 0.84,
+   "inicio": 1794616429290,
+   "titulo": "Montserrat vs. Nicaragua",
+   "dur": 1.309,
+   "gan": 0.7,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794611264622,
-   "titulo": "Saint-Martin vs. El Salvador",
-   "dur": 0.029,
-   "gan": 0.54,
+   "inicio": 1794616428867,
+   "titulo": "Montserrat vs. Nicaragua",
+   "dur": 0.387,
+   "gan": 0.61,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   }
  ]
 }
