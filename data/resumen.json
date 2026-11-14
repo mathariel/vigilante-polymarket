@@ -1,84 +1,84 @@
 {
- "actualizado": 1794672313302,
- "inicio": 1793954888835,
+ "actualizado": 1794675328067,
+ "inicio": 1793964041668,
  "ejecucion": {
-  "inicio": 1794669313090,
-  "fin": 1794672313302,
-  "mensajes": 13190115,
+  "inicio": 1794672327837,
+  "fin": 1794675328067,
+  "mensajes": 12924964,
   "reconexiones": 2,
-  "eventos": 648,
+  "eventos": 633,
   "errores": [],
-  "nuevos": 40,
-  "nuevosRentables": 3,
-  "nuevosNeta": 2.75
+  "nuevos": 29,
+  "nuevosRentables": 1,
+  "nuevosNeta": 6.46
  },
- "total": 5979,
- "falsos": 2385,
+ "total": 6006,
+ "falsos": 2405,
  "largos": {
-  "episodios": 13663,
-  "eventos": 153,
+  "episodios": 13655,
+  "eventos": 152,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8351,
-  "eventos": 35
+  "episodios": 8315,
+  "eventos": 34
  },
  "mediana": 0.549,
  "captura": [
   {
    "s": 0.5,
-   "n": 3102,
-   "gan": 10362.06,
-   "nNeta": 1033,
-   "neta": 3675.22
+   "n": 3116,
+   "gan": 10455.02,
+   "nNeta": 1040,
+   "neta": 3691.52
   },
   {
    "s": 2,
-   "n": 1488,
-   "gan": 4773.71,
-   "nNeta": 424,
-   "neta": 1697.41
+   "n": 1493,
+   "gan": 4785.96,
+   "nNeta": 425,
+   "neta": 1703.87
   },
   {
    "s": 5,
-   "n": 909,
-   "gan": 2381.97,
+   "n": 911,
+   "gan": 2383.13,
    "nNeta": 180,
    "neta": 566.94
   },
   {
    "s": 30,
-   "n": 413,
-   "gan": 754.11,
+   "n": 412,
+   "gan": 753.31,
    "nNeta": 57,
    "neta": 76.52
   }
  ],
- "rentables": 2009,
+ "rentables": 2018,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 62,
+   "ops": 63,
    "descartadas": 222,
-   "neta": 164.55,
-   "dias": 6.59,
-   "semana": 174.73
+   "neta": 171.01,
+   "dias": 6.63,
+   "semana": 180.64
   },
   {
    "capital": 1000,
-   "ops": 79,
+   "ops": 80,
    "descartadas": 222,
-   "neta": 250.3,
-   "dias": 6.59,
-   "semana": 265.79
+   "neta": 256.76,
+   "dias": 6.63,
+   "semana": 271.21
   },
   {
    "capital": 2000,
-   "ops": 93,
+   "ops": 94,
    "descartadas": 222,
-   "neta": 354.8,
-   "dias": 6.59,
-   "semana": 376.76
+   "neta": 361.26,
+   "dias": 6.63,
+   "semana": 381.6
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 6,
-   "horas": 126.7,
-   "episodios": 2402,
-   "sospechosas": 29,
-   "realistaNeta": 333.39,
+   "horas": 127.5,
+   "episodios": 2431,
+   "sospechosas": 31,
+   "realistaNeta": 339.85,
    "capital": {
-    "500": 87.51,
-    "1000": 147.99,
-    "2000": 191.87
+    "500": 93.97,
+    "1000": 154.45,
+    "2000": 198.33
    },
    "cumple": true
   }
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 111,
+  "n": 113,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,32 +222,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3995,
-  "n": 1452,
-  "gan": 3926.45,
-  "nNeta": 374,
-  "neta": 1070.94
+  "conDato": 4022,
+  "n": 1459,
+  "gan": 3941.68,
+  "nNeta": 375,
+  "neta": 1077.4
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1425
+   "n": 1432
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2326
+   "n": 2339
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1313
+   "n": 1318
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 496
+   "n": 499
   },
   {
    "et": "30 s–5 min",
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 111
+   "n": 110
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794398400000,
-   "n": 2
-  },
   {
    "h": 1794402000000,
    "n": 29
@@ -620,126 +616,130 @@
   {
    "h": 1794668400000,
    "n": 63
+  },
+  {
+   "h": 1794672000000,
+   "n": 29
   }
  ],
  "recientes": [
   {
-   "inicio": 1794671447505,
-   "titulo": "Southend United FC vs. Aldershot Town FC - Halftime Result",
-   "dur": 865.588,
-   "gan": 3.69,
-   "neta": 3.48,
+   "inicio": 1794675118246,
+   "titulo": "Scunthorpe United FC vs. Worthing FC",
+   "dur": 0.966,
+   "gan": 1.21,
+   "neta": 1.13,
    "lado": "si"
   },
   {
-   "inicio": 1794671356643,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 3.942,
-   "gan": 2.75,
-   "neta": 1.49,
+   "inicio": 1794674451956,
+   "titulo": "Real Sociedad de Fútbol B vs. Real Sporting de Gijón",
+   "dur": 0.288,
+   "gan": 0.56,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794671196061,
-   "titulo": "Kosovo vs. Israel",
-   "dur": 0.151,
-   "gan": 1.18,
-   "neta": 0.04,
-   "lado": "no"
+   "inicio": 1794674451450,
+   "titulo": "Real Sociedad de Fútbol B vs. Real Sporting de Gijón",
+   "dur": 0.385,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
   },
   {
-   "inicio": 1794671062742,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.021,
+   "inicio": 1794674450742,
+   "titulo": "Real Sociedad de Fútbol B vs. Real Sporting de Gijón",
+   "dur": 0.192,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794674449865,
+   "titulo": "Real Sociedad de Fútbol B vs. Real Sporting de Gijón",
+   "dur": 0.512,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794674448716,
+   "titulo": "Real Sociedad de Fútbol B vs. Real Sporting de Gijón",
+   "dur": 1.11,
    "gan": 0.93,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794671035654,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.028,
-   "gan": 0.67,
-   "neta": 0.34,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794671028911,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.173,
-   "gan": 0.6,
-   "neta": 0.05,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794671026024,
-   "titulo": "Eastleigh FC vs. AFC Fylde",
-   "dur": 0.914,
-   "gan": 3.09,
-   "neta": 0.03,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794670779757,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 7.155,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794670719473,
-   "titulo": "Sutton United FC vs. Solihull Moors FC",
-   "dur": 0.998,
-   "gan": 2.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794670601168,
-   "titulo": "Hornchurch FC vs. Tamworth FC",
-   "dur": 0.564,
-   "gan": 1,
-   "neta": 0.49,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794670540793,
-   "titulo": "Highest temperature in Chongqing on November 15?",
-   "dur": 22.207,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794670529271,
-   "titulo": "Highest temperature in Chongqing on November 15?",
-   "dur": 11.457,
-   "gan": 0.72,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794670456509,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 6.128,
-   "gan": 0.79,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794670456290,
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "dur": 0.142,
-   "gan": 0.79,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794670032660,
+   "inicio": 1794674448015,
    "titulo": "Real Sociedad de Fútbol B vs. Real Sporting de Gijón",
-   "dur": 0.036,
-   "gan": 0.51,
+   "dur": 0.7,
+   "gan": 0.73,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794674447539,
+   "titulo": "Real Sociedad de Fútbol B vs. Real Sporting de Gijón",
+   "dur": 0.469,
+   "gan": 0.64,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794674440299,
+   "titulo": "Real Sociedad de Fútbol B vs. Real Sporting de Gijón",
+   "dur": 0.243,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794674426320,
+   "titulo": "Real Sociedad de Fútbol B vs. Real Sporting de Gijón",
+   "dur": 5.106,
+   "gan": 1.14,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794674274536,
+   "titulo": "Hartlepool United FC vs. Wealdstone FC",
+   "dur": 2.572,
+   "gan": 9.75,
+   "neta": 6.46,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794674145741,
+   "titulo": "Uganda vs. Botswana - Halftime Result",
+   "dur": 0.068,
+   "gan": 1.17,
+   "neta": 0.39,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794673822598,
+   "titulo": "AS Saint-Ouen-l'Aumône vs. US Boulogne Côte d'Opale",
+   "dur": 0.077,
+   "gan": 1.16,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794673787065,
+   "titulo": "Real Sociedad de Fútbol B vs. Real Sporting de Gijón",
+   "dur": 4.711,
+   "gan": 1.08,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794673777323,
+   "titulo": "Target Q3 comparable sales growth?",
+   "dur": 12.67,
+   "gan": 0.63,
    "neta": 0,
    "lado": "si"
   }
