@@ -1,48 +1,48 @@
 {
- "actualizado": 1794696426798,
- "inicio": 1793999959126,
+ "actualizado": 1794699439238,
+ "inicio": 1794003203041,
  "ejecucion": {
-  "inicio": 1794693426502,
-  "fin": 1794696426798,
-  "mensajes": 10265415,
-  "reconexiones": 2,
-  "eventos": 588,
+  "inicio": 1794696439021,
+  "fin": 1794699439238,
+  "mensajes": 9365903,
+  "reconexiones": 0,
+  "eventos": 582,
   "errores": [],
-  "nuevos": 73,
-  "nuevosRentables": 7,
-  "nuevosNeta": 17.82
+  "nuevos": 19,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.45
  },
- "total": 6310,
- "falsos": 2422,
+ "total": 6329,
+ "falsos": 2427,
  "largos": {
-  "episodios": 13501,
+  "episodios": 13533,
   "eventos": 151,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8189,
+  "episodios": 8142,
   "eventos": 32
  },
  "mediana": 0.552,
  "captura": [
   {
    "s": 0.5,
-   "n": 3278,
-   "gan": 10770.13,
-   "nNeta": 1057,
-   "neta": 3688.56
+   "n": 3288,
+   "gan": 10791.11,
+   "nNeta": 1060,
+   "neta": 3691.2
   },
   {
    "s": 2,
-   "n": 1589,
-   "gan": 5039.22,
-   "nNeta": 438,
-   "neta": 1707.76
+   "n": 1596,
+   "gan": 5057.56,
+   "nNeta": 439,
+   "neta": 1708.21
   },
   {
    "s": 5,
-   "n": 951,
-   "gan": 2549.6,
+   "n": 953,
+   "gan": 2550.89,
    "nNeta": 180,
    "neta": 556.89
   },
@@ -54,31 +54,31 @@
    "neta": 56.59
   }
  ],
- "rentables": 2071,
+ "rentables": 2074,
  "porCapital": [
   {
    "capital": 500,
    "ops": 74,
-   "descartadas": 242,
+   "descartadas": 243,
    "neta": 184.29,
-   "dias": 6.87,
-   "semana": 187.75
+   "dias": 6.91,
+   "semana": 186.8
   },
   {
    "capital": 1000,
    "ops": 94,
-   "descartadas": 242,
+   "descartadas": 243,
    "neta": 281.6,
-   "dias": 6.87,
-   "semana": 286.87
+   "dias": 6.91,
+   "semana": 285.43
   },
   {
    "capital": 2000,
    "ops": 110,
-   "descartadas": 242,
+   "descartadas": 243,
    "neta": 411.82,
-   "dias": 6.87,
-   "semana": 419.54
+   "dias": 6.91,
+   "semana": 417.42
   }
  ],
  "maxBloqueoH": 24,
@@ -101,10 +101,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 6,
-   "horas": 133.3,
-   "episodios": 3022,
+   "horas": 134.2,
+   "episodios": 3041,
    "sospechosas": 34,
-   "realistaNeta": 397.72,
+   "realistaNeta": 398.17,
    "capital": {
     "500": 107.25,
     "1000": 179.29,
@@ -222,32 +222,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4610,
-  "n": 1639,
-  "gan": 4393.55,
-  "nNeta": 411,
-  "neta": 1135.27
+  "conDato": 4629,
+  "n": 1646,
+  "gan": 4411.89,
+  "nNeta": 412,
+  "neta": 1135.72
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1478
+   "n": 1479
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2468
+   "n": 2478
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1404
+   "n": 1410
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 533
+   "n": 535
   },
   {
    "et": "30 s–5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794423600000,
-   "n": 27
-  },
   {
    "h": 1794427200000,
    "n": 7
@@ -619,128 +615,132 @@
   },
   {
    "h": 1794693600000,
-   "n": 67
+   "n": 69
+  },
+  {
+   "h": 1794697200000,
+   "n": 17
   }
  ],
  "recientes": [
   {
-   "inicio": 1794696120246,
-   "titulo": "CSD Xelajú MC vs. CD Guastatoya",
-   "dur": 173.092,
+   "inicio": 1794699343629,
+   "titulo": "Querétaro FC vs. CF Monterrey",
+   "dur": 12.239,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794698920439,
+   "titulo": "Mirassol FC vs. CA Mineiro",
+   "dur": 1.026,
+   "gan": 1.41,
+   "neta": 1.23,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794698871124,
+   "titulo": "Mirassol FC vs. CA Mineiro",
+   "dur": 0.69,
+   "gan": 1.05,
+   "neta": 0.9,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794698552332,
+   "titulo": "CA Banfield vs. Boca Juniors",
+   "dur": 0.218,
    "gan": 1,
-   "neta": 0.93,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794696159616,
-   "titulo": "Haiti vs. United States",
-   "dur": 3.329,
-   "gan": 0.57,
-   "neta": 0.19,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794695841531,
-   "titulo": "Haiti vs. United States",
-   "dur": 1.042,
-   "gan": 3.27,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794695820402,
-   "titulo": "Haiti vs. United States",
-   "dur": 1.219,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794695819070,
-   "titulo": "Haiti vs. United States",
-   "dur": 1.267,
-   "gan": 3.43,
-   "neta": 0.01,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794695751133,
-   "titulo": "AD Cali vs. CD Tolima",
-   "dur": 0.309,
-   "gan": 1.48,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794695750105,
-   "titulo": "AD Cali vs. CD Tolima",
-   "dur": 0.071,
-   "gan": 1.44,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794695749622,
-   "titulo": "AD Cali vs. CD Tolima",
-   "dur": 0.211,
-   "gan": 1.48,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794695749066,
-   "titulo": "AD Cali vs. CD Tolima",
-   "dur": 0.035,
-   "gan": 1.22,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794695628247,
-   "titulo": "AD Cali vs. CD Tolima",
-   "dur": 0.075,
-   "gan": 1.25,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794695626574,
-   "titulo": "AD Cali vs. CD Tolima",
-   "dur": 1.63,
-   "gan": 0.58,
+   "inicio": 1794698381959,
+   "titulo": "Querétaro FC vs. CF Monterrey",
+   "dur": 2.55,
+   "gan": 1,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794698381797,
+   "titulo": "Querétaro FC vs. CF Monterrey",
+   "dur": 0.042,
+   "gan": 5.97,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794698177831,
+   "titulo": "Mirassol FC vs. CA Mineiro",
+   "dur": 12.789,
+   "gan": 0.68,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794695450914,
-   "titulo": "Atlético Nacional vs. Once Caldas",
-   "dur": 0.483,
-   "gan": 3.86,
-   "neta": 3.54,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794695449056,
-   "titulo": "CA Bucaramanga vs. Fortaleza FC",
-   "dur": 0.814,
-   "gan": 0.51,
-   "neta": 0.07,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794695418070,
-   "titulo": "CA Bucaramanga vs. Fortaleza FC",
-   "dur": 0.369,
-   "gan": 2.65,
-   "neta": 2.56,
+   "inicio": 1794698159964,
+   "titulo": "Mirassol FC vs. CA Mineiro",
+   "dur": 0.219,
+   "gan": 0.7,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794695417991,
-   "titulo": "CA Bucaramanga vs. Fortaleza FC",
-   "dur": 0.07,
-   "gan": 1.4,
-   "neta": 1.31,
+   "inicio": 1794698081587,
+   "titulo": "Mirassol FC vs. CA Mineiro",
+   "dur": 0.438,
+   "gan": 1.8,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794697573543,
+   "titulo": "Mirassol FC vs. CA Mineiro",
+   "dur": 0.218,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794697572166,
+   "titulo": "Mirassol FC vs. CA Mineiro",
+   "dur": 0.396,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794697571778,
+   "titulo": "Mirassol FC vs. CA Mineiro",
+   "dur": 0.264,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794697325734,
+   "titulo": "Mirassol FC vs. CA Mineiro",
+   "dur": 4.436,
+   "gan": 9.04,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794697319010,
+   "titulo": "Mirassol FC vs. CA Mineiro",
+   "dur": 3.604,
+   "gan": 0.92,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794697308444,
+   "titulo": "Mirassol FC vs. CA Mineiro",
+   "dur": 3.428,
+   "gan": 1.04,
+   "neta": 0,
    "lado": "si"
   }
  ]
