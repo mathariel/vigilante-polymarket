@@ -1,48 +1,48 @@
 {
- "actualizado": 1794654216415,
+ "actualizado": 1794657229479,
  "inicio": 1793951629059,
  "ejecucion": {
-  "inicio": 1794651216122,
-  "fin": 1794654216415,
-  "mensajes": 9205092,
+  "inicio": 1794654229191,
+  "fin": 1794657229479,
+  "mensajes": 9920905,
   "reconexiones": 0,
-  "eventos": 602,
+  "eventos": 607,
   "errores": [],
-  "nuevos": 4,
+  "nuevos": 3,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5855,
+ "total": 5854,
  "falsos": 2269,
  "largos": {
-  "episodios": 13437,
+  "episodios": 13465,
   "eventos": 151,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8791,
+  "episodios": 8768,
   "eventos": 35
  },
- "mediana": 0.557,
+ "mediana": 0.556,
  "captura": [
   {
    "s": 0.5,
-   "n": 3050,
-   "gan": 10207.97,
+   "n": 3047,
+   "gan": 10205.58,
    "nNeta": 1001,
    "neta": 3612.59
   },
   {
    "s": 2,
-   "n": 1469,
-   "gan": 4678.09,
+   "n": 1467,
+   "gan": 4674.62,
    "nNeta": 411,
    "neta": 1646.04
   },
   {
    "s": 5,
-   "n": 900,
-   "gan": 2359.39,
+   "n": 898,
+   "gan": 2355.92,
    "nNeta": 175,
    "neta": 559.54
   },
@@ -54,31 +54,31 @@
    "neta": 70.32
   }
  ],
- "rentables": 1934,
+ "rentables": 1936,
  "porCapital": [
   {
    "capital": 500,
    "ops": 56,
    "descartadas": 214,
    "neta": 156.83,
-   "dias": 6.38,
-   "semana": 172
+   "dias": 6.42,
+   "semana": 171.07
   },
   {
    "capital": 1000,
    "ops": 73,
    "descartadas": 214,
    "neta": 221.28,
-   "dias": 6.38,
-   "semana": 242.68
+   "dias": 6.42,
+   "semana": 241.36
   },
   {
    "capital": 2000,
    "ops": 86,
    "descartadas": 214,
    "neta": 310.74,
-   "dias": 6.38,
-   "semana": 340.8
+   "dias": 6.42,
+   "semana": 338.95
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 6,
-   "horas": 121.7,
-   "episodios": 2266,
+   "horas": 122.5,
+   "episodios": 2269,
    "sospechosas": 28,
    "realistaNeta": 284.59,
    "capital": {
@@ -222,7 +222,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3860,
+  "conDato": 3863,
   "n": 1422,
   "gan": 3820.53,
   "nNeta": 359,
@@ -232,12 +232,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1397
+   "n": 1399
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2261
+   "n": 2260
   },
   {
    "et": "1–5 s",
@@ -247,7 +247,7 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 489
+   "n": 487
   },
   {
    "et": "30 s–5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794380400000,
-   "n": 9
-  },
   {
    "h": 1794384000000,
    "n": 14
@@ -620,9 +616,37 @@
   {
    "h": 1794650400000,
    "n": 4
+  },
+  {
+   "h": 1794654000000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794657032987,
+   "titulo": "Japan vs. Brazil",
+   "dur": 0.011,
+   "gan": 0.66,
+   "neta": 0.36,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794657032903,
+   "titulo": "Japan vs. Brazil",
+   "dur": 0.066,
+   "gan": 2.41,
+   "neta": 1.17,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794656326652,
+   "titulo": "Japan vs. Brazil",
+   "dur": 0.092,
+   "gan": 1.29,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794653654634,
    "titulo": "China PR vs. Malaysia",
@@ -717,30 +741,6 @@
    "dur": 0.059,
    "gan": 1.18,
    "neta": 0.69,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794640711612,
-   "titulo": "Tahiti vs. Cook Islands",
-   "dur": 0.398,
-   "gan": 0.52,
-   "neta": 0.31,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794640711076,
-   "titulo": "Tahiti vs. Cook Islands",
-   "dur": 0.422,
-   "gan": 0.63,
-   "neta": 0.5,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794640711008,
-   "titulo": "Tahiti vs. Cook Islands",
-   "dur": 0.003,
-   "gan": 0.61,
-   "neta": 0.37,
    "lado": "no"
   }
  ]
