@@ -1,36 +1,36 @@
 {
- "actualizado": 1794633115019,
- "inicio": 1793930794156,
+ "actualizado": 1794636131834,
+ "inicio": 1793936820525,
  "ejecucion": {
-  "inicio": 1794630114714,
-  "fin": 1794633115019,
-  "mensajes": 10366863,
+  "inicio": 1794633131517,
+  "fin": 1794636131835,
+  "mensajes": 10118896,
   "reconexiones": 0,
-  "eventos": 575,
+  "eventos": 578,
   "errores": [],
-  "nuevos": 1,
+  "nuevos": 3,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5807,
- "falsos": 2255,
+ "total": 5810,
+ "falsos": 2267,
  "largos": {
-  "episodios": 13076,
-  "eventos": 149,
+  "episodios": 13133,
+  "eventos": 150,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9175,
+  "episodios": 9106,
   "eventos": 35
  },
  "mediana": 0.565,
  "captura": [
   {
    "s": 0.5,
-   "n": 3035,
-   "gan": 10162.44,
-   "nNeta": 988,
-   "neta": 3579.34
+   "n": 3038,
+   "gan": 10172.19,
+   "nNeta": 991,
+   "neta": 3582.36
   },
   {
    "s": 2,
@@ -54,31 +54,31 @@
    "neta": 70.98
   }
  ],
- "rentables": 1897,
+ "rentables": 1900,
  "porCapital": [
   {
    "capital": 500,
    "ops": 55,
    "descartadas": 211,
    "neta": 141.59,
-   "dias": 6.14,
-   "semana": 161.46
+   "dias": 6.17,
+   "semana": 160.55
   },
   {
    "capital": 1000,
    "ops": 71,
    "descartadas": 211,
    "neta": 197.52,
-   "dias": 6.14,
-   "semana": 225.24
+   "dias": 6.17,
+   "semana": 223.97
   },
   {
    "capital": 2000,
    "ops": 84,
    "descartadas": 211,
    "neta": 286.98,
-   "dias": 6.14,
-   "semana": 327.26
+   "dias": 6.17,
+   "semana": 325.41
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 6,
-   "horas": 115.8,
-   "episodios": 2205,
+   "horas": 116.7,
+   "episodios": 2208,
    "sospechosas": 27,
    "realistaNeta": 260.07,
    "capital": {
@@ -222,7 +222,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3800,
+  "conDato": 3803,
   "n": 1411,
   "gan": 3783.31,
   "nNeta": 354,
@@ -237,12 +237,12 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2233
+   "n": 2235
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1282
+   "n": 1283
   },
   {
    "et": "5–30 s",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794362400000,
-   "n": 10
-  },
   {
    "h": 1794366000000,
    "n": 1
@@ -620,9 +616,37 @@
   {
    "h": 1794628800000,
    "n": 3
+  },
+  {
+   "h": 1794632400000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794635019699,
+   "titulo": "Shōnan Bellmāre vs. Yokohama FC - Halftime Result",
+   "dur": 1,
+   "gan": 0.78,
+   "neta": 0.33,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794634930423,
+   "titulo": "Shōnan Bellmāre vs. Yokohama FC",
+   "dur": 0.505,
+   "gan": 8.37,
+   "neta": 2.62,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794634253173,
+   "titulo": "Ōita Trinita vs. Tochigi City FC",
+   "dur": 0.541,
+   "gan": 0.55,
+   "neta": 0.02,
+   "lado": "si"
+  },
   {
    "inicio": 1794632160516,
    "titulo": "Highest temperature in Chongqing on November 14?",
@@ -716,30 +740,6 @@
    "titulo": "Peru vs. Bolivia",
    "dur": 1.845,
    "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794623437193,
-   "titulo": "Peru vs. Bolivia",
-   "dur": 1.797,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794623273336,
-   "titulo": "Guatemala vs. Canada",
-   "dur": 0.681,
-   "gan": 0.93,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794622637233,
-   "titulo": "Guatemala vs. Canada",
-   "dur": 1.885,
-   "gan": 3.84,
    "neta": 0,
    "lado": "si"
   }
