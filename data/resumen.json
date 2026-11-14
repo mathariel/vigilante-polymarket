@@ -1,84 +1,84 @@
 {
- "actualizado": 1794630095132,
- "inicio": 1793927757459,
+ "actualizado": 1794633115019,
+ "inicio": 1793930794156,
  "ejecucion": {
-  "inicio": 1794627094924,
-  "fin": 1794630095132,
-  "mensajes": 10121066,
+  "inicio": 1794630114714,
+  "fin": 1794633115019,
+  "mensajes": 10366863,
   "reconexiones": 0,
-  "eventos": 568,
+  "eventos": 575,
   "errores": [],
-  "nuevos": 4,
-  "nuevosRentables": 3,
-  "nuevosNeta": 9.92
+  "nuevos": 1,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5812,
- "falsos": 2257,
+ "total": 5807,
+ "falsos": 2255,
  "largos": {
-  "episodios": 13005,
+  "episodios": 13076,
   "eventos": 149,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9233,
+  "episodios": 9175,
   "eventos": 35
  },
  "mediana": 0.565,
  "captura": [
   {
    "s": 0.5,
-   "n": 3039,
-   "gan": 10165.47,
+   "n": 3035,
+   "gan": 10162.44,
    "nNeta": 988,
    "neta": 3579.34
   },
   {
    "s": 2,
-   "n": 1469,
-   "gan": 4661.78,
+   "n": 1467,
+   "gan": 4660.48,
    "nNeta": 409,
    "neta": 1622.82
   },
   {
    "s": 5,
-   "n": 903,
-   "gan": 2346.9,
+   "n": 902,
+   "gan": 2346.4,
    "nNeta": 174,
    "neta": 536.62
   },
   {
    "s": 30,
-   "n": 417,
-   "gan": 755.86,
+   "n": 416,
+   "gan": 755.36,
    "nNeta": 55,
    "neta": 70.98
   }
  ],
- "rentables": 1898,
+ "rentables": 1897,
  "porCapital": [
   {
    "capital": 500,
    "ops": 55,
    "descartadas": 211,
    "neta": 141.59,
-   "dias": 6.1,
-   "semana": 162.38
+   "dias": 6.14,
+   "semana": 161.46
   },
   {
    "capital": 1000,
    "ops": 71,
    "descartadas": 211,
    "neta": 197.52,
-   "dias": 6.1,
-   "semana": 226.53
+   "dias": 6.14,
+   "semana": 225.24
   },
   {
    "capital": 2000,
    "ops": 84,
    "descartadas": 211,
    "neta": 286.98,
-   "dias": 6.1,
-   "semana": 329.14
+   "dias": 6.14,
+   "semana": 327.26
   }
  ],
  "maxBloqueoH": 24,
@@ -100,9 +100,9 @@
   },
   {
    "lunes": "2026-11-09",
-   "dias": 5,
-   "horas": 115,
-   "episodios": 2204,
+   "dias": 6,
+   "horas": 115.8,
+   "episodios": 2205,
    "sospechosas": 27,
    "realistaNeta": 260.07,
    "capital": {
@@ -222,7 +222,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3799,
+  "conDato": 3800,
   "n": 1411,
   "gan": 3783.31,
   "nNeta": 354,
@@ -237,12 +237,12 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2235
+   "n": 2233
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1284
+   "n": 1282
   },
   {
    "et": "5–30 s",
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 113
+   "n": 112
   }
  ],
  "porEvento": [
@@ -619,10 +619,18 @@
   },
   {
    "h": 1794628800000,
-   "n": 2
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794632160516,
+   "titulo": "Highest temperature in Chongqing on November 14?",
+   "dur": 0.016,
+   "gan": 0.78,
+   "neta": 0.36,
+   "lado": "si"
+  },
   {
    "inicio": 1794629606865,
    "titulo": "# of views of Grand Theft Auto VI: Pre-Load Now on week 1?",
@@ -732,14 +740,6 @@
    "titulo": "Guatemala vs. Canada",
    "dur": 1.885,
    "gan": 3.84,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794622631995,
-   "titulo": "Guatemala vs. Canada",
-   "dur": 4.151,
-   "gan": 0.63,
    "neta": 0,
    "lado": "si"
   }
