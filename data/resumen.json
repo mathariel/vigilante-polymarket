@@ -1,84 +1,84 @@
 {
- "actualizado": 1794636131834,
- "inicio": 1793936820525,
+ "actualizado": 1794639144877,
+ "inicio": 1793939807429,
  "ejecucion": {
-  "inicio": 1794633131517,
-  "fin": 1794636131835,
-  "mensajes": 10118896,
+  "inicio": 1794636144668,
+  "fin": 1794639144877,
+  "mensajes": 11298876,
   "reconexiones": 0,
-  "eventos": 578,
+  "eventos": 588,
   "errores": [],
   "nuevos": 3,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5810,
- "falsos": 2267,
+ "total": 5807,
+ "falsos": 2266,
  "largos": {
-  "episodios": 13133,
+  "episodios": 13290,
   "eventos": 150,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 9106,
+  "episodios": 8958,
   "eventos": 35
  },
  "mediana": 0.565,
  "captura": [
   {
    "s": 0.5,
-   "n": 3038,
-   "gan": 10172.19,
-   "nNeta": 991,
-   "neta": 3582.36
+   "n": 3035,
+   "gan": 10164.01,
+   "nNeta": 990,
+   "neta": 3581.7
   },
   {
    "s": 2,
-   "n": 1467,
-   "gan": 4660.48,
-   "nNeta": 409,
-   "neta": 1622.82
+   "n": 1464,
+   "gan": 4652.3,
+   "nNeta": 408,
+   "neta": 1622.16
   },
   {
    "s": 5,
-   "n": 902,
-   "gan": 2346.4,
-   "nNeta": 174,
-   "neta": 536.62
+   "n": 899,
+   "gan": 2338.22,
+   "nNeta": 173,
+   "neta": 535.96
   },
   {
    "s": 30,
-   "n": 416,
-   "gan": 755.36,
-   "nNeta": 55,
-   "neta": 70.98
+   "n": 414,
+   "gan": 753.86,
+   "nNeta": 54,
+   "neta": 70.32
   }
  ],
- "rentables": 1900,
+ "rentables": 1898,
  "porCapital": [
   {
    "capital": 500,
    "ops": 55,
    "descartadas": 211,
    "neta": 141.59,
-   "dias": 6.17,
-   "semana": 160.55
+   "dias": 6.21,
+   "semana": 159.64
   },
   {
    "capital": 1000,
    "ops": 71,
    "descartadas": 211,
    "neta": 197.52,
-   "dias": 6.17,
-   "semana": 223.97
+   "dias": 6.21,
+   "semana": 222.71
   },
   {
    "capital": 2000,
    "ops": 84,
    "descartadas": 211,
    "neta": 286.98,
-   "dias": 6.17,
-   "semana": 325.41
+   "dias": 6.21,
+   "semana": 323.59
   }
  ],
  "maxBloqueoH": 24,
@@ -101,9 +101,9 @@
   {
    "lunes": "2026-11-09",
    "dias": 6,
-   "horas": 116.7,
-   "episodios": 2208,
-   "sospechosas": 27,
+   "horas": 117.5,
+   "episodios": 2211,
+   "sospechosas": 28,
    "realistaNeta": 260.07,
    "capital": {
     "500": 64.54,
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 109,
+  "n": 110,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,7 +222,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3803,
+  "conDato": 3805,
   "n": 1411,
   "gan": 3783.31,
   "nNeta": 354,
@@ -232,12 +232,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1384
+   "n": 1383
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2235
+   "n": 2236
   },
   {
    "et": "1–5 s",
@@ -247,12 +247,12 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 486
+   "n": 485
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 304
+   "n": 302
   },
   {
    "et": "> 5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794366000000,
-   "n": 1
-  },
   {
    "h": 1794369600000,
    "n": 107
@@ -620,9 +616,37 @@
   {
    "h": 1794632400000,
    "n": 3
+  },
+  {
+   "h": 1794636000000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794637623039,
+   "titulo": "Fujieda MYFC vs. Ventforet Kōfu",
+   "dur": 0.17,
+   "gan": 2.59,
+   "neta": 1.72,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794637467969,
+   "titulo": "Albirex Niigata vs. Tegevajaro Miyazaki",
+   "dur": 0.086,
+   "gan": 2.41,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794636708757,
+   "titulo": "Bahrain vs. Yemen",
+   "dur": 0.021,
+   "gan": 0.73,
+   "neta": 0.02,
+   "lado": "no"
+  },
   {
    "inicio": 1794635019699,
    "titulo": "Shōnan Bellmāre vs. Yokohama FC - Halftime Result",
@@ -715,30 +739,6 @@
    "inicio": 1794623530648,
    "titulo": "Peru vs. Bolivia",
    "dur": 0.029,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794623526719,
-   "titulo": "Peru vs. Bolivia",
-   "dur": 3.906,
-   "gan": 0.7,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794623522791,
-   "titulo": "Peru vs. Bolivia",
-   "dur": 3.329,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794623439049,
-   "titulo": "Peru vs. Bolivia",
-   "dur": 1.845,
    "gan": 0.6,
    "neta": 0,
    "lado": "si"
