@@ -1,84 +1,84 @@
 {
- "actualizado": 1794666268227,
+ "actualizado": 1794669290521,
  "inicio": 1793954888835,
  "ejecucion": {
-  "inicio": 1794663268008,
-  "fin": 1794666268227,
-  "mensajes": 12612900,
+  "inicio": 1794666290317,
+  "fin": 1794669290521,
+  "mensajes": 12028131,
   "reconexiones": 0,
-  "eventos": 638,
+  "eventos": 621,
   "errores": [],
-  "nuevos": 16,
-  "nuevosRentables": 2,
-  "nuevosNeta": 1.66
+  "nuevos": 41,
+  "nuevosRentables": 5,
+  "nuevosNeta": 41.45
  },
- "total": 5901,
- "falsos": 2359,
+ "total": 5939,
+ "falsos": 2376,
  "largos": {
-  "episodios": 13638,
-  "eventos": 153,
+  "episodios": 13651,
+  "eventos": 154,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8469,
+  "episodios": 8406,
   "eventos": 35
  },
- "mediana": 0.553,
+ "mediana": 0.55,
  "captura": [
   {
    "s": 0.5,
-   "n": 3068,
-   "gan": 10246.94,
-   "nNeta": 1016,
-   "neta": 3624.29
+   "n": 3082,
+   "gan": 10318.72,
+   "nNeta": 1024,
+   "neta": 3665.07
   },
   {
    "s": 2,
-   "n": 1474,
-   "gan": 4683.63,
-   "nNeta": 416,
-   "neta": 1650.07
+   "n": 1478,
+   "gan": 4749.06,
+   "nNeta": 420,
+   "neta": 1691.18
   },
   {
    "s": 5,
-   "n": 900,
-   "gan": 2357.41,
-   "nNeta": 176,
-   "neta": 559.92
+   "n": 902,
+   "gan": 2361.96,
+   "nNeta": 178,
+   "neta": 562.82
   },
   {
    "s": 30,
-   "n": 411,
-   "gan": 747.72,
-   "nNeta": 55,
-   "neta": 70.7
+   "n": 412,
+   "gan": 750.42,
+   "nNeta": 56,
+   "neta": 73.04
   }
  ],
- "rentables": 1972,
+ "rentables": 1995,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 59,
-   "descartadas": 218,
-   "neta": 159.78,
-   "dias": 6.52,
-   "semana": 171.49
+   "ops": 62,
+   "descartadas": 219,
+   "neta": 164.55,
+   "dias": 6.56,
+   "semana": 175.67
   },
   {
    "capital": 1000,
-   "ops": 76,
-   "descartadas": 218,
-   "neta": 224.23,
-   "dias": 6.52,
-   "semana": 240.66
+   "ops": 79,
+   "descartadas": 219,
+   "neta": 250.3,
+   "dias": 6.56,
+   "semana": 267.21
   },
   {
    "capital": 2000,
-   "ops": 89,
-   "descartadas": 218,
-   "neta": 313.69,
-   "dias": 6.52,
-   "semana": 336.68
+   "ops": 93,
+   "descartadas": 219,
+   "neta": 354.8,
+   "dias": 6.56,
+   "semana": 378.77
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 6,
-   "horas": 125,
-   "episodios": 2321,
+   "horas": 125.8,
+   "episodios": 2362,
    "sospechosas": 28,
-   "realistaNeta": 289.19,
+   "realistaNeta": 330.64,
    "capital": {
-    "500": 82.73,
-    "1000": 121.92,
-    "2000": 150.76
+    "500": 87.51,
+    "1000": 147.99,
+    "2000": 191.87
    },
    "cumple": true
   }
@@ -222,37 +222,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 3915,
-  "n": 1434,
-  "gan": 3835.4,
-  "nNeta": 366,
-  "neta": 1026.74
+  "conDato": 3956,
+  "n": 1443,
+  "gan": 3905.49,
+  "nNeta": 371,
+  "neta": 1068.19
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1411
+   "n": 1419
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2283
+   "n": 2304
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1301
+   "n": 1308
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 489
+   "n": 490
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 301
+   "n": 302
   },
   {
    "et": "> 5 min",
@@ -297,6 +297,13 @@
    "mediana": 0.385
   },
   {
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "n": 86,
+   "gan": 144.3,
+   "neta": 53.93,
+   "mediana": 0.406
+  },
+  {
    "titulo": "Club Aurora vs. FC Universitario",
    "n": 86,
    "gan": 175.62,
@@ -318,13 +325,6 @@
    "mediana": 0.239
   },
   {
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "n": 74,
-   "gan": 52.68,
-   "neta": 1.11,
-   "mediana": 0.406
-  },
-  {
    "titulo": "Sunderland AFC vs. Chelsea FC",
    "n": 72,
    "gan": 305.32,
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794394800000,
-   "n": 2
-  },
   {
    "h": 1794398400000,
    "n": 2
@@ -619,128 +615,132 @@
   },
   {
    "h": 1794664800000,
-   "n": 9
+   "n": 27
+  },
+  {
+   "h": 1794668400000,
+   "n": 23
   }
  ],
  "recientes": [
   {
-   "inicio": 1794665989126,
-   "titulo": "PAOK vs. First Vienna",
-   "dur": 2.591,
-   "gan": 1.23,
-   "neta": 1.15,
+   "inicio": 1794669289566,
+   "titulo": "Walsall FC vs. Barnet FC",
+   "dur": 0.753,
+   "gan": 0.7,
+   "neta": 0.35,
    "lado": "no"
   },
   {
-   "inicio": 1794665930404,
-   "titulo": "Chelsea FC vs. Manchester City WFC",
-   "dur": 0.702,
-   "gan": 0.75,
-   "neta": 0.08,
+   "inicio": 1794669210801,
+   "titulo": "Kosovo vs. Israel",
+   "dur": 0.353,
+   "gan": 0.76,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794665458339,
-   "titulo": "Highest temperature in Beijing on November 15?",
-   "dur": 0.609,
-   "gan": 1.07,
+   "inicio": 1794669143184,
+   "titulo": "Kosovo vs. Israel",
+   "dur": 0.966,
+   "gan": 0.6,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794665255187,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 20.465,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794665245815,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 9.314,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794665245625,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 0.035,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794665241592,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 3.816,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794665241297,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 0.225,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794665229281,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 11.749,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794664186278,
-   "titulo": "Stockport County FC vs. Reading FC",
-   "dur": 1.302,
-   "gan": 20.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794663983947,
-   "titulo": "China PR vs. Malaysia",
-   "dur": 0.158,
+   "inicio": 1794669017643,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 9.649,
    "gan": 0.61,
-   "neta": 0.5,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794663983785,
-   "titulo": "China PR vs. Malaysia",
-   "dur": 0.062,
+   "inicio": 1794669026501,
+   "titulo": "Stockport County FC vs. Reading FC",
+   "dur": 0.234,
    "gan": 0.6,
-   "neta": 0.49,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794663983627,
-   "titulo": "China PR vs. Malaysia",
-   "dur": 0.073,
-   "gan": 0.6,
-   "neta": 0.49,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794663720687,
-   "titulo": "China PR vs. Malaysia",
-   "dur": 3.314,
-   "gan": 1.05,
-   "neta": 0.7,
+   "neta": 0.11,
    "lado": "no"
   },
   {
-   "inicio": 1794663603743,
-   "titulo": "China PR vs. Malaysia",
-   "dur": 0.957,
+   "inicio": 1794669016111,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 0.22,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794668991213,
+   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
+   "dur": 1.338,
+   "gan": 0.92,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794668833592,
+   "titulo": "Kosovo vs. Israel",
+   "dur": 1.403,
+   "gan": 0.73,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794668744681,
+   "titulo": "Stockport County FC vs. Reading FC",
+   "dur": 0.066,
+   "gan": 1,
+   "neta": 0.45,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794668715076,
+   "titulo": "Walsall FC vs. Barnet FC",
+   "dur": 0.134,
+   "gan": 0.82,
+   "neta": 0.19,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794668712291,
+   "titulo": "Walsall FC vs. Barnet FC",
+   "dur": 0.141,
+   "gan": 1.03,
+   "neta": 0.71,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794668711777,
+   "titulo": "Walsall FC vs. Barnet FC",
+   "dur": 0.481,
    "gan": 0.55,
-   "neta": 0.31,
+   "neta": 0.3,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794668575715,
+   "titulo": "Doncaster Rovers FC vs. Leyton Orient FC",
+   "dur": 0.094,
+   "gan": 1.23,
+   "neta": 1.04,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794668575026,
+   "titulo": "Doncaster Rovers FC vs. Leyton Orient FC",
+   "dur": 0.668,
+   "gan": 0.55,
+   "neta": 0.36,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794668564321,
+   "titulo": "Doncaster Rovers FC vs. Leyton Orient FC",
+   "dur": 0.066,
+   "gan": 0.55,
+   "neta": 0.39,
    "lado": "no"
   }
  ]
