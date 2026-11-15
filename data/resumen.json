@@ -1,22 +1,22 @@
 {
- "actualizado": 1794756727093,
- "inicio": 1794053845004,
+ "actualizado": 1794759742196,
+ "inicio": 1794055974832,
  "ejecucion": {
-  "inicio": 1794753726818,
-  "fin": 1794756727093,
-  "mensajes": 11203947,
-  "reconexiones": 6,
-  "eventos": 590,
+  "inicio": 1794756741932,
+  "fin": 1794759742196,
+  "mensajes": 10149009,
+  "reconexiones": 0,
+  "eventos": 593,
   "errores": [],
-  "nuevos": 36,
-  "nuevosRentables": 2,
-  "nuevosNeta": 0.72
+  "nuevos": 6,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 6089,
- "falsos": 2417,
+ "total": 6074,
+ "falsos": 2399,
  "largos": {
-  "episodios": 13936,
-  "eventos": 156,
+  "episodios": 13973,
+  "eventos": 157,
   "dias": 7
  },
  "enEspera": {
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3194,
-   "gan": 10333.08,
-   "nNeta": 1038,
-   "neta": 3560.81
+   "n": 3186,
+   "gan": 10380.94,
+   "nNeta": 1032,
+   "neta": 3547.72
   },
   {
    "s": 2,
-   "n": 1568,
-   "gan": 4953.25,
-   "nNeta": 437,
-   "neta": 1700.6
+   "n": 1566,
+   "gan": 5008.59,
+   "nNeta": 434,
+   "neta": 1686.49
   },
   {
    "s": 5,
-   "n": 946,
-   "gan": 2502.5,
-   "nNeta": 182,
-   "neta": 552.75
+   "n": 947,
+   "gan": 2574.85,
+   "nNeta": 181,
+   "neta": 551.47
   },
   {
    "s": 30,
    "n": 419,
-   "gan": 757.95,
+   "gan": 830.2,
    "nNeta": 55,
    "neta": 50.2
   }
  ],
- "rentables": 2017,
+ "rentables": 2009,
  "porCapital": [
   {
    "capital": 500,
    "ops": 80,
    "descartadas": 259,
    "neta": 191.61,
-   "dias": 7.57,
-   "semana": 177.2
+   "dias": 7.6,
+   "semana": 176.39
   },
   {
    "capital": 1000,
    "ops": 102,
    "descartadas": 259,
    "neta": 291.95,
-   "dias": 7.57,
-   "semana": 270
+   "dias": 7.6,
+   "semana": 268.76
   },
   {
    "capital": 2000,
    "ops": 119,
    "descartadas": 259,
    "neta": 423.55,
-   "dias": 7.57,
-   "semana": 391.7
+   "dias": 7.6,
+   "semana": 389.91
   }
  ],
  "maxBloqueoH": 24,
@@ -101,9 +101,9 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 150,
-   "episodios": 3232,
-   "sospechosas": 45,
+   "horas": 150.8,
+   "episodios": 3238,
+   "sospechosas": 46,
    "realistaNeta": 415.28,
    "capital": {
     "500": 114.56,
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4809,
-  "n": 1711,
-  "gan": 4501.98,
+  "conDato": 4814,
+  "n": 1716,
+  "gan": 4591.12,
   "nNeta": 437,
   "neta": 1152.83
  },
@@ -232,22 +232,22 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1414
+   "n": 1411
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2366
+   "n": 2359
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1357
+   "n": 1351
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 527
+   "n": 528
   },
   {
    "et": "30 s–5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794488400000,
-   "n": 3
-  },
   {
    "h": 1794492000000,
    "n": 8
@@ -619,10 +615,62 @@
   },
   {
    "h": 1794754800000,
-   "n": 35
+   "n": 36
+  },
+  {
+   "h": 1794758400000,
+   "n": 5
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794758820337,
+   "titulo": "Spain vs. England",
+   "dur": 921.599,
+   "gan": 77.45,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794759154334,
+   "titulo": "Lowest temperature in Munich on November 15?",
+   "dur": 1.023,
+   "gan": 0.75,
+   "neta": 0.67,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794758971331,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 10.875,
+   "gan": 1.14,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794758664516,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 28.107,
+   "gan": 0.81,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794758556103,
+   "titulo": "Spain vs. England",
+   "dur": 1.96,
+   "gan": 7.59,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794757719222,
+   "titulo": "# of views of next MrBeast video on day 1?",
+   "dur": 3.859,
+   "gan": 2.49,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794756337062,
    "titulo": "Cyprus vs. Montenegro",
@@ -694,54 +742,6 @@
    "gan": 0.64,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794755823834,
-   "titulo": "Cyprus vs. Montenegro",
-   "dur": 0.661,
-   "gan": 1.15,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794755823339,
-   "titulo": "Cyprus vs. Montenegro",
-   "dur": 0.113,
-   "gan": 1.59,
-   "neta": 0.15,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794755823014,
-   "titulo": "Cyprus vs. Montenegro",
-   "dur": 0.267,
-   "gan": 17.2,
-   "neta": 0.47,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794755821588,
-   "titulo": "Cyprus vs. Montenegro",
-   "dur": 0.991,
-   "gan": 1.65,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794755782749,
-   "titulo": "Cyprus vs. Montenegro",
-   "dur": 5.286,
-   "gan": 1.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794755731468,
-   "titulo": "GFA Rumilly Vallières vs. AS Saint-Étienne",
-   "dur": 0.986,
-   "gan": 0.5,
-   "neta": 0.33,
-   "lado": "no"
   }
  ]
 }
