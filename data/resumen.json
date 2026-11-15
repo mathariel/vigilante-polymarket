@@ -1,48 +1,48 @@
 {
- "actualizado": 1794771797052,
+ "actualizado": 1794774811915,
  "inicio": 1794063481604,
  "ejecucion": {
-  "inicio": 1794768796744,
-  "fin": 1794771797052,
-  "mensajes": 8946192,
-  "reconexiones": 0,
-  "eventos": 578,
+  "inicio": 1794771811618,
+  "fin": 1794774811915,
+  "mensajes": 10793135,
+  "reconexiones": 2,
+  "eventos": 575,
   "errores": [],
-  "nuevos": 60,
-  "nuevosRentables": 6,
-  "nuevosNeta": 5.88
+  "nuevos": 68,
+  "nuevosRentables": 3,
+  "nuevosNeta": 8.09
  },
- "total": 6065,
- "falsos": 2374,
+ "total": 6128,
+ "falsos": 2398,
  "largos": {
-  "episodios": 14230,
+  "episodios": 14295,
   "eventos": 158,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 7872,
+  "episodios": 7724,
   "eventos": 33
  },
- "mediana": 0.553,
+ "mediana": 0.552,
  "captura": [
   {
    "s": 0.5,
-   "n": 3159,
-   "gan": 9468.57,
-   "nNeta": 1026,
-   "neta": 2764.24
+   "n": 3188,
+   "gan": 9537.68,
+   "nNeta": 1030,
+   "neta": 2771.95
   },
   {
    "s": 2,
-   "n": 1563,
-   "gan": 4693.73,
-   "nNeta": 436,
-   "neta": 1379.77
+   "n": 1575,
+   "gan": 4723.17,
+   "nNeta": 439,
+   "neta": 1387.86
   },
   {
    "s": 5,
-   "n": 942,
-   "gan": 2605.24,
+   "n": 947,
+   "gan": 2610.85,
    "nNeta": 179,
    "neta": 543.54
   },
@@ -54,31 +54,31 @@
    "neta": 46.08
   }
  ],
- "rentables": 2013,
+ "rentables": 2020,
  "porCapital": [
   {
    "capital": 500,
    "ops": 83,
-   "descartadas": 266,
+   "descartadas": 267,
    "neta": 197.32,
-   "dias": 7.74,
-   "semana": 178.37
+   "dias": 7.78,
+   "semana": 177.57
   },
   {
    "capital": 1000,
-   "ops": 106,
-   "descartadas": 266,
-   "neta": 298.15,
-   "dias": 7.74,
-   "semana": 269.52
+   "ops": 108,
+   "descartadas": 267,
+   "neta": 305.82,
+   "dias": 7.78,
+   "semana": 275.21
   },
   {
    "capital": 2000,
-   "ops": 123,
-   "descartadas": 266,
-   "neta": 429.75,
-   "dias": 7.74,
-   "semana": 388.49
+   "ops": 125,
+   "descartadas": 267,
+   "neta": 437.42,
+   "dias": 7.78,
+   "semana": 393.65
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 154.2,
-   "episodios": 3362,
+   "horas": 155,
+   "episodios": 3430,
    "sospechosas": 49,
-   "realistaNeta": 424.35,
+   "realistaNeta": 432.44,
    "capital": {
     "500": 120.27,
-    "1000": 195.84,
-    "2000": 266.82
+    "1000": 203.51,
+    "2000": 274.49
    },
    "cumple": true
   }
@@ -222,32 +222,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4935,
-  "n": 1746,
-  "gan": 4701.37,
-  "nNeta": 448,
-  "neta": 1161.9
+  "conDato": 5003,
+  "n": 1760,
+  "gan": 4732.2,
+  "nNeta": 451,
+  "neta": 1169.99
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1431
+   "n": 1446
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2355
+   "n": 2380
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1331
+   "n": 1349
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 521
+   "n": 526
   },
   {
    "et": "30 s–5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794502800000,
-   "n": 37
-  },
   {
    "h": 1794506400000,
    "n": 77
@@ -619,129 +615,133 @@
   },
   {
    "h": 1794769200000,
-   "n": 60
+   "n": 71
+  },
+  {
+   "h": 1794772800000,
+   "n": 57
   }
  ],
  "recientes": [
   {
-   "inicio": 1794771780810,
-   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
-   "dur": 1.848,
-   "gan": 0.64,
+   "inicio": 1794774785342,
+   "titulo": "Spain vs. England",
+   "dur": 0.391,
+   "gan": 0.61,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794771779684,
-   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
-   "dur": 0.954,
-   "gan": 0.56,
+   "inicio": 1794774765010,
+   "titulo": "Spain vs. England",
+   "dur": 0.476,
+   "gan": 2.93,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794771070397,
-   "titulo": "Highest temperature in NYC on November 16?",
-   "dur": 0.508,
-   "gan": 0.51,
+   "inicio": 1794774757738,
+   "titulo": "Spain vs. England",
+   "dur": 0.547,
+   "gan": 0.53,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794770972957,
-   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
-   "dur": 0.195,
-   "gan": 1.42,
-   "neta": 0.16,
    "lado": "no"
   },
   {
-   "inicio": 1794770600883,
-   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
-   "dur": 8.549,
-   "gan": 0.74,
-   "neta": 0.08,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794770596127,
-   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
-   "dur": 2.911,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794770595855,
-   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
-   "dur": 0.235,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794770595775,
-   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
+   "inicio": 1794774755798,
+   "titulo": "Spain vs. England",
    "dur": 0.052,
-   "gan": 1.2,
+   "gan": 0.6,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794770595194,
-   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
-   "dur": 0.551,
-   "gan": 1.2,
+   "inicio": 1794774755371,
+   "titulo": "Spain vs. England",
+   "dur": 0.376,
+   "gan": 0.6,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794770594829,
-   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
-   "dur": 0.332,
-   "gan": 1.2,
+   "inicio": 1794774755288,
+   "titulo": "Spain vs. England",
+   "dur": 0.029,
+   "gan": 0.6,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794770453245,
-   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
-   "dur": 0.1,
-   "gan": 0.58,
+   "inicio": 1794774754868,
+   "titulo": "Spain vs. England",
+   "dur": 0.34,
+   "gan": 0.6,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794770448712,
-   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
-   "dur": 4.166,
-   "gan": 3.27,
-   "neta": 0.32,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794770441880,
-   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
-   "dur": 4.418,
-   "gan": 1.25,
+   "inicio": 1794774754296,
+   "titulo": "Spain vs. England",
+   "dur": 0.492,
+   "gan": 0.6,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794770257260,
-   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
-   "dur": 2.265,
-   "gan": 0.74,
-   "neta": 0.15,
-   "lado": "si"
+   "inicio": 1794774753635,
+   "titulo": "Spain vs. England",
+   "dur": 0.588,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1794770255646,
-   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
-   "dur": 1.578,
-   "gan": 0.95,
-   "neta": 0.05,
-   "lado": "si"
+   "inicio": 1794774735353,
+   "titulo": "Spain vs. England",
+   "dur": 10.434,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794774735039,
+   "titulo": "Spain vs. England",
+   "dur": 0.256,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794774733641,
+   "titulo": "Spain vs. England",
+   "dur": 1.332,
+   "gan": 1,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794774713797,
+   "titulo": "Spain vs. England",
+   "dur": 0.098,
+   "gan": 1.07,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794774713629,
+   "titulo": "Spain vs. England",
+   "dur": 0.037,
+   "gan": 1.07,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794774711069,
+   "titulo": "Spain vs. England",
+   "dur": 2.311,
+   "gan": 2.19,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
