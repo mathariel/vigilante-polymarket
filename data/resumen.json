@@ -1,21 +1,21 @@
 {
- "actualizado": 1794750700330,
- "inicio": 1794048239774,
+ "actualizado": 1794753713955,
+ "inicio": 1794051352273,
  "ejecucion": {
-  "inicio": 1794747700024,
-  "fin": 1794750700330,
-  "mensajes": 9076593,
-  "reconexiones": 0,
-  "eventos": 588,
+  "inicio": 1794750713660,
+  "fin": 1794753713955,
+  "mensajes": 11238206,
+  "reconexiones": 1,
+  "eventos": 589,
   "errores": [],
-  "nuevos": 6,
+  "nuevos": 12,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6105,
- "falsos": 2414,
+ "total": 6103,
+ "falsos": 2417,
  "largos": {
-  "episodios": 13916,
+  "episodios": 13918,
   "eventos": 155,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 8077,
   "eventos": 32
  },
- "mediana": 0.57,
+ "mediana": 0.567,
  "captura": [
   {
    "s": 0.5,
-   "n": 3205,
-   "gan": 10395.6,
-   "nNeta": 1034,
-   "neta": 3559.2
+   "n": 3202,
+   "gan": 10392.89,
+   "nNeta": 1033,
+   "neta": 3559.09
   },
   {
    "s": 2,
-   "n": 1586,
-   "gan": 5008.42,
-   "nNeta": 440,
-   "neta": 1703.58
+   "n": 1581,
+   "gan": 5003.67,
+   "nNeta": 439,
+   "neta": 1703.47
   },
   {
    "s": 5,
-   "n": 955,
-   "gan": 2533.08,
+   "n": 953,
+   "gan": 2531.82,
    "nNeta": 183,
    "neta": 552.86
   },
   {
    "s": 30,
-   "n": 423,
-   "gan": 778.95,
+   "n": 422,
+   "gan": 778.4,
    "nNeta": 55,
    "neta": 50.2
   }
  ],
- "rentables": 2020,
+ "rentables": 2017,
  "porCapital": [
   {
    "capital": 500,
    "ops": 79,
    "descartadas": 258,
    "neta": 191.09,
-   "dias": 7.5,
-   "semana": 178.36
+   "dias": 7.53,
+   "semana": 177.54
   },
   {
    "capital": 1000,
    "ops": 101,
    "descartadas": 258,
    "neta": 291.43,
-   "dias": 7.5,
-   "semana": 272.02
+   "dias": 7.53,
+   "semana": 270.76
   },
   {
    "capital": 2000,
    "ops": 118,
    "descartadas": 258,
    "neta": 423.03,
-   "dias": 7.5,
-   "semana": 394.86
+   "dias": 7.53,
+   "semana": 393.03
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 148.3,
-   "episodios": 3184,
+   "horas": 149.2,
+   "episodios": 3196,
    "sospechosas": 43,
    "realistaNeta": 414.56,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4763,
-  "n": 1704,
-  "gan": 4486.96,
+  "conDato": 4775,
+  "n": 1706,
+  "gan": 4489.3,
   "nNeta": 435,
   "neta": 1152.11
  },
@@ -237,17 +237,17 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2373
+   "n": 2375
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1362
+   "n": 1360
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 532
+   "n": 531
   },
   {
    "et": "30 s–5 min",
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 102
+   "n": 101
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794481200000,
-   "n": 36
-  },
   {
    "h": 1794484800000,
    "n": 43
@@ -620,9 +616,109 @@
   {
    "h": 1794747600000,
    "n": 6
+  },
+  {
+   "h": 1794751200000,
+   "n": 12
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794752871711,
+   "titulo": "Cyprus vs. Montenegro",
+   "dur": 0.029,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794752546672,
+   "titulo": "Finland vs. San Marino",
+   "dur": 0.095,
+   "gan": 0.79,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794752063509,
+   "titulo": "Cyprus vs. Montenegro",
+   "dur": 0.437,
+   "gan": 2,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794751860813,
+   "titulo": "CD Tenerife vs. AD Ceuta FC",
+   "dur": 0.73,
+   "gan": 1.66,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794751717033,
+   "titulo": "Cyprus vs. Montenegro",
+   "dur": 1.794,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794751711024,
+   "titulo": "Cyprus vs. Montenegro",
+   "dur": 0.223,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794751611570,
+   "titulo": "Cyprus vs. Montenegro",
+   "dur": 1.036,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794751598643,
+   "titulo": "Cyprus vs. Montenegro",
+   "dur": 0.834,
+   "gan": 1.65,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794751594963,
+   "titulo": "Cyprus vs. Montenegro",
+   "dur": 0.369,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794751593336,
+   "titulo": "Cyprus vs. Montenegro",
+   "dur": 1.594,
+   "gan": 1.09,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794751575742,
+   "titulo": "Cyprus vs. Montenegro",
+   "dur": 0.132,
+   "gan": 1.17,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794751387494,
+   "titulo": "Cyprus vs. Montenegro",
+   "dur": 0.388,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794749657372,
    "titulo": "Finland vs. San Marino",
@@ -646,102 +742,6 @@
    "gan": 2.4,
    "neta": 0.8,
    "lado": "si"
-  },
-  {
-   "inicio": 1794748574713,
-   "titulo": "Test Match: South Africa vs Bangladesh",
-   "dur": 0.35,
-   "gan": 0.91,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794748088821,
-   "titulo": "Giugliano Calcio 1928 vs. AC Savoia 1908",
-   "dur": 0.656,
-   "gan": 0.53,
-   "neta": 0.07,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794747934072,
-   "titulo": "CD Tenerife vs. AD Ceuta FC",
-   "dur": 1.26,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794747560567,
-   "titulo": "Amarante FC vs. FC Felgueiras 1932",
-   "dur": 0.777,
-   "gan": 0.6,
-   "neta": 0.55,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794746962234,
-   "titulo": "Latvia vs. Armenia",
-   "dur": 0.117,
-   "gan": 1.94,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794745302189,
-   "titulo": "Highest temperature in Warsaw on November 15?",
-   "dur": 0.015,
-   "gan": 0.51,
-   "neta": 0.28,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794745001114,
-   "titulo": "Highest temperature in Warsaw on November 15?",
-   "dur": 0.023,
-   "gan": 0.83,
-   "neta": 0.69,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794742790436,
-   "titulo": "CD Tondela vs. SC Farense",
-   "dur": 0.82,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794742790408,
-   "titulo": "CD Tondela vs. SC Farense",
-   "dur": 0,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794742790292,
-   "titulo": "CD Tondela vs. SC Farense",
-   "dur": 0.107,
-   "gan": 2.82,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794742492412,
-   "titulo": "Chindia Targoviste vs. FCSB",
-   "dur": 0.846,
-   "gan": 4.27,
-   "neta": 0.23,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794741542374,
-   "titulo": "Test Match: South Africa vs Bangladesh",
-   "dur": 0.774,
-   "gan": 0.88,
-   "neta": 0.12,
-   "lado": "no"
   }
  ]
 }
