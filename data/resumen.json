@@ -1,84 +1,84 @@
 {
- "actualizado": 1794738645417,
+ "actualizado": 1794741660690,
  "inicio": 1794036297551,
  "ejecucion": {
-  "inicio": 1794735645145,
-  "fin": 1794738645417,
-  "mensajes": 8639518,
+  "inicio": 1794738660405,
+  "fin": 1794741660690,
+  "mensajes": 8768274,
   "reconexiones": 0,
-  "eventos": 567,
+  "eventos": 569,
   "errores": [],
-  "nuevos": 2,
+  "nuevos": 1,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6155,
- "falsos": 2428,
+ "total": 6128,
+ "falsos": 2420,
  "largos": {
-  "episodios": 13832,
-  "eventos": 155,
+  "episodios": 13872,
+  "eventos": 156,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8086,
+  "episodios": 8083,
   "eventos": 32
  },
- "mediana": 0.567,
+ "mediana": 0.57,
  "captura": [
   {
    "s": 0.5,
-   "n": 3228,
-   "gan": 10585.53,
-   "nNeta": 1047,
-   "neta": 3697.05
+   "n": 3217,
+   "gan": 10489.36,
+   "nNeta": 1041,
+   "neta": 3628.89
   },
   {
    "s": 2,
-   "n": 1597,
-   "gan": 5028.95,
-   "nNeta": 444,
-   "neta": 1712.09
+   "n": 1590,
+   "gan": 5019.67,
+   "nNeta": 441,
+   "neta": 1710.12
   },
   {
    "s": 5,
-   "n": 961,
-   "gan": 2546.17,
-   "nNeta": 185,
-   "neta": 560.07
+   "n": 958,
+   "gan": 2543.09,
+   "nNeta": 184,
+   "neta": 559.4
   },
   {
    "s": 30,
-   "n": 425,
-   "gan": 788.82,
-   "nNeta": 57,
-   "neta": 57.41
+   "n": 423,
+   "gan": 786.72,
+   "nNeta": 56,
+   "neta": 56.74
   }
  ],
- "rentables": 2043,
+ "rentables": 2035,
  "porCapital": [
   {
    "capital": 500,
    "ops": 79,
    "descartadas": 258,
    "neta": 191.09,
-   "dias": 7.36,
-   "semana": 181.75
+   "dias": 7.39,
+   "semana": 180.89
   },
   {
    "capital": 1000,
    "ops": 101,
    "descartadas": 258,
    "neta": 291.43,
-   "dias": 7.36,
-   "semana": 277.18
+   "dias": 7.39,
+   "semana": 275.87
   },
   {
    "capital": 2000,
    "ops": 118,
    "descartadas": 258,
    "neta": 423.03,
-   "dias": 7.36,
-   "semana": 402.35
+   "dias": 7.39,
+   "semana": 400.45
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 145,
-   "episodios": 3169,
+   "horas": 145.8,
+   "episodios": 3170,
    "sospechosas": 42,
    "realistaNeta": 414.56,
    "capital": {
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 111,
+  "n": 110,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,7 +222,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4749,
+  "conDato": 4750,
   "n": 1703,
   "gan": 4486.27,
   "nNeta": 435,
@@ -232,27 +232,27 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1425
+   "n": 1418
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2389
+   "n": 2378
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1374
+   "n": 1368
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 536
+   "n": 535
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 322
+   "n": 320
   },
   {
    "et": "> 5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794470400000,
-   "n": 3
-  },
   {
    "h": 1794474000000,
    "n": 4
@@ -620,9 +616,21 @@
   {
    "h": 1794736800000,
    "n": 1
+  },
+  {
+   "h": 1794740400000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794741542374,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 0.774,
+   "gan": 0.88,
+   "neta": 0.12,
+   "lado": "no"
+  },
   {
    "inicio": 1794738069985,
    "titulo": "Highest temperature in Istanbul on November 15?",
@@ -734,14 +742,6 @@
    "gan": 3,
    "neta": 1.72,
    "lado": "no"
-  },
-  {
-   "inicio": 1794731731420,
-   "titulo": "Lowest temperature in Tokyo on November 15?",
-   "dur": 0.813,
-   "gan": 1.64,
-   "neta": 1.5,
-   "lado": "si"
   }
  ]
 }
