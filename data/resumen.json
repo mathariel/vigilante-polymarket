@@ -1,36 +1,36 @@
 {
- "actualizado": 1794741660690,
- "inicio": 1794036297551,
+ "actualizado": 1794744673428,
+ "inicio": 1794042274077,
  "ejecucion": {
-  "inicio": 1794738660405,
-  "fin": 1794741660690,
-  "mensajes": 8768274,
+  "inicio": 1794741673145,
+  "fin": 1794744673428,
+  "mensajes": 8915530,
   "reconexiones": 0,
-  "eventos": 569,
+  "eventos": 568,
   "errores": [],
-  "nuevos": 1,
+  "nuevos": 4,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6128,
- "falsos": 2420,
+ "total": 6115,
+ "falsos": 2413,
  "largos": {
-  "episodios": 13872,
-  "eventos": 156,
+  "episodios": 13899,
+  "eventos": 155,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8083,
+  "episodios": 8080,
   "eventos": 32
  },
- "mediana": 0.57,
+ "mediana": 0.571,
  "captura": [
   {
    "s": 0.5,
-   "n": 3217,
-   "gan": 10489.36,
-   "nNeta": 1041,
-   "neta": 3628.89
+   "n": 3212,
+   "gan": 10410.81,
+   "nNeta": 1035,
+   "neta": 3566.43
   },
   {
    "s": 2,
@@ -54,31 +54,31 @@
    "neta": 56.74
   }
  ],
- "rentables": 2035,
+ "rentables": 2022,
  "porCapital": [
   {
    "capital": 500,
    "ops": 79,
    "descartadas": 258,
    "neta": 191.09,
-   "dias": 7.39,
-   "semana": 180.89
+   "dias": 7.43,
+   "semana": 180.04
   },
   {
    "capital": 1000,
    "ops": 101,
    "descartadas": 258,
    "neta": 291.43,
-   "dias": 7.39,
-   "semana": 275.87
+   "dias": 7.43,
+   "semana": 274.58
   },
   {
    "capital": 2000,
    "ops": 118,
    "descartadas": 258,
    "neta": 423.03,
-   "dias": 7.39,
-   "semana": 400.45
+   "dias": 7.43,
+   "semana": 398.57
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 145.8,
-   "episodios": 3170,
+   "horas": 146.7,
+   "episodios": 3174,
    "sospechosas": 42,
    "realistaNeta": 414.56,
    "capital": {
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 110,
+  "n": 109,
   "top": [
    {
     "inicio": 1794062797308,
@@ -157,16 +157,6 @@
     "neta": 66.39,
     "costo": 113.14,
     "ret": 60.3
-   },
-   {
-    "inicio": 1794047787171,
-    "titulo": "Melbourne City FC vs. Western Sydney Wanderers FC",
-    "lado": "no",
-    "dur": 1.089,
-    "gan": 53.35,
-    "neta": 47.75,
-    "costo": 393.09,
-    "ret": 13.6
    },
    {
     "inicio": 1794067485399,
@@ -217,12 +207,22 @@
     "neta": 21.21,
     "costo": 27.76,
     "ret": 80.1
+   },
+   {
+    "inicio": 1794559847719,
+    "titulo": "Highest temperature in Tel Aviv on November 13?",
+    "lado": "si",
+    "dur": 0.028,
+    "gan": 20.77,
+    "neta": 19.22,
+    "costo": 78.47,
+    "ret": 26.5
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4750,
+  "conDato": 4754,
   "n": 1703,
   "gan": 4486.27,
   "nNeta": 435,
@@ -232,17 +232,17 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1418
+   "n": 1414
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2378
+   "n": 2372
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1368
+   "n": 1365
   },
   {
    "et": "5–30 s",
@@ -619,10 +619,42 @@
   },
   {
    "h": 1794740400000,
-   "n": 1
+   "n": 5
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794742790436,
+   "titulo": "CD Tondela vs. SC Farense",
+   "dur": 0.82,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794742790408,
+   "titulo": "CD Tondela vs. SC Farense",
+   "dur": 0,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794742790292,
+   "titulo": "CD Tondela vs. SC Farense",
+   "dur": 0.107,
+   "gan": 2.82,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794742492412,
+   "titulo": "Chindia Targoviste vs. FCSB",
+   "dur": 0.846,
+   "gan": 4.27,
+   "neta": 0.23,
+   "lado": "si"
+  },
   {
    "inicio": 1794741542374,
    "titulo": "Test Match: South Africa vs Bangladesh",
@@ -710,38 +742,6 @@
    "gan": 0.57,
    "neta": 0.42,
    "lado": "si"
-  },
-  {
-   "inicio": 1794734469122,
-   "titulo": "Highest temperature in Ankara on November 15?",
-   "dur": 0.771,
-   "gan": 0.63,
-   "neta": 0.34,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794734469090,
-   "titulo": "Highest temperature in Ankara on November 15?",
-   "dur": 0.001,
-   "gan": 9.63,
-   "neta": 8.77,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794734469055,
-   "titulo": "Highest temperature in Ankara on November 15?",
-   "dur": 0.03,
-   "gan": 4.42,
-   "neta": 3.92,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794731966435,
-   "titulo": "Test Match: South Africa vs Bangladesh",
-   "dur": 3.323,
-   "gan": 3,
-   "neta": 1.72,
-   "lado": "no"
   }
  ]
 }
