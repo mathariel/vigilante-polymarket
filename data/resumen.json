@@ -1,36 +1,36 @@
 {
- "actualizado": 1794744673428,
- "inicio": 1794042274077,
+ "actualizado": 1794747685698,
+ "inicio": 1794045391041,
  "ejecucion": {
-  "inicio": 1794741673145,
-  "fin": 1794744673428,
-  "mensajes": 8915530,
+  "inicio": 1794744685393,
+  "fin": 1794747685699,
+  "mensajes": 8399182,
   "reconexiones": 0,
-  "eventos": 568,
+  "eventos": 552,
   "errores": [],
   "nuevos": 4,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6115,
- "falsos": 2413,
+ "total": 6116,
+ "falsos": 2418,
  "largos": {
-  "episodios": 13899,
-  "eventos": 155,
+  "episodios": 13896,
+  "eventos": 154,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8080,
+  "episodios": 8079,
   "eventos": 32
  },
- "mediana": 0.571,
+ "mediana": 0.573,
  "captura": [
   {
    "s": 0.5,
-   "n": 3212,
-   "gan": 10410.81,
-   "nNeta": 1035,
-   "neta": 3566.43
+   "n": 3213,
+   "gan": 10411.57,
+   "nNeta": 1036,
+   "neta": 3567.12
   },
   {
    "s": 2,
@@ -61,24 +61,24 @@
    "ops": 79,
    "descartadas": 258,
    "neta": 191.09,
-   "dias": 7.43,
-   "semana": 180.04
+   "dias": 7.46,
+   "semana": 179.2
   },
   {
    "capital": 1000,
    "ops": 101,
    "descartadas": 258,
    "neta": 291.43,
-   "dias": 7.43,
-   "semana": 274.58
+   "dias": 7.46,
+   "semana": 273.29
   },
   {
    "capital": 2000,
    "ops": 118,
    "descartadas": 258,
    "neta": 423.03,
-   "dias": 7.43,
-   "semana": 398.57
+   "dias": 7.46,
+   "semana": 396.71
   }
  ],
  "maxBloqueoH": 24,
@@ -101,9 +101,9 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 146.7,
-   "episodios": 3174,
-   "sospechosas": 42,
+   "horas": 147.5,
+   "episodios": 3178,
+   "sospechosas": 43,
    "realistaNeta": 414.56,
    "capital": {
     "500": 114.04,
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 109,
+  "n": 110,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,7 +222,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4754,
+  "conDato": 4757,
   "n": 1703,
   "gan": 4486.27,
   "nNeta": 435,
@@ -232,12 +232,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1414
+   "n": 1413
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2372
+   "n": 2374
   },
   {
    "et": "1–5 s",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794474000000,
-   "n": 4
-  },
   {
    "h": 1794477600000,
    "n": 114
@@ -620,9 +616,45 @@
   {
    "h": 1794740400000,
    "n": 5
+  },
+  {
+   "h": 1794744000000,
+   "n": 4
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794747560567,
+   "titulo": "Amarante FC vs. FC Felgueiras 1932",
+   "dur": 0.777,
+   "gan": 0.6,
+   "neta": 0.55,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794746962234,
+   "titulo": "Latvia vs. Armenia",
+   "dur": 0.117,
+   "gan": 1.94,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794745302189,
+   "titulo": "Highest temperature in Warsaw on November 15?",
+   "dur": 0.015,
+   "gan": 0.51,
+   "neta": 0.28,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794745001114,
+   "titulo": "Highest temperature in Warsaw on November 15?",
+   "dur": 0.023,
+   "gan": 0.83,
+   "neta": 0.69,
+   "lado": "si"
+  },
   {
    "inicio": 1794742790436,
    "titulo": "CD Tondela vs. SC Farense",
@@ -710,38 +742,6 @@
    "gan": 0.6,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1794734691045,
-   "titulo": "Finland vs. San Marino",
-   "dur": 10.113,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794734653701,
-   "titulo": "Finland vs. San Marino",
-   "dur": 37.229,
-   "gan": 0.85,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794734480770,
-   "titulo": "Highest temperature in Ankara on November 15?",
-   "dur": 0.02,
-   "gan": 0.67,
-   "neta": 0.52,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794734480622,
-   "titulo": "Highest temperature in Ankara on November 15?",
-   "dur": 0.043,
-   "gan": 0.57,
-   "neta": 0.42,
-   "lado": "si"
   }
  ]
 }
