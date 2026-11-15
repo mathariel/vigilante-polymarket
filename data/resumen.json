@@ -1,55 +1,55 @@
 {
- "actualizado": 1794723562538,
- "inicio": 1794029981665,
+ "actualizado": 1794726585126,
+ "inicio": 1794032841716,
  "ejecucion": {
-  "inicio": 1794720562284,
-  "fin": 1794723562538,
-  "mensajes": 9431876,
+  "inicio": 1794723584921,
+  "fin": 1794726585126,
+  "mensajes": 8430295,
   "reconexiones": 0,
-  "eventos": 568,
+  "eventos": 563,
   "errores": [],
-  "nuevos": 9,
+  "nuevos": 22,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6144,
- "falsos": 2427,
+ "total": 6162,
+ "falsos": 2428,
  "largos": {
-  "episodios": 13826,
+  "episodios": 13812,
   "eventos": 156,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8088,
+  "episodios": 8086,
   "eventos": 32
  },
- "mediana": 0.564,
+ "mediana": 0.567,
  "captura": [
   {
    "s": 0.5,
-   "n": 3216,
-   "gan": 10585.84,
-   "nNeta": 1045,
-   "neta": 3692.15
+   "n": 3232,
+   "gan": 10598.46,
+   "nNeta": 1044,
+   "neta": 3691.81
   },
   {
    "s": 2,
-   "n": 1585,
-   "gan": 5037.16,
+   "n": 1598,
+   "gan": 5047.98,
    "nNeta": 444,
    "neta": 1718.7
   },
   {
    "s": 5,
-   "n": 947,
-   "gan": 2536.1,
+   "n": 957,
+   "gan": 2544.76,
    "nNeta": 185,
    "neta": 560.07
   },
   {
    "s": 30,
-   "n": 414,
-   "gan": 780.54,
+   "n": 420,
+   "gan": 784.63,
    "nNeta": 57,
    "neta": 57.41
   }
@@ -61,24 +61,24 @@
    "ops": 78,
    "descartadas": 257,
    "neta": 190.77,
-   "dias": 7.19,
-   "semana": 185.85
+   "dias": 7.22,
+   "semana": 184.95
   },
   {
    "capital": 1000,
    "ops": 100,
    "descartadas": 257,
    "neta": 291.11,
-   "dias": 7.19,
-   "semana": 283.6
+   "dias": 7.22,
+   "semana": 282.23
   },
   {
    "capital": 2000,
    "ops": 117,
    "descartadas": 257,
    "neta": 422.71,
-   "dias": 7.19,
-   "semana": 411.81
+   "dias": 7.22,
+   "semana": 409.82
   }
  ],
  "maxBloqueoH": 24,
@@ -101,9 +101,9 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 140.8,
-   "episodios": 3130,
-   "sospechosas": 37,
+   "horas": 141.7,
+   "episodios": 3152,
+   "sospechosas": 38,
    "realistaNeta": 412.14,
    "capital": {
     "500": 113.72,
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 106,
+  "n": 107,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4715,
-  "n": 1677,
-  "gan": 4462.39,
+  "conDato": 4736,
+  "n": 1694,
+  "gan": 4476.16,
   "nNeta": 433,
   "neta": 1149.69
  },
@@ -232,32 +232,32 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1422
+   "n": 1425
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2393
+   "n": 2391
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1376
+   "n": 1383
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 533
+   "n": 537
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 315
+   "n": 318
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 99
+   "n": 102
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794456000000,
-   "n": 16
-  },
   {
    "h": 1794459600000,
    "n": 9
@@ -619,128 +615,132 @@
   },
   {
    "h": 1794722400000,
-   "n": 6
+   "n": 27
+  },
+  {
+   "h": 1794726000000,
+   "n": 1
   }
  ],
  "recientes": [
   {
-   "inicio": 1794723534505,
+   "inicio": 1794726438255,
    "titulo": "Elon Musk # tweets November 16 - November 18, 2026?",
-   "dur": 0.315,
-   "gan": 0.56,
+   "dur": 146.67,
+   "gan": 0.76,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794723525765,
+   "inicio": 1794725835404,
    "titulo": "Elon Musk # tweets November 16 - November 18, 2026?",
-   "dur": 8.686,
-   "gan": 0.56,
+   "dur": 602.622,
+   "gan": 0.83,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794723525218,
+   "inicio": 1794725917212,
+   "titulo": "Highest temperature in Chengdu on November 15?",
+   "dur": 0.023,
+   "gan": 1.75,
+   "neta": 1.47,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794725640040,
    "titulo": "Elon Musk # tweets November 16 - November 18, 2026?",
-   "dur": 0.518,
-   "gan": 0.56,
+   "dur": 195.32,
+   "gan": 0.77,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794723509205,
+   "inicio": 1794725748140,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 8.918,
+   "gan": 2.01,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794725738155,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 2.068,
+   "gan": 1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794725385154,
    "titulo": "Elon Musk # tweets November 16 - November 18, 2026?",
-   "dur": 15.967,
-   "gan": 0.56,
+   "dur": 254.79,
+   "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794723462557,
-   "titulo": "Highest temperature in Shenzhen on November 15?",
-   "dur": 0.018,
-   "gan": 0.58,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794722709634,
-   "titulo": "GFA Rumilly Vallières vs. AS Saint-Étienne",
-   "dur": 1.491,
-   "gan": 1.05,
+   "inicio": 1794725441859,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 1.326,
+   "gan": 0.67,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794721524096,
-   "titulo": "Kataller Toyama vs. Tokushima Vortis",
-   "dur": 0.866,
-   "gan": 0.7,
+   "inicio": 1794725441386,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 0.096,
+   "gan": 0.67,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794720600721,
-   "titulo": "Hokkaidō Consadole Sapporo vs. Sagan Tosu",
-   "dur": 0.582,
-   "gan": 1.38,
-   "neta": 0.53,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794720600676,
-   "titulo": "Hokkaidō Consadole Sapporo vs. Sagan Tosu",
-   "dur": 0.037,
-   "gan": 0.7,
-   "neta": 0.28,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794720386278,
-   "titulo": "FC Imabari vs. Júbilo Iwata",
-   "dur": 0.676,
-   "gan": 0.85,
-   "neta": 0.59,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794720385993,
-   "titulo": "FC Imabari vs. Júbilo Iwata",
-   "dur": 0.129,
-   "gan": 0.64,
+   "inicio": 1794725416025,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 25.182,
+   "gan": 1,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794719052063,
-   "titulo": "Vanraure Hachinohe FC vs. Iwaki FC",
-   "dur": 0.082,
-   "gan": 0.53,
+   "inicio": 1794725388006,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 15.971,
+   "gan": 1,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794717634325,
-   "titulo": "NVIDIA (NVDA) Q3 adjusted gross margin (non-GAAP)?",
-   "dur": 12.518,
-   "gan": 0.53,
+   "inicio": 1794724540381,
+   "titulo": "Elon Musk # tweets November 16 - November 18, 2026?",
+   "dur": 812.878,
+   "gan": 0.52,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794717630493,
-   "titulo": "NVIDIA (NVDA) Q3 adjusted gross margin (non-GAAP)?",
-   "dur": 3.387,
-   "gan": 0.71,
+   "inicio": 1794725295959,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 1.977,
+   "gan": 0.75,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794714892688,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 1.912,
-   "gan": 1.66,
-   "neta": 0.3,
+   "inicio": 1794725291446,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 1.999,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794724728999,
+   "titulo": "Highest temperature in Hong Kong on November 15?",
+   "dur": 0.015,
+   "gan": 0.51,
+   "neta": 0.16,
    "lado": "si"
   }
  ]
