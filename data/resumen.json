@@ -1,48 +1,48 @@
 {
- "actualizado": 1794714514913,
- "inicio": 1794015291786,
+ "actualizado": 1794717528415,
+ "inicio": 1794018270163,
  "ejecucion": {
-  "inicio": 1794711514601,
-  "fin": 1794714514913,
-  "mensajes": 9830453,
+  "inicio": 1794714528108,
+  "fin": 1794717528415,
+  "mensajes": 10697801,
   "reconexiones": 0,
-  "eventos": 565,
+  "eventos": 560,
   "errores": [],
-  "nuevos": 5,
-  "nuevosRentables": 3,
-  "nuevosNeta": 0.15
+  "nuevos": 1,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.17
  },
- "total": 6223,
- "falsos": 2438,
+ "total": 6211,
+ "falsos": 2434,
  "largos": {
-  "episodios": 13713,
+  "episodios": 13735,
   "eventos": 155,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8098,
+  "episodios": 8096,
   "eventos": 32
  },
  "mediana": 0.563,
  "captura": [
   {
    "s": 0.5,
-   "n": 3256,
-   "gan": 10763.74,
-   "nNeta": 1058,
-   "neta": 3748.77
+   "n": 3249,
+   "gan": 10630.65,
+   "nNeta": 1056,
+   "neta": 3697.16
   },
   {
    "s": 2,
-   "n": 1595,
-   "gan": 5059.58,
+   "n": 1593,
+   "gan": 5051.83,
    "nNeta": 448,
    "neta": 1719.73
   },
   {
    "s": 5,
-   "n": 953,
-   "gan": 2545.88,
+   "n": 952,
+   "gan": 2544.88,
    "nNeta": 186,
    "neta": 560.14
   },
@@ -54,31 +54,31 @@
    "neta": 57.41
   }
  ],
- "rentables": 2058,
+ "rentables": 2055,
  "porCapital": [
   {
    "capital": 500,
    "ops": 78,
-   "descartadas": 256,
+   "descartadas": 257,
    "neta": 190.77,
-   "dias": 7.08,
-   "semana": 188.6
+   "dias": 7.12,
+   "semana": 187.67
   },
   {
    "capital": 1000,
    "ops": 100,
-   "descartadas": 256,
+   "descartadas": 257,
    "neta": 291.11,
-   "dias": 7.08,
-   "semana": 287.8
+   "dias": 7.12,
+   "semana": 286.39
   },
   {
    "capital": 2000,
    "ops": 117,
-   "descartadas": 256,
+   "descartadas": 257,
    "neta": 422.71,
-   "dias": 7.08,
-   "semana": 417.9
+   "dias": 7.12,
+   "semana": 415.85
   }
  ],
  "maxBloqueoH": 24,
@@ -101,10 +101,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 6,
-   "horas": 138.3,
-   "episodios": 3115,
+   "horas": 139.2,
+   "episodios": 3116,
    "sospechosas": 37,
-   "realistaNeta": 411.97,
+   "realistaNeta": 412.14,
    "capital": {
     "500": 113.72,
     "1000": 188.8,
@@ -222,32 +222,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4700,
-  "n": 1671,
-  "gan": 4458.43,
-  "nNeta": 432,
-  "neta": 1149.52
+  "conDato": 4701,
+  "n": 1672,
+  "gan": 4459.47,
+  "nNeta": 433,
+  "neta": 1149.69
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1439
+   "n": 1436
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2431
+   "n": 2428
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1394
+   "n": 1389
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 536
+   "n": 535
   },
   {
    "et": "30 s–5 min",
@@ -619,10 +619,18 @@
   },
   {
    "h": 1794711600000,
-   "n": 5
+   "n": 6
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794714892688,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 1.912,
+   "gan": 1.66,
+   "neta": 0.3,
+   "lado": "si"
+  },
   {
    "inicio": 1794713449958,
    "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
@@ -734,14 +742,6 @@
    "gan": 2.23,
    "neta": 2.13,
    "lado": "si"
-  },
-  {
-   "inicio": 1794708767046,
-   "titulo": "Jamaica vs. Mexico",
-   "dur": 0.12,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
