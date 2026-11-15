@@ -1,48 +1,48 @@
 {
- "actualizado": 1794705466117,
+ "actualizado": 1794708486213,
  "inicio": 1794005734525,
  "ejecucion": {
-  "inicio": 1794702465825,
-  "fin": 1794705466117,
-  "mensajes": 8419997,
+  "inicio": 1794705486008,
+  "fin": 1794708486213,
+  "mensajes": 8481570,
   "reconexiones": 0,
-  "eventos": 564,
+  "eventos": 561,
   "errores": [],
-  "nuevos": 27,
-  "nuevosRentables": 11,
-  "nuevosNeta": 5.66
+  "nuevos": 4,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 6293,
- "falsos": 2452,
+ "total": 6275,
+ "falsos": 2451,
  "largos": {
-  "episodios": 13593,
+  "episodios": 13621,
   "eventos": 151,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8112,
+  "episodios": 8111,
   "eventos": 32
  },
- "mediana": 0.563,
+ "mediana": 0.565,
  "captura": [
   {
    "s": 0.5,
-   "n": 3291,
-   "gan": 10862.24,
-   "nNeta": 1071,
-   "neta": 3753.88
+   "n": 3284,
+   "gan": 10844.49,
+   "nNeta": 1069,
+   "neta": 3753.41
   },
   {
    "s": 2,
-   "n": 1604,
-   "gan": 5082.97,
+   "n": 1602,
+   "gan": 5081.01,
    "nNeta": 450,
    "neta": 1720.87
   },
   {
    "s": 5,
-   "n": 957,
-   "gan": 2560.88,
+   "n": 955,
+   "gan": 2559.01,
    "nNeta": 185,
    "neta": 560.03
   },
@@ -54,31 +54,31 @@
    "neta": 57.41
   }
  ],
- "rentables": 2090,
+ "rentables": 2079,
  "porCapital": [
   {
    "capital": 500,
    "ops": 78,
    "descartadas": 253,
    "neta": 190.77,
-   "dias": 6.98,
-   "semana": 191.43
+   "dias": 7.01,
+   "semana": 190.48
   },
   {
    "capital": 1000,
    "ops": 100,
    "descartadas": 253,
    "neta": 291.11,
-   "dias": 6.98,
-   "semana": 292.12
+   "dias": 7.01,
+   "semana": 290.66
   },
   {
    "capital": 2000,
    "ops": 117,
    "descartadas": 253,
    "neta": 422.71,
-   "dias": 6.98,
-   "semana": 424.18
+   "dias": 7.01,
+   "semana": 422.06
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 6,
-   "horas": 135.8,
-   "episodios": 3096,
+   "horas": 136.7,
+   "episodios": 3100,
    "sospechosas": 36,
    "realistaNeta": 411.82,
    "capital": {
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 108,
+  "n": 107,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4682,
-  "n": 1666,
-  "gan": 4455.25,
+  "conDato": 4686,
+  "n": 1667,
+  "gan": 4455.92,
   "nNeta": 429,
   "neta": 1149.37
  },
@@ -232,22 +232,22 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1456
+   "n": 1451
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2458
+   "n": 2451
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1413
+   "n": 1409
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 538
+   "n": 536
   },
   {
    "et": "30 s–5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794434400000,
-   "n": 12
-  },
   {
    "h": 1794438000000,
    "n": 26
@@ -619,10 +615,46 @@
   },
   {
    "h": 1794704400000,
-   "n": 15
+   "n": 18
+  },
+  {
+   "h": 1794708000000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794708166702,
+   "titulo": "Jamaica vs. Mexico",
+   "dur": 0.115,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794706033367,
+   "titulo": "Jamaica vs. Mexico",
+   "dur": 0.585,
+   "gan": 0.95,
+   "neta": 0.48,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794706032963,
+   "titulo": "Jamaica vs. Mexico - Halftime Result",
+   "dur": 0.07,
+   "gan": 2.18,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794705808554,
+   "titulo": "Jamaica vs. Mexico",
+   "dur": 3.511,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794705449868,
    "titulo": "New Zealand vs. India",
@@ -709,38 +741,6 @@
    "dur": 3.819,
    "gan": 1.57,
    "neta": 1.14,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794704506178,
-   "titulo": "Querétaro FC vs. CF Monterrey",
-   "dur": 4.502,
-   "gan": 0.6,
-   "neta": 0.24,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794704505505,
-   "titulo": "Querétaro FC vs. CF Monterrey",
-   "dur": 0.615,
-   "gan": 0.67,
-   "neta": 0.27,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794704504372,
-   "titulo": "Querétaro FC vs. CF Monterrey",
-   "dur": 1.09,
-   "gan": 0.87,
-   "neta": 0.46,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794704503476,
-   "titulo": "Querétaro FC vs. CF Monterrey",
-   "dur": 0.754,
-   "gan": 0.66,
-   "neta": 0.32,
    "lado": "si"
   }
  ]
