@@ -1,84 +1,84 @@
 {
- "actualizado": 1794774811915,
+ "actualizado": 1794777825293,
  "inicio": 1794063481604,
  "ejecucion": {
-  "inicio": 1794771811618,
-  "fin": 1794774811915,
-  "mensajes": 10793135,
-  "reconexiones": 2,
-  "eventos": 575,
+  "inicio": 1794774825011,
+  "fin": 1794777825293,
+  "mensajes": 9865409,
+  "reconexiones": 1,
+  "eventos": 574,
   "errores": [],
-  "nuevos": 68,
-  "nuevosRentables": 3,
-  "nuevosNeta": 8.09
+  "nuevos": 180,
+  "nuevosRentables": 6,
+  "nuevosNeta": 6.14
  },
- "total": 6128,
- "falsos": 2398,
+ "total": 6296,
+ "falsos": 2423,
  "largos": {
-  "episodios": 14295,
+  "episodios": 14311,
   "eventos": 158,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 7724,
+  "episodios": 7520,
   "eventos": 33
  },
- "mediana": 0.552,
+ "mediana": 0.535,
  "captura": [
   {
    "s": 0.5,
-   "n": 3188,
-   "gan": 9537.68,
-   "nNeta": 1030,
-   "neta": 2771.95
+   "n": 3239,
+   "gan": 9634.28,
+   "nNeta": 1041,
+   "neta": 2769.03
   },
   {
    "s": 2,
-   "n": 1575,
-   "gan": 4723.17,
-   "nNeta": 439,
-   "neta": 1387.86
+   "n": 1595,
+   "gan": 4747.61,
+   "nNeta": 442,
+   "neta": 1387.9
   },
   {
    "s": 5,
-   "n": 947,
-   "gan": 2610.85,
+   "n": 951,
+   "gan": 2602.99,
    "nNeta": 179,
-   "neta": 543.54
+   "neta": 541.54
   },
   {
    "s": 30,
    "n": 421,
-   "gan": 882.78,
+   "gan": 881.19,
    "nNeta": 54,
    "neta": 46.08
   }
  ],
- "rentables": 2020,
+ "rentables": 2049,
  "porCapital": [
   {
    "capital": 500,
    "ops": 83,
-   "descartadas": 267,
+   "descartadas": 272,
    "neta": 197.32,
-   "dias": 7.78,
-   "semana": 177.57
+   "dias": 7.81,
+   "semana": 176.78
   },
   {
    "capital": 1000,
-   "ops": 108,
-   "descartadas": 267,
-   "neta": 305.82,
-   "dias": 7.78,
-   "semana": 275.21
+   "ops": 109,
+   "descartadas": 272,
+   "neta": 307.92,
+   "dias": 7.81,
+   "semana": 275.87
   },
   {
    "capital": 2000,
-   "ops": 125,
-   "descartadas": 267,
-   "neta": 437.42,
-   "dias": 7.78,
-   "semana": 393.65
+   "ops": 126,
+   "descartadas": 272,
+   "neta": 439.52,
+   "dias": 7.81,
+   "semana": 393.77
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 155,
-   "episodios": 3430,
+   "horas": 155.8,
+   "episodios": 3610,
    "sospechosas": 49,
-   "realistaNeta": 432.44,
+   "realistaNeta": 438.58,
    "capital": {
     "500": 120.27,
-    "1000": 203.51,
-    "2000": 274.49
+    "1000": 205.61,
+    "2000": 276.59
    },
    "cumple": true
   }
@@ -222,32 +222,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5003,
-  "n": 1760,
-  "gan": 4732.2,
-  "nNeta": 451,
-  "neta": 1169.99
+  "conDato": 5183,
+  "n": 1789,
+  "gan": 4803.41,
+  "nNeta": 457,
+  "neta": 1176.13
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1446
+   "n": 1519
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2380
+   "n": 2435
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1349
+   "n": 1385
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 526
+   "n": 530
   },
   {
    "et": "30 s–5 min",
@@ -274,6 +274,13 @@
    "gan": 781.01,
    "neta": 271.05,
    "mediana": 2.599
+  },
+  {
+   "titulo": "Spain vs. England",
+   "n": 191,
+   "gan": 450.2,
+   "neta": 14.1,
+   "mediana": 0.176
   },
   {
    "titulo": "Manchester United FC vs. Aston Villa FC",
@@ -323,20 +330,9 @@
    "gan": 101.38,
    "neta": 9.94,
    "mediana": 0.483
-  },
-  {
-   "titulo": "Deportivo Pereira vs. América de Cali",
-   "n": 81,
-   "gan": 178.04,
-   "neta": 10.69,
-   "mediana": 2.719
   }
  ],
  "porHora": [
-  {
-   "h": 1794506400000,
-   "n": 77
-  },
   {
    "h": 1794510000000,
    "n": 74
@@ -619,127 +615,131 @@
   },
   {
    "h": 1794772800000,
-   "n": 57
+   "n": 78
+  },
+  {
+   "h": 1794776400000,
+   "n": 159
   }
  ],
  "recientes": [
   {
-   "inicio": 1794774785342,
-   "titulo": "Spain vs. England",
-   "dur": 0.391,
-   "gan": 0.61,
+   "inicio": 1794777547273,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 277.741,
+   "gan": 3.53,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794774765010,
+   "inicio": 1794777823418,
    "titulo": "Spain vs. England",
-   "dur": 0.476,
-   "gan": 2.93,
+   "dur": 0.069,
+   "gan": 0.64,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794774757738,
+   "inicio": 1794777823283,
    "titulo": "Spain vs. England",
-   "dur": 0.547,
-   "gan": 0.53,
+   "dur": 0.123,
+   "gan": 1.43,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794774755798,
+   "inicio": 1794777815243,
    "titulo": "Spain vs. England",
-   "dur": 0.052,
-   "gan": 0.6,
+   "dur": 0.285,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794777815124,
+   "titulo": "Spain vs. England",
+   "dur": 0.032,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794777815037,
+   "titulo": "Spain vs. England",
+   "dur": 0.086,
+   "gan": 2.38,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794777811420,
+   "titulo": "Spain vs. England",
+   "dur": 1.326,
+   "gan": 1.95,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794777811076,
+   "titulo": "Spain vs. England",
+   "dur": 0.308,
+   "gan": 2.01,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794777770222,
+   "titulo": "France vs. Türkiye",
+   "dur": 3.324,
+   "gan": 1.51,
+   "neta": 0.81,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794777769749,
+   "titulo": "Spain vs. England",
+   "dur": 0.292,
+   "gan": 0.62,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794774755371,
+   "inicio": 1794777759807,
+   "titulo": "France vs. Türkiye",
+   "dur": 0.503,
+   "gan": 2.87,
+   "neta": 0.98,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794777695529,
    "titulo": "Spain vs. England",
-   "dur": 0.376,
-   "gan": 0.6,
+   "dur": 0.571,
+   "gan": 1.43,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794774755288,
+   "inicio": 1794777639108,
+   "titulo": "Belgium vs. Italy",
+   "dur": 0.104,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794777628037,
    "titulo": "Spain vs. England",
-   "dur": 0.029,
-   "gan": 0.6,
+   "dur": 0.053,
+   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794774754868,
+   "inicio": 1794777626577,
    "titulo": "Spain vs. England",
-   "dur": 0.34,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794774754296,
-   "titulo": "Spain vs. England",
-   "dur": 0.492,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794774753635,
-   "titulo": "Spain vs. England",
-   "dur": 0.588,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794774735353,
-   "titulo": "Spain vs. England",
-   "dur": 10.434,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794774735039,
-   "titulo": "Spain vs. England",
-   "dur": 0.256,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794774733641,
-   "titulo": "Spain vs. England",
-   "dur": 1.332,
-   "gan": 1,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794774713797,
-   "titulo": "Spain vs. England",
-   "dur": 0.098,
-   "gan": 1.07,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794774713629,
-   "titulo": "Spain vs. England",
-   "dur": 0.037,
-   "gan": 1.07,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794774711069,
-   "titulo": "Spain vs. England",
-   "dur": 2.311,
-   "gan": 2.19,
+   "dur": 1.419,
+   "gan": 0.55,
    "neta": 0,
    "lado": "no"
   }
