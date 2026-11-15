@@ -1,84 +1,84 @@
 {
- "actualizado": 1794783853908,
+ "actualizado": 1794786868655,
  "inicio": 1794063481604,
  "ejecucion": {
-  "inicio": 1794780853604,
-  "fin": 1794783853908,
-  "mensajes": 7431744,
+  "inicio": 1794783868415,
+  "fin": 1794786868655,
+  "mensajes": 8438360,
   "reconexiones": 0,
-  "eventos": 555,
+  "eventos": 543,
   "errores": [],
-  "nuevos": 6,
+  "nuevos": 9,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6382,
- "falsos": 2471,
+ "total": 6391,
+ "falsos": 2488,
  "largos": {
-  "episodios": 14427,
-  "eventos": 161,
+  "episodios": 14486,
+  "eventos": 162,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 7284,
+  "episodios": 7209,
   "eventos": 33
  },
- "mediana": 0.53,
+ "mediana": 0.532,
  "captura": [
   {
    "s": 0.5,
-   "n": 3272,
-   "gan": 9794.24,
-   "nNeta": 1040,
-   "neta": 2782.56
+   "n": 3278,
+   "gan": 9807.57,
+   "nNeta": 1042,
+   "neta": 2791.48
   },
   {
    "s": 2,
-   "n": 1610,
-   "gan": 4782.04,
+   "n": 1614,
+   "gan": 4784.51,
    "nNeta": 440,
    "neta": 1387.26
   },
   {
    "s": 5,
-   "n": 963,
-   "gan": 2636.56,
+   "n": 966,
+   "gan": 2638.42,
    "nNeta": 179,
    "neta": 541.54
   },
   {
    "s": 30,
-   "n": 428,
-   "gan": 897.62,
+   "n": 430,
+   "gan": 898.94,
    "nNeta": 54,
    "neta": 46.08
   }
  ],
- "rentables": 2059,
+ "rentables": 2063,
  "porCapital": [
   {
    "capital": 500,
    "ops": 83,
    "descartadas": 273,
    "neta": 197.32,
-   "dias": 7.88,
-   "semana": 175.22
+   "dias": 7.92,
+   "semana": 174.44
   },
   {
    "capital": 1000,
    "ops": 109,
    "descartadas": 273,
    "neta": 307.92,
-   "dias": 7.88,
-   "semana": 273.42
+   "dias": 7.92,
+   "semana": 272.22
   },
   {
    "capital": 2000,
    "ops": 126,
    "descartadas": 273,
    "neta": 439.52,
-   "dias": 7.88,
-   "semana": 390.28
+   "dias": 7.92,
+   "semana": 388.56
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 157.5,
-   "episodios": 3715,
+   "horas": 158.3,
+   "episodios": 3724,
    "sospechosas": 50,
    "realistaNeta": 438.82,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5287,
-  "n": 1813,
-  "gan": 4849.53,
+  "conDato": 5296,
+  "n": 1817,
+  "gan": 4852,
   "nNeta": 458,
   "neta": 1176.37
  },
@@ -232,27 +232,27 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1551
+   "n": 1553
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2467
+   "n": 2470
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1395
+   "n": 1396
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 535
+   "n": 536
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 324
+   "n": 326
   },
   {
    "et": "> 5 min",
@@ -619,10 +619,82 @@
   },
   {
    "h": 1794783600000,
-   "n": 1
+   "n": 10
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794786440095,
+   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
+   "dur": 7.287,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794786181565,
+   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
+   "dur": 244.788,
+   "gan": 0.81,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794786365091,
+   "titulo": "Panama vs. Curaçao",
+   "dur": 0.666,
+   "gan": 3.22,
+   "neta": 1.73,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794786364937,
+   "titulo": "Panama vs. Curaçao - Halftime Result",
+   "dur": 0.819,
+   "gan": 0.52,
+   "neta": 0.17,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794786179501,
+   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
+   "dur": 2.033,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794786138157,
+   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
+   "dur": 41.302,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794786121066,
+   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
+   "dur": 0.019,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794785879137,
+   "titulo": "Highest temperature in Tokyo on November 16?",
+   "dur": 0.017,
+   "gan": 0.65,
+   "neta": 0.09,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794784874139,
+   "titulo": "CSD Suchitepéquez vs. Antigua GFC",
+   "dur": 0.361,
+   "gan": 1.4,
+   "neta": 0.94,
+   "lado": "no"
+  },
   {
    "inicio": 1794783721931,
    "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
@@ -669,78 +741,6 @@
    "dur": 37.58,
    "gan": 0.59,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794780821765,
-   "titulo": "# of views of next MrBeast video on week 1?",
-   "dur": 16.942,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794780814101,
-   "titulo": "# of views of next MrBeast video on week 1?",
-   "dur": 6.72,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794780798077,
-   "titulo": "# of views of next MrBeast video on week 1?",
-   "dur": 12.125,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794779497408,
-   "titulo": "# of views of next MrBeast video on week 1?",
-   "dur": 1299.662,
-   "gan": 1.03,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794779059780,
-   "titulo": "Test Match: South Africa vs Bangladesh",
-   "dur": 615.003,
-   "gan": 3.43,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794779618940,
-   "titulo": "NJ/NY Gotham FC vs. Kansas City Current",
-   "dur": 1.033,
-   "gan": 101.92,
-   "neta": 14.01,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794779597123,
-   "titulo": "ADC Juan Pablo II College vs. CD Garcilaso",
-   "dur": 0.041,
-   "gan": 1.31,
-   "neta": 0.23,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794778839542,
-   "titulo": "# of views of next MrBeast video on week 1?",
-   "dur": 649.559,
-   "gan": 1.37,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794779044244,
-   "titulo": "Spain vs. England",
-   "dur": 0.124,
-   "gan": 0.86,
-   "neta": 0.4,
    "lado": "si"
   }
  ]
