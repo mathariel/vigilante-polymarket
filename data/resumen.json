@@ -1,84 +1,84 @@
 {
- "actualizado": 1794732613313,
+ "actualizado": 1794735628061,
  "inicio": 1794036297551,
  "ejecucion": {
-  "inicio": 1794729613048,
-  "fin": 1794732613313,
-  "mensajes": 8637287,
-  "reconexiones": 1,
+  "inicio": 1794732627760,
+  "fin": 1794735628061,
+  "mensajes": 8890914,
+  "reconexiones": 0,
   "eventos": 562,
   "errores": [],
-  "nuevos": 2,
+  "nuevos": 10,
   "nuevosRentables": 1,
-  "nuevosNeta": 2.1
+  "nuevosNeta": 0.32
  },
- "total": 6159,
- "falsos": 2425,
+ "total": 6160,
+ "falsos": 2426,
  "largos": {
-  "episodios": 13824,
-  "eventos": 156,
+  "episodios": 13825,
+  "eventos": 155,
   "dias": 7
  },
  "enEspera": {
   "episodios": 8086,
   "eventos": 32
  },
- "mediana": 0.567,
+ "mediana": 0.565,
  "captura": [
   {
    "s": 0.5,
-   "n": 3230,
-   "gan": 10599.62,
+   "n": 3228,
+   "gan": 10575.69,
    "nNeta": 1046,
-   "neta": 3695.41
+   "neta": 3687.02
   },
   {
    "s": 2,
-   "n": 1597,
-   "gan": 5049.9,
-   "nNeta": 445,
-   "neta": 1720.8
+   "n": 1598,
+   "gan": 5029.88,
+   "nNeta": 444,
+   "neta": 1712.09
   },
   {
    "s": 5,
-   "n": 959,
-   "gan": 2546.4,
+   "n": 962,
+   "gan": 2547.1,
    "nNeta": 185,
    "neta": 560.07
   },
   {
    "s": 30,
-   "n": 422,
-   "gan": 786.27,
+   "n": 424,
+   "gan": 788.24,
    "nNeta": 57,
    "neta": 57.41
   }
  ],
- "rentables": 2039,
+ "rentables": 2042,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 78,
+   "ops": 79,
    "descartadas": 258,
-   "neta": 190.77,
-   "dias": 7.29,
-   "semana": 183.18
+   "neta": 191.09,
+   "dias": 7.32,
+   "semana": 182.61
   },
   {
    "capital": 1000,
-   "ops": 100,
+   "ops": 101,
    "descartadas": 258,
-   "neta": 291.11,
-   "dias": 7.29,
-   "semana": 279.53
+   "neta": 291.43,
+   "dias": 7.32,
+   "semana": 278.5
   },
   {
    "capital": 2000,
-   "ops": 117,
+   "ops": 118,
    "descartadas": 258,
-   "neta": 422.71,
-   "dias": 7.29,
-   "semana": 405.89
+   "neta": 423.03,
+   "dias": 7.32,
+   "semana": 404.27
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 143.3,
-   "episodios": 3156,
-   "sospechosas": 39,
-   "realistaNeta": 414.24,
+   "horas": 144.2,
+   "episodios": 3166,
+   "sospechosas": 41,
+   "realistaNeta": 414.56,
    "capital": {
-    "500": 113.72,
-    "1000": 188.8,
-    "2000": 259.78
+    "500": 114.04,
+    "1000": 189.12,
+    "2000": 260.1
    },
    "cumple": true
   }
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 108,
+  "n": 110,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,17 +222,17 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4739,
-  "n": 1697,
-  "gan": 4481.77,
-  "nNeta": 434,
-  "neta": 1151.79
+  "conDato": 4747,
+  "n": 1702,
+  "gan": 4485.69,
+  "nNeta": 435,
+  "neta": 1152.11
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1425
+   "n": 1428
   },
   {
    "et": "0.1–1 s",
@@ -242,22 +242,22 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1379
+   "n": 1374
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 537
+   "n": 538
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 320
+   "n": 321
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 102
+   "n": 103
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794463200000,
-   "n": 3
-  },
   {
    "h": 1794466800000,
    "n": 5
@@ -620,9 +616,93 @@
   {
    "h": 1794729600000,
    "n": 2
+  },
+  {
+   "h": 1794733200000,
+   "n": 10
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794734714928,
+   "titulo": "Finland vs. San Marino",
+   "dur": 912.835,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794734941180,
+   "titulo": "Granada CF vs. UD Las Palmas",
+   "dur": 0.202,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794734701200,
+   "titulo": "Finland vs. San Marino",
+   "dur": 13.699,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794734691045,
+   "titulo": "Finland vs. San Marino",
+   "dur": 10.113,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794734653701,
+   "titulo": "Finland vs. San Marino",
+   "dur": 37.229,
+   "gan": 0.85,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794734480770,
+   "titulo": "Highest temperature in Ankara on November 15?",
+   "dur": 0.02,
+   "gan": 0.67,
+   "neta": 0.52,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794734480622,
+   "titulo": "Highest temperature in Ankara on November 15?",
+   "dur": 0.043,
+   "gan": 0.57,
+   "neta": 0.42,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794734469122,
+   "titulo": "Highest temperature in Ankara on November 15?",
+   "dur": 0.771,
+   "gan": 0.63,
+   "neta": 0.34,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794734469090,
+   "titulo": "Highest temperature in Ankara on November 15?",
+   "dur": 0.001,
+   "gan": 9.63,
+   "neta": 8.77,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794734469055,
+   "titulo": "Highest temperature in Ankara on November 15?",
+   "dur": 0.03,
+   "gan": 4.42,
+   "neta": 3.92,
+   "lado": "si"
+  },
   {
    "inicio": 1794731966435,
    "titulo": "Test Match: South Africa vs Bangladesh",
@@ -660,86 +740,6 @@
    "titulo": "Elon Musk # tweets November 16 - November 18, 2026?",
    "dur": 146.67,
    "gan": 0.76,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794725835404,
-   "titulo": "Elon Musk # tweets November 16 - November 18, 2026?",
-   "dur": 602.622,
-   "gan": 0.83,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794725917212,
-   "titulo": "Highest temperature in Chengdu on November 15?",
-   "dur": 0.023,
-   "gan": 1.75,
-   "neta": 1.47,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794725640040,
-   "titulo": "Elon Musk # tweets November 16 - November 18, 2026?",
-   "dur": 195.32,
-   "gan": 0.77,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794725748140,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 8.918,
-   "gan": 2.01,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794725738155,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 2.068,
-   "gan": 1,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794725385154,
-   "titulo": "Elon Musk # tweets November 16 - November 18, 2026?",
-   "dur": 254.79,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794725441859,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 1.326,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794725441386,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 0.096,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794725416025,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 25.182,
-   "gan": 1,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794725388006,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 15.971,
-   "gan": 1,
    "neta": 0,
    "lado": "si"
   }
