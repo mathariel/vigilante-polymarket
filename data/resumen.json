@@ -1,21 +1,21 @@
 {
- "actualizado": 1794735628061,
+ "actualizado": 1794738645417,
  "inicio": 1794036297551,
  "ejecucion": {
-  "inicio": 1794732627760,
-  "fin": 1794735628061,
-  "mensajes": 8890914,
+  "inicio": 1794735645145,
+  "fin": 1794738645417,
+  "mensajes": 8639518,
   "reconexiones": 0,
-  "eventos": 562,
+  "eventos": 567,
   "errores": [],
-  "nuevos": 10,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.32
+  "nuevos": 2,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 6160,
- "falsos": 2426,
+ "total": 6155,
+ "falsos": 2428,
  "largos": {
-  "episodios": 13825,
+  "episodios": 13832,
   "eventos": 155,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 8086,
   "eventos": 32
  },
- "mediana": 0.565,
+ "mediana": 0.567,
  "captura": [
   {
    "s": 0.5,
    "n": 3228,
-   "gan": 10575.69,
-   "nNeta": 1046,
-   "neta": 3687.02
+   "gan": 10585.53,
+   "nNeta": 1047,
+   "neta": 3697.05
   },
   {
    "s": 2,
-   "n": 1598,
-   "gan": 5029.88,
+   "n": 1597,
+   "gan": 5028.95,
    "nNeta": 444,
    "neta": 1712.09
   },
   {
    "s": 5,
-   "n": 962,
-   "gan": 2547.1,
+   "n": 961,
+   "gan": 2546.17,
    "nNeta": 185,
    "neta": 560.07
   },
   {
    "s": 30,
-   "n": 424,
-   "gan": 788.24,
+   "n": 425,
+   "gan": 788.82,
    "nNeta": 57,
    "neta": 57.41
   }
  ],
- "rentables": 2042,
+ "rentables": 2043,
  "porCapital": [
   {
    "capital": 500,
    "ops": 79,
    "descartadas": 258,
    "neta": 191.09,
-   "dias": 7.32,
-   "semana": 182.61
+   "dias": 7.36,
+   "semana": 181.75
   },
   {
    "capital": 1000,
    "ops": 101,
    "descartadas": 258,
    "neta": 291.43,
-   "dias": 7.32,
-   "semana": 278.5
+   "dias": 7.36,
+   "semana": 277.18
   },
   {
    "capital": 2000,
    "ops": 118,
    "descartadas": 258,
    "neta": 423.03,
-   "dias": 7.32,
-   "semana": 404.27
+   "dias": 7.36,
+   "semana": 402.35
   }
  ],
  "maxBloqueoH": 24,
@@ -101,9 +101,9 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 144.2,
-   "episodios": 3166,
-   "sospechosas": 41,
+   "horas": 145,
+   "episodios": 3169,
+   "sospechosas": 42,
    "realistaNeta": 414.56,
    "capital": {
     "500": 114.04,
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 110,
+  "n": 111,
   "top": [
    {
     "inicio": 1794062797308,
@@ -147,6 +147,16 @@
     "neta": 242.2,
     "costo": 1694.22,
     "ret": 16.7
+   },
+   {
+    "inicio": 1794738069985,
+    "titulo": "Highest temperature in Istanbul on November 15?",
+    "lado": "si",
+    "dur": 0.631,
+    "gan": 68.21,
+    "neta": 66.39,
+    "costo": 113.14,
+    "ret": 60.3
    },
    {
     "inicio": 1794047787171,
@@ -207,24 +217,14 @@
     "neta": 21.21,
     "costo": 27.76,
     "ret": 80.1
-   },
-   {
-    "inicio": 1794559847719,
-    "titulo": "Highest temperature in Tel Aviv on November 13?",
-    "lado": "si",
-    "dur": 0.028,
-    "gan": 20.77,
-    "neta": 19.22,
-    "costo": 78.47,
-    "ret": 26.5
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4747,
-  "n": 1702,
-  "gan": 4485.69,
+  "conDato": 4749,
+  "n": 1703,
+  "gan": 4486.27,
   "nNeta": 435,
   "neta": 1152.11
  },
@@ -232,12 +232,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1428
+   "n": 1425
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2390
+   "n": 2389
   },
   {
    "et": "1–5 s",
@@ -247,12 +247,12 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 538
+   "n": 536
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 321
+   "n": 322
   },
   {
    "et": "> 5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794466800000,
-   "n": 5
-  },
   {
    "h": 1794470400000,
    "n": 3
@@ -619,10 +615,38 @@
   },
   {
    "h": 1794733200000,
-   "n": 10
+   "n": 12
+  },
+  {
+   "h": 1794736800000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794738069985,
+   "titulo": "Highest temperature in Istanbul on November 15?",
+   "dur": 0.631,
+   "gan": 68.21,
+   "neta": 66.39,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794736542434,
+   "titulo": "Highest temperature in Dallas on November 15?",
+   "dur": 0.018,
+   "gan": 1.38,
+   "neta": 1.07,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794735593123,
+   "titulo": "Finland vs. San Marino",
+   "dur": 97.212,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794734714928,
    "titulo": "Finland vs. San Marino",
@@ -717,30 +741,6 @@
    "dur": 0.813,
    "gan": 1.64,
    "neta": 1.5,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794726639540,
-   "titulo": "Elon Musk # tweets November 16 - November 18, 2026?",
-   "dur": 181.712,
-   "gan": 0.82,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794726535197,
-   "titulo": "Elon Musk # tweets November 16 - November 18, 2026?",
-   "dur": 104.252,
-   "gan": 0.79,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794726438255,
-   "titulo": "Elon Musk # tweets November 16 - November 18, 2026?",
-   "dur": 146.67,
-   "gan": 0.76,
-   "neta": 0,
    "lado": "si"
   }
  ]
