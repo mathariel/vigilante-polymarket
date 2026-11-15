@@ -1,84 +1,84 @@
 {
- "actualizado": 1794759742196,
+ "actualizado": 1794762755728,
  "inicio": 1794055974832,
  "ejecucion": {
-  "inicio": 1794756741932,
-  "fin": 1794759742196,
-  "mensajes": 10149009,
+  "inicio": 1794759755483,
+  "fin": 1794762755728,
+  "mensajes": 10163911,
   "reconexiones": 0,
-  "eventos": 593,
+  "eventos": 598,
   "errores": [],
-  "nuevos": 6,
+  "nuevos": 28,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6074,
- "falsos": 2399,
+ "total": 6055,
+ "falsos": 2383,
  "largos": {
-  "episodios": 13973,
-  "eventos": 157,
+  "episodios": 14015,
+  "eventos": 156,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8076,
+  "episodios": 8075,
   "eventos": 32
  },
- "mediana": 0.567,
+ "mediana": 0.561,
  "captura": [
   {
    "s": 0.5,
-   "n": 3186,
-   "gan": 10380.94,
-   "nNeta": 1032,
-   "neta": 3547.72
+   "n": 3165,
+   "gan": 10389.45,
+   "nNeta": 1025,
+   "neta": 3533.07
   },
   {
    "s": 2,
-   "n": 1566,
-   "gan": 5008.59,
-   "nNeta": 434,
-   "neta": 1686.49
+   "n": 1559,
+   "gan": 5048.91,
+   "nNeta": 431,
+   "neta": 1681.54
   },
   {
    "s": 5,
    "n": 947,
-   "gan": 2574.85,
-   "nNeta": 181,
-   "neta": 551.47
+   "gan": 2622.82,
+   "nNeta": 179,
+   "neta": 546.65
   },
   {
    "s": 30,
-   "n": 419,
-   "gan": 830.2,
-   "nNeta": 55,
-   "neta": 50.2
+   "n": 421,
+   "gan": 882.78,
+   "nNeta": 54,
+   "neta": 46.08
   }
  ],
- "rentables": 2009,
+ "rentables": 2000,
  "porCapital": [
   {
    "capital": 500,
    "ops": 80,
    "descartadas": 259,
    "neta": 191.61,
-   "dias": 7.6,
-   "semana": 176.39
+   "dias": 7.64,
+   "semana": 175.58
   },
   {
    "capital": 1000,
    "ops": 102,
    "descartadas": 259,
    "neta": 291.95,
-   "dias": 7.6,
-   "semana": 268.76
+   "dias": 7.64,
+   "semana": 267.53
   },
   {
    "capital": 2000,
    "ops": 119,
    "descartadas": 259,
    "neta": 423.55,
-   "dias": 7.6,
-   "semana": 389.91
+   "dias": 7.64,
+   "semana": 388.13
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 150.8,
-   "episodios": 3238,
+   "horas": 151.7,
+   "episodios": 3266,
    "sospechosas": 46,
    "realistaNeta": 415.28,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4814,
-  "n": 1716,
-  "gan": 4591.12,
+  "conDato": 4842,
+  "n": 1722,
+  "gan": 4652.9,
   "nNeta": 437,
   "neta": 1152.83
  },
@@ -232,27 +232,27 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1411
+   "n": 1412
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2359
+   "n": 2360
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1351
+   "n": 1330
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 528
+   "n": 526
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 320
+   "n": 322
   },
   {
    "et": "> 5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794492000000,
-   "n": 8
-  },
   {
    "h": 1794495600000,
    "n": 10
@@ -619,129 +615,133 @@
   },
   {
    "h": 1794758400000,
-   "n": 5
+   "n": 19
+  },
+  {
+   "h": 1794762000000,
+   "n": 14
   }
  ],
  "recientes": [
   {
-   "inicio": 1794758820337,
-   "titulo": "Spain vs. England",
-   "dur": 921.599,
-   "gan": 77.45,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794759154334,
-   "titulo": "Lowest temperature in Munich on November 15?",
-   "dur": 1.023,
-   "gan": 0.75,
-   "neta": 0.67,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794758971331,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 10.875,
-   "gan": 1.14,
+   "inicio": 1794762659867,
+   "titulo": "Granada CF vs. UD Las Palmas",
+   "dur": 0.978,
+   "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794758664516,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 28.107,
-   "gan": 0.81,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794758556103,
-   "titulo": "Spain vs. England",
-   "dur": 1.96,
-   "gan": 7.59,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794757719222,
-   "titulo": "# of views of next MrBeast video on day 1?",
-   "dur": 3.859,
-   "gan": 2.49,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794756337062,
-   "titulo": "Cyprus vs. Montenegro",
-   "dur": 1.144,
-   "gan": 0.6,
-   "neta": 0.13,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794756334078,
-   "titulo": "GFA Rumilly Vallières vs. AS Saint-Étienne",
-   "dur": 0.966,
-   "gan": 0.5,
-   "neta": 0.34,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794756328680,
-   "titulo": "Cyprus vs. Montenegro",
-   "dur": 0.894,
-   "gan": 0.6,
-   "neta": 0.13,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794756152238,
-   "titulo": "Highest temperature in Houston on November 17?",
-   "dur": 0.024,
+   "inicio": 1794762659744,
+   "titulo": "Granada CF vs. UD Las Palmas",
+   "dur": 0.028,
    "gan": 0.52,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794762659677,
+   "titulo": "Granada CF vs. UD Las Palmas",
+   "dur": 0.03,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794762659592,
+   "titulo": "Granada CF vs. UD Las Palmas",
+   "dur": 0.045,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794762659128,
+   "titulo": "Granada CF vs. UD Las Palmas",
+   "dur": 0.301,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794762658875,
+   "titulo": "Granada CF vs. UD Las Palmas",
+   "dur": 0.092,
+   "gan": 2.06,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794762658745,
+   "titulo": "Granada CF vs. UD Las Palmas",
+   "dur": 0.006,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794762658675,
+   "titulo": "Granada CF vs. UD Las Palmas",
+   "dur": 0.002,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794762658518,
+   "titulo": "Granada CF vs. UD Las Palmas",
+   "dur": 0.025,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794762658447,
+   "titulo": "Granada CF vs. UD Las Palmas",
+   "dur": 0.071,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794762658350,
+   "titulo": "Granada CF vs. UD Las Palmas",
+   "dur": 0.007,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794762658260,
+   "titulo": "Granada CF vs. UD Las Palmas",
+   "dur": 0.089,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794762470923,
+   "titulo": "\"Ebenezer\" Opening Weekend Box Office",
+   "dur": 0.592,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794762342328,
+   "titulo": "Arsenal WFC vs. London City Lionesses",
+   "dur": 0.149,
+   "gan": 1.44,
+   "neta": 0.19,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794759756521,
+   "titulo": "Spain vs. England",
+   "dur": 2315.918,
+   "gan": 54.8,
+   "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1794755843237,
-   "titulo": "Cyprus vs. Montenegro",
-   "dur": 0.563,
-   "gan": 0.77,
-   "neta": 0.31,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794755841692,
-   "titulo": "Cyprus vs. Montenegro",
-   "dur": 0.175,
-   "gan": 1.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794755833638,
-   "titulo": "Cyprus vs. Montenegro",
-   "dur": 2.318,
-   "gan": 3.7,
-   "neta": 0.09,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794755830652,
-   "titulo": "Cyprus vs. Montenegro",
-   "dur": 2.969,
-   "gan": 1.31,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794755824786,
-   "titulo": "Cyprus vs. Montenegro",
-   "dur": 0.019,
-   "gan": 0.64,
-   "neta": 0,
-   "lado": "si"
   }
  ]
 }
