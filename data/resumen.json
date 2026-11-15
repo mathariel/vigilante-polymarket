@@ -1,21 +1,21 @@
 {
- "actualizado": 1794729598585,
+ "actualizado": 1794732613313,
  "inicio": 1794036297551,
  "ejecucion": {
-  "inicio": 1794726598291,
-  "fin": 1794729598585,
-  "mensajes": 8222903,
-  "reconexiones": 0,
-  "eventos": 551,
+  "inicio": 1794729613048,
+  "fin": 1794732613313,
+  "mensajes": 8637287,
+  "reconexiones": 1,
+  "eventos": 562,
   "errores": [],
-  "nuevos": 1,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 2,
+  "nuevosRentables": 1,
+  "nuevosNeta": 2.1
  },
- "total": 6164,
+ "total": 6159,
  "falsos": 2425,
  "largos": {
-  "episodios": 13815,
+  "episodios": 13824,
   "eventos": 156,
   "dias": 7
  },
@@ -23,21 +23,21 @@
   "episodios": 8086,
   "eventos": 32
  },
- "mediana": 0.57,
+ "mediana": 0.567,
  "captura": [
   {
    "s": 0.5,
-   "n": 3234,
-   "gan": 10600.07,
-   "nNeta": 1044,
-   "neta": 3691.81
+   "n": 3230,
+   "gan": 10599.62,
+   "nNeta": 1046,
+   "neta": 3695.41
   },
   {
    "s": 2,
-   "n": 1600,
-   "gan": 5049.62,
-   "nNeta": 444,
-   "neta": 1718.7
+   "n": 1597,
+   "gan": 5049.9,
+   "nNeta": 445,
+   "neta": 1720.8
   },
   {
    "s": 5,
@@ -54,31 +54,31 @@
    "neta": 57.41
   }
  ],
- "rentables": 2037,
+ "rentables": 2039,
  "porCapital": [
   {
    "capital": 500,
    "ops": 78,
-   "descartadas": 257,
+   "descartadas": 258,
    "neta": 190.77,
-   "dias": 7.26,
-   "semana": 184.06
+   "dias": 7.29,
+   "semana": 183.18
   },
   {
    "capital": 1000,
    "ops": 100,
-   "descartadas": 257,
+   "descartadas": 258,
    "neta": 291.11,
-   "dias": 7.26,
-   "semana": 280.87
+   "dias": 7.29,
+   "semana": 279.53
   },
   {
    "capital": 2000,
    "ops": 117,
-   "descartadas": 257,
+   "descartadas": 258,
    "neta": 422.71,
-   "dias": 7.26,
-   "semana": 407.85
+   "dias": 7.29,
+   "semana": 405.89
   }
  ],
  "maxBloqueoH": 24,
@@ -101,10 +101,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 142.5,
-   "episodios": 3154,
-   "sospechosas": 38,
-   "realistaNeta": 412.14,
+   "horas": 143.3,
+   "episodios": 3156,
+   "sospechosas": 39,
+   "realistaNeta": 414.24,
    "capital": {
     "500": 113.72,
     "1000": 188.8,
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 107,
+  "n": 108,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,11 +222,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4738,
-  "n": 1696,
-  "gan": 4477.77,
-  "nNeta": 433,
-  "neta": 1149.69
+  "conDato": 4739,
+  "n": 1697,
+  "gan": 4481.77,
+  "nNeta": 434,
+  "neta": 1151.79
  },
  "duraciones": [
   {
@@ -237,12 +237,12 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2391
+   "n": 2390
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1383
+   "n": 1379
   },
   {
    "et": "5–30 s",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794459600000,
-   "n": 9
-  },
   {
    "h": 1794463200000,
    "n": 3
@@ -620,9 +616,29 @@
   {
    "h": 1794726000000,
    "n": 3
+  },
+  {
+   "h": 1794729600000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794731966435,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 3.323,
+   "gan": 3,
+   "neta": 1.72,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794731731420,
+   "titulo": "Lowest temperature in Tokyo on November 15?",
+   "dur": 0.813,
+   "gan": 1.64,
+   "neta": 1.5,
+   "lado": "si"
+  },
   {
    "inicio": 1794726639540,
    "titulo": "Elon Musk # tweets November 16 - November 18, 2026?",
@@ -724,22 +740,6 @@
    "titulo": "Test Match: Afghanistan vs Zimbabwe",
    "dur": 15.971,
    "gan": 1,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794724540381,
-   "titulo": "Elon Musk # tweets November 16 - November 18, 2026?",
-   "dur": 812.878,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794725295959,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 1.977,
-   "gan": 0.75,
    "neta": 0,
    "lado": "si"
   }
