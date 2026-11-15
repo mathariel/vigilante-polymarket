@@ -1,84 +1,84 @@
 {
- "actualizado": 1794711502084,
- "inicio": 1794006122503,
+ "actualizado": 1794714514913,
+ "inicio": 1794015291786,
  "ejecucion": {
-  "inicio": 1794708501789,
-  "fin": 1794711502084,
-  "mensajes": 9711657,
+  "inicio": 1794711514601,
+  "fin": 1794714514913,
+  "mensajes": 9830453,
   "reconexiones": 0,
-  "eventos": 570,
+  "eventos": 565,
   "errores": [],
-  "nuevos": 10,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 5,
+  "nuevosRentables": 3,
+  "nuevosNeta": 0.15
  },
- "total": 6234,
- "falsos": 2439,
+ "total": 6223,
+ "falsos": 2438,
  "largos": {
-  "episodios": 13692,
-  "eventos": 153,
+  "episodios": 13713,
+  "eventos": 155,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8101,
+  "episodios": 8098,
   "eventos": 32
  },
- "mediana": 0.565,
+ "mediana": 0.563,
  "captura": [
   {
    "s": 0.5,
-   "n": 3265,
-   "gan": 10791.07,
-   "nNeta": 1059,
-   "neta": 3749.95
+   "n": 3256,
+   "gan": 10763.74,
+   "nNeta": 1058,
+   "neta": 3748.77
   },
   {
    "s": 2,
-   "n": 1597,
-   "gan": 5074.35,
-   "nNeta": 447,
-   "neta": 1720.35
+   "n": 1595,
+   "gan": 5059.58,
+   "nNeta": 448,
+   "neta": 1719.73
   },
   {
    "s": 5,
-   "n": 954,
-   "gan": 2558.49,
-   "nNeta": 184,
-   "neta": 560.02
+   "n": 953,
+   "gan": 2545.88,
+   "nNeta": 186,
+   "neta": 560.14
   },
   {
    "s": 30,
-   "n": 419,
-   "gan": 798.35,
+   "n": 417,
+   "gan": 784.71,
    "nNeta": 57,
    "neta": 57.41
   }
  ],
- "rentables": 2061,
+ "rentables": 2058,
  "porCapital": [
   {
    "capital": 500,
    "ops": 78,
-   "descartadas": 253,
+   "descartadas": 256,
    "neta": 190.77,
-   "dias": 7.05,
-   "semana": 189.53
+   "dias": 7.08,
+   "semana": 188.6
   },
   {
    "capital": 1000,
    "ops": 100,
-   "descartadas": 253,
+   "descartadas": 256,
    "neta": 291.11,
-   "dias": 7.05,
-   "semana": 289.22
+   "dias": 7.08,
+   "semana": 287.8
   },
   {
    "capital": 2000,
    "ops": 117,
-   "descartadas": 253,
+   "descartadas": 256,
    "neta": 422.71,
-   "dias": 7.05,
-   "semana": 419.97
+   "dias": 7.08,
+   "semana": 417.9
   }
  ],
  "maxBloqueoH": 24,
@@ -101,10 +101,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 6,
-   "horas": 137.5,
-   "episodios": 3110,
+   "horas": 138.3,
+   "episodios": 3115,
    "sospechosas": 37,
-   "realistaNeta": 411.82,
+   "realistaNeta": 411.97,
    "capital": {
     "500": 113.72,
     "1000": 188.8,
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 108,
+  "n": 106,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,32 +222,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4695,
-  "n": 1667,
-  "gan": 4455.92,
-  "nNeta": 429,
-  "neta": 1149.37
+  "conDato": 4700,
+  "n": 1671,
+  "gan": 4458.43,
+  "nNeta": 432,
+  "neta": 1149.52
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1440
+   "n": 1439
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2437
+   "n": 2431
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1397
+   "n": 1394
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 535
+   "n": 536
   },
   {
    "et": "30 s–5 min",
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 101
+   "n": 99
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794438000000,
-   "n": 26
-  },
   {
    "h": 1794441600000,
    "n": 4
@@ -620,9 +616,53 @@
   {
    "h": 1794708000000,
    "n": 11
+  },
+  {
+   "h": 1794711600000,
+   "n": 5
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794713449958,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 17.914,
+   "gan": 0.69,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794713407790,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 2.774,
+   "gan": 0.64,
+   "neta": 0.06,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794713405146,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 1.076,
+   "gan": 0.64,
+   "neta": 0.06,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794713405073,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 0.041,
+   "gan": 0.54,
+   "neta": 0.06,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794713150359,
+   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
+   "dur": 8.223,
+   "gan": 0.54,
+   "neta": 0.03,
+   "lado": "si"
+  },
   {
    "inicio": 1794711005241,
    "titulo": "Jamaica vs. Mexico",
@@ -701,46 +741,6 @@
    "dur": 0.12,
    "gan": 0.5,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794708166702,
-   "titulo": "Jamaica vs. Mexico",
-   "dur": 0.115,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794706033367,
-   "titulo": "Jamaica vs. Mexico",
-   "dur": 0.585,
-   "gan": 0.95,
-   "neta": 0.48,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794706032963,
-   "titulo": "Jamaica vs. Mexico - Halftime Result",
-   "dur": 0.07,
-   "gan": 2.18,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794705808554,
-   "titulo": "Jamaica vs. Mexico",
-   "dur": 3.511,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794705449868,
-   "titulo": "New Zealand vs. India",
-   "dur": 0.015,
-   "gan": 1.83,
-   "neta": 0.16,
    "lado": "no"
   }
  ]
