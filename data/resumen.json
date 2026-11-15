@@ -1,84 +1,84 @@
 {
- "actualizado": 1794717528415,
- "inicio": 1794018270163,
+ "actualizado": 1794720548774,
+ "inicio": 1794021224138,
  "ejecucion": {
-  "inicio": 1794714528108,
-  "fin": 1794717528415,
-  "mensajes": 10697801,
+  "inicio": 1794717548444,
+  "fin": 1794720548774,
+  "mensajes": 10195438,
   "reconexiones": 0,
-  "eventos": 560,
+  "eventos": 563,
   "errores": [],
-  "nuevos": 1,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.17
+  "nuevos": 5,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 6211,
- "falsos": 2434,
+ "total": 6180,
+ "falsos": 2418,
  "largos": {
-  "episodios": 13735,
-  "eventos": 155,
+  "episodios": 13795,
+  "eventos": 156,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8096,
+  "episodios": 8090,
   "eventos": 32
  },
  "mediana": 0.563,
  "captura": [
   {
    "s": 0.5,
-   "n": 3249,
-   "gan": 10630.65,
-   "nNeta": 1056,
-   "neta": 3697.16
+   "n": 3233,
+   "gan": 10600.86,
+   "nNeta": 1054,
+   "neta": 3694.78
   },
   {
    "s": 2,
-   "n": 1593,
-   "gan": 5051.83,
-   "nNeta": 448,
-   "neta": 1719.73
+   "n": 1588,
+   "gan": 5043.35,
+   "nNeta": 447,
+   "neta": 1719.66
   },
   {
    "s": 5,
-   "n": 952,
-   "gan": 2544.88,
-   "nNeta": 186,
-   "neta": 560.14
+   "n": 947,
+   "gan": 2537.52,
+   "nNeta": 185,
+   "neta": 560.07
   },
   {
    "s": 30,
-   "n": 417,
-   "gan": 784.71,
+   "n": 414,
+   "gan": 780.54,
    "nNeta": 57,
    "neta": 57.41
   }
  ],
- "rentables": 2055,
+ "rentables": 2050,
  "porCapital": [
   {
    "capital": 500,
    "ops": 78,
    "descartadas": 257,
    "neta": 190.77,
-   "dias": 7.12,
-   "semana": 187.67
+   "dias": 7.15,
+   "semana": 186.76
   },
   {
    "capital": 1000,
    "ops": 100,
    "descartadas": 257,
    "neta": 291.11,
-   "dias": 7.12,
-   "semana": 286.39
+   "dias": 7.15,
+   "semana": 284.99
   },
   {
    "capital": 2000,
    "ops": 117,
    "descartadas": 257,
    "neta": 422.71,
-   "dias": 7.12,
-   "semana": 415.85
+   "dias": 7.15,
+   "semana": 413.82
   }
  ],
  "maxBloqueoH": 24,
@@ -100,9 +100,9 @@
   },
   {
    "lunes": "2026-11-09",
-   "dias": 6,
-   "horas": 139.2,
-   "episodios": 3116,
+   "dias": 7,
+   "horas": 140,
+   "episodios": 3121,
    "sospechosas": 37,
    "realistaNeta": 412.14,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4701,
-  "n": 1672,
-  "gan": 4459.47,
+  "conDato": 4706,
+  "n": 1674,
+  "gan": 4460.71,
   "nNeta": 433,
   "neta": 1149.69
  },
@@ -232,27 +232,27 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1436
+   "n": 1434
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2428
+   "n": 2407
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1389
+   "n": 1386
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 535
+   "n": 533
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 318
+   "n": 315
   },
   {
    "et": "> 5 min",
@@ -333,14 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794441600000,
-   "n": 4
-  },
-  {
-   "h": 1794445200000,
-   "n": 1
-  },
   {
    "h": 1794448800000,
    "n": 3
@@ -620,9 +612,57 @@
   {
    "h": 1794711600000,
    "n": 6
+  },
+  {
+   "h": 1794715200000,
+   "n": 2
+  },
+  {
+   "h": 1794718800000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794720386278,
+   "titulo": "FC Imabari vs. Júbilo Iwata",
+   "dur": 0.676,
+   "gan": 0.85,
+   "neta": 0.59,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794720385993,
+   "titulo": "FC Imabari vs. Júbilo Iwata",
+   "dur": 0.129,
+   "gan": 0.64,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794719052063,
+   "titulo": "Vanraure Hachinohe FC vs. Iwaki FC",
+   "dur": 0.082,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794717634325,
+   "titulo": "NVIDIA (NVDA) Q3 adjusted gross margin (non-GAAP)?",
+   "dur": 12.518,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794717630493,
+   "titulo": "NVIDIA (NVDA) Q3 adjusted gross margin (non-GAAP)?",
+   "dur": 3.387,
+   "gan": 0.71,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794714892688,
    "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
@@ -702,46 +742,6 @@
    "gan": 18.41,
    "neta": 15.73,
    "lado": "no"
-  },
-  {
-   "inicio": 1794710008928,
-   "titulo": "Jamaica vs. Mexico",
-   "dur": 0.667,
-   "gan": 0.7,
-   "neta": 0.62,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794710008863,
-   "titulo": "Jamaica vs. Mexico",
-   "dur": 0.022,
-   "gan": 0.7,
-   "neta": 0.62,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794710008844,
-   "titulo": "Jamaica vs. Mexico",
-   "dur": 0.011,
-   "gan": 13.44,
-   "neta": 11.67,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794710006427,
-   "titulo": "Jamaica vs. Mexico",
-   "dur": 0.75,
-   "gan": 0.55,
-   "neta": 0.43,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794709497985,
-   "titulo": "Lowest temperature in London on November 15?",
-   "dur": 0.875,
-   "gan": 2.23,
-   "neta": 2.13,
-   "lado": "si"
   }
  ]
 }
