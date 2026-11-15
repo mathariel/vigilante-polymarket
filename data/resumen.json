@@ -1,50 +1,50 @@
 {
- "actualizado": 1794702451851,
- "inicio": 1794003203041,
+ "actualizado": 1794705466117,
+ "inicio": 1794005734525,
  "ejecucion": {
-  "inicio": 1794699451626,
-  "fin": 1794702451851,
-  "mensajes": 9507247,
+  "inicio": 1794702465825,
+  "fin": 1794705466117,
+  "mensajes": 8419997,
   "reconexiones": 0,
-  "eventos": 579,
+  "eventos": 564,
   "errores": [],
-  "nuevos": 28,
-  "nuevosRentables": 6,
-  "nuevosNeta": 7.99
+  "nuevos": 27,
+  "nuevosRentables": 11,
+  "nuevosNeta": 5.66
  },
- "total": 6316,
- "falsos": 2445,
+ "total": 6293,
+ "falsos": 2452,
  "largos": {
-  "episodios": 13570,
+  "episodios": 13593,
   "eventos": 151,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8111,
+  "episodios": 8112,
   "eventos": 32
  },
- "mediana": 0.553,
+ "mediana": 0.563,
  "captura": [
   {
    "s": 0.5,
-   "n": 3285,
-   "gan": 10857.22,
-   "nNeta": 1062,
-   "neta": 3746.47
+   "n": 3291,
+   "gan": 10862.24,
+   "nNeta": 1071,
+   "neta": 3753.88
   },
   {
    "s": 2,
-   "n": 1598,
-   "gan": 5077.87,
-   "nNeta": 443,
-   "neta": 1715.97
+   "n": 1604,
+   "gan": 5082.97,
+   "nNeta": 450,
+   "neta": 1720.87
   },
   {
    "s": 5,
-   "n": 954,
-   "gan": 2557.23,
-   "nNeta": 183,
-   "neta": 558.55
+   "n": 957,
+   "gan": 2560.88,
+   "nNeta": 185,
+   "neta": 560.03
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 57.41
   }
  ],
- "rentables": 2082,
+ "rentables": 2090,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 77,
-   "descartadas": 245,
-   "neta": 190.42,
-   "dias": 6.94,
-   "semana": 192.04
+   "ops": 78,
+   "descartadas": 253,
+   "neta": 190.77,
+   "dias": 6.98,
+   "semana": 191.43
   },
   {
    "capital": 1000,
-   "ops": 97,
-   "descartadas": 245,
-   "neta": 287.97,
-   "dias": 6.94,
-   "semana": 290.42
+   "ops": 100,
+   "descartadas": 253,
+   "neta": 291.11,
+   "dias": 6.98,
+   "semana": 292.12
   },
   {
    "capital": 2000,
-   "ops": 114,
-   "descartadas": 245,
-   "neta": 419.57,
-   "dias": 6.94,
-   "semana": 423.14
+   "ops": 117,
+   "descartadas": 253,
+   "neta": 422.71,
+   "dias": 6.98,
+   "semana": 424.18
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 6,
-   "horas": 135,
-   "episodios": 3069,
-   "sospechosas": 35,
-   "realistaNeta": 406.16,
+   "horas": 135.8,
+   "episodios": 3096,
+   "sospechosas": 36,
+   "realistaNeta": 411.82,
    "capital": {
-    "500": 113.37,
-    "1000": 185.66,
-    "2000": 256.64
+    "500": 113.72,
+    "1000": 188.8,
+    "2000": 259.78
    },
    "cumple": true
   }
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 107,
+  "n": 108,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,32 +222,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4656,
-  "n": 1654,
-  "gan": 4443.54,
-  "nNeta": 418,
-  "neta": 1143.71
+  "conDato": 4682,
+  "n": 1666,
+  "gan": 4455.25,
+  "nNeta": 429,
+  "neta": 1149.37
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1472
+   "n": 1456
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2473
+   "n": 2458
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1408
+   "n": 1413
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 535
+   "n": 538
   },
   {
    "et": "30 s–5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794430800000,
-   "n": 3
-  },
   {
    "h": 1794434400000,
    "n": 12
@@ -619,128 +615,132 @@
   },
   {
    "h": 1794700800000,
-   "n": 28
+   "n": 40
+  },
+  {
+   "h": 1794704400000,
+   "n": 15
   }
  ],
  "recientes": [
   {
-   "inicio": 1794702272865,
-   "titulo": "Querétaro FC vs. CF Monterrey",
-   "dur": 9.599,
-   "gan": 1.09,
-   "neta": 0.72,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794702055053,
-   "titulo": "Querétaro FC vs. CF Monterrey",
-   "dur": 1.116,
-   "gan": 58.65,
-   "neta": 29.87,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794702054901,
-   "titulo": "Querétaro FC vs. CF Monterrey",
-   "dur": 0.112,
-   "gan": 3.66,
-   "neta": 0.38,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794702054790,
-   "titulo": "Querétaro FC vs. CF Monterrey",
-   "dur": 0.023,
-   "gan": 0.66,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794702045705,
-   "titulo": "Querétaro FC vs. CF Monterrey",
-   "dur": 0.023,
-   "gan": 0.66,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794702038710,
-   "titulo": "Querétaro FC vs. CF Monterrey",
-   "dur": 0.115,
-   "gan": 0.54,
-   "neta": 0.08,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794702030307,
-   "titulo": "Querétaro FC vs. CF Monterrey",
-   "dur": 0.103,
-   "gan": 0.66,
-   "neta": 0.18,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794702028857,
-   "titulo": "Querétaro FC vs. CF Monterrey",
-   "dur": 0.056,
-   "gan": 3.54,
-   "neta": 0.28,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794702026355,
-   "titulo": "Querétaro FC vs. CF Monterrey",
-   "dur": 0.956,
-   "gan": 1.13,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794702015746,
-   "titulo": "Querétaro FC vs. CF Monterrey",
-   "dur": 2.042,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794702015659,
-   "titulo": "Querétaro FC vs. CF Monterrey",
-   "dur": 0.053,
-   "gan": 0.66,
+   "inicio": 1794705449868,
+   "titulo": "New Zealand vs. India",
+   "dur": 0.015,
+   "gan": 1.83,
    "neta": 0.16,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794704960664,
+   "titulo": "Associação Chapecoense de Futebol vs. CR Vasco da Gama",
+   "dur": 2.607,
+   "gan": 0.7,
+   "neta": 0.1,
    "lado": "si"
   },
   {
-   "inicio": 1794702015373,
-   "titulo": "Querétaro FC vs. CF Monterrey",
-   "dur": 0.027,
+   "inicio": 1794704947059,
+   "titulo": "Associação Chapecoense de Futebol vs. CR Vasco da Gama",
+   "dur": 13.542,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794704767445,
+   "titulo": "Associação Chapecoense de Futebol vs. CR Vasco da Gama",
+   "dur": 5.239,
+   "gan": 0.73,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794704766978,
+   "titulo": "Associação Chapecoense de Futebol vs. CR Vasco da Gama",
+   "dur": 0.095,
+   "gan": 0.73,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794704766634,
+   "titulo": "Associação Chapecoense de Futebol vs. CR Vasco da Gama",
+   "dur": 0.187,
+   "gan": 0.73,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794704765521,
+   "titulo": "Associação Chapecoense de Futebol vs. CR Vasco da Gama",
+   "dur": 0.698,
    "gan": 0.54,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794702014300,
+   "inicio": 1794704530673,
    "titulo": "Querétaro FC vs. CF Monterrey",
-   "dur": 0.512,
-   "gan": 0.58,
-   "neta": 0,
+   "dur": 2.007,
+   "gan": 0.72,
+   "neta": 0.47,
    "lado": "si"
   },
   {
-   "inicio": 1794702005715,
+   "inicio": 1794704530496,
    "titulo": "Querétaro FC vs. CF Monterrey",
-   "dur": 0.294,
+   "dur": 0.148,
    "gan": 0.5,
-   "neta": 0,
+   "neta": 0.25,
    "lado": "si"
   },
   {
-   "inicio": 1794702005106,
+   "inicio": 1794704514801,
    "titulo": "Querétaro FC vs. CF Monterrey",
-   "dur": 0.608,
-   "gan": 0.51,
-   "neta": 0,
+   "dur": 3.33,
+   "gan": 1.31,
+   "neta": 0.91,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794704510938,
+   "titulo": "Querétaro FC vs. CF Monterrey",
+   "dur": 3.819,
+   "gan": 1.57,
+   "neta": 1.14,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794704506178,
+   "titulo": "Querétaro FC vs. CF Monterrey",
+   "dur": 4.502,
+   "gan": 0.6,
+   "neta": 0.24,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794704505505,
+   "titulo": "Querétaro FC vs. CF Monterrey",
+   "dur": 0.615,
+   "gan": 0.67,
+   "neta": 0.27,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794704504372,
+   "titulo": "Querétaro FC vs. CF Monterrey",
+   "dur": 1.09,
+   "gan": 0.87,
+   "neta": 0.46,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794704503476,
+   "titulo": "Querétaro FC vs. CF Monterrey",
+   "dur": 0.754,
+   "gan": 0.66,
+   "neta": 0.32,
    "lado": "si"
   }
  ]
