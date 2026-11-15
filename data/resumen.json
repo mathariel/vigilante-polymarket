@@ -1,48 +1,48 @@
 {
- "actualizado": 1794720548774,
- "inicio": 1794021224138,
+ "actualizado": 1794723562538,
+ "inicio": 1794029981665,
  "ejecucion": {
-  "inicio": 1794717548444,
-  "fin": 1794720548774,
-  "mensajes": 10195438,
+  "inicio": 1794720562284,
+  "fin": 1794723562538,
+  "mensajes": 9431876,
   "reconexiones": 0,
-  "eventos": 563,
+  "eventos": 568,
   "errores": [],
-  "nuevos": 5,
+  "nuevos": 9,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6180,
- "falsos": 2418,
+ "total": 6144,
+ "falsos": 2427,
  "largos": {
-  "episodios": 13795,
+  "episodios": 13826,
   "eventos": 156,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8090,
+  "episodios": 8088,
   "eventos": 32
  },
- "mediana": 0.563,
+ "mediana": 0.564,
  "captura": [
   {
    "s": 0.5,
-   "n": 3233,
-   "gan": 10600.86,
-   "nNeta": 1054,
-   "neta": 3694.78
+   "n": 3216,
+   "gan": 10585.84,
+   "nNeta": 1045,
+   "neta": 3692.15
   },
   {
    "s": 2,
-   "n": 1588,
-   "gan": 5043.35,
-   "nNeta": 447,
-   "neta": 1719.66
+   "n": 1585,
+   "gan": 5037.16,
+   "nNeta": 444,
+   "neta": 1718.7
   },
   {
    "s": 5,
    "n": 947,
-   "gan": 2537.52,
+   "gan": 2536.1,
    "nNeta": 185,
    "neta": 560.07
   },
@@ -54,31 +54,31 @@
    "neta": 57.41
   }
  ],
- "rentables": 2050,
+ "rentables": 2037,
  "porCapital": [
   {
    "capital": 500,
    "ops": 78,
    "descartadas": 257,
    "neta": 190.77,
-   "dias": 7.15,
-   "semana": 186.76
+   "dias": 7.19,
+   "semana": 185.85
   },
   {
    "capital": 1000,
    "ops": 100,
    "descartadas": 257,
    "neta": 291.11,
-   "dias": 7.15,
-   "semana": 284.99
+   "dias": 7.19,
+   "semana": 283.6
   },
   {
    "capital": 2000,
    "ops": 117,
    "descartadas": 257,
    "neta": 422.71,
-   "dias": 7.15,
-   "semana": 413.82
+   "dias": 7.19,
+   "semana": 411.81
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 140,
-   "episodios": 3121,
+   "horas": 140.8,
+   "episodios": 3130,
    "sospechosas": 37,
    "realistaNeta": 412.14,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4706,
-  "n": 1674,
-  "gan": 4460.71,
+  "conDato": 4715,
+  "n": 1677,
+  "gan": 4462.39,
   "nNeta": 433,
   "neta": 1149.69
  },
@@ -232,17 +232,17 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1434
+   "n": 1422
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2407
+   "n": 2393
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1386
+   "n": 1376
   },
   {
    "et": "5–30 s",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794448800000,
-   "n": 3
-  },
   {
    "h": 1794456000000,
    "n": 16
@@ -619,10 +615,86 @@
   },
   {
    "h": 1794718800000,
-   "n": 3
+   "n": 6
+  },
+  {
+   "h": 1794722400000,
+   "n": 6
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794723534505,
+   "titulo": "Elon Musk # tweets November 16 - November 18, 2026?",
+   "dur": 0.315,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794723525765,
+   "titulo": "Elon Musk # tweets November 16 - November 18, 2026?",
+   "dur": 8.686,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794723525218,
+   "titulo": "Elon Musk # tweets November 16 - November 18, 2026?",
+   "dur": 0.518,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794723509205,
+   "titulo": "Elon Musk # tweets November 16 - November 18, 2026?",
+   "dur": 15.967,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794723462557,
+   "titulo": "Highest temperature in Shenzhen on November 15?",
+   "dur": 0.018,
+   "gan": 0.58,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794722709634,
+   "titulo": "GFA Rumilly Vallières vs. AS Saint-Étienne",
+   "dur": 1.491,
+   "gan": 1.05,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794721524096,
+   "titulo": "Kataller Toyama vs. Tokushima Vortis",
+   "dur": 0.866,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794720600721,
+   "titulo": "Hokkaidō Consadole Sapporo vs. Sagan Tosu",
+   "dur": 0.582,
+   "gan": 1.38,
+   "neta": 0.53,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794720600676,
+   "titulo": "Hokkaidō Consadole Sapporo vs. Sagan Tosu",
+   "dur": 0.037,
+   "gan": 0.7,
+   "neta": 0.28,
+   "lado": "si"
+  },
   {
    "inicio": 1794720386278,
    "titulo": "FC Imabari vs. Júbilo Iwata",
@@ -670,78 +742,6 @@
    "gan": 1.66,
    "neta": 0.3,
    "lado": "si"
-  },
-  {
-   "inicio": 1794713449958,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 17.914,
-   "gan": 0.69,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794713407790,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 2.774,
-   "gan": 0.64,
-   "neta": 0.06,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794713405146,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 1.076,
-   "gan": 0.64,
-   "neta": 0.06,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794713405073,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 0.041,
-   "gan": 0.54,
-   "neta": 0.06,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794713150359,
-   "titulo": "Vincent van Gogh's “Châtaigniers en fleurs” Sale Price",
-   "dur": 8.223,
-   "gan": 0.54,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794711005241,
-   "titulo": "Jamaica vs. Mexico",
-   "dur": 0.435,
-   "gan": 0.66,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794710307525,
-   "titulo": "\"The Cat in the Hat\" 2nd Weekend Box Office",
-   "dur": 0.021,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794710168762,
-   "titulo": "Jamaica vs. Mexico",
-   "dur": 0.339,
-   "gan": 0.88,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794710009614,
-   "titulo": "Jamaica vs. Mexico",
-   "dur": 0.274,
-   "gan": 18.41,
-   "neta": 15.73,
-   "lado": "no"
   }
  ]
 }
