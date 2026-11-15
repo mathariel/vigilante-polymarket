@@ -1,55 +1,55 @@
 {
- "actualizado": 1794753713955,
- "inicio": 1794051352273,
+ "actualizado": 1794756727093,
+ "inicio": 1794053845004,
  "ejecucion": {
-  "inicio": 1794750713660,
-  "fin": 1794753713955,
-  "mensajes": 11238206,
-  "reconexiones": 1,
-  "eventos": 589,
+  "inicio": 1794753726818,
+  "fin": 1794756727093,
+  "mensajes": 11203947,
+  "reconexiones": 6,
+  "eventos": 590,
   "errores": [],
-  "nuevos": 12,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 36,
+  "nuevosRentables": 2,
+  "nuevosNeta": 0.72
  },
- "total": 6103,
+ "total": 6089,
  "falsos": 2417,
  "largos": {
-  "episodios": 13918,
-  "eventos": 155,
+  "episodios": 13936,
+  "eventos": 156,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8077,
+  "episodios": 8076,
   "eventos": 32
  },
  "mediana": 0.567,
  "captura": [
   {
    "s": 0.5,
-   "n": 3202,
-   "gan": 10392.89,
-   "nNeta": 1033,
-   "neta": 3559.09
+   "n": 3194,
+   "gan": 10333.08,
+   "nNeta": 1038,
+   "neta": 3560.81
   },
   {
    "s": 2,
-   "n": 1581,
-   "gan": 5003.67,
-   "nNeta": 439,
-   "neta": 1703.47
+   "n": 1568,
+   "gan": 4953.25,
+   "nNeta": 437,
+   "neta": 1700.6
   },
   {
    "s": 5,
-   "n": 953,
-   "gan": 2531.82,
-   "nNeta": 183,
-   "neta": 552.86
+   "n": 946,
+   "gan": 2502.5,
+   "nNeta": 182,
+   "neta": 552.75
   },
   {
    "s": 30,
-   "n": 422,
-   "gan": 778.4,
+   "n": 419,
+   "gan": 757.95,
    "nNeta": 55,
    "neta": 50.2
   }
@@ -58,27 +58,27 @@
  "porCapital": [
   {
    "capital": 500,
-   "ops": 79,
-   "descartadas": 258,
-   "neta": 191.09,
-   "dias": 7.53,
-   "semana": 177.54
+   "ops": 80,
+   "descartadas": 259,
+   "neta": 191.61,
+   "dias": 7.57,
+   "semana": 177.2
   },
   {
    "capital": 1000,
-   "ops": 101,
-   "descartadas": 258,
-   "neta": 291.43,
-   "dias": 7.53,
-   "semana": 270.76
+   "ops": 102,
+   "descartadas": 259,
+   "neta": 291.95,
+   "dias": 7.57,
+   "semana": 270
   },
   {
    "capital": 2000,
-   "ops": 118,
-   "descartadas": 258,
-   "neta": 423.03,
-   "dias": 7.53,
-   "semana": 393.03
+   "ops": 119,
+   "descartadas": 259,
+   "neta": 423.55,
+   "dias": 7.57,
+   "semana": 391.7
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 149.2,
-   "episodios": 3196,
-   "sospechosas": 43,
-   "realistaNeta": 414.56,
+   "horas": 150,
+   "episodios": 3232,
+   "sospechosas": 45,
+   "realistaNeta": 415.28,
    "capital": {
-    "500": 114.04,
-    "1000": 189.12,
-    "2000": 260.1
+    "500": 114.56,
+    "1000": 189.64,
+    "2000": 260.62
    },
    "cumple": true
   }
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 109,
+  "n": 111,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,42 +222,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4775,
-  "n": 1706,
-  "gan": 4489.3,
-  "nNeta": 435,
-  "neta": 1152.11
+  "conDato": 4809,
+  "n": 1711,
+  "gan": 4501.98,
+  "nNeta": 437,
+  "neta": 1152.83
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1409
+   "n": 1414
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2375
+   "n": 2366
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1360
+   "n": 1357
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 531
+   "n": 527
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 321
+   "n": 320
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 101
+   "n": 99
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794484800000,
-   "n": 43
-  },
   {
    "h": 1794488400000,
    "n": 3
@@ -619,129 +615,133 @@
   },
   {
    "h": 1794751200000,
-   "n": 12
+   "n": 13
+  },
+  {
+   "h": 1794754800000,
+   "n": 35
   }
  ],
  "recientes": [
   {
-   "inicio": 1794752871711,
+   "inicio": 1794756337062,
    "titulo": "Cyprus vs. Montenegro",
-   "dur": 0.029,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794752546672,
-   "titulo": "Finland vs. San Marino",
-   "dur": 0.095,
-   "gan": 0.79,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794752063509,
-   "titulo": "Cyprus vs. Montenegro",
-   "dur": 0.437,
-   "gan": 2,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794751860813,
-   "titulo": "CD Tenerife vs. AD Ceuta FC",
-   "dur": 0.73,
-   "gan": 1.66,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794751717033,
-   "titulo": "Cyprus vs. Montenegro",
-   "dur": 1.794,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794751711024,
-   "titulo": "Cyprus vs. Montenegro",
-   "dur": 0.223,
+   "dur": 1.144,
    "gan": 0.6,
+   "neta": 0.13,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794756334078,
+   "titulo": "GFA Rumilly Vallières vs. AS Saint-Étienne",
+   "dur": 0.966,
+   "gan": 0.5,
+   "neta": 0.34,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794756328680,
+   "titulo": "Cyprus vs. Montenegro",
+   "dur": 0.894,
+   "gan": 0.6,
+   "neta": 0.13,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794756152238,
+   "titulo": "Highest temperature in Houston on November 17?",
+   "dur": 0.024,
+   "gan": 0.52,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794751611570,
+   "inicio": 1794755843237,
    "titulo": "Cyprus vs. Montenegro",
-   "dur": 1.036,
-   "gan": 0.6,
+   "dur": 0.563,
+   "gan": 0.77,
+   "neta": 0.31,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794755841692,
+   "titulo": "Cyprus vs. Montenegro",
+   "dur": 0.175,
+   "gan": 1.62,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794751598643,
+   "inicio": 1794755833638,
    "titulo": "Cyprus vs. Montenegro",
-   "dur": 0.834,
+   "dur": 2.318,
+   "gan": 3.7,
+   "neta": 0.09,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794755830652,
+   "titulo": "Cyprus vs. Montenegro",
+   "dur": 2.969,
+   "gan": 1.31,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794755824786,
+   "titulo": "Cyprus vs. Montenegro",
+   "dur": 0.019,
+   "gan": 0.64,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794755823834,
+   "titulo": "Cyprus vs. Montenegro",
+   "dur": 0.661,
+   "gan": 1.15,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794755823339,
+   "titulo": "Cyprus vs. Montenegro",
+   "dur": 0.113,
+   "gan": 1.59,
+   "neta": 0.15,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794755823014,
+   "titulo": "Cyprus vs. Montenegro",
+   "dur": 0.267,
+   "gan": 17.2,
+   "neta": 0.47,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794755821588,
+   "titulo": "Cyprus vs. Montenegro",
+   "dur": 0.991,
    "gan": 1.65,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794751594963,
+   "inicio": 1794755782749,
    "titulo": "Cyprus vs. Montenegro",
-   "dur": 0.369,
-   "gan": 0.63,
+   "dur": 5.286,
+   "gan": 1.55,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794751593336,
-   "titulo": "Cyprus vs. Montenegro",
-   "dur": 1.594,
-   "gan": 1.09,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794751575742,
-   "titulo": "Cyprus vs. Montenegro",
-   "dur": 0.132,
-   "gan": 1.17,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794751387494,
-   "titulo": "Cyprus vs. Montenegro",
-   "dur": 0.388,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794749657372,
-   "titulo": "Finland vs. San Marino",
-   "dur": 194.911,
-   "gan": 0.68,
-   "neta": 0,
+   "inicio": 1794755731468,
+   "titulo": "GFA Rumilly Vallières vs. AS Saint-Étienne",
+   "dur": 0.986,
+   "gan": 0.5,
+   "neta": 0.33,
    "lado": "no"
-  },
-  {
-   "inicio": 1794749662869,
-   "titulo": "CD Tenerife vs. AD Ceuta FC",
-   "dur": 0.004,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794749609354,
-   "titulo": "CD Tenerife vs. AD Ceuta FC",
-   "dur": 0.473,
-   "gan": 2.4,
-   "neta": 0.8,
-   "lado": "si"
   }
  ]
 }
