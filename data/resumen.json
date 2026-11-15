@@ -1,84 +1,84 @@
 {
- "actualizado": 1794780839056,
+ "actualizado": 1794783853908,
  "inicio": 1794063481604,
  "ejecucion": {
-  "inicio": 1794777838705,
-  "fin": 1794780839056,
-  "mensajes": 8694188,
-  "reconexiones": 2,
-  "eventos": 557,
+  "inicio": 1794780853604,
+  "fin": 1794783853908,
+  "mensajes": 7431744,
+  "reconexiones": 0,
+  "eventos": 555,
   "errores": [],
-  "nuevos": 98,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.24
+  "nuevos": 6,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 6376,
- "falsos": 2470,
+ "total": 6382,
+ "falsos": 2471,
  "largos": {
-  "episodios": 14370,
+  "episodios": 14427,
   "eventos": 161,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 7342,
+  "episodios": 7284,
   "eventos": 33
  },
  "mediana": 0.53,
  "captura": [
   {
    "s": 0.5,
-   "n": 3269,
-   "gan": 9781.47,
+   "n": 3272,
+   "gan": 9794.24,
    "nNeta": 1040,
    "neta": 2782.56
   },
   {
    "s": 2,
-   "n": 1608,
-   "gan": 4780.94,
+   "n": 1610,
+   "gan": 4782.04,
    "nNeta": 440,
    "neta": 1387.26
   },
   {
    "s": 5,
-   "n": 961,
-   "gan": 2635.46,
+   "n": 963,
+   "gan": 2636.56,
    "nNeta": 179,
    "neta": 541.54
   },
   {
    "s": 30,
-   "n": 426,
-   "gan": 896.52,
+   "n": 428,
+   "gan": 897.62,
    "nNeta": 54,
    "neta": 46.08
   }
  ],
- "rentables": 2058,
+ "rentables": 2059,
  "porCapital": [
   {
    "capital": 500,
    "ops": 83,
    "descartadas": 273,
    "neta": 197.32,
-   "dias": 7.85,
-   "semana": 176
+   "dias": 7.88,
+   "semana": 175.22
   },
   {
    "capital": 1000,
    "ops": 109,
    "descartadas": 273,
    "neta": 307.92,
-   "dias": 7.85,
-   "semana": 274.64
+   "dias": 7.88,
+   "semana": 273.42
   },
   {
    "capital": 2000,
    "ops": 126,
    "descartadas": 273,
    "neta": 439.52,
-   "dias": 7.85,
-   "semana": 392.02
+   "dias": 7.88,
+   "semana": 390.28
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 156.7,
-   "episodios": 3709,
+   "horas": 157.5,
+   "episodios": 3715,
    "sospechosas": 50,
    "realistaNeta": 438.82,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5281,
-  "n": 1811,
-  "gan": 4848.43,
+  "conDato": 5287,
+  "n": 1813,
+  "gan": 4849.53,
   "nNeta": 458,
   "neta": 1176.37
  },
@@ -232,12 +232,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1549
+   "n": 1551
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2465
+   "n": 2467
   },
   {
    "et": "1–5 s",
@@ -252,12 +252,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 323
+   "n": 324
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 103
+   "n": 104
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794513600000,
-   "n": 32
-  },
   {
    "h": 1794517200000,
    "n": 112
@@ -619,10 +615,62 @@
   },
   {
    "h": 1794780000000,
-   "n": 3
+   "n": 8
+  },
+  {
+   "h": 1794783600000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794783721931,
+   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
+   "dur": 0.368,
+   "gan": 1.37,
+   "neta": 0.04,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794781602038,
+   "titulo": "# of views of next MrBeast video on week 1?",
+   "dur": 908.513,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794781528887,
+   "titulo": "# of views of next MrBeast video on week 1?",
+   "dur": 0.072,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794781528698,
+   "titulo": "# of views of next MrBeast video on week 1?",
+   "dur": 0.065,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794780951708,
+   "titulo": "Envigado FC vs. Union Magdalena",
+   "dur": 0.792,
+   "gan": 11.67,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794780857404,
+   "titulo": "# of views of next MrBeast video on week 1?",
+   "dur": 37.58,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794780821765,
    "titulo": "# of views of next MrBeast video on week 1?",
@@ -693,54 +741,6 @@
    "dur": 0.124,
    "gan": 0.86,
    "neta": 0.4,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794779037398,
-   "titulo": "Spain vs. England",
-   "dur": 0.896,
-   "gan": 0.54,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794779037270,
-   "titulo": "Spain vs. England",
-   "dur": 0.126,
-   "gan": 0.8,
-   "neta": 0.43,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794779037043,
-   "titulo": "Spain vs. England",
-   "dur": 0.197,
-   "gan": 0.92,
-   "neta": 0.31,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794779036604,
-   "titulo": "Spain vs. England",
-   "dur": 0.287,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794779036444,
-   "titulo": "Spain vs. England",
-   "dur": 0.035,
-   "gan": 0.81,
-   "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794779030494,
-   "titulo": "Spain vs. England",
-   "dur": 0.057,
-   "gan": 1.63,
-   "neta": 0.76,
    "lado": "si"
   }
  ]
