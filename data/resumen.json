@@ -1,48 +1,48 @@
 {
- "actualizado": 1794765768212,
- "inicio": 1794056036750,
+ "actualizado": 1794768782523,
+ "inicio": 1794060327783,
  "ejecucion": {
-  "inicio": 1794762767986,
-  "fin": 1794765768212,
-  "mensajes": 10789305,
-  "reconexiones": 3,
-  "eventos": 584,
+  "inicio": 1794765782221,
+  "fin": 1794768782523,
+  "mensajes": 9207275,
+  "reconexiones": 1,
+  "eventos": 583,
   "errores": [],
-  "nuevos": 14,
-  "nuevosRentables": 3,
-  "nuevosNeta": 2.37
+  "nuevos": 22,
+  "nuevosRentables": 2,
+  "nuevosNeta": 0.82
  },
- "total": 6002,
- "falsos": 2361,
+ "total": 6007,
+ "falsos": 2364,
  "largos": {
-  "episodios": 14095,
+  "episodios": 14121,
   "eventos": 157,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8074,
-  "eventos": 32
+  "episodios": 8044,
+  "eventos": 33
  },
- "mediana": 0.56,
+ "mediana": 0.558,
  "captura": [
   {
    "s": 0.5,
-   "n": 3135,
-   "gan": 9401.16,
-   "nNeta": 1012,
-   "neta": 2731.53
+   "n": 3136,
+   "gan": 9385.46,
+   "nNeta": 1019,
+   "neta": 2734.46
   },
   {
    "s": 2,
-   "n": 1551,
-   "gan": 4662.37,
-   "nNeta": 428,
-   "neta": 1372.7
+   "n": 1550,
+   "gan": 4659.75,
+   "nNeta": 430,
+   "neta": 1373.52
   },
   {
    "s": 5,
-   "n": 942,
-   "gan": 2607.03,
+   "n": 940,
+   "gan": 2603.62,
    "nNeta": 178,
    "neta": 543.46
   },
@@ -54,31 +54,31 @@
    "neta": 46.08
   }
  ],
- "rentables": 1984,
+ "rentables": 2002,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 80,
+   "ops": 82,
    "descartadas": 262,
-   "neta": 191.61,
-   "dias": 7.67,
-   "semana": 174.79
+   "neta": 192.43,
+   "dias": 7.71,
+   "semana": 174.74
   },
   {
    "capital": 1000,
-   "ops": 102,
+   "ops": 104,
    "descartadas": 262,
-   "neta": 291.95,
-   "dias": 7.67,
-   "semana": 266.32
+   "neta": 292.77,
+   "dias": 7.71,
+   "semana": 265.85
   },
   {
    "capital": 2000,
-   "ops": 119,
+   "ops": 121,
    "descartadas": 262,
-   "neta": 423.55,
-   "dias": 7.67,
-   "semana": 386.36
+   "neta": 424.37,
+   "dias": 7.71,
+   "semana": 385.36
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 152.5,
-   "episodios": 3280,
+   "horas": 153.3,
+   "episodios": 3302,
    "sospechosas": 46,
-   "realistaNeta": 417.65,
+   "realistaNeta": 418.47,
    "capital": {
-    "500": 114.56,
-    "1000": 189.64,
-    "2000": 260.62
+    "500": 115.38,
+    "1000": 190.46,
+    "2000": 261.44
    },
    "cumple": true
   }
@@ -222,22 +222,22 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4856,
-  "n": 1727,
-  "gan": 4657.81,
-  "nNeta": 440,
-  "neta": 1155.2
+  "conDato": 4878,
+  "n": 1729,
+  "gan": 4659.2,
+  "nNeta": 442,
+  "neta": 1156.02
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1400
+   "n": 1406
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2340
+   "n": 2341
   },
   {
    "et": "1–5 s",
@@ -247,7 +247,7 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 521
+   "n": 519
   },
   {
    "et": "30 s–5 min",
@@ -619,129 +619,129 @@
   },
   {
    "h": 1794765600000,
-   "n": 2
+   "n": 24
   }
  ],
  "recientes": [
   {
-   "inicio": 1794765648139,
-   "titulo": "AS Cittadella vs. US Folgore Caratese",
-   "dur": 4.881,
-   "gan": 0.66,
+   "inicio": 1794768709981,
+   "titulo": "SD Eibar vs. Cádiz CF",
+   "dur": 0.824,
+   "gan": 0.69,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794765647994,
-   "titulo": "AS Cittadella vs. US Folgore Caratese",
-   "dur": 0.07,
-   "gan": 0.91,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794764983310,
-   "titulo": "CD Eldense vs. CE Sabadell FC",
-   "dur": 0.15,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794764686359,
-   "titulo": "Suriname vs. Eswatini",
-   "dur": 0.464,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794764478705,
-   "titulo": "CD Eldense vs. CE Sabadell FC",
-   "dur": 0.592,
-   "gan": 0.89,
-   "neta": 0.15,
    "lado": "no"
   },
   {
-   "inicio": 1794763860056,
-   "titulo": "Belarus vs. Albania",
-   "dur": 0.112,
+   "inicio": 1794768633725,
+   "titulo": "SD Eibar vs. Cádiz CF",
+   "dur": 0.155,
+   "gan": 9.34,
+   "neta": 5.46,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794768270497,
+   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
+   "dur": 0.027,
+   "gan": 1.33,
+   "neta": 0.53,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794768270420,
+   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
+   "dur": 0.03,
+   "gan": 1.33,
+   "neta": 0.53,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794768270336,
+   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
+   "dur": 0.035,
+   "gan": 1.33,
+   "neta": 0.53,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794768270246,
+   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
+   "dur": 0.038,
+   "gan": 1.33,
+   "neta": 0.53,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794768270155,
+   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
+   "dur": 0.046,
    "gan": 1.02,
-   "neta": 0,
-   "lado": "si"
+   "neta": 0.23,
+   "lado": "no"
   },
   {
-   "inicio": 1794763855203,
-   "titulo": "Belarus vs. Albania",
-   "dur": 4.715,
-   "gan": 0.9,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794763851117,
-   "titulo": "Belarus vs. Albania",
-   "dur": 0.183,
-   "gan": 0.95,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794763769143,
-   "titulo": "Belarus vs. Albania",
-   "dur": 0.098,
-   "gan": 0.75,
-   "neta": 0.31,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794763750685,
-   "titulo": "Suriname vs. Eswatini",
-   "dur": 0.001,
+   "inicio": 1794768270075,
+   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
+   "dur": 0.032,
    "gan": 0.62,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794763074315,
-   "titulo": "Finland vs. San Marino",
-   "dur": 3.635,
+   "inicio": 1794768270005,
+   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
+   "dur": 0.032,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794768269830,
+   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
+   "dur": 0.116,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794767963252,
+   "titulo": "Belarus vs. Albania",
+   "dur": 1.271,
+   "gan": 0.65,
+   "neta": 0.53,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794767962418,
+   "titulo": "Belarus vs. Albania",
+   "dur": 0.608,
    "gan": 0.57,
-   "neta": 0.45,
+   "neta": 0.47,
    "lado": "no"
   },
   {
-   "inicio": 1794763068984,
-   "titulo": "Finland vs. San Marino",
-   "dur": 4.816,
-   "gan": 1.17,
-   "neta": 0.9,
+   "inicio": 1794767627987,
+   "titulo": "Belarus vs. Albania",
+   "dur": 1.34,
+   "gan": 0.6,
+   "neta": 0.23,
    "lado": "no"
   },
   {
-   "inicio": 1794763065637,
-   "titulo": "Finland vs. San Marino",
-   "dur": 3.329,
-   "gan": 1.36,
-   "neta": 1.02,
+   "inicio": 1794767627301,
+   "titulo": "Belarus vs. Albania",
+   "dur": 0.214,
+   "gan": 0.5,
+   "neta": 0.2,
    "lado": "no"
   },
   {
-   "inicio": 1794762966185,
-   "titulo": "FC Penafiel vs. Lusitania FC Lourosa",
-   "dur": 0.564,
-   "gan": 0.59,
-   "neta": 0,
+   "inicio": 1794767580340,
+   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
+   "dur": 0.782,
+   "gan": 4.76,
+   "neta": 0.12,
    "lado": "no"
-  },
-  {
-   "inicio": 1794762659867,
-   "titulo": "Granada CF vs. UD Las Palmas",
-   "dur": 0.978,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
   }
  ]
 }
