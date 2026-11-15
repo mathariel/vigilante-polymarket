@@ -1,50 +1,50 @@
 {
- "actualizado": 1794708486213,
- "inicio": 1794005734525,
+ "actualizado": 1794711502084,
+ "inicio": 1794006122503,
  "ejecucion": {
-  "inicio": 1794705486008,
-  "fin": 1794708486213,
-  "mensajes": 8481570,
+  "inicio": 1794708501789,
+  "fin": 1794711502084,
+  "mensajes": 9711657,
   "reconexiones": 0,
-  "eventos": 561,
+  "eventos": 570,
   "errores": [],
-  "nuevos": 4,
+  "nuevos": 10,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6275,
- "falsos": 2451,
+ "total": 6234,
+ "falsos": 2439,
  "largos": {
-  "episodios": 13621,
-  "eventos": 151,
+  "episodios": 13692,
+  "eventos": 153,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8111,
+  "episodios": 8101,
   "eventos": 32
  },
  "mediana": 0.565,
  "captura": [
   {
    "s": 0.5,
-   "n": 3284,
-   "gan": 10844.49,
-   "nNeta": 1069,
-   "neta": 3753.41
+   "n": 3265,
+   "gan": 10791.07,
+   "nNeta": 1059,
+   "neta": 3749.95
   },
   {
    "s": 2,
-   "n": 1602,
-   "gan": 5081.01,
-   "nNeta": 450,
-   "neta": 1720.87
+   "n": 1597,
+   "gan": 5074.35,
+   "nNeta": 447,
+   "neta": 1720.35
   },
   {
    "s": 5,
-   "n": 955,
-   "gan": 2559.01,
-   "nNeta": 185,
-   "neta": 560.03
+   "n": 954,
+   "gan": 2558.49,
+   "nNeta": 184,
+   "neta": 560.02
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 57.41
   }
  ],
- "rentables": 2079,
+ "rentables": 2061,
  "porCapital": [
   {
    "capital": 500,
    "ops": 78,
    "descartadas": 253,
    "neta": 190.77,
-   "dias": 7.01,
-   "semana": 190.48
+   "dias": 7.05,
+   "semana": 189.53
   },
   {
    "capital": 1000,
    "ops": 100,
    "descartadas": 253,
    "neta": 291.11,
-   "dias": 7.01,
-   "semana": 290.66
+   "dias": 7.05,
+   "semana": 289.22
   },
   {
    "capital": 2000,
    "ops": 117,
    "descartadas": 253,
    "neta": 422.71,
-   "dias": 7.01,
-   "semana": 422.06
+   "dias": 7.05,
+   "semana": 419.97
   }
  ],
  "maxBloqueoH": 24,
@@ -101,9 +101,9 @@
   {
    "lunes": "2026-11-09",
    "dias": 6,
-   "horas": 136.7,
-   "episodios": 3100,
-   "sospechosas": 36,
+   "horas": 137.5,
+   "episodios": 3110,
+   "sospechosas": 37,
    "realistaNeta": 411.82,
    "capital": {
     "500": 113.72,
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 107,
+  "n": 108,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,7 +222,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4686,
+  "conDato": 4695,
   "n": 1667,
   "gan": 4455.92,
   "nNeta": 429,
@@ -232,22 +232,22 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1451
+   "n": 1440
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2451
+   "n": 2437
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1409
+   "n": 1397
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 536
+   "n": 535
   },
   {
    "et": "30 s–5 min",
@@ -619,10 +619,90 @@
   },
   {
    "h": 1794708000000,
-   "n": 1
+   "n": 11
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794711005241,
+   "titulo": "Jamaica vs. Mexico",
+   "dur": 0.435,
+   "gan": 0.66,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794710307525,
+   "titulo": "\"The Cat in the Hat\" 2nd Weekend Box Office",
+   "dur": 0.021,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794710168762,
+   "titulo": "Jamaica vs. Mexico",
+   "dur": 0.339,
+   "gan": 0.88,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794710009614,
+   "titulo": "Jamaica vs. Mexico",
+   "dur": 0.274,
+   "gan": 18.41,
+   "neta": 15.73,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794710008928,
+   "titulo": "Jamaica vs. Mexico",
+   "dur": 0.667,
+   "gan": 0.7,
+   "neta": 0.62,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794710008863,
+   "titulo": "Jamaica vs. Mexico",
+   "dur": 0.022,
+   "gan": 0.7,
+   "neta": 0.62,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794710008844,
+   "titulo": "Jamaica vs. Mexico",
+   "dur": 0.011,
+   "gan": 13.44,
+   "neta": 11.67,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794710006427,
+   "titulo": "Jamaica vs. Mexico",
+   "dur": 0.75,
+   "gan": 0.55,
+   "neta": 0.43,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794709497985,
+   "titulo": "Lowest temperature in London on November 15?",
+   "dur": 0.875,
+   "gan": 2.23,
+   "neta": 2.13,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794708767046,
+   "titulo": "Jamaica vs. Mexico",
+   "dur": 0.12,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794708166702,
    "titulo": "Jamaica vs. Mexico",
@@ -662,86 +742,6 @@
    "gan": 1.83,
    "neta": 0.16,
    "lado": "no"
-  },
-  {
-   "inicio": 1794704960664,
-   "titulo": "Associação Chapecoense de Futebol vs. CR Vasco da Gama",
-   "dur": 2.607,
-   "gan": 0.7,
-   "neta": 0.1,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794704947059,
-   "titulo": "Associação Chapecoense de Futebol vs. CR Vasco da Gama",
-   "dur": 13.542,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794704767445,
-   "titulo": "Associação Chapecoense de Futebol vs. CR Vasco da Gama",
-   "dur": 5.239,
-   "gan": 0.73,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794704766978,
-   "titulo": "Associação Chapecoense de Futebol vs. CR Vasco da Gama",
-   "dur": 0.095,
-   "gan": 0.73,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794704766634,
-   "titulo": "Associação Chapecoense de Futebol vs. CR Vasco da Gama",
-   "dur": 0.187,
-   "gan": 0.73,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794704765521,
-   "titulo": "Associação Chapecoense de Futebol vs. CR Vasco da Gama",
-   "dur": 0.698,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794704530673,
-   "titulo": "Querétaro FC vs. CF Monterrey",
-   "dur": 2.007,
-   "gan": 0.72,
-   "neta": 0.47,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794704530496,
-   "titulo": "Querétaro FC vs. CF Monterrey",
-   "dur": 0.148,
-   "gan": 0.5,
-   "neta": 0.25,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794704514801,
-   "titulo": "Querétaro FC vs. CF Monterrey",
-   "dur": 3.33,
-   "gan": 1.31,
-   "neta": 0.91,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794704510938,
-   "titulo": "Querétaro FC vs. CF Monterrey",
-   "dur": 3.819,
-   "gan": 1.57,
-   "neta": 1.14,
-   "lado": "si"
   }
  ]
 }
