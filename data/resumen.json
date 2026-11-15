@@ -1,50 +1,50 @@
 {
- "actualizado": 1794762755728,
- "inicio": 1794055974832,
+ "actualizado": 1794765768212,
+ "inicio": 1794056036750,
  "ejecucion": {
-  "inicio": 1794759755483,
-  "fin": 1794762755728,
-  "mensajes": 10163911,
-  "reconexiones": 0,
-  "eventos": 598,
+  "inicio": 1794762767986,
+  "fin": 1794765768212,
+  "mensajes": 10789305,
+  "reconexiones": 3,
+  "eventos": 584,
   "errores": [],
-  "nuevos": 28,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 14,
+  "nuevosRentables": 3,
+  "nuevosNeta": 2.37
  },
- "total": 6055,
- "falsos": 2383,
+ "total": 6002,
+ "falsos": 2361,
  "largos": {
-  "episodios": 14015,
-  "eventos": 156,
+  "episodios": 14095,
+  "eventos": 157,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8075,
+  "episodios": 8074,
   "eventos": 32
  },
- "mediana": 0.561,
+ "mediana": 0.56,
  "captura": [
   {
    "s": 0.5,
-   "n": 3165,
-   "gan": 10389.45,
-   "nNeta": 1025,
-   "neta": 3533.07
+   "n": 3135,
+   "gan": 9401.16,
+   "nNeta": 1012,
+   "neta": 2731.53
   },
   {
    "s": 2,
-   "n": 1559,
-   "gan": 5048.91,
-   "nNeta": 431,
-   "neta": 1681.54
+   "n": 1551,
+   "gan": 4662.37,
+   "nNeta": 428,
+   "neta": 1372.7
   },
   {
    "s": 5,
-   "n": 947,
-   "gan": 2622.82,
-   "nNeta": 179,
-   "neta": 546.65
+   "n": 942,
+   "gan": 2607.03,
+   "nNeta": 178,
+   "neta": 543.46
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 46.08
   }
  ],
- "rentables": 2000,
+ "rentables": 1984,
  "porCapital": [
   {
    "capital": 500,
    "ops": 80,
-   "descartadas": 259,
+   "descartadas": 262,
    "neta": 191.61,
-   "dias": 7.64,
-   "semana": 175.58
+   "dias": 7.67,
+   "semana": 174.79
   },
   {
    "capital": 1000,
    "ops": 102,
-   "descartadas": 259,
+   "descartadas": 262,
    "neta": 291.95,
-   "dias": 7.64,
-   "semana": 267.53
+   "dias": 7.67,
+   "semana": 266.32
   },
   {
    "capital": 2000,
    "ops": 119,
-   "descartadas": 259,
+   "descartadas": 262,
    "neta": 423.55,
-   "dias": 7.64,
-   "semana": 388.13
+   "dias": 7.67,
+   "semana": 386.36
   }
  ],
  "maxBloqueoH": 24,
@@ -101,10 +101,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 151.7,
-   "episodios": 3266,
+   "horas": 152.5,
+   "episodios": 3280,
    "sospechosas": 46,
-   "realistaNeta": 415.28,
+   "realistaNeta": 417.65,
    "capital": {
     "500": 114.56,
     "1000": 189.64,
@@ -116,18 +116,8 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 111,
+  "n": 107,
   "top": [
-   {
-    "inicio": 1794062797308,
-    "titulo": "Málaga CF vs. Real Racing Club",
-    "lado": "si",
-    "dur": 0.772,
-    "gan": 554.81,
-    "neta": 484.61,
-    "costo": 2828.49,
-    "ret": 19.6
-   },
    {
     "inicio": 1794135838907,
     "titulo": "Riga FC vs. FC RFS",
@@ -137,16 +127,6 @@
     "neta": 306.63,
     "costo": 930.64,
     "ret": 34
-   },
-   {
-    "inicio": 1794062856967,
-    "titulo": "Málaga CF vs. Real Racing Club",
-    "lado": "si",
-    "dur": 2.079,
-    "gan": 283.78,
-    "neta": 242.2,
-    "costo": 1694.22,
-    "ret": 16.7
    },
    {
     "inicio": 1794738069985,
@@ -217,37 +197,57 @@
     "neta": 19.22,
     "costo": 78.47,
     "ret": 26.5
+   },
+   {
+    "inicio": 1794588570882,
+    "titulo": "Highest temperature in Panama City on November 13?",
+    "lado": "si",
+    "dur": 0.032,
+    "gan": 19.81,
+    "neta": 18.58,
+    "costo": 57.39,
+    "ret": 34.5
+   },
+   {
+    "inicio": 1794147586859,
+    "titulo": "Tromsø IL vs. FK Bodø/Glimt",
+    "lado": "si",
+    "dur": 2.117,
+    "gan": 17.16,
+    "neta": 12.96,
+    "costo": 125.19,
+    "ret": 13.7
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4842,
-  "n": 1722,
-  "gan": 4652.9,
-  "nNeta": 437,
-  "neta": 1152.83
+  "conDato": 4856,
+  "n": 1727,
+  "gan": 4657.81,
+  "nNeta": 440,
+  "neta": 1155.2
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1412
+   "n": 1400
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2360
+   "n": 2340
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1330
+   "n": 1314
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 526
+   "n": 521
   },
   {
    "et": "30 s–5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794495600000,
-   "n": 10
-  },
   {
    "h": 1794499200000,
    "n": 35
@@ -619,10 +615,126 @@
   },
   {
    "h": 1794762000000,
-   "n": 14
+   "n": 26
+  },
+  {
+   "h": 1794765600000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794765648139,
+   "titulo": "AS Cittadella vs. US Folgore Caratese",
+   "dur": 4.881,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794765647994,
+   "titulo": "AS Cittadella vs. US Folgore Caratese",
+   "dur": 0.07,
+   "gan": 0.91,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794764983310,
+   "titulo": "CD Eldense vs. CE Sabadell FC",
+   "dur": 0.15,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794764686359,
+   "titulo": "Suriname vs. Eswatini",
+   "dur": 0.464,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794764478705,
+   "titulo": "CD Eldense vs. CE Sabadell FC",
+   "dur": 0.592,
+   "gan": 0.89,
+   "neta": 0.15,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794763860056,
+   "titulo": "Belarus vs. Albania",
+   "dur": 0.112,
+   "gan": 1.02,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794763855203,
+   "titulo": "Belarus vs. Albania",
+   "dur": 4.715,
+   "gan": 0.9,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794763851117,
+   "titulo": "Belarus vs. Albania",
+   "dur": 0.183,
+   "gan": 0.95,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794763769143,
+   "titulo": "Belarus vs. Albania",
+   "dur": 0.098,
+   "gan": 0.75,
+   "neta": 0.31,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794763750685,
+   "titulo": "Suriname vs. Eswatini",
+   "dur": 0.001,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794763074315,
+   "titulo": "Finland vs. San Marino",
+   "dur": 3.635,
+   "gan": 0.57,
+   "neta": 0.45,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794763068984,
+   "titulo": "Finland vs. San Marino",
+   "dur": 4.816,
+   "gan": 1.17,
+   "neta": 0.9,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794763065637,
+   "titulo": "Finland vs. San Marino",
+   "dur": 3.329,
+   "gan": 1.36,
+   "neta": 1.02,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794762966185,
+   "titulo": "FC Penafiel vs. Lusitania FC Lourosa",
+   "dur": 0.564,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794762659867,
    "titulo": "Granada CF vs. UD Las Palmas",
@@ -630,118 +742,6 @@
    "gan": 0.51,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794762659744,
-   "titulo": "Granada CF vs. UD Las Palmas",
-   "dur": 0.028,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794762659677,
-   "titulo": "Granada CF vs. UD Las Palmas",
-   "dur": 0.03,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794762659592,
-   "titulo": "Granada CF vs. UD Las Palmas",
-   "dur": 0.045,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794762659128,
-   "titulo": "Granada CF vs. UD Las Palmas",
-   "dur": 0.301,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794762658875,
-   "titulo": "Granada CF vs. UD Las Palmas",
-   "dur": 0.092,
-   "gan": 2.06,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794762658745,
-   "titulo": "Granada CF vs. UD Las Palmas",
-   "dur": 0.006,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794762658675,
-   "titulo": "Granada CF vs. UD Las Palmas",
-   "dur": 0.002,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794762658518,
-   "titulo": "Granada CF vs. UD Las Palmas",
-   "dur": 0.025,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794762658447,
-   "titulo": "Granada CF vs. UD Las Palmas",
-   "dur": 0.071,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794762658350,
-   "titulo": "Granada CF vs. UD Las Palmas",
-   "dur": 0.007,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794762658260,
-   "titulo": "Granada CF vs. UD Las Palmas",
-   "dur": 0.089,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794762470923,
-   "titulo": "\"Ebenezer\" Opening Weekend Box Office",
-   "dur": 0.592,
-   "gan": 0.8,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794762342328,
-   "titulo": "Arsenal WFC vs. London City Lionesses",
-   "dur": 0.149,
-   "gan": 1.44,
-   "neta": 0.19,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794759756521,
-   "titulo": "Spain vs. England",
-   "dur": 2315.918,
-   "gan": 54.8,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
