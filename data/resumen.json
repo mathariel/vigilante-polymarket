@@ -1,50 +1,50 @@
 {
- "actualizado": 1794768782523,
- "inicio": 1794060327783,
+ "actualizado": 1794771797052,
+ "inicio": 1794063481604,
  "ejecucion": {
-  "inicio": 1794765782221,
-  "fin": 1794768782523,
-  "mensajes": 9207275,
-  "reconexiones": 1,
-  "eventos": 583,
+  "inicio": 1794768796744,
+  "fin": 1794771797052,
+  "mensajes": 8946192,
+  "reconexiones": 0,
+  "eventos": 578,
   "errores": [],
-  "nuevos": 22,
-  "nuevosRentables": 2,
-  "nuevosNeta": 0.82
+  "nuevos": 60,
+  "nuevosRentables": 6,
+  "nuevosNeta": 5.88
  },
- "total": 6007,
- "falsos": 2364,
+ "total": 6065,
+ "falsos": 2374,
  "largos": {
-  "episodios": 14121,
-  "eventos": 157,
+  "episodios": 14230,
+  "eventos": 158,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8044,
+  "episodios": 7872,
   "eventos": 33
  },
- "mediana": 0.558,
+ "mediana": 0.553,
  "captura": [
   {
    "s": 0.5,
-   "n": 3136,
-   "gan": 9385.46,
-   "nNeta": 1019,
-   "neta": 2734.46
+   "n": 3159,
+   "gan": 9468.57,
+   "nNeta": 1026,
+   "neta": 2764.24
   },
   {
    "s": 2,
-   "n": 1550,
-   "gan": 4659.75,
-   "nNeta": 430,
-   "neta": 1373.52
+   "n": 1563,
+   "gan": 4693.73,
+   "nNeta": 436,
+   "neta": 1379.77
   },
   {
    "s": 5,
-   "n": 940,
-   "gan": 2603.62,
-   "nNeta": 178,
-   "neta": 543.46
+   "n": 942,
+   "gan": 2605.24,
+   "nNeta": 179,
+   "neta": 543.54
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 46.08
   }
  ],
- "rentables": 2002,
+ "rentables": 2013,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 82,
-   "descartadas": 262,
-   "neta": 192.43,
-   "dias": 7.71,
-   "semana": 174.74
+   "ops": 83,
+   "descartadas": 266,
+   "neta": 197.32,
+   "dias": 7.74,
+   "semana": 178.37
   },
   {
    "capital": 1000,
-   "ops": 104,
-   "descartadas": 262,
-   "neta": 292.77,
-   "dias": 7.71,
-   "semana": 265.85
+   "ops": 106,
+   "descartadas": 266,
+   "neta": 298.15,
+   "dias": 7.74,
+   "semana": 269.52
   },
   {
    "capital": 2000,
-   "ops": 121,
-   "descartadas": 262,
-   "neta": 424.37,
-   "dias": 7.71,
-   "semana": 385.36
+   "ops": 123,
+   "descartadas": 266,
+   "neta": 429.75,
+   "dias": 7.74,
+   "semana": 388.49
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 153.3,
-   "episodios": 3302,
-   "sospechosas": 46,
-   "realistaNeta": 418.47,
+   "horas": 154.2,
+   "episodios": 3362,
+   "sospechosas": 49,
+   "realistaNeta": 424.35,
    "capital": {
-    "500": 115.38,
-    "1000": 190.46,
-    "2000": 261.44
+    "500": 120.27,
+    "1000": 195.84,
+    "2000": 266.82
    },
    "cumple": true
   }
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 107,
+  "n": 110,
   "top": [
    {
     "inicio": 1794135838907,
@@ -157,6 +157,16 @@
     "neta": 33.56,
     "costo": 65.13,
     "ret": 54.8
+   },
+   {
+    "inicio": 1794769805301,
+    "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
+    "lado": "si",
+    "dur": 0.545,
+    "gan": 32.18,
+    "neta": 23.71,
+    "costo": 260.73,
+    "ret": 12.3
    },
    {
     "inicio": 1794173497930,
@@ -207,47 +217,37 @@
     "neta": 18.58,
     "costo": 57.39,
     "ret": 34.5
-   },
-   {
-    "inicio": 1794147586859,
-    "titulo": "Tromsø IL vs. FK Bodø/Glimt",
-    "lado": "si",
-    "dur": 2.117,
-    "gan": 17.16,
-    "neta": 12.96,
-    "costo": 125.19,
-    "ret": 13.7
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4878,
-  "n": 1729,
-  "gan": 4659.2,
-  "nNeta": 442,
-  "neta": 1156.02
+  "conDato": 4935,
+  "n": 1746,
+  "gan": 4701.37,
+  "nNeta": 448,
+  "neta": 1161.9
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1406
+   "n": 1431
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2341
+   "n": 2355
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1314
+   "n": 1331
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 519
+   "n": 521
   },
   {
    "et": "30 s–5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794499200000,
-   "n": 35
-  },
   {
    "h": 1794502800000,
    "n": 37
@@ -620,128 +616,132 @@
   {
    "h": 1794765600000,
    "n": 24
+  },
+  {
+   "h": 1794769200000,
+   "n": 60
   }
  ],
  "recientes": [
   {
-   "inicio": 1794768709981,
-   "titulo": "SD Eibar vs. Cádiz CF",
-   "dur": 0.824,
-   "gan": 0.69,
+   "inicio": 1794771780810,
+   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
+   "dur": 1.848,
+   "gan": 0.64,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794768633725,
-   "titulo": "SD Eibar vs. Cádiz CF",
-   "dur": 0.155,
-   "gan": 9.34,
-   "neta": 5.46,
+   "inicio": 1794771779684,
+   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
+   "dur": 0.954,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794771070397,
+   "titulo": "Highest temperature in NYC on November 16?",
+   "dur": 0.508,
+   "gan": 0.51,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794768270497,
+   "inicio": 1794770972957,
    "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
-   "dur": 0.027,
-   "gan": 1.33,
-   "neta": 0.53,
+   "dur": 0.195,
+   "gan": 1.42,
+   "neta": 0.16,
    "lado": "no"
   },
   {
-   "inicio": 1794768270420,
+   "inicio": 1794770600883,
    "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
-   "dur": 0.03,
-   "gan": 1.33,
-   "neta": 0.53,
-   "lado": "no"
+   "dur": 8.549,
+   "gan": 0.74,
+   "neta": 0.08,
+   "lado": "si"
   },
   {
-   "inicio": 1794768270336,
+   "inicio": 1794770596127,
    "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
-   "dur": 0.035,
-   "gan": 1.33,
-   "neta": 0.53,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794768270246,
-   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
-   "dur": 0.038,
-   "gan": 1.33,
-   "neta": 0.53,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794768270155,
-   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
-   "dur": 0.046,
-   "gan": 1.02,
-   "neta": 0.23,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794768270075,
-   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
-   "dur": 0.032,
-   "gan": 0.62,
+   "dur": 2.911,
+   "gan": 0.68,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794768270005,
+   "inicio": 1794770595855,
    "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
-   "dur": 0.032,
-   "gan": 0.62,
+   "dur": 0.235,
+   "gan": 0.68,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794768269830,
+   "inicio": 1794770595775,
    "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
-   "dur": 0.116,
-   "gan": 0.66,
+   "dur": 0.052,
+   "gan": 1.2,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794767963252,
-   "titulo": "Belarus vs. Albania",
-   "dur": 1.271,
-   "gan": 0.65,
-   "neta": 0.53,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794767962418,
-   "titulo": "Belarus vs. Albania",
-   "dur": 0.608,
-   "gan": 0.57,
-   "neta": 0.47,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794767627987,
-   "titulo": "Belarus vs. Albania",
-   "dur": 1.34,
-   "gan": 0.6,
-   "neta": 0.23,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794767627301,
-   "titulo": "Belarus vs. Albania",
-   "dur": 0.214,
-   "gan": 0.5,
-   "neta": 0.2,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794767580340,
+   "inicio": 1794770595194,
    "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
-   "dur": 0.782,
-   "gan": 4.76,
-   "neta": 0.12,
-   "lado": "no"
+   "dur": 0.551,
+   "gan": 1.2,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794770594829,
+   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
+   "dur": 0.332,
+   "gan": 1.2,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794770453245,
+   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
+   "dur": 0.1,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794770448712,
+   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
+   "dur": 4.166,
+   "gan": 3.27,
+   "neta": 0.32,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794770441880,
+   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
+   "dur": 4.418,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794770257260,
+   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
+   "dur": 2.265,
+   "gan": 0.74,
+   "neta": 0.15,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794770255646,
+   "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
+   "dur": 1.578,
+   "gan": 0.95,
+   "neta": 0.05,
+   "lado": "si"
   }
  ]
 }
