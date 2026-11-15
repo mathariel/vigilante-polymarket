@@ -1,84 +1,84 @@
 {
- "actualizado": 1794747685698,
- "inicio": 1794045391041,
+ "actualizado": 1794750700330,
+ "inicio": 1794048239774,
  "ejecucion": {
-  "inicio": 1794744685393,
-  "fin": 1794747685699,
-  "mensajes": 8399182,
+  "inicio": 1794747700024,
+  "fin": 1794750700330,
+  "mensajes": 9076593,
   "reconexiones": 0,
-  "eventos": 552,
+  "eventos": 588,
   "errores": [],
-  "nuevos": 4,
+  "nuevos": 6,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6116,
- "falsos": 2418,
+ "total": 6105,
+ "falsos": 2414,
  "largos": {
-  "episodios": 13896,
-  "eventos": 154,
+  "episodios": 13916,
+  "eventos": 155,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 8079,
+  "episodios": 8077,
   "eventos": 32
  },
- "mediana": 0.573,
+ "mediana": 0.57,
  "captura": [
   {
    "s": 0.5,
-   "n": 3213,
-   "gan": 10411.57,
-   "nNeta": 1036,
-   "neta": 3567.12
+   "n": 3205,
+   "gan": 10395.6,
+   "nNeta": 1034,
+   "neta": 3559.2
   },
   {
    "s": 2,
-   "n": 1590,
-   "gan": 5019.67,
-   "nNeta": 441,
-   "neta": 1710.12
+   "n": 1586,
+   "gan": 5008.42,
+   "nNeta": 440,
+   "neta": 1703.58
   },
   {
    "s": 5,
-   "n": 958,
-   "gan": 2543.09,
-   "nNeta": 184,
-   "neta": 559.4
+   "n": 955,
+   "gan": 2533.08,
+   "nNeta": 183,
+   "neta": 552.86
   },
   {
    "s": 30,
    "n": 423,
-   "gan": 786.72,
-   "nNeta": 56,
-   "neta": 56.74
+   "gan": 778.95,
+   "nNeta": 55,
+   "neta": 50.2
   }
  ],
- "rentables": 2022,
+ "rentables": 2020,
  "porCapital": [
   {
    "capital": 500,
    "ops": 79,
    "descartadas": 258,
    "neta": 191.09,
-   "dias": 7.46,
-   "semana": 179.2
+   "dias": 7.5,
+   "semana": 178.36
   },
   {
    "capital": 1000,
    "ops": 101,
    "descartadas": 258,
    "neta": 291.43,
-   "dias": 7.46,
-   "semana": 273.29
+   "dias": 7.5,
+   "semana": 272.02
   },
   {
    "capital": 2000,
    "ops": 118,
    "descartadas": 258,
    "neta": 423.03,
-   "dias": 7.46,
-   "semana": 396.71
+   "dias": 7.5,
+   "semana": 394.86
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 147.5,
-   "episodios": 3178,
+   "horas": 148.3,
+   "episodios": 3184,
    "sospechosas": 43,
    "realistaNeta": 414.56,
    "capital": {
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 110,
+  "n": 109,
   "top": [
    {
     "inicio": 1794062797308,
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 4757,
-  "n": 1703,
-  "gan": 4486.27,
+  "conDato": 4763,
+  "n": 1704,
+  "gan": 4486.96,
   "nNeta": 435,
   "neta": 1152.11
  },
@@ -232,32 +232,32 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1413
+   "n": 1409
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2374
+   "n": 2373
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1365
+   "n": 1362
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 535
+   "n": 532
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 320
+   "n": 321
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 103
+   "n": 102
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794477600000,
-   "n": 114
-  },
   {
    "h": 1794481200000,
    "n": 36
@@ -620,9 +616,61 @@
   {
    "h": 1794744000000,
    "n": 4
+  },
+  {
+   "h": 1794747600000,
+   "n": 6
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794749657372,
+   "titulo": "Finland vs. San Marino",
+   "dur": 194.911,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794749662869,
+   "titulo": "CD Tenerife vs. AD Ceuta FC",
+   "dur": 0.004,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794749609354,
+   "titulo": "CD Tenerife vs. AD Ceuta FC",
+   "dur": 0.473,
+   "gan": 2.4,
+   "neta": 0.8,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794748574713,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 0.35,
+   "gan": 0.91,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794748088821,
+   "titulo": "Giugliano Calcio 1928 vs. AC Savoia 1908",
+   "dur": 0.656,
+   "gan": 0.53,
+   "neta": 0.07,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794747934072,
+   "titulo": "CD Tenerife vs. AD Ceuta FC",
+   "dur": 1.26,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794747560567,
    "titulo": "Amarante FC vs. FC Felgueiras 1932",
@@ -693,54 +741,6 @@
    "dur": 0.774,
    "gan": 0.88,
    "neta": 0.12,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794738069985,
-   "titulo": "Highest temperature in Istanbul on November 15?",
-   "dur": 0.631,
-   "gan": 68.21,
-   "neta": 66.39,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794736542434,
-   "titulo": "Highest temperature in Dallas on November 15?",
-   "dur": 0.018,
-   "gan": 1.38,
-   "neta": 1.07,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794735593123,
-   "titulo": "Finland vs. San Marino",
-   "dur": 97.212,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794734714928,
-   "titulo": "Finland vs. San Marino",
-   "dur": 912.835,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794734941180,
-   "titulo": "Granada CF vs. UD Las Palmas",
-   "dur": 0.202,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794734701200,
-   "titulo": "Finland vs. San Marino",
-   "dur": 13.699,
-   "gan": 0.6,
-   "neta": 0,
    "lado": "no"
   }
  ]
