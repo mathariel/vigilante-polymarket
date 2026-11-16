@@ -1,84 +1,84 @@
 {
- "actualizado": 1794789886273,
+ "actualizado": 1794792906327,
  "inicio": 1794063481604,
  "ejecucion": {
-  "inicio": 1794786885954,
-  "fin": 1794789886273,
-  "mensajes": 7538165,
+  "inicio": 1794789906092,
+  "fin": 1794792906327,
+  "mensajes": 7579969,
   "reconexiones": 0,
-  "eventos": 537,
+  "eventos": 534,
   "errores": [],
   "nuevos": 15,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.85
+  "nuevosRentables": 3,
+  "nuevosNeta": 1.05
  },
- "total": 6403,
- "falsos": 2491,
+ "total": 6418,
+ "falsos": 2498,
  "largos": {
-  "episodios": 14545,
-  "eventos": 162,
+  "episodios": 14626,
+  "eventos": 163,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 7142,
+  "episodios": 7045,
   "eventos": 33
  },
- "mediana": 0.533,
+ "mediana": 0.532,
  "captura": [
   {
    "s": 0.5,
-   "n": 3285,
-   "gan": 9808.49,
-   "nNeta": 1042,
-   "neta": 2780.18
+   "n": 3291,
+   "gan": 9817.45,
+   "nNeta": 1046,
+   "neta": 2782.79
   },
   {
    "s": 2,
-   "n": 1622,
-   "gan": 4801.36,
-   "nNeta": 441,
-   "neta": 1388.11
+   "n": 1626,
+   "gan": 4807.4,
+   "nNeta": 443,
+   "neta": 1388.76
   },
   {
    "s": 5,
-   "n": 971,
-   "gan": 2642.69,
-   "nNeta": 179,
-   "neta": 541.54
+   "n": 974,
+   "gan": 2646.38,
+   "nNeta": 180,
+   "neta": 541.79
   },
   {
    "s": 30,
-   "n": 432,
-   "gan": 900.83,
+   "n": 433,
+   "gan": 903.33,
    "nNeta": 54,
    "neta": 46.08
   }
  ],
- "rentables": 2062,
+ "rentables": 2074,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 83,
-   "descartadas": 274,
-   "neta": 197.32,
-   "dias": 7.95,
-   "semana": 173.68
+   "ops": 84,
+   "descartadas": 276,
+   "neta": 197.72,
+   "dias": 7.99,
+   "semana": 173.27
   },
   {
    "capital": 1000,
-   "ops": 109,
-   "descartadas": 274,
-   "neta": 307.92,
-   "dias": 7.95,
-   "semana": 271.02
+   "ops": 110,
+   "descartadas": 276,
+   "neta": 308.32,
+   "dias": 7.99,
+   "semana": 270.19
   },
   {
    "capital": 2000,
-   "ops": 126,
-   "descartadas": 274,
-   "neta": 439.52,
-   "dias": 7.95,
-   "semana": 386.86
+   "ops": 127,
+   "descartadas": 276,
+   "neta": 439.92,
+   "dias": 7.99,
+   "semana": 385.52
   }
  ],
  "maxBloqueoH": 24,
@@ -101,14 +101,14 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 159.2,
-   "episodios": 3739,
+   "horas": 160,
+   "episodios": 3754,
    "sospechosas": 50,
-   "realistaNeta": 439.67,
+   "realistaNeta": 440.72,
    "capital": {
-    "500": 120.27,
-    "1000": 205.61,
-    "2000": 276.59
+    "500": 120.67,
+    "1000": 206.01,
+    "2000": 276.99
    },
    "cumple": true
   }
@@ -222,32 +222,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5311,
-  "n": 1825,
-  "gan": 4868.85,
-  "nNeta": 459,
-  "neta": 1177.22
+  "conDato": 5326,
+  "n": 1830,
+  "gan": 4875.75,
+  "nNeta": 462,
+  "neta": 1178.27
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1555
+   "n": 1560
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2472
+   "n": 2477
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1399
+   "n": 1401
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 539
+   "n": 541
   },
   {
    "et": "30 s–5 min",
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 104
+   "n": 105
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794520800000,
-   "n": 2
-  },
   {
    "h": 1794524400000,
    "n": 11
@@ -619,129 +615,133 @@
   },
   {
    "h": 1794787200000,
-   "n": 15
+   "n": 26
+  },
+  {
+   "h": 1794790800000,
+   "n": 4
   }
  ],
  "recientes": [
   {
-   "inicio": 1794788317227,
-   "titulo": "Panama vs. Curaçao",
-   "dur": 1.044,
-   "gan": 0.54,
+   "inicio": 1794792024120,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 881.973,
+   "gan": 2.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794788261188,
+   "inicio": 1794792861811,
    "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 16.602,
+   "dur": 12.434,
    "gan": 0.56,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794788219483,
-   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
-   "dur": 4.244,
-   "gan": 1.29,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794788215462,
-   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
-   "dur": 3.387,
-   "gan": 10.23,
-   "neta": 0.85,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794787801039,
-   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
-   "dur": 25.573,
-   "gan": 1.09,
+   "inicio": 1794792855509,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 0.299,
+   "gan": 0.61,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794787746553,
-   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
-   "dur": 54.429,
-   "gan": 0.89,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794787744488,
-   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
-   "dur": 2.034,
-   "gan": 0.98,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794787681933,
-   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
-   "dur": 62.526,
+   "inicio": 1794792469737,
+   "titulo": "Deportes Recoleta vs. Deportes Iquique",
+   "dur": 0.717,
    "gan": 1,
-   "neta": 0,
+   "neta": 0.76,
    "lado": "si"
   },
   {
-   "inicio": 1794787674717,
-   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
-   "dur": 7.182,
-   "gan": 0.52,
-   "neta": 0,
+   "inicio": 1794790308711,
+   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
+   "dur": 0.392,
+   "gan": 0.62,
+   "neta": 0.48,
    "lado": "si"
   },
   {
-   "inicio": 1794787674310,
-   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
-   "dur": 0.4,
+   "inicio": 1794790299175,
+   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
+   "dur": 0.01,
+   "gan": 0.59,
+   "neta": 0.24,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794790299119,
+   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
+   "dur": 0.016,
+   "gan": 0.63,
+   "neta": 0.25,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794790299004,
+   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
+   "dur": 0.058,
+   "gan": 0.6,
+   "neta": 0.24,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794790292280,
+   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
+   "dur": 6.664,
+   "gan": 0.63,
+   "neta": 0.25,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794790290281,
+   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
+   "dur": 1.973,
+   "gan": 0.61,
+   "neta": 0.34,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794790289913,
+   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
+   "dur": 0.342,
+   "gan": 0.68,
+   "neta": 0.32,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794790285793,
+   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
+   "dur": 3.48,
+   "gan": 2.26,
+   "neta": 0.36,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794790269756,
+   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
+   "dur": 0.025,
+   "gan": 0.61,
+   "neta": 0.23,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794790269724,
+   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
+   "dur": 0.02,
+   "gan": 0.68,
+   "neta": 0.32,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794790081973,
+   "titulo": "Deportes Recoleta vs. Deportes Iquique",
+   "dur": 0.163,
    "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794787672685,
-   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
-   "dur": 0.029,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794787672493,
-   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
-   "dur": 0.088,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794787671854,
-   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
-   "dur": 0.05,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794787670710,
-   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
-   "dur": 0.193,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794787668727,
-   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
-   "dur": 0.183,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
+   "neta": 0.37,
+   "lado": "no"
   }
  ]
 }
