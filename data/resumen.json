@@ -1,84 +1,84 @@
 {
- "actualizado": 1794826079319,
- "inicio": 1794078327379,
+ "actualizado": 1794829093982,
+ "inicio": 1794090577499,
  "ejecucion": {
-  "inicio": 1794823078996,
-  "fin": 1794826079319,
-  "mensajes": 7046600,
-  "reconexiones": 0,
-  "eventos": 551,
+  "inicio": 1794826093724,
+  "fin": 1794829093982,
+  "mensajes": 7569652,
+  "reconexiones": 6,
+  "eventos": 571,
   "errores": [],
-  "nuevos": 0,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 1,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.7
  },
- "total": 5628,
- "falsos": 2215,
+ "total": 5563,
+ "falsos": 2202,
  "largos": {
-  "episodios": 16432,
+  "episodios": 16522,
   "eventos": 160,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 6407,
+  "episodios": 6402,
   "eventos": 33
  },
- "mediana": 0.552,
+ "mediana": 0.553,
  "captura": [
   {
    "s": 0.5,
-   "n": 2922,
-   "gan": 8669.89,
-   "nNeta": 904,
-   "neta": 2439.92
+   "n": 2893,
+   "gan": 8612.79,
+   "nNeta": 895,
+   "neta": 2430.72
   },
   {
    "s": 2,
-   "n": 1496,
-   "gan": 4420.21,
-   "nNeta": 393,
-   "neta": 1308.36
+   "n": 1485,
+   "gan": 4387.76,
+   "nNeta": 390,
+   "neta": 1302.42
   },
   {
    "s": 5,
-   "n": 940,
-   "gan": 2487.07,
-   "nNeta": 163,
-   "neta": 504.57
+   "n": 932,
+   "gan": 2457.74,
+   "nNeta": 161,
+   "neta": 499.39
   },
   {
    "s": 30,
-   "n": 449,
-   "gan": 906.59,
+   "n": 448,
+   "gan": 900.45,
    "nNeta": 51,
    "neta": 44.82
   }
  ],
- "rentables": 1796,
+ "rentables": 1778,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 84,
+   "ops": 85,
    "descartadas": 277,
-   "neta": 197.72,
-   "dias": 8.37,
-   "semana": 165.32
+   "neta": 198.42,
+   "dias": 8.41,
+   "semana": 165.22
   },
   {
    "capital": 1000,
-   "ops": 110,
+   "ops": 111,
    "descartadas": 277,
-   "neta": 308.32,
-   "dias": 8.37,
-   "semana": 257.8
+   "neta": 309.02,
+   "dias": 8.41,
+   "semana": 257.31
   },
   {
    "capital": 2000,
-   "ops": 127,
+   "ops": 128,
    "descartadas": 277,
-   "neta": 439.92,
-   "dias": 8.37,
-   "semana": 367.83
+   "neta": 440.62,
+   "dias": 8.41,
+   "semana": 366.89
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 1,
-   "horas": 5,
-   "episodios": 73,
+   "horas": 5.8,
+   "episodios": 74,
    "sospechosas": 0,
-   "realistaNeta": 0.14,
+   "realistaNeta": 0.84,
    "capital": {
-    "500": 0,
-    "1000": 0,
-    "2000": 0
+    "500": 0.7,
+    "1000": 0.7,
+    "2000": 0.7
    },
    "cumple": false
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 88,
+  "n": 87,
   "top": [
    {
     "inicio": 1794135838907,
@@ -236,37 +236,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5446,
-  "n": 1884,
-  "gan": 4929.28,
-  "nNeta": 463,
-  "neta": 1178.41
+  "conDato": 5447,
+  "n": 1885,
+  "gan": 4930.06,
+  "nNeta": 464,
+  "neta": 1179.11
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1389
+   "n": 1372
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2108
+   "n": 2077
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1186
+   "n": 1177
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 491
+   "n": 484
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 339
+   "n": 338
   },
   {
    "et": "> 5 min",
@@ -305,10 +305,10 @@
   },
   {
    "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "n": 142,
-   "gan": 90.3,
+   "n": 139,
+   "gan": 88.39,
    "neta": 0,
-   "mediana": 0.83
+   "mediana": 0.827
   },
   {
    "titulo": "Slovakia vs. Faroe Islands",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794549600000,
-   "n": 1
-  },
   {
    "h": 1794556800000,
    "n": 20
@@ -634,9 +630,21 @@
   {
    "h": 1794819600000,
    "n": 50
+  },
+  {
+   "h": 1794826800000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794826808351,
+   "titulo": "Highest temperature in Moscow on November 16?",
+   "dur": 0.892,
+   "gan": 0.97,
+   "neta": 0.87,
+   "lado": "si"
+  },
   {
    "inicio": 1794822020729,
    "titulo": "Test Match: South Africa vs Bangladesh",
@@ -746,14 +754,6 @@
    "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
    "dur": 0.313,
    "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794820555370,
-   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
-   "dur": 0.241,
-   "gan": 0.98,
    "neta": 0,
    "lado": "no"
   }
