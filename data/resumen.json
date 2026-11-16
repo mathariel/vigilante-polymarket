@@ -1,84 +1,84 @@
 {
- "actualizado": 1794807980599,
- "inicio": 1794063481604,
+ "actualizado": 1794810995288,
+ "inicio": 1794063500314,
  "ejecucion": {
-  "inicio": 1794804980291,
-  "fin": 1794807980599,
-  "mensajes": 6898523,
+  "inicio": 1794807995001,
+  "fin": 1794810995288,
+  "mensajes": 7040384,
   "reconexiones": 0,
-  "eventos": 529,
+  "eventos": 534,
   "errores": [],
-  "nuevos": 0,
+  "nuevos": 2,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6393,
- "falsos": 2483,
+ "total": 6313,
+ "falsos": 2456,
  "largos": {
-  "episodios": 15126,
+  "episodios": 15241,
   "eventos": 164,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 6635,
-  "eventos": 33
+  "episodios": 6637,
+  "eventos": 34
  },
  "mediana": 0.526,
  "captura": [
   {
    "s": 0.5,
-   "n": 3272,
-   "gan": 9704.34,
-   "nNeta": 1037,
-   "neta": 2768.49
+   "n": 3233,
+   "gan": 9605.27,
+   "nNeta": 1024,
+   "neta": 2727.66
   },
   {
    "s": 2,
-   "n": 1622,
-   "gan": 4741.38,
-   "nNeta": 437,
-   "neta": 1375.79
+   "n": 1599,
+   "gan": 4710.52,
+   "nNeta": 431,
+   "neta": 1372.85
   },
   {
    "s": 5,
-   "n": 983,
-   "gan": 2650.33,
-   "nNeta": 180,
-   "neta": 541.79
+   "n": 972,
+   "gan": 2633.21,
+   "nNeta": 178,
+   "neta": 540.83
   },
   {
    "s": 30,
-   "n": 445,
-   "gan": 921.23,
+   "n": 443,
+   "gan": 919.53,
    "nNeta": 54,
    "neta": 46.08
   }
  ],
- "rentables": 2062,
+ "rentables": 2028,
  "porCapital": [
   {
    "capital": 500,
    "ops": 84,
    "descartadas": 276,
    "neta": 197.72,
-   "dias": 8.16,
-   "semana": 169.56
+   "dias": 8.2,
+   "semana": 168.84
   },
   {
    "capital": 1000,
    "ops": 110,
    "descartadas": 276,
    "neta": 308.32,
-   "dias": 8.16,
-   "semana": 264.41
+   "dias": 8.2,
+   "semana": 263.29
   },
   {
    "capital": 2000,
    "ops": 127,
    "descartadas": 276,
    "neta": 439.92,
-   "dias": 8.16,
-   "semana": 377.28
+   "dias": 8.2,
+   "semana": 375.67
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 1,
-   "horas": 0,
-   "episodios": 0,
+   "horas": 0.8,
+   "episodios": 2,
    "sospechosas": 0,
    "realistaNeta": 0,
    "capital": {
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 109,
+  "n": 103,
   "top": [
    {
     "inicio": 1794135838907,
@@ -151,16 +151,6 @@
     "neta": 66.39,
     "costo": 113.14,
     "ret": 60.3
-   },
-   {
-    "inicio": 1794067485399,
-    "titulo": "Torino FC vs. US Lecce",
-    "lado": "si",
-    "dur": 0.546,
-    "gan": 42.37,
-    "neta": 34.37,
-    "costo": 264.29,
-    "ret": 16
    },
    {
     "inicio": 1794263162651,
@@ -231,14 +221,24 @@
     "neta": 18.58,
     "costo": 57.39,
     "ret": 34.5
+   },
+   {
+    "inicio": 1794147586859,
+    "titulo": "Tromsø IL vs. FK Bodø/Glimt",
+    "lado": "si",
+    "dur": 2.117,
+    "gan": 17.16,
+    "neta": 12.96,
+    "costo": 125.19,
+    "ret": 13.7
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5373,
-  "n": 1852,
-  "gan": 4900.31,
+  "conDato": 5375,
+  "n": 1854,
+  "gan": 4902.31,
   "nNeta": 462,
   "neta": 1178.27
  },
@@ -246,32 +246,32 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1570
+   "n": 1548
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2450
+   "n": 2423
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1384
+   "n": 1364
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 538
+   "n": 529
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 333
+   "n": 332
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 112
+   "n": 111
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794535200000,
-   "n": 7
-  },
   {
    "h": 1794538800000,
    "n": 6
@@ -634,9 +630,29 @@
   {
    "h": 1794801600000,
    "n": 4
+  },
+  {
+   "h": 1794808800000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794810751512,
+   "titulo": "Montevideo Wanderers vs. CA Juventud de Las Piedras",
+   "dur": 243.492,
+   "gan": 1,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794810703213,
+   "titulo": "Montevideo Wanderers vs. CA Juventud de Las Piedras",
+   "dur": 20.003,
+   "gan": 1,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794803775388,
    "titulo": "Test Match: South Africa vs Bangladesh",
@@ -738,22 +754,6 @@
    "titulo": "Target Q3 comparable sales growth?",
    "dur": 16.196,
    "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794799038964,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 1.78,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794799037928,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.036,
-   "gan": 0.7,
    "neta": 0,
    "lado": "si"
   }
