@@ -1,55 +1,55 @@
 {
- "actualizado": 1794795918948,
+ "actualizado": 1794798932265,
  "inicio": 1794063481604,
  "ejecucion": {
-  "inicio": 1794792918712,
-  "fin": 1794795918948,
-  "mensajes": 7387831,
+  "inicio": 1794795931964,
+  "fin": 1794798932265,
+  "mensajes": 7454801,
   "reconexiones": 0,
   "eventos": 534,
   "errores": [],
-  "nuevos": 9,
+  "nuevos": 16,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6428,
- "falsos": 2499,
+ "total": 6445,
+ "falsos": 2501,
  "largos": {
-  "episodios": 14646,
-  "eventos": 163,
+  "episodios": 14672,
+  "eventos": 164,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 7021,
+  "episodios": 6985,
   "eventos": 33
  },
- "mediana": 0.529,
+ "mediana": 0.524,
  "captura": [
   {
    "s": 0.5,
-   "n": 3294,
-   "gan": 9821.38,
+   "n": 3297,
+   "gan": 9826.99,
    "nNeta": 1046,
    "neta": 2782.79
   },
   {
    "s": 2,
-   "n": 1627,
-   "gan": 4809.9,
+   "n": 1630,
+   "gan": 4815.51,
    "nNeta": 443,
    "neta": 1388.76
   },
   {
    "s": 5,
-   "n": 975,
-   "gan": 2648.88,
+   "n": 977,
+   "gan": 2653.88,
    "nNeta": 180,
    "neta": 541.79
   },
   {
    "s": 30,
-   "n": 434,
-   "gan": 905.83,
+   "n": 436,
+   "gan": 910.83,
    "nNeta": 54,
    "neta": 46.08
   }
@@ -61,24 +61,24 @@
    "ops": 84,
    "descartadas": 276,
    "neta": 197.72,
-   "dias": 8.02,
-   "semana": 172.52
+   "dias": 8.06,
+   "semana": 171.77
   },
   {
    "capital": 1000,
    "ops": 110,
    "descartadas": 276,
    "neta": 308.32,
-   "dias": 8.02,
-   "semana": 269.01
+   "dias": 8.06,
+   "semana": 267.85
   },
   {
    "capital": 2000,
    "ops": 127,
    "descartadas": 276,
    "neta": 439.92,
-   "dias": 8.02,
-   "semana": 383.84
+   "dias": 8.06,
+   "semana": 382.18
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 160.8,
-   "episodios": 3764,
+   "horas": 161.7,
+   "episodios": 3781,
    "sospechosas": 50,
    "realistaNeta": 440.72,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5336,
-  "n": 1833,
-  "gan": 4879.68,
+  "conDato": 5353,
+  "n": 1836,
+  "gan": 4885.29,
   "nNeta": 462,
   "neta": 1178.27
  },
@@ -232,17 +232,17 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1567
+   "n": 1579
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2478
+   "n": 2480
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1402
+   "n": 1403
   },
   {
    "et": "5–30 s",
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 106
+   "n": 108
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794528000000,
-   "n": 26
-  },
   {
    "h": 1794531600000,
    "n": 8
@@ -619,28 +615,80 @@
   },
   {
    "h": 1794794400000,
-   "n": 8
+   "n": 18
+  },
+  {
+   "h": 1794798000000,
+   "n": 7
   }
  ],
  "recientes": [
   {
-   "inicio": 1794792858485,
+   "inicio": 1794798083158,
    "titulo": "Test Match: South Africa vs Bangladesh",
-   "dur": 3060.231,
+   "dur": 848.809,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794798894308,
+   "titulo": "Target Q3 comparable sales growth?",
+   "dur": 0.013,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794798890350,
+   "titulo": "Target Q3 comparable sales growth?",
+   "dur": 3.939,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794798889326,
+   "titulo": "Target Q3 comparable sales growth?",
+   "dur": 0.02,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794798889147,
+   "titulo": "Target Q3 comparable sales growth?",
+   "dur": 0.038,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794798548208,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 0.262,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794798547665,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 0.478,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794795931960,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 2150.128,
    "gan": 2.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794794786263,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.018,
-   "gan": 0.8,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794794785239,
+   "inicio": 1794797799157,
    "titulo": "Target Q3 comparable sales growth?",
    "dur": 0.017,
    "gan": 0.8,
@@ -648,99 +696,51 @@
    "lado": "si"
   },
   {
-   "inicio": 1794794784546,
+   "inicio": 1794797798137,
    "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.613,
+   "dur": 0.017,
    "gan": 0.8,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794794783527,
+   "inicio": 1794797797106,
    "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.019,
+   "dur": 0.028,
    "gan": 0.8,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794794782497,
+   "inicio": 1794797797083,
    "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.026,
+   "dur": 0.006,
    "gan": 0.8,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794794782477,
+   "inicio": 1794797797032,
    "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.001,
+   "dur": 0.034,
    "gan": 0.8,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794794782442,
+   "inicio": 1794797518583,
    "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.018,
+   "dur": 0.015,
    "gan": 0.8,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794794778993,
+   "inicio": 1794797518543,
    "titulo": "Target Q3 comparable sales growth?",
-   "dur": 1.646,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794793486775,
-   "titulo": "Highest temperature in Tokyo on November 16?",
    "dur": 0.016,
-   "gan": 0.73,
-   "neta": 0.13,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794792024120,
-   "titulo": "Test Match: South Africa vs Bangladesh",
-   "dur": 881.973,
-   "gan": 2.5,
+   "gan": 0.8,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794792861811,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 12.434,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794792855509,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 0.299,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794792469737,
-   "titulo": "Deportes Recoleta vs. Deportes Iquique",
-   "dur": 0.717,
-   "gan": 1,
-   "neta": 0.76,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794790308711,
-   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
-   "dur": 0.392,
-   "gan": 0.62,
-   "neta": 0.48,
    "lado": "si"
   }
  ]
