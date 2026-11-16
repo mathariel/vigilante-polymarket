@@ -1,36 +1,36 @@
 {
- "actualizado": 1794868404559,
+ "actualizado": 1794871429842,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794865404296,
-  "fin": 1794868404560,
-  "mensajes": 7093715,
-  "reconexiones": 0,
-  "eventos": 540,
+  "inicio": 1794868429595,
+  "fin": 1794871429842,
+  "mensajes": 6487404,
+  "reconexiones": 3,
+  "eventos": 546,
   "errores": [],
-  "nuevos": 31,
-  "nuevosRentables": 3,
-  "nuevosNeta": 0.91
+  "nuevos": 3,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5886,
+ "total": 5889,
  "falsos": 2367,
  "largos": {
-  "episodios": 17872,
+  "episodios": 17959,
   "eventos": 164,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 4639,
+  "episodios": 4554,
   "eventos": 33
  },
  "mediana": 0.548,
  "captura": [
   {
    "s": 0.5,
-   "n": 3048,
-   "gan": 9029.38,
-   "nNeta": 935,
-   "neta": 2491.55
+   "n": 3049,
+   "gan": 9033.55,
+   "nNeta": 936,
+   "neta": 2492.14
   },
   {
    "s": 2,
@@ -54,31 +54,31 @@
    "neta": 44.92
   }
  ],
- "rentables": 1865,
+ "rentables": 1866,
  "porCapital": [
   {
    "capital": 500,
    "ops": 87,
    "descartadas": 295,
    "neta": 203.74,
-   "dias": 8.83,
-   "semana": 161.6
+   "dias": 8.86,
+   "semana": 160.96
   },
   {
    "capital": 1000,
    "ops": 114,
    "descartadas": 295,
    "neta": 319.32,
-   "dias": 8.83,
-   "semana": 253.28
+   "dias": 8.86,
+   "semana": 252.28
   },
   {
    "capital": 2000,
    "ops": 131,
    "descartadas": 295,
    "neta": 450.92,
-   "dias": 8.83,
-   "semana": 357.66
+   "dias": 8.86,
+   "semana": 356.25
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 1,
-   "horas": 15.8,
-   "episodios": 495,
+   "horas": 16.7,
+   "episodios": 498,
    "sospechosas": 4,
    "realistaNeta": 21.4,
    "capital": {
@@ -236,7 +236,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5799,
+  "conDato": 5802,
   "n": 2001,
   "gan": 5116.57,
   "nNeta": 485,
@@ -246,12 +246,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1483
+   "n": 1485
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2171
+   "n": 2172
   },
   {
    "et": "1–5 s",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794592800000,
-   "n": 17
-  },
   {
    "h": 1794596400000,
    "n": 57
@@ -634,9 +630,37 @@
   {
    "h": 1794866400000,
    "n": 10
+  },
+  {
+   "h": 1794870000000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794871359630,
+   "titulo": "Montevideo Wanderers vs. CA Juventud de Las Piedras",
+   "dur": 0.808,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794871359604,
+   "titulo": "Montevideo Wanderers vs. CA Juventud de Las Piedras",
+   "dur": 0.025,
+   "gan": 0.64,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794870520404,
+   "titulo": "Tahiti vs. Cook Islands",
+   "dur": 0.042,
+   "gan": 0.63,
+   "neta": 0.09,
+   "lado": "no"
+  },
   {
    "inicio": 1794867743917,
    "titulo": "CD Moquegua vs. CA Grau",
@@ -732,30 +756,6 @@
    "gan": 0.8,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794865677966,
-   "titulo": "CD Moquegua vs. CA Grau",
-   "dur": 3.347,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794865676936,
-   "titulo": "CD Moquegua vs. CA Grau",
-   "dur": 0.182,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794865676800,
-   "titulo": "CD Moquegua vs. CA Grau",
-   "dur": 0.113,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
