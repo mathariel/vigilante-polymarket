@@ -1,84 +1,84 @@
 {
- "actualizado": 1794804963911,
+ "actualizado": 1794807980599,
  "inicio": 1794063481604,
  "ejecucion": {
-  "inicio": 1794801963553,
-  "fin": 1794804963911,
-  "mensajes": 6474369,
+  "inicio": 1794804980291,
+  "fin": 1794807980599,
+  "mensajes": 6898523,
   "reconexiones": 0,
-  "eventos": 530,
+  "eventos": 529,
   "errores": [],
-  "nuevos": 4,
+  "nuevos": 0,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6463,
- "falsos": 2502,
+ "total": 6393,
+ "falsos": 2483,
  "largos": {
-  "episodios": 15029,
+  "episodios": 15126,
   "eventos": 164,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 6633,
+  "episodios": 6635,
   "eventos": 33
  },
- "mediana": 0.529,
+ "mediana": 0.526,
  "captura": [
   {
    "s": 0.5,
-   "n": 3312,
-   "gan": 9841.46,
-   "nNeta": 1046,
-   "neta": 2782.79
+   "n": 3272,
+   "gan": 9704.34,
+   "nNeta": 1037,
+   "neta": 2768.49
   },
   {
    "s": 2,
-   "n": 1644,
-   "gan": 4829.86,
-   "nNeta": 443,
-   "neta": 1388.76
+   "n": 1622,
+   "gan": 4741.38,
+   "nNeta": 437,
+   "neta": 1375.79
   },
   {
    "s": 5,
-   "n": 990,
-   "gan": 2667.26,
+   "n": 983,
+   "gan": 2650.33,
    "nNeta": 180,
    "neta": 541.79
   },
   {
    "s": 30,
-   "n": 446,
-   "gan": 922.14,
+   "n": 445,
+   "gan": 921.23,
    "nNeta": 54,
    "neta": 46.08
   }
  ],
- "rentables": 2076,
+ "rentables": 2062,
  "porCapital": [
   {
    "capital": 500,
    "ops": 84,
    "descartadas": 276,
    "neta": 197.72,
-   "dias": 8.13,
-   "semana": 170.29
+   "dias": 8.16,
+   "semana": 169.56
   },
   {
    "capital": 1000,
    "ops": 110,
    "descartadas": 276,
    "neta": 308.32,
-   "dias": 8.13,
-   "semana": 265.55
+   "dias": 8.16,
+   "semana": 264.41
   },
   {
    "capital": 2000,
    "ops": 127,
    "descartadas": 276,
    "neta": 439.92,
-   "dias": 8.13,
-   "semana": 378.9
+   "dias": 8.16,
+   "semana": 377.28
   }
  ],
  "maxBloqueoH": 24,
@@ -101,7 +101,7 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 163.3,
+   "horas": 164.2,
    "episodios": 3801,
    "sospechosas": 50,
    "realistaNeta": 440.72,
@@ -111,6 +111,20 @@
     "2000": 276.99
    },
    "cumple": true
+  },
+  {
+   "lunes": "2026-11-16",
+   "dias": 1,
+   "horas": 0,
+   "episodios": 0,
+   "sospechosas": 0,
+   "realistaNeta": 0,
+   "capital": {
+    "500": 0,
+    "1000": 0,
+    "2000": 0
+   },
+   "cumple": false
   }
  ],
  "criterioSemanal": 10,
@@ -232,27 +246,27 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1583
+   "n": 1570
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2479
+   "n": 2450
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1405
+   "n": 1384
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 544
+   "n": 538
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 334
+   "n": 333
   },
   {
    "et": "> 5 min",
