@@ -1,84 +1,84 @@
 {
- "actualizado": 1794798932265,
+ "actualizado": 1794801947578,
  "inicio": 1794063481604,
  "ejecucion": {
-  "inicio": 1794795931964,
-  "fin": 1794798932265,
-  "mensajes": 7454801,
+  "inicio": 1794798947251,
+  "fin": 1794801947578,
+  "mensajes": 6463393,
   "reconexiones": 0,
-  "eventos": 534,
+  "eventos": 529,
   "errores": [],
   "nuevos": 16,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6445,
- "falsos": 2501,
+ "total": 6461,
+ "falsos": 2504,
  "largos": {
-  "episodios": 14672,
+  "episodios": 14868,
   "eventos": 164,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 6985,
+  "episodios": 6781,
   "eventos": 33
  },
- "mediana": 0.524,
+ "mediana": 0.527,
  "captura": [
   {
    "s": 0.5,
-   "n": 3297,
-   "gan": 9826.99,
+   "n": 3309,
+   "gan": 9837.97,
    "nNeta": 1046,
    "neta": 2782.79
   },
   {
    "s": 2,
-   "n": 1630,
-   "gan": 4815.51,
+   "n": 1641,
+   "gan": 4826.37,
    "nNeta": 443,
    "neta": 1388.76
   },
   {
    "s": 5,
-   "n": 977,
-   "gan": 2653.88,
+   "n": 987,
+   "gan": 2664.23,
    "nNeta": 180,
    "neta": 541.79
   },
   {
    "s": 30,
-   "n": 436,
-   "gan": 910.83,
+   "n": 443,
+   "gan": 919.11,
    "nNeta": 54,
    "neta": 46.08
   }
  ],
- "rentables": 2075,
+ "rentables": 2077,
  "porCapital": [
   {
    "capital": 500,
    "ops": 84,
    "descartadas": 276,
    "neta": 197.72,
-   "dias": 8.06,
-   "semana": 171.77
+   "dias": 8.09,
+   "semana": 171.03
   },
   {
    "capital": 1000,
    "ops": 110,
    "descartadas": 276,
    "neta": 308.32,
-   "dias": 8.06,
-   "semana": 267.85
+   "dias": 8.09,
+   "semana": 266.69
   },
   {
    "capital": 2000,
    "ops": 127,
    "descartadas": 276,
    "neta": 439.92,
-   "dias": 8.06,
-   "semana": 382.18
+   "dias": 8.09,
+   "semana": 380.53
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 161.7,
-   "episodios": 3781,
+   "horas": 162.5,
+   "episodios": 3797,
    "sospechosas": 50,
    "realistaNeta": 440.72,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5353,
-  "n": 1836,
-  "gan": 4885.29,
+  "conDato": 5369,
+  "n": 1848,
+  "gan": 4896.27,
   "nNeta": 462,
   "neta": 1178.27
  },
@@ -232,7 +232,7 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1579
+   "n": 1583
   },
   {
    "et": "0.1–1 s",
@@ -242,22 +242,22 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1403
+   "n": 1405
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 541
+   "n": 544
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 328
+   "n": 333
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 108
+   "n": 110
   }
  ],
  "porEvento": [
@@ -619,127 +619,127 @@
   },
   {
    "h": 1794798000000,
-   "n": 7
+   "n": 23
   }
  ],
  "recientes": [
   {
-   "inicio": 1794798083158,
+   "inicio": 1794799928345,
    "titulo": "Test Match: South Africa vs Bangladesh",
-   "dur": 848.809,
+   "dur": 1927.288,
    "gan": 0.62,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794798894308,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.013,
-   "gan": 0.61,
-   "neta": 0,
+   "inicio": 1794801577702,
+   "titulo": "Highest temperature in Shanghai on November 16?",
+   "dur": 0.002,
+   "gan": 0.68,
+   "neta": 0.53,
    "lado": "si"
   },
   {
-   "inicio": 1794798890350,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 3.939,
-   "gan": 0.61,
-   "neta": 0,
+   "inicio": 1794801577547,
+   "titulo": "Highest temperature in Shanghai on November 16?",
+   "dur": 0.042,
+   "gan": 0.67,
+   "neta": 0.52,
    "lado": "si"
   },
   {
-   "inicio": 1794798889326,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.02,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794798889147,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.038,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794798548208,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 0.262,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794798547665,
-   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
-   "dur": 0.478,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794795931960,
+   "inicio": 1794798949114,
    "titulo": "Test Match: South Africa vs Bangladesh",
-   "dur": 2150.128,
-   "gan": 2.5,
+   "dur": 979.113,
+   "gan": 2.11,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794797799157,
+   "inicio": 1794799229111,
    "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.017,
-   "gan": 0.8,
+   "dur": 251.748,
+   "gan": 1.12,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794797798137,
+   "inicio": 1794799144746,
    "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.017,
-   "gan": 0.8,
+   "dur": 83.952,
+   "gan": 0.61,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794797797106,
+   "inicio": 1794799113323,
    "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.028,
-   "gan": 0.8,
+   "dur": 31.409,
+   "gan": 0.91,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794797797083,
+   "inicio": 1794799058309,
    "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.006,
-   "gan": 0.8,
+   "dur": 53.711,
+   "gan": 0.61,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794797797032,
+   "inicio": 1794799042107,
    "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.034,
-   "gan": 0.8,
+   "dur": 16.196,
+   "gan": 0.6,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794797518583,
+   "inicio": 1794799038964,
    "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.015,
-   "gan": 0.8,
+   "dur": 1.78,
+   "gan": 0.7,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794797518543,
+   "inicio": 1794799037928,
    "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.016,
-   "gan": 0.8,
+   "dur": 0.036,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794799036318,
+   "titulo": "Target Q3 comparable sales growth?",
+   "dur": 0.07,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794799027476,
+   "titulo": "Target Q3 comparable sales growth?",
+   "dur": 7.275,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794799017774,
+   "titulo": "Target Q3 comparable sales growth?",
+   "dur": 6.836,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794798953288,
+   "titulo": "Target Q3 comparable sales growth?",
+   "dur": 63.493,
+   "gan": 0.5,
    "neta": 0,
    "lado": "si"
   }
