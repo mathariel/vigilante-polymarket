@@ -1,84 +1,84 @@
 {
- "actualizado": 1794847264227,
+ "actualizado": 1794850289541,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794844263894,
-  "fin": 1794847264227,
-  "mensajes": 10589854,
-  "reconexiones": 2,
-  "eventos": 555,
+  "inicio": 1794847289314,
+  "fin": 1794850289541,
+  "mensajes": 9153462,
+  "reconexiones": 1,
+  "eventos": 531,
   "errores": [],
-  "nuevos": 78,
-  "nuevosRentables": 4,
-  "nuevosNeta": 1.49
+  "nuevos": 119,
+  "nuevosRentables": 6,
+  "nuevosNeta": 0.82
  },
- "total": 5643,
- "falsos": 2248,
+ "total": 5762,
+ "falsos": 2263,
  "largos": {
-  "episodios": 17134,
+  "episodios": 17218,
   "eventos": 161,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 5699,
+  "episodios": 5484,
   "eventos": 32
  },
- "mediana": 0.556,
+ "mediana": 0.545,
  "captura": [
   {
    "s": 0.5,
-   "n": 2936,
-   "gan": 8839.08,
-   "nNeta": 899,
-   "neta": 2466.48
+   "n": 2975,
+   "gan": 8897.51,
+   "nNeta": 906,
+   "neta": 2467.69
   },
   {
    "s": 2,
-   "n": 1522,
-   "gan": 4470.93,
-   "nNeta": 396,
-   "neta": 1346.55
+   "n": 1541,
+   "gan": 4505.17,
+   "nNeta": 400,
+   "neta": 1347.06
   },
   {
    "s": 5,
-   "n": 951,
-   "gan": 2474.4,
-   "nNeta": 162,
-   "neta": 512.73
+   "n": 958,
+   "gan": 2488.66,
+   "nNeta": 164,
+   "neta": 512.86
   },
   {
    "s": 30,
-   "n": 459,
-   "gan": 921.47,
-   "nNeta": 51,
-   "neta": 44.82
+   "n": 462,
+   "gan": 932.89,
+   "nNeta": 52,
+   "neta": 44.92
   }
  ],
- "rentables": 1780,
+ "rentables": 1816,
  "porCapital": [
   {
    "capital": 500,
    "ops": 85,
-   "descartadas": 281,
+   "descartadas": 287,
    "neta": 202.28,
-   "dias": 8.58,
-   "semana": 165.02
+   "dias": 8.62,
+   "semana": 164.35
   },
   {
    "capital": 1000,
    "ops": 112,
-   "descartadas": 281,
+   "descartadas": 287,
    "neta": 317.86,
-   "dias": 8.58,
-   "semana": 259.31
+   "dias": 8.62,
+   "semana": 258.25
   },
   {
    "capital": 2000,
    "ops": 129,
-   "descartadas": 281,
+   "descartadas": 287,
    "neta": 449.46,
-   "dias": 8.58,
-   "semana": 366.67
+   "dias": 8.62,
+   "semana": 365.18
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 1,
-   "horas": 10,
-   "episodios": 252,
+   "horas": 10.8,
+   "episodios": 371,
    "sospechosas": 2,
-   "realistaNeta": 16.67,
+   "realistaNeta": 17.49,
    "capital": {
     "500": 9.77,
     "1000": 14.75,
@@ -236,37 +236,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5558,
-  "n": 1940,
-  "gan": 5010.4,
-  "nNeta": 469,
-  "neta": 1189.56
+  "conDato": 5677,
+  "n": 1966,
+  "gan": 5050.55,
+  "nNeta": 475,
+  "neta": 1190.38
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1410
+   "n": 1457
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2082
+   "n": 2123
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1195
+   "n": 1219
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 492
+   "n": 496
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 345
+   "n": 348
   },
   {
    "et": "> 5 min",
@@ -295,6 +295,13 @@
    "gan": 781.01,
    "neta": 271.05,
    "mediana": 2.599
+  },
+  {
+   "titulo": "Kazakhstan vs. Slovakia",
+   "n": 170,
+   "gan": 248.31,
+   "neta": 21.73,
+   "mediana": 0.132
   },
   {
    "titulo": "Manchester United FC vs. Aston Villa FC",
@@ -337,20 +344,9 @@
    "gan": 175.62,
    "neta": 66.75,
    "mediana": 0.177
-  },
-  {
-   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
-   "n": 85,
-   "gan": 231.43,
-   "neta": 0.44,
-   "mediana": 0.115
   }
  ],
  "porHora": [
-  {
-   "h": 1794571200000,
-   "n": 12
-  },
   {
    "h": 1794574800000,
    "n": 25
@@ -633,129 +629,133 @@
   },
   {
    "h": 1794844800000,
-   "n": 78
+   "n": 178
+  },
+  {
+   "h": 1794848400000,
+   "n": 19
   }
  ],
  "recientes": [
   {
-   "inicio": 1794847238131,
-   "titulo": "Kazakhstan vs. Slovakia",
-   "dur": 3.293,
-   "gan": 10.8,
-   "neta": 0.96,
+   "inicio": 1794850097484,
+   "titulo": "Iceland vs. Luxembourg - Halftime Result",
+   "dur": 0.379,
+   "gan": 0.77,
+   "neta": 0.16,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794850096867,
+   "titulo": "Iceland vs. Luxembourg - Halftime Result",
+   "dur": 0.025,
+   "gan": 1.07,
+   "neta": 0.55,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794849527069,
+   "titulo": "Iceland vs. Luxembourg",
+   "dur": 0.165,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794849517655,
+   "titulo": "Iceland vs. Luxembourg",
+   "dur": 9.407,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794849421736,
+   "titulo": "Lithuania vs. Liechtenstein",
+   "dur": 2.196,
+   "gan": 0.5,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794847213666,
-   "titulo": "Kazakhstan vs. Slovakia",
-   "dur": 0.15,
+   "inicio": 1794849418146,
+   "titulo": "Lithuania vs. Liechtenstein",
+   "dur": 1.094,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794849414760,
+   "titulo": "Lithuania vs. Liechtenstein",
+   "dur": 3.336,
+   "gan": 0.77,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794849413996,
+   "titulo": "Lithuania vs. Liechtenstein",
+   "dur": 0.646,
    "gan": 0.52,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794847212941,
-   "titulo": "Kazakhstan vs. Slovakia",
-   "dur": 0.506,
-   "gan": 2.64,
-   "neta": 0.03,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794847205902,
-   "titulo": "Kazakhstan vs. Slovakia",
-   "dur": 0.033,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794847202633,
-   "titulo": "Kazakhstan vs. Slovakia",
-   "dur": 0.996,
-   "gan": 13.86,
-   "neta": 7.5,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794847202508,
-   "titulo": "Kazakhstan vs. Slovakia",
-   "dur": 0.023,
-   "gan": 1.8,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794847202418,
-   "titulo": "Kazakhstan vs. Slovakia",
-   "dur": 0.031,
-   "gan": 0.78,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794847199999,
-   "titulo": "Kazakhstan vs. Slovakia",
-   "dur": 0.503,
-   "gan": 1.81,
-   "neta": 0.06,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794847199908,
-   "titulo": "Kazakhstan vs. Slovakia",
-   "dur": 0.015,
-   "gan": 0.53,
-   "neta": 0.18,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794847199868,
-   "titulo": "Kazakhstan vs. Slovakia",
-   "dur": 0.035,
-   "gan": 2.88,
-   "neta": 0.07,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794847199331,
-   "titulo": "Kazakhstan vs. Slovakia",
+   "inicio": 1794849413927,
+   "titulo": "Lithuania vs. Liechtenstein",
    "dur": 0.008,
-   "gan": 1.31,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794847197313,
-   "titulo": "Kazakhstan vs. Slovakia",
-   "dur": 1.731,
-   "gan": 2.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794847193367,
-   "titulo": "Kazakhstan vs. Slovakia",
-   "dur": 0.033,
-   "gan": 0.84,
+   "gan": 0.52,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794847187218,
-   "titulo": "Kazakhstan vs. Slovakia",
-   "dur": 0.773,
-   "gan": 0.64,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794847187202,
-   "titulo": "Kazakhstan vs. Slovakia",
+   "inicio": 1794849413831,
+   "titulo": "Lithuania vs. Liechtenstein",
    "dur": 0.004,
    "gan": 0.52,
    "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794849413770,
+   "titulo": "Lithuania vs. Liechtenstein",
+   "dur": 0.029,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794849409908,
+   "titulo": "Lithuania vs. Liechtenstein",
+   "dur": 3.295,
+   "gan": 1.4,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794849394250,
+   "titulo": "Iceland vs. Luxembourg",
+   "dur": 1.827,
+   "gan": 0.53,
+   "neta": 0,
    "lado": "si"
+  },
+  {
+   "inicio": 1794849360775,
+   "titulo": "Iceland vs. Luxembourg",
+   "dur": 11.139,
+   "gan": 0.73,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794849240082,
+   "titulo": "Iceland vs. Luxembourg - Halftime Result",
+   "dur": 0.842,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
