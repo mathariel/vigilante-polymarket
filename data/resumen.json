@@ -1,43 +1,43 @@
 {
- "actualizado": 1794865390550,
+ "actualizado": 1794868404559,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794862390242,
-  "fin": 1794865390551,
-  "mensajes": 10436861,
-  "reconexiones": 4,
-  "eventos": 549,
+  "inicio": 1794865404296,
+  "fin": 1794868404560,
+  "mensajes": 7093715,
+  "reconexiones": 0,
+  "eventos": 540,
   "errores": [],
-  "nuevos": 28,
-  "nuevosRentables": 2,
-  "nuevosNeta": 1.15
+  "nuevos": 31,
+  "nuevosRentables": 3,
+  "nuevosNeta": 0.91
  },
- "total": 5855,
- "falsos": 2356,
+ "total": 5886,
+ "falsos": 2367,
  "largos": {
-  "episodios": 17740,
-  "eventos": 163,
+  "episodios": 17872,
+  "eventos": 164,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 4807,
+  "episodios": 4639,
   "eventos": 33
  },
  "mediana": 0.548,
  "captura": [
   {
    "s": 0.5,
-   "n": 3034,
-   "gan": 9005.57,
-   "nNeta": 927,
-   "neta": 2490.13
+   "n": 3048,
+   "gan": 9029.38,
+   "nNeta": 935,
+   "neta": 2491.55
   },
   {
    "s": 2,
-   "n": 1564,
-   "gan": 4556.73,
-   "nNeta": 406,
-   "neta": 1352.22
+   "n": 1568,
+   "gan": 4567.7,
+   "nNeta": 409,
+   "neta": 1353.13
   },
   {
    "s": 5,
@@ -54,31 +54,31 @@
    "neta": 44.92
   }
  ],
- "rentables": 1854,
+ "rentables": 1865,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 86,
-   "descartadas": 293,
-   "neta": 203.03,
-   "dias": 8.79,
-   "semana": 161.68
+   "ops": 87,
+   "descartadas": 295,
+   "neta": 203.74,
+   "dias": 8.83,
+   "semana": 161.6
   },
   {
    "capital": 1000,
-   "ops": 113,
-   "descartadas": 293,
-   "neta": 318.61,
-   "dias": 8.79,
-   "semana": 253.72
+   "ops": 114,
+   "descartadas": 295,
+   "neta": 319.32,
+   "dias": 8.83,
+   "semana": 253.28
   },
   {
    "capital": 2000,
-   "ops": 130,
-   "descartadas": 293,
-   "neta": 450.21,
-   "dias": 8.79,
-   "semana": 358.51
+   "ops": 131,
+   "descartadas": 295,
+   "neta": 450.92,
+   "dias": 8.83,
+   "semana": 357.66
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 1,
-   "horas": 15,
-   "episodios": 464,
+   "horas": 15.8,
+   "episodios": 495,
    "sospechosas": 4,
-   "realistaNeta": 20.49,
+   "realistaNeta": 21.4,
    "capital": {
-    "500": 10.52,
-    "1000": 15.5,
-    "2000": 15.5
+    "500": 11.23,
+    "1000": 16.21,
+    "2000": 16.21
    },
    "cumple": true
   }
@@ -236,27 +236,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5768,
-  "n": 1996,
-  "gan": 5105.03,
-  "nNeta": 482,
-  "neta": 1193.38
+  "conDato": 5799,
+  "n": 2001,
+  "gan": 5116.57,
+  "nNeta": 485,
+  "neta": 1194.29
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1474
+   "n": 1483
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2158
+   "n": 2171
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1253
+   "n": 1262
   },
   {
    "et": "5–30 s",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794589200000,
-   "n": 23
-  },
   {
    "h": 1794592800000,
    "n": 17
@@ -633,127 +629,131 @@
   },
   {
    "h": 1794862800000,
-   "n": 14
+   "n": 35
+  },
+  {
+   "h": 1794866400000,
+   "n": 10
   }
  ],
  "recientes": [
   {
-   "inicio": 1794864961887,
-   "titulo": "Greece vs. Serbia",
-   "dur": 1.153,
-   "gan": 1.4,
-   "neta": 0.86,
+   "inicio": 1794867743917,
+   "titulo": "CD Moquegua vs. CA Grau",
+   "dur": 0.23,
+   "gan": 37.61,
+   "neta": 20.4,
    "lado": "si"
   },
   {
-   "inicio": 1794864961086,
-   "titulo": "Greece vs. Serbia",
-   "dur": 0.771,
-   "gan": 1.35,
-   "neta": 0.84,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794864277797,
-   "titulo": "Gibraltar vs. Malta",
-   "dur": 1.388,
-   "gan": 1.32,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794864275390,
-   "titulo": "Gibraltar vs. Malta",
-   "dur": 0.286,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794864274871,
-   "titulo": "Gibraltar vs. Malta",
-   "dur": 0.099,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794864209224,
-   "titulo": "Gibraltar vs. Malta",
-   "dur": 0.67,
-   "gan": 0.7,
-   "neta": 0.05,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794863806604,
-   "titulo": "Greece vs. Serbia",
-   "dur": 1.313,
-   "gan": 1.88,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794863713357,
-   "titulo": "Greece vs. Serbia",
-   "dur": 0.951,
-   "gan": 1,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794863712507,
-   "titulo": "Greece vs. Serbia",
-   "dur": 0.64,
-   "gan": 1.11,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794863652262,
-   "titulo": "Albacete Balompié vs. Celta Fortuna",
-   "dur": 2.232,
-   "gan": 0.83,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794863636777,
-   "titulo": "Albacete Balompié vs. Celta Fortuna",
-   "dur": 0.576,
-   "gan": 0.54,
+   "inicio": 1794867738092,
+   "titulo": "CD Moquegua vs. CA Grau",
+   "dur": 0.001,
+   "gan": 0.53,
    "neta": 0.04,
    "lado": "si"
   },
   {
-   "inicio": 1794863309082,
-   "titulo": "North Macedonia vs. Slovenia",
-   "dur": 0.011,
-   "gan": 0.83,
+   "inicio": 1794867548160,
+   "titulo": "CD Moquegua vs. CA Grau",
+   "dur": 0.028,
+   "gan": 0.68,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794863234810,
-   "titulo": "Germany vs. Netherlands",
-   "dur": 2.93,
-   "gan": 0.64,
-   "neta": 0.27,
+   "inicio": 1794867479338,
+   "titulo": "CD Moquegua vs. CA Grau",
+   "dur": 0.263,
+   "gan": 0.68,
+   "neta": 0.06,
    "lado": "si"
   },
   {
-   "inicio": 1794863160408,
-   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
-   "dur": 12.224,
-   "gan": 0.52,
+   "inicio": 1794866629281,
+   "titulo": "Cusco FC vs. AD Tarma",
+   "dur": 1.252,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794866625312,
+   "titulo": "Cusco FC vs. AD Tarma",
+   "dur": 3.695,
+   "gan": 0.51,
+   "neta": 0.1,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794866555023,
+   "titulo": "Cusco FC vs. AD Tarma",
+   "dur": 0.021,
+   "gan": 0.55,
+   "neta": 0.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794866553332,
+   "titulo": "Cusco FC vs. AD Tarma",
+   "dur": 0.831,
+   "gan": 0.55,
+   "neta": 0.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794866551285,
+   "titulo": "Cusco FC vs. AD Tarma",
+   "dur": 1.934,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794866549853,
+   "titulo": "Cusco FC vs. AD Tarma",
+   "dur": 0.791,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794865905785,
+   "titulo": "CD Moquegua vs. CA Grau",
+   "dur": 1.067,
+   "gan": 0.85,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794865905482,
+   "titulo": "CD Moquegua vs. CA Grau",
+   "dur": 0.093,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794865677966,
+   "titulo": "CD Moquegua vs. CA Grau",
+   "dur": 3.347,
+   "gan": 0.56,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794862679652,
-   "titulo": "Switzerland vs. Scotland",
-   "dur": 2.185,
-   "gan": 0.91,
+   "inicio": 1794865676936,
+   "titulo": "CD Moquegua vs. CA Grau",
+   "dur": 0.182,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794865676800,
+   "titulo": "CD Moquegua vs. CA Grau",
+   "dur": 0.113,
+   "gan": 0.57,
    "neta": 0,
    "lado": "no"
   }
