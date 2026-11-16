@@ -1,84 +1,84 @@
 {
- "actualizado": 1794823064339,
- "inicio": 1794072246760,
+ "actualizado": 1794826079319,
+ "inicio": 1794078327379,
  "ejecucion": {
-  "inicio": 1794820064033,
-  "fin": 1794823064339,
-  "mensajes": 6912931,
+  "inicio": 1794823078996,
+  "fin": 1794826079319,
+  "mensajes": 7046600,
   "reconexiones": 0,
-  "eventos": 546,
+  "eventos": 551,
   "errores": [],
-  "nuevos": 23,
+  "nuevos": 0,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5963,
- "falsos": 2354,
+ "total": 5628,
+ "falsos": 2215,
  "largos": {
-  "episodios": 15910,
-  "eventos": 161,
+  "episodios": 16432,
+  "eventos": 160,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 6448,
-  "eventos": 35
+  "episodios": 6407,
+  "eventos": 33
  },
- "mediana": 0.536,
+ "mediana": 0.552,
  "captura": [
   {
    "s": 0.5,
-   "n": 3069,
-   "gan": 9140.37,
-   "nNeta": 966,
-   "neta": 2642.17
+   "n": 2922,
+   "gan": 8669.89,
+   "nNeta": 904,
+   "neta": 2439.92
   },
   {
    "s": 2,
-   "n": 1553,
-   "gan": 4548.09,
-   "nNeta": 413,
-   "neta": 1333.11
+   "n": 1496,
+   "gan": 4420.21,
+   "nNeta": 393,
+   "neta": 1308.36
   },
   {
    "s": 5,
-   "n": 961,
-   "gan": 2543.99,
-   "nNeta": 172,
-   "neta": 517.86
+   "n": 940,
+   "gan": 2487.07,
+   "nNeta": 163,
+   "neta": 504.57
   },
   {
    "s": 30,
-   "n": 451,
-   "gan": 908.32,
-   "nNeta": 53,
-   "neta": 45.48
+   "n": 449,
+   "gan": 906.59,
+   "nNeta": 51,
+   "neta": 44.82
   }
  ],
- "rentables": 1925,
+ "rentables": 1796,
  "porCapital": [
   {
    "capital": 500,
    "ops": 84,
    "descartadas": 277,
    "neta": 197.72,
-   "dias": 8.34,
-   "semana": 166.01
+   "dias": 8.37,
+   "semana": 165.32
   },
   {
    "capital": 1000,
    "ops": 110,
    "descartadas": 277,
    "neta": 308.32,
-   "dias": 8.34,
-   "semana": 258.88
+   "dias": 8.37,
+   "semana": 257.8
   },
   {
    "capital": 2000,
    "ops": 127,
    "descartadas": 277,
    "neta": 439.92,
-   "dias": 8.34,
-   "semana": 369.37
+   "dias": 8.37,
+   "semana": 367.83
   }
  ],
  "maxBloqueoH": 24,
@@ -115,7 +115,7 @@
   {
    "lunes": "2026-11-16",
    "dias": 1,
-   "horas": 4.2,
+   "horas": 5,
    "episodios": 73,
    "sospechosas": 0,
    "realistaNeta": 0.14,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 100,
+  "n": 88,
   "top": [
    {
     "inicio": 1794135838907,
@@ -246,32 +246,32 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1473
+   "n": 1389
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2255
+   "n": 2108
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1269
+   "n": 1186
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 510
+   "n": 491
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 340
+   "n": 339
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 111
+   "n": 110
   }
  ],
  "porEvento": [
@@ -305,10 +305,10 @@
   },
   {
    "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "n": 149,
-   "gan": 96.25,
+   "n": 142,
+   "gan": 90.3,
    "neta": 0,
-   "mediana": 0.831
+   "mediana": 0.83
   },
   {
    "titulo": "Slovakia vs. Faroe Islands",
