@@ -1,84 +1,84 @@
 {
- "actualizado": 1794801947578,
+ "actualizado": 1794804963911,
  "inicio": 1794063481604,
  "ejecucion": {
-  "inicio": 1794798947251,
-  "fin": 1794801947578,
-  "mensajes": 6463393,
+  "inicio": 1794801963553,
+  "fin": 1794804963911,
+  "mensajes": 6474369,
   "reconexiones": 0,
-  "eventos": 529,
+  "eventos": 530,
   "errores": [],
-  "nuevos": 16,
+  "nuevos": 4,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6461,
- "falsos": 2504,
+ "total": 6463,
+ "falsos": 2502,
  "largos": {
-  "episodios": 14868,
+  "episodios": 15029,
   "eventos": 164,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 6781,
+  "episodios": 6633,
   "eventos": 33
  },
- "mediana": 0.527,
+ "mediana": 0.529,
  "captura": [
   {
    "s": 0.5,
-   "n": 3309,
-   "gan": 9837.97,
+   "n": 3312,
+   "gan": 9841.46,
    "nNeta": 1046,
    "neta": 2782.79
   },
   {
    "s": 2,
-   "n": 1641,
-   "gan": 4826.37,
+   "n": 1644,
+   "gan": 4829.86,
    "nNeta": 443,
    "neta": 1388.76
   },
   {
    "s": 5,
-   "n": 987,
-   "gan": 2664.23,
+   "n": 990,
+   "gan": 2667.26,
    "nNeta": 180,
    "neta": 541.79
   },
   {
    "s": 30,
-   "n": 443,
-   "gan": 919.11,
+   "n": 446,
+   "gan": 922.14,
    "nNeta": 54,
    "neta": 46.08
   }
  ],
- "rentables": 2077,
+ "rentables": 2076,
  "porCapital": [
   {
    "capital": 500,
    "ops": 84,
    "descartadas": 276,
    "neta": 197.72,
-   "dias": 8.09,
-   "semana": 171.03
+   "dias": 8.13,
+   "semana": 170.29
   },
   {
    "capital": 1000,
    "ops": 110,
    "descartadas": 276,
    "neta": 308.32,
-   "dias": 8.09,
-   "semana": 266.69
+   "dias": 8.13,
+   "semana": 265.55
   },
   {
    "capital": 2000,
    "ops": 127,
    "descartadas": 276,
    "neta": 439.92,
-   "dias": 8.09,
-   "semana": 380.53
+   "dias": 8.13,
+   "semana": 378.9
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 162.5,
-   "episodios": 3797,
+   "horas": 163.3,
+   "episodios": 3801,
    "sospechosas": 50,
    "realistaNeta": 440.72,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5369,
-  "n": 1848,
-  "gan": 4896.27,
+  "conDato": 5373,
+  "n": 1852,
+  "gan": 4900.31,
   "nNeta": 462,
   "neta": 1178.27
  },
@@ -237,7 +237,7 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2480
+   "n": 2479
   },
   {
    "et": "1–5 s",
@@ -252,12 +252,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 333
+   "n": 334
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 110
+   "n": 112
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794531600000,
-   "n": 8
-  },
   {
    "h": 1794535200000,
    "n": 7
@@ -620,9 +616,45 @@
   {
    "h": 1794798000000,
    "n": 23
+  },
+  {
+   "h": 1794801600000,
+   "n": 4
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794803775388,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 3.069,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794803589152,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 118.818,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794803091308,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 495.573,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794801998174,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 1093.063,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794799928345,
    "titulo": "Test Match: South Africa vs Bangladesh",
@@ -708,38 +740,6 @@
    "titulo": "Target Q3 comparable sales growth?",
    "dur": 0.036,
    "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794799036318,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.07,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794799027476,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 7.275,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794799017774,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 6.836,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794798953288,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 63.493,
-   "gan": 0.5,
    "neta": 0,
    "lado": "si"
   }
