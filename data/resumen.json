@@ -1,50 +1,50 @@
 {
- "actualizado": 1794862374011,
+ "actualizado": 1794865390550,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794859373753,
-  "fin": 1794862374011,
-  "mensajes": 10507912,
-  "reconexiones": 0,
-  "eventos": 539,
+  "inicio": 1794862390242,
+  "fin": 1794865390551,
+  "mensajes": 10436861,
+  "reconexiones": 4,
+  "eventos": 549,
   "errores": [],
-  "nuevos": 25,
+  "nuevos": 28,
   "nuevosRentables": 2,
-  "nuevosNeta": 0.79
+  "nuevosNeta": 1.15
  },
- "total": 5827,
- "falsos": 2316,
+ "total": 5855,
+ "falsos": 2356,
  "largos": {
-  "episodios": 17712,
+  "episodios": 17740,
   "eventos": 163,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 4898,
+  "episodios": 4807,
   "eventos": 33
  },
  "mediana": 0.548,
  "captura": [
   {
    "s": 0.5,
-   "n": 3018,
-   "gan": 8986.18,
-   "nNeta": 921,
-   "neta": 2487.02
+   "n": 3034,
+   "gan": 9005.57,
+   "nNeta": 927,
+   "neta": 2490.13
   },
   {
    "s": 2,
-   "n": 1557,
-   "gan": 4547.84,
-   "nNeta": 404,
-   "neta": 1351.07
+   "n": 1564,
+   "gan": 4556.73,
+   "nNeta": 406,
+   "neta": 1352.22
   },
   {
    "s": 5,
-   "n": 963,
-   "gan": 2502.01,
-   "nNeta": 164,
-   "neta": 512.86
+   "n": 965,
+   "gan": 2504.45,
+   "nNeta": 165,
+   "neta": 513.2
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 44.92
   }
  ],
- "rentables": 1843,
+ "rentables": 1854,
  "porCapital": [
   {
    "capital": 500,
    "ops": 86,
-   "descartadas": 291,
+   "descartadas": 293,
    "neta": 203.03,
-   "dias": 8.76,
-   "semana": 162.32
+   "dias": 8.79,
+   "semana": 161.68
   },
   {
    "capital": 1000,
    "ops": 113,
-   "descartadas": 291,
+   "descartadas": 293,
    "neta": 318.61,
-   "dias": 8.76,
-   "semana": 254.73
+   "dias": 8.79,
+   "semana": 253.72
   },
   {
    "capital": 2000,
    "ops": 130,
-   "descartadas": 291,
+   "descartadas": 293,
    "neta": 450.21,
-   "dias": 8.76,
-   "semana": 359.94
+   "dias": 8.79,
+   "semana": 358.51
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 1,
-   "horas": 14.2,
-   "episodios": 436,
+   "horas": 15,
+   "episodios": 464,
    "sospechosas": 4,
-   "realistaNeta": 19.34,
+   "realistaNeta": 20.49,
    "capital": {
     "500": 10.52,
     "1000": 15.5,
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5740,
-  "n": 1989,
-  "gan": 5096.14,
-  "nNeta": 480,
-  "neta": 1192.23
+  "conDato": 5768,
+  "n": 1996,
+  "gan": 5105.03,
+  "nNeta": 482,
+  "neta": 1193.38
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1467
+   "n": 1474
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2147
+   "n": 2158
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1245
+   "n": 1253
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 500
+   "n": 502
   },
   {
    "et": "30 s–5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794585600000,
-   "n": 35
-  },
   {
    "h": 1794589200000,
    "n": 23
@@ -633,127 +629,131 @@
   },
   {
    "h": 1794859200000,
-   "n": 25
+   "n": 39
+  },
+  {
+   "h": 1794862800000,
+   "n": 14
   }
  ],
  "recientes": [
   {
-   "inicio": 1794862218383,
-   "titulo": "Germany vs. Netherlands",
-   "dur": 1.174,
-   "gan": 1.5,
+   "inicio": 1794864961887,
+   "titulo": "Greece vs. Serbia",
+   "dur": 1.153,
+   "gan": 1.4,
+   "neta": 0.86,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794864961086,
+   "titulo": "Greece vs. Serbia",
+   "dur": 0.771,
+   "gan": 1.35,
+   "neta": 0.84,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794864277797,
+   "titulo": "Gibraltar vs. Malta",
+   "dur": 1.388,
+   "gan": 1.32,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794861957067,
-   "titulo": "Cusco FC vs. AD Tarma",
-   "dur": 0.023,
-   "gan": 0.59,
-   "neta": 0.04,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794861955233,
-   "titulo": "Cusco FC vs. AD Tarma",
-   "dur": 1.832,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794861925836,
-   "titulo": "Cusco FC vs. AD Tarma",
-   "dur": 1.19,
-   "gan": 2.44,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794861416252,
+   "inicio": 1794864275390,
    "titulo": "Gibraltar vs. Malta",
-   "dur": 179.533,
+   "dur": 0.286,
    "gan": 0.71,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794861443563,
-   "titulo": "Guyana vs. Puerto Rico",
-   "dur": 1.041,
+   "inicio": 1794864274871,
+   "titulo": "Gibraltar vs. Malta",
+   "dur": 0.099,
+   "gan": 0.71,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794864209224,
+   "titulo": "Gibraltar vs. Malta",
+   "dur": 0.67,
+   "gan": 0.7,
+   "neta": 0.05,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794863806604,
+   "titulo": "Greece vs. Serbia",
+   "dur": 1.313,
+   "gan": 1.88,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794863713357,
+   "titulo": "Greece vs. Serbia",
+   "dur": 0.951,
    "gan": 1,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794861358655,
-   "titulo": "Cusco FC vs. AD Tarma",
-   "dur": 0.032,
-   "gan": 0.73,
+   "inicio": 1794863712507,
+   "titulo": "Greece vs. Serbia",
+   "dur": 0.64,
+   "gan": 1.11,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794861224689,
-   "titulo": "Cusco FC vs. AD Tarma",
-   "dur": 1.625,
-   "gan": 0.98,
+   "inicio": 1794863652262,
+   "titulo": "Albacete Balompié vs. Celta Fortuna",
+   "dur": 2.232,
+   "gan": 0.83,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794861223778,
-   "titulo": "Cusco FC vs. AD Tarma",
-   "dur": 0.88,
-   "gan": 1.21,
-   "neta": 0,
+   "inicio": 1794863636777,
+   "titulo": "Albacete Balompié vs. Celta Fortuna",
+   "dur": 0.576,
+   "gan": 0.54,
+   "neta": 0.04,
    "lado": "si"
   },
   {
-   "inicio": 1794861180412,
-   "titulo": "Guyana vs. Puerto Rico",
-   "dur": 0.535,
-   "gan": 9.62,
-   "neta": 4.66,
+   "inicio": 1794863309082,
+   "titulo": "North Macedonia vs. Slovenia",
+   "dur": 0.011,
+   "gan": 0.83,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794863234810,
+   "titulo": "Germany vs. Netherlands",
+   "dur": 2.93,
+   "gan": 0.64,
+   "neta": 0.27,
    "lado": "si"
   },
   {
-   "inicio": 1794861100470,
-   "titulo": "Switzerland vs. Scotland",
-   "dur": 0.031,
-   "gan": 0.79,
-   "neta": 0.25,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794860842558,
-   "titulo": "Germany vs. Netherlands",
-   "dur": 3.904,
-   "gan": 1.23,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794860841915,
-   "titulo": "Germany vs. Netherlands",
-   "dur": 0.171,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794860841626,
-   "titulo": "Germany vs. Netherlands",
-   "dur": 0.19,
+   "inicio": 1794863160408,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 12.224,
    "gan": 0.52,
-   "neta": 0.03,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794860840275,
-   "titulo": "Germany vs. Netherlands",
-   "dur": 1.13,
-   "gan": 0.55,
+   "inicio": 1794862679652,
+   "titulo": "Switzerland vs. Scotland",
+   "dur": 2.185,
+   "gan": 0.91,
    "neta": 0,
    "lado": "no"
   }
