@@ -1,84 +1,84 @@
 {
- "actualizado": 1794814019803,
+ "actualizado": 1794817035836,
  "inicio": 1794066114846,
  "ejecucion": {
-  "inicio": 1794811019576,
-  "fin": 1794814019803,
-  "mensajes": 7361754,
+  "inicio": 1794814035502,
+  "fin": 1794817035836,
+  "mensajes": 6449145,
   "reconexiones": 0,
-  "eventos": 537,
+  "eventos": 541,
   "errores": [],
-  "nuevos": 3,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 2,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.14
  },
- "total": 6265,
- "falsos": 2443,
+ "total": 6156,
+ "falsos": 2411,
  "largos": {
-  "episodios": 15309,
-  "eventos": 163,
+  "episodios": 15464,
+  "eventos": 162,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 6638,
-  "eventos": 34
+  "episodios": 6630,
+  "eventos": 35
  },
- "mediana": 0.534,
+ "mediana": 0.541,
  "captura": [
   {
    "s": 0.5,
-   "n": 3218,
-   "gan": 9585.82,
-   "nNeta": 1022,
-   "neta": 2721.07
+   "n": 3176,
+   "gan": 9493.92,
+   "nNeta": 1011,
+   "neta": 2713.84
   },
   {
    "s": 2,
-   "n": 1592,
-   "gan": 4699.02,
-   "nNeta": 429,
-   "neta": 1366.26
+   "n": 1577,
+   "gan": 4673.73,
+   "nNeta": 427,
+   "neta": 1365.15
   },
   {
    "s": 5,
-   "n": 969,
-   "gan": 2623.8,
-   "nNeta": 177,
-   "neta": 534.74
+   "n": 963,
+   "gan": 2612.89,
+   "nNeta": 176,
+   "neta": 534.14
   },
   {
    "s": 30,
-   "n": 445,
-   "gan": 921.53,
-   "nNeta": 54,
-   "neta": 46.08
+   "n": 444,
+   "gan": 921,
+   "nNeta": 53,
+   "neta": 45.48
   }
  ],
- "rentables": 2024,
+ "rentables": 1996,
  "porCapital": [
   {
    "capital": 500,
    "ops": 84,
-   "descartadas": 276,
+   "descartadas": 277,
    "neta": 197.72,
-   "dias": 8.23,
-   "semana": 168.13
+   "dias": 8.27,
+   "semana": 167.42
   },
   {
    "capital": 1000,
    "ops": 110,
-   "descartadas": 276,
+   "descartadas": 277,
    "neta": 308.32,
-   "dias": 8.23,
-   "semana": 262.17
+   "dias": 8.27,
+   "semana": 261.06
   },
   {
    "capital": 2000,
    "ops": 127,
-   "descartadas": 276,
+   "descartadas": 277,
    "neta": 439.92,
-   "dias": 8.23,
-   "semana": 374.07
+   "dias": 8.27,
+   "semana": 372.49
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 1,
-   "horas": 1.7,
-   "episodios": 5,
+   "horas": 2.5,
+   "episodios": 7,
    "sospechosas": 0,
-   "realistaNeta": 0,
+   "realistaNeta": 0.14,
    "capital": {
     "500": 0,
     "1000": 0,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 103,
+  "n": 102,
   "top": [
    {
     "inicio": 1794135838907,
@@ -236,42 +236,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5378,
-  "n": 1856,
-  "gan": 4904.31,
-  "nNeta": 462,
-  "neta": 1178.27
+  "conDato": 5380,
+  "n": 1857,
+  "gan": 4905.01,
+  "nNeta": 463,
+  "neta": 1178.41
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1541
+   "n": 1506
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2392
+   "n": 2345
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1357
+   "n": 1337
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 524
+   "n": 519
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 334
+   "n": 335
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 111
+   "n": 109
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794542400000,
-   "n": 11
-  },
   {
    "h": 1794546000000,
    "n": 3
@@ -634,9 +630,29 @@
   {
    "h": 1794812400000,
    "n": 1
+  },
+  {
+   "h": 1794816000000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794816128950,
+   "titulo": "When will Trump leave China?",
+   "dur": 292.505,
+   "gan": 0.68,
+   "neta": 0.15,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794816112238,
+   "titulo": "When will Trump leave China?",
+   "dur": 0.096,
+   "gan": 0.6,
+   "neta": 0.13,
+   "lado": "si"
+  },
   {
    "inicio": 1794813222737,
    "titulo": "Highest temperature in Tel Aviv on November 16?",
@@ -740,22 +756,6 @@
    "gan": 2.11,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1794799229111,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 251.748,
-   "gan": 1.12,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794799144746,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 83.952,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
   }
  ]
 }
