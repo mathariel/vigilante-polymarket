@@ -1,48 +1,48 @@
 {
- "actualizado": 1794829093982,
- "inicio": 1794090577499,
+ "actualizado": 1794832108469,
+ "inicio": 1794099596208,
  "ejecucion": {
-  "inicio": 1794826093724,
-  "fin": 1794829093982,
-  "mensajes": 7569652,
-  "reconexiones": 6,
-  "eventos": 571,
+  "inicio": 1794829108106,
+  "fin": 1794832108469,
+  "mensajes": 7641084,
+  "reconexiones": 1,
+  "eventos": 565,
   "errores": [],
-  "nuevos": 1,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.7
+  "nuevos": 3,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5563,
- "falsos": 2202,
+ "total": 5468,
+ "falsos": 2175,
  "largos": {
-  "episodios": 16522,
-  "eventos": 160,
+  "episodios": 16735,
+  "eventos": 161,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 6402,
-  "eventos": 33
+  "episodios": 6318,
+  "eventos": 32
  },
- "mediana": 0.553,
+ "mediana": 0.561,
  "captura": [
   {
    "s": 0.5,
-   "n": 2893,
-   "gan": 8612.79,
-   "nNeta": 895,
-   "neta": 2430.72
+   "n": 2847,
+   "gan": 8473.7,
+   "nNeta": 880,
+   "neta": 2406.33
   },
   {
    "s": 2,
-   "n": 1485,
-   "gan": 4387.76,
-   "nNeta": 390,
-   "neta": 1302.42
+   "n": 1472,
+   "gan": 4329.74,
+   "nNeta": 388,
+   "neta": 1295.98
   },
   {
    "s": 5,
-   "n": 932,
-   "gan": 2457.74,
+   "n": 927,
+   "gan": 2418.94,
    "nNeta": 161,
    "neta": 499.39
   },
@@ -54,31 +54,31 @@
    "neta": 44.82
   }
  ],
- "rentables": 1778,
+ "rentables": 1745,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 85,
-   "descartadas": 277,
-   "neta": 198.42,
+   "ops": 84,
+   "descartadas": 276,
+   "neta": 193.21,
    "dias": 8.41,
-   "semana": 165.22
+   "semana": 160.91
   },
   {
    "capital": 1000,
-   "ops": 111,
-   "descartadas": 277,
-   "neta": 309.02,
+   "ops": 110,
+   "descartadas": 276,
+   "neta": 303.81,
    "dias": 8.41,
-   "semana": 257.31
+   "semana": 253.02
   },
   {
    "capital": 2000,
-   "ops": 128,
-   "descartadas": 277,
-   "neta": 440.62,
+   "ops": 127,
+   "descartadas": 276,
+   "neta": 435.41,
    "dias": 8.41,
-   "semana": 366.89
+   "semana": 362.62
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 1,
-   "horas": 5.8,
-   "episodios": 74,
+   "horas": 6.7,
+   "episodios": 77,
    "sospechosas": 0,
    "realistaNeta": 0.84,
    "capital": {
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 87,
+  "n": 83,
   "top": [
    {
     "inicio": 1794135838907,
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5447,
-  "n": 1885,
-  "gan": 4930.06,
-  "nNeta": 464,
-  "neta": 1179.11
+  "conDato": 5385,
+  "n": 1878,
+  "gan": 4885.8,
+  "nNeta": 462,
+  "neta": 1173.73
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1372
+   "n": 1349
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2077
+   "n": 2034
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1177
+   "n": 1153
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 484
+   "n": 479
   },
   {
    "et": "30 s–5 min",
@@ -633,10 +633,34 @@
   },
   {
    "h": 1794826800000,
-   "n": 1
+   "n": 4
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794830172535,
+   "titulo": "Target Q3 comparable sales growth?",
+   "dur": 1.961,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794830171139,
+   "titulo": "Target Q3 comparable sales growth?",
+   "dur": 0.392,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794830169910,
+   "titulo": "Target Q3 comparable sales growth?",
+   "dur": 0.23,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794826808351,
    "titulo": "Highest temperature in Moscow on November 16?",
@@ -730,30 +754,6 @@
    "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
    "dur": 20.758,
    "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794820564156,
-   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
-   "dur": 0.022,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794820564059,
-   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
-   "dur": 0.032,
-   "gan": 0.94,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794820563705,
-   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
-   "dur": 0.313,
-   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   }
