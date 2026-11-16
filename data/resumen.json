@@ -1,84 +1,84 @@
 {
- "actualizado": 1794786868655,
+ "actualizado": 1794789886273,
  "inicio": 1794063481604,
  "ejecucion": {
-  "inicio": 1794783868415,
-  "fin": 1794786868655,
-  "mensajes": 8438360,
+  "inicio": 1794786885954,
+  "fin": 1794789886273,
+  "mensajes": 7538165,
   "reconexiones": 0,
-  "eventos": 543,
+  "eventos": 537,
   "errores": [],
-  "nuevos": 9,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 15,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.85
  },
- "total": 6391,
- "falsos": 2488,
+ "total": 6403,
+ "falsos": 2491,
  "largos": {
-  "episodios": 14486,
+  "episodios": 14545,
   "eventos": 162,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 7209,
+  "episodios": 7142,
   "eventos": 33
  },
- "mediana": 0.532,
+ "mediana": 0.533,
  "captura": [
   {
    "s": 0.5,
-   "n": 3278,
-   "gan": 9807.57,
+   "n": 3285,
+   "gan": 9808.49,
    "nNeta": 1042,
-   "neta": 2791.48
+   "neta": 2780.18
   },
   {
    "s": 2,
-   "n": 1614,
-   "gan": 4784.51,
-   "nNeta": 440,
-   "neta": 1387.26
+   "n": 1622,
+   "gan": 4801.36,
+   "nNeta": 441,
+   "neta": 1388.11
   },
   {
    "s": 5,
-   "n": 966,
-   "gan": 2638.42,
+   "n": 971,
+   "gan": 2642.69,
    "nNeta": 179,
    "neta": 541.54
   },
   {
    "s": 30,
-   "n": 430,
-   "gan": 898.94,
+   "n": 432,
+   "gan": 900.83,
    "nNeta": 54,
    "neta": 46.08
   }
  ],
- "rentables": 2063,
+ "rentables": 2062,
  "porCapital": [
   {
    "capital": 500,
    "ops": 83,
-   "descartadas": 273,
+   "descartadas": 274,
    "neta": 197.32,
-   "dias": 7.92,
-   "semana": 174.44
+   "dias": 7.95,
+   "semana": 173.68
   },
   {
    "capital": 1000,
    "ops": 109,
-   "descartadas": 273,
+   "descartadas": 274,
    "neta": 307.92,
-   "dias": 7.92,
-   "semana": 272.22
+   "dias": 7.95,
+   "semana": 271.02
   },
   {
    "capital": 2000,
    "ops": 126,
-   "descartadas": 273,
+   "descartadas": 274,
    "neta": 439.52,
-   "dias": 7.92,
-   "semana": 388.56
+   "dias": 7.95,
+   "semana": 386.86
   }
  ],
  "maxBloqueoH": 24,
@@ -101,10 +101,10 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 158.3,
-   "episodios": 3724,
+   "horas": 159.2,
+   "episodios": 3739,
    "sospechosas": 50,
-   "realistaNeta": 438.82,
+   "realistaNeta": 439.67,
    "capital": {
     "500": 120.27,
     "1000": 205.61,
@@ -116,7 +116,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 111,
+  "n": 109,
   "top": [
    {
     "inicio": 1794135838907,
@@ -222,37 +222,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5296,
-  "n": 1817,
-  "gan": 4852,
-  "nNeta": 458,
-  "neta": 1176.37
+  "conDato": 5311,
+  "n": 1825,
+  "gan": 4868.85,
+  "nNeta": 459,
+  "neta": 1177.22
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1553
+   "n": 1555
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2470
+   "n": 2472
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1396
+   "n": 1399
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 536
+   "n": 539
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 326
+   "n": 328
   },
   {
    "et": "> 5 min",
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794517200000,
-   "n": 112
-  },
   {
    "h": 1794520800000,
    "n": 2
@@ -620,126 +616,130 @@
   {
    "h": 1794783600000,
    "n": 10
+  },
+  {
+   "h": 1794787200000,
+   "n": 15
   }
  ],
  "recientes": [
   {
-   "inicio": 1794786440095,
-   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
-   "dur": 7.287,
+   "inicio": 1794788317227,
+   "titulo": "Panama vs. Curaçao",
+   "dur": 1.044,
    "gan": 0.54,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794786181565,
-   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
-   "dur": 244.788,
-   "gan": 0.81,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794786365091,
-   "titulo": "Panama vs. Curaçao",
-   "dur": 0.666,
-   "gan": 3.22,
-   "neta": 1.73,
    "lado": "no"
   },
   {
-   "inicio": 1794786364937,
-   "titulo": "Panama vs. Curaçao - Halftime Result",
-   "dur": 0.819,
-   "gan": 0.52,
-   "neta": 0.17,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794786179501,
-   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
-   "dur": 2.033,
-   "gan": 0.61,
+   "inicio": 1794788261188,
+   "titulo": "Elon Musk # tweets November 14 - November 16, 2026?",
+   "dur": 16.602,
+   "gan": 0.56,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794786138157,
-   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
-   "dur": 41.302,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794786121066,
-   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
-   "dur": 0.019,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794785879137,
-   "titulo": "Highest temperature in Tokyo on November 16?",
-   "dur": 0.017,
-   "gan": 0.65,
-   "neta": 0.09,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794784874139,
-   "titulo": "CSD Suchitepéquez vs. Antigua GFC",
-   "dur": 0.361,
-   "gan": 1.4,
-   "neta": 0.94,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794783721931,
+   "inicio": 1794788219483,
    "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
-   "dur": 0.368,
-   "gan": 1.37,
-   "neta": 0.04,
+   "dur": 4.244,
+   "gan": 1.29,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794781602038,
-   "titulo": "# of views of next MrBeast video on week 1?",
-   "dur": 908.513,
+   "inicio": 1794788215462,
+   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
+   "dur": 3.387,
+   "gan": 10.23,
+   "neta": 0.85,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794787801039,
+   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
+   "dur": 25.573,
+   "gan": 1.09,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794787746553,
+   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
+   "dur": 54.429,
+   "gan": 0.89,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794787744488,
+   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
+   "dur": 2.034,
+   "gan": 0.98,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794787681933,
+   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
+   "dur": 62.526,
+   "gan": 1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794787674717,
+   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
+   "dur": 7.182,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794787674310,
+   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
+   "dur": 0.4,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794787672685,
+   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
+   "dur": 0.029,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794787672493,
+   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
+   "dur": 0.088,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794787671854,
+   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
+   "dur": 0.05,
    "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794781528887,
-   "titulo": "# of views of next MrBeast video on week 1?",
-   "dur": 0.072,
-   "gan": 0.55,
+   "inicio": 1794787670710,
+   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
+   "dur": 0.193,
+   "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794781528698,
-   "titulo": "# of views of next MrBeast video on week 1?",
-   "dur": 0.065,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794780951708,
-   "titulo": "Envigado FC vs. Union Magdalena",
-   "dur": 0.792,
-   "gan": 11.67,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794780857404,
-   "titulo": "# of views of next MrBeast video on week 1?",
-   "dur": 37.58,
-   "gan": 0.59,
+   "inicio": 1794787668727,
+   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
+   "dur": 0.183,
+   "gan": 0.51,
    "neta": 0,
    "lado": "si"
   }
