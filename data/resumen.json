@@ -1,84 +1,84 @@
 {
- "actualizado": 1794792906327,
+ "actualizado": 1794795918948,
  "inicio": 1794063481604,
  "ejecucion": {
-  "inicio": 1794789906092,
-  "fin": 1794792906327,
-  "mensajes": 7579969,
+  "inicio": 1794792918712,
+  "fin": 1794795918948,
+  "mensajes": 7387831,
   "reconexiones": 0,
   "eventos": 534,
   "errores": [],
-  "nuevos": 15,
-  "nuevosRentables": 3,
-  "nuevosNeta": 1.05
+  "nuevos": 9,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 6418,
- "falsos": 2498,
+ "total": 6428,
+ "falsos": 2499,
  "largos": {
-  "episodios": 14626,
+  "episodios": 14646,
   "eventos": 163,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 7045,
+  "episodios": 7021,
   "eventos": 33
  },
- "mediana": 0.532,
+ "mediana": 0.529,
  "captura": [
   {
    "s": 0.5,
-   "n": 3291,
-   "gan": 9817.45,
+   "n": 3294,
+   "gan": 9821.38,
    "nNeta": 1046,
    "neta": 2782.79
   },
   {
    "s": 2,
-   "n": 1626,
-   "gan": 4807.4,
+   "n": 1627,
+   "gan": 4809.9,
    "nNeta": 443,
    "neta": 1388.76
   },
   {
    "s": 5,
-   "n": 974,
-   "gan": 2646.38,
+   "n": 975,
+   "gan": 2648.88,
    "nNeta": 180,
    "neta": 541.79
   },
   {
    "s": 30,
-   "n": 433,
-   "gan": 903.33,
+   "n": 434,
+   "gan": 905.83,
    "nNeta": 54,
    "neta": 46.08
   }
  ],
- "rentables": 2074,
+ "rentables": 2075,
  "porCapital": [
   {
    "capital": 500,
    "ops": 84,
    "descartadas": 276,
    "neta": 197.72,
-   "dias": 7.99,
-   "semana": 173.27
+   "dias": 8.02,
+   "semana": 172.52
   },
   {
    "capital": 1000,
    "ops": 110,
    "descartadas": 276,
    "neta": 308.32,
-   "dias": 7.99,
-   "semana": 270.19
+   "dias": 8.02,
+   "semana": 269.01
   },
   {
    "capital": 2000,
    "ops": 127,
    "descartadas": 276,
    "neta": 439.92,
-   "dias": 7.99,
-   "semana": 385.52
+   "dias": 8.02,
+   "semana": 383.84
   }
  ],
  "maxBloqueoH": 24,
@@ -101,8 +101,8 @@
   {
    "lunes": "2026-11-09",
    "dias": 7,
-   "horas": 160,
-   "episodios": 3754,
+   "horas": 160.8,
+   "episodios": 3764,
    "sospechosas": 50,
    "realistaNeta": 440.72,
    "capital": {
@@ -222,9 +222,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5326,
-  "n": 1830,
-  "gan": 4875.75,
+  "conDato": 5336,
+  "n": 1833,
+  "gan": 4879.68,
   "nNeta": 462,
   "neta": 1178.27
  },
@@ -232,17 +232,17 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1560
+   "n": 1567
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2477
+   "n": 2478
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1401
+   "n": 1402
   },
   {
    "et": "5–30 s",
@@ -257,7 +257,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 105
+   "n": 106
   }
  ],
  "porEvento": [
@@ -333,10 +333,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794524400000,
-   "n": 11
-  },
   {
    "h": 1794528000000,
    "n": 26
@@ -619,10 +615,94 @@
   },
   {
    "h": 1794790800000,
-   "n": 4
+   "n": 6
+  },
+  {
+   "h": 1794794400000,
+   "n": 8
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794792858485,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 3060.231,
+   "gan": 2.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794794786263,
+   "titulo": "Target Q3 comparable sales growth?",
+   "dur": 0.018,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794794785239,
+   "titulo": "Target Q3 comparable sales growth?",
+   "dur": 0.017,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794794784546,
+   "titulo": "Target Q3 comparable sales growth?",
+   "dur": 0.613,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794794783527,
+   "titulo": "Target Q3 comparable sales growth?",
+   "dur": 0.019,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794794782497,
+   "titulo": "Target Q3 comparable sales growth?",
+   "dur": 0.026,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794794782477,
+   "titulo": "Target Q3 comparable sales growth?",
+   "dur": 0.001,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794794782442,
+   "titulo": "Target Q3 comparable sales growth?",
+   "dur": 0.018,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794794778993,
+   "titulo": "Target Q3 comparable sales growth?",
+   "dur": 1.646,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794793486775,
+   "titulo": "Highest temperature in Tokyo on November 16?",
+   "dur": 0.016,
+   "gan": 0.73,
+   "neta": 0.13,
+   "lado": "si"
+  },
   {
    "inicio": 1794792024120,
    "titulo": "Test Match: South Africa vs Bangladesh",
@@ -662,86 +742,6 @@
    "gan": 0.62,
    "neta": 0.48,
    "lado": "si"
-  },
-  {
-   "inicio": 1794790299175,
-   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
-   "dur": 0.01,
-   "gan": 0.59,
-   "neta": 0.24,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794790299119,
-   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
-   "dur": 0.016,
-   "gan": 0.63,
-   "neta": 0.25,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794790299004,
-   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
-   "dur": 0.058,
-   "gan": 0.6,
-   "neta": 0.24,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794790292280,
-   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
-   "dur": 6.664,
-   "gan": 0.63,
-   "neta": 0.25,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794790290281,
-   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
-   "dur": 1.973,
-   "gan": 0.61,
-   "neta": 0.34,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794790289913,
-   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
-   "dur": 0.342,
-   "gan": 0.68,
-   "neta": 0.32,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794790285793,
-   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
-   "dur": 3.48,
-   "gan": 2.26,
-   "neta": 0.36,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794790269756,
-   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
-   "dur": 0.025,
-   "gan": 0.61,
-   "neta": 0.23,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794790269724,
-   "titulo": "Defensor Sporting vs. CA Penarol Montevideo",
-   "dur": 0.02,
-   "gan": 0.68,
-   "neta": 0.32,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794790081973,
-   "titulo": "Deportes Recoleta vs. Deportes Iquique",
-   "dur": 0.163,
-   "gan": 0.5,
-   "neta": 0.37,
-   "lado": "no"
   }
  ]
 }
