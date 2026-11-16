@@ -1,48 +1,48 @@
 {
- "actualizado": 1794850289541,
+ "actualizado": 1794853310507,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794847289314,
-  "fin": 1794850289541,
-  "mensajes": 9153462,
+  "inicio": 1794850310163,
+  "fin": 1794853310507,
+  "mensajes": 9008344,
   "reconexiones": 1,
-  "eventos": 531,
+  "eventos": 539,
   "errores": [],
-  "nuevos": 119,
-  "nuevosRentables": 6,
-  "nuevosNeta": 0.82
+  "nuevos": 25,
+  "nuevosRentables": 3,
+  "nuevosNeta": 1.06
  },
- "total": 5762,
- "falsos": 2263,
+ "total": 5787,
+ "falsos": 2274,
  "largos": {
-  "episodios": 17218,
+  "episodios": 17379,
   "eventos": 161,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 5484,
+  "episodios": 5295,
   "eventos": 32
  },
  "mediana": 0.545,
  "captura": [
   {
    "s": 0.5,
-   "n": 2975,
-   "gan": 8897.51,
-   "nNeta": 906,
-   "neta": 2467.69
+   "n": 2989,
+   "gan": 8915.28,
+   "nNeta": 913,
+   "neta": 2473.92
   },
   {
    "s": 2,
-   "n": 1541,
-   "gan": 4505.17,
-   "nNeta": 400,
-   "neta": 1347.06
+   "n": 1548,
+   "gan": 4514.47,
+   "nNeta": 404,
+   "neta": 1351.07
   },
   {
    "s": 5,
-   "n": 958,
-   "gan": 2488.66,
+   "n": 959,
+   "gan": 2489.98,
    "nNeta": 164,
    "neta": 512.86
   },
@@ -54,31 +54,31 @@
    "neta": 44.92
   }
  ],
- "rentables": 1816,
+ "rentables": 1831,
  "porCapital": [
   {
    "capital": 500,
    "ops": 85,
-   "descartadas": 287,
+   "descartadas": 290,
    "neta": 202.28,
-   "dias": 8.62,
-   "semana": 164.35
+   "dias": 8.65,
+   "semana": 163.69
   },
   {
    "capital": 1000,
    "ops": 112,
-   "descartadas": 287,
+   "descartadas": 290,
    "neta": 317.86,
-   "dias": 8.62,
-   "semana": 258.25
+   "dias": 8.65,
+   "semana": 257.21
   },
   {
    "capital": 2000,
    "ops": 129,
-   "descartadas": 287,
+   "descartadas": 290,
    "neta": 449.46,
-   "dias": 8.62,
-   "semana": 365.18
+   "dias": 8.65,
+   "semana": 363.7
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 1,
-   "horas": 10.8,
-   "episodios": 371,
-   "sospechosas": 2,
-   "realistaNeta": 17.49,
+   "horas": 11.7,
+   "episodios": 396,
+   "sospechosas": 4,
+   "realistaNeta": 18.55,
    "capital": {
     "500": 9.77,
     "1000": 14.75,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 85,
+  "n": 87,
   "top": [
    {
     "inicio": 1794135838907,
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5677,
-  "n": 1966,
-  "gan": 5050.55,
-  "nNeta": 475,
-  "neta": 1190.38
+  "conDato": 5700,
+  "n": 1974,
+  "gan": 5057.44,
+  "nNeta": 478,
+  "neta": 1191.44
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1457
+   "n": 1461
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2123
+   "n": 2133
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1219
+   "n": 1229
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 496
+   "n": 497
   },
   {
    "et": "30 s–5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794574800000,
-   "n": 25
-  },
   {
    "h": 1794578400000,
    "n": 25
@@ -633,129 +629,133 @@
   },
   {
    "h": 1794848400000,
-   "n": 19
+   "n": 31
+  },
+  {
+   "h": 1794852000000,
+   "n": 13
   }
  ],
  "recientes": [
   {
-   "inicio": 1794850097484,
-   "titulo": "Iceland vs. Luxembourg - Halftime Result",
-   "dur": 0.379,
-   "gan": 0.77,
-   "neta": 0.16,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794850096867,
-   "titulo": "Iceland vs. Luxembourg - Halftime Result",
-   "dur": 0.025,
-   "gan": 1.07,
-   "neta": 0.55,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794849527069,
-   "titulo": "Iceland vs. Luxembourg",
-   "dur": 0.165,
+   "inicio": 1794853229243,
+   "titulo": "Lithuania vs. Liechtenstein",
+   "dur": 3.024,
    "gan": 0.52,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794849517655,
-   "titulo": "Iceland vs. Luxembourg",
-   "dur": 9.407,
+   "inicio": 1794853212723,
+   "titulo": "Lithuania vs. Liechtenstein",
+   "dur": 1.796,
+   "gan": 0.83,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794853210862,
+   "titulo": "Lithuania vs. Liechtenstein",
+   "dur": 1.775,
+   "gan": 0.64,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794853210295,
+   "titulo": "Lithuania vs. Liechtenstein",
+   "dur": 0.515,
+   "gan": 0.84,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794853163028,
+   "titulo": "Lithuania vs. Liechtenstein",
+   "dur": 3.951,
+   "gan": 0.92,
+   "neta": 0.09,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794853091270,
+   "titulo": "Estonia vs. Bulgaria",
+   "dur": 0.253,
+   "gan": 2.31,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794853068247,
+   "titulo": "Estonia vs. Bulgaria",
+   "dur": 5.025,
+   "gan": 1.32,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794853042988,
+   "titulo": "Estonia vs. Bulgaria",
+   "dur": 0.308,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794853042393,
+   "titulo": "Estonia vs. Bulgaria",
+   "dur": 0.499,
+   "gan": 3.26,
+   "neta": 1.93,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794853042343,
+   "titulo": "Estonia vs. Bulgaria",
+   "dur": 0.036,
+   "gan": 1.18,
+   "neta": 0.61,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794852569267,
+   "titulo": "Lithuania vs. Liechtenstein",
+   "dur": 3.306,
    "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794849421736,
-   "titulo": "Lithuania vs. Liechtenstein",
-   "dur": 2.196,
-   "gan": 0.5,
-   "neta": 0,
+   "neta": 0.51,
    "lado": "no"
   },
   {
-   "inicio": 1794849418146,
-   "titulo": "Lithuania vs. Liechtenstein",
-   "dur": 1.094,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794849414760,
-   "titulo": "Lithuania vs. Liechtenstein",
-   "dur": 3.336,
-   "gan": 0.77,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794849413996,
-   "titulo": "Lithuania vs. Liechtenstein",
-   "dur": 0.646,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794849413927,
-   "titulo": "Lithuania vs. Liechtenstein",
-   "dur": 0.008,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794849413831,
-   "titulo": "Lithuania vs. Liechtenstein",
-   "dur": 0.004,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794849413770,
+   "inicio": 1794852443190,
    "titulo": "Lithuania vs. Liechtenstein",
    "dur": 0.029,
-   "gan": 0.52,
-   "neta": 0,
+   "gan": 0.99,
+   "neta": 0.22,
    "lado": "no"
   },
   {
-   "inicio": 1794849409908,
+   "inicio": 1794852411536,
    "titulo": "Lithuania vs. Liechtenstein",
-   "dur": 3.295,
-   "gan": 1.4,
-   "neta": 0,
+   "dur": 0.303,
+   "gan": 0.51,
+   "neta": 0.1,
    "lado": "no"
   },
   {
-   "inicio": 1794849394250,
-   "titulo": "Iceland vs. Luxembourg",
-   "dur": 1.827,
-   "gan": 0.53,
-   "neta": 0,
+   "inicio": 1794851695127,
+   "titulo": "Central African Republic vs. Benin",
+   "dur": 0.394,
+   "gan": 0.92,
+   "neta": 0.36,
    "lado": "si"
   },
   {
-   "inicio": 1794849360775,
-   "titulo": "Iceland vs. Luxembourg",
-   "dur": 11.139,
-   "gan": 0.73,
+   "inicio": 1794851694689,
+   "titulo": "Central African Republic vs. Benin",
+   "dur": 0.296,
+   "gan": 1.21,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794849240082,
-   "titulo": "Iceland vs. Luxembourg - Halftime Result",
-   "dur": 0.842,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
