@@ -1,84 +1,84 @@
 {
- "actualizado": 1794838136977,
+ "actualizado": 1794841158574,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794835136677,
-  "fin": 1794838136977,
-  "mensajes": 8717120,
+  "inicio": 1794838158350,
+  "fin": 1794841158574,
+  "mensajes": 10416312,
   "reconexiones": 0,
-  "eventos": 576,
+  "eventos": 575,
   "errores": [],
-  "nuevos": 69,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 27,
+  "nuevosRentables": 3,
+  "nuevosNeta": 14.34
  },
- "total": 5537,
- "falsos": 2184,
+ "total": 5565,
+ "falsos": 2187,
  "largos": {
-  "episodios": 17008,
+  "episodios": 17089,
   "eventos": 161,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 5982,
+  "episodios": 5877,
   "eventos": 32
  },
- "mediana": 0.556,
+ "mediana": 0.563,
  "captura": [
   {
    "s": 0.5,
-   "n": 2879,
-   "gan": 8641.14,
-   "nNeta": 880,
-   "neta": 2406.33
+   "n": 2901,
+   "gan": 8714.91,
+   "nNeta": 886,
+   "neta": 2455.72
   },
   {
    "s": 2,
-   "n": 1495,
-   "gan": 4347.48,
-   "nNeta": 388,
-   "neta": 1295.98
+   "n": 1514,
+   "gan": 4416.05,
+   "nNeta": 393,
+   "neta": 1345.21
   },
   {
    "s": 5,
-   "n": 936,
-   "gan": 2426.19,
-   "nNeta": 161,
-   "neta": 499.39
+   "n": 948,
+   "gan": 2450.54,
+   "nNeta": 162,
+   "neta": 512.73
   },
   {
    "s": 30,
-   "n": 450,
-   "gan": 901.81,
+   "n": 458,
+   "gan": 906.49,
    "nNeta": 51,
    "neta": 44.82
   }
  ],
- "rentables": 1749,
+ "rentables": 1759,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 84,
-   "descartadas": 276,
-   "neta": 193.21,
-   "dias": 8.47,
-   "semana": 159.59
+   "ops": 85,
+   "descartadas": 277,
+   "neta": 202.28,
+   "dias": 8.51,
+   "semana": 166.39
   },
   {
    "capital": 1000,
-   "ops": 110,
-   "descartadas": 276,
-   "neta": 303.81,
-   "dias": 8.47,
-   "semana": 250.93
+   "ops": 112,
+   "descartadas": 277,
+   "neta": 317.86,
+   "dias": 8.51,
+   "semana": 261.46
   },
   {
    "capital": 2000,
-   "ops": 127,
-   "descartadas": 276,
-   "neta": 435.41,
-   "dias": 8.47,
-   "semana": 359.63
+   "ops": 129,
+   "descartadas": 277,
+   "neta": 449.46,
+   "dias": 8.51,
+   "semana": 369.71
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 1,
-   "horas": 8.3,
-   "episodios": 146,
-   "sospechosas": 0,
-   "realistaNeta": 0.84,
+   "horas": 9.2,
+   "episodios": 174,
+   "sospechosas": 2,
+   "realistaNeta": 15.18,
    "capital": {
-    "500": 0.7,
-    "1000": 0.7,
-    "2000": 0.7
+    "500": 9.77,
+    "1000": 14.75,
+    "2000": 14.75
    },
    "cumple": false
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 83,
+  "n": 85,
   "top": [
    {
     "inicio": 1794135838907,
@@ -183,6 +183,16 @@
     "ret": 10.6
    },
    {
+    "inicio": 1794840918442,
+    "titulo": "Sudan vs. Senegal",
+    "lado": "no",
+    "dur": 2.235,
+    "gan": 27.03,
+    "neta": 25,
+    "costo": 173.47,
+    "ret": 15.6
+   },
+   {
     "inicio": 1794277581937,
     "titulo": "Club Aurora vs. FC Universitario",
     "lado": "si",
@@ -221,57 +231,47 @@
     "neta": 18.58,
     "costo": 57.39,
     "ret": 34.5
-   },
-   {
-    "inicio": 1794147586859,
-    "titulo": "Tromsø IL vs. FK Bodø/Glimt",
-    "lado": "si",
-    "dur": 2.117,
-    "gan": 17.16,
-    "neta": 12.96,
-    "costo": 125.19,
-    "ret": 13.7
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5454,
-  "n": 1909,
-  "gan": 4909.98,
-  "nNeta": 462,
-  "neta": 1173.73
+  "conDato": 5480,
+  "n": 1927,
+  "gan": 4939.54,
+  "nNeta": 465,
+  "neta": 1188.07
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1374
+   "n": 1377
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2051
+   "n": 2056
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1171
+   "n": 1179
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 486
+   "n": 490
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 338
+   "n": 344
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 112
+   "n": 114
   }
  ],
  "porEvento": [
@@ -633,127 +633,127 @@
   },
   {
    "h": 1794837600000,
-   "n": 8
+   "n": 36
   }
  ],
  "recientes": [
   {
-   "inicio": 1794836039318,
+   "inicio": 1794840943138,
+   "titulo": "Sudan vs. Senegal",
+   "dur": 3.138,
+   "gan": 0.79,
+   "neta": 0.1,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794840942985,
+   "titulo": "Sudan vs. Senegal",
+   "dur": 0.117,
+   "gan": 0.62,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794840942858,
+   "titulo": "Sudan vs. Senegal",
+   "dur": 0.096,
+   "gan": 0.6,
+   "neta": 0.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794840942714,
+   "titulo": "Sudan vs. Senegal",
+   "dur": 0.107,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794840918442,
+   "titulo": "Sudan vs. Senegal",
+   "dur": 2.235,
+   "gan": 27.03,
+   "neta": 25,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794840813586,
+   "titulo": "Sudan vs. Senegal",
+   "dur": 2.225,
+   "gan": 0.94,
+   "neta": 0.56,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794840707975,
+   "titulo": "Sudan vs. Senegal",
+   "dur": 1.009,
+   "gan": 1.63,
+   "neta": 0.16,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794840623379,
    "titulo": "October Inflation UK - Annual",
-   "dur": 2097.361,
+   "dur": 2.136,
    "gan": 0.58,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794838080684,
-   "titulo": "Zimbabwe vs. Equatorial Guinea",
-   "dur": 0.129,
-   "gan": 0.6,
-   "neta": 0.14,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794838073061,
-   "titulo": "Zimbabwe vs. Equatorial Guinea",
-   "dur": 0.122,
-   "gan": 0.55,
+   "inicio": 1794840622716,
+   "titulo": "October Inflation UK - Annual",
+   "dur": 0.595,
+   "gan": 0.75,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794838072109,
-   "titulo": "Zimbabwe vs. Equatorial Guinea",
-   "dur": 0.148,
-   "gan": 0.55,
+   "inicio": 1794840336837,
+   "titulo": "October Inflation UK - Annual",
+   "dur": 10.606,
+   "gan": 0.58,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794837874176,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 17.432,
-   "gan": 0.54,
+   "inicio": 1794840289553,
+   "titulo": "Kazakhstan vs. Slovakia",
+   "dur": 25.788,
+   "gan": 0.9,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794837873148,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.023,
-   "gan": 0.54,
+   "inicio": 1794840278414,
+   "titulo": "October Inflation UK - Annual",
+   "dur": 36.24,
+   "gan": 0.58,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794837868745,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.052,
-   "gan": 0.54,
+   "inicio": 1794840171142,
+   "titulo": "October Inflation UK - Annual",
+   "dur": 107.224,
+   "gan": 0.58,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794837861934,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 3.807,
-   "gan": 0.54,
-   "neta": 0,
+   "inicio": 1794840220357,
+   "titulo": "Sudan vs. Senegal",
+   "dur": 3.331,
+   "gan": 13.35,
+   "neta": 10.26,
    "lado": "si"
   },
   {
-   "inicio": 1794837860912,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.025,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794837480354,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 378.079,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794837479270,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.078,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794837437987,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 5.273,
-   "gan": 1.06,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794837430351,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 5.694,
-   "gan": 1.06,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794837429314,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.014,
-   "gan": 1.06,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794837427234,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.031,
-   "gan": 1.06,
+   "inicio": 1794839751837,
+   "titulo": "October Inflation UK - Annual",
+   "dur": 363.171,
+   "gan": 0.58,
    "neta": 0,
    "lado": "si"
   }
