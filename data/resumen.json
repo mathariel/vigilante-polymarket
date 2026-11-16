@@ -1,84 +1,84 @@
 {
- "actualizado": 1794841158574,
+ "actualizado": 1794847264227,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794838158350,
-  "fin": 1794841158574,
-  "mensajes": 10416312,
-  "reconexiones": 0,
-  "eventos": 575,
+  "inicio": 1794844263894,
+  "fin": 1794847264227,
+  "mensajes": 10589854,
+  "reconexiones": 2,
+  "eventos": 555,
   "errores": [],
-  "nuevos": 27,
-  "nuevosRentables": 3,
-  "nuevosNeta": 14.34
+  "nuevos": 78,
+  "nuevosRentables": 4,
+  "nuevosNeta": 1.49
  },
- "total": 5565,
- "falsos": 2187,
+ "total": 5643,
+ "falsos": 2248,
  "largos": {
-  "episodios": 17089,
+  "episodios": 17134,
   "eventos": 161,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 5877,
+  "episodios": 5699,
   "eventos": 32
  },
- "mediana": 0.563,
+ "mediana": 0.556,
  "captura": [
   {
    "s": 0.5,
-   "n": 2901,
-   "gan": 8714.91,
-   "nNeta": 886,
-   "neta": 2455.72
+   "n": 2936,
+   "gan": 8839.08,
+   "nNeta": 899,
+   "neta": 2466.48
   },
   {
    "s": 2,
-   "n": 1514,
-   "gan": 4416.05,
-   "nNeta": 393,
-   "neta": 1345.21
+   "n": 1522,
+   "gan": 4470.93,
+   "nNeta": 396,
+   "neta": 1346.55
   },
   {
    "s": 5,
-   "n": 948,
-   "gan": 2450.54,
+   "n": 951,
+   "gan": 2474.4,
    "nNeta": 162,
    "neta": 512.73
   },
   {
    "s": 30,
-   "n": 458,
-   "gan": 906.49,
+   "n": 459,
+   "gan": 921.47,
    "nNeta": 51,
    "neta": 44.82
   }
  ],
- "rentables": 1759,
+ "rentables": 1780,
  "porCapital": [
   {
    "capital": 500,
    "ops": 85,
-   "descartadas": 277,
+   "descartadas": 281,
    "neta": 202.28,
-   "dias": 8.51,
-   "semana": 166.39
+   "dias": 8.58,
+   "semana": 165.02
   },
   {
    "capital": 1000,
    "ops": 112,
-   "descartadas": 277,
+   "descartadas": 281,
    "neta": 317.86,
-   "dias": 8.51,
-   "semana": 261.46
+   "dias": 8.58,
+   "semana": 259.31
   },
   {
    "capital": 2000,
    "ops": 129,
-   "descartadas": 277,
+   "descartadas": 281,
    "neta": 449.46,
-   "dias": 8.51,
-   "semana": 369.71
+   "dias": 8.58,
+   "semana": 366.67
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 1,
-   "horas": 9.2,
-   "episodios": 174,
+   "horas": 10,
+   "episodios": 252,
    "sospechosas": 2,
-   "realistaNeta": 15.18,
+   "realistaNeta": 16.67,
    "capital": {
     "500": 9.77,
     "1000": 14.75,
@@ -236,37 +236,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5480,
-  "n": 1927,
-  "gan": 4939.54,
-  "nNeta": 465,
-  "neta": 1188.07
+  "conDato": 5558,
+  "n": 1940,
+  "gan": 5010.4,
+  "nNeta": 469,
+  "neta": 1189.56
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1377
+   "n": 1410
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2056
+   "n": 2082
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1179
+   "n": 1195
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 490
+   "n": 492
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 344
+   "n": 345
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794567600000,
-   "n": 35
-  },
   {
    "h": 1794571200000,
    "n": 12
@@ -634,126 +630,130 @@
   {
    "h": 1794837600000,
    "n": 36
+  },
+  {
+   "h": 1794844800000,
+   "n": 78
   }
  ],
  "recientes": [
   {
-   "inicio": 1794840943138,
-   "titulo": "Sudan vs. Senegal",
-   "dur": 3.138,
-   "gan": 0.79,
-   "neta": 0.1,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794840942985,
-   "titulo": "Sudan vs. Senegal",
-   "dur": 0.117,
-   "gan": 0.62,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794840942858,
-   "titulo": "Sudan vs. Senegal",
-   "dur": 0.096,
-   "gan": 0.6,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794840942714,
-   "titulo": "Sudan vs. Senegal",
-   "dur": 0.107,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794840918442,
-   "titulo": "Sudan vs. Senegal",
-   "dur": 2.235,
-   "gan": 27.03,
-   "neta": 25,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794840813586,
-   "titulo": "Sudan vs. Senegal",
-   "dur": 2.225,
-   "gan": 0.94,
-   "neta": 0.56,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794840707975,
-   "titulo": "Sudan vs. Senegal",
-   "dur": 1.009,
-   "gan": 1.63,
-   "neta": 0.16,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794840623379,
-   "titulo": "October Inflation UK - Annual",
-   "dur": 2.136,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794840622716,
-   "titulo": "October Inflation UK - Annual",
-   "dur": 0.595,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794840336837,
-   "titulo": "October Inflation UK - Annual",
-   "dur": 10.606,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794840289553,
+   "inicio": 1794847238131,
    "titulo": "Kazakhstan vs. Slovakia",
-   "dur": 25.788,
-   "gan": 0.9,
+   "dur": 3.293,
+   "gan": 10.8,
+   "neta": 0.96,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794847213666,
+   "titulo": "Kazakhstan vs. Slovakia",
+   "dur": 0.15,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794847212941,
+   "titulo": "Kazakhstan vs. Slovakia",
+   "dur": 0.506,
+   "gan": 2.64,
+   "neta": 0.03,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794847205902,
+   "titulo": "Kazakhstan vs. Slovakia",
+   "dur": 0.033,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794847202633,
+   "titulo": "Kazakhstan vs. Slovakia",
+   "dur": 0.996,
+   "gan": 13.86,
+   "neta": 7.5,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794847202508,
+   "titulo": "Kazakhstan vs. Slovakia",
+   "dur": 0.023,
+   "gan": 1.8,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794847202418,
+   "titulo": "Kazakhstan vs. Slovakia",
+   "dur": 0.031,
+   "gan": 0.78,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794847199999,
+   "titulo": "Kazakhstan vs. Slovakia",
+   "dur": 0.503,
+   "gan": 1.81,
+   "neta": 0.06,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794847199908,
+   "titulo": "Kazakhstan vs. Slovakia",
+   "dur": 0.015,
+   "gan": 0.53,
+   "neta": 0.18,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794847199868,
+   "titulo": "Kazakhstan vs. Slovakia",
+   "dur": 0.035,
+   "gan": 2.88,
+   "neta": 0.07,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794847199331,
+   "titulo": "Kazakhstan vs. Slovakia",
+   "dur": 0.008,
+   "gan": 1.31,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794840278414,
-   "titulo": "October Inflation UK - Annual",
-   "dur": 36.24,
-   "gan": 0.58,
+   "inicio": 1794847197313,
+   "titulo": "Kazakhstan vs. Slovakia",
+   "dur": 1.731,
+   "gan": 2.7,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794840171142,
-   "titulo": "October Inflation UK - Annual",
-   "dur": 107.224,
-   "gan": 0.58,
+   "inicio": 1794847193367,
+   "titulo": "Kazakhstan vs. Slovakia",
+   "dur": 0.033,
+   "gan": 0.84,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794847187218,
+   "titulo": "Kazakhstan vs. Slovakia",
+   "dur": 0.773,
+   "gan": 0.64,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794840220357,
-   "titulo": "Sudan vs. Senegal",
-   "dur": 3.331,
-   "gan": 13.35,
-   "neta": 10.26,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794839751837,
-   "titulo": "October Inflation UK - Annual",
-   "dur": 363.171,
-   "gan": 0.58,
+   "inicio": 1794847187202,
+   "titulo": "Kazakhstan vs. Slovakia",
+   "dur": 0.004,
+   "gan": 0.52,
    "neta": 0,
    "lado": "si"
   }
