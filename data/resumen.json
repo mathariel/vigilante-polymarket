@@ -1,84 +1,84 @@
 {
- "actualizado": 1794859360261,
+ "actualizado": 1794862374011,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794856359956,
-  "fin": 1794859360261,
-  "mensajes": 9372811,
-  "reconexiones": 2,
-  "eventos": 537,
+  "inicio": 1794859373753,
+  "fin": 1794862374011,
+  "mensajes": 10507912,
+  "reconexiones": 0,
+  "eventos": 539,
   "errores": [],
-  "nuevos": 6,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 25,
+  "nuevosRentables": 2,
+  "nuevosNeta": 0.79
  },
- "total": 5802,
- "falsos": 2290,
+ "total": 5827,
+ "falsos": 2316,
  "largos": {
-  "episodios": 17648,
+  "episodios": 17712,
   "eventos": 163,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 5009,
-  "eventos": 32
+  "episodios": 4898,
+  "eventos": 33
  },
- "mediana": 0.545,
+ "mediana": 0.548,
  "captura": [
   {
    "s": 0.5,
-   "n": 2998,
-   "gan": 8922.22,
-   "nNeta": 914,
-   "neta": 2474.25
+   "n": 3018,
+   "gan": 8986.18,
+   "nNeta": 921,
+   "neta": 2487.02
   },
   {
    "s": 2,
-   "n": 1549,
-   "gan": 4514.97,
+   "n": 1557,
+   "gan": 4547.84,
    "nNeta": 404,
    "neta": 1351.07
   },
   {
    "s": 5,
-   "n": 960,
-   "gan": 2490.48,
+   "n": 963,
+   "gan": 2502.01,
    "nNeta": 164,
    "neta": 512.86
   },
   {
    "s": 30,
-   "n": 462,
-   "gan": 932.89,
+   "n": 463,
+   "gan": 933.6,
    "nNeta": 52,
    "neta": 44.92
   }
  ],
- "rentables": 1835,
+ "rentables": 1843,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 85,
-   "descartadas": 290,
-   "neta": 202.28,
-   "dias": 8.72,
-   "semana": 162.37
+   "ops": 86,
+   "descartadas": 291,
+   "neta": 203.03,
+   "dias": 8.76,
+   "semana": 162.32
   },
   {
    "capital": 1000,
-   "ops": 112,
-   "descartadas": 290,
-   "neta": 317.86,
-   "dias": 8.72,
-   "semana": 255.14
+   "ops": 113,
+   "descartadas": 291,
+   "neta": 318.61,
+   "dias": 8.76,
+   "semana": 254.73
   },
   {
    "capital": 2000,
-   "ops": 129,
-   "descartadas": 290,
-   "neta": 449.46,
-   "dias": 8.72,
-   "semana": 360.78
+   "ops": 130,
+   "descartadas": 291,
+   "neta": 450.21,
+   "dias": 8.76,
+   "semana": 359.94
   }
  ],
  "maxBloqueoH": 24,
@@ -115,16 +115,16 @@
   {
    "lunes": "2026-11-16",
    "dias": 1,
-   "horas": 13.3,
-   "episodios": 411,
+   "horas": 14.2,
+   "episodios": 436,
    "sospechosas": 4,
-   "realistaNeta": 18.55,
+   "realistaNeta": 19.34,
    "capital": {
-    "500": 9.77,
-    "1000": 14.75,
-    "2000": 14.75
+    "500": 10.52,
+    "1000": 15.5,
+    "2000": 15.5
    },
-   "cumple": false
+   "cumple": true
   }
  ],
  "criterioSemanal": 10,
@@ -236,37 +236,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5715,
-  "n": 1978,
-  "gan": 5060.04,
-  "nNeta": 478,
-  "neta": 1191.44
+  "conDato": 5740,
+  "n": 1989,
+  "gan": 5096.14,
+  "nNeta": 480,
+  "neta": 1192.23
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1464
+   "n": 1467
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2140
+   "n": 2147
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1233
+   "n": 1245
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 498
+   "n": 500
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 348
+   "n": 349
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794582000000,
-   "n": 21
-  },
   {
    "h": 1794585600000,
    "n": 35
@@ -634,128 +630,132 @@
   {
    "h": 1794855600000,
    "n": 10
+  },
+  {
+   "h": 1794859200000,
+   "n": 25
   }
  ],
  "recientes": [
   {
-   "inicio": 1794858383833,
-   "titulo": "Guyana vs. Puerto Rico",
+   "inicio": 1794862218383,
+   "titulo": "Germany vs. Netherlands",
+   "dur": 1.174,
+   "gan": 1.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794861957067,
+   "titulo": "Cusco FC vs. AD Tarma",
    "dur": 0.023,
-   "gan": 0.5,
-   "neta": 0.21,
-   "lado": "si"
+   "gan": 0.59,
+   "neta": 0.04,
+   "lado": "no"
   },
   {
-   "inicio": 1794858383745,
-   "titulo": "Guyana vs. Puerto Rico",
-   "dur": 0.011,
-   "gan": 0.5,
-   "neta": 0.21,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794858383511,
-   "titulo": "Guyana vs. Puerto Rico",
-   "dur": 0.198,
-   "gan": 0.6,
-   "neta": 0.31,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794856612468,
-   "titulo": "Andorra vs. Azerbaijan",
-   "dur": 0.092,
-   "gan": 0.8,
+   "inicio": 1794861955233,
+   "titulo": "Cusco FC vs. AD Tarma",
+   "dur": 1.832,
+   "gan": 0.57,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794856517935,
-   "titulo": "Andorra vs. Azerbaijan",
-   "dur": 0.464,
-   "gan": 0.66,
+   "inicio": 1794861925836,
+   "titulo": "Cusco FC vs. AD Tarma",
+   "dur": 1.19,
+   "gan": 2.44,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794856515805,
-   "titulo": "Andorra vs. Azerbaijan",
-   "dur": 0.516,
-   "gan": 0.93,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794856295635,
-   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
-   "dur": 1.465,
-   "gan": 0.86,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794856294307,
-   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
-   "dur": 1.28,
+   "inicio": 1794861416252,
+   "titulo": "Gibraltar vs. Malta",
+   "dur": 179.533,
    "gan": 0.71,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794856292550,
-   "titulo": "Elon Musk # tweets November 10 - November 17, 2026?",
-   "dur": 0.635,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794856052762,
-   "titulo": "Guadeloupe vs. Bermuda",
-   "dur": 1.127,
-   "gan": 0.65,
-   "neta": 0.33,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794854126247,
-   "titulo": "Estonia vs. Bulgaria",
-   "dur": 0.677,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794854089625,
-   "titulo": "Estonia vs. Bulgaria",
-   "dur": 0.343,
-   "gan": 1.45,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794853993808,
-   "titulo": "Andorra vs. Azerbaijan",
-   "dur": 1.296,
+   "inicio": 1794861443563,
+   "titulo": "Guyana vs. Puerto Rico",
+   "dur": 1.041,
    "gan": 1,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794853699249,
-   "titulo": "Lithuania vs. Liechtenstein",
-   "dur": 0.682,
-   "gan": 1.02,
+   "inicio": 1794861358655,
+   "titulo": "Cusco FC vs. AD Tarma",
+   "dur": 0.032,
+   "gan": 0.73,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794861224689,
+   "titulo": "Cusco FC vs. AD Tarma",
+   "dur": 1.625,
+   "gan": 0.98,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794853614079,
-   "titulo": "OpenRouter token usage week of November 16?",
-   "dur": 12.904,
+   "inicio": 1794861223778,
+   "titulo": "Cusco FC vs. AD Tarma",
+   "dur": 0.88,
+   "gan": 1.21,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794861180412,
+   "titulo": "Guyana vs. Puerto Rico",
+   "dur": 0.535,
+   "gan": 9.62,
+   "neta": 4.66,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794861100470,
+   "titulo": "Switzerland vs. Scotland",
+   "dur": 0.031,
+   "gan": 0.79,
+   "neta": 0.25,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794860842558,
+   "titulo": "Germany vs. Netherlands",
+   "dur": 3.904,
+   "gan": 1.23,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794860841915,
+   "titulo": "Germany vs. Netherlands",
+   "dur": 0.171,
    "gan": 0.5,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
+  },
+  {
+   "inicio": 1794860841626,
+   "titulo": "Germany vs. Netherlands",
+   "dur": 0.19,
+   "gan": 0.52,
+   "neta": 0.03,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794860840275,
+   "titulo": "Germany vs. Netherlands",
+   "dur": 1.13,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
