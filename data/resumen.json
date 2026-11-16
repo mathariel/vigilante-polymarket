@@ -1,84 +1,84 @@
 {
- "actualizado": 1794820049110,
- "inicio": 1794069377327,
+ "actualizado": 1794823064339,
+ "inicio": 1794072246760,
  "ejecucion": {
-  "inicio": 1794817048775,
-  "fin": 1794820049110,
-  "mensajes": 7021558,
+  "inicio": 1794820064033,
+  "fin": 1794823064339,
+  "mensajes": 6912931,
   "reconexiones": 0,
-  "eventos": 554,
+  "eventos": 546,
   "errores": [],
-  "nuevos": 43,
+  "nuevos": 23,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6108,
- "falsos": 2401,
+ "total": 5963,
+ "falsos": 2354,
  "largos": {
-  "episodios": 15604,
+  "episodios": 15910,
   "eventos": 161,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 6558,
+  "episodios": 6448,
   "eventos": 35
  },
- "mediana": 0.541,
+ "mediana": 0.536,
  "captura": [
   {
    "s": 0.5,
-   "n": 3152,
-   "gan": 9437.33,
-   "nNeta": 1011,
-   "neta": 2713.84
+   "n": 3069,
+   "gan": 9140.37,
+   "nNeta": 966,
+   "neta": 2642.17
   },
   {
    "s": 2,
-   "n": 1574,
-   "gan": 4665.93,
-   "nNeta": 427,
-   "neta": 1365.15
+   "n": 1553,
+   "gan": 4548.09,
+   "nNeta": 413,
+   "neta": 1333.11
   },
   {
    "s": 5,
-   "n": 964,
-   "gan": 2616.6,
-   "nNeta": 176,
-   "neta": 534.14
+   "n": 961,
+   "gan": 2543.99,
+   "nNeta": 172,
+   "neta": 517.86
   },
   {
    "s": 30,
-   "n": 448,
-   "gan": 925.57,
+   "n": 451,
+   "gan": 908.32,
    "nNeta": 53,
    "neta": 45.48
   }
  ],
- "rentables": 1995,
+ "rentables": 1925,
  "porCapital": [
   {
    "capital": 500,
    "ops": 84,
    "descartadas": 277,
    "neta": 197.72,
-   "dias": 8.3,
-   "semana": 166.71
+   "dias": 8.34,
+   "semana": 166.01
   },
   {
    "capital": 1000,
    "ops": 110,
    "descartadas": 277,
    "neta": 308.32,
-   "dias": 8.3,
-   "semana": 259.96
+   "dias": 8.34,
+   "semana": 258.88
   },
   {
    "capital": 2000,
    "ops": 127,
    "descartadas": 277,
    "neta": 439.92,
-   "dias": 8.3,
-   "semana": 370.93
+   "dias": 8.34,
+   "semana": 369.37
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 1,
-   "horas": 3.3,
-   "episodios": 50,
+   "horas": 4.2,
+   "episodios": 73,
    "sospechosas": 0,
    "realistaNeta": 0.14,
    "capital": {
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 102,
+  "n": 100,
   "top": [
    {
     "inicio": 1794135838907,
@@ -236,9 +236,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5423,
-  "n": 1872,
-  "gan": 4921.53,
+  "conDato": 5446,
+  "n": 1884,
+  "gan": 4929.28,
   "nNeta": 463,
   "neta": 1178.41
  },
@@ -246,32 +246,32 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1500
+   "n": 1473
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2318
+   "n": 2255
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1321
+   "n": 1269
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 516
+   "n": 510
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 338
+   "n": 340
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 110
+   "n": 111
   }
  ],
  "porEvento": [
@@ -633,129 +633,129 @@
   },
   {
    "h": 1794819600000,
-   "n": 27
+   "n": 50
   }
  ],
  "recientes": [
   {
-   "inicio": 1794819314660,
-   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
-   "dur": 734.118,
-   "gan": 0.89,
+   "inicio": 1794822020729,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 19.785,
+   "gan": 0.51,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794819984093,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.059,
-   "gan": 0.61,
+   "inicio": 1794822012511,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 8,
+   "gan": 0.51,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794819983419,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.6,
-   "gan": 0.61,
+   "inicio": 1794821920517,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 0.883,
+   "gan": 0.51,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794819983193,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.05,
-   "gan": 0.61,
+   "inicio": 1794821020592,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 56.941,
+   "gan": 0.56,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794819982532,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.588,
-   "gan": 0.61,
+   "inicio": 1794821020407,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 0.137,
+   "gan": 0.64,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794819982307,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.106,
-   "gan": 0.61,
+   "inicio": 1794821020018,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 0.344,
+   "gan": 0.69,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794819982231,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.014,
-   "gan": 0.61,
+   "inicio": 1794820691734,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 328.241,
+   "gan": 0.71,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794819981679,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.49,
-   "gan": 0.61,
+   "inicio": 1794820691291,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 0.395,
+   "gan": 0.51,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794819981628,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.027,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794819981501,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.029,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794819981471,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.008,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794819981343,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.104,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794819981128,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.093,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794819980442,
-   "titulo": "Target Q3 comparable sales growth?",
-   "dur": 0.612,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794819980400,
-   "titulo": "Target Q3 comparable sales growth?",
+   "inicio": 1794820691219,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
    "dur": 0.017,
-   "gan": 0.61,
+   "gan": 0.53,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
+  },
+  {
+   "inicio": 1794820585781,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 105.4,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794820564974,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 20.758,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794820564156,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 0.022,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794820564059,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 0.032,
+   "gan": 0.94,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794820563705,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 0.313,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794820555370,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 0.241,
+   "gan": 0.98,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
