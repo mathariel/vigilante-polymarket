@@ -1,84 +1,84 @@
 {
- "actualizado": 1794874448835,
+ "actualizado": 1794877478888,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794871448424,
-  "fin": 1794874448835,
-  "mensajes": 7179757,
+  "inicio": 1794874478653,
+  "fin": 1794877478888,
+  "mensajes": 7687797,
   "reconexiones": 0,
-  "eventos": 543,
+  "eventos": 548,
   "errores": [],
-  "nuevos": 1,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 26,
+  "nuevosRentables": 3,
+  "nuevosNeta": 1.38
  },
- "total": 5890,
- "falsos": 2370,
+ "total": 5916,
+ "falsos": 2377,
  "largos": {
-  "episodios": 18149,
-  "eventos": 165,
+  "episodios": 18222,
+  "eventos": 166,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 4367,
+  "episodios": 4270,
   "eventos": 33
  },
- "mediana": 0.548,
+ "mediana": 0.551,
  "captura": [
   {
    "s": 0.5,
-   "n": 3050,
-   "gan": 9035.28,
-   "nNeta": 936,
-   "neta": 2492.14
+   "n": 3067,
+   "gan": 9061.51,
+   "nNeta": 940,
+   "neta": 2493.82
   },
   {
    "s": 2,
-   "n": 1569,
-   "gan": 4569.43,
-   "nNeta": 409,
-   "neta": 1353.13
+   "n": 1577,
+   "gan": 4581.74,
+   "nNeta": 410,
+   "neta": 1353.98
   },
   {
    "s": 5,
-   "n": 966,
-   "gan": 2506.18,
-   "nNeta": 165,
-   "neta": 513.2
+   "n": 970,
+   "gan": 2512.06,
+   "nNeta": 166,
+   "neta": 514.05
   },
   {
    "s": 30,
-   "n": 464,
-   "gan": 935.33,
-   "nNeta": 52,
-   "neta": 44.92
+   "n": 465,
+   "gan": 936.53,
+   "nNeta": 53,
+   "neta": 45.77
   }
  ],
- "rentables": 1866,
+ "rentables": 1870,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 87,
+   "ops": 90,
    "descartadas": 295,
-   "neta": 203.74,
-   "dias": 8.9,
-   "semana": 160.33
+   "neta": 205.12,
+   "dias": 8.93,
+   "semana": 160.78
   },
   {
    "capital": 1000,
-   "ops": 114,
+   "ops": 117,
    "descartadas": 295,
-   "neta": 319.32,
-   "dias": 8.9,
-   "semana": 251.28
+   "neta": 320.7,
+   "dias": 8.93,
+   "semana": 251.38
   },
   {
    "capital": 2000,
-   "ops": 131,
+   "ops": 134,
    "descartadas": 295,
-   "neta": 450.92,
-   "dias": 8.9,
-   "semana": 354.85
+   "neta": 452.3,
+   "dias": 8.93,
+   "semana": 354.54
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 1,
-   "horas": 17.5,
-   "episodios": 499,
+   "horas": 18.3,
+   "episodios": 525,
    "sospechosas": 4,
-   "realistaNeta": 21.4,
+   "realistaNeta": 22.78,
    "capital": {
-    "500": 11.23,
-    "1000": 16.21,
-    "2000": 16.21
+    "500": 12.61,
+    "1000": 17.59,
+    "2000": 17.59
    },
    "cumple": true
   }
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5803,
-  "n": 2002,
-  "gan": 5118.3,
-  "nNeta": 485,
-  "neta": 1194.29
+  "conDato": 5829,
+  "n": 2014,
+  "gan": 5134.59,
+  "nNeta": 488,
+  "neta": 1195.67
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1485
+   "n": 1490
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2172
+   "n": 2180
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1262
+   "n": 1271
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 502
+   "n": 505
   },
   {
    "et": "30 s–5 min",
@@ -271,7 +271,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 114
+   "n": 115
   }
  ],
  "porEvento": [
@@ -633,127 +633,127 @@
   },
   {
    "h": 1794873600000,
-   "n": 1
+   "n": 27
   }
  ],
  "recientes": [
   {
-   "inicio": 1794873646109,
-   "titulo": "Canada vs. Guatemala",
-   "dur": 259.562,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794871359630,
-   "titulo": "Montevideo Wanderers vs. CA Juventud de Las Piedras",
-   "dur": 0.808,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794871359604,
-   "titulo": "Montevideo Wanderers vs. CA Juventud de Las Piedras",
-   "dur": 0.025,
-   "gan": 0.64,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794870520404,
-   "titulo": "Tahiti vs. Cook Islands",
-   "dur": 0.042,
-   "gan": 0.63,
-   "neta": 0.09,
+   "inicio": 1794876332298,
+   "titulo": "Martinique vs. Aruba - Halftime Result",
+   "dur": 1146.358,
+   "gan": 1.2,
+   "neta": 0.85,
    "lado": "no"
   },
   {
-   "inicio": 1794867743917,
-   "titulo": "CD Moquegua vs. CA Grau",
+   "inicio": 1794876074690,
+   "titulo": "Trinidad and Tobago vs. Antigua and Barbuda",
    "dur": 0.23,
-   "gan": 37.61,
-   "neta": 20.4,
+   "gan": 0.79,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794867738092,
-   "titulo": "CD Moquegua vs. CA Grau",
-   "dur": 0.001,
-   "gan": 0.53,
-   "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794867548160,
-   "titulo": "CD Moquegua vs. CA Grau",
-   "dur": 0.028,
-   "gan": 0.68,
+   "inicio": 1794875868058,
+   "titulo": "Martinique vs. Aruba",
+   "dur": 0.333,
+   "gan": 0.75,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794867479338,
-   "titulo": "CD Moquegua vs. CA Grau",
-   "dur": 0.263,
-   "gan": 0.68,
-   "neta": 0.06,
-   "lado": "si"
+   "inicio": 1794875861467,
+   "titulo": "Martinique vs. Aruba",
+   "dur": 1.143,
+   "gan": 1.22,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1794866629281,
-   "titulo": "Cusco FC vs. AD Tarma",
-   "dur": 1.252,
-   "gan": 0.58,
+   "inicio": 1794875856483,
+   "titulo": "Martinique vs. Aruba",
+   "dur": 3.44,
+   "gan": 1.4,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794875847675,
+   "titulo": "Martinique vs. Aruba",
+   "dur": 0.084,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794875840476,
+   "titulo": "Martinique vs. Aruba",
+   "dur": 0.579,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794875837108,
+   "titulo": "Martinique vs. Aruba",
+   "dur": 1.405,
+   "gan": 0.95,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794875837002,
+   "titulo": "Martinique vs. Aruba",
+   "dur": 0.084,
+   "gan": 2,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794875830649,
+   "titulo": "Martinique vs. Aruba",
+   "dur": 0.966,
+   "gan": 1.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794875825898,
+   "titulo": "Martinique vs. Aruba",
+   "dur": 3.254,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794875669740,
+   "titulo": "Trinidad and Tobago vs. Antigua and Barbuda",
+   "dur": 20.871,
+   "gan": 0.65,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794866625312,
-   "titulo": "Cusco FC vs. AD Tarma",
-   "dur": 3.695,
-   "gan": 0.51,
-   "neta": 0.1,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794866555023,
-   "titulo": "Cusco FC vs. AD Tarma",
-   "dur": 0.021,
-   "gan": 0.55,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794866553332,
-   "titulo": "Cusco FC vs. AD Tarma",
-   "dur": 0.831,
-   "gan": 0.55,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794866551285,
-   "titulo": "Cusco FC vs. AD Tarma",
-   "dur": 1.934,
-   "gan": 0.57,
+   "inicio": 1794875435044,
+   "titulo": "Trinidad and Tobago vs. Antigua and Barbuda",
+   "dur": 0.006,
+   "gan": 0.7,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794866549853,
-   "titulo": "Cusco FC vs. AD Tarma",
-   "dur": 0.791,
-   "gan": 0.51,
+   "inicio": 1794875434732,
+   "titulo": "Trinidad and Tobago vs. Antigua and Barbuda",
+   "dur": 0.196,
+   "gan": 0.98,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794865905785,
-   "titulo": "CD Moquegua vs. CA Grau",
-   "dur": 1.067,
-   "gan": 0.85,
+   "inicio": 1794875434617,
+   "titulo": "Trinidad and Tobago vs. Antigua and Barbuda",
+   "dur": 0.107,
+   "gan": 0.84,
    "neta": 0,
    "lado": "si"
   }
