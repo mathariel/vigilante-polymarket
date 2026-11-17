@@ -1,55 +1,55 @@
 {
- "actualizado": 1794889548820,
+ "actualizado": 1794892563779,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794886548554,
-  "fin": 1794889548820,
-  "mensajes": 6286096,
-  "reconexiones": 0,
-  "eventos": 541,
+  "inicio": 1794889563433,
+  "fin": 1794892563779,
+  "mensajes": 5749361,
+  "reconexiones": 1,
+  "eventos": 525,
   "errores": [],
-  "nuevos": 0,
+  "nuevos": 8,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5944,
- "falsos": 2384,
+ "total": 5950,
+ "falsos": 2385,
  "largos": {
-  "episodios": 18631,
-  "eventos": 169,
+  "episodios": 18684,
+  "eventos": 170,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 3866,
+  "episodios": 3815,
   "eventos": 33
  },
- "mediana": 0.552,
+ "mediana": 0.553,
  "captura": [
   {
    "s": 0.5,
-   "n": 3084,
-   "gan": 9080.3,
+   "n": 3090,
+   "gan": 9083.57,
    "nNeta": 943,
    "neta": 2495.06
   },
   {
    "s": 2,
-   "n": 1593,
-   "gan": 4600.47,
+   "n": 1599,
+   "gan": 4603.82,
    "nNeta": 413,
    "neta": 1355.22
   },
   {
    "s": 5,
-   "n": 983,
-   "gan": 2527.69,
+   "n": 987,
+   "gan": 2529.92,
    "nNeta": 168,
    "neta": 515.28
   },
   {
    "s": 30,
-   "n": 471,
-   "gan": 943.06,
+   "n": 472,
+   "gan": 943.68,
    "nNeta": 53,
    "neta": 45.77
   }
@@ -61,24 +61,24 @@
    "ops": 90,
    "descartadas": 298,
    "neta": 205.12,
-   "dias": 9.07,
-   "semana": 158.31
+   "dias": 9.1,
+   "semana": 157.8
   },
   {
    "capital": 1000,
    "ops": 117,
    "descartadas": 298,
    "neta": 320.7,
-   "dias": 9.07,
-   "semana": 247.51
+   "dias": 9.1,
+   "semana": 246.72
   },
   {
    "capital": 2000,
    "ops": 134,
    "descartadas": 298,
    "neta": 452.3,
-   "dias": 9.07,
-   "semana": 349.07
+   "dias": 9.1,
+   "semana": 347.96
   }
  ],
  "maxBloqueoH": 24,
@@ -114,9 +114,9 @@
   },
   {
    "lunes": "2026-11-16",
-   "dias": 1,
-   "horas": 21.7,
-   "episodios": 554,
+   "dias": 2,
+   "horas": 22.5,
+   "episodios": 562,
    "sospechosas": 4,
    "realistaNeta": 24.02,
    "capital": {
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 87,
+  "n": 86,
   "top": [
    {
     "inicio": 1794135838907,
@@ -236,9 +236,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5857,
-  "n": 2032,
-  "gan": 5154.44,
+  "conDato": 5864,
+  "n": 2038,
+  "gan": 5157.71,
   "nNeta": 491,
   "neta": 1196.91
  },
@@ -246,32 +246,32 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1496
+   "n": 1495
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2184
+   "n": 2185
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1276
+   "n": 1278
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 512
+   "n": 515
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 353
+   "n": 355
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 118
+   "n": 117
   }
  ],
  "porEvento": [
@@ -347,14 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794610800000,
-   "n": 14
-  },
-  {
-   "h": 1794614400000,
-   "n": 43
-  },
   {
    "h": 1794618000000,
    "n": 43
@@ -634,9 +626,81 @@
   {
    "h": 1794884400000,
    "n": 2
+  },
+  {
+   "h": 1794888000000,
+   "n": 1
+  },
+  {
+   "h": 1794891600000,
+   "n": 7
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794892226435,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 108.159,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794892174432,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 51.966,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794892127397,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 7.117,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794892116065,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 5.661,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794892107653,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 4.288,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794892099092,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 4.111,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794891964750,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 6.757,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794890074265,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
+   "dur": 0.288,
+   "gan": 1.45,
+   "neta": 0.72,
+   "lado": "no"
+  },
   {
    "inicio": 1794886521686,
    "titulo": "Singapore vs. Brazil",
@@ -690,70 +754,6 @@
    "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
    "dur": 1.581,
    "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794881388921,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 1.417,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794881167918,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 12.649,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794880448442,
-   "titulo": "Martinique vs. Aruba",
-   "dur": 0.172,
-   "gan": 1.26,
-   "neta": 1.15,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794880448093,
-   "titulo": "Martinique vs. Aruba",
-   "dur": 0.247,
-   "gan": 0.58,
-   "neta": 0.44,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794880276360,
-   "titulo": "Canada vs. Guatemala",
-   "dur": 0.061,
-   "gan": 0.64,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794879960944,
-   "titulo": "Martinique vs. Aruba",
-   "dur": 7.308,
-   "gan": 1.97,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794879625877,
-   "titulo": "Canada vs. Guatemala",
-   "dur": 0.029,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794879625544,
-   "titulo": "Canada vs. Guatemala",
-   "dur": 0.043,
-   "gan": 0.65,
    "neta": 0,
    "lado": "si"
   }
