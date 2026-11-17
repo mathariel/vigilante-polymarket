@@ -1,26 +1,26 @@
 {
- "actualizado": 1794883516265,
+ "actualizado": 1794886534143,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794880515912,
-  "fin": 1794883516265,
-  "mensajes": 7572174,
-  "reconexiones": 1,
-  "eventos": 545,
+  "inicio": 1794883533801,
+  "fin": 1794886534143,
+  "mensajes": 5951046,
+  "reconexiones": 0,
+  "eventos": 544,
   "errores": [],
-  "nuevos": 6,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.87
+  "nuevos": 1,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5942,
- "falsos": 2381,
+ "total": 5943,
+ "falsos": 2383,
  "largos": {
-  "episodios": 18414,
+  "episodios": 18540,
   "eventos": 168,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 4065,
+  "episodios": 3946,
   "eventos": 33
  },
  "mediana": 0.552,
@@ -28,28 +28,28 @@
   {
    "s": 0.5,
    "n": 3083,
-   "gan": 9080.02,
+   "gan": 9079.63,
    "nNeta": 943,
    "neta": 2495.06
   },
   {
    "s": 2,
-   "n": 1591,
-   "gan": 4599.13,
+   "n": 1592,
+   "gan": 4599.8,
    "nNeta": 413,
    "neta": 1355.22
   },
   {
    "s": 5,
-   "n": 981,
-   "gan": 2526.35,
+   "n": 982,
+   "gan": 2527.02,
    "nNeta": 168,
    "neta": 515.28
   },
   {
    "s": 30,
-   "n": 469,
-   "gan": 941.72,
+   "n": 470,
+   "gan": 942.39,
    "nNeta": 53,
    "neta": 45.77
   }
@@ -61,24 +61,24 @@
    "ops": 90,
    "descartadas": 298,
    "neta": 205.12,
-   "dias": 9,
-   "semana": 159.54
+   "dias": 9.04,
+   "semana": 158.92
   },
   {
    "capital": 1000,
    "ops": 117,
    "descartadas": 298,
    "neta": 320.7,
-   "dias": 9,
-   "semana": 249.43
+   "dias": 9.04,
+   "semana": 248.46
   },
   {
    "capital": 2000,
    "ops": 134,
    "descartadas": 298,
    "neta": 452.3,
-   "dias": 9,
-   "semana": 351.78
+   "dias": 9.04,
+   "semana": 350.42
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 1,
-   "horas": 20,
-   "episodios": 551,
+   "horas": 20.8,
+   "episodios": 553,
    "sospechosas": 4,
    "realistaNeta": 24.02,
    "capital": {
@@ -236,9 +236,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5855,
-  "n": 2030,
-  "gan": 5153.1,
+  "conDato": 5856,
+  "n": 2031,
+  "gan": 5153.77,
   "nNeta": 491,
   "neta": 1196.91
  },
@@ -246,12 +246,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1495
+   "n": 1496
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2185
+   "n": 2184
   },
   {
    "et": "1–5 s",
@@ -271,7 +271,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 116
+   "n": 117
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794607200000,
-   "n": 1
-  },
   {
    "h": 1794610800000,
    "n": 14
@@ -633,10 +629,30 @@
   },
   {
    "h": 1794880800000,
-   "n": 6
+   "n": 7
+  },
+  {
+   "h": 1794884400000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794883523493,
+   "titulo": "Singapore vs. Brazil",
+   "dur": 3010.311,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794886200830,
+   "titulo": "Yemen vs. Malaysia",
+   "dur": 0.068,
+   "gan": 0.61,
+   "neta": 0.02,
+   "lado": "si"
+  },
   {
    "inicio": 1794882898375,
    "titulo": "Singapore vs. Brazil",
@@ -740,22 +756,6 @@
    "gan": 0.88,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794879581514,
-   "titulo": "Canada vs. Guatemala",
-   "dur": 3.901,
-   "gan": 2.21,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794879523252,
-   "titulo": "Martinique vs. Aruba",
-   "dur": 0.12,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
