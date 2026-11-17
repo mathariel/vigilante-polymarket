@@ -1,84 +1,84 @@
 {
- "actualizado": 1794937800857,
- "inicio": 1794114674997,
+ "actualizado": 1794940815943,
+ "inicio": 1794126546290,
  "ejecucion": {
-  "inicio": 1794934800527,
-  "fin": 1794937800857,
-  "mensajes": 11733075,
-  "reconexiones": 1,
-  "eventos": 533,
+  "inicio": 1794937815618,
+  "fin": 1794940815943,
+  "mensajes": 8978314,
+  "reconexiones": 0,
+  "eventos": 536,
   "errores": [],
-  "nuevos": 35,
-  "nuevosRentables": 3,
-  "nuevosNeta": 3.12
+  "nuevos": 33,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.66
  },
- "total": 6066,
- "falsos": 2495,
+ "total": 6061,
+ "falsos": 2503,
  "largos": {
-  "episodios": 20591,
-  "eventos": 177,
+  "episodios": 20592,
+  "eventos": 176,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1760,
+  "episodios": 1759,
   "eventos": 33
  },
- "mediana": 0.553,
+ "mediana": 0.554,
  "captura": [
   {
    "s": 0.5,
-   "n": 3152,
-   "gan": 9078.44,
-   "nNeta": 943,
-   "neta": 2413.97
+   "n": 3155,
+   "gan": 9215.23,
+   "nNeta": 939,
+   "neta": 2407.08
   },
   {
    "s": 2,
-   "n": 1624,
-   "gan": 4629.63,
-   "nNeta": 410,
-   "neta": 1337.47
+   "n": 1633,
+   "gan": 4750.74,
+   "nNeta": 408,
+   "neta": 1328.09
   },
   {
    "s": 5,
-   "n": 991,
-   "gan": 2549.49,
-   "nNeta": 166,
-   "neta": 510.75
+   "n": 998,
+   "gan": 2644.45,
+   "nNeta": 163,
+   "neta": 500.71
   },
   {
    "s": 30,
-   "n": 465,
-   "gan": 952.73,
+   "n": 468,
+   "gan": 963.05,
    "nNeta": 53,
    "neta": 45.56
   }
  ],
- "rentables": 1884,
+ "rentables": 1881,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 92,
+   "ops": 89,
    "descartadas": 298,
-   "neta": 189.05,
+   "neta": 188.03,
    "dias": 9.37,
-   "semana": 141.29
+   "semana": 140.42
   },
   {
    "capital": 1000,
-   "ops": 111,
+   "ops": 112,
    "descartadas": 298,
-   "neta": 311.51,
+   "neta": 333.64,
    "dias": 9.37,
-   "semana": 232.81
+   "semana": 249.16
   },
   {
    "capital": 2000,
-   "ops": 131,
+   "ops": 130,
    "descartadas": 298,
-   "neta": 466.99,
+   "neta": 455.73,
    "dias": 9.37,
-   "semana": 349.01
+   "semana": 340.35
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 35,
-   "episodios": 844,
-   "sospechosas": 5,
-   "realistaNeta": 29.47,
+   "horas": 35.8,
+   "episodios": 877,
+   "sospechosas": 6,
+   "realistaNeta": 30.13,
    "capital": {
     "500": 16.33,
     "1000": 21.31,
@@ -236,42 +236,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5983,
-  "n": 2074,
-  "gan": 5200.5,
-  "nNeta": 487,
-  "neta": 1189.06
+  "conDato": 5978,
+  "n": 2080,
+  "gan": 5315.84,
+  "nNeta": 484,
+  "neta": 1177.43
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1518
+   "n": 1511
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2230
+   "n": 2227
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1321
+   "n": 1319
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 526
+   "n": 530
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 350
+   "n": 352
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 115
+   "n": 116
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794664800000,
-   "n": 27
-  },
   {
    "h": 1794668400000,
    "n": 63
@@ -633,129 +629,133 @@
   },
   {
    "h": 1794934800000,
-   "n": 35
+   "n": 49
+  },
+  {
+   "h": 1794938400000,
+   "n": 19
   }
  ],
  "recientes": [
   {
-   "inicio": 1794937744937,
-   "titulo": "Kenya vs. South Africa",
-   "dur": 0.066,
-   "gan": 0.59,
-   "neta": 0.23,
-   "lado": "si"
+   "inicio": 1794940477797,
+   "titulo": "South Shields vs. Harborough Town FC",
+   "dur": 1.079,
+   "gan": 2.12,
+   "neta": 0.84,
+   "lado": "no"
   },
   {
-   "inicio": 1794937697438,
-   "titulo": "Gambia vs. Ivory Coast",
-   "dur": 2.066,
-   "gan": 0.71,
-   "neta": 0.05,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794937697395,
-   "titulo": "Gambia vs. Ivory Coast",
-   "dur": 0.034,
-   "gan": 0.56,
-   "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794937689788,
-   "titulo": "Gambia vs. Ivory Coast",
-   "dur": 0.013,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794937687641,
-   "titulo": "Gambia vs. Ivory Coast",
-   "dur": 0.847,
-   "gan": 0.64,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794937684114,
-   "titulo": "Gambia vs. Ivory Coast",
-   "dur": 3.526,
-   "gan": 0.79,
-   "neta": 0.05,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794937674861,
-   "titulo": "Gambia vs. Ivory Coast",
-   "dur": 0.061,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794937671588,
-   "titulo": "Gambia vs. Ivory Coast",
-   "dur": 0.17,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794937070273,
-   "titulo": "Libya vs. Tunisia",
-   "dur": 0.218,
-   "gan": 0.59,
+   "inicio": 1794939878759,
+   "titulo": "Argentina vs. Costa Rica",
+   "dur": 511.016,
+   "gan": 3.6,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794937068777,
-   "titulo": "Libya vs. Tunisia",
-   "dur": 0.056,
-   "gan": 0.59,
+   "inicio": 1794939787414,
+   "titulo": "South Shields vs. Harborough Town FC",
+   "dur": 10.1,
+   "gan": 1.54,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794937065155,
-   "titulo": "Libya vs. Tunisia",
-   "dur": 0.23,
-   "gan": 0.59,
+   "inicio": 1794939504728,
+   "titulo": "South Shields vs. Harborough Town FC",
+   "dur": 0.527,
+   "gan": 59.42,
+   "neta": 22.91,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794939452149,
+   "titulo": "South Shields vs. Harborough Town FC",
+   "dur": 40.893,
+   "gan": 1.1,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794937063595,
+   "inicio": 1794939288788,
+   "titulo": "South Shields vs. Harborough Town FC",
+   "dur": 115.861,
+   "gan": 6.02,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794939211939,
+   "titulo": "South Shields vs. Harborough Town FC",
+   "dur": 27.374,
+   "gan": 14.79,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794939201675,
+   "titulo": "South Shields vs. Harborough Town FC",
+   "dur": 9.116,
+   "gan": 14.79,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794939180452,
+   "titulo": "South Shields vs. Harborough Town FC",
+   "dur": 15.909,
+   "gan": 14.79,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794939165635,
+   "titulo": "South Shields vs. Harborough Town FC",
+   "dur": 12.53,
+   "gan": 47.71,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794939154690,
+   "titulo": "South Shields vs. Harborough Town FC",
+   "dur": 0.318,
+   "gan": 4.9,
+   "neta": 0.06,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794939116998,
    "titulo": "Libya vs. Tunisia",
-   "dur": 0.123,
+   "dur": 3.323,
+   "gan": 1.03,
+   "neta": 0.66,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794939078096,
+   "titulo": "South Shields vs. Harborough Town FC",
+   "dur": 13.448,
+   "gan": 1.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794938790742,
+   "titulo": "South Shields vs. Harborough Town FC",
+   "dur": 0.029,
    "gan": 0.55,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794937058287,
-   "titulo": "Libya vs. Tunisia",
-   "dur": 0.344,
-   "gan": 0.81,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794937055242,
-   "titulo": "Libya vs. Tunisia",
-   "dur": 0.013,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794937049819,
-   "titulo": "Libya vs. Tunisia",
-   "dur": 0.19,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1794938686749,
+   "titulo": "Gambia vs. Ivory Coast",
+   "dur": 0.126,
+   "gan": 3.32,
+   "neta": 1.84,
+   "lado": "si"
   }
  ]
 }
