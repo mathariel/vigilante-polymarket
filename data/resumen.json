@@ -1,84 +1,84 @@
 {
- "actualizado": 1794922717930,
+ "actualizado": 1794925731981,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794919717586,
-  "fin": 1794922717930,
-  "mensajes": 11255697,
-  "reconexiones": 1,
+  "inicio": 1794922731618,
+  "fin": 1794925731981,
+  "mensajes": 10758504,
+  "reconexiones": 0,
   "eventos": 536,
   "errores": [],
-  "nuevos": 27,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 36,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.01
  },
- "total": 6066,
- "falsos": 2490,
+ "total": 6068,
+ "falsos": 2495,
  "largos": {
-  "episodios": 20331,
-  "eventos": 177,
+  "episodios": 20562,
+  "eventos": 176,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 2003,
+  "episodios": 1772,
   "eventos": 33
  },
- "mediana": 0.556,
+ "mediana": 0.546,
  "captura": [
   {
    "s": 0.5,
-   "n": 3160,
-   "gan": 9118.21,
-   "nNeta": 955,
-   "neta": 2433.4
+   "n": 3141,
+   "gan": 9098.96,
+   "nNeta": 953,
+   "neta": 2432.87
   },
   {
    "s": 2,
-   "n": 1640,
-   "gan": 4668.77,
-   "nNeta": 414,
-   "neta": 1356.8
+   "n": 1619,
+   "gan": 4655.84,
+   "nNeta": 413,
+   "neta": 1356.32
   },
   {
    "s": 5,
-   "n": 1005,
-   "gan": 2569.82,
-   "nNeta": 169,
-   "neta": 515.6
+   "n": 993,
+   "gan": 2562.84,
+   "nNeta": 168,
+   "neta": 515.49
   },
   {
    "s": 30,
-   "n": 475,
-   "gan": 958.56,
+   "n": 469,
+   "gan": 955.22,
    "nNeta": 54,
    "neta": 46.09
   }
  ],
- "rentables": 1897,
+ "rentables": 1900,
  "porCapital": [
   {
    "capital": 500,
    "ops": 90,
-   "descartadas": 299,
+   "descartadas": 298,
    "neta": 205.12,
-   "dias": 9.44,
-   "semana": 152.06
+   "dias": 9.42,
+   "semana": 152.38
   },
   {
    "capital": 1000,
    "ops": 117,
-   "descartadas": 299,
+   "descartadas": 298,
    "neta": 320.7,
-   "dias": 9.44,
-   "semana": 237.75
+   "dias": 9.42,
+   "semana": 238.24
   },
   {
    "capital": 2000,
    "ops": 134,
-   "descartadas": 299,
+   "descartadas": 298,
    "neta": 452.3,
-   "dias": 9.44,
-   "semana": 335.31
+   "dias": 9.42,
+   "semana": 336
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 30.8,
-   "episodios": 696,
+   "horas": 31.7,
+   "episodios": 732,
    "sospechosas": 4,
-   "realistaNeta": 25.61,
+   "realistaNeta": 25.62,
    "capital": {
     "500": 12.61,
     "1000": 17.59,
@@ -236,42 +236,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5980,
-  "n": 2080,
-  "gan": 5222.03,
-  "nNeta": 492,
-  "neta": 1198.49
+  "conDato": 5982,
+  "n": 2060,
+  "gan": 5210.69,
+  "nNeta": 491,
+  "neta": 1198.01
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1521
+   "n": 1530
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2227
+   "n": 2238
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1308
+   "n": 1302
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 530
+   "n": 524
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 357
+   "n": 352
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 118
+   "n": 117
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794650400000,
-   "n": 4
-  },
   {
    "h": 1794654000000,
    "n": 3
@@ -633,128 +629,132 @@
   },
   {
    "h": 1794920400000,
-   "n": 23
+   "n": 52
+  },
+  {
+   "h": 1794924000000,
+   "n": 7
   }
  ],
  "recientes": [
   {
-   "inicio": 1794922658438,
-   "titulo": "Ethiopia vs. Mozambique",
-   "dur": 1.004,
-   "gan": 0.72,
-   "neta": 0.11,
+   "inicio": 1794925304062,
+   "titulo": "United Arab Emirates vs. Syria",
+   "dur": 1.187,
+   "gan": 1.78,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794922371564,
-   "titulo": "China PR vs. Bahrain",
-   "dur": 0.524,
-   "gan": 0.72,
+   "inicio": 1794925231785,
+   "titulo": "Malawi vs. Egypt",
+   "dur": 0.672,
+   "gan": 0.71,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794922369250,
-   "titulo": "China PR vs. Bahrain",
-   "dur": 0.226,
-   "gan": 0.67,
+   "inicio": 1794925217540,
+   "titulo": "Lesotho vs. Gabon",
+   "dur": 1.038,
+   "gan": 0.97,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794922369179,
-   "titulo": "China PR vs. Bahrain",
-   "dur": 0.008,
+   "inicio": 1794925007281,
+   "titulo": "Lesotho vs. Gabon",
+   "dur": 0.25,
+   "gan": 1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794924881970,
+   "titulo": "Malawi vs. Egypt",
+   "dur": 2.19,
    "gan": 0.52,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794922368973,
-   "titulo": "China PR vs. Bahrain",
-   "dur": 0.039,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
+   "inicio": 1794924583139,
+   "titulo": "Lesotho vs. Gabon",
+   "dur": 0.388,
+   "gan": 1.84,
+   "neta": 1.13,
+   "lado": "no"
   },
   {
-   "inicio": 1794922368878,
-   "titulo": "China PR vs. Bahrain",
-   "dur": 0.006,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
+   "inicio": 1794924583068,
+   "titulo": "Lesotho vs. Gabon",
+   "dur": 0.033,
+   "gan": 1.58,
+   "neta": 0.98,
+   "lado": "no"
   },
   {
-   "inicio": 1794922368331,
-   "titulo": "China PR vs. Bahrain",
-   "dur": 0.514,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794922368295,
-   "titulo": "China PR vs. Bahrain",
-   "dur": 0.003,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794922368226,
-   "titulo": "China PR vs. Bahrain",
-   "dur": 0.007,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794922368097,
+   "inicio": 1794923917631,
    "titulo": "China PR vs. Bahrain",
    "dur": 0.03,
-   "gan": 0.54,
-   "neta": 0,
+   "gan": 0.51,
+   "neta": 0.32,
    "lado": "si"
   },
   {
-   "inicio": 1794922367659,
+   "inicio": 1794923915894,
    "titulo": "China PR vs. Bahrain",
-   "dur": 0.365,
-   "gan": 0.59,
-   "neta": 0,
+   "dur": 0.211,
+   "gan": 0.52,
+   "neta": 0.33,
    "lado": "si"
   },
   {
-   "inicio": 1794922222538,
+   "inicio": 1794923441946,
+   "titulo": "South Sudan vs. Angola",
+   "dur": 4.937,
+   "gan": 0.75,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794923349136,
    "titulo": "China PR vs. Bahrain",
-   "dur": 2.11,
-   "gan": 0.56,
+   "dur": 1.863,
+   "gan": 1.39,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794923182272,
+   "titulo": "Lesotho vs. Gabon",
+   "dur": 0.106,
+   "gan": 0.76,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794922109552,
-   "titulo": "Ethiopia vs. Mozambique",
-   "dur": 0.39,
-   "gan": 0.54,
+   "inicio": 1794923179184,
+   "titulo": "Lesotho vs. Gabon",
+   "dur": 0.053,
+   "gan": 0.73,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794922109390,
-   "titulo": "Ethiopia vs. Mozambique",
-   "dur": 0.024,
-   "gan": 0.54,
+   "inicio": 1794923177686,
+   "titulo": "Lesotho vs. Gabon",
+   "dur": 1.447,
+   "gan": 0.52,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794921255637,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 2.011,
-   "gan": 0.81,
-   "neta": 0,
+   "inicio": 1794923175866,
+   "titulo": "Lesotho vs. Gabon",
+   "dur": 0.807,
+   "gan": 1.24,
+   "neta": 0.89,
    "lado": "si"
   }
  ]
