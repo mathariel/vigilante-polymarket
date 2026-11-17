@@ -1,84 +1,84 @@
 {
- "actualizado": 1794934780494,
- "inicio": 1794113498085,
+ "actualizado": 1794937800857,
+ "inicio": 1794114674997,
  "ejecucion": {
-  "inicio": 1794931780142,
-  "fin": 1794934780494,
-  "mensajes": 13673827,
-  "reconexiones": 2,
-  "eventos": 540,
+  "inicio": 1794934800527,
+  "fin": 1794937800857,
+  "mensajes": 11733075,
+  "reconexiones": 1,
+  "eventos": 533,
   "errores": [],
-  "nuevos": 40,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 35,
+  "nuevosRentables": 3,
+  "nuevosNeta": 3.12
  },
- "total": 6108,
- "falsos": 2503,
+ "total": 6066,
+ "falsos": 2495,
  "largos": {
-  "episodios": 20531,
-  "eventos": 176,
+  "episodios": 20591,
+  "eventos": 177,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1768,
+  "episodios": 1760,
   "eventos": 33
  },
- "mediana": 0.554,
+ "mediana": 0.553,
  "captura": [
   {
    "s": 0.5,
-   "n": 3178,
-   "gan": 9096.9,
-   "nNeta": 956,
-   "neta": 2411.54
+   "n": 3152,
+   "gan": 9078.44,
+   "nNeta": 943,
+   "neta": 2413.97
   },
   {
    "s": 2,
-   "n": 1634,
-   "gan": 4657.25,
-   "nNeta": 414,
-   "neta": 1346.55
+   "n": 1624,
+   "gan": 4629.63,
+   "nNeta": 410,
+   "neta": 1337.47
   },
   {
    "s": 5,
-   "n": 1000,
-   "gan": 2568.7,
-   "nNeta": 169,
-   "neta": 515.51
+   "n": 991,
+   "gan": 2549.49,
+   "nNeta": 166,
+   "neta": 510.75
   },
   {
    "s": 30,
-   "n": 468,
-   "gan": 954.58,
-   "nNeta": 54,
-   "neta": 46.09
+   "n": 465,
+   "gan": 952.73,
+   "nNeta": 53,
+   "neta": 45.56
   }
  ],
- "rentables": 1911,
+ "rentables": 1884,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 91,
-   "descartadas": 299,
-   "neta": 205.83,
-   "dias": 9.46,
-   "semana": 152.31
+   "ops": 92,
+   "descartadas": 298,
+   "neta": 189.05,
+   "dias": 9.37,
+   "semana": 141.29
   },
   {
    "capital": 1000,
-   "ops": 118,
-   "descartadas": 299,
-   "neta": 321.41,
-   "dias": 9.46,
-   "semana": 237.83
+   "ops": 111,
+   "descartadas": 298,
+   "neta": 311.51,
+   "dias": 9.37,
+   "semana": 232.81
   },
   {
    "capital": 2000,
-   "ops": 135,
-   "descartadas": 299,
-   "neta": 453.01,
-   "dias": 9.46,
-   "semana": 335.22
+   "ops": 131,
+   "descartadas": 298,
+   "neta": 466.99,
+   "dias": 9.37,
+   "semana": 349.01
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 34.2,
-   "episodios": 809,
+   "horas": 35,
+   "episodios": 844,
    "sospechosas": 5,
-   "realistaNeta": 26.35,
+   "realistaNeta": 29.47,
    "capital": {
-    "500": 13.32,
-    "1000": 18.3,
-    "2000": 18.3
+    "500": 16.33,
+    "1000": 21.31,
+    "2000": 21.31
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 85,
+  "n": 83,
   "top": [
    {
     "inicio": 1794135838907,
@@ -236,42 +236,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6023,
-  "n": 2091,
-  "gan": 5234.88,
-  "nNeta": 493,
-  "neta": 1198.74
+  "conDato": 5983,
+  "n": 2074,
+  "gan": 5200.5,
+  "nNeta": 487,
+  "neta": 1189.06
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1529
+   "n": 1518
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2243
+   "n": 2230
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1330
+   "n": 1321
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 532
+   "n": 526
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 352
+   "n": 350
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 116
+   "n": 115
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794661200000,
-   "n": 13
-  },
   {
    "h": 1794664800000,
    "n": 27
@@ -634,126 +630,130 @@
   {
    "h": 1794931200000,
    "n": 41
+  },
+  {
+   "h": 1794934800000,
+   "n": 35
   }
  ],
  "recientes": [
   {
-   "inicio": 1794934637514,
-   "titulo": "Togo vs. Algeria",
-   "dur": 1.172,
+   "inicio": 1794937744937,
+   "titulo": "Kenya vs. South Africa",
+   "dur": 0.066,
+   "gan": 0.59,
+   "neta": 0.23,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794937697438,
+   "titulo": "Gambia vs. Ivory Coast",
+   "dur": 2.066,
+   "gan": 0.71,
+   "neta": 0.05,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794937697395,
+   "titulo": "Gambia vs. Ivory Coast",
+   "dur": 0.034,
+   "gan": 0.56,
+   "neta": 0.04,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794937689788,
+   "titulo": "Gambia vs. Ivory Coast",
+   "dur": 0.013,
    "gan": 0.52,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794934370707,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 0,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794934283609,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 6.668,
+   "inicio": 1794937687641,
+   "titulo": "Gambia vs. Ivory Coast",
+   "dur": 0.847,
    "gan": 0.64,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1794934108251,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 0.008,
-   "gan": 0.57,
+   "inicio": 1794937684114,
+   "titulo": "Gambia vs. Ivory Coast",
+   "dur": 3.526,
+   "gan": 0.79,
+   "neta": 0.05,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794937674861,
+   "titulo": "Gambia vs. Ivory Coast",
+   "dur": 0.061,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794937671588,
+   "titulo": "Gambia vs. Ivory Coast",
+   "dur": 0.17,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794937070273,
+   "titulo": "Libya vs. Tunisia",
+   "dur": 0.218,
+   "gan": 0.59,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794934106541,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 1.606,
-   "gan": 0.63,
+   "inicio": 1794937068777,
+   "titulo": "Libya vs. Tunisia",
+   "dur": 0.056,
+   "gan": 0.59,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794934104493,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 1.969,
+   "inicio": 1794937065155,
+   "titulo": "Libya vs. Tunisia",
+   "dur": 0.23,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794937063595,
+   "titulo": "Libya vs. Tunisia",
+   "dur": 0.123,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794937058287,
+   "titulo": "Libya vs. Tunisia",
+   "dur": 0.344,
+   "gan": 0.81,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794937055242,
+   "titulo": "Libya vs. Tunisia",
+   "dur": 0.013,
    "gan": 0.53,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794934102532,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 1.91,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794934100572,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 1.89,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794934098497,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 1.974,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794934096529,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 1.915,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794934094511,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 1.936,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794934092504,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 1.951,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794934089359,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 3.081,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794934087000,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 1.136,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794934085546,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 1.376,
-   "gan": 0.53,
+   "inicio": 1794937049819,
+   "titulo": "Libya vs. Tunisia",
+   "dur": 0.19,
+   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   }
