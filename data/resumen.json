@@ -1,55 +1,55 @@
 {
- "actualizado": 1794871429842,
+ "actualizado": 1794874448835,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794868429595,
-  "fin": 1794871429842,
-  "mensajes": 6487404,
-  "reconexiones": 3,
-  "eventos": 546,
+  "inicio": 1794871448424,
+  "fin": 1794874448835,
+  "mensajes": 7179757,
+  "reconexiones": 0,
+  "eventos": 543,
   "errores": [],
-  "nuevos": 3,
+  "nuevos": 1,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5889,
- "falsos": 2367,
+ "total": 5890,
+ "falsos": 2370,
  "largos": {
-  "episodios": 17959,
-  "eventos": 164,
+  "episodios": 18149,
+  "eventos": 165,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 4554,
+  "episodios": 4367,
   "eventos": 33
  },
  "mediana": 0.548,
  "captura": [
   {
    "s": 0.5,
-   "n": 3049,
-   "gan": 9033.55,
+   "n": 3050,
+   "gan": 9035.28,
    "nNeta": 936,
    "neta": 2492.14
   },
   {
    "s": 2,
-   "n": 1568,
-   "gan": 4567.7,
+   "n": 1569,
+   "gan": 4569.43,
    "nNeta": 409,
    "neta": 1353.13
   },
   {
    "s": 5,
-   "n": 965,
-   "gan": 2504.45,
+   "n": 966,
+   "gan": 2506.18,
    "nNeta": 165,
    "neta": 513.2
   },
   {
    "s": 30,
-   "n": 463,
-   "gan": 933.6,
+   "n": 464,
+   "gan": 935.33,
    "nNeta": 52,
    "neta": 44.92
   }
@@ -61,24 +61,24 @@
    "ops": 87,
    "descartadas": 295,
    "neta": 203.74,
-   "dias": 8.86,
-   "semana": 160.96
+   "dias": 8.9,
+   "semana": 160.33
   },
   {
    "capital": 1000,
    "ops": 114,
    "descartadas": 295,
    "neta": 319.32,
-   "dias": 8.86,
-   "semana": 252.28
+   "dias": 8.9,
+   "semana": 251.28
   },
   {
    "capital": 2000,
    "ops": 131,
    "descartadas": 295,
    "neta": 450.92,
-   "dias": 8.86,
-   "semana": 356.25
+   "dias": 8.9,
+   "semana": 354.85
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 1,
-   "horas": 16.7,
-   "episodios": 498,
+   "horas": 17.5,
+   "episodios": 499,
    "sospechosas": 4,
    "realistaNeta": 21.4,
    "capital": {
@@ -236,9 +236,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5802,
-  "n": 2001,
-  "gan": 5116.57,
+  "conDato": 5803,
+  "n": 2002,
+  "gan": 5118.3,
   "nNeta": 485,
   "neta": 1194.29
  },
@@ -266,7 +266,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 349
+   "n": 350
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794596400000,
-   "n": 57
-  },
   {
    "h": 1794600000000,
    "n": 75
@@ -634,9 +630,21 @@
   {
    "h": 1794870000000,
    "n": 3
+  },
+  {
+   "h": 1794873600000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794873646109,
+   "titulo": "Canada vs. Guatemala",
+   "dur": 259.562,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794871359630,
    "titulo": "Montevideo Wanderers vs. CA Juventud de Las Piedras",
@@ -746,14 +754,6 @@
    "titulo": "CD Moquegua vs. CA Grau",
    "dur": 1.067,
    "gan": 0.85,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794865905482,
-   "titulo": "CD Moquegua vs. CA Grau",
-   "dur": 0.093,
-   "gan": 0.8,
    "neta": 0,
    "lado": "si"
   }
