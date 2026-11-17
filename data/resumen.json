@@ -1,84 +1,84 @@
 {
- "actualizado": 1794940815943,
- "inicio": 1794126546290,
+ "actualizado": 1794943829762,
+ "inicio": 1794129731062,
  "ejecucion": {
-  "inicio": 1794937815618,
-  "fin": 1794940815943,
-  "mensajes": 8978314,
-  "reconexiones": 0,
-  "eventos": 536,
+  "inicio": 1794940829430,
+  "fin": 1794943829762,
+  "mensajes": 9491450,
+  "reconexiones": 1,
+  "eventos": 532,
   "errores": [],
-  "nuevos": 33,
+  "nuevos": 15,
   "nuevosRentables": 1,
-  "nuevosNeta": 0.66
+  "nuevosNeta": 0.81
  },
- "total": 6061,
- "falsos": 2503,
+ "total": 6039,
+ "falsos": 2496,
  "largos": {
-  "episodios": 20592,
-  "eventos": 176,
+  "episodios": 20630,
+  "eventos": 177,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1759,
+  "episodios": 1758,
   "eventos": 33
  },
  "mediana": 0.554,
  "captura": [
   {
    "s": 0.5,
-   "n": 3155,
-   "gan": 9215.23,
-   "nNeta": 939,
-   "neta": 2407.08
+   "n": 3146,
+   "gan": 8738.25,
+   "nNeta": 929,
+   "neta": 2005.29
   },
   {
    "s": 2,
-   "n": 1633,
-   "gan": 4750.74,
-   "nNeta": 408,
-   "neta": 1328.09
+   "n": 1631,
+   "gan": 4361.57,
+   "nNeta": 404,
+   "neta": 997.03
   },
   {
    "s": 5,
    "n": 998,
-   "gan": 2644.45,
-   "nNeta": 163,
-   "neta": 500.71
+   "gan": 2601.12,
+   "nNeta": 161,
+   "neta": 495.21
   },
   {
    "s": 30,
-   "n": 468,
-   "gan": 963.05,
-   "nNeta": 53,
-   "neta": 45.56
+   "n": 467,
+   "gan": 931.39,
+   "nNeta": 52,
+   "neta": 43.77
   }
  ],
- "rentables": 1881,
+ "rentables": 1866,
  "porCapital": [
   {
    "capital": 500,
    "ops": 89,
-   "descartadas": 298,
-   "neta": 188.03,
-   "dias": 9.37,
-   "semana": 140.42
+   "descartadas": 297,
+   "neta": 192.51,
+   "dias": 9.35,
+   "semana": 144.16
   },
   {
    "capital": 1000,
    "ops": 112,
-   "descartadas": 298,
-   "neta": 333.64,
-   "dias": 9.37,
-   "semana": 249.16
+   "descartadas": 297,
+   "neta": 298.08,
+   "dias": 9.35,
+   "semana": 223.21
   },
   {
    "capital": 2000,
-   "ops": 130,
-   "descartadas": 298,
-   "neta": 455.73,
-   "dias": 9.37,
-   "semana": 340.35
+   "ops": 122,
+   "descartadas": 297,
+   "neta": 394.97,
+   "dias": 9.35,
+   "semana": 295.76
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 35.8,
-   "episodios": 877,
+   "horas": 36.7,
+   "episodios": 892,
    "sospechosas": 6,
-   "realistaNeta": 30.13,
+   "realistaNeta": 30.94,
    "capital": {
     "500": 16.33,
     "1000": 21.31,
@@ -130,18 +130,8 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 83,
+  "n": 79,
   "top": [
-   {
-    "inicio": 1794135838907,
-    "titulo": "Riga FC vs. FC RFS",
-    "lado": "no",
-    "dur": 4.326,
-    "gan": 316.02,
-    "neta": 306.63,
-    "costo": 930.64,
-    "ret": 34
-   },
    {
     "inicio": 1794738069985,
     "titulo": "Highest temperature in Istanbul on November 15?",
@@ -231,42 +221,52 @@
     "neta": 18.58,
     "costo": 57.39,
     "ret": 34.5
+   },
+   {
+    "inicio": 1794147586859,
+    "titulo": "Tromsø IL vs. FK Bodø/Glimt",
+    "lado": "si",
+    "dur": 2.117,
+    "gan": 17.16,
+    "neta": 12.96,
+    "costo": 125.19,
+    "ret": 13.7
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5978,
-  "n": 2080,
-  "gan": 5315.84,
-  "nNeta": 484,
-  "neta": 1177.43
+  "conDato": 5960,
+  "n": 2076,
+  "gan": 5203.85,
+  "nNeta": 478,
+  "neta": 1120.12
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1511
+   "n": 1503
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2227
+   "n": 2220
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1319
+   "n": 1312
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 530
+   "n": 531
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 352
+   "n": 351
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794668400000,
-   "n": 63
-  },
   {
    "h": 1794672000000,
    "n": 29
@@ -633,129 +629,133 @@
   },
   {
    "h": 1794938400000,
-   "n": 19
+   "n": 29
+  },
+  {
+   "h": 1794942000000,
+   "n": 5
   }
  ],
  "recientes": [
   {
-   "inicio": 1794940477797,
-   "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 1.079,
-   "gan": 2.12,
-   "neta": 0.84,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794939878759,
-   "titulo": "Argentina vs. Costa Rica",
-   "dur": 511.016,
-   "gan": 3.6,
+   "inicio": 1794943219636,
+   "titulo": "St. Lucia vs. Barbados",
+   "dur": 0.048,
+   "gan": 0.52,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794939787414,
+   "inicio": 1794942981191,
    "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 10.1,
-   "gan": 1.54,
+   "dur": 0.355,
+   "gan": 15.87,
+   "neta": 11.57,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794942948816,
+   "titulo": "South Shields vs. Harborough Town FC",
+   "dur": 9.299,
+   "gan": 1.99,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794939504728,
-   "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 0.527,
-   "gan": 59.42,
-   "neta": 22.91,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794939452149,
-   "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 40.893,
-   "gan": 1.1,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794939288788,
-   "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 115.861,
-   "gan": 6.02,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794939211939,
-   "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 27.374,
-   "gan": 14.79,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794939201675,
-   "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 9.116,
-   "gan": 14.79,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794939180452,
-   "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 15.909,
-   "gan": 14.79,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794939165635,
-   "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 12.53,
-   "gan": 47.71,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794939154690,
-   "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 0.318,
-   "gan": 4.9,
-   "neta": 0.06,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794939116998,
-   "titulo": "Libya vs. Tunisia",
-   "dur": 3.323,
-   "gan": 1.03,
-   "neta": 0.66,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794939078096,
-   "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 13.448,
-   "gan": 1.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794938790742,
-   "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 0.029,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794938686749,
-   "titulo": "Gambia vs. Ivory Coast",
-   "dur": 0.126,
-   "gan": 3.32,
-   "neta": 1.84,
    "lado": "si"
+  },
+  {
+   "inicio": 1794942929571,
+   "titulo": "South Shields vs. Harborough Town FC",
+   "dur": 0.174,
+   "gan": 2.3,
+   "neta": 0.42,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794942773731,
+   "titulo": "Mauritania vs. Burkina Faso",
+   "dur": 0.662,
+   "gan": 1.75,
+   "neta": 0.94,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794941335422,
+   "titulo": "Gas prices on November 18?",
+   "dur": 0.022,
+   "gan": 1.34,
+   "neta": 1.19,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794941189888,
+   "titulo": "South Shields vs. Harborough Town FC",
+   "dur": 14.607,
+   "gan": 1.13,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794941189158,
+   "titulo": "South Shields vs. Harborough Town FC",
+   "dur": 0.575,
+   "gan": 2.98,
+   "neta": 0.35,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794941121978,
+   "titulo": "South Shields vs. Harborough Town FC",
+   "dur": 40.938,
+   "gan": 1.87,
+   "neta": 0.34,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794941121001,
+   "titulo": "South Shields vs. Harborough Town FC",
+   "dur": 0.728,
+   "gan": 3.65,
+   "neta": 1.55,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794941120695,
+   "titulo": "South Shields vs. Harborough Town FC",
+   "dur": 0.036,
+   "gan": 4.65,
+   "neta": 2.56,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794941119868,
+   "titulo": "South Shields vs. Harborough Town FC",
+   "dur": 0.473,
+   "gan": 6.96,
+   "neta": 4.77,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794941118886,
+   "titulo": "South Shields vs. Harborough Town FC",
+   "dur": 0.542,
+   "gan": 9.44,
+   "neta": 7.31,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794941118400,
+   "titulo": "South Shields vs. Harborough Town FC",
+   "dur": 0.223,
+   "gan": 9.82,
+   "neta": 7.75,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794940899993,
+   "titulo": "South Shields vs. Harborough Town FC",
+   "dur": 116.888,
+   "gan": 2.23,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
