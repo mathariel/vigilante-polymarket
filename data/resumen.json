@@ -1,21 +1,21 @@
 {
- "actualizado": 1794952885278,
- "inicio": 1794135768943,
+ "actualizado": 1794955902898,
+ "inicio": 1794138771010,
  "ejecucion": {
-  "inicio": 1794949885027,
-  "fin": 1794952885278,
-  "mensajes": 11355676,
-  "reconexiones": 13,
-  "eventos": 529,
+  "inicio": 1794952902555,
+  "fin": 1794955902898,
+  "mensajes": 6842039,
+  "reconexiones": 0,
+  "eventos": 515,
   "errores": [],
-  "nuevos": 178,
-  "nuevosRentables": 5,
-  "nuevosNeta": 13.62
+  "nuevos": 8,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 6136,
- "falsos": 2666,
+ "total": 6129,
+ "falsos": 2668,
  "largos": {
-  "episodios": 20384,
+  "episodios": 20393,
   "eventos": 179,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 1759,
   "eventos": 35
  },
- "mediana": 0.515,
+ "mediana": 0.516,
  "captura": [
   {
    "s": 0.5,
-   "n": 3117,
-   "gan": 8375.19,
-   "nNeta": 832,
-   "neta": 1750.5
+   "n": 3116,
+   "gan": 8368.23,
+   "nNeta": 829,
+   "neta": 1749.1
   },
   {
    "s": 2,
-   "n": 1565,
-   "gan": 3857.17,
-   "nNeta": 324,
-   "neta": 716.03
+   "n": 1564,
+   "gan": 3853.95,
+   "nNeta": 323,
+   "neta": 715.61
   },
   {
    "s": 5,
-   "n": 968,
-   "gan": 2206.96,
-   "nNeta": 133,
-   "neta": 304.51
+   "n": 967,
+   "gan": 2203.74,
+   "nNeta": 132,
+   "neta": 304.09
   },
   {
    "s": 30,
-   "n": 470,
-   "gan": 920.2,
+   "n": 471,
+   "gan": 921.11,
    "nNeta": 52,
    "neta": 44.17
   }
  ],
- "rentables": 1804,
+ "rentables": 1793,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 91,
-   "descartadas": 263,
-   "neta": 172.54,
-   "dias": 9.42,
-   "semana": 128.28
+   "ops": 89,
+   "descartadas": 262,
+   "neta": 174.33,
+   "dias": 9.45,
+   "semana": 129.16
   },
   {
    "capital": 1000,
-   "ops": 112,
-   "descartadas": 263,
-   "neta": 285.39,
-   "dias": 9.42,
-   "semana": 212.19
+   "ops": 109,
+   "descartadas": 262,
+   "neta": 285.91,
+   "dias": 9.45,
+   "semana": 211.83
   },
   {
    "capital": 2000,
-   "ops": 119,
-   "descartadas": 263,
-   "neta": 406.76,
-   "dias": 9.42,
-   "semana": 302.42
+   "ops": 116,
+   "descartadas": 262,
+   "neta": 406.43,
+   "dias": 9.45,
+   "semana": 301.12
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 39.2,
-   "episodios": 1212,
+   "horas": 40,
+   "episodios": 1220,
    "sospechosas": 6,
    "realistaNeta": 91.47,
    "capital": {
@@ -236,22 +236,22 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6057,
-  "n": 2008,
-  "gan": 4636.63,
-  "nNeta": 394,
-  "neta": 821.38
+  "conDato": 6050,
+  "n": 2007,
+  "gan": 4631.78,
+  "nNeta": 392,
+  "neta": 820.63
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1565
+   "n": 1560
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2306
+   "n": 2305
   },
   {
    "et": "1–5 s",
@@ -261,12 +261,12 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 498
+   "n": 496
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 352
+   "n": 353
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794679200000,
-   "n": 133
-  },
   {
    "h": 1794682800000,
    "n": 52
@@ -634,9 +630,77 @@
   {
    "h": 1794949200000,
    "n": 198
+  },
+  {
+   "h": 1794952800000,
+   "n": 8
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794955186771,
+   "titulo": "Mexico vs. Jamaica",
+   "dur": 0.203,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794953093054,
+   "titulo": "Argentina vs. Costa Rica",
+   "dur": 0.22,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794953067441,
+   "titulo": "Argentina vs. Costa Rica",
+   "dur": 21.914,
+   "gan": 0.77,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794953067146,
+   "titulo": "Argentina vs. Costa Rica",
+   "dur": 0.258,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794953065680,
+   "titulo": "Argentina vs. Costa Rica",
+   "dur": 1.397,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794953026548,
+   "titulo": "Argentina vs. Costa Rica",
+   "dur": 38.955,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794953026510,
+   "titulo": "Argentina vs. Costa Rica",
+   "dur": 0.026,
+   "gan": 1.35,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794953024704,
+   "titulo": "Argentina vs. Costa Rica",
+   "dur": 1.749,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794951437453,
    "titulo": "Ukraine vs. Georgia",
@@ -691,70 +755,6 @@
    "dur": 0.091,
    "gan": 0.5,
    "neta": 0.41,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794951795332,
-   "titulo": "Denmark vs. Norway",
-   "dur": 0.041,
-   "gan": 0.5,
-   "neta": 0.43,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794951795298,
-   "titulo": "Denmark vs. Norway",
-   "dur": 0.011,
-   "gan": 0.5,
-   "neta": 0.41,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794951795114,
-   "titulo": "Denmark vs. Norway",
-   "dur": 0.109,
-   "gan": 0.51,
-   "neta": 0.42,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794951795031,
-   "titulo": "Denmark vs. Norway",
-   "dur": 0.022,
-   "gan": 0.5,
-   "neta": 0.42,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794951795015,
-   "titulo": "Denmark vs. Norway",
-   "dur": 0.009,
-   "gan": 0.53,
-   "neta": 0.43,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794951791115,
-   "titulo": "Denmark vs. Norway",
-   "dur": 1.48,
-   "gan": 1.06,
-   "neta": 0.62,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794951774372,
-   "titulo": "Denmark vs. Norway",
-   "dur": 0.025,
-   "gan": 1.62,
-   "neta": 0.84,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794951774216,
-   "titulo": "Denmark vs. Norway",
-   "dur": 0.127,
-   "gan": 1.43,
-   "neta": 0.32,
    "lado": "si"
   }
  ]
