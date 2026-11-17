@@ -1,84 +1,84 @@
 {
- "actualizado": 1794895580832,
+ "actualizado": 1794898594754,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794892580492,
-  "fin": 1794895580832,
-  "mensajes": 6048683,
+  "inicio": 1794895594419,
+  "fin": 1794898594754,
+  "mensajes": 6042171,
   "reconexiones": 0,
-  "eventos": 544,
+  "eventos": 540,
   "errores": [],
-  "nuevos": 2,
+  "nuevos": 10,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5952,
+ "total": 5962,
  "falsos": 2391,
  "largos": {
-  "episodios": 18768,
+  "episodios": 18801,
   "eventos": 171,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 3732,
+  "episodios": 3694,
   "eventos": 33
  },
- "mediana": 0.553,
+ "mediana": 0.554,
  "captura": [
   {
    "s": 0.5,
-   "n": 3091,
-   "gan": 9084.24,
+   "n": 3099,
+   "gan": 9091.5,
    "nNeta": 944,
    "neta": 2495.09
   },
   {
    "s": 2,
-   "n": 1599,
-   "gan": 4603.82,
+   "n": 1607,
+   "gan": 4610.44,
    "nNeta": 413,
    "neta": 1355.22
   },
   {
    "s": 5,
-   "n": 987,
-   "gan": 2529.92,
+   "n": 991,
+   "gan": 2532.87,
    "nNeta": 168,
    "neta": 515.28
   },
   {
    "s": 30,
-   "n": 472,
-   "gan": 943.68,
+   "n": 474,
+   "gan": 945.6,
    "nNeta": 53,
    "neta": 45.77
   }
  ],
- "rentables": 1879,
+ "rentables": 1881,
  "porCapital": [
   {
    "capital": 500,
    "ops": 90,
    "descartadas": 298,
    "neta": 205.12,
-   "dias": 9.13,
-   "semana": 157.2
+   "dias": 9.17,
+   "semana": 156.6
   },
   {
    "capital": 1000,
    "ops": 117,
    "descartadas": 298,
    "neta": 320.7,
-   "dias": 9.13,
-   "semana": 245.77
+   "dias": 9.17,
+   "semana": 244.84
   },
   {
    "capital": 2000,
    "ops": 134,
    "descartadas": 298,
    "neta": 452.3,
-   "dias": 9.13,
-   "semana": 346.63
+   "dias": 9.17,
+   "semana": 345.31
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 23.3,
-   "episodios": 564,
+   "horas": 24.2,
+   "episodios": 574,
    "sospechosas": 4,
    "realistaNeta": 24.02,
    "capital": {
@@ -236,9 +236,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5866,
-  "n": 2038,
-  "gan": 5157.71,
+  "conDato": 5876,
+  "n": 2046,
+  "gan": 5164.33,
   "nNeta": 491,
   "neta": 1196.91
  },
@@ -246,7 +246,7 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1496
+   "n": 1498
   },
   {
    "et": "0.1–1 s",
@@ -256,22 +256,22 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1278
+   "n": 1282
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 515
+   "n": 517
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 355
+   "n": 356
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 117
+   "n": 118
   }
  ],
  "porEvento": [
@@ -633,10 +633,90 @@
   },
   {
    "h": 1794895200000,
-   "n": 2
+   "n": 12
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794898496118,
+   "titulo": "China PR vs. Bahrain",
+   "dur": 47.03,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794898490217,
+   "titulo": "China PR vs. Bahrain",
+   "dur": 3.474,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794898480271,
+   "titulo": "China PR vs. Bahrain",
+   "dur": 2.563,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794898117654,
+   "titulo": "Highest temperature in Qingdao on November 17?",
+   "dur": 0.015,
+   "gan": 0.65,
+   "neta": 0.52,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794898115950,
+   "titulo": "Highest temperature in Qingdao on November 17?",
+   "dur": 0.016,
+   "gan": 0.81,
+   "neta": 0.6,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794897554508,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 386.122,
+   "gan": 0.74,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794897533635,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 2.546,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794897526262,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 7.052,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794896225516,
+   "titulo": "China PR vs. Bahrain",
+   "dur": 3.746,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794896037750,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 25.079,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794895257818,
    "titulo": "Tahiti vs. Cook Islands",
@@ -676,86 +756,6 @@
    "gan": 0.52,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794892116065,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 5.661,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794892107653,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 4.288,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794892099092,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 4.111,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794891964750,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 6.757,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794890074265,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
-   "dur": 0.288,
-   "gan": 1.45,
-   "neta": 0.72,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794886521686,
-   "titulo": "Singapore vs. Brazil",
-   "dur": 479.732,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794883523493,
-   "titulo": "Singapore vs. Brazil",
-   "dur": 3010.311,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794886200830,
-   "titulo": "Yemen vs. Malaysia",
-   "dur": 0.068,
-   "gan": 0.61,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794882898375,
-   "titulo": "Singapore vs. Brazil",
-   "dur": 617.541,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794882891630,
-   "titulo": "Singapore vs. Brazil",
-   "dur": 0.29,
-   "gan": 1.99,
-   "neta": 0.52,
-   "lado": "no"
   }
  ]
 }
