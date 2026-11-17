@@ -1,34 +1,34 @@
 {
- "actualizado": 1794901609504,
+ "actualizado": 1794904625107,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794898609222,
-  "fin": 1794901609504,
-  "mensajes": 6342853,
-  "reconexiones": 1,
+  "inicio": 1794901624777,
+  "fin": 1794904625107,
+  "mensajes": 7182809,
+  "reconexiones": 0,
   "eventos": 523,
   "errores": [],
-  "nuevos": 44,
+  "nuevos": 4,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6006,
- "falsos": 2392,
+ "total": 6010,
+ "falsos": 2439,
  "largos": {
-  "episodios": 18832,
-  "eventos": 172,
+  "episodios": 18959,
+  "eventos": 174,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 3622,
+  "episodios": 3448,
   "eventos": 33
  },
  "mediana": 0.563,
  "captura": [
   {
    "s": 0.5,
-   "n": 3135,
-   "gan": 9127.92,
+   "n": 3136,
+   "gan": 9128.51,
    "nNeta": 947,
    "neta": 2496.82
   },
@@ -54,31 +54,31 @@
    "neta": 45.77
   }
  ],
- "rentables": 1884,
+ "rentables": 1887,
  "porCapital": [
   {
    "capital": 500,
    "ops": 90,
    "descartadas": 298,
    "neta": 205.12,
-   "dias": 9.2,
-   "semana": 156.01
+   "dias": 9.24,
+   "semana": 155.42
   },
   {
    "capital": 1000,
    "ops": 117,
    "descartadas": 298,
    "neta": 320.7,
-   "dias": 9.2,
-   "semana": 243.91
+   "dias": 9.24,
+   "semana": 242.99
   },
   {
    "capital": 2000,
    "ops": 134,
    "descartadas": 298,
    "neta": 452.3,
-   "dias": 9.2,
-   "semana": 344
+   "dias": 9.24,
+   "semana": 342.7
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 25,
-   "episodios": 618,
+   "horas": 25.8,
+   "episodios": 622,
    "sospechosas": 4,
    "realistaNeta": 24.02,
    "capital": {
@@ -236,7 +236,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5920,
+  "conDato": 5924,
   "n": 2070,
   "gan": 5183.01,
   "nNeta": 491,
@@ -246,17 +246,17 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1503
+   "n": 1505
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2197
+   "n": 2198
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1304
+   "n": 1305
   },
   {
    "et": "5–30 s",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794625200000,
-   "n": 4
-  },
   {
    "h": 1794628800000,
    "n": 3
@@ -633,10 +629,46 @@
   },
   {
    "h": 1794898800000,
-   "n": 43
+   "n": 44
+  },
+  {
+   "h": 1794902400000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794904010252,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
+   "dur": 0.137,
+   "gan": 0.91,
+   "neta": 0.65,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794904010205,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
+   "dur": 0.021,
+   "gan": 0.79,
+   "neta": 0.53,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794904010158,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
+   "dur": 0.023,
+   "gan": 0.58,
+   "neta": 0.33,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794902176220,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 1.292,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794901295193,
    "titulo": "Paul Cézanne's “Arlequin” Sale Price",
@@ -722,38 +754,6 @@
    "titulo": "Test Match: Afghanistan vs Zimbabwe",
    "dur": 5.138,
    "gan": 0.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794899589229,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 1.999,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794899563247,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 0.874,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794899559211,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 2.792,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794899554626,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 4.583,
-   "gan": 0.52,
    "neta": 0,
    "lado": "si"
   }
