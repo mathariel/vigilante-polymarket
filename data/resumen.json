@@ -1,84 +1,84 @@
 {
- "actualizado": 1794910655935,
+ "actualizado": 1794913669739,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794907655628,
-  "fin": 1794910655935,
-  "mensajes": 7809682,
-  "reconexiones": 1,
-  "eventos": 533,
+  "inicio": 1794910669438,
+  "fin": 1794913669739,
+  "mensajes": 7932676,
+  "reconexiones": 5,
+  "eventos": 538,
   "errores": [],
-  "nuevos": 1,
-  "nuevosRentables": 1,
-  "nuevosNeta": 1.27
+  "nuevos": 2,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 6011,
- "falsos": 2451,
+ "total": 6010,
+ "falsos": 2456,
  "largos": {
-  "episodios": 19575,
+  "episodios": 19679,
   "eventos": 176,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 2833,
+  "episodios": 2731,
   "eventos": 33
  },
- "mediana": 0.565,
+ "mediana": 0.564,
  "captura": [
   {
    "s": 0.5,
-   "n": 3141,
-   "gan": 9062.47,
+   "n": 3139,
+   "gan": 9060.42,
    "nNeta": 947,
    "neta": 2430.28
   },
   {
    "s": 2,
-   "n": 1636,
-   "gan": 4645.08,
+   "n": 1635,
+   "gan": 4643.84,
    "nNeta": 414,
    "neta": 1356.49
   },
   {
    "s": 5,
-   "n": 1002,
-   "gan": 2550.56,
+   "n": 1001,
+   "gan": 2549.32,
    "nNeta": 168,
    "neta": 515.28
   },
   {
    "s": 30,
-   "n": 475,
-   "gan": 946.31,
+   "n": 474,
+   "gan": 945.07,
    "nNeta": 53,
    "neta": 45.77
   }
  ],
- "rentables": 1883,
+ "rentables": 1884,
  "porCapital": [
   {
    "capital": 500,
    "ops": 90,
    "descartadas": 299,
    "neta": 205.12,
-   "dias": 9.31,
-   "semana": 154.25
+   "dias": 9.34,
+   "semana": 153.68
   },
   {
    "capital": 1000,
    "ops": 117,
    "descartadas": 299,
    "neta": 320.7,
-   "dias": 9.31,
-   "semana": 241.17
+   "dias": 9.34,
+   "semana": 240.27
   },
   {
    "capital": 2000,
    "ops": 134,
    "descartadas": 299,
    "neta": 452.3,
-   "dias": 9.31,
-   "semana": 340.13
+   "dias": 9.34,
+   "semana": 338.86
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 27.5,
-   "episodios": 630,
+   "horas": 28.3,
+   "episodios": 632,
    "sospechosas": 4,
    "realistaNeta": 25.29,
    "capital": {
@@ -236,9 +236,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5925,
-  "n": 2076,
-  "gan": 5197.3,
+  "conDato": 5924,
+  "n": 2075,
+  "gan": 5196.06,
   "nNeta": 492,
   "neta": 1198.18
  },
@@ -266,7 +266,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 357
+   "n": 356
   },
   {
    "et": "> 5 min",
@@ -633,10 +633,26 @@
   },
   {
    "h": 1794909600000,
-   "n": 1
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794912646744,
+   "titulo": "Highest temperature in Tel Aviv on November 17?",
+   "dur": 0.12,
+   "gan": 0.85,
+   "neta": 0.55,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794912179378,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 1.214,
+   "gan": 1.6,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794910494447,
    "titulo": "Singapore vs. Brazil",
@@ -739,22 +755,6 @@
    "dur": 0.014,
    "gan": 0.95,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794900952709,
-   "titulo": "Yemen vs. Malaysia",
-   "dur": 1.368,
-   "gan": 1.25,
-   "neta": 1.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794900202248,
-   "titulo": "Tahiti vs. Cook Islands",
-   "dur": 0.921,
-   "gan": 0.73,
-   "neta": 0.51,
    "lado": "no"
   }
  ]
