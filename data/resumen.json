@@ -1,84 +1,84 @@
 {
- "actualizado": 1794898594754,
+ "actualizado": 1794901609504,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794895594419,
-  "fin": 1794898594754,
-  "mensajes": 6042171,
-  "reconexiones": 0,
-  "eventos": 540,
+  "inicio": 1794898609222,
+  "fin": 1794901609504,
+  "mensajes": 6342853,
+  "reconexiones": 1,
+  "eventos": 523,
   "errores": [],
-  "nuevos": 10,
+  "nuevos": 44,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5962,
- "falsos": 2391,
+ "total": 6006,
+ "falsos": 2392,
  "largos": {
-  "episodios": 18801,
-  "eventos": 171,
+  "episodios": 18832,
+  "eventos": 172,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 3694,
+  "episodios": 3622,
   "eventos": 33
  },
- "mediana": 0.554,
+ "mediana": 0.563,
  "captura": [
   {
    "s": 0.5,
-   "n": 3099,
-   "gan": 9091.5,
-   "nNeta": 944,
-   "neta": 2495.09
+   "n": 3135,
+   "gan": 9127.92,
+   "nNeta": 947,
+   "neta": 2496.82
   },
   {
    "s": 2,
-   "n": 1607,
-   "gan": 4610.44,
+   "n": 1630,
+   "gan": 4630.32,
    "nNeta": 413,
    "neta": 1355.22
   },
   {
    "s": 5,
-   "n": 991,
-   "gan": 2532.87,
+   "n": 997,
+   "gan": 2537.9,
    "nNeta": 168,
    "neta": 515.28
   },
   {
    "s": 30,
-   "n": 474,
-   "gan": 945.6,
+   "n": 475,
+   "gan": 946.31,
    "nNeta": 53,
    "neta": 45.77
   }
  ],
- "rentables": 1881,
+ "rentables": 1884,
  "porCapital": [
   {
    "capital": 500,
    "ops": 90,
    "descartadas": 298,
    "neta": 205.12,
-   "dias": 9.17,
-   "semana": 156.6
+   "dias": 9.2,
+   "semana": 156.01
   },
   {
    "capital": 1000,
    "ops": 117,
    "descartadas": 298,
    "neta": 320.7,
-   "dias": 9.17,
-   "semana": 244.84
+   "dias": 9.2,
+   "semana": 243.91
   },
   {
    "capital": 2000,
    "ops": 134,
    "descartadas": 298,
    "neta": 452.3,
-   "dias": 9.17,
-   "semana": 345.31
+   "dias": 9.2,
+   "semana": 344
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 24.2,
-   "episodios": 574,
+   "horas": 25,
+   "episodios": 618,
    "sospechosas": 4,
    "realistaNeta": 24.02,
    "capital": {
@@ -236,9 +236,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5876,
-  "n": 2046,
-  "gan": 5164.33,
+  "conDato": 5920,
+  "n": 2070,
+  "gan": 5183.01,
   "nNeta": 491,
   "neta": 1196.91
  },
@@ -246,27 +246,27 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1498
+   "n": 1503
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2186
+   "n": 2197
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1282
+   "n": 1304
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 517
+   "n": 522
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 356
+   "n": 357
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794621600000,
-   "n": 12
-  },
   {
    "h": 1794625200000,
    "n": 4
@@ -633,126 +629,130 @@
   },
   {
    "h": 1794895200000,
-   "n": 12
+   "n": 13
+  },
+  {
+   "h": 1794898800000,
+   "n": 43
   }
  ],
  "recientes": [
   {
-   "inicio": 1794898496118,
-   "titulo": "China PR vs. Bahrain",
-   "dur": 47.03,
-   "gan": 1.25,
+   "inicio": 1794901295193,
+   "titulo": "Paul Cézanne's “Arlequin” Sale Price",
+   "dur": 0.014,
+   "gan": 0.95,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794898490217,
-   "titulo": "China PR vs. Bahrain",
-   "dur": 3.474,
+   "inicio": 1794900952709,
+   "titulo": "Yemen vs. Malaysia",
+   "dur": 1.368,
    "gan": 1.25,
+   "neta": 1.04,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794900202248,
+   "titulo": "Tahiti vs. Cook Islands",
+   "dur": 0.921,
+   "gan": 0.73,
+   "neta": 0.51,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794899902224,
+   "titulo": "Tahiti vs. Cook Islands",
+   "dur": 0.722,
+   "gan": 0.66,
+   "neta": 0.18,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794899858773,
+   "titulo": "Tahiti vs. Cook Islands",
+   "dur": 0.184,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794899695622,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 1.126,
+   "gan": 1.04,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794898480271,
-   "titulo": "China PR vs. Bahrain",
-   "dur": 2.563,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794898117654,
-   "titulo": "Highest temperature in Qingdao on November 17?",
-   "dur": 0.015,
-   "gan": 0.65,
-   "neta": 0.52,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794898115950,
-   "titulo": "Highest temperature in Qingdao on November 17?",
-   "dur": 0.016,
-   "gan": 0.81,
-   "neta": 0.6,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794897554508,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 386.122,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794897533635,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 2.546,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794897526262,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 7.052,
+   "inicio": 1794899609238,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 1.194,
    "gan": 0.53,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794896225516,
-   "titulo": "China PR vs. Bahrain",
-   "dur": 3.746,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794896037750,
+   "inicio": 1794899601563,
    "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 25.079,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794895257818,
-   "titulo": "Tahiti vs. Cook Islands",
-   "dur": 0.097,
-   "gan": 0.59,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794895256573,
-   "titulo": "Tahiti vs. Cook Islands",
-   "dur": 0.859,
-   "gan": 0.5,
+   "dur": 7.674,
+   "gan": 0.61,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794892226435,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 108.159,
+   "inicio": 1794899601243,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 0.217,
    "gan": 0.6,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794892174432,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 51.966,
-   "gan": 0.51,
+   "inicio": 1794899597238,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 3.994,
+   "gan": 0.6,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794892127397,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 7.117,
+   "inicio": 1794899592097,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 5.138,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794899589229,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 1.999,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794899563247,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 0.874,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794899559211,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 2.792,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794899554626,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 4.583,
    "gan": 0.52,
    "neta": 0,
    "lado": "si"
