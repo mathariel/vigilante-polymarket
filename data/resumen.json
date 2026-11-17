@@ -1,43 +1,43 @@
 {
- "actualizado": 1794907640529,
+ "actualizado": 1794910655935,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794904640184,
-  "fin": 1794907640529,
-  "mensajes": 8005038,
-  "reconexiones": 6,
-  "eventos": 531,
+  "inicio": 1794907655628,
+  "fin": 1794910655935,
+  "mensajes": 7809682,
+  "reconexiones": 1,
+  "eventos": 533,
   "errores": [],
-  "nuevos": 7,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 1,
+  "nuevosRentables": 1,
+  "nuevosNeta": 1.27
  },
- "total": 6010,
- "falsos": 2449,
+ "total": 6011,
+ "falsos": 2451,
  "largos": {
-  "episodios": 19390,
-  "eventos": 175,
+  "episodios": 19575,
+  "eventos": 176,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 3013,
+  "episodios": 2833,
   "eventos": 33
  },
  "mediana": 0.565,
  "captura": [
   {
    "s": 0.5,
-   "n": 3140,
-   "gan": 9060.98,
-   "nNeta": 946,
-   "neta": 2429.01
+   "n": 3141,
+   "gan": 9062.47,
+   "nNeta": 947,
+   "neta": 2430.28
   },
   {
    "s": 2,
-   "n": 1635,
-   "gan": 4643.59,
-   "nNeta": 413,
-   "neta": 1355.22
+   "n": 1636,
+   "gan": 4645.08,
+   "nNeta": 414,
+   "neta": 1356.49
   },
   {
    "s": 5,
@@ -54,31 +54,31 @@
    "neta": 45.77
   }
  ],
- "rentables": 1882,
+ "rentables": 1883,
  "porCapital": [
   {
    "capital": 500,
    "ops": 90,
-   "descartadas": 298,
+   "descartadas": 299,
    "neta": 205.12,
-   "dias": 9.27,
-   "semana": 154.83
+   "dias": 9.31,
+   "semana": 154.25
   },
   {
    "capital": 1000,
    "ops": 117,
-   "descartadas": 298,
+   "descartadas": 299,
    "neta": 320.7,
-   "dias": 9.27,
-   "semana": 242.07
+   "dias": 9.31,
+   "semana": 241.17
   },
   {
    "capital": 2000,
    "ops": 134,
-   "descartadas": 298,
+   "descartadas": 299,
    "neta": 452.3,
-   "dias": 9.27,
-   "semana": 341.41
+   "dias": 9.31,
+   "semana": 340.13
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 26.7,
-   "episodios": 629,
+   "horas": 27.5,
+   "episodios": 630,
    "sospechosas": 4,
-   "realistaNeta": 24.02,
+   "realistaNeta": 25.29,
    "capital": {
     "500": 12.61,
     "1000": 17.59,
@@ -236,11 +236,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5924,
-  "n": 2075,
-  "gan": 5195.81,
-  "nNeta": 491,
-  "neta": 1196.91
+  "conDato": 5925,
+  "n": 2076,
+  "gan": 5197.3,
+  "nNeta": 492,
+  "neta": 1198.18
  },
  "duraciones": [
   {
@@ -256,7 +256,7 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1304
+   "n": 1305
   },
   {
    "et": "5–30 s",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794632400000,
-   "n": 3
-  },
   {
    "h": 1794636000000,
    "n": 3
@@ -634,9 +630,21 @@
   {
    "h": 1794906000000,
    "n": 1
+  },
+  {
+   "h": 1794909600000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794910494447,
+   "titulo": "Singapore vs. Brazil",
+   "dur": 4.811,
+   "gan": 1.47,
+   "neta": 1.25,
+   "lado": "no"
+  },
   {
    "inicio": 1794907577084,
    "titulo": "Test Match: Afghanistan vs Zimbabwe",
@@ -748,14 +756,6 @@
    "gan": 0.73,
    "neta": 0.51,
    "lado": "no"
-  },
-  {
-   "inicio": 1794899902224,
-   "titulo": "Tahiti vs. Cook Islands",
-   "dur": 0.722,
-   "gan": 0.66,
-   "neta": 0.18,
-   "lado": "si"
   }
  ]
 }
