@@ -1,48 +1,48 @@
 {
- "actualizado": 1794904625107,
+ "actualizado": 1794907640529,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794901624777,
-  "fin": 1794904625107,
-  "mensajes": 7182809,
-  "reconexiones": 0,
-  "eventos": 523,
+  "inicio": 1794904640184,
+  "fin": 1794907640529,
+  "mensajes": 8005038,
+  "reconexiones": 6,
+  "eventos": 531,
   "errores": [],
-  "nuevos": 4,
+  "nuevos": 7,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
  "total": 6010,
- "falsos": 2439,
+ "falsos": 2449,
  "largos": {
-  "episodios": 18959,
-  "eventos": 174,
+  "episodios": 19390,
+  "eventos": 175,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 3448,
+  "episodios": 3013,
   "eventos": 33
  },
- "mediana": 0.563,
+ "mediana": 0.565,
  "captura": [
   {
    "s": 0.5,
-   "n": 3136,
-   "gan": 9128.51,
-   "nNeta": 947,
-   "neta": 2496.82
+   "n": 3140,
+   "gan": 9060.98,
+   "nNeta": 946,
+   "neta": 2429.01
   },
   {
    "s": 2,
-   "n": 1630,
-   "gan": 4630.32,
+   "n": 1635,
+   "gan": 4643.59,
    "nNeta": 413,
    "neta": 1355.22
   },
   {
    "s": 5,
-   "n": 997,
-   "gan": 2537.9,
+   "n": 1002,
+   "gan": 2550.56,
    "nNeta": 168,
    "neta": 515.28
   },
@@ -54,31 +54,31 @@
    "neta": 45.77
   }
  ],
- "rentables": 1887,
+ "rentables": 1882,
  "porCapital": [
   {
    "capital": 500,
    "ops": 90,
    "descartadas": 298,
    "neta": 205.12,
-   "dias": 9.24,
-   "semana": 155.42
+   "dias": 9.27,
+   "semana": 154.83
   },
   {
    "capital": 1000,
    "ops": 117,
    "descartadas": 298,
    "neta": 320.7,
-   "dias": 9.24,
-   "semana": 242.99
+   "dias": 9.27,
+   "semana": 242.07
   },
   {
    "capital": 2000,
    "ops": 134,
    "descartadas": 298,
    "neta": 452.3,
-   "dias": 9.24,
-   "semana": 342.7
+   "dias": 9.27,
+   "semana": 341.41
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 25.8,
-   "episodios": 622,
+   "horas": 26.7,
+   "episodios": 629,
    "sospechosas": 4,
    "realistaNeta": 24.02,
    "capital": {
@@ -237,8 +237,8 @@
  "realista": {
   "reaccion": 0.5,
   "conDato": 5924,
-  "n": 2070,
-  "gan": 5183.01,
+  "n": 2075,
+  "gan": 5195.81,
   "nNeta": 491,
   "neta": 1196.91
  },
@@ -246,22 +246,22 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1505
+   "n": 1502
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2198
+   "n": 2197
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1305
+   "n": 1304
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 522
+   "n": 527
   },
   {
    "et": "30 s–5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794628800000,
-   "n": 3
-  },
   {
    "h": 1794632400000,
    "n": 3
@@ -633,10 +629,70 @@
   },
   {
    "h": 1794902400000,
-   "n": 3
+   "n": 9
+  },
+  {
+   "h": 1794906000000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794907577084,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 0.127,
+   "gan": 0.54,
+   "neta": 0.05,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794905729556,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 16.76,
+   "gan": 2.14,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794905404506,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 10.958,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794905383374,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 7.624,
+   "gan": 1.11,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794905361751,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 19.254,
+   "gan": 4.48,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794905361236,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 0.423,
+   "gan": 3,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794905333296,
+   "titulo": "Test Match: Afghanistan vs Zimbabwe",
+   "dur": 27.769,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794904010252,
    "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
@@ -699,62 +755,6 @@
    "dur": 0.722,
    "gan": 0.66,
    "neta": 0.18,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794899858773,
-   "titulo": "Tahiti vs. Cook Islands",
-   "dur": 0.184,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794899695622,
-   "titulo": "Test Match: South Africa vs Bangladesh",
-   "dur": 1.126,
-   "gan": 1.04,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794899609238,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 1.194,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794899601563,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 7.674,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794899601243,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 0.217,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794899597238,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 3.994,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794899592097,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 5.138,
-   "gan": 0.62,
-   "neta": 0,
    "lado": "si"
   }
  ]
