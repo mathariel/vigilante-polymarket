@@ -1,36 +1,36 @@
 {
- "actualizado": 1794892563779,
+ "actualizado": 1794895580832,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794889563433,
-  "fin": 1794892563779,
-  "mensajes": 5749361,
-  "reconexiones": 1,
-  "eventos": 525,
+  "inicio": 1794892580492,
+  "fin": 1794895580832,
+  "mensajes": 6048683,
+  "reconexiones": 0,
+  "eventos": 544,
   "errores": [],
-  "nuevos": 8,
+  "nuevos": 2,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5950,
- "falsos": 2385,
+ "total": 5952,
+ "falsos": 2391,
  "largos": {
-  "episodios": 18684,
-  "eventos": 170,
+  "episodios": 18768,
+  "eventos": 171,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 3815,
+  "episodios": 3732,
   "eventos": 33
  },
  "mediana": 0.553,
  "captura": [
   {
    "s": 0.5,
-   "n": 3090,
-   "gan": 9083.57,
-   "nNeta": 943,
-   "neta": 2495.06
+   "n": 3091,
+   "gan": 9084.24,
+   "nNeta": 944,
+   "neta": 2495.09
   },
   {
    "s": 2,
@@ -54,31 +54,31 @@
    "neta": 45.77
   }
  ],
- "rentables": 1878,
+ "rentables": 1879,
  "porCapital": [
   {
    "capital": 500,
    "ops": 90,
    "descartadas": 298,
    "neta": 205.12,
-   "dias": 9.1,
-   "semana": 157.8
+   "dias": 9.13,
+   "semana": 157.2
   },
   {
    "capital": 1000,
    "ops": 117,
    "descartadas": 298,
    "neta": 320.7,
-   "dias": 9.1,
-   "semana": 246.72
+   "dias": 9.13,
+   "semana": 245.77
   },
   {
    "capital": 2000,
    "ops": 134,
    "descartadas": 298,
    "neta": 452.3,
-   "dias": 9.1,
-   "semana": 347.96
+   "dias": 9.13,
+   "semana": 346.63
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 22.5,
-   "episodios": 562,
+   "horas": 23.3,
+   "episodios": 564,
    "sospechosas": 4,
    "realistaNeta": 24.02,
    "capital": {
@@ -236,7 +236,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5864,
+  "conDato": 5866,
   "n": 2038,
   "gan": 5157.71,
   "nNeta": 491,
@@ -246,12 +246,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1495
+   "n": 1496
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2185
+   "n": 2186
   },
   {
    "et": "1–5 s",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794618000000,
-   "n": 43
-  },
   {
    "h": 1794621600000,
    "n": 12
@@ -634,9 +630,29 @@
   {
    "h": 1794891600000,
    "n": 7
+  },
+  {
+   "h": 1794895200000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794895257818,
+   "titulo": "Tahiti vs. Cook Islands",
+   "dur": 0.097,
+   "gan": 0.59,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794895256573,
+   "titulo": "Tahiti vs. Cook Islands",
+   "dur": 0.859,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794892226435,
    "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
@@ -740,22 +756,6 @@
    "gan": 1.99,
    "neta": 0.52,
    "lado": "no"
-  },
-  {
-   "inicio": 1794881776370,
-   "titulo": "Canada vs. Guatemala",
-   "dur": 7.346,
-   "gan": 1.63,
-   "neta": 0.75,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794881390371,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 1.581,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
   }
  ]
 }
