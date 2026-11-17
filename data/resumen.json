@@ -1,26 +1,26 @@
 {
- "actualizado": 1794913669739,
+ "actualizado": 1794916684601,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794910669438,
-  "fin": 1794913669739,
-  "mensajes": 7932676,
-  "reconexiones": 5,
-  "eventos": 538,
+  "inicio": 1794913684210,
+  "fin": 1794916684601,
+  "mensajes": 7954865,
+  "reconexiones": 1,
+  "eventos": 531,
   "errores": [],
-  "nuevos": 2,
+  "nuevos": 1,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
  "total": 6010,
- "falsos": 2456,
+ "falsos": 2461,
  "largos": {
-  "episodios": 19679,
-  "eventos": 176,
+  "episodios": 19888,
+  "eventos": 177,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 2731,
+  "episodios": 2521,
   "eventos": 33
  },
  "mediana": 0.564,
@@ -28,28 +28,28 @@
   {
    "s": 0.5,
    "n": 3139,
-   "gan": 9060.42,
+   "gan": 9058.39,
    "nNeta": 947,
    "neta": 2430.28
   },
   {
    "s": 2,
-   "n": 1635,
-   "gan": 4643.84,
+   "n": 1634,
+   "gan": 4641.18,
    "nNeta": 414,
    "neta": 1356.49
   },
   {
    "s": 5,
-   "n": 1001,
-   "gan": 2549.32,
+   "n": 1000,
+   "gan": 2546.66,
    "nNeta": 168,
    "neta": 515.28
   },
   {
    "s": 30,
-   "n": 474,
-   "gan": 945.07,
+   "n": 473,
+   "gan": 942.41,
    "nNeta": 53,
    "neta": 45.77
   }
@@ -61,24 +61,24 @@
    "ops": 90,
    "descartadas": 299,
    "neta": 205.12,
-   "dias": 9.34,
-   "semana": 153.68
+   "dias": 9.38,
+   "semana": 153.15
   },
   {
    "capital": 1000,
    "ops": 117,
    "descartadas": 299,
    "neta": 320.7,
-   "dias": 9.34,
-   "semana": 240.27
+   "dias": 9.38,
+   "semana": 239.44
   },
   {
    "capital": 2000,
    "ops": 134,
    "descartadas": 299,
    "neta": 452.3,
-   "dias": 9.34,
-   "semana": 338.86
+   "dias": 9.38,
+   "semana": 337.7
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 28.3,
-   "episodios": 632,
+   "horas": 29.2,
+   "episodios": 633,
    "sospechosas": 4,
    "realistaNeta": 25.29,
    "capital": {
@@ -238,7 +238,7 @@
   "reaccion": 0.5,
   "conDato": 5924,
   "n": 2075,
-  "gan": 5196.06,
+  "gan": 5194.03,
   "nNeta": 492,
   "neta": 1198.18
  },
@@ -256,7 +256,7 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1305
+   "n": 1306
   },
   {
    "et": "5–30 s",
@@ -266,7 +266,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 356
+   "n": 355
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794636000000,
-   "n": 3
-  },
   {
    "h": 1794639600000,
    "n": 49
@@ -634,9 +630,21 @@
   {
    "h": 1794909600000,
    "n": 3
+  },
+  {
+   "h": 1794913200000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794914293483,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 1.04,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794912646744,
    "titulo": "Highest temperature in Tel Aviv on November 17?",
@@ -746,14 +754,6 @@
    "titulo": "Test Match: Afghanistan vs Zimbabwe",
    "dur": 1.292,
    "gan": 0.59,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794901295193,
-   "titulo": "Paul Cézanne's “Arlequin” Sale Price",
-   "dur": 0.014,
-   "gan": 0.95,
    "neta": 0,
    "lado": "no"
   }
