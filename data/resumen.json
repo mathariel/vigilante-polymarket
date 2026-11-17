@@ -1,84 +1,84 @@
 {
- "actualizado": 1794880496280,
+ "actualizado": 1794883516265,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794877495941,
-  "fin": 1794880496280,
-  "mensajes": 8056194,
-  "reconexiones": 0,
-  "eventos": 547,
+  "inicio": 1794880515912,
+  "fin": 1794883516265,
+  "mensajes": 7572174,
+  "reconexiones": 1,
+  "eventos": 545,
   "errores": [],
-  "nuevos": 20,
-  "nuevosRentables": 2,
-  "nuevosNeta": 0.37
+  "nuevos": 6,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.87
  },
- "total": 5936,
- "falsos": 2379,
+ "total": 5942,
+ "falsos": 2381,
  "largos": {
-  "episodios": 18305,
-  "eventos": 166,
+  "episodios": 18414,
+  "eventos": 168,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 4173,
+  "episodios": 4065,
   "eventos": 33
  },
- "mediana": 0.551,
+ "mediana": 0.552,
  "captura": [
   {
    "s": 0.5,
-   "n": 3078,
-   "gan": 9075.18,
-   "nNeta": 942,
-   "neta": 2494.19
+   "n": 3083,
+   "gan": 9080.02,
+   "nNeta": 943,
+   "neta": 2495.06
   },
   {
    "s": 2,
-   "n": 1588,
-   "gan": 4595.41,
-   "nNeta": 412,
-   "neta": 1354.35
+   "n": 1591,
+   "gan": 4599.13,
+   "nNeta": 413,
+   "neta": 1355.22
   },
   {
    "s": 5,
-   "n": 978,
-   "gan": 2522.63,
-   "nNeta": 167,
-   "neta": 514.41
+   "n": 981,
+   "gan": 2526.35,
+   "nNeta": 168,
+   "neta": 515.28
   },
   {
    "s": 30,
-   "n": 468,
-   "gan": 941.04,
+   "n": 469,
+   "gan": 941.72,
    "nNeta": 53,
    "neta": 45.77
   }
  ],
- "rentables": 1876,
+ "rentables": 1878,
  "porCapital": [
   {
    "capital": 500,
    "ops": 90,
-   "descartadas": 297,
+   "descartadas": 298,
    "neta": 205.12,
-   "dias": 8.97,
-   "semana": 160.16
+   "dias": 9,
+   "semana": 159.54
   },
   {
    "capital": 1000,
    "ops": 117,
-   "descartadas": 297,
+   "descartadas": 298,
    "neta": 320.7,
-   "dias": 8.97,
-   "semana": 250.4
+   "dias": 9,
+   "semana": 249.43
   },
   {
    "capital": 2000,
    "ops": 134,
-   "descartadas": 297,
+   "descartadas": 298,
    "neta": 452.3,
-   "dias": 8.97,
-   "semana": 353.15
+   "dias": 9,
+   "semana": 351.78
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 1,
-   "horas": 19.2,
-   "episodios": 545,
+   "horas": 20,
+   "episodios": 551,
    "sospechosas": 4,
-   "realistaNeta": 23.15,
+   "realistaNeta": 24.02,
    "capital": {
     "500": 12.61,
     "1000": 17.59,
@@ -236,11 +236,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5849,
-  "n": 2025,
-  "gan": 5148.26,
-  "nNeta": 490,
-  "neta": 1196.04
+  "conDato": 5855,
+  "n": 2030,
+  "gan": 5153.1,
+  "nNeta": 491,
+  "neta": 1196.91
  },
  "duraciones": [
   {
@@ -251,17 +251,17 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2184
+   "n": 2185
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1274
+   "n": 1276
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 510
+   "n": 512
   },
   {
    "et": "30 s–5 min",
@@ -271,7 +271,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 115
+   "n": 116
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794603600000,
-   "n": 90
-  },
   {
    "h": 1794607200000,
    "n": 1
@@ -634,9 +630,61 @@
   {
    "h": 1794877200000,
    "n": 20
+  },
+  {
+   "h": 1794880800000,
+   "n": 6
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794882898375,
+   "titulo": "Singapore vs. Brazil",
+   "dur": 617.541,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794882891630,
+   "titulo": "Singapore vs. Brazil",
+   "dur": 0.29,
+   "gan": 1.99,
+   "neta": 0.52,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794881776370,
+   "titulo": "Canada vs. Guatemala",
+   "dur": 7.346,
+   "gan": 1.63,
+   "neta": 0.75,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794881390371,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 1.581,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794881388921,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 1.417,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794881167918,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 12.649,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794880448442,
    "titulo": "Martinique vs. Aruba",
@@ -706,54 +754,6 @@
    "titulo": "Martinique vs. Aruba",
    "dur": 0.12,
    "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794879522397,
-   "titulo": "Martinique vs. Aruba",
-   "dur": 0.07,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794879515067,
-   "titulo": "Martinique vs. Aruba",
-   "dur": 2.355,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794879036199,
-   "titulo": "Martinique vs. Aruba",
-   "dur": 21.779,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794878975915,
-   "titulo": "Martinique vs. Aruba",
-   "dur": 3.085,
-   "gan": 0.76,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794878942945,
-   "titulo": "Martinique vs. Aruba",
-   "dur": 32.895,
-   "gan": 1.19,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794878609165,
-   "titulo": "Martinique vs. Aruba",
-   "dur": 39.054,
-   "gan": 0.67,
    "neta": 0,
    "lado": "no"
   }
