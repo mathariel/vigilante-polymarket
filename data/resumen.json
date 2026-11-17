@@ -1,84 +1,84 @@
 {
- "actualizado": 1794943829762,
- "inicio": 1794129731062,
+ "actualizado": 1794946844082,
+ "inicio": 1794135768943,
  "ejecucion": {
-  "inicio": 1794940829430,
-  "fin": 1794943829762,
-  "mensajes": 9491450,
+  "inicio": 1794943843753,
+  "fin": 1794946844082,
+  "mensajes": 14219960,
   "reconexiones": 1,
-  "eventos": 532,
+  "eventos": 536,
   "errores": [],
-  "nuevos": 15,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.81
+  "nuevos": 73,
+  "nuevosRentables": 4,
+  "nuevosNeta": 10.49
  },
- "total": 6039,
- "falsos": 2496,
+ "total": 5978,
+ "falsos": 2547,
  "largos": {
-  "episodios": 20630,
-  "eventos": 177,
+  "episodios": 20646,
+  "eventos": 178,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1758,
-  "eventos": 33
+  "episodios": 1760,
+  "eventos": 35
  },
- "mediana": 0.554,
+ "mediana": 0.541,
  "captura": [
   {
    "s": 0.5,
-   "n": 3146,
-   "gan": 8738.25,
-   "nNeta": 929,
-   "neta": 2005.29
+   "n": 3082,
+   "gan": 8693.31,
+   "nNeta": 865,
+   "neta": 1962.63
   },
   {
    "s": 2,
-   "n": 1631,
-   "gan": 4361.57,
-   "nNeta": 404,
-   "neta": 997.03
+   "n": 1571,
+   "gan": 4150.46,
+   "nNeta": 356,
+   "neta": 903.99
   },
   {
    "s": 5,
-   "n": 998,
-   "gan": 2601.12,
-   "nNeta": 161,
-   "neta": 495.21
+   "n": 976,
+   "gan": 2434,
+   "nNeta": 146,
+   "neta": 429.84
   },
   {
    "s": 30,
-   "n": 467,
-   "gan": 931.39,
+   "n": 469,
+   "gan": 933.4,
    "nNeta": 52,
    "neta": 43.77
   }
  ],
- "rentables": 1866,
+ "rentables": 1792,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 89,
-   "descartadas": 297,
-   "neta": 192.51,
+   "ops": 82,
+   "descartadas": 275,
+   "neta": 176.19,
    "dias": 9.35,
-   "semana": 144.16
+   "semana": 131.85
   },
   {
    "capital": 1000,
-   "ops": 112,
-   "descartadas": 297,
-   "neta": 298.08,
+   "ops": 105,
+   "descartadas": 275,
+   "neta": 294.35,
    "dias": 9.35,
-   "semana": 223.21
+   "semana": 220.27
   },
   {
    "capital": 2000,
-   "ops": 122,
-   "descartadas": 297,
-   "neta": 394.97,
+   "ops": 114,
+   "descartadas": 275,
+   "neta": 402.66,
    "dias": 9.35,
-   "semana": 295.76
+   "semana": 301.32
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 36.7,
-   "episodios": 892,
+   "horas": 37.5,
+   "episodios": 965,
    "sospechosas": 6,
-   "realistaNeta": 30.94,
+   "realistaNeta": 41.43,
    "capital": {
     "500": 16.33,
     "1000": 21.31,
@@ -236,37 +236,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5960,
-  "n": 2076,
-  "gan": 5203.85,
-  "nNeta": 478,
-  "neta": 1120.12
+  "conDato": 5899,
+  "n": 2015,
+  "gan": 5000.68,
+  "nNeta": 428,
+  "neta": 1025.76
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1503
+   "n": 1506
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2220
+   "n": 2215
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1312
+   "n": 1275
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 531
+   "n": 507
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 351
+   "n": 353
   },
   {
    "et": "> 5 min",
@@ -288,13 +288,6 @@
    "gan": 537.93,
    "neta": 19.93,
    "mediana": 0.203
-  },
-  {
-   "titulo": "Vitesse Arnhem vs. De Graafschap",
-   "n": 224,
-   "gan": 781.01,
-   "neta": 271.05,
-   "mediana": 2.599
   },
   {
    "titulo": "Kazakhstan vs. Slovakia",
@@ -325,6 +318,13 @@
    "mediana": 0.106
   },
   {
+   "titulo": "Vitesse Arnhem vs. De Graafschap",
+   "n": 103,
+   "gan": 507.64,
+   "neta": 185.85,
+   "mediana": 2.342
+  },
+  {
    "titulo": "Slovakia vs. Faroe Islands",
    "n": 95,
    "gan": 100.55,
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794672000000,
-   "n": 29
-  },
   {
    "h": 1794675600000,
    "n": 72
@@ -633,127 +629,131 @@
   },
   {
    "h": 1794942000000,
-   "n": 5
+   "n": 29
+  },
+  {
+   "h": 1794945600000,
+   "n": 49
   }
  ],
  "recientes": [
   {
-   "inicio": 1794943219636,
-   "titulo": "St. Lucia vs. Barbados",
-   "dur": 0.048,
-   "gan": 0.52,
-   "neta": 0,
+   "inicio": 1794946744748,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.03,
+   "gan": 0.64,
+   "neta": 0.08,
    "lado": "no"
   },
   {
-   "inicio": 1794942981191,
-   "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 0.355,
-   "gan": 15.87,
-   "neta": 11.57,
+   "inicio": 1794946744605,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.033,
+   "gan": 0.64,
+   "neta": 0.08,
    "lado": "no"
   },
   {
-   "inicio": 1794942948816,
-   "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 9.299,
-   "gan": 1.99,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794942929571,
-   "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 0.174,
-   "gan": 2.3,
-   "neta": 0.42,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794942773731,
-   "titulo": "Mauritania vs. Burkina Faso",
-   "dur": 0.662,
-   "gan": 1.75,
-   "neta": 0.94,
+   "inicio": 1794946744170,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.007,
+   "gan": 0.59,
+   "neta": 0.03,
    "lado": "no"
   },
   {
-   "inicio": 1794941335422,
-   "titulo": "Gas prices on November 18?",
-   "dur": 0.022,
-   "gan": 1.34,
-   "neta": 1.19,
+   "inicio": 1794946742043,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.043,
+   "gan": 0.6,
+   "neta": 0.21,
    "lado": "no"
   },
   {
-   "inicio": 1794941189888,
-   "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 14.607,
-   "gan": 1.13,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794941189158,
-   "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 0.575,
-   "gan": 2.98,
-   "neta": 0.35,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794941121978,
-   "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 40.938,
-   "gan": 1.87,
+   "inicio": 1794946741772,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.09,
+   "gan": 0.51,
    "neta": 0.34,
    "lado": "no"
   },
   {
-   "inicio": 1794941121001,
-   "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 0.728,
-   "gan": 3.65,
-   "neta": 1.55,
+   "inicio": 1794946741172,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.587,
+   "gan": 0.64,
+   "neta": 0.29,
    "lado": "no"
   },
   {
-   "inicio": 1794941120695,
-   "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 0.036,
-   "gan": 4.65,
-   "neta": 2.56,
+   "inicio": 1794946740799,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.246,
+   "gan": 0.61,
+   "neta": 0.07,
    "lado": "no"
   },
   {
-   "inicio": 1794941119868,
-   "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 0.473,
-   "gan": 6.96,
-   "neta": 4.77,
+   "inicio": 1794946740749,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.048,
+   "gan": 0.6,
+   "neta": 0.12,
    "lado": "no"
   },
   {
-   "inicio": 1794941118886,
-   "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 0.542,
-   "gan": 9.44,
-   "neta": 7.31,
+   "inicio": 1794946740641,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.107,
+   "gan": 0.95,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794941118400,
-   "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 0.223,
-   "gan": 9.82,
-   "neta": 7.75,
+   "inicio": 1794946740606,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.015,
+   "gan": 1.06,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794940899993,
-   "titulo": "South Shields vs. Harborough Town FC",
-   "dur": 116.888,
-   "gan": 2.23,
+   "inicio": 1794946740590,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.003,
+   "gan": 0.63,
+   "neta": 0.11,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794946740336,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.037,
+   "gan": 0.76,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794946740144,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.095,
+   "gan": 0.76,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794946739395,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.079,
+   "gan": 0.76,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794946739090,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.187,
+   "gan": 0.76,
    "neta": 0,
    "lado": "no"
   }
