@@ -1,84 +1,84 @@
 {
- "actualizado": 1794949860028,
+ "actualizado": 1794952885278,
  "inicio": 1794135768943,
  "ejecucion": {
-  "inicio": 1794946859671,
-  "fin": 1794949860028,
-  "mensajes": 13793006,
-  "reconexiones": 8,
-  "eventos": 531,
+  "inicio": 1794949885027,
+  "fin": 1794952885278,
+  "mensajes": 11355676,
+  "reconexiones": 13,
+  "eventos": 529,
   "errores": [],
-  "nuevos": 69,
-  "nuevosRentables": 6,
-  "nuevosNeta": 36.42
+  "nuevos": 178,
+  "nuevosRentables": 5,
+  "nuevosNeta": 13.62
  },
- "total": 6039,
- "falsos": 2592,
+ "total": 6136,
+ "falsos": 2666,
  "largos": {
-  "episodios": 20547,
-  "eventos": 178,
+  "episodios": 20384,
+  "eventos": 179,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1760,
+  "episodios": 1759,
   "eventos": 35
  },
- "mediana": 0.539,
+ "mediana": 0.515,
  "captura": [
   {
    "s": 0.5,
-   "n": 3113,
-   "gan": 8827.35,
-   "nNeta": 870,
-   "neta": 1955.7
+   "n": 3117,
+   "gan": 8375.19,
+   "nNeta": 832,
+   "neta": 1750.5
   },
   {
    "s": 2,
-   "n": 1582,
-   "gan": 4253.18,
-   "nNeta": 356,
-   "neta": 895.87
+   "n": 1565,
+   "gan": 3857.17,
+   "nNeta": 324,
+   "neta": 716.03
   },
   {
    "s": 5,
-   "n": 979,
-   "gan": 2385.5,
-   "nNeta": 146,
-   "neta": 389.92
+   "n": 968,
+   "gan": 2206.96,
+   "nNeta": 133,
+   "neta": 304.51
   },
   {
    "s": 30,
    "n": 470,
-   "gan": 934.44,
+   "gan": 920.2,
    "nNeta": 52,
-   "neta": 43.77
+   "neta": 44.17
   }
  ],
- "rentables": 1809,
+ "rentables": 1804,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 84,
-   "descartadas": 274,
-   "neta": 176.64,
-   "dias": 9.39,
-   "semana": 131.72
+   "ops": 91,
+   "descartadas": 263,
+   "neta": 172.54,
+   "dias": 9.42,
+   "semana": 128.28
   },
   {
    "capital": 1000,
-   "ops": 110,
-   "descartadas": 274,
-   "neta": 288.79,
-   "dias": 9.39,
-   "semana": 215.35
+   "ops": 112,
+   "descartadas": 263,
+   "neta": 285.39,
+   "dias": 9.42,
+   "semana": 212.19
   },
   {
    "capital": 2000,
-   "ops": 117,
-   "descartadas": 274,
-   "neta": 412.24,
-   "dias": 9.39,
-   "semana": 307.4
+   "ops": 119,
+   "descartadas": 263,
+   "neta": 406.76,
+   "dias": 9.42,
+   "semana": 302.42
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 38.3,
-   "episodios": 1034,
+   "horas": 39.2,
+   "episodios": 1212,
    "sospechosas": 6,
-   "realistaNeta": 77.85,
+   "realistaNeta": 91.47,
    "capital": {
     "500": 19.32,
     "1000": 28.47,
-    "2000": 55.83
+    "2000": 55.98
    },
    "cumple": true
   }
@@ -236,42 +236,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5960,
-  "n": 2029,
-  "gan": 5106.92,
-  "nNeta": 429,
-  "neta": 1017.71
+  "conDato": 6057,
+  "n": 2008,
+  "gan": 4636.63,
+  "nNeta": 394,
+  "neta": 821.38
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1517
+   "n": 1565
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2245
+   "n": 2306
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1291
+   "n": 1290
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 509
+   "n": 498
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 353
+   "n": 352
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 117
+   "n": 118
   }
  ],
  "porEvento": [
@@ -318,11 +318,11 @@
    "mediana": 0.106
   },
   {
-   "titulo": "Vitesse Arnhem vs. De Graafschap",
-   "n": 95,
-   "gan": 441.1,
-   "neta": 151.11,
-   "mediana": 1.987
+   "titulo": "Denmark vs. Norway",
+   "n": 100,
+   "gan": 152.02,
+   "neta": 35.85,
+   "mediana": 0.104
   },
   {
    "titulo": "Slovakia vs. Faroe Islands",
@@ -633,128 +633,128 @@
   },
   {
    "h": 1794949200000,
-   "n": 20
+   "n": 198
   }
  ],
  "recientes": [
   {
-   "inicio": 1794949859411,
-   "titulo": "Israel vs. Austria",
-   "dur": 0.263,
-   "gan": 0.74,
+   "inicio": 1794951437453,
+   "titulo": "Ukraine vs. Georgia",
+   "dur": 1447.577,
+   "gan": 0.81,
+   "neta": 0.67,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794952417974,
+   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
+   "dur": 0.415,
+   "gan": 0.58,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794949849879,
-   "titulo": "Israel vs. Austria",
-   "dur": 1.355,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794949836158,
-   "titulo": "Israel vs. Austria",
-   "dur": 2.441,
-   "gan": 77.65,
-   "neta": 49.68,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794949833796,
-   "titulo": "Israel vs. Austria",
-   "dur": 0.389,
-   "gan": 0.55,
-   "neta": 0.24,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794949804629,
-   "titulo": "Hungary vs. Northern Ireland",
-   "dur": 0.035,
-   "gan": 0.82,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794949804594,
-   "titulo": "Hungary vs. Northern Ireland",
-   "dur": 0.007,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794949803708,
-   "titulo": "Hungary vs. Northern Ireland",
-   "dur": -0.003,
-   "gan": 0.54,
-   "neta": 0.06,
    "lado": "no"
   },
   {
-   "inicio": 1794949787871,
-   "titulo": "Niger vs. Morocco",
-   "dur": 0.064,
-   "gan": 0.88,
-   "neta": 0.62,
-   "lado": "no"
+   "inicio": 1794951804560,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.273,
+   "gan": 0.6,
+   "neta": 0.03,
+   "lado": "si"
   },
   {
-   "inicio": 1794949781066,
-   "titulo": "Niger vs. Morocco",
-   "dur": 0.614,
-   "gan": 0.56,
+   "inicio": 1794951803969,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.45,
+   "gan": 2.18,
+   "neta": 0.09,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794951796560,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.028,
+   "gan": 0.57,
+   "neta": 0.4,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794951796527,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.028,
+   "gan": 0.57,
+   "neta": 0.4,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794951795380,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.091,
+   "gan": 0.5,
+   "neta": 0.41,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794951795332,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.041,
+   "gan": 0.5,
+   "neta": 0.43,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794951795298,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.011,
+   "gan": 0.5,
+   "neta": 0.41,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794951795114,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.109,
+   "gan": 0.51,
    "neta": 0.42,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794949724383,
-   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
-   "dur": 0.27,
-   "gan": 1.14,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794949020067,
-   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
-   "dur": 702.459,
-   "gan": 1.04,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794949715409,
-   "titulo": "Israel vs. Austria",
-   "dur": 0.839,
-   "gan": 2,
-   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794949713381,
-   "titulo": "Israel vs. Austria",
-   "dur": 1.988,
-   "gan": 2,
-   "neta": 0,
+   "inicio": 1794951795031,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.022,
+   "gan": 0.5,
+   "neta": 0.42,
    "lado": "si"
   },
   {
-   "inicio": 1794949561482,
-   "titulo": "Israel vs. Austria",
-   "dur": 0.75,
-   "gan": 4.54,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1794951795015,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.009,
+   "gan": 0.53,
+   "neta": 0.43,
+   "lado": "si"
   },
   {
-   "inicio": 1794949441280,
-   "titulo": "Wales vs. Portugal",
-   "dur": 12.568,
-   "gan": 3.45,
-   "neta": 0,
+   "inicio": 1794951791115,
+   "titulo": "Denmark vs. Norway",
+   "dur": 1.48,
+   "gan": 1.06,
+   "neta": 0.62,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794951774372,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.025,
+   "gan": 1.62,
+   "neta": 0.84,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794951774216,
+   "titulo": "Denmark vs. Norway",
+   "dur": 0.127,
+   "gan": 1.43,
+   "neta": 0.32,
    "lado": "si"
   }
  ]
