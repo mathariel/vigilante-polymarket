@@ -1,21 +1,21 @@
 {
- "actualizado": 1794955902898,
+ "actualizado": 1794958918211,
  "inicio": 1794138771010,
  "ejecucion": {
-  "inicio": 1794952902555,
-  "fin": 1794955902898,
-  "mensajes": 6842039,
-  "reconexiones": 0,
-  "eventos": 515,
+  "inicio": 1794955917868,
+  "fin": 1794958918211,
+  "mensajes": 8413650,
+  "reconexiones": 1,
+  "eventos": 511,
   "errores": [],
-  "nuevos": 8,
+  "nuevos": 11,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6129,
- "falsos": 2668,
+ "total": 6117,
+ "falsos": 2662,
  "largos": {
-  "episodios": 20393,
+  "episodios": 20415,
   "eventos": 179,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 1759,
   "eventos": 35
  },
- "mediana": 0.516,
+ "mediana": 0.515,
  "captura": [
   {
    "s": 0.5,
-   "n": 3116,
-   "gan": 8368.23,
-   "nNeta": 829,
-   "neta": 1749.1
+   "n": 3106,
+   "gan": 8302.69,
+   "nNeta": 825,
+   "neta": 1748.8
   },
   {
    "s": 2,
-   "n": 1564,
-   "gan": 3853.95,
-   "nNeta": 323,
-   "neta": 715.61
+   "n": 1559,
+   "gan": 3827.54,
+   "nNeta": 321,
+   "neta": 715.54
   },
   {
    "s": 5,
-   "n": 967,
-   "gan": 2203.74,
-   "nNeta": 132,
-   "neta": 304.09
+   "n": 966,
+   "gan": 2181.09,
+   "nNeta": 131,
+   "neta": 304.07
   },
   {
    "s": 30,
-   "n": 471,
-   "gan": 921.11,
+   "n": 470,
+   "gan": 897.88,
    "nNeta": 52,
    "neta": 44.17
   }
  ],
- "rentables": 1793,
+ "rentables": 1791,
  "porCapital": [
   {
    "capital": 500,
    "ops": 89,
-   "descartadas": 262,
+   "descartadas": 259,
    "neta": 174.33,
-   "dias": 9.45,
-   "semana": 129.16
+   "dias": 9.47,
+   "semana": 128.92
   },
   {
    "capital": 1000,
    "ops": 109,
-   "descartadas": 262,
+   "descartadas": 259,
    "neta": 285.91,
-   "dias": 9.45,
-   "semana": 211.83
+   "dias": 9.47,
+   "semana": 211.45
   },
   {
    "capital": 2000,
    "ops": 116,
-   "descartadas": 262,
+   "descartadas": 259,
    "neta": 406.43,
-   "dias": 9.45,
-   "semana": 301.12
+   "dias": 9.47,
+   "semana": 300.58
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 40,
-   "episodios": 1220,
+   "horas": 40.8,
+   "episodios": 1231,
    "sospechosas": 6,
    "realistaNeta": 91.47,
    "capital": {
@@ -236,17 +236,17 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6050,
-  "n": 2007,
-  "gan": 4631.78,
-  "nNeta": 392,
-  "neta": 820.63
+  "conDato": 6038,
+  "n": 1998,
+  "gan": 4600.69,
+  "nNeta": 389,
+  "neta": 820.53
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1560
+   "n": 1557
   },
   {
    "et": "0.1–1 s",
@@ -256,7 +256,7 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1290
+   "n": 1282
   },
   {
    "et": "5–30 s",
@@ -266,7 +266,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 353
+   "n": 352
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794682800000,
-   "n": 52
-  },
   {
    "h": 1794686400000,
    "n": 115
@@ -633,10 +629,102 @@
   },
   {
    "h": 1794952800000,
-   "n": 8
+   "n": 9
+  },
+  {
+   "h": 1794956400000,
+   "n": 10
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794958829020,
+   "titulo": "Chile vs. Colombia",
+   "dur": 0.001,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794958828377,
+   "titulo": "Chile vs. Colombia",
+   "dur": 0.54,
+   "gan": 0.73,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794958696571,
+   "titulo": "Ecuador vs. Bolivia - Halftime Result",
+   "dur": 0.999,
+   "gan": 3.04,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794957635997,
+   "titulo": "Highest temperature in Amsterdam on November 18?",
+   "dur": 0.219,
+   "gan": 0.81,
+   "neta": 0.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794957635820,
+   "titulo": "Highest temperature in Amsterdam on November 18?",
+   "dur": 0.034,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794957109179,
+   "titulo": "CZ # posts November 17 - November 24, 2026?",
+   "dur": 0.111,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794957109074,
+   "titulo": "CZ # posts November 17 - November 24, 2026?",
+   "dur": 0.071,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794956888903,
+   "titulo": "Argentina vs. Costa Rica - Halftime Result",
+   "dur": 5.073,
+   "gan": 1.72,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794956817885,
+   "titulo": "Argentina vs. Costa Rica - Halftime Result",
+   "dur": 0.244,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794956514924,
+   "titulo": "Ecuador vs. Bolivia",
+   "dur": 11.814,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794956381704,
+   "titulo": "Argentina vs. Costa Rica",
+   "dur": 19.333,
+   "gan": 1.51,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794955186771,
    "titulo": "Mexico vs. Jamaica",
@@ -667,94 +755,6 @@
    "dur": 0.258,
    "gan": 0.57,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794953065680,
-   "titulo": "Argentina vs. Costa Rica",
-   "dur": 1.397,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794953026548,
-   "titulo": "Argentina vs. Costa Rica",
-   "dur": 38.955,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794953026510,
-   "titulo": "Argentina vs. Costa Rica",
-   "dur": 0.026,
-   "gan": 1.35,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794953024704,
-   "titulo": "Argentina vs. Costa Rica",
-   "dur": 1.749,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794951437453,
-   "titulo": "Ukraine vs. Georgia",
-   "dur": 1447.577,
-   "gan": 0.81,
-   "neta": 0.67,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794952417974,
-   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
-   "dur": 0.415,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794951804560,
-   "titulo": "Denmark vs. Norway",
-   "dur": 0.273,
-   "gan": 0.6,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794951803969,
-   "titulo": "Denmark vs. Norway",
-   "dur": 0.45,
-   "gan": 2.18,
-   "neta": 0.09,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794951796560,
-   "titulo": "Denmark vs. Norway",
-   "dur": 0.028,
-   "gan": 0.57,
-   "neta": 0.4,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794951796527,
-   "titulo": "Denmark vs. Norway",
-   "dur": 0.028,
-   "gan": 0.57,
-   "neta": 0.4,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794951795380,
-   "titulo": "Denmark vs. Norway",
-   "dur": 0.091,
-   "gan": 0.5,
-   "neta": 0.41,
    "lado": "si"
   }
  ]
