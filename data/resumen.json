@@ -1,84 +1,84 @@
 {
- "actualizado": 1794916684601,
+ "actualizado": 1794919699546,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794913684210,
-  "fin": 1794916684601,
-  "mensajes": 7954865,
+  "inicio": 1794916699200,
+  "fin": 1794919699546,
+  "mensajes": 8904786,
   "reconexiones": 1,
-  "eventos": 531,
+  "eventos": 530,
   "errores": [],
-  "nuevos": 1,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 36,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.32
  },
- "total": 6010,
- "falsos": 2461,
+ "total": 6041,
+ "falsos": 2485,
  "largos": {
-  "episodios": 19888,
+  "episodios": 19982,
   "eventos": 177,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 2521,
+  "episodios": 2377,
   "eventos": 33
  },
- "mediana": 0.564,
+ "mediana": 0.562,
  "captura": [
   {
    "s": 0.5,
-   "n": 3139,
-   "gan": 9058.39,
-   "nNeta": 947,
-   "neta": 2430.28
+   "n": 3150,
+   "gan": 9087.71,
+   "nNeta": 953,
+   "neta": 2431.31
   },
   {
    "s": 2,
-   "n": 1634,
-   "gan": 4641.18,
+   "n": 1636,
+   "gan": 4656.07,
    "nNeta": 414,
-   "neta": 1356.49
+   "neta": 1356.8
   },
   {
    "s": 5,
-   "n": 1000,
-   "gan": 2546.66,
-   "nNeta": 168,
-   "neta": 515.28
+   "n": 1003,
+   "gan": 2562.72,
+   "nNeta": 169,
+   "neta": 515.6
   },
   {
    "s": 30,
-   "n": 473,
-   "gan": 942.41,
-   "nNeta": 53,
-   "neta": 45.77
+   "n": 475,
+   "gan": 958.69,
+   "nNeta": 54,
+   "neta": 46.09
   }
  ],
- "rentables": 1884,
+ "rentables": 1893,
  "porCapital": [
   {
    "capital": 500,
    "ops": 90,
    "descartadas": 299,
    "neta": 205.12,
-   "dias": 9.38,
-   "semana": 153.15
+   "dias": 9.41,
+   "semana": 152.62
   },
   {
    "capital": 1000,
    "ops": 117,
    "descartadas": 299,
    "neta": 320.7,
-   "dias": 9.38,
-   "semana": 239.44
+   "dias": 9.41,
+   "semana": 238.62
   },
   {
    "capital": 2000,
    "ops": 134,
    "descartadas": 299,
    "neta": 452.3,
-   "dias": 9.38,
-   "semana": 337.7
+   "dias": 9.41,
+   "semana": 336.53
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 29.2,
-   "episodios": 633,
+   "horas": 30,
+   "episodios": 669,
    "sospechosas": 4,
-   "realistaNeta": 25.29,
+   "realistaNeta": 25.61,
    "capital": {
     "500": 12.61,
     "1000": 17.59,
@@ -236,37 +236,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5924,
-  "n": 2075,
-  "gan": 5194.03,
+  "conDato": 5955,
+  "n": 2076,
+  "gan": 5209.13,
   "nNeta": 492,
-  "neta": 1198.18
+  "neta": 1198.49
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1502
+   "n": 1512
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2197
+   "n": 2217
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1306
+   "n": 1304
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 527
+   "n": 528
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 355
+   "n": 357
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794639600000,
-   "n": 49
-  },
   {
    "h": 1794643200000,
    "n": 2
@@ -633,129 +629,133 @@
   },
   {
    "h": 1794913200000,
-   "n": 1
+   "n": 3
+  },
+  {
+   "h": 1794916800000,
+   "n": 34
   }
  ],
  "recientes": [
   {
-   "inicio": 1794914293483,
-   "titulo": "Donald Trump # Truth Social posts November 13 - November 20, 2026?",
-   "dur": 1.04,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794912646744,
-   "titulo": "Highest temperature in Tel Aviv on November 17?",
-   "dur": 0.12,
-   "gan": 0.85,
-   "neta": 0.55,
+   "inicio": 1794919067833,
+   "titulo": "China PR vs. Bahrain",
+   "dur": 0.023,
+   "gan": 0.52,
+   "neta": 0.15,
    "lado": "si"
   },
   {
-   "inicio": 1794912179378,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 1.214,
-   "gan": 1.6,
+   "inicio": 1794919066628,
+   "titulo": "China PR vs. Bahrain",
+   "dur": 0.137,
+   "gan": 0.53,
+   "neta": 0.16,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794919065979,
+   "titulo": "China PR vs. Bahrain",
+   "dur": 0.567,
+   "gan": 0.59,
+   "neta": 0.07,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794919065479,
+   "titulo": "China PR vs. Bahrain",
+   "dur": 0.38,
+   "gan": 0.77,
+   "neta": 0.24,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794919056871,
+   "titulo": "China PR vs. Bahrain",
+   "dur": 0.794,
+   "gan": 0.7,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794910494447,
-   "titulo": "Singapore vs. Brazil",
-   "dur": 4.811,
-   "gan": 1.47,
-   "neta": 1.25,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794907577084,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 0.127,
-   "gan": 0.54,
+   "inicio": 1794919053735,
+   "titulo": "China PR vs. Bahrain",
+   "dur": 0.604,
+   "gan": 0.82,
    "neta": 0.05,
    "lado": "si"
   },
   {
-   "inicio": 1794905729556,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 16.76,
-   "gan": 2.14,
+   "inicio": 1794919053434,
+   "titulo": "China PR vs. Bahrain",
+   "dur": 0.284,
+   "gan": 0.61,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794905404506,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 10.958,
-   "gan": 0.53,
+   "inicio": 1794919051636,
+   "titulo": "China PR vs. Bahrain",
+   "dur": 0.686,
+   "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794905383374,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 7.624,
-   "gan": 1.11,
+   "inicio": 1794919023038,
+   "titulo": "China PR vs. Bahrain",
+   "dur": 0.985,
+   "gan": 0.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794905361751,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 19.254,
-   "gan": 4.48,
+   "inicio": 1794919021043,
+   "titulo": "China PR vs. Bahrain",
+   "dur": 0.086,
+   "gan": 0.7,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794905361236,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 0.423,
-   "gan": 3,
+   "inicio": 1794919019701,
+   "titulo": "China PR vs. Bahrain",
+   "dur": 0.61,
+   "gan": 0.52,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794905333296,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 27.769,
+   "inicio": 1794919017288,
+   "titulo": "China PR vs. Bahrain",
+   "dur": 0.49,
+   "gan": 1,
+   "neta": 0.05,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794919017182,
+   "titulo": "China PR vs. Bahrain",
+   "dur": 0.091,
    "gan": 0.6,
+   "neta": 0.04,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794919015945,
+   "titulo": "China PR vs. Bahrain",
+   "dur": 0.626,
+   "gan": 0.85,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794904010252,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
-   "dur": 0.137,
-   "gan": 0.91,
-   "neta": 0.65,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794904010205,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
-   "dur": 0.021,
-   "gan": 0.79,
-   "neta": 0.53,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794904010158,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
-   "dur": 0.023,
-   "gan": 0.58,
-   "neta": 0.33,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794902176220,
-   "titulo": "Test Match: Afghanistan vs Zimbabwe",
-   "dur": 1.292,
-   "gan": 0.59,
+   "inicio": 1794919016276,
+   "titulo": "China PR vs. Bahrain",
+   "dur": 0.116,
+   "gan": 0.54,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   }
  ]
 }
