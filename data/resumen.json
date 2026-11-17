@@ -1,84 +1,84 @@
 {
- "actualizado": 1794877478888,
+ "actualizado": 1794880496280,
  "inicio": 1794105626261,
  "ejecucion": {
-  "inicio": 1794874478653,
-  "fin": 1794877478888,
-  "mensajes": 7687797,
+  "inicio": 1794877495941,
+  "fin": 1794880496280,
+  "mensajes": 8056194,
   "reconexiones": 0,
-  "eventos": 548,
+  "eventos": 547,
   "errores": [],
-  "nuevos": 26,
-  "nuevosRentables": 3,
-  "nuevosNeta": 1.38
+  "nuevos": 20,
+  "nuevosRentables": 2,
+  "nuevosNeta": 0.37
  },
- "total": 5916,
- "falsos": 2377,
+ "total": 5936,
+ "falsos": 2379,
  "largos": {
-  "episodios": 18222,
+  "episodios": 18305,
   "eventos": 166,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 4270,
+  "episodios": 4173,
   "eventos": 33
  },
  "mediana": 0.551,
  "captura": [
   {
    "s": 0.5,
-   "n": 3067,
-   "gan": 9061.51,
-   "nNeta": 940,
-   "neta": 2493.82
+   "n": 3078,
+   "gan": 9075.18,
+   "nNeta": 942,
+   "neta": 2494.19
   },
   {
    "s": 2,
-   "n": 1577,
-   "gan": 4581.74,
-   "nNeta": 410,
-   "neta": 1353.98
+   "n": 1588,
+   "gan": 4595.41,
+   "nNeta": 412,
+   "neta": 1354.35
   },
   {
    "s": 5,
-   "n": 970,
-   "gan": 2512.06,
-   "nNeta": 166,
-   "neta": 514.05
+   "n": 978,
+   "gan": 2522.63,
+   "nNeta": 167,
+   "neta": 514.41
   },
   {
    "s": 30,
-   "n": 465,
-   "gan": 936.53,
+   "n": 468,
+   "gan": 941.04,
    "nNeta": 53,
    "neta": 45.77
   }
  ],
- "rentables": 1870,
+ "rentables": 1876,
  "porCapital": [
   {
    "capital": 500,
    "ops": 90,
-   "descartadas": 295,
+   "descartadas": 297,
    "neta": 205.12,
-   "dias": 8.93,
-   "semana": 160.78
+   "dias": 8.97,
+   "semana": 160.16
   },
   {
    "capital": 1000,
    "ops": 117,
-   "descartadas": 295,
+   "descartadas": 297,
    "neta": 320.7,
-   "dias": 8.93,
-   "semana": 251.38
+   "dias": 8.97,
+   "semana": 250.4
   },
   {
    "capital": 2000,
    "ops": 134,
-   "descartadas": 295,
+   "descartadas": 297,
    "neta": 452.3,
-   "dias": 8.93,
-   "semana": 354.54
+   "dias": 8.97,
+   "semana": 353.15
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 1,
-   "horas": 18.3,
-   "episodios": 525,
+   "horas": 19.2,
+   "episodios": 545,
    "sospechosas": 4,
-   "realistaNeta": 22.78,
+   "realistaNeta": 23.15,
    "capital": {
     "500": 12.61,
     "1000": 17.59,
@@ -236,37 +236,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5829,
-  "n": 2014,
-  "gan": 5134.59,
-  "nNeta": 488,
-  "neta": 1195.67
+  "conDato": 5849,
+  "n": 2025,
+  "gan": 5148.26,
+  "nNeta": 490,
+  "neta": 1196.04
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1490
+   "n": 1495
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2180
+   "n": 2184
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1271
+   "n": 1274
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 505
+   "n": 510
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 350
+   "n": 353
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794600000000,
-   "n": 75
-  },
   {
    "h": 1794603600000,
    "n": 90
@@ -634,128 +630,132 @@
   {
    "h": 1794873600000,
    "n": 27
+  },
+  {
+   "h": 1794877200000,
+   "n": 20
   }
  ],
  "recientes": [
   {
-   "inicio": 1794876332298,
-   "titulo": "Martinique vs. Aruba - Halftime Result",
-   "dur": 1146.358,
-   "gan": 1.2,
-   "neta": 0.85,
+   "inicio": 1794880448442,
+   "titulo": "Martinique vs. Aruba",
+   "dur": 0.172,
+   "gan": 1.26,
+   "neta": 1.15,
    "lado": "no"
   },
   {
-   "inicio": 1794876074690,
-   "titulo": "Trinidad and Tobago vs. Antigua and Barbuda",
-   "dur": 0.23,
-   "gan": 0.79,
+   "inicio": 1794880448093,
+   "titulo": "Martinique vs. Aruba",
+   "dur": 0.247,
+   "gan": 0.58,
+   "neta": 0.44,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794880276360,
+   "titulo": "Canada vs. Guatemala",
+   "dur": 0.061,
+   "gan": 0.64,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794879960944,
+   "titulo": "Martinique vs. Aruba",
+   "dur": 7.308,
+   "gan": 1.97,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794879625877,
+   "titulo": "Canada vs. Guatemala",
+   "dur": 0.029,
+   "gan": 0.67,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794875868058,
-   "titulo": "Martinique vs. Aruba",
-   "dur": 0.333,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794875861467,
-   "titulo": "Martinique vs. Aruba",
-   "dur": 1.143,
-   "gan": 1.22,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794875856483,
-   "titulo": "Martinique vs. Aruba",
-   "dur": 3.44,
-   "gan": 1.4,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794875847675,
-   "titulo": "Martinique vs. Aruba",
-   "dur": 0.084,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794875840476,
-   "titulo": "Martinique vs. Aruba",
-   "dur": 0.579,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794875837108,
-   "titulo": "Martinique vs. Aruba",
-   "dur": 1.405,
-   "gan": 0.95,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794875837002,
-   "titulo": "Martinique vs. Aruba",
-   "dur": 0.084,
-   "gan": 2,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794875830649,
-   "titulo": "Martinique vs. Aruba",
-   "dur": 0.966,
-   "gan": 1.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794875825898,
-   "titulo": "Martinique vs. Aruba",
-   "dur": 3.254,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794875669740,
-   "titulo": "Trinidad and Tobago vs. Antigua and Barbuda",
-   "dur": 20.871,
+   "inicio": 1794879625544,
+   "titulo": "Canada vs. Guatemala",
+   "dur": 0.043,
    "gan": 0.65,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794875435044,
-   "titulo": "Trinidad and Tobago vs. Antigua and Barbuda",
-   "dur": 0.006,
-   "gan": 0.7,
+   "inicio": 1794879613069,
+   "titulo": "Canada vs. Guatemala",
+   "dur": 11.882,
+   "gan": 0.88,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794875434732,
-   "titulo": "Trinidad and Tobago vs. Antigua and Barbuda",
-   "dur": 0.196,
-   "gan": 0.98,
-   "neta": 0,
+   "inicio": 1794879581514,
+   "titulo": "Canada vs. Guatemala",
+   "dur": 3.901,
+   "gan": 2.21,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1794875434617,
-   "titulo": "Trinidad and Tobago vs. Antigua and Barbuda",
-   "dur": 0.107,
-   "gan": 0.84,
+   "inicio": 1794879523252,
+   "titulo": "Martinique vs. Aruba",
+   "dur": 0.12,
+   "gan": 0.57,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
+  },
+  {
+   "inicio": 1794879522397,
+   "titulo": "Martinique vs. Aruba",
+   "dur": 0.07,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794879515067,
+   "titulo": "Martinique vs. Aruba",
+   "dur": 2.355,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794879036199,
+   "titulo": "Martinique vs. Aruba",
+   "dur": 21.779,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794878975915,
+   "titulo": "Martinique vs. Aruba",
+   "dur": 3.085,
+   "gan": 0.76,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794878942945,
+   "titulo": "Martinique vs. Aruba",
+   "dur": 32.895,
+   "gan": 1.19,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794878609165,
+   "titulo": "Martinique vs. Aruba",
+   "dur": 39.054,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
