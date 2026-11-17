@@ -1,21 +1,21 @@
 {
- "actualizado": 1794931765285,
- "inicio": 1794111636309,
+ "actualizado": 1794934780494,
+ "inicio": 1794113498085,
  "ejecucion": {
-  "inicio": 1794928764877,
-  "fin": 1794931765285,
-  "mensajes": 10810618,
-  "reconexiones": 0,
-  "eventos": 542,
+  "inicio": 1794931780142,
+  "fin": 1794934780494,
+  "mensajes": 13673827,
+  "reconexiones": 2,
+  "eventos": 540,
   "errores": [],
-  "nuevos": 23,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.71
+  "nuevos": 40,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 6078,
- "falsos": 2507,
+ "total": 6108,
+ "falsos": 2503,
  "largos": {
-  "episodios": 20554,
+  "episodios": 20531,
   "eventos": 176,
   "dias": 7
  },
@@ -23,38 +23,38 @@
   "episodios": 1768,
   "eventos": 33
  },
- "mediana": 0.551,
+ "mediana": 0.554,
  "captura": [
   {
    "s": 0.5,
-   "n": 3154,
-   "gan": 9098.75,
-   "nNeta": 957,
-   "neta": 2423.84
+   "n": 3178,
+   "gan": 9096.9,
+   "nNeta": 956,
+   "neta": 2411.54
   },
   {
    "s": 2,
-   "n": 1627,
-   "gan": 4651,
+   "n": 1634,
+   "gan": 4657.25,
    "nNeta": 414,
    "neta": 1346.55
   },
   {
    "s": 5,
-   "n": 997,
-   "gan": 2566.75,
+   "n": 1000,
+   "gan": 2568.7,
    "nNeta": 169,
    "neta": 515.51
   },
   {
    "s": 30,
-   "n": 470,
-   "gan": 956.51,
+   "n": 468,
+   "gan": 954.58,
    "nNeta": 54,
    "neta": 46.09
   }
  ],
- "rentables": 1910,
+ "rentables": 1911,
  "porCapital": [
   {
    "capital": 500,
@@ -62,7 +62,7 @@
    "descartadas": 299,
    "neta": 205.83,
    "dias": 9.46,
-   "semana": 152.34
+   "semana": 152.31
   },
   {
    "capital": 1000,
@@ -70,7 +70,7 @@
    "descartadas": 299,
    "neta": 321.41,
    "dias": 9.46,
-   "semana": 237.87
+   "semana": 237.83
   },
   {
    "capital": 2000,
@@ -78,7 +78,7 @@
    "descartadas": 299,
    "neta": 453.01,
    "dias": 9.46,
-   "semana": 335.27
+   "semana": 335.22
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 33.3,
-   "episodios": 769,
+   "horas": 34.2,
+   "episodios": 809,
    "sospechosas": 5,
    "realistaNeta": 26.35,
    "capital": {
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 86,
+  "n": 85,
   "top": [
    {
     "inicio": 1794135838907,
@@ -236,9 +236,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5992,
-  "n": 2069,
-  "gan": 5219.74,
+  "conDato": 6023,
+  "n": 2091,
+  "gan": 5234.88,
   "nNeta": 493,
   "neta": 1198.74
  },
@@ -246,27 +246,27 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1525
+   "n": 1529
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2241
+   "n": 2243
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1310
+   "n": 1330
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 527
+   "n": 532
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 354
+   "n": 352
   },
   {
    "et": "> 5 min",
@@ -633,127 +633,127 @@
   },
   {
    "h": 1794931200000,
-   "n": 1
+   "n": 41
   }
  ],
  "recientes": [
   {
-   "inicio": 1794931585251,
-   "titulo": "Saudi Arabia vs. Uzbekistan",
-   "dur": 0.319,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794931163998,
-   "titulo": "Jordan vs. Australia",
-   "dur": 35.612,
-   "gan": 1.25,
+   "inicio": 1794934637514,
+   "titulo": "Togo vs. Algeria",
+   "dur": 1.172,
+   "gan": 0.52,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794931187500,
-   "titulo": "Libya vs. Tunisia",
-   "dur": 7.539,
-   "gan": 0.55,
+   "inicio": 1794934370707,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 0,
+   "gan": 0.51,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794931185561,
-   "titulo": "Libya vs. Tunisia",
-   "dur": 1.909,
-   "gan": 1,
+   "inicio": 1794934283609,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 6.668,
+   "gan": 0.64,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794931065472,
-   "titulo": "Saudi Arabia vs. Uzbekistan",
-   "dur": 2.066,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794931058603,
-   "titulo": "Saudi Arabia vs. Uzbekistan",
-   "dur": 4.129,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794930719895,
-   "titulo": "Saudi Arabia vs. Uzbekistan",
-   "dur": 0.471,
-   "gan": 0.68,
+   "inicio": 1794934108251,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 0.008,
+   "gan": 0.57,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794930719521,
-   "titulo": "Saudi Arabia vs. Uzbekistan",
-   "dur": 0.196,
-   "gan": 0.58,
+   "inicio": 1794934106541,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 1.606,
+   "gan": 0.63,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794930716303,
-   "titulo": "Saudi Arabia vs. Uzbekistan",
-   "dur": 2.01,
-   "gan": 0.5,
+   "inicio": 1794934104493,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 1.969,
+   "gan": 0.53,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794930697383,
-   "titulo": "Saudi Arabia vs. Uzbekistan - Halftime Result",
-   "dur": 2.453,
-   "gan": 0.74,
-   "neta": 0.06,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794930633885,
-   "titulo": "Qatar vs. Korea Republic",
-   "dur": 0.983,
-   "gan": 1.61,
-   "neta": 0.67,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794930633836,
-   "titulo": "Qatar vs. Korea Republic",
-   "dur": 0.024,
-   "gan": 1.2,
-   "neta": 0.29,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794930313853,
-   "titulo": "Qatar vs. Korea Republic",
-   "dur": 0.966,
-   "gan": 1.4,
+   "inicio": 1794934102532,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 1.91,
+   "gan": 0.63,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794929878732,
-   "titulo": "Jordan vs. Australia",
-   "dur": 0.076,
-   "gan": 3.48,
+   "inicio": 1794934100572,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 1.89,
+   "gan": 0.53,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794929858390,
-   "titulo": "Qatar vs. Korea Republic",
-   "dur": 3.375,
-   "gan": 1.87,
+   "inicio": 1794934098497,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 1.974,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794934096529,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 1.915,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794934094511,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 1.936,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794934092504,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 1.951,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794934089359,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 3.081,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794934087000,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 1.136,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794934085546,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 1.376,
+   "gan": 0.53,
    "neta": 0,
    "lado": "no"
   }
