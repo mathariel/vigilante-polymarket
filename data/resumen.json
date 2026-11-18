@@ -1,84 +1,84 @@
 {
- "actualizado": 1794964958091,
+ "actualizado": 1794967974624,
  "inicio": 1794141791595,
  "ejecucion": {
-  "inicio": 1794961957751,
-  "fin": 1794964958092,
-  "mensajes": 8837075,
+  "inicio": 1794964974285,
+  "fin": 1794967974624,
+  "mensajes": 8721551,
   "reconexiones": 0,
-  "eventos": 492,
+  "eventos": 502,
   "errores": [],
-  "nuevos": 6,
+  "nuevos": 10,
   "nuevosRentables": 1,
-  "nuevosNeta": 0.38
+  "nuevosNeta": 0.03
  },
- "total": 6098,
- "falsos": 2661,
+ "total": 6095,
+ "falsos": 2655,
  "largos": {
-  "episodios": 20446,
-  "eventos": 180,
+  "episodios": 20460,
+  "eventos": 181,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1758,
-  "eventos": 35
+  "episodios": 1759,
+  "eventos": 36
  },
  "mediana": 0.514,
  "captura": [
   {
    "s": 0.5,
-   "n": 3093,
-   "gan": 8110.6,
+   "n": 3091,
+   "gan": 8109.47,
    "nNeta": 821,
-   "neta": 1744.66
+   "neta": 1743.38
   },
   {
    "s": 2,
-   "n": 1554,
-   "gan": 3793.88,
-   "nNeta": 319,
-   "neta": 701.5
+   "n": 1553,
+   "gan": 3793.1,
+   "nNeta": 318,
+   "neta": 700.8
   },
   {
    "s": 5,
-   "n": 964,
-   "gan": 2154.65,
-   "nNeta": 130,
-   "neta": 290.21
+   "n": 963,
+   "gan": 2153.87,
+   "nNeta": 129,
+   "neta": 289.51
   },
   {
    "s": 30,
-   "n": 468,
-   "gan": 896.38,
-   "nNeta": 52,
-   "neta": 44.17
+   "n": 467,
+   "gan": 895.6,
+   "nNeta": 51,
+   "neta": 43.47
   }
  ],
- "rentables": 1783,
+ "rentables": 1779,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 89,
-   "descartadas": 259,
-   "neta": 174.49,
+   "ops": 87,
+   "descartadas": 260,
+   "neta": 173.09,
    "dias": 9.51,
-   "semana": 128.39
+   "semana": 127.35
   },
   {
    "capital": 1000,
-   "ops": 109,
-   "descartadas": 259,
-   "neta": 286.31,
+   "ops": 107,
+   "descartadas": 260,
+   "neta": 285.14,
    "dias": 9.51,
-   "semana": 210.68
+   "semana": 209.79
   },
   {
    "capital": 2000,
-   "ops": 116,
-   "descartadas": 259,
-   "neta": 406.62,
+   "ops": 114,
+   "descartadas": 260,
+   "neta": 405.25,
    "dias": 9.51,
-   "semana": 299.2
+   "semana": 298.16
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 42.5,
-   "episodios": 1246,
+   "horas": 43.3,
+   "episodios": 1256,
    "sospechosas": 6,
-   "realistaNeta": 92.98,
+   "realistaNeta": 93.01,
    "capital": {
     "500": 20.45,
     "1000": 29.6,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 78,
+  "n": 77,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,22 +236,22 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6020,
+  "conDato": 6018,
   "n": 1992,
-  "gan": 4589.88,
+  "gan": 4591.47,
   "nNeta": 389,
-  "neta": 820.45
+  "neta": 819.78
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1551
+   "n": 1550
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2306
+   "n": 2305
   },
   {
    "et": "1–5 s",
@@ -271,7 +271,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 118
+   "n": 117
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794690000000,
-   "n": 152
-  },
   {
    "h": 1794693600000,
    "n": 69
@@ -634,9 +630,93 @@
   {
    "h": 1794960000000,
    "n": 8
+  },
+  {
+   "h": 1794963600000,
+   "n": 10
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794965974113,
+   "titulo": "French Guiana vs. St. Vincent and the Grenadines",
+   "dur": 0.188,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794965969575,
+   "titulo": "French Guiana vs. St. Vincent and the Grenadines",
+   "dur": 0.025,
+   "gan": 0.81,
+   "neta": 0.18,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794965790412,
+   "titulo": "French Guiana vs. St. Vincent and the Grenadines",
+   "dur": 0.208,
+   "gan": 0.6,
+   "neta": 0.35,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794965789282,
+   "titulo": "French Guiana vs. St. Vincent and the Grenadines",
+   "dur": 0.192,
+   "gan": 1.02,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794965788239,
+   "titulo": "French Guiana vs. St. Vincent and the Grenadines",
+   "dur": 0.094,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794965787129,
+   "titulo": "French Guiana vs. St. Vincent and the Grenadines",
+   "dur": 0.176,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794965787097,
+   "titulo": "French Guiana vs. St. Vincent and the Grenadines",
+   "dur": 0.002,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794965787055,
+   "titulo": "French Guiana vs. St. Vincent and the Grenadines",
+   "dur": 0.014,
+   "gan": 1.2,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794965785296,
+   "titulo": "French Guiana vs. St. Vincent and the Grenadines",
+   "dur": 1.728,
+   "gan": 1.81,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794965777854,
+   "titulo": "French Guiana vs. St. Vincent and the Grenadines",
+   "dur": 0.613,
+   "gan": 0.52,
+   "neta": 0.29,
+   "lado": "si"
+  },
   {
    "inicio": 1794963562987,
    "titulo": "Uruguay vs. Dominican Republic",
@@ -675,86 +755,6 @@
    "dur": 0.122,
    "gan": 0.58,
    "neta": 0.08,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794962058750,
-   "titulo": "United States vs. Haiti - Halftime Result",
-   "dur": 5.384,
-   "gan": 1.51,
-   "neta": 0.38,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794961233970,
-   "titulo": "United States vs. Haiti",
-   "dur": 27.552,
-   "gan": 1.91,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794960073891,
-   "titulo": "Lowest temperature in Karachi on November 18?",
-   "dur": 0.544,
-   "gan": 1.35,
-   "neta": 1.13,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794959429057,
-   "titulo": "Uruguay vs. Dominican Republic",
-   "dur": 0.28,
-   "gan": 5.36,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794959387613,
-   "titulo": "Uruguay vs. Dominican Republic",
-   "dur": 0.107,
-   "gan": 6.02,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794959387131,
-   "titulo": "Uruguay vs. Dominican Republic",
-   "dur": 0.458,
-   "gan": 6.02,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794959387081,
-   "titulo": "Uruguay vs. Dominican Republic",
-   "dur": 0.021,
-   "gan": 6.01,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794959386522,
-   "titulo": "Uruguay vs. Dominican Republic",
-   "dur": 0.533,
-   "gan": 6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794959067572,
-   "titulo": "Uruguay vs. Dominican Republic",
-   "dur": 0.502,
-   "gan": 0.66,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794959013231,
-   "titulo": "Uruguay vs. Dominican Republic",
-   "dur": 0.329,
-   "gan": 2.29,
-   "neta": 0,
    "lado": "si"
   }
  ]
