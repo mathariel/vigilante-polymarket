@@ -1,84 +1,84 @@
 {
- "actualizado": 1795037361538,
+ "actualizado": 1795040385880,
  "inicio": 1794171916081,
  "ejecucion": {
-  "inicio": 1795034361191,
-  "fin": 1795037361538,
-  "mensajes": 11198080,
-  "reconexiones": 5,
-  "eventos": 536,
+  "inicio": 1795037385639,
+  "fin": 1795040385880,
+  "mensajes": 8990038,
+  "reconexiones": 1,
+  "eventos": 545,
   "errores": [],
-  "nuevos": 15,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 28,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.04
  },
- "total": 5430,
- "falsos": 2511,
+ "total": 5448,
+ "falsos": 2527,
  "largos": {
-  "episodios": 21522,
+  "episodios": 21527,
   "eventos": 189,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1623,
+  "episodios": 1587,
   "eventos": 35
  },
  "mediana": 0.575,
  "captura": [
   {
    "s": 0.5,
-   "n": 2853,
-   "gan": 6495.42,
-   "nNeta": 789,
-   "neta": 1266.64
+   "n": 2862,
+   "gan": 6520.12,
+   "nNeta": 791,
+   "neta": 1281.49
   },
   {
    "s": 2,
-   "n": 1556,
-   "gan": 3394.33,
-   "nNeta": 384,
-   "neta": 582.33
+   "n": 1563,
+   "gan": 3399.84,
+   "nNeta": 385,
+   "neta": 582.37
   },
   {
    "s": 5,
-   "n": 1032,
-   "gan": 2056.27,
-   "nNeta": 214,
-   "neta": 268.29
+   "n": 1035,
+   "gan": 2058.94,
+   "nNeta": 215,
+   "neta": 268.33
   },
   {
    "s": 30,
-   "n": 477,
-   "gan": 877.94,
-   "nNeta": 50,
-   "neta": 20.05
+   "n": 478,
+   "gan": 878.51,
+   "nNeta": 51,
+   "neta": 20.09
   }
  ],
- "rentables": 1602,
+ "rentables": 1604,
  "porCapital": [
   {
    "capital": 500,
    "ops": 80,
-   "descartadas": 333,
+   "descartadas": 334,
    "neta": 158.17,
-   "dias": 9.99,
-   "semana": 110.82
+   "dias": 10.01,
+   "semana": 110.61
   },
   {
    "capital": 1000,
    "ops": 99,
-   "descartadas": 333,
+   "descartadas": 334,
    "neta": 256.48,
-   "dias": 9.99,
-   "semana": 179.7
+   "dias": 10.01,
+   "semana": 179.35
   },
   {
    "capital": 2000,
    "ops": 104,
-   "descartadas": 333,
+   "descartadas": 334,
    "neta": 354.97,
-   "dias": 9.99,
-   "semana": 248.71
+   "dias": 10.01,
+   "semana": 248.22
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 3,
-   "horas": 62.5,
-   "episodios": 1439,
-   "sospechosas": 8,
-   "realistaNeta": 109.79,
+   "horas": 63.3,
+   "episodios": 1467,
+   "sospechosas": 11,
+   "realistaNeta": 109.83,
    "capital": {
     "500": 20.45,
     "1000": 29.6,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 64,
+  "n": 67,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,37 +236,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5366,
-  "n": 1957,
-  "gan": 3822.64,
-  "nNeta": 441,
-  "neta": 575.04
+  "conDato": 5381,
+  "n": 1964,
+  "gan": 3828.34,
+  "nNeta": 442,
+  "neta": 575.08
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1366
+   "n": 1368
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1922
+   "n": 1932
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1103
+   "n": 1106
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 555
+   "n": 557
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 363
+   "n": 364
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794758400000,
-   "n": 19
-  },
   {
    "h": 1794762000000,
    "n": 26
@@ -633,129 +629,133 @@
   },
   {
    "h": 1795035600000,
-   "n": 13
+   "n": 39
+  },
+  {
+   "h": 1795039200000,
+   "n": 2
   }
  ],
  "recientes": [
   {
-   "inicio": 1795037135540,
-   "titulo": "Chelsea FC vs. Paris Saint-Germain FC",
-   "dur": 1.82,
-   "gan": 8.19,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795036428967,
+   "inicio": 1795039254494,
    "titulo": "Club Alianza Atlético vs. FBC Melgar",
-   "dur": 0.186,
-   "gan": 0.54,
+   "dur": 0.507,
+   "gan": 0.72,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795036144988,
-   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
-   "dur": 74.094,
-   "gan": 0.54,
-   "neta": 0,
+   "inicio": 1795039228080,
+   "titulo": "Lowest temperature in Hong Kong on November 20?",
+   "dur": 0.324,
+   "gan": 0.53,
+   "neta": 0.08,
    "lado": "no"
   },
   {
-   "inicio": 1795035698644,
-   "titulo": "Coritiba FBC vs. Santos FC",
-   "dur": 505.679,
+   "inicio": 1795039142307,
+   "titulo": "Club Alianza Atlético vs. FBC Melgar",
+   "dur": 2.451,
    "gan": 0.5,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795036015008,
-   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
-   "dur": 129.834,
-   "gan": 0.56,
+   "inicio": 1795039092897,
+   "titulo": "Club Alianza Atlético vs. FBC Melgar",
+   "dur": 6.76,
+   "gan": 0.54,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795036144395,
-   "titulo": "CD Minera vs. FC Cartagena",
-   "dur": 1.013,
-   "gan": 3.8,
-   "neta": 0.37,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795036013086,
-   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
-   "dur": 1.778,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795035945988,
-   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
-   "dur": 67.042,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795035820327,
-   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
-   "dur": 125.558,
+   "inicio": 1795038948716,
+   "titulo": "Club Alianza Atlético vs. FBC Melgar",
+   "dur": 0.189,
    "gan": 0.59,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795035815824,
-   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
-   "dur": 4.464,
+   "inicio": 1795038945229,
+   "titulo": "Club Alianza Atlético vs. FBC Melgar",
+   "dur": 1.816,
+   "gan": 0.71,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795038945125,
+   "titulo": "Club Alianza Atlético vs. FBC Melgar",
+   "dur": 0.091,
+   "gan": 0.81,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795038942895,
+   "titulo": "Club Alianza Atlético vs. FBC Melgar",
+   "dur": 2.221,
    "gan": 0.51,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795035722684,
-   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
-   "dur": 36.161,
-   "gan": 0.51,
+   "inicio": 1795038919607,
+   "titulo": "Club Alianza Atlético vs. FBC Melgar",
+   "dur": 0.361,
+   "gan": 0.58,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795035707988,
-   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
-   "dur": 13.095,
-   "gan": 0.68,
+   "inicio": 1795038919407,
+   "titulo": "Club Alianza Atlético vs. FBC Melgar",
+   "dur": 0.025,
+   "gan": 0.53,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795035685598,
-   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
-   "dur": 22.354,
-   "gan": 0.54,
+   "inicio": 1795038793133,
+   "titulo": "Club Alianza Atlético vs. FBC Melgar",
+   "dur": 0.147,
+   "gan": 0.57,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795035543192,
-   "titulo": "Reus FC Reddis vs. Barakaldo CF",
-   "dur": 1.77,
-   "gan": 1.15,
-   "neta": 0.99,
-   "lado": "no"
+   "inicio": 1795038784605,
+   "titulo": "Club Alianza Atlético vs. FBC Melgar",
+   "dur": 0.499,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
   },
   {
-   "inicio": 1795035542281,
-   "titulo": "Reus FC Reddis vs. Barakaldo CF",
-   "dur": 0.494,
-   "gan": 0.5,
-   "neta": 0.34,
-   "lado": "no"
+   "inicio": 1795038757390,
+   "titulo": "Club Alianza Atlético vs. FBC Melgar",
+   "dur": 0.687,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795038757347,
+   "titulo": "Club Alianza Atlético vs. FBC Melgar",
+   "dur": 0.026,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795038743102,
+   "titulo": "Club Alianza Atlético vs. FBC Melgar",
+   "dur": 0.004,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "si"
   }
  ]
 }
