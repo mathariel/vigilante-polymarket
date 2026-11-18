@@ -1,50 +1,50 @@
 {
- "actualizado": 1794992108528,
+ "actualizado": 1794995124023,
  "inicio": 1794150879885,
  "ejecucion": {
-  "inicio": 1794989108191,
-  "fin": 1794992108528,
-  "mensajes": 7620325,
-  "reconexiones": 0,
-  "eventos": 505,
+  "inicio": 1794992123698,
+  "fin": 1794995124023,
+  "mensajes": 7727232,
+  "reconexiones": 1,
+  "eventos": 509,
   "errores": [],
-  "nuevos": 3,
-  "nuevosRentables": 1,
-  "nuevosNeta": 3.07
+  "nuevos": 2,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5890,
- "falsos": 2600,
+ "total": 5836,
+ "falsos": 2592,
  "largos": {
-  "episodios": 20762,
-  "eventos": 183,
+  "episodios": 20831,
+  "eventos": 185,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1758,
+  "episodios": 1757,
   "eventos": 36
  },
- "mediana": 0.516,
+ "mediana": 0.519,
  "captura": [
   {
    "s": 0.5,
-   "n": 2994,
-   "gan": 7314.99,
-   "nNeta": 790,
-   "neta": 1543.09
+   "n": 2974,
+   "gan": 7291.62,
+   "nNeta": 779,
+   "neta": 1534.36
   },
   {
    "s": 2,
-   "n": 1519,
-   "gan": 3663.09,
-   "nNeta": 310,
-   "neta": 673.38
+   "n": 1512,
+   "gan": 3656.38,
+   "nNeta": 307,
+   "neta": 671.5
   },
   {
    "s": 5,
-   "n": 950,
-   "gan": 2103.07,
-   "nNeta": 122,
-   "neta": 279.22
+   "n": 947,
+   "gan": 2100.91,
+   "nNeta": 121,
+   "neta": 279.1
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 34.55
   }
  ],
- "rentables": 1734,
+ "rentables": 1692,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 87,
-   "descartadas": 258,
-   "neta": 165.91,
-   "dias": 9.71,
-   "semana": 119.58
+   "ops": 84,
+   "descartadas": 254,
+   "neta": 163.93,
+   "dias": 9.73,
+   "semana": 117.93
   },
   {
    "capital": 1000,
-   "ops": 107,
-   "descartadas": 258,
-   "neta": 270.52,
-   "dias": 9.71,
-   "semana": 194.98
+   "ops": 104,
+   "descartadas": 254,
+   "neta": 269.54,
+   "dias": 9.73,
+   "semana": 193.91
   },
   {
    "capital": 2000,
-   "ops": 114,
-   "descartadas": 258,
-   "neta": 379.96,
-   "dias": 9.71,
-   "semana": 273.86
+   "ops": 111,
+   "descartadas": 254,
+   "neta": 378.09,
+   "dias": 9.73,
+   "semana": 272
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 3,
-   "horas": 50,
-   "episodios": 1284,
+   "horas": 50.8,
+   "episodios": 1286,
    "sospechosas": 6,
    "realistaNeta": 96.47,
    "capital": {
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5819,
-  "n": 1947,
-  "gan": 4144.39,
-  "nNeta": 378,
-  "neta": 671.11
+  "conDato": 5765,
+  "n": 1937,
+  "gan": 4137.35,
+  "nNeta": 372,
+  "neta": 668.37
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1503
+   "n": 1498
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2205
+   "n": 2171
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1224
+   "n": 1212
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 482
+   "n": 479
   },
   {
    "et": "30 s–5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794718800000,
-   "n": 6
-  },
   {
    "h": 1794722400000,
    "n": 27
@@ -634,9 +630,29 @@
   {
    "h": 1794988800000,
    "n": 3
+  },
+  {
+   "h": 1794992400000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794994178200,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 1.178,
+   "gan": 2.2,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794994116604,
+   "titulo": "AFC Eskilstuna vs. Enkopings SK",
+   "dur": 0.02,
+   "gan": 7.09,
+   "neta": 3.57,
+   "lado": "si"
+  },
   {
    "inicio": 1794991234205,
    "titulo": "Donald Trump # Truth Social posts November 17 - November 24, 2026?",
@@ -738,22 +754,6 @@
    "titulo": "Nicaragua vs. Montserrat",
    "dur": 0.017,
    "gan": 0.56,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794970945528,
-   "titulo": "Nicaragua vs. Montserrat",
-   "dur": 0.044,
-   "gan": 0.72,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794970945128,
-   "titulo": "Nicaragua vs. Montserrat",
-   "dur": 0.297,
-   "gan": 0.88,
    "neta": 0,
    "lado": "no"
   }
