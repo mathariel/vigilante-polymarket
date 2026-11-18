@@ -1,50 +1,50 @@
 {
- "actualizado": 1795025289382,
+ "actualizado": 1795028304593,
  "inicio": 1794168965215,
  "ejecucion": {
-  "inicio": 1795022289082,
-  "fin": 1795025289382,
-  "mensajes": 8583088,
-  "reconexiones": 0,
-  "eventos": 528,
+  "inicio": 1795025304348,
+  "fin": 1795028304593,
+  "mensajes": 9632808,
+  "reconexiones": 1,
+  "eventos": 530,
   "errores": [],
-  "nuevos": 3,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 86,
+  "nuevosRentables": 84,
+  "nuevosNeta": 11.09
  },
- "total": 5338,
- "falsos": 2524,
+ "total": 5405,
+ "falsos": 2510,
  "largos": {
-  "episodios": 21458,
+  "episodios": 21421,
   "eventos": 187,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1751,
-  "eventos": 36
+  "episodios": 1739,
+  "eventos": 35
  },
- "mediana": 0.535,
+ "mediana": 0.563,
  "captura": [
   {
    "s": 0.5,
-   "n": 2748,
-   "gan": 6502.65,
-   "nNeta": 684,
-   "neta": 1257.29
+   "n": 2821,
+   "gan": 6488.11,
+   "nNeta": 765,
+   "neta": 1262.29
   },
   {
    "s": 2,
-   "n": 1442,
-   "gan": 3317.76,
-   "nNeta": 280,
-   "neta": 568.91
+   "n": 1525,
+   "gan": 3379.59,
+   "nNeta": 362,
+   "neta": 579.96
   },
   {
    "s": 5,
-   "n": 921,
-   "gan": 1977.68,
-   "nNeta": 113,
-   "neta": 255.84
+   "n": 1002,
+   "gan": 2036.36,
+   "nNeta": 193,
+   "neta": 266.06
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 19.76
   }
  ],
- "rentables": 1504,
+ "rentables": 1583,
  "porCapital": [
   {
    "capital": 500,
    "ops": 80,
-   "descartadas": 228,
+   "descartadas": 311,
    "neta": 158.17,
-   "dias": 9.88,
-   "semana": 112.08
+   "dias": 9.9,
+   "semana": 111.85
   },
   {
    "capital": 1000,
    "ops": 99,
-   "descartadas": 228,
+   "descartadas": 311,
    "neta": 256.48,
-   "dias": 9.88,
-   "semana": 181.74
+   "dias": 9.9,
+   "semana": 181.36
   },
   {
    "capital": 2000,
    "ops": 104,
-   "descartadas": 228,
+   "descartadas": 311,
    "neta": 354.97,
-   "dias": 9.88,
-   "semana": 251.53
+   "dias": 9.9,
+   "semana": 251.01
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 3,
-   "horas": 59.2,
-   "episodios": 1300,
+   "horas": 60,
+   "episodios": 1386,
    "sospechosas": 7,
-   "realistaNeta": 96.47,
+   "realistaNeta": 107.56,
    "capital": {
     "500": 20.45,
     "1000": 29.6,
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5272,
-  "n": 1841,
-  "gan": 3753.95,
-  "nNeta": 336,
-  "neta": 561.74
+  "conDato": 5339,
+  "n": 1925,
+  "gan": 3816.21,
+  "nNeta": 419,
+  "neta": 572.81
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1375
+   "n": 1372
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1933
+   "n": 1923
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1102
+   "n": 1101
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 454
+   "n": 535
   },
   {
    "et": "30 s–5 min",
@@ -332,25 +332,21 @@
    "mediana": 0.406
   },
   {
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
+   "n": 91,
+   "gan": 67.62,
+   "neta": 14.82,
+   "mediana": 9.434
+  },
+  {
    "titulo": "Club Aurora vs. FC Universitario",
    "n": 86,
    "gan": 175.62,
    "neta": 66.75,
    "mediana": 0.177
-  },
-  {
-   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
-   "n": 85,
-   "gan": 231.43,
-   "neta": 0.44,
-   "mediana": 0.115
   }
  ],
  "porHora": [
-  {
-   "h": 1794744000000,
-   "n": 4
-  },
   {
    "h": 1794747600000,
    "n": 6
@@ -634,127 +630,131 @@
   {
    "h": 1795021200000,
    "n": 3
+  },
+  {
+   "h": 1795024800000,
+   "n": 86
   }
  ],
  "recientes": [
   {
-   "inicio": 1795024423268,
-   "titulo": "Real Madrid CF Femenino vs. FC Internazionale Milano",
-   "dur": 1.046,
-   "gan": 6.67,
-   "neta": 3.5,
+   "inicio": 1795026984134,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
+   "dur": 2.174,
+   "gan": 0.7,
+   "neta": 0.11,
    "lado": "si"
   },
   {
-   "inicio": 1795024422080,
-   "titulo": "Real Madrid CF Femenino vs. FC Internazionale Milano",
-   "dur": 1.116,
-   "gan": 0.57,
-   "neta": 0.15,
+   "inicio": 1795026962531,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
+   "dur": 15.414,
+   "gan": 0.52,
+   "neta": 0.06,
    "lado": "si"
   },
   {
-   "inicio": 1795024421970,
-   "titulo": "Real Madrid CF Femenino vs. FC Internazionale Milano",
-   "dur": 0.019,
-   "gan": 0.57,
-   "neta": 0.21,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795013994479,
-   "titulo": "Highest temperature in Busan on November 19?",
-   "dur": 0.017,
-   "gan": 0.56,
-   "neta": 0.37,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795013651090,
-   "titulo": "Highest temperature in Seattle on November 18?",
-   "dur": 0.083,
-   "gan": 20.72,
-   "neta": 18.76,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795011549988,
-   "titulo": "Elon Musk # tweets November 16 - November 18, 2026?",
-   "dur": 11.921,
-   "gan": 0.96,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795007836794,
-   "titulo": "Jean-Michel Basquiat's “Untitled (Leonardo and His Five Grotesque Heads)” Sale Price",
-   "dur": 1.73,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795004399200,
-   "titulo": "Juventus FC vs. Oud-Heverlee Leuven Women",
-   "dur": 0.078,
+   "inicio": 1795026935918,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
+   "dur": 9.437,
    "gan": 0.89,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795003284464,
-   "titulo": "Highest temperature in Paris on November 18?",
-   "dur": 0.088,
-   "gan": 5.73,
-   "neta": 5.04,
+   "neta": 0.19,
    "lado": "si"
   },
   {
-   "inicio": 1795002550691,
-   "titulo": "Test Match: South Africa vs Bangladesh",
-   "dur": 2.161,
-   "gan": 4.04,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795026920410,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
+   "dur": 9.282,
+   "gan": 0.7,
+   "neta": 0.11,
+   "lado": "si"
   },
   {
-   "inicio": 1795001081382,
-   "titulo": "Donald Trump # Truth Social posts November 17 - November 24, 2026?",
-   "dur": 60.599,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795026900101,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
+   "dur": 14.183,
+   "gan": 0.52,
+   "neta": 0.06,
+   "lado": "si"
   },
   {
-   "inicio": 1794996989964,
-   "titulo": "Test Match: South Africa vs Bangladesh",
-   "dur": 10.04,
-   "gan": 2.96,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795026874178,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
+   "dur": 9.192,
+   "gan": 0.89,
+   "neta": 0.19,
+   "lado": "si"
   },
   {
-   "inicio": 1794996642689,
-   "titulo": "Test Match: South Africa vs Bangladesh",
-   "dur": 1.13,
-   "gan": 0.8,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795026859481,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
+   "dur": 8.401,
+   "gan": 0.7,
+   "neta": 0.11,
+   "lado": "si"
   },
   {
-   "inicio": 1794996616561,
-   "titulo": "Test Match: South Africa vs Bangladesh",
-   "dur": 5.313,
-   "gan": 5.38,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795026838488,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
+   "dur": 14.843,
+   "gan": 0.52,
+   "neta": 0.06,
+   "lado": "si"
   },
   {
-   "inicio": 1794994178200,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 1.178,
-   "gan": 2.2,
-   "neta": 0,
+   "inicio": 1795026812545,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
+   "dur": 9.695,
+   "gan": 0.89,
+   "neta": 0.19,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795026797059,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
+   "dur": 9.34,
+   "gan": 0.7,
+   "neta": 0.11,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795026776306,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
+   "dur": 14.433,
+   "gan": 0.52,
+   "neta": 0.06,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795026750129,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
+   "dur": 9.436,
+   "gan": 0.89,
+   "neta": 0.19,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795026734767,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
+   "dur": 9.16,
+   "gan": 0.7,
+   "neta": 0.11,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795026714280,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
+   "dur": 14.37,
+   "gan": 0.52,
+   "neta": 0.06,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795026688722,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
+   "dur": 8.462,
+   "gan": 0.89,
+   "neta": 0.19,
    "lado": "si"
   }
  ]
