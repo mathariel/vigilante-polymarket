@@ -1,84 +1,84 @@
 {
- "actualizado": 1794998139526,
+ "actualizado": 1795001155414,
  "inicio": 1794153842100,
  "ejecucion": {
-  "inicio": 1794995139197,
-  "fin": 1794998139526,
-  "mensajes": 8181756,
+  "inicio": 1794998155073,
+  "fin": 1795001155414,
+  "mensajes": 8715990,
   "reconexiones": 3,
-  "eventos": 516,
+  "eventos": 520,
   "errores": [],
-  "nuevos": 3,
+  "nuevos": 1,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5803,
- "falsos": 2590,
+ "total": 5756,
+ "falsos": 2582,
  "largos": {
-  "episodios": 20873,
-  "eventos": 185,
+  "episodios": 20936,
+  "eventos": 186,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1757,
+  "episodios": 1755,
   "eventos": 36
  },
- "mediana": 0.518,
+ "mediana": 0.52,
  "captura": [
   {
    "s": 0.5,
-   "n": 2954,
-   "gan": 7217.71,
-   "nNeta": 766,
-   "neta": 1490.4
+   "n": 2937,
+   "gan": 7193.06,
+   "nNeta": 762,
+   "neta": 1488.75
   },
   {
    "s": 2,
-   "n": 1505,
-   "gan": 3645.22,
-   "nNeta": 302,
-   "neta": 666.57
+   "n": 1501,
+   "gan": 3636.22,
+   "nNeta": 301,
+   "neta": 664.36
   },
   {
    "s": 5,
    "n": 946,
-   "gan": 2099.75,
+   "gan": 2099.68,
    "nNeta": 119,
    "neta": 278.06
   },
   {
    "s": 30,
-   "n": 468,
-   "gan": 888.96,
+   "n": 469,
+   "gan": 889.52,
    "nNeta": 48,
    "neta": 34.55
   }
  ],
- "rentables": 1673,
+ "rentables": 1662,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 84,
+   "ops": 83,
    "descartadas": 249,
-   "neta": 163.93,
-   "dias": 9.75,
-   "semana": 117.72
+   "neta": 162.01,
+   "dias": 9.77,
+   "semana": 116.1
   },
   {
    "capital": 1000,
-   "ops": 104,
+   "ops": 103,
    "descartadas": 249,
-   "neta": 269.54,
-   "dias": 9.75,
-   "semana": 193.55
+   "neta": 268.08,
+   "dias": 9.77,
+   "semana": 192.11
   },
   {
    "capital": 2000,
-   "ops": 111,
+   "ops": 110,
    "descartadas": 249,
-   "neta": 378.09,
-   "dias": 9.75,
-   "semana": 271.5
+   "neta": 376.22,
+   "dias": 9.77,
+   "semana": 269.6
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 3,
-   "horas": 51.7,
-   "episodios": 1289,
+   "horas": 52.5,
+   "episodios": 1290,
    "sospechosas": 6,
    "realistaNeta": 96.47,
    "capital": {
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 70,
+  "n": 69,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,37 +236,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5733,
-  "n": 1929,
-  "gan": 4122.9,
-  "nNeta": 367,
-  "neta": 663.44
+  "conDato": 5687,
+  "n": 1925,
+  "gan": 4113.9,
+  "nNeta": 366,
+  "neta": 661.23
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1493
+   "n": 1480
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2154
+   "n": 2125
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1202
+   "n": 1197
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 478
+   "n": 477
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 353
+   "n": 354
   },
   {
    "et": "> 5 min",
@@ -297,18 +297,18 @@
    "mediana": 0.132
   },
   {
-   "titulo": "Manchester United FC vs. Aston Villa FC",
-   "n": 143,
-   "gan": 390.23,
-   "neta": 155.61,
-   "mediana": 0.331
-  },
-  {
    "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
    "n": 139,
    "gan": 88.39,
    "neta": 0,
    "mediana": 0.827
+  },
+  {
+   "titulo": "Manchester United FC vs. Aston Villa FC",
+   "n": 134,
+   "gan": 376.76,
+   "neta": 155.61,
+   "mediana": 0.314
   },
   {
    "titulo": "Target Q3 comparable sales growth?",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794726000000,
-   "n": 3
-  },
   {
    "h": 1794729600000,
    "n": 2
@@ -634,9 +630,21 @@
   {
    "h": 1794996000000,
    "n": 3
+  },
+  {
+   "h": 1794999600000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795001081382,
+   "titulo": "Donald Trump # Truth Social posts November 17 - November 24, 2026?",
+   "dur": 60.599,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794996989964,
    "titulo": "Test Match: South Africa vs Bangladesh",
@@ -747,14 +755,6 @@
    "dur": 47.732,
    "gan": 1.49,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794972416343,
-   "titulo": "Highest temperature in Singapore on November 18?",
-   "dur": 0.017,
-   "gan": 0.88,
-   "neta": 0.28,
    "lado": "si"
   }
  ]
