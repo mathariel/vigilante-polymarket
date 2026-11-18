@@ -1,21 +1,21 @@
 {
- "actualizado": 1794977029469,
- "inicio": 1794144493295,
+ "actualizado": 1794980044339,
+ "inicio": 1794147769972,
  "ejecucion": {
-  "inicio": 1794974029131,
-  "fin": 1794977029469,
-  "mensajes": 8497789,
+  "inicio": 1794977043966,
+  "fin": 1794980044339,
+  "mensajes": 7979470,
   "reconexiones": 0,
-  "eventos": 496,
+  "eventos": 497,
   "errores": [],
-  "nuevos": 2,
+  "nuevos": 1,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6027,
- "falsos": 2644,
+ "total": 6002,
+ "falsos": 2650,
  "largos": {
-  "episodios": 20558,
+  "episodios": 20583,
   "eventos": 183,
   "dias": 7
  },
@@ -23,12 +23,12 @@
   "episodios": 1759,
   "eventos": 36
  },
- "mediana": 0.514,
+ "mediana": 0.517,
  "captura": [
   {
    "s": 0.5,
-   "n": 3056,
-   "gan": 7550.8,
+   "n": 3052,
+   "gan": 7546.64,
    "nNeta": 811,
    "neta": 1587.46
   },
@@ -54,31 +54,31 @@
    "neta": 34.55
   }
  ],
- "rentables": 1768,
+ "rentables": 1769,
  "porCapital": [
   {
    "capital": 500,
    "ops": 84,
    "descartadas": 258,
    "neta": 164.32,
-   "dias": 9.59,
-   "semana": 119.96
+   "dias": 9.62,
+   "semana": 119.53
   },
   {
    "capital": 1000,
    "ops": 108,
    "descartadas": 258,
    "neta": 270.67,
-   "dias": 9.59,
-   "semana": 197.6
+   "dias": 9.62,
+   "semana": 196.89
   },
   {
    "capital": 2000,
    "ops": 116,
    "descartadas": 258,
    "neta": 381.48,
-   "dias": 9.59,
-   "semana": 278.5
+   "dias": 9.62,
+   "semana": 277.49
   }
  ],
  "maxBloqueoH": 24,
@@ -114,9 +114,9 @@
   },
   {
    "lunes": "2026-11-16",
-   "dias": 2,
-   "horas": 45.8,
-   "episodios": 1277,
+   "dias": 3,
+   "horas": 46.7,
+   "episodios": 1278,
    "sospechosas": 6,
    "realistaNeta": 93.4,
    "capital": {
@@ -236,7 +236,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5951,
+  "conDato": 5926,
   "n": 1975,
   "gan": 4236.66,
   "nNeta": 382,
@@ -246,12 +246,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1539
+   "n": 1528
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2273
+   "n": 2259
   },
   {
    "et": "1–5 s",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794704400000,
-   "n": 18
-  },
   {
    "h": 1794708000000,
    "n": 11
@@ -634,9 +630,21 @@
   {
    "h": 1794974400000,
    "n": 2
+  },
+  {
+   "h": 1794978000000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794979770936,
+   "titulo": "Highest temperature in Shenzhen on November 18?",
+   "dur": 0.006,
+   "gan": 2.63,
+   "neta": 1.57,
+   "lado": "si"
+  },
   {
    "inicio": 1794977028975,
    "titulo": "Nicaragua vs. Montserrat",
@@ -748,14 +756,6 @@
    "gan": 0.51,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1794970559467,
-   "titulo": "Mexico vs. Jamaica",
-   "dur": 0.135,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "si"
   }
  ]
 }
