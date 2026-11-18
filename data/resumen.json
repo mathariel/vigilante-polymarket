@@ -1,84 +1,84 @@
 {
- "actualizado": 1794989093364,
- "inicio": 1794147769972,
+ "actualizado": 1794992108528,
+ "inicio": 1794150879885,
  "ejecucion": {
-  "inicio": 1794986093010,
-  "fin": 1794989093364,
-  "mensajes": 7332215,
+  "inicio": 1794989108191,
+  "fin": 1794992108528,
+  "mensajes": 7620325,
   "reconexiones": 0,
-  "eventos": 500,
+  "eventos": 505,
   "errores": [],
-  "nuevos": 1,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 3,
+  "nuevosRentables": 1,
+  "nuevosNeta": 3.07
  },
- "total": 5959,
- "falsos": 2640,
+ "total": 5890,
+ "falsos": 2600,
  "largos": {
-  "episodios": 20648,
-  "eventos": 182,
+  "episodios": 20762,
+  "eventos": 183,
   "dias": 7
  },
  "enEspera": {
   "episodios": 1758,
   "eventos": 36
  },
- "mediana": 0.518,
+ "mediana": 0.516,
  "captura": [
   {
    "s": 0.5,
-   "n": 3033,
-   "gan": 7491.82,
-   "nNeta": 806,
-   "neta": 1568.21
+   "n": 2994,
+   "gan": 7314.99,
+   "nNeta": 790,
+   "neta": 1543.09
   },
   {
    "s": 2,
-   "n": 1534,
-   "gan": 3726.61,
-   "nNeta": 312,
-   "neta": 677.7
+   "n": 1519,
+   "gan": 3663.09,
+   "nNeta": 310,
+   "neta": 673.38
   },
   {
    "s": 5,
-   "n": 956,
-   "gan": 2128.74,
-   "nNeta": 123,
-   "neta": 279.26
+   "n": 950,
+   "gan": 2103.07,
+   "nNeta": 122,
+   "neta": 279.22
   },
   {
    "s": 30,
-   "n": 466,
-   "gan": 887.86,
+   "n": 468,
+   "gan": 888.96,
    "nNeta": 48,
    "neta": 34.55
   }
  ],
- "rentables": 1757,
+ "rentables": 1734,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 83,
+   "ops": 87,
    "descartadas": 258,
-   "neta": 164.11,
-   "dias": 9.7,
-   "semana": 118.46
+   "neta": 165.91,
+   "dias": 9.71,
+   "semana": 119.58
   },
   {
    "capital": 1000,
-   "ops": 108,
+   "ops": 107,
    "descartadas": 258,
-   "neta": 270.23,
-   "dias": 9.7,
-   "semana": 195.06
+   "neta": 270.52,
+   "dias": 9.71,
+   "semana": 194.98
   },
   {
    "capital": 2000,
-   "ops": 115,
+   "ops": 114,
    "descartadas": 258,
-   "neta": 381.02,
-   "dias": 9.7,
-   "semana": 275.03
+   "neta": 379.96,
+   "dias": 9.71,
+   "semana": 273.86
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 3,
-   "horas": 49.2,
-   "episodios": 1281,
+   "horas": 50,
+   "episodios": 1284,
    "sospechosas": 6,
-   "realistaNeta": 93.4,
+   "realistaNeta": 96.47,
    "capital": {
     "500": 20.45,
     "1000": 29.6,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 73,
+  "n": 71,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,42 +236,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5886,
-  "n": 1966,
-  "gan": 4217.3,
-  "nNeta": 381,
-  "neta": 676.59
+  "conDato": 5819,
+  "n": 1947,
+  "gan": 4144.39,
+  "nNeta": 378,
+  "neta": 671.11
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1516
+   "n": 1503
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2238
+   "n": 2205
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1241
+   "n": 1224
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 490
+   "n": 482
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 352
+   "n": 353
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 114
+   "n": 115
   }
  ],
  "porEvento": [
@@ -298,10 +298,10 @@
   },
   {
    "titulo": "Manchester United FC vs. Aston Villa FC",
-   "n": 152,
-   "gan": 412.16,
+   "n": 149,
+   "gan": 402.39,
    "neta": 155.7,
-   "mediana": 0.377
+   "mediana": 0.353
   },
   {
    "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794715200000,
-   "n": 2
-  },
   {
    "h": 1794718800000,
    "n": 6
@@ -634,9 +630,37 @@
   {
    "h": 1794985200000,
    "n": 1
+  },
+  {
+   "h": 1794988800000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794991234205,
+   "titulo": "Donald Trump # Truth Social posts November 17 - November 24, 2026?",
+   "dur": 873.989,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794991021893,
+   "titulo": "Donald Trump # Truth Social posts November 17 - November 24, 2026?",
+   "dur": 212.205,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794990844789,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 2.037,
+   "gan": 15,
+   "neta": 3.77,
+   "lado": "no"
+  },
   {
    "inicio": 1794988416887,
    "titulo": "Test Match: South Africa vs Bangladesh",
@@ -730,30 +754,6 @@
    "titulo": "Nicaragua vs. Montserrat",
    "dur": 0.297,
    "gan": 0.88,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794970943057,
-   "titulo": "Nicaragua vs. Montserrat",
-   "dur": 1.913,
-   "gan": 1.75,
-   "neta": 0.41,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794970923392,
-   "titulo": "Nicaragua vs. Montserrat",
-   "dur": 2.478,
-   "gan": 0.69,
-   "neta": 0.11,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794970919054,
-   "titulo": "Nicaragua vs. Montserrat",
-   "dur": 0.042,
-   "gan": 0.51,
    "neta": 0,
    "lado": "no"
   }
