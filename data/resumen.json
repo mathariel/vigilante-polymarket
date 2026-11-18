@@ -1,84 +1,84 @@
 {
- "actualizado": 1794974015183,
+ "actualizado": 1794977029469,
  "inicio": 1794144493295,
  "ejecucion": {
-  "inicio": 1794971014942,
-  "fin": 1794974015183,
-  "mensajes": 9067413,
-  "reconexiones": 1,
-  "eventos": 483,
+  "inicio": 1794974029131,
+  "fin": 1794977029469,
+  "mensajes": 8497789,
+  "reconexiones": 0,
+  "eventos": 496,
   "errores": [],
   "nuevos": 2,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6059,
- "falsos": 2649,
+ "total": 6027,
+ "falsos": 2644,
  "largos": {
-  "episodios": 20511,
-  "eventos": 182,
+  "episodios": 20558,
+  "eventos": 183,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1760,
+  "episodios": 1759,
   "eventos": 36
  },
  "mediana": 0.514,
  "captura": [
   {
    "s": 0.5,
-   "n": 3071,
-   "gan": 7620.95,
-   "nNeta": 816,
-   "neta": 1597.28
+   "n": 3056,
+   "gan": 7550.8,
+   "nNeta": 811,
+   "neta": 1587.46
   },
   {
    "s": 2,
-   "n": 1547,
-   "gan": 3752.78,
-   "nNeta": 316,
-   "neta": 687.08
+   "n": 1541,
+   "gan": 3732.93,
+   "nNeta": 313,
+   "neta": 678.16
   },
   {
    "s": 5,
-   "n": 961,
-   "gan": 2140.95,
-   "nNeta": 127,
-   "neta": 288.64
+   "n": 959,
+   "gan": 2132.34,
+   "nNeta": 124,
+   "neta": 279.72
   },
   {
    "s": 30,
-   "n": 468,
-   "gan": 896.47,
-   "nNeta": 51,
-   "neta": 43.47
+   "n": 466,
+   "gan": 887.86,
+   "nNeta": 48,
+   "neta": 34.55
   }
  ],
- "rentables": 1775,
+ "rentables": 1768,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 90,
-   "descartadas": 259,
-   "neta": 172.15,
-   "dias": 9.58,
-   "semana": 125.73
+   "ops": 84,
+   "descartadas": 258,
+   "neta": 164.32,
+   "dias": 9.59,
+   "semana": 119.96
   },
   {
    "capital": 1000,
-   "ops": 110,
-   "descartadas": 259,
-   "neta": 276.43,
-   "dias": 9.58,
-   "semana": 201.89
+   "ops": 108,
+   "descartadas": 258,
+   "neta": 270.67,
+   "dias": 9.59,
+   "semana": 197.6
   },
   {
    "capital": 2000,
-   "ops": 120,
-   "descartadas": 259,
-   "neta": 391.08,
-   "dias": 9.58,
-   "semana": 285.63
+   "ops": 116,
+   "descartadas": 258,
+   "neta": 381.48,
+   "dias": 9.59,
+   "semana": 278.5
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 45,
-   "episodios": 1275,
+   "horas": 45.8,
+   "episodios": 1277,
    "sospechosas": 6,
    "realistaNeta": 93.4,
    "capital": {
@@ -236,27 +236,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5983,
-  "n": 1983,
-  "gan": 4269.67,
-  "nNeta": 387,
-  "neta": 686.87
+  "conDato": 5951,
+  "n": 1975,
+  "gan": 4236.66,
+  "nNeta": 382,
+  "neta": 677.05
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1547
+   "n": 1539
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2285
+   "n": 2273
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1258
+   "n": 1248
   },
   {
    "et": "5–30 s",
@@ -266,12 +266,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 351
+   "n": 352
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 117
+   "n": 114
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794700800000,
-   "n": 40
-  },
   {
    "h": 1794704400000,
    "n": 18
@@ -634,9 +630,29 @@
   {
    "h": 1794970800000,
    "n": 11
+  },
+  {
+   "h": 1794974400000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794977028975,
+   "titulo": "Nicaragua vs. Montserrat",
+   "dur": 0.158,
+   "gan": 0.94,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794975398780,
+   "titulo": "Mexico vs. Jamaica",
+   "dur": 47.732,
+   "gan": 1.49,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794972416343,
    "titulo": "Highest temperature in Singapore on November 18?",
@@ -739,22 +755,6 @@
    "dur": 0.135,
    "gan": 0.68,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794970558236,
-   "titulo": "Mexico vs. Jamaica",
-   "dur": 1.189,
-   "gan": 0.88,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794970556751,
-   "titulo": "Mexico vs. Jamaica",
-   "dur": 0.027,
-   "gan": 0.79,
-   "neta": 0.32,
    "lado": "si"
   }
  ]
