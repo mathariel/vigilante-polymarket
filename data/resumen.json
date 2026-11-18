@@ -1,22 +1,22 @@
 {
- "actualizado": 1795007185380,
- "inicio": 1794159887590,
+ "actualizado": 1795010200704,
+ "inicio": 1794165899929,
  "ejecucion": {
-  "inicio": 1795004185062,
-  "fin": 1795007185380,
-  "mensajes": 8456450,
+  "inicio": 1795007200410,
+  "fin": 1795010200704,
+  "mensajes": 9460684,
   "reconexiones": 0,
-  "eventos": 520,
+  "eventos": 529,
   "errores": [],
   "nuevos": 1,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5448,
+ "total": 5433,
  "falsos": 2529,
  "largos": {
-  "episodios": 21315,
-  "eventos": 186,
+  "episodios": 21336,
+  "eventos": 187,
   "dias": 7
  },
  "enEspera": {
@@ -27,17 +27,17 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2800,
-   "gan": 6575.98,
-   "nNeta": 706,
-   "neta": 1270.45
+   "n": 2791,
+   "gan": 6555.63,
+   "nNeta": 700,
+   "neta": 1261.36
   },
   {
    "s": 2,
-   "n": 1459,
-   "gan": 3342.79,
-   "nNeta": 286,
-   "neta": 570.27
+   "n": 1456,
+   "gan": 3337.77,
+   "nNeta": 285,
+   "neta": 569.88
   },
   {
    "s": 5,
@@ -54,31 +54,31 @@
    "neta": 19.76
   }
  ],
- "rentables": 1557,
+ "rentables": 1547,
  "porCapital": [
   {
    "capital": 500,
    "ops": 80,
-   "descartadas": 236,
+   "descartadas": 235,
    "neta": 158.17,
-   "dias": 9.73,
-   "semana": 113.79
+   "dias": 9.75,
+   "semana": 113.52
   },
   {
    "capital": 1000,
    "ops": 99,
-   "descartadas": 236,
+   "descartadas": 235,
    "neta": 256.48,
-   "dias": 9.73,
-   "semana": 184.52
+   "dias": 9.75,
+   "semana": 184.08
   },
   {
    "capital": 2000,
    "ops": 104,
-   "descartadas": 236,
+   "descartadas": 235,
    "neta": 354.97,
-   "dias": 9.73,
-   "semana": 255.37
+   "dias": 9.75,
+   "semana": 254.76
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 3,
-   "horas": 54.2,
-   "episodios": 1293,
+   "horas": 55,
+   "episodios": 1294,
    "sospechosas": 6,
    "realistaNeta": 96.47,
    "capital": {
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 68,
+  "n": 66,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,27 +236,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5380,
-  "n": 1863,
-  "gan": 3786.75,
-  "nNeta": 344,
-  "neta": 563.4
+  "conDato": 5367,
+  "n": 1861,
+  "gan": 3782.29,
+  "nNeta": 343,
+  "neta": 563.01
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1398
+   "n": 1395
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1990
+   "n": 1982
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1125
+   "n": 1121
   },
   {
    "et": "5–30 s",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794733200000,
-   "n": 12
-  },
   {
    "h": 1794736800000,
    "n": 1
@@ -634,9 +630,21 @@
   {
    "h": 1795003200000,
    "n": 2
+  },
+  {
+   "h": 1795006800000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795007836794,
+   "titulo": "Jean-Michel Basquiat's “Untitled (Leonardo and His Five Grotesque Heads)” Sale Price",
+   "dur": 1.73,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1795004399200,
    "titulo": "Juventus FC vs. Oud-Heverlee Leuven Women",
@@ -748,14 +756,6 @@
    "gan": 1.77,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794980734307,
-   "titulo": "CZ # posts November 17 - November 24, 2026?",
-   "dur": 0.11,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
