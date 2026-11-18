@@ -1,21 +1,21 @@
 {
- "actualizado": 1794961939872,
- "inicio": 1794138771010,
+ "actualizado": 1794964958091,
+ "inicio": 1794141791595,
  "ejecucion": {
-  "inicio": 1794958939632,
-  "fin": 1794961939872,
-  "mensajes": 8935250,
+  "inicio": 1794961957751,
+  "fin": 1794964958092,
+  "mensajes": 8837075,
   "reconexiones": 0,
-  "eventos": 483,
+  "eventos": 492,
   "errores": [],
-  "nuevos": 9,
+  "nuevos": 6,
   "nuevosRentables": 1,
-  "nuevosNeta": 1.13
+  "nuevosNeta": 0.38
  },
- "total": 6112,
- "falsos": 2666,
+ "total": 6098,
+ "falsos": 2661,
  "largos": {
-  "episodios": 20423,
+  "episodios": 20446,
   "eventos": 180,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3102,
-   "gan": 8298.23,
-   "nNeta": 824,
-   "neta": 1748.24
+   "n": 3093,
+   "gan": 8110.6,
+   "nNeta": 821,
+   "neta": 1744.66
   },
   {
    "s": 2,
-   "n": 1556,
-   "gan": 3820.64,
-   "nNeta": 320,
-   "neta": 715.36
+   "n": 1554,
+   "gan": 3793.88,
+   "nNeta": 319,
+   "neta": 701.5
   },
   {
    "s": 5,
-   "n": 965,
-   "gan": 2180.21,
-   "nNeta": 131,
-   "neta": 304.07
+   "n": 964,
+   "gan": 2154.65,
+   "nNeta": 130,
+   "neta": 290.21
   },
   {
    "s": 30,
-   "n": 469,
-   "gan": 897.36,
+   "n": 468,
+   "gan": 896.38,
    "nNeta": 52,
    "neta": 44.17
   }
  ],
- "rentables": 1786,
+ "rentables": 1783,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 90,
-   "descartadas": 258,
-   "neta": 175.46,
-   "dias": 9.49,
-   "semana": 129.41
+   "ops": 89,
+   "descartadas": 259,
+   "neta": 174.49,
+   "dias": 9.51,
+   "semana": 128.39
   },
   {
    "capital": 1000,
-   "ops": 110,
-   "descartadas": 258,
-   "neta": 287.04,
-   "dias": 9.49,
-   "semana": 211.72
+   "ops": 109,
+   "descartadas": 259,
+   "neta": 286.31,
+   "dias": 9.51,
+   "semana": 210.68
   },
   {
    "capital": 2000,
-   "ops": 117,
-   "descartadas": 258,
-   "neta": 407.56,
-   "dias": 9.49,
-   "semana": 300.61
+   "ops": 116,
+   "descartadas": 259,
+   "neta": 406.62,
+   "dias": 9.51,
+   "semana": 299.2
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 41.7,
-   "episodios": 1240,
+   "horas": 42.5,
+   "episodios": 1246,
    "sospechosas": 6,
-   "realistaNeta": 92.6,
+   "realistaNeta": 92.98,
    "capital": {
     "500": 20.45,
     "1000": 29.6,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 79,
+  "n": 78,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,27 +236,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6033,
-  "n": 1996,
-  "gan": 4595.14,
+  "conDato": 6020,
+  "n": 1992,
+  "gan": 4589.88,
   "nNeta": 389,
-  "neta": 821.48
+  "neta": 820.45
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1553
+   "n": 1551
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2310
+   "n": 2306
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1277
+   "n": 1270
   },
   {
    "et": "5–30 s",
@@ -266,7 +266,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 351
+   "n": 350
   },
   {
    "et": "> 5 min",
@@ -633,10 +633,58 @@
   },
   {
    "h": 1794960000000,
-   "n": 2
+   "n": 8
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794963562987,
+   "titulo": "Uruguay vs. Dominican Republic",
+   "dur": 0.695,
+   "gan": 2.26,
+   "neta": 1.49,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794963530595,
+   "titulo": "El Salvador vs. Saint-Martin",
+   "dur": 17.891,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794962286776,
+   "titulo": "Chile vs. Colombia",
+   "dur": 0.281,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794962075700,
+   "titulo": "United States vs. Haiti - Halftime Result",
+   "dur": 0.102,
+   "gan": 1.41,
+   "neta": 0.19,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794962064163,
+   "titulo": "United States vs. Haiti - Halftime Result",
+   "dur": 0.122,
+   "gan": 0.58,
+   "neta": 0.08,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794962058750,
+   "titulo": "United States vs. Haiti - Halftime Result",
+   "dur": 5.384,
+   "gan": 1.51,
+   "neta": 0.38,
+   "lado": "si"
+  },
   {
    "inicio": 1794961233970,
    "titulo": "United States vs. Haiti",
@@ -708,54 +756,6 @@
    "gan": 2.29,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794958829020,
-   "titulo": "Chile vs. Colombia",
-   "dur": 0.001,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794958828377,
-   "titulo": "Chile vs. Colombia",
-   "dur": 0.54,
-   "gan": 0.73,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794958696571,
-   "titulo": "Ecuador vs. Bolivia - Halftime Result",
-   "dur": 0.999,
-   "gan": 3.04,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794957635997,
-   "titulo": "Highest temperature in Amsterdam on November 18?",
-   "dur": 0.219,
-   "gan": 0.81,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794957635820,
-   "titulo": "Highest temperature in Amsterdam on November 18?",
-   "dur": 0.034,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794957109179,
-   "titulo": "CZ # posts November 17 - November 24, 2026?",
-   "dur": 0.111,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
