@@ -1,84 +1,84 @@
 {
- "actualizado": 1794970993218,
+ "actualizado": 1794974015183,
  "inicio": 1794144493295,
  "ejecucion": {
-  "inicio": 1794967992898,
-  "fin": 1794970993218,
-  "mensajes": 8766297,
-  "reconexiones": 0,
-  "eventos": 486,
+  "inicio": 1794971014942,
+  "fin": 1794974015183,
+  "mensajes": 9067413,
+  "reconexiones": 1,
+  "eventos": 483,
   "errores": [],
-  "nuevos": 17,
-  "nuevosRentables": 2,
-  "nuevosNeta": 0.39
+  "nuevos": 2,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 6084,
- "falsos": 2653,
+ "total": 6059,
+ "falsos": 2649,
  "largos": {
-  "episodios": 20477,
-  "eventos": 181,
+  "episodios": 20511,
+  "eventos": 182,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1759,
+  "episodios": 1760,
   "eventos": 36
  },
- "mediana": 0.512,
+ "mediana": 0.514,
  "captura": [
   {
    "s": 0.5,
-   "n": 3081,
-   "gan": 7947.96,
-   "nNeta": 821,
-   "neta": 1742.76
+   "n": 3071,
+   "gan": 7620.95,
+   "nNeta": 816,
+   "neta": 1597.28
   },
   {
    "s": 2,
-   "n": 1549,
-   "gan": 3772.01,
-   "nNeta": 317,
-   "neta": 700.04
+   "n": 1547,
+   "gan": 3752.78,
+   "nNeta": 316,
+   "neta": 687.08
   },
   {
    "s": 5,
-   "n": 960,
-   "gan": 2140.08,
+   "n": 961,
+   "gan": 2140.95,
    "nNeta": 127,
    "neta": 288.64
   },
   {
    "s": 30,
-   "n": 467,
-   "gan": 895.6,
+   "n": 468,
+   "gan": 896.47,
    "nNeta": 51,
    "neta": 43.47
   }
  ],
- "rentables": 1782,
+ "rentables": 1775,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 87,
-   "descartadas": 260,
-   "neta": 173.09,
-   "dias": 9.55,
-   "semana": 126.88
+   "ops": 90,
+   "descartadas": 259,
+   "neta": 172.15,
+   "dias": 9.58,
+   "semana": 125.73
   },
   {
    "capital": 1000,
-   "ops": 107,
-   "descartadas": 260,
-   "neta": 285.14,
-   "dias": 9.55,
-   "semana": 209.02
+   "ops": 110,
+   "descartadas": 259,
+   "neta": 276.43,
+   "dias": 9.58,
+   "semana": 201.89
   },
   {
    "capital": 2000,
-   "ops": 114,
-   "descartadas": 260,
-   "neta": 405.25,
-   "dias": 9.55,
-   "semana": 297.06
+   "ops": 120,
+   "descartadas": 259,
+   "neta": 391.08,
+   "dias": 9.58,
+   "semana": 285.63
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 44.2,
-   "episodios": 1273,
+   "horas": 45,
+   "episodios": 1275,
    "sospechosas": 6,
    "realistaNeta": 93.4,
    "capital": {
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 77,
+  "n": 76,
   "top": [
    {
     "inicio": 1794738069985,
@@ -223,40 +223,40 @@
     "ret": 34.5
    },
    {
-    "inicio": 1794147586859,
-    "titulo": "Tromsø IL vs. FK Bodø/Glimt",
+    "inicio": 1794484893587,
+    "titulo": "Highest temperature in Paris on November 12?",
     "lado": "si",
-    "dur": 2.117,
-    "gan": 17.16,
-    "neta": 12.96,
-    "costo": 125.19,
-    "ret": 13.7
+    "dur": 3.446,
+    "gan": 17.07,
+    "neta": 16.12,
+    "costo": 35.55,
+    "ret": 48
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6007,
-  "n": 1989,
-  "gan": 4575.16,
-  "nNeta": 389,
-  "neta": 819.3
+  "conDato": 5983,
+  "n": 1983,
+  "gan": 4269.67,
+  "nNeta": 387,
+  "neta": 686.87
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1554
+   "n": 1547
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2295
+   "n": 2285
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1267
+   "n": 1258
   },
   {
    "et": "5–30 s",
@@ -266,7 +266,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 350
+   "n": 351
   },
   {
    "et": "> 5 min",
@@ -633,10 +633,26 @@
   },
   {
    "h": 1794970800000,
-   "n": 9
+   "n": 11
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794972416343,
+   "titulo": "Highest temperature in Singapore on November 18?",
+   "dur": 0.017,
+   "gan": 0.88,
+   "neta": 0.28,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794971433520,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
+   "dur": 142.855,
+   "gan": 1.37,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794970946270,
    "titulo": "Nicaragua vs. Montserrat",
@@ -739,22 +755,6 @@
    "dur": 0.027,
    "gan": 0.79,
    "neta": 0.32,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794970556364,
-   "titulo": "Mexico vs. Jamaica",
-   "dur": 0.04,
-   "gan": 1.12,
-   "neta": 0.23,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794970552928,
-   "titulo": "Mexico vs. Jamaica",
-   "dur": 1.549,
-   "gan": 4.78,
-   "neta": 0,
    "lado": "si"
   }
  ]
