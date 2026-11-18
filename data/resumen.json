@@ -1,48 +1,48 @@
 {
- "actualizado": 1795001155414,
- "inicio": 1794153842100,
+ "actualizado": 1795004170225,
+ "inicio": 1794156700283,
  "ejecucion": {
-  "inicio": 1794998155073,
-  "fin": 1795001155414,
-  "mensajes": 8715990,
-  "reconexiones": 3,
-  "eventos": 520,
+  "inicio": 1795001169885,
+  "fin": 1795004170225,
+  "mensajes": 9286583,
+  "reconexiones": 0,
+  "eventos": 512,
   "errores": [],
-  "nuevos": 1,
+  "nuevos": 2,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5756,
- "falsos": 2582,
+ "total": 5673,
+ "falsos": 2556,
  "largos": {
-  "episodios": 20936,
+  "episodios": 21053,
   "eventos": 186,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1755,
+  "episodios": 1753,
   "eventos": 36
  },
- "mediana": 0.52,
+ "mediana": 0.525,
  "captura": [
   {
    "s": 0.5,
-   "n": 2937,
-   "gan": 7193.06,
-   "nNeta": 762,
-   "neta": 1488.75
+   "n": 2902,
+   "gan": 7127.23,
+   "nNeta": 749,
+   "neta": 1480.42
   },
   {
    "s": 2,
-   "n": 1501,
-   "gan": 3636.22,
-   "nNeta": 301,
-   "neta": 664.36
+   "n": 1494,
+   "gan": 3620.82,
+   "nNeta": 299,
+   "neta": 662.65
   },
   {
    "s": 5,
-   "n": 946,
-   "gan": 2099.68,
+   "n": 941,
+   "gan": 2085.31,
    "nNeta": 119,
    "neta": 278.06
   },
@@ -54,31 +54,31 @@
    "neta": 34.55
   }
  ],
- "rentables": 1662,
+ "rentables": 1633,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 83,
-   "descartadas": 249,
-   "neta": 162.01,
-   "dias": 9.77,
-   "semana": 116.1
+   "ops": 82,
+   "descartadas": 248,
+   "neta": 162.45,
+   "dias": 9.76,
+   "semana": 116.5
   },
   {
    "capital": 1000,
    "ops": 103,
-   "descartadas": 249,
-   "neta": 268.08,
-   "dias": 9.77,
-   "semana": 192.11
+   "descartadas": 248,
+   "neta": 269.34,
+   "dias": 9.76,
+   "semana": 193.15
   },
   {
    "capital": 2000,
-   "ops": 110,
-   "descartadas": 249,
-   "neta": 376.22,
-   "dias": 9.77,
-   "semana": 269.6
+   "ops": 108,
+   "descartadas": 248,
+   "neta": 376.16,
+   "dias": 9.76,
+   "semana": 269.76
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 3,
-   "horas": 52.5,
-   "episodios": 1290,
+   "horas": 53.3,
+   "episodios": 1292,
    "sospechosas": 6,
    "realistaNeta": 96.47,
    "capital": {
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5687,
-  "n": 1925,
-  "gan": 4113.9,
-  "nNeta": 366,
-  "neta": 661.23
+  "conDato": 5604,
+  "n": 1911,
+  "gan": 4085.47,
+  "nNeta": 363,
+  "neta": 659.44
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1480
+   "n": 1459
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2125
+   "n": 2084
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1197
+   "n": 1181
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 477
+   "n": 472
   },
   {
    "et": "30 s–5 min",
@@ -304,18 +304,18 @@
    "mediana": 0.827
   },
   {
-   "titulo": "Manchester United FC vs. Aston Villa FC",
-   "n": 134,
-   "gan": 376.76,
-   "neta": 155.61,
-   "mediana": 0.314
-  },
-  {
    "titulo": "Target Q3 comparable sales growth?",
    "n": 130,
    "gan": 97.44,
    "neta": 0.14,
    "mediana": 0.106
+  },
+  {
+   "titulo": "Manchester United FC vs. Aston Villa FC",
+   "n": 111,
+   "gan": 328.93,
+   "neta": 155.22,
+   "mediana": 0.298
   },
   {
    "titulo": "Denmark vs. Norway",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794729600000,
-   "n": 2
-  },
   {
    "h": 1794733200000,
    "n": 12
@@ -633,10 +629,30 @@
   },
   {
    "h": 1794999600000,
+   "n": 2
+  },
+  {
+   "h": 1795003200000,
    "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795003284464,
+   "titulo": "Highest temperature in Paris on November 18?",
+   "dur": 0.088,
+   "gan": 5.73,
+   "neta": 5.04,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795002550691,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 2.161,
+   "gan": 4.04,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795001081382,
    "titulo": "Donald Trump # Truth Social posts November 17 - November 24, 2026?",
@@ -739,22 +755,6 @@
    "dur": 0.006,
    "gan": 2.63,
    "neta": 1.57,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794977028975,
-   "titulo": "Nicaragua vs. Montserrat",
-   "dur": 0.158,
-   "gan": 0.94,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794975398780,
-   "titulo": "Mexico vs. Jamaica",
-   "dur": 47.732,
-   "gan": 1.49,
-   "neta": 0,
    "lado": "si"
   }
  ]
