@@ -1,84 +1,84 @@
 {
- "actualizado": 1795040385880,
+ "actualizado": 1795043400279,
  "inicio": 1794171916081,
  "ejecucion": {
-  "inicio": 1795037385639,
-  "fin": 1795040385880,
-  "mensajes": 8990038,
+  "inicio": 1795040400013,
+  "fin": 1795043400279,
+  "mensajes": 7950258,
   "reconexiones": 1,
-  "eventos": 545,
+  "eventos": 535,
   "errores": [],
-  "nuevos": 28,
+  "nuevos": 58,
   "nuevosRentables": 1,
-  "nuevosNeta": 0.04
+  "nuevosNeta": 0.05
  },
- "total": 5448,
- "falsos": 2527,
+ "total": 5476,
+ "falsos": 2534,
  "largos": {
-  "episodios": 21527,
+  "episodios": 21560,
   "eventos": 189,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1587,
+  "episodios": 1523,
   "eventos": 35
  },
- "mediana": 0.575,
+ "mediana": 0.578,
  "captura": [
   {
    "s": 0.5,
-   "n": 2862,
-   "gan": 6520.12,
-   "nNeta": 791,
-   "neta": 1281.49
+   "n": 2883,
+   "gan": 6758.71,
+   "nNeta": 785,
+   "neta": 1266.87
   },
   {
    "s": 2,
-   "n": 1563,
-   "gan": 3399.84,
-   "nNeta": 385,
-   "neta": 582.37
+   "n": 1581,
+   "gan": 3403.46,
+   "nNeta": 384,
+   "neta": 569.13
   },
   {
    "s": 5,
-   "n": 1035,
-   "gan": 2058.94,
-   "nNeta": 215,
-   "neta": 268.33
+   "n": 1054,
+   "gan": 2083.1,
+   "nNeta": 216,
+   "neta": 268.38
   },
   {
    "s": 30,
-   "n": 478,
-   "gan": 878.51,
+   "n": 480,
+   "gan": 881.96,
    "nNeta": 51,
    "neta": 20.09
   }
  ],
- "rentables": 1604,
+ "rentables": 1588,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 80,
+   "ops": 82,
    "descartadas": 334,
-   "neta": 158.17,
-   "dias": 10.01,
-   "semana": 110.61
+   "neta": 146.86,
+   "dias": 10.03,
+   "semana": 102.47
   },
   {
    "capital": 1000,
-   "ops": 99,
+   "ops": 97,
    "descartadas": 334,
-   "neta": 256.48,
-   "dias": 10.01,
-   "semana": 179.35
+   "neta": 243.19,
+   "dias": 10.03,
+   "semana": 169.69
   },
   {
    "capital": 2000,
-   "ops": 104,
+   "ops": 102,
    "descartadas": 334,
-   "neta": 354.97,
-   "dias": 10.01,
-   "semana": 248.22
+   "neta": 341.68,
+   "dias": 10.03,
+   "semana": 238.41
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 3,
-   "horas": 63.3,
-   "episodios": 1467,
+   "horas": 64.2,
+   "episodios": 1525,
    "sospechosas": 11,
-   "realistaNeta": 109.83,
+   "realistaNeta": 109.88,
    "capital": {
     "500": 20.45,
     "1000": 29.6,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 67,
+  "n": 66,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,17 +236,17 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5381,
-  "n": 1964,
-  "gan": 3828.34,
-  "nNeta": 442,
-  "neta": 575.08
+  "conDato": 5410,
+  "n": 1981,
+  "gan": 3831.06,
+  "nNeta": 440,
+  "neta": 561.73
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1368
+   "n": 1378
   },
   {
    "et": "0.1–1 s",
@@ -256,17 +256,17 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1106
+   "n": 1105
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 557
+   "n": 574
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 364
+   "n": 366
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794762000000,
-   "n": 26
-  },
   {
    "h": 1794765600000,
    "n": 24
@@ -633,129 +629,133 @@
   },
   {
    "h": 1795039200000,
-   "n": 2
+   "n": 52
+  },
+  {
+   "h": 1795042800000,
+   "n": 8
   }
  ],
  "recientes": [
   {
-   "inicio": 1795039254494,
-   "titulo": "Club Alianza Atlético vs. FBC Melgar",
-   "dur": 0.507,
-   "gan": 0.72,
+   "inicio": 1795043304084,
+   "titulo": "Coritiba FBC vs. Santos FC",
+   "dur": 10.507,
+   "gan": 2.29,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795039228080,
-   "titulo": "Lowest temperature in Hong Kong on November 20?",
-   "dur": 0.324,
-   "gan": 0.53,
-   "neta": 0.08,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795039142307,
-   "titulo": "Club Alianza Atlético vs. FBC Melgar",
-   "dur": 2.451,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795039092897,
-   "titulo": "Club Alianza Atlético vs. FBC Melgar",
-   "dur": 6.76,
+   "inicio": 1795043303455,
+   "titulo": "Coritiba FBC vs. Santos FC",
+   "dur": 0.002,
    "gan": 0.54,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795038948716,
-   "titulo": "Club Alianza Atlético vs. FBC Melgar",
-   "dur": 0.189,
-   "gan": 0.59,
+   "inicio": 1795043293808,
+   "titulo": "Coritiba FBC vs. Santos FC",
+   "dur": 9.627,
+   "gan": 2.04,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795038945229,
-   "titulo": "Club Alianza Atlético vs. FBC Melgar",
-   "dur": 1.816,
-   "gan": 0.71,
+   "inicio": 1795043236124,
+   "titulo": "Coritiba FBC vs. Santos FC",
+   "dur": 12.522,
+   "gan": 1.31,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795038945125,
-   "titulo": "Club Alianza Atlético vs. FBC Melgar",
-   "dur": 0.091,
-   "gan": 0.81,
+   "inicio": 1795042872123,
+   "titulo": "Coritiba FBC vs. Santos FC",
+   "dur": 7.028,
+   "gan": 0.7,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795038942895,
-   "titulo": "Club Alianza Atlético vs. FBC Melgar",
-   "dur": 2.221,
+   "inicio": 1795042848939,
+   "titulo": "Coritiba FBC vs. Santos FC",
+   "dur": 22.691,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795042803177,
+   "titulo": "Coritiba FBC vs. Santos FC",
+   "dur": 9.949,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795042802095,
+   "titulo": "Coritiba FBC vs. Santos FC",
+   "dur": 0.776,
+   "gan": 1.79,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795042763635,
+   "titulo": "Coritiba FBC vs. Santos FC",
+   "dur": 1.292,
+   "gan": 1.1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795042759790,
+   "titulo": "Coritiba FBC vs. Santos FC",
+   "dur": 0.55,
    "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795038919607,
-   "titulo": "Club Alianza Atlético vs. FBC Melgar",
-   "dur": 0.361,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
+   "inicio": 1795042749506,
+   "titulo": "Coritiba FBC vs. Santos FC - Halftime Result",
+   "dur": 0.011,
+   "gan": 0.75,
+   "neta": 0.14,
+   "lado": "no"
   },
   {
-   "inicio": 1795038919407,
-   "titulo": "Club Alianza Atlético vs. FBC Melgar",
-   "dur": 0.025,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
+   "inicio": 1795042749170,
+   "titulo": "Coritiba FBC vs. Santos FC - Halftime Result",
+   "dur": 0.206,
+   "gan": 0.94,
+   "neta": 0.09,
+   "lado": "no"
   },
   {
-   "inicio": 1795038793133,
-   "titulo": "Club Alianza Atlético vs. FBC Melgar",
-   "dur": 0.147,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
+   "inicio": 1795042749152,
+   "titulo": "Coritiba FBC vs. Santos FC - Halftime Result",
+   "dur": 0.007,
+   "gan": 0.54,
+   "neta": 0.03,
+   "lado": "no"
   },
   {
-   "inicio": 1795038784605,
-   "titulo": "Club Alianza Atlético vs. FBC Melgar",
-   "dur": 0.499,
+   "inicio": 1795042731772,
+   "titulo": "Coritiba FBC vs. Santos FC",
+   "dur": 0.027,
    "gan": 0.52,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795038757390,
-   "titulo": "Club Alianza Atlético vs. FBC Melgar",
-   "dur": 0.687,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795038757347,
-   "titulo": "Club Alianza Atlético vs. FBC Melgar",
+   "inicio": 1795042731720,
+   "titulo": "Coritiba FBC vs. Santos FC",
    "dur": 0.026,
-   "gan": 0.58,
+   "gan": 0.52,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795038743102,
-   "titulo": "Club Alianza Atlético vs. FBC Melgar",
-   "dur": 0.004,
-   "gan": 0.66,
-   "neta": 0,
-   "lado": "si"
+   "lado": "no"
   }
  ]
 }
