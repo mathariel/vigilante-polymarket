@@ -1,21 +1,21 @@
 {
- "actualizado": 1794967974624,
- "inicio": 1794141791595,
+ "actualizado": 1794970993218,
+ "inicio": 1794144493295,
  "ejecucion": {
-  "inicio": 1794964974285,
-  "fin": 1794967974624,
-  "mensajes": 8721551,
+  "inicio": 1794967992898,
+  "fin": 1794970993218,
+  "mensajes": 8766297,
   "reconexiones": 0,
-  "eventos": 502,
+  "eventos": 486,
   "errores": [],
-  "nuevos": 10,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.03
+  "nuevos": 17,
+  "nuevosRentables": 2,
+  "nuevosNeta": 0.39
  },
- "total": 6095,
- "falsos": 2655,
+ "total": 6084,
+ "falsos": 2653,
  "largos": {
-  "episodios": 20460,
+  "episodios": 20477,
   "eventos": 181,
   "dias": 7
  },
@@ -23,28 +23,28 @@
   "episodios": 1759,
   "eventos": 36
  },
- "mediana": 0.514,
+ "mediana": 0.512,
  "captura": [
   {
    "s": 0.5,
-   "n": 3091,
-   "gan": 8109.47,
+   "n": 3081,
+   "gan": 7947.96,
    "nNeta": 821,
-   "neta": 1743.38
+   "neta": 1742.76
   },
   {
    "s": 2,
-   "n": 1553,
-   "gan": 3793.1,
-   "nNeta": 318,
-   "neta": 700.8
+   "n": 1549,
+   "gan": 3772.01,
+   "nNeta": 317,
+   "neta": 700.04
   },
   {
    "s": 5,
-   "n": 963,
-   "gan": 2153.87,
-   "nNeta": 129,
-   "neta": 289.51
+   "n": 960,
+   "gan": 2140.08,
+   "nNeta": 127,
+   "neta": 288.64
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 43.47
   }
  ],
- "rentables": 1779,
+ "rentables": 1782,
  "porCapital": [
   {
    "capital": 500,
    "ops": 87,
    "descartadas": 260,
    "neta": 173.09,
-   "dias": 9.51,
-   "semana": 127.35
+   "dias": 9.55,
+   "semana": 126.88
   },
   {
    "capital": 1000,
    "ops": 107,
    "descartadas": 260,
    "neta": 285.14,
-   "dias": 9.51,
-   "semana": 209.79
+   "dias": 9.55,
+   "semana": 209.02
   },
   {
    "capital": 2000,
    "ops": 114,
    "descartadas": 260,
    "neta": 405.25,
-   "dias": 9.51,
-   "semana": 298.16
+   "dias": 9.55,
+   "semana": 297.06
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 43.3,
-   "episodios": 1256,
+   "horas": 44.2,
+   "episodios": 1273,
    "sospechosas": 6,
-   "realistaNeta": 93.01,
+   "realistaNeta": 93.4,
    "capital": {
     "500": 20.45,
     "1000": 29.6,
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6018,
-  "n": 1992,
-  "gan": 4591.47,
+  "conDato": 6007,
+  "n": 1989,
+  "gan": 4575.16,
   "nNeta": 389,
-  "neta": 819.78
+  "neta": 819.3
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1550
+   "n": 1554
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2305
+   "n": 2295
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1270
+   "n": 1267
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 496
+   "n": 493
   },
   {
    "et": "30 s–5 min",
@@ -347,14 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794693600000,
-   "n": 69
-  },
-  {
-   "h": 1794697200000,
-   "n": 17
-  },
   {
    "h": 1794700800000,
    "n": 40
@@ -634,127 +626,135 @@
   {
    "h": 1794963600000,
    "n": 10
+  },
+  {
+   "h": 1794967200000,
+   "n": 8
+  },
+  {
+   "h": 1794970800000,
+   "n": 9
   }
  ],
  "recientes": [
   {
-   "inicio": 1794965974113,
-   "titulo": "French Guiana vs. St. Vincent and the Grenadines",
-   "dur": 0.188,
-   "gan": 0.67,
+   "inicio": 1794970946270,
+   "titulo": "Nicaragua vs. Montserrat",
+   "dur": 0.089,
+   "gan": 0.5,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794965969575,
-   "titulo": "French Guiana vs. St. Vincent and the Grenadines",
-   "dur": 0.025,
-   "gan": 0.81,
-   "neta": 0.18,
    "lado": "no"
   },
   {
-   "inicio": 1794965790412,
-   "titulo": "French Guiana vs. St. Vincent and the Grenadines",
-   "dur": 0.208,
-   "gan": 0.6,
-   "neta": 0.35,
+   "inicio": 1794970945596,
+   "titulo": "Nicaragua vs. Montserrat",
+   "dur": 0.017,
+   "gan": 0.56,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794965789282,
-   "titulo": "French Guiana vs. St. Vincent and the Grenadines",
-   "dur": 0.192,
-   "gan": 1.02,
+   "inicio": 1794970945528,
+   "titulo": "Nicaragua vs. Montserrat",
+   "dur": 0.044,
+   "gan": 0.72,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794965788239,
-   "titulo": "French Guiana vs. St. Vincent and the Grenadines",
-   "dur": 0.094,
-   "gan": 0.7,
+   "inicio": 1794970945128,
+   "titulo": "Nicaragua vs. Montserrat",
+   "dur": 0.297,
+   "gan": 0.88,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1794965787129,
-   "titulo": "French Guiana vs. St. Vincent and the Grenadines",
-   "dur": 0.176,
+   "inicio": 1794970943057,
+   "titulo": "Nicaragua vs. Montserrat",
+   "dur": 1.913,
+   "gan": 1.75,
+   "neta": 0.41,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794970923392,
+   "titulo": "Nicaragua vs. Montserrat",
+   "dur": 2.478,
+   "gan": 0.69,
+   "neta": 0.11,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794970919054,
+   "titulo": "Nicaragua vs. Montserrat",
+   "dur": 0.042,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794970917979,
+   "titulo": "Nicaragua vs. Montserrat",
+   "dur": 0.087,
    "gan": 1.25,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794965787097,
-   "titulo": "French Guiana vs. St. Vincent and the Grenadines",
-   "dur": 0.002,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794965787055,
-   "titulo": "French Guiana vs. St. Vincent and the Grenadines",
-   "dur": 0.014,
-   "gan": 1.2,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794965785296,
-   "titulo": "French Guiana vs. St. Vincent and the Grenadines",
-   "dur": 1.728,
-   "gan": 1.81,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794965777854,
-   "titulo": "French Guiana vs. St. Vincent and the Grenadines",
-   "dur": 0.613,
-   "gan": 0.52,
-   "neta": 0.29,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794963562987,
-   "titulo": "Uruguay vs. Dominican Republic",
-   "dur": 0.695,
-   "gan": 2.26,
-   "neta": 1.49,
    "lado": "no"
   },
   {
-   "inicio": 1794963530595,
-   "titulo": "El Salvador vs. Saint-Martin",
-   "dur": 17.891,
-   "gan": 0.59,
+   "inicio": 1794970916981,
+   "titulo": "Nicaragua vs. Montserrat",
+   "dur": 0.772,
+   "gan": 1.34,
+   "neta": 0.38,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794970570442,
+   "titulo": "Mexico vs. Jamaica",
+   "dur": -0.003,
+   "gan": 0.51,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1794962286776,
-   "titulo": "Chile vs. Colombia",
-   "dur": 0.281,
-   "gan": 0.55,
+   "inicio": 1794970559467,
+   "titulo": "Mexico vs. Jamaica",
+   "dur": 0.135,
+   "gan": 0.68,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794962075700,
-   "titulo": "United States vs. Haiti - Halftime Result",
-   "dur": 0.102,
-   "gan": 1.41,
-   "neta": 0.19,
+   "inicio": 1794970558236,
+   "titulo": "Mexico vs. Jamaica",
+   "dur": 1.189,
+   "gan": 0.88,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1794962064163,
-   "titulo": "United States vs. Haiti - Halftime Result",
-   "dur": 0.122,
-   "gan": 0.58,
-   "neta": 0.08,
+   "inicio": 1794970556751,
+   "titulo": "Mexico vs. Jamaica",
+   "dur": 0.027,
+   "gan": 0.79,
+   "neta": 0.32,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794970556364,
+   "titulo": "Mexico vs. Jamaica",
+   "dur": 0.04,
+   "gan": 1.12,
+   "neta": 0.23,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794970552928,
+   "titulo": "Mexico vs. Jamaica",
+   "dur": 1.549,
+   "gan": 4.78,
+   "neta": 0,
    "lado": "si"
   }
  ]
