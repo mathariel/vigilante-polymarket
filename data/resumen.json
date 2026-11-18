@@ -1,84 +1,84 @@
 {
- "actualizado": 1795028304593,
- "inicio": 1794168965215,
+ "actualizado": 1795031327821,
+ "inicio": 1794171916081,
  "ejecucion": {
-  "inicio": 1795025304348,
-  "fin": 1795028304593,
-  "mensajes": 9632808,
-  "reconexiones": 1,
-  "eventos": 530,
+  "inicio": 1795028327587,
+  "fin": 1795031327821,
+  "mensajes": 10060765,
+  "reconexiones": 0,
+  "eventos": 537,
   "errores": [],
-  "nuevos": 86,
-  "nuevosRentables": 84,
-  "nuevosNeta": 11.09
+  "nuevos": 34,
+  "nuevosRentables": 22,
+  "nuevosNeta": 2.23
  },
- "total": 5405,
- "falsos": 2510,
+ "total": 5430,
+ "falsos": 2508,
  "largos": {
-  "episodios": 21421,
-  "eventos": 187,
+  "episodios": 21451,
+  "eventos": 189,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1739,
+  "episodios": 1689,
   "eventos": 35
  },
- "mediana": 0.563,
+ "mediana": 0.569,
  "captura": [
   {
    "s": 0.5,
-   "n": 2821,
-   "gan": 6488.11,
-   "nNeta": 765,
-   "neta": 1262.29
+   "n": 2843,
+   "gan": 6494.43,
+   "nNeta": 787,
+   "neta": 1264.84
   },
   {
    "s": 2,
-   "n": 1525,
-   "gan": 3379.59,
-   "nNeta": 362,
-   "neta": 579.96
+   "n": 1548,
+   "gan": 3389.21,
+   "nNeta": 384,
+   "neta": 582.33
   },
   {
    "s": 5,
-   "n": 1002,
-   "gan": 2036.36,
-   "nNeta": 193,
-   "neta": 266.06
+   "n": 1024,
+   "gan": 2050.91,
+   "nNeta": 214,
+   "neta": 268.29
   },
   {
    "s": 30,
-   "n": 467,
-   "gan": 871.38,
-   "nNeta": 47,
-   "neta": 19.76
+   "n": 471,
+   "gan": 873.81,
+   "nNeta": 50,
+   "neta": 20.05
   }
  ],
- "rentables": 1583,
+ "rentables": 1606,
  "porCapital": [
   {
    "capital": 500,
    "ops": 80,
-   "descartadas": 311,
+   "descartadas": 333,
    "neta": 158.17,
-   "dias": 9.9,
-   "semana": 111.85
+   "dias": 9.93,
+   "semana": 111.51
   },
   {
    "capital": 1000,
    "ops": 99,
-   "descartadas": 311,
+   "descartadas": 333,
    "neta": 256.48,
-   "dias": 9.9,
-   "semana": 181.36
+   "dias": 9.93,
+   "semana": 180.82
   },
   {
    "capital": 2000,
    "ops": 104,
-   "descartadas": 311,
+   "descartadas": 333,
    "neta": 354.97,
-   "dias": 9.9,
-   "semana": 251.01
+   "dias": 9.93,
+   "semana": 250.26
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 3,
-   "horas": 60,
-   "episodios": 1386,
+   "horas": 60.8,
+   "episodios": 1420,
    "sospechosas": 7,
-   "realistaNeta": 107.56,
+   "realistaNeta": 109.79,
    "capital": {
     "500": 20.45,
     "1000": 29.6,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 66,
+  "n": 64,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,17 +236,17 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5339,
-  "n": 1925,
-  "gan": 3816.21,
-  "nNeta": 419,
-  "neta": 572.81
+  "conDato": 5366,
+  "n": 1948,
+  "gan": 3824.56,
+  "nNeta": 441,
+  "neta": 575.04
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1372
+   "n": 1375
   },
   {
    "et": "0.1–1 s",
@@ -261,12 +261,12 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 535
+   "n": 553
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 354
+   "n": 358
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794747600000,
-   "n": 6
-  },
   {
    "h": 1794751200000,
    "n": 13
@@ -634,127 +630,131 @@
   {
    "h": 1795024800000,
    "n": 86
+  },
+  {
+   "h": 1795028400000,
+   "n": 34
   }
  ],
  "recientes": [
   {
-   "inicio": 1795026984134,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
-   "dur": 2.174,
-   "gan": 0.7,
-   "neta": 0.11,
+   "inicio": 1795031182111,
+   "titulo": "White House # posts November 13 - November 20, 2026?",
+   "dur": 35.2,
+   "gan": 0.73,
+   "neta": 0.12,
    "lado": "si"
   },
   {
-   "inicio": 1795026962531,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
-   "dur": 15.414,
-   "gan": 0.52,
+   "inicio": 1795031166745,
+   "titulo": "White House # posts November 13 - November 20, 2026?",
+   "dur": 15.316,
+   "gan": 0.65,
+   "neta": 0.07,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795031152288,
+   "titulo": "White House # posts November 13 - November 20, 2026?",
+   "dur": 14.363,
+   "gan": 0.73,
+   "neta": 0.12,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795031137269,
+   "titulo": "White House # posts November 13 - November 20, 2026?",
+   "dur": 14.96,
+   "gan": 0.59,
+   "neta": 0.05,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795031122188,
+   "titulo": "White House # posts November 13 - November 20, 2026?",
+   "dur": 14.984,
+   "gan": 0.7,
+   "neta": 0.12,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795031106936,
+   "titulo": "White House # posts November 13 - November 20, 2026?",
+   "dur": 15.182,
+   "gan": 0.53,
    "neta": 0.06,
    "lado": "si"
   },
   {
-   "inicio": 1795026935918,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
-   "dur": 9.437,
-   "gan": 0.89,
-   "neta": 0.19,
+   "inicio": 1795031091817,
+   "titulo": "White House # posts November 13 - November 20, 2026?",
+   "dur": 15.036,
+   "gan": 0.51,
+   "neta": 0.05,
    "lado": "si"
   },
   {
-   "inicio": 1795026920410,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
-   "dur": 9.282,
-   "gan": 0.7,
-   "neta": 0.11,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795026900101,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
-   "dur": 14.183,
-   "gan": 0.52,
+   "inicio": 1795031077131,
+   "titulo": "White House # posts November 13 - November 20, 2026?",
+   "dur": 14.637,
+   "gan": 0.53,
    "neta": 0.06,
    "lado": "si"
   },
   {
-   "inicio": 1795026874178,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
-   "dur": 9.192,
-   "gan": 0.89,
-   "neta": 0.19,
+   "inicio": 1795031072429,
+   "titulo": "White House # posts November 13 - November 20, 2026?",
+   "dur": 4.631,
+   "gan": 0.53,
+   "neta": 0.05,
    "lado": "si"
   },
   {
-   "inicio": 1795026859481,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
-   "dur": 8.401,
-   "gan": 0.7,
-   "neta": 0.11,
+   "inicio": 1795031013315,
+   "titulo": "White House # posts November 13 - November 20, 2026?",
+   "dur": 59.001,
+   "gan": 0.54,
+   "neta": 0.07,
    "lado": "si"
   },
   {
-   "inicio": 1795026838488,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
-   "dur": 14.843,
+   "inicio": 1795030996925,
+   "titulo": "White House # posts November 13 - November 20, 2026?",
+   "dur": 16.318,
+   "gan": 0.57,
+   "neta": 0.09,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795030982043,
+   "titulo": "White House # posts November 13 - November 20, 2026?",
+   "dur": 14.826,
    "gan": 0.52,
-   "neta": 0.06,
+   "neta": 0.12,
    "lado": "si"
   },
   {
-   "inicio": 1795026812545,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
-   "dur": 9.695,
-   "gan": 0.89,
-   "neta": 0.19,
+   "inicio": 1795030967177,
+   "titulo": "White House # posts November 13 - November 20, 2026?",
+   "dur": 14.795,
+   "gan": 0.59,
+   "neta": 0.1,
    "lado": "si"
   },
   {
-   "inicio": 1795026797059,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
-   "dur": 9.34,
-   "gan": 0.7,
-   "neta": 0.11,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795026776306,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
-   "dur": 14.433,
+   "inicio": 1795030952022,
+   "titulo": "White House # posts November 13 - November 20, 2026?",
+   "dur": 15.103,
    "gan": 0.52,
-   "neta": 0.06,
+   "neta": 0.12,
    "lado": "si"
   },
   {
-   "inicio": 1795026750129,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
-   "dur": 9.436,
-   "gan": 0.89,
-   "neta": 0.19,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795026734767,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
-   "dur": 9.16,
-   "gan": 0.7,
-   "neta": 0.11,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795026714280,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
-   "dur": 14.37,
-   "gan": 0.52,
-   "neta": 0.06,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795026688722,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
-   "dur": 8.462,
-   "gan": 0.89,
-   "neta": 0.19,
+   "inicio": 1795030937233,
+   "titulo": "White House # posts November 13 - November 20, 2026?",
+   "dur": 14.744,
+   "gan": 0.59,
+   "neta": 0.1,
    "lado": "si"
   }
  ]
