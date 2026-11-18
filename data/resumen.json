@@ -1,84 +1,84 @@
 {
- "actualizado": 1794958918211,
+ "actualizado": 1794961939872,
  "inicio": 1794138771010,
  "ejecucion": {
-  "inicio": 1794955917868,
-  "fin": 1794958918211,
-  "mensajes": 8413650,
-  "reconexiones": 1,
-  "eventos": 511,
+  "inicio": 1794958939632,
+  "fin": 1794961939872,
+  "mensajes": 8935250,
+  "reconexiones": 0,
+  "eventos": 483,
   "errores": [],
-  "nuevos": 11,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 9,
+  "nuevosRentables": 1,
+  "nuevosNeta": 1.13
  },
- "total": 6117,
- "falsos": 2662,
+ "total": 6112,
+ "falsos": 2666,
  "largos": {
-  "episodios": 20415,
-  "eventos": 179,
+  "episodios": 20423,
+  "eventos": 180,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1759,
+  "episodios": 1758,
   "eventos": 35
  },
- "mediana": 0.515,
+ "mediana": 0.514,
  "captura": [
   {
    "s": 0.5,
-   "n": 3106,
-   "gan": 8302.69,
-   "nNeta": 825,
-   "neta": 1748.8
+   "n": 3102,
+   "gan": 8298.23,
+   "nNeta": 824,
+   "neta": 1748.24
   },
   {
    "s": 2,
-   "n": 1559,
-   "gan": 3827.54,
-   "nNeta": 321,
-   "neta": 715.54
+   "n": 1556,
+   "gan": 3820.64,
+   "nNeta": 320,
+   "neta": 715.36
   },
   {
    "s": 5,
-   "n": 966,
-   "gan": 2181.09,
+   "n": 965,
+   "gan": 2180.21,
    "nNeta": 131,
    "neta": 304.07
   },
   {
    "s": 30,
-   "n": 470,
-   "gan": 897.88,
+   "n": 469,
+   "gan": 897.36,
    "nNeta": 52,
    "neta": 44.17
   }
  ],
- "rentables": 1791,
+ "rentables": 1786,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 89,
-   "descartadas": 259,
-   "neta": 174.33,
-   "dias": 9.47,
-   "semana": 128.92
+   "ops": 90,
+   "descartadas": 258,
+   "neta": 175.46,
+   "dias": 9.49,
+   "semana": 129.41
   },
   {
    "capital": 1000,
-   "ops": 109,
-   "descartadas": 259,
-   "neta": 285.91,
-   "dias": 9.47,
-   "semana": 211.45
+   "ops": 110,
+   "descartadas": 258,
+   "neta": 287.04,
+   "dias": 9.49,
+   "semana": 211.72
   },
   {
    "capital": 2000,
-   "ops": 116,
-   "descartadas": 259,
-   "neta": 406.43,
-   "dias": 9.47,
-   "semana": 300.58
+   "ops": 117,
+   "descartadas": 258,
+   "neta": 407.56,
+   "dias": 9.49,
+   "semana": 300.61
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 2,
-   "horas": 40.8,
-   "episodios": 1231,
+   "horas": 41.7,
+   "episodios": 1240,
    "sospechosas": 6,
-   "realistaNeta": 91.47,
+   "realistaNeta": 92.6,
    "capital": {
-    "500": 19.32,
-    "1000": 28.47,
-    "2000": 55.98
+    "500": 20.45,
+    "1000": 29.6,
+    "2000": 57.11
    },
    "cumple": true
   }
@@ -236,27 +236,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6038,
-  "n": 1998,
-  "gan": 4600.69,
+  "conDato": 6033,
+  "n": 1996,
+  "gan": 4595.14,
   "nNeta": 389,
-  "neta": 820.53
+  "neta": 821.48
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1557
+   "n": 1553
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2305
+   "n": 2310
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1282
+   "n": 1277
   },
   {
    "et": "5–30 s",
@@ -266,7 +266,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 352
+   "n": 351
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794686400000,
-   "n": 115
-  },
   {
    "h": 1794690000000,
    "n": 152
@@ -633,10 +629,86 @@
   },
   {
    "h": 1794956400000,
-   "n": 10
+   "n": 17
+  },
+  {
+   "h": 1794960000000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794961233970,
+   "titulo": "United States vs. Haiti",
+   "dur": 27.552,
+   "gan": 1.91,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1794960073891,
+   "titulo": "Lowest temperature in Karachi on November 18?",
+   "dur": 0.544,
+   "gan": 1.35,
+   "neta": 1.13,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794959429057,
+   "titulo": "Uruguay vs. Dominican Republic",
+   "dur": 0.28,
+   "gan": 5.36,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794959387613,
+   "titulo": "Uruguay vs. Dominican Republic",
+   "dur": 0.107,
+   "gan": 6.02,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794959387131,
+   "titulo": "Uruguay vs. Dominican Republic",
+   "dur": 0.458,
+   "gan": 6.02,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794959387081,
+   "titulo": "Uruguay vs. Dominican Republic",
+   "dur": 0.021,
+   "gan": 6.01,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794959386522,
+   "titulo": "Uruguay vs. Dominican Republic",
+   "dur": 0.533,
+   "gan": 6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794959067572,
+   "titulo": "Uruguay vs. Dominican Republic",
+   "dur": 0.502,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1794959013231,
+   "titulo": "Uruguay vs. Dominican Republic",
+   "dur": 0.329,
+   "gan": 2.29,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1794958829020,
    "titulo": "Chile vs. Colombia",
@@ -684,78 +756,6 @@
    "gan": 0.61,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1794957109074,
-   "titulo": "CZ # posts November 17 - November 24, 2026?",
-   "dur": 0.071,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794956888903,
-   "titulo": "Argentina vs. Costa Rica - Halftime Result",
-   "dur": 5.073,
-   "gan": 1.72,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794956817885,
-   "titulo": "Argentina vs. Costa Rica - Halftime Result",
-   "dur": 0.244,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794956514924,
-   "titulo": "Ecuador vs. Bolivia",
-   "dur": 11.814,
-   "gan": 0.8,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794956381704,
-   "titulo": "Argentina vs. Costa Rica",
-   "dur": 19.333,
-   "gan": 1.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794955186771,
-   "titulo": "Mexico vs. Jamaica",
-   "dur": 0.203,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794953093054,
-   "titulo": "Argentina vs. Costa Rica",
-   "dur": 0.22,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794953067441,
-   "titulo": "Argentina vs. Costa Rica",
-   "dur": 21.914,
-   "gan": 0.77,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794953067146,
-   "titulo": "Argentina vs. Costa Rica",
-   "dur": 0.258,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
   }
  ]
 }
