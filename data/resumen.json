@@ -1,84 +1,84 @@
 {
- "actualizado": 1795004170225,
- "inicio": 1794156700283,
+ "actualizado": 1795007185380,
+ "inicio": 1794159887590,
  "ejecucion": {
-  "inicio": 1795001169885,
-  "fin": 1795004170225,
-  "mensajes": 9286583,
+  "inicio": 1795004185062,
+  "fin": 1795007185380,
+  "mensajes": 8456450,
   "reconexiones": 0,
-  "eventos": 512,
+  "eventos": 520,
   "errores": [],
-  "nuevos": 2,
+  "nuevos": 1,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5673,
- "falsos": 2556,
+ "total": 5448,
+ "falsos": 2529,
  "largos": {
-  "episodios": 21053,
+  "episodios": 21315,
   "eventos": 186,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1753,
+  "episodios": 1751,
   "eventos": 36
  },
- "mediana": 0.525,
+ "mediana": 0.534,
  "captura": [
   {
    "s": 0.5,
-   "n": 2902,
-   "gan": 7127.23,
-   "nNeta": 749,
-   "neta": 1480.42
+   "n": 2800,
+   "gan": 6575.98,
+   "nNeta": 706,
+   "neta": 1270.45
   },
   {
    "s": 2,
-   "n": 1494,
-   "gan": 3620.82,
-   "nNeta": 299,
-   "neta": 662.65
+   "n": 1459,
+   "gan": 3342.79,
+   "nNeta": 286,
+   "neta": 570.27
   },
   {
    "s": 5,
-   "n": 941,
-   "gan": 2085.31,
-   "nNeta": 119,
-   "neta": 278.06
+   "n": 927,
+   "gan": 1986.31,
+   "nNeta": 115,
+   "neta": 256.47
   },
   {
    "s": 30,
-   "n": 469,
-   "gan": 889.52,
-   "nNeta": 48,
-   "neta": 34.55
+   "n": 467,
+   "gan": 871.38,
+   "nNeta": 47,
+   "neta": 19.76
   }
  ],
- "rentables": 1633,
+ "rentables": 1557,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 82,
-   "descartadas": 248,
-   "neta": 162.45,
-   "dias": 9.76,
-   "semana": 116.5
+   "ops": 80,
+   "descartadas": 236,
+   "neta": 158.17,
+   "dias": 9.73,
+   "semana": 113.79
   },
   {
    "capital": 1000,
-   "ops": 103,
-   "descartadas": 248,
-   "neta": 269.34,
-   "dias": 9.76,
-   "semana": 193.15
+   "ops": 99,
+   "descartadas": 236,
+   "neta": 256.48,
+   "dias": 9.73,
+   "semana": 184.52
   },
   {
    "capital": 2000,
-   "ops": 108,
-   "descartadas": 248,
-   "neta": 376.16,
-   "dias": 9.76,
-   "semana": 269.76
+   "ops": 104,
+   "descartadas": 236,
+   "neta": 354.97,
+   "dias": 9.73,
+   "semana": 255.37
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 3,
-   "horas": 53.3,
-   "episodios": 1292,
+   "horas": 54.2,
+   "episodios": 1293,
    "sospechosas": 6,
    "realistaNeta": 96.47,
    "capital": {
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 69,
+  "n": 68,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5604,
-  "n": 1911,
-  "gan": 4085.47,
-  "nNeta": 363,
-  "neta": 659.44
+  "conDato": 5380,
+  "n": 1863,
+  "gan": 3786.75,
+  "nNeta": 344,
+  "neta": 563.4
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1459
+   "n": 1398
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2084
+   "n": 1990
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1181
+   "n": 1125
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 472
+   "n": 460
   },
   {
    "et": "30 s–5 min",
@@ -271,7 +271,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 115
+   "n": 113
   }
  ],
  "porEvento": [
@@ -311,13 +311,6 @@
    "mediana": 0.106
   },
   {
-   "titulo": "Manchester United FC vs. Aston Villa FC",
-   "n": 111,
-   "gan": 328.93,
-   "neta": 155.22,
-   "mediana": 0.298
-  },
-  {
    "titulo": "Denmark vs. Norway",
    "n": 100,
    "gan": 152.02,
@@ -344,6 +337,13 @@
    "gan": 175.62,
    "neta": 66.75,
    "mediana": 0.177
+  },
+  {
+   "titulo": "Kristiansund BK vs. Vålerenga Fotball",
+   "n": 85,
+   "gan": 231.43,
+   "neta": 0.44,
+   "mediana": 0.115
   }
  ],
  "porHora": [
@@ -633,10 +633,18 @@
   },
   {
    "h": 1795003200000,
-   "n": 1
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795004399200,
+   "titulo": "Juventus FC vs. Oud-Heverlee Leuven Women",
+   "dur": 0.078,
+   "gan": 0.89,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795003284464,
    "titulo": "Highest temperature in Paris on November 18?",
@@ -748,14 +756,6 @@
    "gan": 0.57,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1794979770936,
-   "titulo": "Highest temperature in Shenzhen on November 18?",
-   "dur": 0.006,
-   "gan": 2.63,
-   "neta": 1.57,
-   "lado": "si"
   }
  ]
 }
