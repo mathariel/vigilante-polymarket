@@ -1,84 +1,84 @@
 {
- "actualizado": 1795034343254,
+ "actualizado": 1795037361538,
  "inicio": 1794171916081,
  "ejecucion": {
-  "inicio": 1795031342849,
-  "fin": 1795034343254,
-  "mensajes": 10077551,
-  "reconexiones": 0,
-  "eventos": 542,
+  "inicio": 1795034361191,
+  "fin": 1795037361538,
+  "mensajes": 11198080,
+  "reconexiones": 5,
+  "eventos": 536,
   "errores": [],
-  "nuevos": 4,
+  "nuevos": 15,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5423,
- "falsos": 2517,
+ "total": 5430,
+ "falsos": 2511,
  "largos": {
-  "episodios": 21464,
+  "episodios": 21522,
   "eventos": 189,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1678,
+  "episodios": 1623,
   "eventos": 35
  },
- "mediana": 0.572,
+ "mediana": 0.575,
  "captura": [
   {
    "s": 0.5,
-   "n": 2843,
-   "gan": 6493.07,
-   "nNeta": 787,
-   "neta": 1264.84
+   "n": 2853,
+   "gan": 6495.42,
+   "nNeta": 789,
+   "neta": 1266.64
   },
   {
    "s": 2,
-   "n": 1548,
-   "gan": 3389.21,
+   "n": 1556,
+   "gan": 3394.33,
    "nNeta": 384,
    "neta": 582.33
   },
   {
    "s": 5,
-   "n": 1024,
-   "gan": 2050.91,
+   "n": 1032,
+   "gan": 2056.27,
    "nNeta": 214,
    "neta": 268.29
   },
   {
    "s": 30,
-   "n": 471,
-   "gan": 873.81,
+   "n": 477,
+   "gan": 877.94,
    "nNeta": 50,
    "neta": 20.05
   }
  ],
- "rentables": 1600,
+ "rentables": 1602,
  "porCapital": [
   {
    "capital": 500,
    "ops": 80,
    "descartadas": 333,
    "neta": 158.17,
-   "dias": 9.96,
-   "semana": 111.14
+   "dias": 9.99,
+   "semana": 110.82
   },
   {
    "capital": 1000,
    "ops": 99,
    "descartadas": 333,
    "neta": 256.48,
-   "dias": 9.96,
-   "semana": 180.22
+   "dias": 9.99,
+   "semana": 179.7
   },
   {
    "capital": 2000,
    "ops": 104,
    "descartadas": 333,
    "neta": 354.97,
-   "dias": 9.96,
-   "semana": 249.42
+   "dias": 9.99,
+   "semana": 248.71
   }
  ],
  "maxBloqueoH": 24,
@@ -115,9 +115,9 @@
   {
    "lunes": "2026-11-16",
    "dias": 3,
-   "horas": 61.7,
-   "episodios": 1424,
-   "sospechosas": 7,
+   "horas": 62.5,
+   "episodios": 1439,
+   "sospechosas": 8,
    "realistaNeta": 109.79,
    "capital": {
     "500": 20.45,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 63,
+  "n": 64,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,9 +236,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5360,
-  "n": 1948,
-  "gan": 3822.86,
+  "conDato": 5366,
+  "n": 1957,
+  "gan": 3822.64,
   "nNeta": 441,
   "neta": 575.04
  },
@@ -246,32 +246,32 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1370
+   "n": 1366
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1921
+   "n": 1922
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1101
+   "n": 1103
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 553
+   "n": 555
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 358
+   "n": 363
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 113
+   "n": 114
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794754800000,
-   "n": 36
-  },
   {
    "h": 1794758400000,
    "n": 19
@@ -633,129 +629,133 @@
   },
   {
    "h": 1795032000000,
-   "n": 4
+   "n": 6
+  },
+  {
+   "h": 1795035600000,
+   "n": 13
   }
  ],
  "recientes": [
   {
-   "inicio": 1795033553017,
-   "titulo": "Juventus FC vs. Oud-Heverlee Leuven Women",
-   "dur": 0.683,
-   "gan": 1.17,
+   "inicio": 1795037135540,
+   "titulo": "Chelsea FC vs. Paris Saint-Germain FC",
+   "dur": 1.82,
+   "gan": 8.19,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795032641084,
-   "titulo": "Lowest temperature in Hong Kong on November 20?",
-   "dur": 0.266,
-   "gan": 0.62,
-   "neta": 0.09,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795032640753,
-   "titulo": "Lowest temperature in Hong Kong on November 20?",
-   "dur": 0.018,
-   "gan": 1.1,
-   "neta": 0.53,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795032609120,
+   "inicio": 1795036428967,
    "titulo": "Club Alianza Atlético vs. FBC Melgar",
-   "dur": 1.639,
-   "gan": 0.8,
+   "dur": 0.186,
+   "gan": 0.54,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795031182111,
-   "titulo": "White House # posts November 13 - November 20, 2026?",
-   "dur": 35.2,
-   "gan": 0.73,
-   "neta": 0.12,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795031166745,
-   "titulo": "White House # posts November 13 - November 20, 2026?",
-   "dur": 15.316,
-   "gan": 0.65,
-   "neta": 0.07,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795031152288,
-   "titulo": "White House # posts November 13 - November 20, 2026?",
-   "dur": 14.363,
-   "gan": 0.73,
-   "neta": 0.12,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795031137269,
-   "titulo": "White House # posts November 13 - November 20, 2026?",
-   "dur": 14.96,
-   "gan": 0.59,
-   "neta": 0.05,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795031122188,
-   "titulo": "White House # posts November 13 - November 20, 2026?",
-   "dur": 14.984,
-   "gan": 0.7,
-   "neta": 0.12,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795031106936,
-   "titulo": "White House # posts November 13 - November 20, 2026?",
-   "dur": 15.182,
-   "gan": 0.53,
-   "neta": 0.06,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795031091817,
-   "titulo": "White House # posts November 13 - November 20, 2026?",
-   "dur": 15.036,
-   "gan": 0.51,
-   "neta": 0.05,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795031077131,
-   "titulo": "White House # posts November 13 - November 20, 2026?",
-   "dur": 14.637,
-   "gan": 0.53,
-   "neta": 0.06,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795031072429,
-   "titulo": "White House # posts November 13 - November 20, 2026?",
-   "dur": 4.631,
-   "gan": 0.53,
-   "neta": 0.05,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795031013315,
-   "titulo": "White House # posts November 13 - November 20, 2026?",
-   "dur": 59.001,
+   "inicio": 1795036144988,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 74.094,
    "gan": 0.54,
-   "neta": 0.07,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795035698644,
+   "titulo": "Coritiba FBC vs. Santos FC",
+   "dur": 505.679,
+   "gan": 0.5,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795030996925,
-   "titulo": "White House # posts November 13 - November 20, 2026?",
-   "dur": 16.318,
-   "gan": 0.57,
-   "neta": 0.09,
+   "inicio": 1795036015008,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 129.834,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795036144395,
+   "titulo": "CD Minera vs. FC Cartagena",
+   "dur": 1.013,
+   "gan": 3.8,
+   "neta": 0.37,
    "lado": "si"
+  },
+  {
+   "inicio": 1795036013086,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 1.778,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795035945988,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 67.042,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795035820327,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 125.558,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795035815824,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 4.464,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795035722684,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 36.161,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795035707988,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 13.095,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795035685598,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 22.354,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795035543192,
+   "titulo": "Reus FC Reddis vs. Barakaldo CF",
+   "dur": 1.77,
+   "gan": 1.15,
+   "neta": 0.99,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795035542281,
+   "titulo": "Reus FC Reddis vs. Barakaldo CF",
+   "dur": 0.494,
+   "gan": 0.5,
+   "neta": 0.34,
+   "lado": "no"
   }
  ]
 }
