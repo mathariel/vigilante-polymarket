@@ -1,50 +1,50 @@
 {
- "actualizado": 1794986078177,
+ "actualizado": 1794989093364,
  "inicio": 1794147769972,
  "ejecucion": {
-  "inicio": 1794983077839,
-  "fin": 1794986078177,
-  "mensajes": 7157739,
+  "inicio": 1794986093010,
+  "fin": 1794989093364,
+  "mensajes": 7332215,
   "reconexiones": 0,
-  "eventos": 510,
+  "eventos": 500,
   "errores": [],
   "nuevos": 1,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5993,
- "falsos": 2649,
+ "total": 5959,
+ "falsos": 2640,
  "largos": {
-  "episodios": 20601,
-  "eventos": 183,
+  "episodios": 20648,
+  "eventos": 182,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1759,
+  "episodios": 1758,
   "eventos": 36
  },
- "mediana": 0.515,
+ "mediana": 0.518,
  "captura": [
   {
    "s": 0.5,
-   "n": 3043,
-   "gan": 7532.11,
-   "nNeta": 810,
-   "neta": 1587.45
+   "n": 3033,
+   "gan": 7491.82,
+   "nNeta": 806,
+   "neta": 1568.21
   },
   {
    "s": 2,
-   "n": 1537,
-   "gan": 3730.21,
-   "nNeta": 313,
-   "neta": 678.16
+   "n": 1534,
+   "gan": 3726.61,
+   "nNeta": 312,
+   "neta": 677.7
   },
   {
    "s": 5,
-   "n": 959,
-   "gan": 2132.34,
-   "nNeta": 124,
-   "neta": 279.72
+   "n": 956,
+   "gan": 2128.74,
+   "nNeta": 123,
+   "neta": 279.26
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 34.55
   }
  ],
- "rentables": 1768,
+ "rentables": 1757,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 84,
+   "ops": 83,
    "descartadas": 258,
-   "neta": 164.32,
-   "dias": 9.69,
-   "semana": 118.69
+   "neta": 164.11,
+   "dias": 9.7,
+   "semana": 118.46
   },
   {
    "capital": 1000,
    "ops": 108,
    "descartadas": 258,
-   "neta": 270.67,
-   "dias": 9.69,
-   "semana": 195.51
+   "neta": 270.23,
+   "dias": 9.7,
+   "semana": 195.06
   },
   {
    "capital": 2000,
-   "ops": 116,
+   "ops": 115,
    "descartadas": 258,
-   "neta": 381.48,
-   "dias": 9.69,
-   "semana": 275.55
+   "neta": 381.02,
+   "dias": 9.7,
+   "semana": 275.03
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 3,
-   "horas": 48.3,
-   "episodios": 1280,
+   "horas": 49.2,
+   "episodios": 1281,
    "sospechosas": 6,
    "realistaNeta": 93.4,
    "capital": {
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 76,
+  "n": 73,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5917,
-  "n": 1970,
-  "gan": 4230.71,
-  "nNeta": 382,
-  "neta": 677.05
+  "conDato": 5886,
+  "n": 1966,
+  "gan": 4217.3,
+  "nNeta": 381,
+  "neta": 676.59
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1528
+   "n": 1516
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2255
+   "n": 2238
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1243
+   "n": 1241
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 493
+   "n": 490
   },
   {
    "et": "30 s–5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794711600000,
-   "n": 6
-  },
   {
    "h": 1794715200000,
    "n": 2
@@ -634,9 +630,21 @@
   {
    "h": 1794981600000,
    "n": 1
+  },
+  {
+   "h": 1794985200000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1794988416887,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 1.15,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1794984889155,
    "titulo": "Elon Musk # tweets November 16 - November 18, 2026?",
@@ -746,14 +754,6 @@
    "titulo": "Nicaragua vs. Montserrat",
    "dur": 0.042,
    "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794970917979,
-   "titulo": "Nicaragua vs. Montserrat",
-   "dur": 0.087,
-   "gan": 1.25,
    "neta": 0,
    "lado": "no"
   }
