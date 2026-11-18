@@ -1,22 +1,22 @@
 {
- "actualizado": 1795022272816,
+ "actualizado": 1795025289382,
  "inicio": 1794168965215,
  "ejecucion": {
-  "inicio": 1795019272580,
-  "fin": 1795022272816,
-  "mensajes": 8724367,
+  "inicio": 1795022289082,
+  "fin": 1795025289382,
+  "mensajes": 8583088,
   "reconexiones": 0,
-  "eventos": 524,
+  "eventos": 528,
   "errores": [],
-  "nuevos": 0,
+  "nuevos": 3,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5345,
- "falsos": 2526,
+ "total": 5338,
+ "falsos": 2524,
  "largos": {
-  "episodios": 21446,
-  "eventos": 188,
+  "episodios": 21458,
+  "eventos": 187,
   "dias": 7
  },
  "enEspera": {
@@ -27,15 +27,15 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2751,
-   "gan": 6500.23,
-   "nNeta": 682,
-   "neta": 1253.64
+   "n": 2748,
+   "gan": 6502.65,
+   "nNeta": 684,
+   "neta": 1257.29
   },
   {
    "s": 2,
-   "n": 1445,
-   "gan": 3321.07,
+   "n": 1442,
+   "gan": 3317.76,
    "nNeta": 280,
    "neta": 568.91
   },
@@ -54,31 +54,31 @@
    "neta": 19.76
   }
  ],
- "rentables": 1501,
+ "rentables": 1504,
  "porCapital": [
   {
    "capital": 500,
    "ops": 80,
    "descartadas": 228,
    "neta": 158.17,
-   "dias": 9.86,
-   "semana": 112.31
+   "dias": 9.88,
+   "semana": 112.08
   },
   {
    "capital": 1000,
    "ops": 99,
    "descartadas": 228,
    "neta": 256.48,
-   "dias": 9.86,
-   "semana": 182.11
+   "dias": 9.88,
+   "semana": 181.74
   },
   {
    "capital": 2000,
    "ops": 104,
    "descartadas": 228,
    "neta": 354.97,
-   "dias": 9.86,
-   "semana": 252.04
+   "dias": 9.88,
+   "semana": 251.53
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 3,
-   "horas": 58.3,
-   "episodios": 1297,
+   "horas": 59.2,
+   "episodios": 1300,
    "sospechosas": 7,
    "realistaNeta": 96.47,
    "capital": {
@@ -236,9 +236,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5279,
-  "n": 1844,
-  "gan": 3757.26,
+  "conDato": 5272,
+  "n": 1841,
+  "gan": 3753.95,
   "nNeta": 336,
   "neta": 561.74
  },
@@ -246,17 +246,17 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1376
+   "n": 1375
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1937
+   "n": 1933
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1104
+   "n": 1102
   },
   {
    "et": "5–30 s",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794740400000,
-   "n": 5
-  },
   {
    "h": 1794744000000,
    "n": 4
@@ -634,9 +630,37 @@
   {
    "h": 1795010400000,
    "n": 3
+  },
+  {
+   "h": 1795021200000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795024423268,
+   "titulo": "Real Madrid CF Femenino vs. FC Internazionale Milano",
+   "dur": 1.046,
+   "gan": 6.67,
+   "neta": 3.5,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795024422080,
+   "titulo": "Real Madrid CF Femenino vs. FC Internazionale Milano",
+   "dur": 1.116,
+   "gan": 0.57,
+   "neta": 0.15,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795024421970,
+   "titulo": "Real Madrid CF Femenino vs. FC Internazionale Milano",
+   "dur": 0.019,
+   "gan": 0.57,
+   "neta": 0.21,
+   "lado": "si"
+  },
   {
    "inicio": 1795013994479,
    "titulo": "Highest temperature in Busan on November 19?",
@@ -732,30 +756,6 @@
    "gan": 2.2,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1794994116604,
-   "titulo": "AFC Eskilstuna vs. Enkopings SK",
-   "dur": 0.02,
-   "gan": 7.09,
-   "neta": 3.57,
-   "lado": "si"
-  },
-  {
-   "inicio": 1794991234205,
-   "titulo": "Donald Trump # Truth Social posts November 17 - November 24, 2026?",
-   "dur": 873.989,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1794991021893,
-   "titulo": "Donald Trump # Truth Social posts November 17 - November 24, 2026?",
-   "dur": 212.205,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
