@@ -1,21 +1,21 @@
 {
- "actualizado": 1795115800154,
- "inicio": 1794283491874,
+ "actualizado": 1795118814658,
+ "inicio": 1794286512387,
  "ejecucion": {
-  "inicio": 1795112799872,
-  "fin": 1795115800154,
-  "mensajes": 8129118,
+  "inicio": 1795115814398,
+  "fin": 1795118814658,
+  "mensajes": 10612799,
   "reconexiones": 0,
   "eventos": 568,
   "errores": [],
-  "nuevos": 23,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 89,
+  "nuevosRentables": 4,
+  "nuevosNeta": 6
  },
- "total": 5472,
- "falsos": 2490,
+ "total": 5563,
+ "falsos": 2515,
  "largos": {
-  "episodios": 22787,
+  "episodios": 22678,
   "eventos": 191,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 460,
   "eventos": 30
  },
- "mediana": 0.565,
+ "mediana": 0.563,
  "captura": [
   {
    "s": 0.5,
-   "n": 2866,
-   "gan": 6798.08,
-   "nNeta": 763,
-   "neta": 1388.01
+   "n": 2909,
+   "gan": 6922.4,
+   "nNeta": 781,
+   "neta": 1438.7
   },
   {
    "s": 2,
-   "n": 1589,
-   "gan": 3350.01,
-   "nNeta": 370,
-   "neta": 599.18
+   "n": 1606,
+   "gan": 3370.69,
+   "nNeta": 374,
+   "neta": 605.18
   },
   {
    "s": 5,
-   "n": 1059,
-   "gan": 1999.57,
-   "nNeta": 205,
-   "neta": 291.83
+   "n": 1070,
+   "gan": 2011.7,
+   "nNeta": 207,
+   "neta": 293.53
   },
   {
    "s": 30,
-   "n": 478,
-   "gan": 744.17,
-   "nNeta": 46,
-   "neta": 16.25
+   "n": 484,
+   "gan": 752.95,
+   "nNeta": 47,
+   "neta": 17.62
   }
  ],
- "rentables": 1550,
+ "rentables": 1594,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 77,
-   "descartadas": 321,
-   "neta": 186.35,
-   "dias": 9.58,
-   "semana": 136.23
+   "ops": 79,
+   "descartadas": 323,
+   "neta": 190.65,
+   "dias": 9.61,
+   "semana": 138.87
   },
   {
    "capital": 1000,
-   "ops": 92,
-   "descartadas": 321,
-   "neta": 298.08,
-   "dias": 9.58,
-   "semana": 217.92
+   "ops": 94,
+   "descartadas": 323,
+   "neta": 302.38,
+   "dias": 9.61,
+   "semana": 220.26
   },
   {
    "capital": 2000,
-   "ops": 97,
-   "descartadas": 321,
-   "neta": 396.57,
-   "dias": 9.58,
-   "semana": 289.92
+   "ops": 99,
+   "descartadas": 323,
+   "neta": 400.87,
+   "dias": 9.61,
+   "semana": 292
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 4,
-   "horas": 84.2,
-   "episodios": 2051,
-   "sospechosas": 22,
-   "realistaNeta": 186.46,
+   "horas": 85,
+   "episodios": 2142,
+   "sospechosas": 23,
+   "realistaNeta": 192.46,
    "capital": {
-    "500": 76.85,
-    "1000": 103.24,
-    "2000": 130.75
+    "500": 81.15,
+    "1000": 107.54,
+    "2000": 135.05
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 64,
+  "n": 65,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,42 +236,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5408,
-  "n": 1985,
-  "gan": 3793.66,
-  "nNeta": 422,
-  "neta": 607.8
+  "conDato": 5498,
+  "n": 2004,
+  "gan": 3817.05,
+  "nNeta": 426,
+  "neta": 613.8
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1403
+   "n": 1426
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1901
+   "n": 1938
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1103
+   "n": 1123
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 581
+   "n": 586
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 363
+   "n": 365
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 115
+   "n": 119
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794844800000,
-   "n": 178
-  },
   {
    "h": 1794848400000,
    "n": 31
@@ -633,129 +629,133 @@
   },
   {
    "h": 1795114800000,
-   "n": 14
+   "n": 104
+  },
+  {
+   "h": 1795118400000,
+   "n": 1
   }
  ],
  "recientes": [
   {
-   "inicio": 1795112726053,
+   "inicio": 1795117085518,
+   "titulo": "Paris FC vs. HB Køge",
+   "dur": 1728.882,
+   "gan": 2.26,
+   "neta": 1.37,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795115768044,
    "titulo": "Test Match: New Zealand vs India",
-   "dur": 3073.822,
-   "gan": 2.03,
+   "dur": 3046.356,
+   "gan": 3.03,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795115591397,
-   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
-   "dur": 97.641,
-   "gan": 1.26,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795115589246,
-   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
-   "dur": 1.035,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795115587092,
-   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
-   "dur": 1.045,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795115584921,
-   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
-   "dur": 1.051,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795115582784,
-   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
-   "dur": 1.032,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795115493404,
-   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
-   "dur": 88.267,
-   "gan": 1.05,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795115491251,
-   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
-   "dur": 1.036,
-   "gan": 1.05,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795115490178,
-   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
-   "dur": 0.706,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795114861671,
-   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
-   "dur": 628.473,
-   "gan": 1.16,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795115163126,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 16.784,
-   "gan": 0.6,
-   "neta": 0,
+   "inicio": 1795118454088,
+   "titulo": "FC Barcelona vs. Servette FC Chênois Féminin",
+   "dur": 8.669,
+   "gan": 0.5,
+   "neta": 0.33,
    "lado": "si"
   },
   {
-   "inicio": 1795115015788,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
-   "dur": 1.194,
-   "gan": 0.56,
+   "inicio": 1795117870089,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 44.386,
+   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795114922205,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 39.034,
-   "gan": 1.77,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795114681642,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 240.52,
-   "gan": 0.95,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795114834359,
+   "inicio": 1795117848522,
    "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
-   "dur": 27.278,
+   "dur": 20.948,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795117837881,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 10.499,
+   "gan": 0.93,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795117588987,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 26.585,
    "gan": 0.51,
    "neta": 0,
    "lado": "no"
+  },
+  {
+   "inicio": 1795116739916,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 836.197,
+   "gan": 1.02,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795117199598,
+   "titulo": "Paris FC vs. HB Køge",
+   "dur": 1.376,
+   "gan": 3.62,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795117199136,
+   "titulo": "Paris FC vs. HB Køge",
+   "dur": 0.339,
+   "gan": 3.62,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795117198178,
+   "titulo": "Paris FC vs. HB Køge",
+   "dur": 0.838,
+   "gan": 3.62,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795117197719,
+   "titulo": "Paris FC vs. HB Køge",
+   "dur": 0.289,
+   "gan": 4.4,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795117193694,
+   "titulo": "Paris FC vs. HB Køge",
+   "dur": 0.497,
+   "gan": 0.64,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795117183683,
+   "titulo": "Paris FC vs. HB Køge",
+   "dur": 2.804,
+   "gan": 0.68,
+   "neta": 0.56,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795117176227,
+   "titulo": "Paris FC vs. HB Køge",
+   "dur": 2.909,
+   "gan": 0.53,
+   "neta": 0.44,
+   "lado": "si"
   }
  ]
 }
