@@ -1,43 +1,43 @@
 {
- "actualizado": 1795088644855,
- "inicio": 1794247332625,
+ "actualizado": 1795091659761,
+ "inicio": 1794250348952,
  "ejecucion": {
-  "inicio": 1795085644519,
-  "fin": 1795088644855,
-  "mensajes": 8750975,
-  "reconexiones": 5,
-  "eventos": 555,
+  "inicio": 1795088659423,
+  "fin": 1795091659761,
+  "mensajes": 8967839,
+  "reconexiones": 0,
+  "eventos": 566,
   "errores": [],
   "nuevos": 1,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevosRentables": 1,
+  "nuevosNeta": 3.54
  },
- "total": 5554,
- "falsos": 2510,
+ "total": 5533,
+ "falsos": 2507,
  "largos": {
-  "episodios": 22602,
-  "eventos": 193,
+  "episodios": 22627,
+  "eventos": 192,
   "dias": 7
  },
  "enEspera": {
   "episodios": 509,
   "eventos": 33
  },
- "mediana": 0.542,
+ "mediana": 0.547,
  "captura": [
   {
    "s": 0.5,
-   "n": 2873,
-   "gan": 6804.73,
-   "nNeta": 779,
-   "neta": 1380.05
+   "n": 2870,
+   "gan": 6804.65,
+   "nNeta": 780,
+   "neta": 1383.59
   },
   {
    "s": 2,
-   "n": 1560,
-   "gan": 3287.49,
-   "nNeta": 371,
-   "neta": 571.79
+   "n": 1561,
+   "gan": 3292.38,
+   "nNeta": 372,
+   "neta": 575.33
   },
   {
    "s": 5,
@@ -54,31 +54,31 @@
    "neta": 16.57
   }
  ],
- "rentables": 1597,
+ "rentables": 1596,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 77,
+   "ops": 78,
    "descartadas": 322,
-   "neta": 176.28,
-   "dias": 9.69,
-   "semana": 127.31
+   "neta": 179.82,
+   "dias": 9.72,
+   "semana": 129.54
   },
   {
    "capital": 1000,
-   "ops": 92,
+   "ops": 93,
    "descartadas": 322,
-   "neta": 271.16,
-   "dias": 9.69,
-   "semana": 195.84
+   "neta": 274.7,
+   "dias": 9.72,
+   "semana": 197.9
   },
   {
    "capital": 2000,
-   "ops": 97,
+   "ops": 98,
    "descartadas": 322,
-   "neta": 369.65,
-   "dias": 9.69,
-   "semana": 266.97
+   "neta": 373.19,
+   "dias": 9.72,
+   "semana": 268.85
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 4,
-   "horas": 76.7,
-   "episodios": 1911,
+   "horas": 77.5,
+   "episodios": 1912,
    "sospechosas": 21,
-   "realistaNeta": 148.19,
+   "realistaNeta": 151.73,
    "capital": {
-    "500": 55.96,
-    "1000": 65.5,
-    "2000": 93.01
+    "500": 59.5,
+    "1000": 69.04,
+    "2000": 96.55
    },
    "cumple": true
   }
@@ -236,27 +236,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5484,
-  "n": 1953,
-  "gan": 3734.49,
-  "nNeta": 423,
-  "neta": 582.67
+  "conDato": 5463,
+  "n": 1954,
+  "gan": 3739.38,
+  "nNeta": 424,
+  "neta": 586.21
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1447
+   "n": 1437
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1967
+   "n": 1957
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1100
+   "n": 1099
   },
   {
    "et": "5–30 s",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794801600000,
-   "n": 4
-  },
   {
    "h": 1794808800000,
    "n": 4
@@ -634,9 +630,21 @@
   {
    "h": 1795086000000,
    "n": 1
+  },
+  {
+   "h": 1795089600000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795090403430,
+   "titulo": "PKR Svay Rieng vs. Port FC",
+   "dur": 3.326,
+   "gan": 5.09,
+   "neta": 3.74,
+   "lado": "no"
+  },
   {
    "inicio": 1795087944518,
    "titulo": "CE Sabadell FC vs. Granada CF",
@@ -746,14 +754,6 @@
    "titulo": "Bitcoin price on November 19?",
    "dur": 0.049,
    "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795059844364,
-   "titulo": "Bitcoin price on November 19?",
-   "dur": 0.021,
-   "gan": 0.57,
    "neta": 0,
    "lado": "si"
   }
