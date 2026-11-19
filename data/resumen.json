@@ -1,84 +1,84 @@
 {
- "actualizado": 1795091659761,
+ "actualizado": 1795094677015,
  "inicio": 1794250348952,
  "ejecucion": {
-  "inicio": 1795088659423,
-  "fin": 1795091659761,
-  "mensajes": 8967839,
+  "inicio": 1795091676419,
+  "fin": 1795094677015,
+  "mensajes": 9870400,
   "reconexiones": 0,
-  "eventos": 566,
+  "eventos": 576,
   "errores": [],
-  "nuevos": 1,
-  "nuevosRentables": 1,
-  "nuevosNeta": 3.54
+  "nuevos": 10,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5533,
- "falsos": 2507,
+ "total": 5498,
+ "falsos": 2488,
  "largos": {
-  "episodios": 22627,
+  "episodios": 22687,
   "eventos": 192,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 509,
+  "episodios": 507,
   "eventos": 33
  },
- "mediana": 0.547,
+ "mediana": 0.55,
  "captura": [
   {
    "s": 0.5,
-   "n": 2870,
-   "gan": 6804.65,
-   "nNeta": 780,
-   "neta": 1383.59
+   "n": 2860,
+   "gan": 6763.06,
+   "nNeta": 770,
+   "neta": 1375.19
   },
   {
    "s": 2,
-   "n": 1561,
-   "gan": 3292.38,
-   "nNeta": 372,
-   "neta": 575.33
+   "n": 1560,
+   "gan": 3261.36,
+   "nNeta": 369,
+   "neta": 570.71
   },
   {
    "s": 5,
-   "n": 1034,
-   "gan": 1925.82,
-   "nNeta": 206,
-   "neta": 261.27
+   "n": 1036,
+   "gan": 1923.46,
+   "nNeta": 205,
+   "neta": 258.12
   },
   {
    "s": 30,
-   "n": 463,
-   "gan": 724.68,
+   "n": 465,
+   "gan": 727.01,
    "nNeta": 47,
    "neta": 16.57
   }
  ],
- "rentables": 1596,
+ "rentables": 1577,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 78,
-   "descartadas": 322,
-   "neta": 179.82,
-   "dias": 9.72,
-   "semana": 129.54
+   "ops": 77,
+   "descartadas": 320,
+   "neta": 176.67,
+   "dias": 9.7,
+   "semana": 127.53
   },
   {
    "capital": 1000,
-   "ops": 93,
-   "descartadas": 322,
-   "neta": 274.7,
-   "dias": 9.72,
-   "semana": 197.9
+   "ops": 92,
+   "descartadas": 320,
+   "neta": 271.55,
+   "dias": 9.7,
+   "semana": 196.02
   },
   {
    "capital": 2000,
-   "ops": 98,
-   "descartadas": 322,
-   "neta": 373.19,
-   "dias": 9.72,
-   "semana": 268.85
+   "ops": 97,
+   "descartadas": 320,
+   "neta": 370.04,
+   "dias": 9.7,
+   "semana": 267.11
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 4,
-   "horas": 77.5,
-   "episodios": 1912,
+   "horas": 78.3,
+   "episodios": 1922,
    "sospechosas": 21,
    "realistaNeta": 151.73,
    "capital": {
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 70,
+  "n": 69,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,27 +236,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5463,
-  "n": 1954,
-  "gan": 3739.38,
-  "nNeta": 424,
-  "neta": 586.21
+  "conDato": 5429,
+  "n": 1955,
+  "gan": 3709.44,
+  "nNeta": 421,
+  "neta": 581.59
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1437
+   "n": 1423
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1957
+   "n": 1935
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1099
+   "n": 1098
   },
   {
    "et": "5–30 s",
@@ -266,12 +266,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 353
+   "n": 354
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 110
+   "n": 111
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794808800000,
-   "n": 4
-  },
   {
    "h": 1794812400000,
    "n": 1
@@ -633,10 +629,94 @@
   },
   {
    "h": 1795089600000,
-   "n": 1
+   "n": 7
+  },
+  {
+   "h": 1795093200000,
+   "n": 4
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795093529976,
+   "titulo": "Test Match: New Zealand vs India",
+   "dur": 1146.446,
+   "gan": 1.47,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795094522850,
+   "titulo": "Donald Trump # Truth Social posts November 17 - November 24, 2026?",
+   "dur": 0.013,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795093666468,
+   "titulo": "Donald Trump # Truth Social posts November 17 - November 24, 2026?",
+   "dur": 1.945,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795093252934,
+   "titulo": "Cong An Ha Noi FC vs. Johor Darul Ta'zim",
+   "dur": 5.535,
+   "gan": 5.8,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795092774151,
+   "titulo": "FC Barcelona vs. Servette FC Chênois Féminin",
+   "dur": 0.026,
+   "gan": 1.74,
+   "neta": 0.18,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795092741486,
+   "titulo": "FC Barcelona vs. Servette FC Chênois Féminin",
+   "dur": 18.029,
+   "gan": 0.82,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795092708538,
+   "titulo": "FC Barcelona vs. Servette FC Chênois Féminin",
+   "dur": 15.181,
+   "gan": 0.82,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795092489571,
+   "titulo": "FC Barcelona vs. Servette FC Chênois Féminin",
+   "dur": 202.454,
+   "gan": 1.86,
+   "neta": 0.06,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795092682183,
+   "titulo": "Al Wasl FC vs. Hatta SC",
+   "dur": 1,
+   "gan": 0.85,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795092202316,
+   "titulo": "FC Barcelona vs. Servette FC Chênois Féminin",
+   "dur": 1.701,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795090403430,
    "titulo": "PKR Svay Rieng vs. Port FC",
@@ -675,86 +755,6 @@
    "dur": 0.18,
    "gan": 23.59,
    "neta": 22.9,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795079589673,
-   "titulo": "Test Match: South Africa vs Bangladesh",
-   "dur": 0.76,
-   "gan": 1.05,
-   "neta": 0.88,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795079552234,
-   "titulo": "Test Match: South Africa vs Bangladesh",
-   "dur": 3.293,
-   "gan": 1.06,
-   "neta": 0.9,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795068827835,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
-   "dur": 2.736,
-   "gan": 1.2,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795067946758,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 0.787,
-   "gan": 0.5,
-   "neta": 0.29,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795067943854,
-   "titulo": "Test Match: Pakistan vs Sri Lanka",
-   "dur": 0.21,
-   "gan": 0.5,
-   "neta": 0.29,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795067700204,
-   "titulo": "Lowest temperature in London on November 19?",
-   "dur": 0.538,
-   "gan": 0.53,
-   "neta": 0.43,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795063676280,
-   "titulo": "White House # posts November 13 - November 20, 2026?",
-   "dur": 0.333,
-   "gan": 0.56,
-   "neta": 0.29,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795059844665,
-   "titulo": "Bitcoin price on November 19?",
-   "dur": 0.042,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795059844656,
-   "titulo": "Bitcoin price on November 19?",
-   "dur": 0.009,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795059844506,
-   "titulo": "Bitcoin price on November 19?",
-   "dur": 0.049,
-   "gan": 0.51,
-   "neta": 0,
    "lado": "si"
   }
  ]
