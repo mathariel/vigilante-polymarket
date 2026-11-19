@@ -1,84 +1,84 @@
 {
- "actualizado": 1795043400279,
- "inicio": 1794171916081,
+ "actualizado": 1795046414856,
+ "inicio": 1794174936287,
  "ejecucion": {
-  "inicio": 1795040400013,
-  "fin": 1795043400279,
-  "mensajes": 7950258,
-  "reconexiones": 1,
-  "eventos": 535,
+  "inicio": 1795043414580,
+  "fin": 1795046414856,
+  "mensajes": 7855453,
+  "reconexiones": 0,
+  "eventos": 533,
   "errores": [],
-  "nuevos": 58,
+  "nuevos": 20,
   "nuevosRentables": 1,
-  "nuevosNeta": 0.05
+  "nuevosNeta": 0.27
  },
- "total": 5476,
- "falsos": 2534,
+ "total": 5477,
+ "falsos": 2542,
  "largos": {
-  "episodios": 21560,
-  "eventos": 189,
+  "episodios": 21625,
+  "eventos": 188,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1523,
-  "eventos": 35
+  "episodios": 1453,
+  "eventos": 36
  },
- "mediana": 0.578,
+ "mediana": 0.582,
  "captura": [
   {
    "s": 0.5,
-   "n": 2883,
-   "gan": 6758.71,
-   "nNeta": 785,
-   "neta": 1266.87
+   "n": 2891,
+   "gan": 6771.22,
+   "nNeta": 786,
+   "neta": 1262.57
   },
   {
    "s": 2,
-   "n": 1581,
-   "gan": 3403.46,
-   "nNeta": 384,
-   "neta": 569.13
+   "n": 1584,
+   "gan": 3408.21,
+   "nNeta": 382,
+   "neta": 562.33
   },
   {
    "s": 5,
-   "n": 1054,
-   "gan": 2083.1,
-   "nNeta": 216,
-   "neta": 268.38
+   "n": 1057,
+   "gan": 2089.5,
+   "nNeta": 215,
+   "neta": 267.19
   },
   {
    "s": 30,
-   "n": 480,
-   "gan": 881.96,
+   "n": 481,
+   "gan": 883.39,
    "nNeta": 51,
    "neta": 20.09
   }
  ],
- "rentables": 1588,
+ "rentables": 1591,
  "porCapital": [
   {
    "capital": 500,
    "ops": 82,
-   "descartadas": 334,
+   "descartadas": 333,
    "neta": 146.86,
    "dias": 10.03,
-   "semana": 102.47
+   "semana": 102.49
   },
   {
    "capital": 1000,
    "ops": 97,
-   "descartadas": 334,
+   "descartadas": 333,
    "neta": 243.19,
    "dias": 10.03,
-   "semana": 169.69
+   "semana": 169.72
   },
   {
    "capital": 2000,
    "ops": 102,
-   "descartadas": 334,
+   "descartadas": 333,
    "neta": 341.68,
    "dias": 10.03,
-   "semana": 238.41
+   "semana": 238.45
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 3,
-   "horas": 64.2,
-   "episodios": 1525,
+   "horas": 65,
+   "episodios": 1545,
    "sospechosas": 11,
-   "realistaNeta": 109.88,
+   "realistaNeta": 110.15,
    "capital": {
     "500": 20.45,
     "1000": 29.6,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 66,
+  "n": 65,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,37 +236,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5410,
-  "n": 1981,
-  "gan": 3831.06,
-  "nNeta": 440,
-  "neta": 561.73
+  "conDato": 5412,
+  "n": 1985,
+  "gan": 3840.65,
+  "nNeta": 439,
+  "neta": 559.44
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1378
+   "n": 1373
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1932
+   "n": 1933
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1105
+   "n": 1107
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 574
+   "n": 576
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 366
+   "n": 367
   },
   {
    "et": "> 5 min",
@@ -633,129 +633,129 @@
   },
   {
    "h": 1795042800000,
-   "n": 8
+   "n": 28
   }
  ],
  "recientes": [
   {
-   "inicio": 1795043304084,
-   "titulo": "Coritiba FBC vs. Santos FC",
-   "dur": 10.507,
-   "gan": 2.29,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795043303455,
-   "titulo": "Coritiba FBC vs. Santos FC",
-   "dur": 0.002,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795043293808,
-   "titulo": "Coritiba FBC vs. Santos FC",
-   "dur": 9.627,
-   "gan": 2.04,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795043236124,
-   "titulo": "Coritiba FBC vs. Santos FC",
-   "dur": 12.522,
-   "gan": 1.31,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795042872123,
-   "titulo": "Coritiba FBC vs. Santos FC",
-   "dur": 7.028,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795042848939,
-   "titulo": "Coritiba FBC vs. Santos FC",
-   "dur": 22.691,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795042803177,
-   "titulo": "Coritiba FBC vs. Santos FC",
-   "dur": 9.949,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795042802095,
-   "titulo": "Coritiba FBC vs. Santos FC",
-   "dur": 0.776,
-   "gan": 1.79,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795042763635,
-   "titulo": "Coritiba FBC vs. Santos FC",
-   "dur": 1.292,
-   "gan": 1.1,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795042759790,
-   "titulo": "Coritiba FBC vs. Santos FC",
+   "inicio": 1795046163884,
+   "titulo": "CR Flamengo vs. CA Paranaense",
    "dur": 0.55,
-   "gan": 0.51,
+   "gan": 0.5,
+   "neta": 0.19,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795046156697,
+   "titulo": "CR Flamengo vs. CA Paranaense",
+   "dur": 3.643,
+   "gan": 2.09,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795042749506,
-   "titulo": "Coritiba FBC vs. Santos FC - Halftime Result",
-   "dur": 0.011,
-   "gan": 0.75,
-   "neta": 0.14,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795042749170,
-   "titulo": "Coritiba FBC vs. Santos FC - Halftime Result",
-   "dur": 0.206,
-   "gan": 0.94,
-   "neta": 0.09,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795042749152,
-   "titulo": "Coritiba FBC vs. Santos FC - Halftime Result",
-   "dur": 0.007,
-   "gan": 0.54,
-   "neta": 0.03,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795042731772,
-   "titulo": "Coritiba FBC vs. Santos FC",
-   "dur": 0.027,
+   "inicio": 1795046146972,
+   "titulo": "CR Flamengo vs. CA Paranaense",
+   "dur": 0.068,
    "gan": 0.52,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795042731720,
-   "titulo": "Coritiba FBC vs. Santos FC",
-   "dur": 0.026,
-   "gan": 0.52,
+   "inicio": 1795046145497,
+   "titulo": "CR Flamengo vs. CA Paranaense",
+   "dur": 1.474,
+   "gan": 0.76,
    "neta": 0,
    "lado": "no"
+  },
+  {
+   "inicio": 1795046101583,
+   "titulo": "CR Flamengo vs. CA Paranaense",
+   "dur": 5.089,
+   "gan": 1.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795046046714,
+   "titulo": "CR Flamengo vs. CA Paranaense",
+   "dur": 8.241,
+   "gan": 0.64,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795045947800,
+   "titulo": "CR Flamengo vs. CA Paranaense - Halftime Result",
+   "dur": 0.143,
+   "gan": 0.86,
+   "neta": 0.04,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795045947510,
+   "titulo": "CR Flamengo vs. CA Paranaense - Halftime Result",
+   "dur": 0.07,
+   "gan": 1.36,
+   "neta": 0.45,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795045866830,
+   "titulo": "Coritiba FBC vs. Santos FC",
+   "dur": 0.39,
+   "gan": 0.85,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795045717320,
+   "titulo": "Cruzeiro EC vs. SE Palmeiras",
+   "dur": 1.263,
+   "gan": 2.32,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795045717300,
+   "titulo": "Cruzeiro EC vs. SE Palmeiras",
+   "dur": 0.003,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795045653933,
+   "titulo": "CR Flamengo vs. CA Paranaense",
+   "dur": 26.377,
+   "gan": 1.01,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795045652941,
+   "titulo": "CR Flamengo vs. CA Paranaense",
+   "dur": 0.95,
+   "gan": 0.77,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795045649255,
+   "titulo": "CR Flamengo vs. CA Paranaense",
+   "dur": 1.626,
+   "gan": 2.1,
+   "neta": 0.26,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795045395189,
+   "titulo": "CR Flamengo vs. CA Paranaense",
+   "dur": 7.215,
+   "gan": 6.98,
+   "neta": 0,
+   "lado": "si"
   }
  ]
 }
