@@ -1,84 +1,84 @@
 {
- "actualizado": 1795058491175,
+ "actualizado": 1795061507298,
  "inicio": 1794180990750,
  "ejecucion": {
-  "inicio": 1795055490833,
-  "fin": 1795058491175,
-  "mensajes": 7311126,
+  "inicio": 1795058506933,
+  "fin": 1795061507298,
+  "mensajes": 6675431,
   "reconexiones": 0,
-  "eventos": 540,
+  "eventos": 538,
   "errores": [],
-  "nuevos": 1,
+  "nuevos": 179,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5615,
- "falsos": 2502,
+ "total": 5703,
+ "falsos": 2493,
  "largos": {
-  "episodios": 21813,
-  "eventos": 193,
+  "episodios": 21744,
+  "eventos": 191,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1193,
+  "episodios": 1189,
   "eventos": 36
  },
- "mediana": 0.576,
+ "mediana": 0.535,
  "captura": [
   {
    "s": 0.5,
-   "n": 2959,
-   "gan": 7057.28,
-   "nNeta": 806,
-   "neta": 1394.88
+   "n": 2936,
+   "gan": 7017.93,
+   "nNeta": 788,
+   "neta": 1383.73
   },
   {
    "s": 2,
-   "n": 1615,
-   "gan": 3498.01,
-   "nNeta": 386,
-   "neta": 579.26
+   "n": 1608,
+   "gan": 3486.22,
+   "nNeta": 380,
+   "neta": 577.47
   },
   {
    "s": 5,
-   "n": 1077,
-   "gan": 2121.64,
-   "nNeta": 213,
-   "neta": 265.39
+   "n": 1071,
+   "gan": 2111.11,
+   "nNeta": 211,
+   "neta": 264.8
   },
   {
    "s": 30,
-   "n": 484,
-   "gan": 891.14,
+   "n": 480,
+   "gan": 885.58,
    "nNeta": 51,
    "neta": 20.09
   }
  ],
- "rentables": 1656,
+ "rentables": 1620,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 83,
-   "descartadas": 337,
-   "neta": 180.82,
-   "dias": 10.12,
-   "semana": 125.04
+   "ops": 78,
+   "descartadas": 331,
+   "neta": 176.63,
+   "dias": 9.98,
+   "semana": 123.84
   },
   {
    "capital": 1000,
-   "ops": 98,
-   "descartadas": 337,
-   "neta": 275.7,
-   "dias": 10.12,
-   "semana": 190.65
+   "ops": 93,
+   "descartadas": 331,
+   "neta": 271.51,
+   "dias": 9.98,
+   "semana": 190.36
   },
   {
    "capital": 2000,
-   "ops": 103,
-   "descartadas": 337,
-   "neta": 374.19,
-   "dias": 10.12,
-   "semana": 258.75
+   "ops": 98,
+   "descartadas": 331,
+   "neta": 370,
+   "dias": 9.98,
+   "semana": 259.41
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 3,
-   "horas": 68.3,
-   "episodios": 1721,
+   "horas": 69.2,
+   "episodios": 1900,
    "sospechosas": 19,
    "realistaNeta": 147.29,
    "capital": {
@@ -236,42 +236,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5546,
-  "n": 2021,
-  "gan": 3958.02,
-  "nNeta": 444,
-  "neta": 593.15
+  "conDato": 5634,
+  "n": 2013,
+  "gan": 3943.89,
+  "nNeta": 433,
+  "neta": 588.01
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1418
+   "n": 1487
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1977
+   "n": 2017
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1136
+   "n": 1122
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 593
+   "n": 591
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 370
+   "n": 367
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 114
+   "n": 113
   }
  ],
  "porEvento": [
@@ -288,6 +288,13 @@
    "gan": 537.93,
    "neta": 19.93,
    "mediana": 0.203
+  },
+  {
+   "titulo": "Bitcoin price on November 19?",
+   "n": 179,
+   "gan": 124.38,
+   "neta": 0,
+   "mediana": 0.099
   },
   {
    "titulo": "Kazakhstan vs. Slovakia",
@@ -337,13 +344,6 @@
    "gan": 153.59,
    "neta": 55.81,
    "mediana": 0.406
-  },
-  {
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
-   "n": 91,
-   "gan": 67.62,
-   "neta": 14.82,
-   "mediana": 9.434
   }
  ],
  "porHora": [
@@ -633,127 +633,127 @@
   },
   {
    "h": 1795057200000,
-   "n": 1
+   "n": 180
   }
  ],
  "recientes": [
   {
-   "inicio": 1795057494573,
-   "titulo": "White House # posts November 13 - November 20, 2026?",
-   "dur": 0.285,
-   "gan": 0.5,
-   "neta": 0.22,
+   "inicio": 1795059844665,
+   "titulo": "Bitcoin price on November 19?",
+   "dur": 0.042,
+   "gan": 0.51,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795055105019,
-   "titulo": "Grêmio FBPA vs. EC Bahia",
-   "dur": 0.018,
+   "inicio": 1795059844656,
+   "titulo": "Bitcoin price on November 19?",
+   "dur": 0.009,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795059844506,
+   "titulo": "Bitcoin price on November 19?",
+   "dur": 0.049,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795059844364,
+   "titulo": "Bitcoin price on November 19?",
+   "dur": 0.021,
    "gan": 0.57,
-   "neta": 0.26,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795055003521,
-   "titulo": "Grêmio FBPA vs. EC Bahia",
-   "dur": 0.8,
-   "gan": 2.7,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795054370223,
-   "titulo": "Grêmio FBPA vs. EC Bahia",
-   "dur": 1.07,
+   "inicio": 1795059843543,
+   "titulo": "Bitcoin price on November 19?",
+   "dur": 0.074,
    "gan": 0.54,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795054369409,
-   "titulo": "Grêmio FBPA vs. EC Bahia",
-   "dur": 0.089,
+   "inicio": 1795059843360,
+   "titulo": "Bitcoin price on November 19?",
+   "dur": 0.095,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795059763099,
+   "titulo": "Bitcoin price on November 19?",
+   "dur": 0.204,
    "gan": 0.54,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795054364361,
-   "titulo": "Grêmio FBPA vs. EC Bahia",
-   "dur": 0.326,
-   "gan": 0.75,
-   "neta": 0.46,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795054364279,
-   "titulo": "Grêmio FBPA vs. EC Bahia",
-   "dur": 0.032,
-   "gan": 2.67,
-   "neta": 1.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795054357886,
-   "titulo": "Grêmio FBPA vs. EC Bahia",
-   "dur": 1.838,
-   "gan": 1.46,
-   "neta": 0.16,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795054356398,
-   "titulo": "Grêmio FBPA vs. EC Bahia",
-   "dur": 0.13,
-   "gan": 0.55,
-   "neta": 0.26,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795054344580,
-   "titulo": "Grêmio FBPA vs. EC Bahia",
-   "dur": 0.708,
-   "gan": 0.92,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795054323212,
-   "titulo": "Grêmio FBPA vs. EC Bahia",
-   "dur": 1.395,
-   "gan": 0.86,
+   "inicio": 1795059755208,
+   "titulo": "Bitcoin price on November 19?",
+   "dur": 7.808,
+   "gan": 0.54,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795054317257,
-   "titulo": "Grêmio FBPA vs. EC Bahia",
-   "dur": 0.039,
-   "gan": 0.75,
-   "neta": 0.49,
+   "inicio": 1795059740740,
+   "titulo": "Bitcoin price on November 19?",
+   "dur": 0.119,
+   "gan": 0.54,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795054316396,
-   "titulo": "Grêmio FBPA vs. EC Bahia",
-   "dur": 0.32,
-   "gan": 1.32,
-   "neta": 0.17,
+   "inicio": 1795059740472,
+   "titulo": "Bitcoin price on November 19?",
+   "dur": 0.186,
+   "gan": 0.54,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795054311054,
-   "titulo": "Grêmio FBPA vs. EC Bahia",
-   "dur": 0.045,
-   "gan": 5.02,
-   "neta": 0.48,
+   "inicio": 1795059678980,
+   "titulo": "Bitcoin price on November 19?",
+   "dur": 0.065,
+   "gan": 0.8,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795054298127,
-   "titulo": "Grêmio FBPA vs. EC Bahia",
-   "dur": 0.355,
-   "gan": 1.67,
+   "inicio": 1795059663092,
+   "titulo": "Bitcoin price on November 19?",
+   "dur": 15.856,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795059605584,
+   "titulo": "Bitcoin price on November 19?",
+   "dur": 39.26,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795059605446,
+   "titulo": "Bitcoin price on November 19?",
+   "dur": 0.119,
+   "gan": 0.85,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795059605191,
+   "titulo": "Bitcoin price on November 19?",
+   "dur": 0.22,
+   "gan": 0.67,
    "neta": 0,
    "lado": "si"
   }
