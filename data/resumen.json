@@ -1,84 +1,84 @@
 {
- "actualizado": 1795100707521,
+ "actualizado": 1795103723804,
  "inicio": 1794253031498,
  "ejecucion": {
-  "inicio": 1795097707219,
-  "fin": 1795100707521,
-  "mensajes": 9201621,
+  "inicio": 1795100723464,
+  "fin": 1795103723804,
+  "mensajes": 9284029,
   "reconexiones": 0,
-  "eventos": 582,
+  "eventos": 577,
   "errores": [],
-  "nuevos": 1,
+  "nuevos": 15,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5471,
- "falsos": 2473,
+ "total": 5464,
+ "falsos": 2468,
  "largos": {
-  "episodios": 22756,
+  "episodios": 22773,
   "eventos": 191,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 491,
-  "eventos": 32
+  "episodios": 489,
+  "eventos": 30
  },
- "mediana": 0.55,
+ "mediana": 0.553,
  "captura": [
   {
    "s": 0.5,
-   "n": 2845,
-   "gan": 6782.03,
-   "nNeta": 766,
-   "neta": 1407.74
+   "n": 2849,
+   "gan": 6817.23,
+   "nNeta": 764,
+   "neta": 1406.98
   },
   {
    "s": 2,
-   "n": 1560,
-   "gan": 3305.93,
+   "n": 1567,
+   "gan": 3328.52,
    "nNeta": 369,
    "neta": 604.85
   },
   {
    "s": 5,
-   "n": 1037,
-   "gan": 1968.72,
+   "n": 1040,
+   "gan": 1979.4,
    "nNeta": 205,
    "neta": 291.83
   },
   {
    "s": 30,
-   "n": 466,
-   "gan": 728.17,
+   "n": 465,
+   "gan": 727.21,
    "nNeta": 46,
    "neta": 16.25
   }
  ],
- "rentables": 1567,
+ "rentables": 1557,
  "porCapital": [
   {
    "capital": 500,
    "ops": 78,
    "descartadas": 317,
    "neta": 193.85,
-   "dias": 9.74,
-   "semana": 139.36
+   "dias": 9.62,
+   "semana": 141.04
   },
   {
    "capital": 1000,
    "ops": 93,
    "descartadas": 317,
    "neta": 305.58,
-   "dias": 9.74,
-   "semana": 219.68
+   "dias": 9.62,
+   "semana": 222.33
   },
   {
    "capital": 2000,
    "ops": 98,
    "descartadas": 317,
    "neta": 404.07,
-   "dias": 9.74,
-   "semana": 290.48
+   "dias": 9.62,
+   "semana": 293.99
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 4,
-   "horas": 80,
-   "episodios": 1931,
+   "horas": 80.8,
+   "episodios": 1946,
    "sospechosas": 22,
    "realistaNeta": 185.76,
    "capital": {
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 69,
+  "n": 66,
   "top": [
    {
     "inicio": 1794738069985,
@@ -141,16 +141,6 @@
     "neta": 66.39,
     "costo": 113.14,
     "ret": 60.3
-   },
-   {
-    "inicio": 1794263162651,
-    "titulo": "CD Tecnico Universitario vs. Manta FC",
-    "lado": "si",
-    "dur": 0.018,
-    "gan": 35.69,
-    "neta": 33.56,
-    "costo": 65.13,
-    "ret": 54.8
    },
    {
     "inicio": 1794769805301,
@@ -203,16 +193,6 @@
     "ret": 49.6
    },
    {
-    "inicio": 1794263162676,
-    "titulo": "CD Tecnico Universitario vs. Manta FC",
-    "lado": "si",
-    "dur": 0.059,
-    "gan": 22.24,
-    "neta": 21.21,
-    "costo": 27.76,
-    "ret": 80.1
-   },
-   {
     "inicio": 1794559847719,
     "titulo": "Highest temperature in Tel Aviv on November 13?",
     "lado": "si",
@@ -231,14 +211,34 @@
     "neta": 18.76,
     "costo": 74.6,
     "ret": 27.8
+   },
+   {
+    "inicio": 1794588570882,
+    "titulo": "Highest temperature in Panama City on November 13?",
+    "lado": "si",
+    "dur": 0.032,
+    "gan": 19.81,
+    "neta": 18.58,
+    "costo": 57.39,
+    "ret": 34.5
+   },
+   {
+    "inicio": 1795054293964,
+    "titulo": "Grêmio FBPA vs. EC Bahia",
+    "lado": "si",
+    "dur": 0.082,
+    "gan": 18.21,
+    "neta": 15.48,
+    "costo": 81.79,
+    "ret": 22.3
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5402,
-  "n": 1952,
-  "gan": 3751.31,
+  "conDato": 5398,
+  "n": 1958,
+  "gan": 3771.12,
   "nNeta": 419,
   "neta": 614.89
  },
@@ -246,32 +246,32 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1418
+   "n": 1410
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1918
+   "n": 1912
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1092
+   "n": 1096
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 571
+   "n": 575
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 353
+   "n": 354
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 113
+   "n": 111
   }
  ],
  "porEvento": [
@@ -340,17 +340,13 @@
   },
   {
    "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "n": 93,
-   "gan": 152.21,
+   "n": 91,
+   "gan": 150.01,
    "neta": 55.81,
-   "mediana": 0.403
+   "mediana": 0.36
   }
  ],
  "porHora": [
-  {
-   "h": 1794816000000,
-   "n": 18
-  },
   {
    "h": 1794819600000,
    "n": 50
@@ -634,126 +630,130 @@
   {
    "h": 1795096800000,
    "n": 4
+  },
+  {
+   "h": 1795100400000,
+   "n": 15
   }
  ],
  "recientes": [
   {
-   "inicio": 1795097712550,
-   "titulo": "Test Match: New Zealand vs India",
-   "dur": 1838.986,
-   "gan": 1.17,
+   "inicio": 1795103669066,
+   "titulo": "SE Palmeiras vs. CR Flamengo",
+   "dur": 2.34,
+   "gan": 4.75,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795097043928,
-   "titulo": "Test Match: New Zealand vs India",
-   "dur": 646.541,
-   "gan": 1.17,
+   "inicio": 1795103627610,
+   "titulo": "SE Palmeiras vs. CR Flamengo",
+   "dur": 1.093,
+   "gan": 5.05,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795097558763,
-   "titulo": "FK Termez Surkhon vs. FC Andijon",
-   "dur": 5.152,
-   "gan": 47.9,
-   "neta": 36.35,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795094692736,
-   "titulo": "Test Match: New Zealand vs India",
-   "dur": 2272.531,
-   "gan": 1.47,
+   "inicio": 1795103067369,
+   "titulo": "SE Palmeiras vs. CR Flamengo",
+   "dur": 10.23,
+   "gan": 4.2,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795096863224,
-   "titulo": "Lowest temperature in Denver on November 19?",
-   "dur": 2.867,
-   "gan": 0.93,
-   "neta": 0.88,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795096687191,
-   "titulo": "Cong An Ha Noi FC vs. Johor Darul Ta'zim",
-   "dur": 1.059,
-   "gan": 4.67,
-   "neta": 3.37,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795095638765,
-   "titulo": "Cong An Ha Noi FC vs. Johor Darul Ta'zim",
-   "dur": 3.004,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795095553040,
-   "titulo": "Cong An Ha Noi FC vs. Johor Darul Ta'zim",
-   "dur": 0.147,
-   "gan": 1.08,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795095539737,
-   "titulo": "Highest temperature in Munich on November 19?",
-   "dur": 0.018,
-   "gan": 0.55,
-   "neta": 0.3,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795093529976,
-   "titulo": "Test Match: New Zealand vs India",
-   "dur": 1146.446,
-   "gan": 1.47,
+   "inicio": 1795102922574,
+   "titulo": "SE Palmeiras vs. CR Flamengo",
+   "dur": 0.043,
+   "gan": 5.05,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795094522850,
-   "titulo": "Donald Trump # Truth Social posts November 17 - November 24, 2026?",
-   "dur": 0.013,
-   "gan": 0.5,
+   "inicio": 1795102740667,
+   "titulo": "SE Palmeiras vs. CR Flamengo",
+   "dur": 26.445,
+   "gan": 1.3,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795093666468,
-   "titulo": "Donald Trump # Truth Social posts November 17 - November 24, 2026?",
-   "dur": 1.945,
+   "inicio": 1795102659382,
+   "titulo": "SE Palmeiras vs. CR Flamengo",
+   "dur": 20.485,
+   "gan": 4.79,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795102655423,
+   "titulo": "SE Palmeiras vs. CR Flamengo",
+   "dur": 2.025,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795102614463,
+   "titulo": "SE Palmeiras vs. CR Flamengo",
+   "dur": 4.252,
+   "gan": 5.77,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795102607025,
+   "titulo": "SE Palmeiras vs. CR Flamengo",
+   "dur": 0.622,
+   "gan": 1.3,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795102605831,
+   "titulo": "SE Palmeiras vs. CR Flamengo",
+   "dur": 1.153,
+   "gan": 15.14,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795102493452,
+   "titulo": "FC Barcelona vs. Servette FC Chênois Féminin",
+   "dur": 0.495,
    "gan": 0.58,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795093252934,
-   "titulo": "Cong An Ha Noi FC vs. Johor Darul Ta'zim",
-   "dur": 5.535,
-   "gan": 5.8,
+   "inicio": 1795102421028,
+   "titulo": "FC Barcelona vs. Servette FC Chênois Féminin",
+   "dur": 72.411,
+   "gan": 1.24,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795092774151,
-   "titulo": "FC Barcelona vs. Servette FC Chênois Féminin",
-   "dur": 0.026,
-   "gan": 1.74,
-   "neta": 0.18,
+   "inicio": 1795101993169,
+   "titulo": "Test Match: New Zealand vs India",
+   "dur": 11.342,
+   "gan": 1.35,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795092741486,
-   "titulo": "FC Barcelona vs. Servette FC Chênois Féminin",
-   "dur": 18.029,
-   "gan": 0.82,
+   "inicio": 1795101904026,
+   "titulo": "How many Codex resets week of November 16?",
+   "dur": 2.144,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795101227556,
+   "titulo": "Al Ahli Doha SC vs. Al-Shamal",
+   "dur": 0.099,
+   "gan": 0.7,
    "neta": 0,
    "lado": "no"
   }
