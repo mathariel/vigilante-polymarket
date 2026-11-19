@@ -1,22 +1,22 @@
 {
- "actualizado": 1795106740927,
+ "actualizado": 1795109755502,
  "inicio": 1794271363739,
  "ejecucion": {
-  "inicio": 1795103740635,
-  "fin": 1795106740927,
-  "mensajes": 9062817,
-  "reconexiones": 5,
-  "eventos": 563,
+  "inicio": 1795106755169,
+  "fin": 1795109755502,
+  "mensajes": 9370560,
+  "reconexiones": 0,
+  "eventos": 566,
   "errores": [],
-  "nuevos": 1,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 73,
+  "nuevosRentables": 5,
+  "nuevosNeta": 0.58
  },
- "total": 5462,
- "falsos": 2475,
+ "total": 5449,
+ "falsos": 2468,
  "largos": {
-  "episodios": 22770,
-  "eventos": 191,
+  "episodios": 22794,
+  "eventos": 189,
   "dias": 7
  },
  "enEspera": {
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2848,
-   "gan": 6816.34,
-   "nNeta": 763,
-   "neta": 1406.68
+   "n": 2840,
+   "gan": 6763.93,
+   "nNeta": 761,
+   "neta": 1385.23
   },
   {
    "s": 2,
-   "n": 1567,
-   "gan": 3328.52,
+   "n": 1569,
+   "gan": 3324.38,
    "nNeta": 369,
-   "neta": 604.85
+   "neta": 599.06
   },
   {
    "s": 5,
-   "n": 1040,
-   "gan": 1979.4,
+   "n": 1041,
+   "gan": 1981.4,
    "nNeta": 205,
    "neta": 291.83
   },
   {
    "s": 30,
-   "n": 465,
-   "gan": 727.21,
+   "n": 466,
+   "gan": 729.21,
    "nNeta": 46,
    "neta": 16.25
   }
  ],
- "rentables": 1555,
+ "rentables": 1548,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 78,
-   "descartadas": 317,
-   "neta": 193.85,
-   "dias": 9.62,
-   "semana": 141.08
+   "ops": 77,
+   "descartadas": 320,
+   "neta": 186.35,
+   "dias": 9.59,
+   "semana": 136.03
   },
   {
    "capital": 1000,
-   "ops": 93,
-   "descartadas": 317,
-   "neta": 305.58,
-   "dias": 9.62,
-   "semana": 222.39
+   "ops": 92,
+   "descartadas": 320,
+   "neta": 298.08,
+   "dias": 9.59,
+   "semana": 217.58
   },
   {
    "capital": 2000,
-   "ops": 98,
-   "descartadas": 317,
-   "neta": 404.07,
-   "dias": 9.62,
-   "semana": 294.06
+   "ops": 97,
+   "descartadas": 320,
+   "neta": 396.57,
+   "dias": 9.59,
+   "semana": 289.47
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 4,
-   "horas": 81.7,
-   "episodios": 1947,
+   "horas": 82.5,
+   "episodios": 2020,
    "sospechosas": 22,
-   "realistaNeta": 185.76,
+   "realistaNeta": 186.34,
    "capital": {
-    "500": 76.68,
-    "1000": 103.07,
-    "2000": 130.58
+    "500": 76.85,
+    "1000": 103.24,
+    "2000": 130.75
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 66,
+  "n": 64,
   "top": [
    {
     "inicio": 1794738069985,
@@ -171,16 +171,6 @@
     "neta": 19.23,
     "costo": 187.79,
     "ret": 13.4
-   },
-   {
-    "inicio": 1794277581937,
-    "titulo": "Club Aurora vs. FC Universitario",
-    "lado": "si",
-    "dur": 0.163,
-    "gan": 23.77,
-    "neta": 18.89,
-    "costo": 174.32,
-    "ret": 13.6
    },
    {
     "inicio": 1795082475475,
@@ -231,32 +221,42 @@
     "neta": 15.48,
     "costo": 81.79,
     "ret": 22.3
+   },
+   {
+    "inicio": 1794484893587,
+    "titulo": "Highest temperature in Paris on November 12?",
+    "lado": "si",
+    "dur": 3.446,
+    "gan": 17.07,
+    "neta": 16.12,
+    "costo": 35.55,
+    "ret": 48
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5396,
-  "n": 1957,
-  "gan": 3770.59,
-  "nNeta": 419,
-  "neta": 614.89
+  "conDato": 5385,
+  "n": 1960,
+  "gan": 3763.51,
+  "nNeta": 421,
+  "neta": 607.68
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1409
+   "n": 1405
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1913
+   "n": 1901
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1094
+   "n": 1096
   },
   {
    "et": "5–30 s",
@@ -271,7 +271,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 111
+   "n": 112
   }
  ],
  "porEvento": [
@@ -347,14 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794819600000,
-   "n": 50
-  },
-  {
-   "h": 1794826800000,
-   "n": 4
-  },
   {
    "h": 1794834000000,
    "n": 61
@@ -634,128 +626,136 @@
   {
    "h": 1795100400000,
    "n": 16
+  },
+  {
+   "h": 1795104000000,
+   "n": 3
+  },
+  {
+   "h": 1795107600000,
+   "n": 70
   }
  ],
  "recientes": [
   {
-   "inicio": 1795103875013,
-   "titulo": "Al Ain FC vs. Al Dhafra SSC",
-   "dur": 0.549,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795103669066,
-   "titulo": "SE Palmeiras vs. CR Flamengo",
-   "dur": 2.34,
-   "gan": 4.75,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795103627610,
-   "titulo": "SE Palmeiras vs. CR Flamengo",
-   "dur": 1.093,
-   "gan": 5.05,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795103067369,
-   "titulo": "SE Palmeiras vs. CR Flamengo",
-   "dur": 10.23,
-   "gan": 4.2,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795102922574,
-   "titulo": "SE Palmeiras vs. CR Flamengo",
-   "dur": 0.043,
-   "gan": 5.05,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795102740667,
-   "titulo": "SE Palmeiras vs. CR Flamengo",
-   "dur": 26.445,
-   "gan": 1.3,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795102659382,
-   "titulo": "SE Palmeiras vs. CR Flamengo",
-   "dur": 20.485,
-   "gan": 4.79,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795102655423,
-   "titulo": "SE Palmeiras vs. CR Flamengo",
-   "dur": 2.025,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795102614463,
-   "titulo": "SE Palmeiras vs. CR Flamengo",
-   "dur": 4.252,
-   "gan": 5.77,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795102607025,
-   "titulo": "SE Palmeiras vs. CR Flamengo",
-   "dur": 0.622,
-   "gan": 1.3,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795102605831,
-   "titulo": "SE Palmeiras vs. CR Flamengo",
-   "dur": 1.153,
-   "gan": 15.14,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795102493452,
-   "titulo": "FC Barcelona vs. Servette FC Chênois Féminin",
-   "dur": 0.495,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795102421028,
-   "titulo": "FC Barcelona vs. Servette FC Chênois Féminin",
-   "dur": 72.411,
-   "gan": 1.24,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795101993169,
+   "inicio": 1795106944401,
    "titulo": "Test Match: New Zealand vs India",
-   "dur": 11.342,
-   "gan": 1.35,
+   "dur": 2810.77,
+   "gan": 1,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795101904026,
-   "titulo": "How many Codex resets week of November 16?",
-   "dur": 2.144,
-   "gan": 0.54,
-   "neta": 0,
+   "inicio": 1795109271540,
+   "titulo": "Al Ahli Doha SC vs. Al-Shamal",
+   "dur": 0.344,
+   "gan": 0.89,
+   "neta": 0.39,
    "lado": "no"
+  },
+  {
+   "inicio": 1795109269043,
+   "titulo": "Al Ahli Doha SC vs. Al-Shamal",
+   "dur": 0.518,
+   "gan": 0.53,
+   "neta": 0.28,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795109221340,
+   "titulo": "Al Ahli Doha SC vs. Al-Shamal",
+   "dur": 0.073,
+   "gan": 0.72,
+   "neta": 0.04,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795109220815,
+   "titulo": "Al Ahli Doha SC vs. Al-Shamal",
+   "dur": 0.495,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795109220291,
+   "titulo": "Al Ahli Doha SC vs. Al-Shamal",
+   "dur": 0.52,
+   "gan": 1.15,
+   "neta": 0.04,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795109217508,
+   "titulo": "Al Ahli Doha SC vs. Al-Shamal",
+   "dur": 1.831,
+   "gan": 0.52,
+   "neta": 0.09,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795109217033,
+   "titulo": "Al Ahli Doha SC vs. Al-Shamal",
+   "dur": 0.432,
+   "gan": 0.52,
+   "neta": 0.09,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795109216728,
+   "titulo": "Al Ahli Doha SC vs. Al-Shamal",
+   "dur": 0.202,
+   "gan": 0.54,
+   "neta": 0.09,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795109214429,
+   "titulo": "Al Ahli Doha SC vs. Al-Shamal",
+   "dur": 1.37,
+   "gan": 1.62,
+   "neta": 0.23,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795109214214,
+   "titulo": "Al Ahli Doha SC vs. Al-Shamal",
+   "dur": 0.18,
+   "gan": 0.87,
+   "neta": 0.19,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795109209710,
+   "titulo": "Al Ahli Doha SC vs. Al-Shamal",
+   "dur": 0.327,
+   "gan": 0.53,
+   "neta": 0.24,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795109209242,
+   "titulo": "Al Ahli Doha SC vs. Al-Shamal",
+   "dur": 0.425,
+   "gan": 0.71,
+   "neta": 0.27,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795109200364,
+   "titulo": "Al Ahli Doha SC vs. Al-Shamal",
+   "dur": 1.858,
+   "gan": 1.56,
+   "neta": 0.12,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795109200159,
+   "titulo": "Al Ahli Doha SC vs. Al-Shamal",
+   "dur": 0.113,
+   "gan": 0.71,
+   "neta": 0.12,
+   "lado": "si"
   }
  ]
 }
