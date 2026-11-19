@@ -1,26 +1,26 @@
 {
- "actualizado": 1795079598693,
+ "actualizado": 1795082612378,
  "inicio": 1794235291600,
  "ejecucion": {
-  "inicio": 1795076598347,
-  "fin": 1795079598693,
-  "mensajes": 7943622,
-  "reconexiones": 8,
-  "eventos": 546,
+  "inicio": 1795079612103,
+  "fin": 1795082612378,
+  "mensajes": 8305692,
+  "reconexiones": 6,
+  "eventos": 534,
   "errores": [],
-  "nuevos": 2,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.9
+  "nuevos": 1,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
  "total": 5630,
  "falsos": 2514,
  "largos": {
-  "episodios": 22383,
+  "episodios": 22415,
   "eventos": 192,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 641,
+  "episodios": 611,
   "eventos": 33
  },
  "mediana": 0.533,
@@ -61,24 +61,24 @@
    "ops": 77,
    "descartadas": 322,
    "neta": 176.28,
-   "dias": 9.74,
-   "semana": 126.67
+   "dias": 9.77,
+   "semana": 126.36
   },
   {
    "capital": 1000,
    "ops": 92,
    "descartadas": 322,
    "neta": 271.16,
-   "dias": 9.74,
-   "semana": 194.85
+   "dias": 9.77,
+   "semana": 194.38
   },
   {
    "capital": 2000,
    "ops": 97,
    "descartadas": 322,
    "neta": 369.65,
-   "dias": 9.74,
-   "semana": 265.63
+   "dias": 9.77,
+   "semana": 264.98
   }
  ],
  "maxBloqueoH": 24,
@@ -115,9 +115,9 @@
   {
    "lunes": "2026-11-16",
    "dias": 4,
-   "horas": 74.2,
-   "episodios": 1907,
-   "sospechosas": 20,
+   "horas": 75,
+   "episodios": 1908,
+   "sospechosas": 21,
    "realistaNeta": 148.19,
    "capital": {
     "500": 55.96,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 69,
+  "n": 70,
   "top": [
    {
     "inicio": 1794738069985,
@@ -193,6 +193,16 @@
     "ret": 13.6
    },
    {
+    "inicio": 1795082475475,
+    "titulo": "Highest temperature in Karachi on November 19?",
+    "lado": "si",
+    "dur": 0.18,
+    "gan": 23.59,
+    "neta": 22.9,
+    "costo": 47.56,
+    "ret": 49.6
+   },
+   {
     "inicio": 1794263162676,
     "titulo": "CD Tecnico Universitario vs. Manta FC",
     "lado": "si",
@@ -221,22 +231,12 @@
     "neta": 18.76,
     "costo": 74.6,
     "ret": 27.8
-   },
-   {
-    "inicio": 1794588570882,
-    "titulo": "Highest temperature in Panama City on November 13?",
-    "lado": "si",
-    "dur": 0.032,
-    "gan": 19.81,
-    "neta": 18.58,
-    "costo": 57.39,
-    "ret": 34.5
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5561,
+  "conDato": 5560,
   "n": 1972,
   "gan": 3903.68,
   "nNeta": 423,
@@ -246,12 +246,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1469
+   "n": 1468
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2003
+   "n": 2004
   },
   {
    "et": "1–5 s",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794794400000,
-   "n": 18
-  },
   {
    "h": 1794798000000,
    "n": 23
@@ -634,9 +630,21 @@
   {
    "h": 1795078800000,
    "n": 2
+  },
+  {
+   "h": 1795082400000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795082475475,
+   "titulo": "Highest temperature in Karachi on November 19?",
+   "dur": 0.18,
+   "gan": 23.59,
+   "neta": 22.9,
+   "lado": "si"
+  },
   {
    "inicio": 1795079589673,
    "titulo": "Test Match: South Africa vs Bangladesh",
@@ -745,14 +753,6 @@
    "inicio": 1795059763099,
    "titulo": "Bitcoin price on November 19?",
    "dur": 0.204,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795059755208,
-   "titulo": "Bitcoin price on November 19?",
-   "dur": 7.808,
    "gan": 0.54,
    "neta": 0,
    "lado": "si"
