@@ -1,43 +1,43 @@
 {
- "actualizado": 1795076583390,
+ "actualizado": 1795079598693,
  "inicio": 1794235291600,
  "ejecucion": {
-  "inicio": 1795073583157,
-  "fin": 1795076583390,
-  "mensajes": 7897633,
-  "reconexiones": 10,
-  "eventos": 537,
+  "inicio": 1795076598347,
+  "fin": 1795079598693,
+  "mensajes": 7943622,
+  "reconexiones": 8,
+  "eventos": 546,
   "errores": [],
-  "nuevos": 0,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 2,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.9
  },
- "total": 5628,
+ "total": 5630,
  "falsos": 2514,
  "largos": {
-  "episodios": 22218,
-  "eventos": 191,
+  "episodios": 22383,
+  "eventos": 192,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 805,
+  "episodios": 641,
   "eventos": 33
  },
  "mediana": 0.533,
  "captura": [
   {
    "s": 0.5,
-   "n": 2894,
-   "gan": 6977.64,
-   "nNeta": 777,
-   "neta": 1378.27
+   "n": 2896,
+   "gan": 6979.75,
+   "nNeta": 779,
+   "neta": 1380.05
   },
   {
    "s": 2,
-   "n": 1575,
-   "gan": 3453.59,
-   "nNeta": 370,
-   "neta": 570.89
+   "n": 1576,
+   "gan": 3454.65,
+   "nNeta": 371,
+   "neta": 571.79
   },
   {
    "s": 5,
@@ -54,31 +54,31 @@
    "neta": 16.57
   }
  ],
- "rentables": 1597,
+ "rentables": 1599,
  "porCapital": [
   {
    "capital": 500,
    "ops": 77,
-   "descartadas": 321,
+   "descartadas": 322,
    "neta": 176.28,
-   "dias": 9.71,
-   "semana": 127.13
+   "dias": 9.74,
+   "semana": 126.67
   },
   {
    "capital": 1000,
    "ops": 92,
-   "descartadas": 321,
+   "descartadas": 322,
    "neta": 271.16,
-   "dias": 9.71,
-   "semana": 195.56
+   "dias": 9.74,
+   "semana": 194.85
   },
   {
    "capital": 2000,
    "ops": 97,
-   "descartadas": 321,
+   "descartadas": 322,
    "neta": 369.65,
-   "dias": 9.71,
-   "semana": 266.58
+   "dias": 9.74,
+   "semana": 265.63
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 4,
-   "horas": 73.3,
-   "episodios": 1905,
+   "horas": 74.2,
+   "episodios": 1907,
    "sospechosas": 20,
-   "realistaNeta": 147.29,
+   "realistaNeta": 148.19,
    "capital": {
     "500": 55.96,
     "1000": 65.5,
@@ -236,11 +236,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5559,
-  "n": 1971,
-  "gan": 3902.62,
-  "nNeta": 422,
-  "neta": 581.77
+  "conDato": 5561,
+  "n": 1972,
+  "gan": 3903.68,
+  "nNeta": 423,
+  "neta": 582.67
  },
  "duraciones": [
   {
@@ -251,12 +251,12 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2002
+   "n": 2003
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1103
+   "n": 1104
   },
   {
    "et": "5–30 s",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794790800000,
-   "n": 6
-  },
   {
    "h": 1794794400000,
    "n": 18
@@ -634,9 +630,29 @@
   {
    "h": 1795068000000,
    "n": 1
+  },
+  {
+   "h": 1795078800000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795079589673,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 0.76,
+   "gan": 1.05,
+   "neta": 0.88,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795079552234,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 3.293,
+   "gan": 1.06,
+   "neta": 0.9,
+   "lado": "no"
+  },
   {
    "inicio": 1795068827835,
    "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
@@ -737,22 +753,6 @@
    "inicio": 1795059755208,
    "titulo": "Bitcoin price on November 19?",
    "dur": 7.808,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795059740740,
-   "titulo": "Bitcoin price on November 19?",
-   "dur": 0.119,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795059740472,
-   "titulo": "Bitcoin price on November 19?",
-   "dur": 0.186,
    "gan": 0.54,
    "neta": 0,
    "lado": "si"
