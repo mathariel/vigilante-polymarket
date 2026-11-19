@@ -1,26 +1,26 @@
 {
- "actualizado": 1795121828480,
- "inicio": 1794286512387,
+ "actualizado": 1795124843110,
+ "inicio": 1794292528283,
  "ejecucion": {
-  "inicio": 1795118828207,
-  "fin": 1795121828480,
-  "mensajes": 10634699,
-  "reconexiones": 0,
-  "eventos": 569,
+  "inicio": 1795121842831,
+  "fin": 1795124843110,
+  "mensajes": 9882122,
+  "reconexiones": 4,
+  "eventos": 577,
   "errores": [],
-  "nuevos": 3,
+  "nuevos": 6,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5559,
- "falsos": 2555,
+ "total": 5564,
+ "falsos": 2568,
  "largos": {
-  "episodios": 22646,
-  "eventos": 190,
+  "episodios": 22649,
+  "eventos": 188,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 461,
+  "episodios": 445,
   "eventos": 31
  },
  "mediana": 0.563,
@@ -28,14 +28,14 @@
   {
    "s": 0.5,
    "n": 2910,
-   "gan": 6932.88,
-   "nNeta": 780,
-   "neta": 1437.58
+   "gan": 6933.04,
+   "nNeta": 781,
+   "neta": 1437.66
   },
   {
    "s": 2,
-   "n": 1607,
-   "gan": 3375.5,
+   "n": 1606,
+   "gan": 3374.9,
    "nNeta": 374,
    "neta": 605.18
   },
@@ -54,31 +54,31 @@
    "neta": 17.62
   }
  ],
- "rentables": 1588,
+ "rentables": 1591,
  "porCapital": [
   {
    "capital": 500,
    "ops": 78,
    "descartadas": 323,
    "neta": 189.53,
-   "dias": 9.5,
-   "semana": 139.66
+   "dias": 9.47,
+   "semana": 140.06
   },
   {
    "capital": 1000,
    "ops": 93,
    "descartadas": 323,
    "neta": 301.26,
-   "dias": 9.5,
-   "semana": 222
+   "dias": 9.47,
+   "semana": 222.62
   },
   {
    "capital": 2000,
    "ops": 98,
    "descartadas": 323,
    "neta": 399.75,
-   "dias": 9.5,
-   "semana": 294.57
+   "dias": 9.47,
+   "semana": 295.4
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 4,
-   "horas": 85.8,
-   "episodios": 2145,
+   "horas": 86.7,
+   "episodios": 2151,
    "sospechosas": 23,
    "realistaNeta": 192.46,
    "capital": {
@@ -236,9 +236,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5496,
-  "n": 2004,
-  "gan": 3820.53,
+  "conDato": 5501,
+  "n": 2003,
+  "gan": 3819.93,
   "nNeta": 425,
   "neta": 612.68
  },
@@ -246,17 +246,17 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1420
+   "n": 1422
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1939
+   "n": 1943
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1123
+   "n": 1122
   },
   {
    "et": "5–30 s",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794848400000,
-   "n": 31
-  },
   {
    "h": 1794852000000,
    "n": 18
@@ -634,9 +630,61 @@
   {
    "h": 1795118400000,
    "n": 4
+  },
+  {
+   "h": 1795122000000,
+   "n": 6
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795123539256,
+   "titulo": "Sport Lisboa e Benfica vs. AS Roma",
+   "dur": 0.193,
+   "gan": 0.85,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795123519888,
+   "titulo": "Sport Lisboa e Benfica vs. AS Roma",
+   "dur": 0.252,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795123519590,
+   "titulo": "Sport Lisboa e Benfica vs. AS Roma",
+   "dur": 0.247,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795123466782,
+   "titulo": "White House # posts November 13 - November 20, 2026?",
+   "dur": 0.033,
+   "gan": 0.55,
+   "neta": 0.47,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795122886297,
+   "titulo": "CA Progreso vs. Montevideo City Torque",
+   "dur": 0.982,
+   "gan": 0.78,
+   "neta": 0.1,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795122886273,
+   "titulo": "CA Progreso vs. Montevideo City Torque",
+   "dur": 0,
+   "gan": 0.69,
+   "neta": 0.01,
+   "lado": "si"
+  },
   {
    "inicio": 1795118831185,
    "titulo": "Test Match: New Zealand vs India",
@@ -708,54 +756,6 @@
    "gan": 0.93,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1795117588987,
-   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
-   "dur": 26.585,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795116739916,
-   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
-   "dur": 836.197,
-   "gan": 1.02,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795117199598,
-   "titulo": "Paris FC vs. HB Køge",
-   "dur": 1.376,
-   "gan": 3.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795117199136,
-   "titulo": "Paris FC vs. HB Køge",
-   "dur": 0.339,
-   "gan": 3.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795117198178,
-   "titulo": "Paris FC vs. HB Køge",
-   "dur": 0.838,
-   "gan": 3.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795117197719,
-   "titulo": "Paris FC vs. HB Køge",
-   "dur": 0.289,
-   "gan": 4.4,
-   "neta": 0,
-   "lado": "si"
   }
  ]
 }
