@@ -1,84 +1,84 @@
 {
- "actualizado": 1795094677015,
- "inicio": 1794250348952,
+ "actualizado": 1795097690804,
+ "inicio": 1794253031498,
  "ejecucion": {
-  "inicio": 1795091676419,
-  "fin": 1795094677015,
-  "mensajes": 9870400,
-  "reconexiones": 0,
-  "eventos": 576,
+  "inicio": 1795094690466,
+  "fin": 1795097690804,
+  "mensajes": 9535938,
+  "reconexiones": 4,
+  "eventos": 580,
   "errores": [],
-  "nuevos": 10,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 8,
+  "nuevosRentables": 1,
+  "nuevosNeta": 34.03
  },
- "total": 5498,
- "falsos": 2488,
+ "total": 5487,
+ "falsos": 2477,
  "largos": {
-  "episodios": 22687,
-  "eventos": 192,
+  "episodios": 22717,
+  "eventos": 191,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 507,
+  "episodios": 505,
   "eventos": 33
  },
  "mediana": 0.55,
  "captura": [
   {
    "s": 0.5,
-   "n": 2860,
-   "gan": 6763.06,
-   "nNeta": 770,
-   "neta": 1375.19
+   "n": 2853,
+   "gan": 6790.99,
+   "nNeta": 769,
+   "neta": 1409.24
   },
   {
    "s": 2,
-   "n": 1560,
-   "gan": 3261.36,
-   "nNeta": 369,
-   "neta": 570.71
+   "n": 1562,
+   "gan": 3308.49,
+   "nNeta": 371,
+   "neta": 605.62
   },
   {
    "s": 5,
-   "n": 1036,
-   "gan": 1923.46,
-   "nNeta": 205,
-   "neta": 258.12
+   "n": 1038,
+   "gan": 1970.2,
+   "nNeta": 206,
+   "neta": 292.15
   },
   {
    "s": 30,
-   "n": 465,
-   "gan": 727.01,
+   "n": 467,
+   "gan": 729.65,
    "nNeta": 47,
    "neta": 16.57
   }
  ],
- "rentables": 1577,
+ "rentables": 1576,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 77,
-   "descartadas": 320,
-   "neta": 176.67,
-   "dias": 9.7,
-   "semana": 127.53
+   "ops": 78,
+   "descartadas": 319,
+   "neta": 193.85,
+   "dias": 9.71,
+   "semana": 139.72
   },
   {
    "capital": 1000,
-   "ops": 92,
-   "descartadas": 320,
-   "neta": 271.55,
-   "dias": 9.7,
-   "semana": 196.02
+   "ops": 93,
+   "descartadas": 319,
+   "neta": 305.58,
+   "dias": 9.71,
+   "semana": 220.25
   },
   {
    "capital": 2000,
-   "ops": 97,
-   "descartadas": 320,
-   "neta": 370.04,
-   "dias": 9.7,
-   "semana": 267.11
+   "ops": 98,
+   "descartadas": 319,
+   "neta": 404.07,
+   "dias": 9.71,
+   "semana": 291.23
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 4,
-   "horas": 78.3,
-   "episodios": 1922,
-   "sospechosas": 21,
-   "realistaNeta": 151.73,
+   "horas": 79.2,
+   "episodios": 1930,
+   "sospechosas": 22,
+   "realistaNeta": 185.76,
    "capital": {
-    "500": 59.5,
-    "1000": 69.04,
-    "2000": 96.55
+    "500": 76.68,
+    "1000": 103.07,
+    "2000": 130.58
    },
    "cumple": true
   }
@@ -236,27 +236,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5429,
-  "n": 1955,
-  "gan": 3709.44,
+  "conDato": 5418,
+  "n": 1954,
+  "gan": 3753.6,
   "nNeta": 421,
-  "neta": 581.59
+  "neta": 615.59
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1423
+   "n": 1420
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1935
+   "n": 1928
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1098
+   "n": 1095
   },
   {
    "et": "5–30 s",
@@ -271,7 +271,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 111
+   "n": 113
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794812400000,
-   "n": 1
-  },
   {
    "h": 1794816000000,
    "n": 18
@@ -633,10 +629,78 @@
   },
   {
    "h": 1795093200000,
-   "n": 4
+   "n": 9
+  },
+  {
+   "h": 1795096800000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795097043928,
+   "titulo": "Test Match: New Zealand vs India",
+   "dur": 646.541,
+   "gan": 1.17,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795097558763,
+   "titulo": "FK Termez Surkhon vs. FC Andijon",
+   "dur": 5.152,
+   "gan": 47.9,
+   "neta": 36.35,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795094692736,
+   "titulo": "Test Match: New Zealand vs India",
+   "dur": 2272.531,
+   "gan": 1.47,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795096863224,
+   "titulo": "Lowest temperature in Denver on November 19?",
+   "dur": 2.867,
+   "gan": 0.93,
+   "neta": 0.88,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795096687191,
+   "titulo": "Cong An Ha Noi FC vs. Johor Darul Ta'zim",
+   "dur": 1.059,
+   "gan": 4.67,
+   "neta": 3.37,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795095638765,
+   "titulo": "Cong An Ha Noi FC vs. Johor Darul Ta'zim",
+   "dur": 3.004,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795095553040,
+   "titulo": "Cong An Ha Noi FC vs. Johor Darul Ta'zim",
+   "dur": 0.147,
+   "gan": 1.08,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795095539737,
+   "titulo": "Highest temperature in Munich on November 19?",
+   "dur": 0.018,
+   "gan": 0.55,
+   "neta": 0.3,
+   "lado": "si"
+  },
   {
    "inicio": 1795093529976,
    "titulo": "Test Match: New Zealand vs India",
@@ -692,70 +756,6 @@
    "gan": 0.82,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1795092489571,
-   "titulo": "FC Barcelona vs. Servette FC Chênois Féminin",
-   "dur": 202.454,
-   "gan": 1.86,
-   "neta": 0.06,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795092682183,
-   "titulo": "Al Wasl FC vs. Hatta SC",
-   "dur": 1,
-   "gan": 0.85,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795092202316,
-   "titulo": "FC Barcelona vs. Servette FC Chênois Féminin",
-   "dur": 1.701,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795090403430,
-   "titulo": "PKR Svay Rieng vs. Port FC",
-   "dur": 3.326,
-   "gan": 5.09,
-   "neta": 3.74,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795087944518,
-   "titulo": "CE Sabadell FC vs. Granada CF",
-   "dur": 26.252,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795084799093,
-   "titulo": "Donald Trump # Truth Social posts November 17 - November 24, 2026?",
-   "dur": 2.353,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795084795722,
-   "titulo": "Donald Trump # Truth Social posts November 17 - November 24, 2026?",
-   "dur": 3.279,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795082475475,
-   "titulo": "Highest temperature in Karachi on November 19?",
-   "dur": 0.18,
-   "gan": 23.59,
-   "neta": 22.9,
-   "lado": "si"
   }
  ]
 }
