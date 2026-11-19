@@ -1,48 +1,48 @@
 {
- "actualizado": 1795052457004,
- "inicio": 1794180986063,
+ "actualizado": 1795055475152,
+ "inicio": 1794180990750,
  "ejecucion": {
-  "inicio": 1795049456766,
-  "fin": 1795052457004,
-  "mensajes": 8979681,
+  "inicio": 1795052474806,
+  "fin": 1795055475152,
+  "mensajes": 8593229,
   "reconexiones": 0,
-  "eventos": 538,
+  "eventos": 533,
   "errores": [],
-  "nuevos": 53,
-  "nuevosRentables": 3,
-  "nuevosNeta": 1.04
+  "nuevos": 30,
+  "nuevosRentables": 2,
+  "nuevosNeta": 0.2
  },
- "total": 5589,
- "falsos": 2623,
+ "total": 5616,
+ "falsos": 2535,
  "largos": {
-  "episodios": 21642,
-  "eventos": 190,
+  "episodios": 21720,
+  "eventos": 192,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1252,
+  "episodios": 1243,
   "eventos": 36
  },
- "mediana": 0.58,
+ "mediana": 0.576,
  "captura": [
   {
    "s": 0.5,
-   "n": 2950,
-   "gan": 7034.57,
-   "nNeta": 801,
-   "neta": 1381.88
+   "n": 2960,
+   "gan": 7059.08,
+   "nNeta": 806,
+   "neta": 1394.88
   },
   {
    "s": 2,
-   "n": 1613,
-   "gan": 3496.74,
-   "nNeta": 385,
-   "neta": 579.22
+   "n": 1615,
+   "gan": 3498.01,
+   "nNeta": 386,
+   "neta": 579.26
   },
   {
    "s": 5,
-   "n": 1075,
-   "gan": 2120.34,
+   "n": 1077,
+   "gan": 2121.64,
    "nNeta": 213,
    "neta": 265.39
   },
@@ -54,31 +54,31 @@
    "neta": 20.09
   }
  ],
- "rentables": 1637,
+ "rentables": 1656,
  "porCapital": [
   {
    "capital": 500,
    "ops": 83,
-   "descartadas": 335,
+   "descartadas": 337,
    "neta": 180.82,
-   "dias": 10.07,
-   "semana": 125.72
+   "dias": 10.09,
+   "semana": 125.47
   },
   {
    "capital": 1000,
    "ops": 98,
-   "descartadas": 335,
+   "descartadas": 337,
    "neta": 275.7,
-   "dias": 10.07,
-   "semana": 191.69
+   "dias": 10.09,
+   "semana": 191.31
   },
   {
    "capital": 2000,
    "ops": 103,
-   "descartadas": 335,
+   "descartadas": 337,
    "neta": 374.19,
-   "dias": 10.07,
-   "semana": 260.17
+   "dias": 10.09,
+   "semana": 259.64
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 3,
-   "horas": 66.7,
-   "episodios": 1690,
-   "sospechosas": 12,
-   "realistaNeta": 147.09,
+   "horas": 67.5,
+   "episodios": 1720,
+   "sospechosas": 19,
+   "realistaNeta": 147.29,
    "capital": {
     "500": 55.96,
     "1000": 65.5,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 62,
+  "n": 69,
   "top": [
    {
     "inicio": 1794738069985,
@@ -171,6 +171,16 @@
     "neta": 25,
     "costo": 173.47,
     "ret": 15.6
+   },
+   {
+    "inicio": 1795054292065,
+    "titulo": "Grêmio FBPA vs. EC Bahia",
+    "lado": "si",
+    "dur": 0.01,
+    "gan": 25.17,
+    "neta": 19.23,
+    "costo": 187.79,
+    "ret": 13.4
    },
    {
     "inicio": 1794277581937,
@@ -221,47 +231,37 @@
     "neta": 18.58,
     "costo": 57.39,
     "ret": 34.5
-   },
-   {
-    "inicio": 1794484893587,
-    "titulo": "Highest temperature in Paris on November 12?",
-    "lado": "si",
-    "dur": 3.446,
-    "gan": 17.07,
-    "neta": 16.12,
-    "costo": 35.55,
-    "ret": 48
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5527,
-  "n": 2019,
-  "gan": 3957.1,
-  "nNeta": 442,
-  "neta": 592.95
+  "conDato": 5547,
+  "n": 2022,
+  "gan": 3959.82,
+  "nNeta": 444,
+  "neta": 593.15
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1408
+   "n": 1418
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1966
+   "n": 1977
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1133
+   "n": 1137
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 591
+   "n": 593
   },
   {
    "et": "30 s–5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794772800000,
-   "n": 78
-  },
   {
    "h": 1794776400000,
    "n": 255
@@ -633,128 +629,132 @@
   },
   {
    "h": 1795050000000,
-   "n": 37
+   "n": 41
+  },
+  {
+   "h": 1795053600000,
+   "n": 26
   }
  ],
  "recientes": [
   {
-   "inicio": 1795051629128,
-   "titulo": "Cruzeiro EC vs. SE Palmeiras",
-   "dur": 0.152,
-   "gan": 0.68,
-   "neta": 0.1,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795051507313,
-   "titulo": "Lowest temperature in London on November 20?",
+   "inicio": 1795055105019,
+   "titulo": "Grêmio FBPA vs. EC Bahia",
    "dur": 0.018,
-   "gan": 0.67,
+   "gan": 0.57,
+   "neta": 0.26,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795055003521,
+   "titulo": "Grêmio FBPA vs. EC Bahia",
+   "dur": 0.8,
+   "gan": 2.7,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795051473111,
-   "titulo": "Cruzeiro EC vs. SE Palmeiras",
-   "dur": 0.519,
-   "gan": 0.64,
-   "neta": 0.22,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795051472585,
-   "titulo": "Cruzeiro EC vs. SE Palmeiras",
-   "dur": 0.441,
-   "gan": 0.53,
-   "neta": 0.16,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795051391950,
-   "titulo": "CR Flamengo vs. CA Paranaense",
-   "dur": 0.199,
-   "gan": 0.85,
-   "neta": 0.23,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795051344153,
-   "titulo": "CR Flamengo vs. CA Paranaense",
-   "dur": 2.732,
-   "gan": 0.98,
-   "neta": 0.5,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795051329437,
-   "titulo": "Cruzeiro EC vs. SE Palmeiras",
-   "dur": 6.058,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795051328546,
-   "titulo": "Cruzeiro EC vs. SE Palmeiras",
-   "dur": 0.358,
-   "gan": 1.29,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795051325480,
-   "titulo": "Cruzeiro EC vs. SE Palmeiras",
-   "dur": 2.274,
-   "gan": 1.5,
-   "neta": 0.16,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795051324430,
-   "titulo": "CR Flamengo vs. CA Paranaense",
-   "dur": 0.173,
-   "gan": 0.93,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795051183041,
-   "titulo": "Cruzeiro EC vs. SE Palmeiras",
-   "dur": 1.352,
-   "gan": 0.69,
-   "neta": 0.25,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795051176274,
-   "titulo": "Cruzeiro EC vs. SE Palmeiras",
-   "dur": 3.329,
-   "gan": 0.92,
-   "neta": 0.33,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795050895565,
-   "titulo": "CR Flamengo vs. CA Paranaense",
-   "dur": 1.122,
-   "gan": 0.53,
+   "inicio": 1795054370223,
+   "titulo": "Grêmio FBPA vs. EC Bahia",
+   "dur": 1.07,
+   "gan": 0.54,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795050680169,
-   "titulo": "Cruzeiro EC vs. SE Palmeiras",
-   "dur": 0.725,
-   "gan": 1.06,
+   "inicio": 1795054369409,
+   "titulo": "Grêmio FBPA vs. EC Bahia",
+   "dur": 0.089,
+   "gan": 0.54,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795050673208,
+   "inicio": 1795054364361,
    "titulo": "Grêmio FBPA vs. EC Bahia",
-   "dur": 0.061,
-   "gan": 0.7,
+   "dur": 0.326,
+   "gan": 0.75,
+   "neta": 0.46,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795054364279,
+   "titulo": "Grêmio FBPA vs. EC Bahia",
+   "dur": 0.032,
+   "gan": 2.67,
+   "neta": 1.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795054357886,
+   "titulo": "Grêmio FBPA vs. EC Bahia",
+   "dur": 1.838,
+   "gan": 1.46,
+   "neta": 0.16,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795054356398,
+   "titulo": "Grêmio FBPA vs. EC Bahia",
+   "dur": 0.13,
+   "gan": 0.55,
+   "neta": 0.26,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795054344580,
+   "titulo": "Grêmio FBPA vs. EC Bahia",
+   "dur": 0.708,
+   "gan": 0.92,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795054323212,
+   "titulo": "Grêmio FBPA vs. EC Bahia",
+   "dur": 1.395,
+   "gan": 0.86,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795054317257,
+   "titulo": "Grêmio FBPA vs. EC Bahia",
+   "dur": 0.039,
+   "gan": 0.75,
+   "neta": 0.49,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795054316396,
+   "titulo": "Grêmio FBPA vs. EC Bahia",
+   "dur": 0.32,
+   "gan": 1.32,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795054311054,
+   "titulo": "Grêmio FBPA vs. EC Bahia",
+   "dur": 0.045,
+   "gan": 5.02,
+   "neta": 0.48,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795054298127,
+   "titulo": "Grêmio FBPA vs. EC Bahia",
+   "dur": 0.355,
+   "gan": 1.67,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795054295127,
+   "titulo": "Grêmio FBPA vs. EC Bahia",
+   "dur": 2.424,
+   "gan": 0.65,
+   "neta": 0.09,
    "lado": "si"
   }
  ]
