@@ -1,84 +1,84 @@
 {
- "actualizado": 1795097690804,
+ "actualizado": 1795100707521,
  "inicio": 1794253031498,
  "ejecucion": {
-  "inicio": 1795094690466,
-  "fin": 1795097690804,
-  "mensajes": 9535938,
-  "reconexiones": 4,
-  "eventos": 580,
+  "inicio": 1795097707219,
+  "fin": 1795100707521,
+  "mensajes": 9201621,
+  "reconexiones": 0,
+  "eventos": 582,
   "errores": [],
-  "nuevos": 8,
-  "nuevosRentables": 1,
-  "nuevosNeta": 34.03
+  "nuevos": 1,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5487,
- "falsos": 2477,
+ "total": 5471,
+ "falsos": 2473,
  "largos": {
-  "episodios": 22717,
+  "episodios": 22756,
   "eventos": 191,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 505,
-  "eventos": 33
+  "episodios": 491,
+  "eventos": 32
  },
  "mediana": 0.55,
  "captura": [
   {
    "s": 0.5,
-   "n": 2853,
-   "gan": 6790.99,
-   "nNeta": 769,
-   "neta": 1409.24
+   "n": 2845,
+   "gan": 6782.03,
+   "nNeta": 766,
+   "neta": 1407.74
   },
   {
    "s": 2,
-   "n": 1562,
-   "gan": 3308.49,
-   "nNeta": 371,
-   "neta": 605.62
+   "n": 1560,
+   "gan": 3305.93,
+   "nNeta": 369,
+   "neta": 604.85
   },
   {
    "s": 5,
-   "n": 1038,
-   "gan": 1970.2,
-   "nNeta": 206,
-   "neta": 292.15
+   "n": 1037,
+   "gan": 1968.72,
+   "nNeta": 205,
+   "neta": 291.83
   },
   {
    "s": 30,
-   "n": 467,
-   "gan": 729.65,
-   "nNeta": 47,
-   "neta": 16.57
+   "n": 466,
+   "gan": 728.17,
+   "nNeta": 46,
+   "neta": 16.25
   }
  ],
- "rentables": 1576,
+ "rentables": 1567,
  "porCapital": [
   {
    "capital": 500,
    "ops": 78,
-   "descartadas": 319,
+   "descartadas": 317,
    "neta": 193.85,
-   "dias": 9.71,
-   "semana": 139.72
+   "dias": 9.74,
+   "semana": 139.36
   },
   {
    "capital": 1000,
    "ops": 93,
-   "descartadas": 319,
+   "descartadas": 317,
    "neta": 305.58,
-   "dias": 9.71,
-   "semana": 220.25
+   "dias": 9.74,
+   "semana": 219.68
   },
   {
    "capital": 2000,
    "ops": 98,
-   "descartadas": 319,
+   "descartadas": 317,
    "neta": 404.07,
-   "dias": 9.71,
-   "semana": 291.23
+   "dias": 9.74,
+   "semana": 290.48
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 4,
-   "horas": 79.2,
-   "episodios": 1930,
+   "horas": 80,
+   "episodios": 1931,
    "sospechosas": 22,
    "realistaNeta": 185.76,
    "capital": {
@@ -236,27 +236,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5418,
-  "n": 1954,
-  "gan": 3753.6,
-  "nNeta": 421,
-  "neta": 615.59
+  "conDato": 5402,
+  "n": 1952,
+  "gan": 3751.31,
+  "nNeta": 419,
+  "neta": 614.89
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1420
+   "n": 1418
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1928
+   "n": 1918
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1095
+   "n": 1092
   },
   {
    "et": "5–30 s",
@@ -266,7 +266,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 354
+   "n": 353
   },
   {
    "et": "> 5 min",
@@ -340,10 +340,10 @@
   },
   {
    "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "n": 94,
-   "gan": 153.59,
+   "n": 93,
+   "gan": 152.21,
    "neta": 55.81,
-   "mediana": 0.406
+   "mediana": 0.403
   }
  ],
  "porHora": [
@@ -633,10 +633,18 @@
   },
   {
    "h": 1795096800000,
-   "n": 3
+   "n": 4
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795097712550,
+   "titulo": "Test Match: New Zealand vs India",
+   "dur": 1838.986,
+   "gan": 1.17,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795097043928,
    "titulo": "Test Match: New Zealand vs India",
@@ -745,14 +753,6 @@
    "inicio": 1795092741486,
    "titulo": "FC Barcelona vs. Servette FC Chênois Féminin",
    "dur": 18.029,
-   "gan": 0.82,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795092708538,
-   "titulo": "FC Barcelona vs. Servette FC Chênois Féminin",
-   "dur": 15.181,
    "gan": 0.82,
    "neta": 0,
    "lado": "no"
