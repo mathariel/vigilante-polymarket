@@ -1,84 +1,84 @@
 {
- "actualizado": 1795067535884,
- "inicio": 1794205112516,
+ "actualizado": 1795070550272,
+ "inicio": 1794208006115,
  "ejecucion": {
-  "inicio": 1795064535551,
-  "fin": 1795067535884,
-  "mensajes": 6787825,
+  "inicio": 1795067549866,
+  "fin": 1795070550272,
+  "mensajes": 7309514,
   "reconexiones": 0,
   "eventos": 533,
   "errores": [],
-  "nuevos": 0,
+  "nuevos": 4,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5669,
- "falsos": 2535,
+ "total": 5628,
+ "falsos": 2513,
  "largos": {
-  "episodios": 21762,
-  "eventos": 192,
+  "episodios": 22165,
+  "eventos": 191,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1177,
-  "eventos": 36
+  "episodios": 845,
+  "eventos": 33
  },
- "mediana": 0.529,
+ "mediana": 0.533,
  "captura": [
   {
    "s": 0.5,
-   "n": 2910,
-   "gan": 6989.69,
-   "nNeta": 778,
-   "neta": 1378.07
+   "n": 2894,
+   "gan": 6977.64,
+   "nNeta": 777,
+   "neta": 1378.27
   },
   {
    "s": 2,
-   "n": 1588,
-   "gan": 3464.83,
-   "nNeta": 372,
-   "neta": 572.41
+   "n": 1575,
+   "gan": 3453.59,
+   "nNeta": 370,
+   "neta": 570.89
   },
   {
    "s": 5,
-   "n": 1061,
-   "gan": 2096.64,
-   "nNeta": 207,
-   "neta": 261.62
+   "n": 1048,
+   "gan": 2086.7,
+   "nNeta": 206,
+   "neta": 261.27
   },
   {
    "s": 30,
-   "n": 477,
-   "gan": 880.27,
-   "nNeta": 48,
-   "neta": 16.92
+   "n": 468,
+   "gan": 872.92,
+   "nNeta": 47,
+   "neta": 16.57
   }
  ],
- "rentables": 1606,
+ "rentables": 1597,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 78,
-   "descartadas": 323,
-   "neta": 176.63,
-   "dias": 9.92,
-   "semana": 124.68
+   "ops": 77,
+   "descartadas": 321,
+   "neta": 176.28,
+   "dias": 9.64,
+   "semana": 128.05
   },
   {
    "capital": 1000,
-   "ops": 93,
-   "descartadas": 323,
-   "neta": 271.51,
-   "dias": 9.92,
-   "semana": 191.66
+   "ops": 92,
+   "descartadas": 321,
+   "neta": 271.16,
+   "dias": 9.64,
+   "semana": 196.97
   },
   {
    "capital": 2000,
-   "ops": 98,
-   "descartadas": 323,
-   "neta": 370,
-   "dias": 9.92,
-   "semana": 261.18
+   "ops": 97,
+   "descartadas": 321,
+   "neta": 369.65,
+   "dias": 9.64,
+   "semana": 268.51
   }
  ],
  "maxBloqueoH": 24,
@@ -115,9 +115,9 @@
   {
    "lunes": "2026-11-16",
    "dias": 4,
-   "horas": 70.8,
-   "episodios": 1901,
-   "sospechosas": 19,
+   "horas": 71.7,
+   "episodios": 1905,
+   "sospechosas": 20,
    "realistaNeta": 147.29,
    "capital": {
     "500": 55.96,
@@ -236,37 +236,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5600,
-  "n": 1989,
-  "gan": 3917.65,
-  "nNeta": 425,
-  "neta": 583.37
+  "conDato": 5559,
+  "n": 1971,
+  "gan": 3902.62,
+  "nNeta": 422,
+  "neta": 581.77
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1482
+   "n": 1469
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2013
+   "n": 2002
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1107
+   "n": 1103
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 584
+   "n": 580
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 365
+   "n": 356
   },
   {
    "et": "> 5 min",
@@ -347,14 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794783600000,
-   "n": 10
-  },
-  {
-   "h": 1794787200000,
-   "n": 26
-  },
   {
    "h": 1794790800000,
    "n": 6
@@ -634,9 +626,49 @@
   {
    "h": 1795060800000,
    "n": 1
+  },
+  {
+   "h": 1795064400000,
+   "n": 3
+  },
+  {
+   "h": 1795068000000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795068827835,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
+   "dur": 2.736,
+   "gan": 1.2,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795067946758,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 0.787,
+   "gan": 0.5,
+   "neta": 0.29,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795067943854,
+   "titulo": "Test Match: Pakistan vs Sri Lanka",
+   "dur": 0.21,
+   "gan": 0.5,
+   "neta": 0.29,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795067700204,
+   "titulo": "Lowest temperature in London on November 19?",
+   "dur": 0.538,
+   "gan": 0.53,
+   "neta": 0.43,
+   "lado": "si"
+  },
   {
    "inicio": 1795063676280,
    "titulo": "White House # posts November 13 - November 20, 2026?",
@@ -722,38 +754,6 @@
    "titulo": "Bitcoin price on November 19?",
    "dur": 0.186,
    "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795059678980,
-   "titulo": "Bitcoin price on November 19?",
-   "dur": 0.065,
-   "gan": 0.8,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795059663092,
-   "titulo": "Bitcoin price on November 19?",
-   "dur": 15.856,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795059605584,
-   "titulo": "Bitcoin price on November 19?",
-   "dur": 39.26,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795059605446,
-   "titulo": "Bitcoin price on November 19?",
-   "dur": 0.119,
-   "gan": 0.85,
    "neta": 0,
    "lado": "si"
   }
