@@ -1,84 +1,84 @@
 {
- "actualizado": 1795046414856,
- "inicio": 1794174936287,
+ "actualizado": 1795049429521,
+ "inicio": 1794177983169,
  "ejecucion": {
-  "inicio": 1795043414580,
-  "fin": 1795046414856,
-  "mensajes": 7855453,
+  "inicio": 1795046429190,
+  "fin": 1795049429521,
+  "mensajes": 9423461,
   "reconexiones": 0,
-  "eventos": 533,
+  "eventos": 539,
   "errores": [],
-  "nuevos": 20,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.27
+  "nuevos": 92,
+  "nuevosRentables": 3,
+  "nuevosNeta": 35.9
  },
- "total": 5477,
- "falsos": 2542,
+ "total": 5558,
+ "falsos": 2607,
  "largos": {
-  "episodios": 21625,
+  "episodios": 21611,
   "eventos": 188,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1453,
+  "episodios": 1325,
   "eventos": 36
  },
- "mediana": 0.582,
+ "mediana": 0.579,
  "captura": [
   {
    "s": 0.5,
-   "n": 2891,
-   "gan": 6771.22,
-   "nNeta": 786,
-   "neta": 1262.57
+   "n": 2929,
+   "gan": 6930.59,
+   "nNeta": 796,
+   "neta": 1339.8
   },
   {
    "s": 2,
-   "n": 1584,
-   "gan": 3408.21,
-   "nNeta": 382,
-   "neta": 562.33
+   "n": 1603,
+   "gan": 3460.19,
+   "nNeta": 383,
+   "neta": 579.94
   },
   {
    "s": 5,
-   "n": 1057,
-   "gan": 2089.5,
-   "nNeta": 215,
-   "neta": 267.19
+   "n": 1070,
+   "gan": 2108.85,
+   "nNeta": 214,
+   "neta": 267.15
   },
   {
    "s": 30,
-   "n": 481,
-   "gan": 883.39,
+   "n": 482,
+   "gan": 885.2,
    "nNeta": 51,
    "neta": 20.09
   }
  ],
- "rentables": 1591,
+ "rentables": 1630,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 82,
-   "descartadas": 333,
-   "neta": 146.86,
-   "dias": 10.03,
-   "semana": 102.49
+   "ops": 84,
+   "descartadas": 332,
+   "neta": 182.58,
+   "dias": 10.05,
+   "semana": 127.23
   },
   {
    "capital": 1000,
-   "ops": 97,
-   "descartadas": 333,
-   "neta": 243.19,
-   "dias": 10.03,
-   "semana": 169.72
+   "ops": 99,
+   "descartadas": 332,
+   "neta": 277.46,
+   "dias": 10.05,
+   "semana": 193.35
   },
   {
    "capital": 2000,
-   "ops": 102,
-   "descartadas": 333,
-   "neta": 341.68,
-   "dias": 10.03,
-   "semana": 238.45
+   "ops": 104,
+   "descartadas": 332,
+   "neta": 375.95,
+   "dias": 10.05,
+   "semana": 261.98
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 3,
-   "horas": 65,
-   "episodios": 1545,
-   "sospechosas": 11,
-   "realistaNeta": 110.15,
+   "horas": 65.8,
+   "episodios": 1637,
+   "sospechosas": 12,
+   "realistaNeta": 146.05,
    "capital": {
-    "500": 20.45,
-    "1000": 29.6,
-    "2000": 57.11
+    "500": 55.96,
+    "1000": 65.5,
+    "2000": 93.01
    },
    "cumple": true
   }
@@ -236,37 +236,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5412,
-  "n": 1985,
-  "gan": 3840.65,
-  "nNeta": 439,
-  "neta": 559.44
+  "conDato": 5493,
+  "n": 2008,
+  "gan": 3918.4,
+  "nNeta": 440,
+  "neta": 593.67
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1373
+   "n": 1405
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1933
+   "n": 1954
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1107
+   "n": 1122
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 576
+   "n": 588
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 367
+   "n": 368
   },
   {
    "et": "> 5 min",
@@ -311,6 +311,13 @@
    "mediana": 0.106
   },
   {
+   "titulo": "Coritiba FBC vs. Santos FC",
+   "n": 110,
+   "gan": 170.02,
+   "neta": 52.38,
+   "mediana": 0.248
+  },
+  {
    "titulo": "Denmark vs. Norway",
    "n": 100,
    "gan": 152.02,
@@ -337,20 +344,9 @@
    "gan": 67.62,
    "neta": 14.82,
    "mediana": 9.434
-  },
-  {
-   "titulo": "Club Aurora vs. FC Universitario",
-   "n": 86,
-   "gan": 175.62,
-   "neta": 66.75,
-   "mediana": 0.177
   }
  ],
  "porHora": [
-  {
-   "h": 1794765600000,
-   "n": 24
-  },
   {
    "h": 1794769200000,
    "n": 71
@@ -634,126 +630,130 @@
   {
    "h": 1795042800000,
    "n": 28
+  },
+  {
+   "h": 1795046400000,
+   "n": 92
   }
  ],
  "recientes": [
   {
-   "inicio": 1795046163884,
-   "titulo": "CR Flamengo vs. CA Paranaense",
-   "dur": 0.55,
-   "gan": 0.5,
-   "neta": 0.19,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795046156697,
-   "titulo": "CR Flamengo vs. CA Paranaense",
-   "dur": 3.643,
-   "gan": 2.09,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795046146972,
-   "titulo": "CR Flamengo vs. CA Paranaense",
-   "dur": 0.068,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795046145497,
-   "titulo": "CR Flamengo vs. CA Paranaense",
-   "dur": 1.474,
-   "gan": 0.76,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795046101583,
-   "titulo": "CR Flamengo vs. CA Paranaense",
-   "dur": 5.089,
-   "gan": 1.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795046046714,
-   "titulo": "CR Flamengo vs. CA Paranaense",
-   "dur": 8.241,
-   "gan": 0.64,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795045947800,
-   "titulo": "CR Flamengo vs. CA Paranaense - Halftime Result",
-   "dur": 0.143,
-   "gan": 0.86,
-   "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795045947510,
-   "titulo": "CR Flamengo vs. CA Paranaense - Halftime Result",
-   "dur": 0.07,
-   "gan": 1.36,
-   "neta": 0.45,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795045866830,
-   "titulo": "Coritiba FBC vs. Santos FC",
-   "dur": 0.39,
-   "gan": 0.85,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795045717320,
-   "titulo": "Cruzeiro EC vs. SE Palmeiras",
-   "dur": 1.263,
-   "gan": 2.32,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795045717300,
-   "titulo": "Cruzeiro EC vs. SE Palmeiras",
-   "dur": 0.003,
+   "inicio": 1795049352035,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 7.489,
    "gan": 0.52,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795045653933,
-   "titulo": "CR Flamengo vs. CA Paranaense",
-   "dur": 26.377,
-   "gan": 1.01,
+   "inicio": 1795049339833,
+   "titulo": "Cruzeiro EC vs. SE Palmeiras",
+   "dur": 13.289,
+   "gan": 0.75,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795045652941,
-   "titulo": "CR Flamengo vs. CA Paranaense",
-   "dur": 0.95,
-   "gan": 0.77,
+   "inicio": 1795049330855,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 19.985,
+   "gan": 1.33,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795045649255,
-   "titulo": "CR Flamengo vs. CA Paranaense",
-   "dur": 1.626,
-   "gan": 2.1,
-   "neta": 0.26,
+   "inicio": 1795049329480,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 1.296,
+   "gan": 0.71,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795045395189,
+   "inicio": 1795049317425,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 11.775,
+   "gan": 0.74,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795049297046,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 20.179,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795049296197,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 0.019,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795049266628,
+   "titulo": "Cruzeiro EC vs. SE Palmeiras",
+   "dur": 19.878,
+   "gan": 2,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795049264612,
+   "titulo": "Grêmio FBPA vs. EC Bahia",
+   "dur": 1.814,
+   "gan": 0.79,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795049226849,
+   "titulo": "Cruzeiro EC vs. SE Palmeiras",
+   "dur": 29.403,
+   "gan": 1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795049153748,
    "titulo": "CR Flamengo vs. CA Paranaense",
-   "dur": 7.215,
-   "gan": 6.98,
+   "dur": 31.355,
+   "gan": 0.84,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795049169239,
+   "titulo": "Cruzeiro EC vs. SE Palmeiras",
+   "dur": 13.892,
+   "gan": 3.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795049101254,
+   "titulo": "Lowest temperature in Paris on November 20?",
+   "dur": 0.036,
+   "gan": 0.72,
+   "neta": 0.03,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795048988434,
+   "titulo": "Cruzeiro EC vs. SE Palmeiras",
+   "dur": 1.773,
+   "gan": 1.17,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795048988348,
+   "titulo": "Cruzeiro EC vs. SE Palmeiras",
+   "dur": 0.02,
+   "gan": 0.54,
    "neta": 0,
    "lado": "si"
   }
