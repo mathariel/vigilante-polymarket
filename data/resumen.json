@@ -1,84 +1,84 @@
 {
- "actualizado": 1795061507298,
- "inicio": 1794180990750,
+ "actualizado": 1795064522169,
+ "inicio": 1794196013791,
  "ejecucion": {
-  "inicio": 1795058506933,
-  "fin": 1795061507298,
-  "mensajes": 6675431,
+  "inicio": 1795061521813,
+  "fin": 1795064522169,
+  "mensajes": 6461535,
   "reconexiones": 0,
-  "eventos": 538,
+  "eventos": 527,
   "errores": [],
-  "nuevos": 179,
+  "nuevos": 1,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5703,
- "falsos": 2493,
+ "total": 5686,
+ "falsos": 2534,
  "largos": {
-  "episodios": 21744,
-  "eventos": 191,
+  "episodios": 21731,
+  "eventos": 192,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 1189,
+  "episodios": 1185,
   "eventos": 36
  },
- "mediana": 0.535,
+ "mediana": 0.533,
  "captura": [
   {
    "s": 0.5,
-   "n": 2936,
-   "gan": 7017.93,
-   "nNeta": 788,
-   "neta": 1383.73
+   "n": 2924,
+   "gan": 7005.92,
+   "nNeta": 782,
+   "neta": 1381.26
   },
   {
    "s": 2,
-   "n": 1608,
-   "gan": 3486.22,
-   "nNeta": 380,
-   "neta": 577.47
+   "n": 1601,
+   "gan": 3479.83,
+   "nNeta": 376,
+   "neta": 574.89
   },
   {
    "s": 5,
-   "n": 1071,
-   "gan": 2111.11,
-   "nNeta": 211,
-   "neta": 264.8
+   "n": 1067,
+   "gan": 2105.19,
+   "nNeta": 208,
+   "neta": 261.63
   },
   {
    "s": 30,
-   "n": 480,
-   "gan": 885.58,
-   "nNeta": 51,
-   "neta": 20.09
+   "n": 477,
+   "gan": 880.27,
+   "nNeta": 48,
+   "neta": 16.92
   }
  ],
- "rentables": 1620,
+ "rentables": 1611,
  "porCapital": [
   {
    "capital": 500,
    "ops": 78,
-   "descartadas": 331,
+   "descartadas": 326,
    "neta": 176.63,
-   "dias": 9.98,
-   "semana": 123.84
+   "dias": 9.94,
+   "semana": 124.34
   },
   {
    "capital": 1000,
    "ops": 93,
-   "descartadas": 331,
+   "descartadas": 326,
    "neta": 271.51,
-   "dias": 9.98,
-   "semana": 190.36
+   "dias": 9.94,
+   "semana": 191.13
   },
   {
    "capital": 2000,
    "ops": 98,
-   "descartadas": 331,
+   "descartadas": 326,
    "neta": 370,
-   "dias": 9.98,
-   "semana": 259.41
+   "dias": 9.94,
+   "semana": 260.46
   }
  ],
  "maxBloqueoH": 24,
@@ -114,9 +114,9 @@
   },
   {
    "lunes": "2026-11-16",
-   "dias": 3,
-   "horas": 69.2,
-   "episodios": 1900,
+   "dias": 4,
+   "horas": 70,
+   "episodios": 1901,
    "sospechosas": 19,
    "realistaNeta": 147.29,
    "capital": {
@@ -236,42 +236,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5634,
-  "n": 2013,
-  "gan": 3943.89,
-  "nNeta": 433,
-  "neta": 588.01
+  "conDato": 5617,
+  "n": 2002,
+  "gan": 3932.45,
+  "nNeta": 428,
+  "neta": 585.84
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1487
+   "n": 1483
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2017
+   "n": 2015
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1122
+   "n": 1115
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 591
+   "n": 590
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 367
+   "n": 365
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 113
+   "n": 112
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794780000000,
-   "n": 8
-  },
   {
    "h": 1794783600000,
    "n": 10
@@ -634,9 +630,21 @@
   {
    "h": 1795057200000,
    "n": 180
+  },
+  {
+   "h": 1795060800000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795063676280,
+   "titulo": "White House # posts November 13 - November 20, 2026?",
+   "dur": 0.333,
+   "gan": 0.56,
+   "neta": 0.29,
+   "lado": "si"
+  },
   {
    "inicio": 1795059844665,
    "titulo": "Bitcoin price on November 19?",
@@ -746,14 +754,6 @@
    "titulo": "Bitcoin price on November 19?",
    "dur": 0.119,
    "gan": 0.85,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795059605191,
-   "titulo": "Bitcoin price on November 19?",
-   "dur": 0.22,
-   "gan": 0.67,
    "neta": 0,
    "lado": "si"
   }
