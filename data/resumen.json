@@ -1,55 +1,55 @@
 {
- "actualizado": 1795112781890,
- "inicio": 1794277344092,
+ "actualizado": 1795115800154,
+ "inicio": 1794283491874,
  "ejecucion": {
-  "inicio": 1795109781648,
-  "fin": 1795112781890,
-  "mensajes": 10125730,
+  "inicio": 1795112799872,
+  "fin": 1795115800154,
+  "mensajes": 8129118,
   "reconexiones": 0,
-  "eventos": 577,
+  "eventos": 568,
   "errores": [],
-  "nuevos": 6,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.12
+  "nuevos": 23,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5448,
- "falsos": 2476,
+ "total": 5472,
+ "falsos": 2490,
  "largos": {
-  "episodios": 22818,
-  "eventos": 190,
+  "episodios": 22787,
+  "eventos": 191,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 461,
-  "eventos": 31
+  "episodios": 460,
+  "eventos": 30
  },
- "mediana": 0.554,
+ "mediana": 0.565,
  "captura": [
   {
    "s": 0.5,
-   "n": 2842,
-   "gan": 6776.59,
+   "n": 2866,
+   "gan": 6798.08,
    "nNeta": 763,
    "neta": 1388.01
   },
   {
    "s": 2,
-   "n": 1572,
-   "gan": 3334.14,
+   "n": 1589,
+   "gan": 3350.01,
    "nNeta": 370,
    "neta": 599.18
   },
   {
    "s": 5,
-   "n": 1042,
-   "gan": 1983.7,
+   "n": 1059,
+   "gan": 1999.57,
    "nNeta": 205,
    "neta": 291.83
   },
   {
    "s": 30,
-   "n": 467,
-   "gan": 731.51,
+   "n": 478,
+   "gan": 744.17,
    "nNeta": 46,
    "neta": 16.25
   }
@@ -61,24 +61,24 @@
    "ops": 77,
    "descartadas": 321,
    "neta": 186.35,
-   "dias": 9.54,
-   "semana": 136.73
+   "dias": 9.58,
+   "semana": 136.23
   },
   {
    "capital": 1000,
    "ops": 92,
    "descartadas": 321,
    "neta": 298.08,
-   "dias": 9.54,
-   "semana": 218.71
+   "dias": 9.58,
+   "semana": 217.92
   },
   {
    "capital": 2000,
    "ops": 97,
    "descartadas": 321,
    "neta": 396.57,
-   "dias": 9.54,
-   "semana": 290.98
+   "dias": 9.58,
+   "semana": 289.92
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 4,
-   "horas": 83.3,
-   "episodios": 2027,
+   "horas": 84.2,
+   "episodios": 2051,
    "sospechosas": 22,
    "realistaNeta": 186.46,
    "capital": {
@@ -236,9 +236,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5384,
-  "n": 1961,
-  "gan": 3772.17,
+  "conDato": 5408,
+  "n": 1985,
+  "gan": 3793.66,
   "nNeta": 422,
   "neta": 607.8
  },
@@ -251,27 +251,27 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1900
+   "n": 1901
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1097
+   "n": 1103
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 575
+   "n": 581
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 354
+   "n": 363
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 113
+   "n": 115
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794837600000,
-   "n": 36
-  },
   {
    "h": 1794844800000,
    "n": 178
@@ -633,129 +629,133 @@
   },
   {
    "h": 1795111200000,
-   "n": 6
+   "n": 16
+  },
+  {
+   "h": 1795114800000,
+   "n": 14
   }
  ],
  "recientes": [
   {
-   "inicio": 1795109780160,
+   "inicio": 1795112726053,
    "titulo": "Test Match: New Zealand vs India",
-   "dur": 3001.492,
-   "gan": 2.3,
+   "dur": 3073.822,
+   "gan": 2.03,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795112273032,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 2.122,
-   "gan": 0.84,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795112271719,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 0.178,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795112216733,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 2.007,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795112004885,
-   "titulo": "Paris FC vs. HB Køge",
-   "dur": 4.562,
-   "gan": 2.7,
-   "neta": 0.12,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795112002802,
-   "titulo": "Paris FC vs. HB Køge",
-   "dur": 0.587,
-   "gan": 4,
-   "neta": 2.66,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795111937504,
-   "titulo": "FK Austria Wien vs. FC Bayern München",
-   "dur": 0.146,
-   "gan": 1.73,
+   "inicio": 1795115591397,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 97.641,
+   "gan": 1.26,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795106944401,
-   "titulo": "Test Match: New Zealand vs India",
-   "dur": 2810.77,
-   "gan": 1,
+   "inicio": 1795115589246,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 1.035,
+   "gan": 0.74,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795109271540,
-   "titulo": "Al Ahli Doha SC vs. Al-Shamal",
-   "dur": 0.344,
-   "gan": 0.89,
-   "neta": 0.39,
+   "inicio": 1795115587092,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 1.045,
+   "gan": 0.74,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795109269043,
-   "titulo": "Al Ahli Doha SC vs. Al-Shamal",
-   "dur": 0.518,
+   "inicio": 1795115584921,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 1.051,
+   "gan": 0.74,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795115582784,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 1.032,
+   "gan": 0.74,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795115493404,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 88.267,
+   "gan": 1.05,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795115491251,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 1.036,
+   "gan": 1.05,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795115490178,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 0.706,
    "gan": 0.53,
-   "neta": 0.28,
-   "lado": "si"
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1795109221340,
-   "titulo": "Al Ahli Doha SC vs. Al-Shamal",
-   "dur": 0.073,
-   "gan": 0.72,
-   "neta": 0.04,
-   "lado": "si"
+   "inicio": 1795114861671,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 628.473,
+   "gan": 1.16,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1795109220815,
-   "titulo": "Al Ahli Doha SC vs. Al-Shamal",
-   "dur": 0.495,
-   "gan": 0.57,
+   "inicio": 1795115163126,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 16.784,
+   "gan": 0.6,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795109220291,
-   "titulo": "Al Ahli Doha SC vs. Al-Shamal",
-   "dur": 0.52,
-   "gan": 1.15,
-   "neta": 0.04,
+   "inicio": 1795115015788,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
+   "dur": 1.194,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795114922205,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 39.034,
+   "gan": 1.77,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795109217508,
-   "titulo": "Al Ahli Doha SC vs. Al-Shamal",
-   "dur": 1.831,
-   "gan": 0.52,
-   "neta": 0.09,
+   "inicio": 1795114681642,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 240.52,
+   "gan": 0.95,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795109217033,
-   "titulo": "Al Ahli Doha SC vs. Al-Shamal",
-   "dur": 0.432,
-   "gan": 0.52,
-   "neta": 0.09,
-   "lado": "si"
+   "inicio": 1795114834359,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 27.278,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
