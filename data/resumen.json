@@ -1,84 +1,84 @@
 {
- "actualizado": 1795082612378,
+ "actualizado": 1795085626188,
  "inicio": 1794235291600,
  "ejecucion": {
-  "inicio": 1795079612103,
-  "fin": 1795082612378,
-  "mensajes": 8305692,
-  "reconexiones": 6,
-  "eventos": 534,
+  "inicio": 1795082625859,
+  "fin": 1795085626188,
+  "mensajes": 8138716,
+  "reconexiones": 0,
+  "eventos": 544,
   "errores": [],
-  "nuevos": 1,
+  "nuevos": 2,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5630,
- "falsos": 2514,
+ "total": 5588,
+ "falsos": 2512,
  "largos": {
-  "episodios": 22415,
-  "eventos": 192,
+  "episodios": 22560,
+  "eventos": 193,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 611,
+  "episodios": 512,
   "eventos": 33
  },
- "mediana": 0.533,
+ "mediana": 0.54,
  "captura": [
   {
    "s": 0.5,
-   "n": 2896,
-   "gan": 6979.75,
+   "n": 2885,
+   "gan": 6825.03,
    "nNeta": 779,
    "neta": 1380.05
   },
   {
    "s": 2,
-   "n": 1576,
-   "gan": 3454.65,
+   "n": 1568,
+   "gan": 3301.92,
    "nNeta": 371,
    "neta": 571.79
   },
   {
    "s": 5,
-   "n": 1048,
-   "gan": 2086.7,
+   "n": 1039,
+   "gan": 1933.34,
    "nNeta": 206,
    "neta": 261.27
   },
   {
    "s": 30,
-   "n": 468,
-   "gan": 872.92,
+   "n": 464,
+   "gan": 725.38,
    "nNeta": 47,
    "neta": 16.57
   }
  ],
- "rentables": 1599,
+ "rentables": 1598,
  "porCapital": [
   {
    "capital": 500,
    "ops": 77,
    "descartadas": 322,
    "neta": 176.28,
-   "dias": 9.77,
-   "semana": 126.36
+   "dias": 9.69,
+   "semana": 127.28
   },
   {
    "capital": 1000,
    "ops": 92,
    "descartadas": 322,
    "neta": 271.16,
-   "dias": 9.77,
-   "semana": 194.38
+   "dias": 9.69,
+   "semana": 195.8
   },
   {
    "capital": 2000,
    "ops": 97,
    "descartadas": 322,
    "neta": 369.65,
-   "dias": 9.77,
-   "semana": 264.98
+   "dias": 9.69,
+   "semana": 266.91
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 4,
-   "horas": 75,
-   "episodios": 1908,
+   "horas": 75.8,
+   "episodios": 1910,
    "sospechosas": 21,
    "realistaNeta": 148.19,
    "capital": {
@@ -236,9 +236,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5560,
-  "n": 1972,
-  "gan": 3903.68,
+  "conDato": 5518,
+  "n": 1962,
+  "gan": 3749.52,
   "nNeta": 423,
   "neta": 582.67
  },
@@ -246,12 +246,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1468
+   "n": 1454
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2004
+   "n": 1985
   },
   {
    "et": "1–5 s",
@@ -261,17 +261,17 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 580
+   "n": 575
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 356
+   "n": 354
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 112
+   "n": 110
   }
  ],
  "porEvento": [
@@ -633,10 +633,26 @@
   },
   {
    "h": 1795082400000,
-   "n": 1
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795084799093,
+   "titulo": "Donald Trump # Truth Social posts November 17 - November 24, 2026?",
+   "dur": 2.353,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795084795722,
+   "titulo": "Donald Trump # Truth Social posts November 17 - November 24, 2026?",
+   "dur": 3.279,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795082475475,
    "titulo": "Highest temperature in Karachi on November 19?",
@@ -737,22 +753,6 @@
    "inicio": 1795059843543,
    "titulo": "Bitcoin price on November 19?",
    "dur": 0.074,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795059843360,
-   "titulo": "Bitcoin price on November 19?",
-   "dur": 0.095,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795059763099,
-   "titulo": "Bitcoin price on November 19?",
-   "dur": 0.204,
    "gan": 0.54,
    "neta": 0,
    "lado": "si"
