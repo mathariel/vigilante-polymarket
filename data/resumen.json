@@ -1,84 +1,84 @@
 {
- "actualizado": 1795203232761,
- "inicio": 1794470132751,
+ "actualizado": 1795206247418,
+ "inicio": 1794482288067,
  "ejecucion": {
-  "inicio": 1795200232426,
-  "fin": 1795203232761,
-  "mensajes": 14592003,
+  "inicio": 1795203247089,
+  "fin": 1795206247418,
+  "mensajes": 15421182,
   "reconexiones": 0,
-  "eventos": 615,
+  "eventos": 622,
   "errores": [],
-  "nuevos": 64,
-  "nuevosRentables": 3,
-  "nuevosNeta": 2.24
+  "nuevos": 71,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.59
  },
- "total": 5465,
- "falsos": 2830,
+ "total": 5476,
+ "falsos": 2846,
  "largos": {
-  "episodios": 22877,
-  "eventos": 178,
+  "episodios": 22856,
+  "eventos": 179,
   "dias": 7
  },
  "enEspera": {
   "episodios": 231,
   "eventos": 25
  },
- "mediana": 0.473,
+ "mediana": 0.471,
  "captura": [
   {
    "s": 0.5,
-   "n": 2679,
-   "gan": 7661.36,
-   "nNeta": 798,
-   "neta": 1923.67
+   "n": 2680,
+   "gan": 7666.3,
+   "nNeta": 803,
+   "neta": 1913.21
   },
   {
    "s": 2,
-   "n": 1417,
-   "gan": 3341.89,
-   "nNeta": 362,
-   "neta": 611.65
+   "n": 1403,
+   "gan": 3322.74,
+   "nNeta": 360,
+   "neta": 597.58
   },
   {
    "s": 5,
-   "n": 867,
-   "gan": 1928.77,
+   "n": 854,
+   "gan": 1923.85,
    "nNeta": 184,
    "neta": 293.93
   },
   {
    "s": 30,
-   "n": 330,
-   "gan": 687.47,
+   "n": 325,
+   "gan": 680.91,
    "nNeta": 25,
    "neta": 16
   }
  ],
- "rentables": 1710,
+ "rentables": 1716,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 84,
+   "ops": 85,
    "descartadas": 313,
-   "neta": 214.97,
-   "dias": 8.34,
-   "semana": 180.41
+   "neta": 215.56,
+   "dias": 8.31,
+   "semana": 181.59
   },
   {
    "capital": 1000,
-   "ops": 98,
+   "ops": 99,
    "descartadas": 313,
-   "neta": 340.98,
-   "dias": 8.34,
-   "semana": 286.16
+   "neta": 341.57,
+   "dias": 8.31,
+   "semana": 287.75
   },
   {
    "capital": 2000,
-   "ops": 103,
+   "ops": 104,
    "descartadas": 313,
-   "neta": 489.78,
-   "dias": 8.34,
-   "semana": 411.04
+   "neta": 490.37,
+   "dias": 8.31,
+   "semana": 413.1
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 5,
-   "horas": 108.3,
-   "episodios": 2777,
+   "horas": 109.2,
+   "episodios": 2848,
    "sospechosas": 34,
-   "realistaNeta": 386.89,
+   "realistaNeta": 387.48,
    "capital": {
-    "500": 115.53,
-    "1000": 167.08,
-    "2000": 244.9
+    "500": 116.12,
+    "1000": 167.67,
+    "2000": 245.49
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 67,
+  "n": 64,
   "top": [
    {
     "inicio": 1794738069985,
@@ -223,55 +223,55 @@
     "ret": 22.3
    },
    {
-    "inicio": 1794484893587,
-    "titulo": "Highest temperature in Paris on November 12?",
+    "inicio": 1795054292641,
+    "titulo": "Grêmio FBPA vs. EC Bahia",
     "lado": "si",
-    "dur": 3.446,
-    "gan": 17.07,
-    "neta": 16.12,
-    "costo": 35.55,
-    "ret": 48
+    "dur": 0.514,
+    "gan": 13.51,
+    "neta": 11.53,
+    "costo": 59.71,
+    "ret": 22.6
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5398,
-  "n": 1712,
-  "gan": 3995.52,
-  "nNeta": 421,
-  "neta": 779.8
+  "conDato": 5412,
+  "n": 1701,
+  "gan": 3995.63,
+  "nNeta": 422,
+  "neta": 780.39
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1522
+   "n": 1517
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1928
+   "n": 1949
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1141
+   "n": 1148
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 537
+   "n": 529
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 208
+   "n": 205
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 122
+   "n": 120
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794931200000,
-   "n": 41
-  },
   {
    "h": 1794934800000,
    "n": 49
@@ -633,127 +629,131 @@
   },
   {
    "h": 1795201200000,
-   "n": 33
+   "n": 64
+  },
+  {
+   "h": 1795204800000,
+   "n": 40
   }
  ],
  "recientes": [
   {
-   "inicio": 1795202700734,
-   "titulo": "DSC Arminia Bielefeld vs. 1. FC Magdeburg",
-   "dur": 0.099,
-   "gan": 1.84,
-   "neta": 1.14,
+   "inicio": 1795205988606,
+   "titulo": "FC Andorra vs. CD Leganés",
+   "dur": 1.462,
+   "gan": 2.81,
+   "neta": 1.26,
    "lado": "si"
   },
   {
-   "inicio": 1795202552757,
-   "titulo": "FC Den Bosch vs. VVV Venlo",
-   "dur": 0.341,
-   "gan": 0.76,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795202490024,
-   "titulo": "DSC Arminia Bielefeld vs. 1. FC Magdeburg",
-   "dur": 4.99,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795202331852,
-   "titulo": "Helmond Sport vs. FC Dordrecht",
-   "dur": 0.315,
-   "gan": 0.6,
-   "neta": 0.28,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795202238116,
-   "titulo": "DSC Arminia Bielefeld vs. 1. FC Magdeburg",
-   "dur": 0.089,
-   "gan": 1.89,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795201855006,
-   "titulo": "En Avant Guingamp vs. Rodez Aveyron Football",
-   "dur": 0.933,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795201575296,
-   "titulo": "Al Ahli Saudi Club vs. Al Nassr Saudi Club",
-   "dur": 0.945,
-   "gan": 1.08,
-   "neta": 0.14,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795201571283,
-   "titulo": "Al Ahli Saudi Club vs. Al Nassr Saudi Club",
-   "dur": 0.113,
-   "gan": 0.71,
-   "neta": 0.09,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795201352634,
-   "titulo": "Al Ahli Saudi Club vs. Al Nassr Saudi Club",
-   "dur": 0.707,
-   "gan": 1.8,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795201323861,
-   "titulo": "Al Ahli Saudi Club vs. Al Nassr Saudi Club",
-   "dur": 0.613,
-   "gan": 0.87,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795201322696,
-   "titulo": "Al Ahli Saudi Club vs. Al Nassr Saudi Club",
-   "dur": 0.063,
-   "gan": 1.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795201322167,
-   "titulo": "Al Ahli Saudi Club vs. Al Nassr Saudi Club",
-   "dur": 0.4,
-   "gan": 1.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795201317208,
-   "titulo": "Al Ahli Saudi Club vs. Al Nassr Saudi Club",
-   "dur": 1.4,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795201316805,
-   "titulo": "Al Ahli Saudi Club vs. Al Nassr Saudi Club",
-   "dur": 0.091,
+   "inicio": 1795205988688,
+   "titulo": "FCV Farul Constanţa vs. FC Universitatea Cluj",
+   "dur": 0.538,
    "gan": 0.57,
    "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795205988650,
+   "titulo": "FCV Farul Constanţa vs. FC Universitatea Cluj",
+   "dur": 0.034,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795205762513,
+   "titulo": "FC Volendam vs. Jong Ajax Amsterdam",
+   "dur": 0.559,
+   "gan": 0.52,
+   "neta": 0.26,
    "lado": "si"
   },
   {
-   "inicio": 1795201309232,
-   "titulo": "Al Ahli Saudi Club vs. Al Nassr Saudi Club",
-   "dur": 0.204,
-   "gan": 0.76,
+   "inicio": 1795205687289,
+   "titulo": "Liverpool Montevideo vs. Montevideo Wanderers",
+   "dur": 0.98,
+   "gan": 0.69,
+   "neta": 0.18,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795205669345,
+   "titulo": "Liverpool Montevideo vs. Montevideo Wanderers",
+   "dur": 0.682,
+   "gan": 2.22,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795205663846,
+   "titulo": "Liverpool Montevideo vs. Montevideo Wanderers",
+   "dur": 0.276,
+   "gan": 0.96,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795205597936,
+   "titulo": "FCV Farul Constanţa vs. FC Universitatea Cluj",
+   "dur": 0.378,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795205496776,
+   "titulo": "FC Bayern München vs. 1. FC Köln",
+   "dur": 0.37,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795205495127,
+   "titulo": "FC Bayern München vs. 1. FC Köln",
+   "dur": 1.006,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795205492390,
+   "titulo": "FC Bayern München vs. 1. FC Köln",
+   "dur": 0.112,
+   "gan": 3.87,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795205487381,
+   "titulo": "FCV Farul Constanţa vs. FC Universitatea Cluj",
+   "dur": 0.195,
+   "gan": 0.66,
+   "neta": 0.55,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795205332781,
+   "titulo": "De Graafschap vs. MVV Maastricht",
+   "dur": 0.137,
+   "gan": 1.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795205292709,
+   "titulo": "FC Bayern München vs. 1. FC Köln",
+   "dur": 0.427,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795205290915,
+   "titulo": "FC Bayern München vs. 1. FC Köln",
+   "dur": 0.577,
+   "gan": 1.62,
    "neta": 0,
    "lado": "si"
   }
