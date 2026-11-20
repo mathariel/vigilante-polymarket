@@ -1,84 +1,84 @@
 {
- "actualizado": 1795170055688,
- "inicio": 1794422086638,
+ "actualizado": 1795173072660,
+ "inicio": 1794425071767,
  "ejecucion": {
-  "inicio": 1795167055434,
-  "fin": 1795170055688,
-  "mensajes": 11132115,
-  "reconexiones": 0,
-  "eventos": 592,
+  "inicio": 1795170072322,
+  "fin": 1795173072660,
+  "mensajes": 11110255,
+  "reconexiones": 1,
+  "eventos": 593,
   "errores": [],
-  "nuevos": 16,
+  "nuevos": 7,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5369,
- "falsos": 2704,
+ "total": 5354,
+ "falsos": 2705,
  "largos": {
-  "episodios": 22897,
+  "episodios": 23008,
   "eventos": 178,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 372,
+  "episodios": 281,
   "eventos": 27
  },
- "mediana": 0.476,
+ "mediana": 0.473,
  "captura": [
   {
    "s": 0.5,
-   "n": 2639,
-   "gan": 7252.41,
-   "nNeta": 790,
-   "neta": 1748.84
+   "n": 2621,
+   "gan": 7242.03,
+   "nNeta": 776,
+   "neta": 1749.09
   },
   {
    "s": 2,
-   "n": 1427,
-   "gan": 3282.1,
-   "nNeta": 370,
-   "neta": 608.23
+   "n": 1407,
+   "gan": 3269.97,
+   "nNeta": 355,
+   "neta": 607.76
   },
   {
    "s": 5,
-   "n": 891,
-   "gan": 1917.09,
-   "nNeta": 198,
-   "neta": 291.33
+   "n": 872,
+   "gan": 1905.61,
+   "nNeta": 183,
+   "neta": 290.86
   },
   {
    "s": 30,
-   "n": 359,
-   "gan": 698.5,
-   "nNeta": 41,
-   "neta": 16.5
+   "n": 340,
+   "gan": 687.02,
+   "nNeta": 26,
+   "neta": 16.03
   }
  ],
- "rentables": 1666,
+ "rentables": 1655,
  "porCapital": [
   {
    "capital": 500,
    "ops": 80,
-   "descartadas": 321,
+   "descartadas": 306,
    "neta": 193.99,
-   "dias": 8.6,
-   "semana": 157.91
+   "dias": 8.48,
+   "semana": 160.12
   },
   {
    "capital": 1000,
    "ops": 95,
-   "descartadas": 321,
+   "descartadas": 306,
    "neta": 305.72,
-   "dias": 8.6,
-   "semana": 248.86
+   "dias": 8.48,
+   "semana": 252.34
   },
   {
    "capital": 2000,
    "ops": 100,
-   "descartadas": 321,
+   "descartadas": 306,
    "neta": 404.21,
-   "dias": 8.6,
-   "semana": 329.03
+   "dias": 8.48,
+   "semana": 333.62
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 5,
-   "horas": 99.2,
-   "episodios": 2452,
+   "horas": 100,
+   "episodios": 2460,
    "sospechosas": 26,
    "realistaNeta": 200.55,
    "capital": {
@@ -236,27 +236,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5306,
-  "n": 1721,
-  "gan": 3683.46,
-  "nNeta": 425,
-  "neta": 616.24
+  "conDato": 5291,
+  "n": 1701,
+  "gan": 3671.33,
+  "nNeta": 410,
+  "neta": 615.77
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1502
+   "n": 1503
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1866
+   "n": 1870
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1104
+   "n": 1103
   },
   {
    "et": "5–30 s",
@@ -266,12 +266,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 234
+   "n": 214
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 125
+   "n": 126
   }
  ],
  "porEvento": [
@@ -304,13 +304,6 @@
    "mediana": 0.106
   },
   {
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "n": 110,
-   "gan": 64.42,
-   "neta": 0.47,
-   "mediana": 0.019
-  },
-  {
    "titulo": "Coritiba FBC vs. Santos FC",
    "n": 110,
    "gan": 170.02,
@@ -339,6 +332,13 @@
    "mediana": 9.434
   },
   {
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "n": 89,
+   "gan": 49.01,
+   "neta": 0,
+   "mediana": 0.017
+  },
+  {
    "titulo": "Seattle Sounders FC vs. Real Salt Lake",
    "n": 89,
    "gan": 97.18,
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794898800000,
-   "n": 44
-  },
   {
    "h": 1794902400000,
    "n": 9
@@ -633,10 +629,78 @@
   },
   {
    "h": 1795168800000,
-   "n": 13
+   "n": 18
+  },
+  {
+   "h": 1795172400000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795170065047,
+   "titulo": "1. FC Union Berlin vs. RB Leipzig",
+   "dur": 3007.277,
+   "gan": 2.93,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795172816134,
+   "titulo": "Kashima Antlers vs. Shimizu S-Pulse",
+   "dur": 0.391,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795172815828,
+   "titulo": "Kashima Antlers vs. Shimizu S-Pulse",
+   "dur": 0.198,
+   "gan": 2.18,
+   "neta": 0.21,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795172420382,
+   "titulo": "East Bengal FC vs. SC Delhi",
+   "dur": 148.144,
+   "gan": 1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795170666476,
+   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
+   "dur": 0.914,
+   "gan": 1.12,
+   "neta": 0.66,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795170666416,
+   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
+   "dur": 0.051,
+   "gan": 2.43,
+   "neta": 0.83,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795170278439,
+   "titulo": "Vissel Kōbe vs. FC Mito Holly Hock",
+   "dur": 0.66,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795170107544,
+   "titulo": "Highest temperature in Helsinki on November 20?",
+   "dur": 0.018,
+   "gan": 6.89,
+   "neta": 4.5,
+   "lado": "si"
+  },
   {
    "inicio": 1795167025987,
    "titulo": "1. FC Union Berlin vs. RB Leipzig",
@@ -692,70 +756,6 @@
    "gan": 0.54,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1795169282093,
-   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
-   "dur": 1.012,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795169281931,
-   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
-   "dur": 0.02,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795169281914,
-   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
-   "dur": 0.002,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795169281875,
-   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
-   "dur": 0.038,
-   "gan": 0.98,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795169218159,
-   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
-   "dur": 0.012,
-   "gan": 0.7,
-   "neta": 0.08,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795169079518,
-   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
-   "dur": 11.629,
-   "gan": 1.39,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795168934238,
-   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
-   "dur": 2.142,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795168828796,
-   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
-   "dur": 0.676,
-   "gan": 207.12,
-   "neta": 150.16,
-   "lado": "no"
   }
  ]
 }
