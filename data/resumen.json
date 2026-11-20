@@ -1,84 +1,84 @@
 {
- "actualizado": 1795139910988,
- "inicio": 1794322148563,
+ "actualizado": 1795142924740,
+ "inicio": 1794325530277,
  "ejecucion": {
-  "inicio": 1795136910660,
-  "fin": 1795139910988,
-  "mensajes": 8668500,
-  "reconexiones": 1,
-  "eventos": 569,
+  "inicio": 1795139924379,
+  "fin": 1795142924740,
+  "mensajes": 8563196,
+  "reconexiones": 0,
+  "eventos": 560,
   "errores": [],
-  "nuevos": 23,
+  "nuevos": 9,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5643,
- "falsos": 2652,
+ "total": 5589,
+ "falsos": 2722,
  "largos": {
-  "episodios": 22561,
-  "eventos": 186,
+  "episodios": 22555,
+  "eventos": 184,
   "dias": 7
  },
  "enEspera": {
   "episodios": 406,
   "eventos": 31
  },
- "mediana": 0.541,
+ "mediana": 0.539,
  "captura": [
   {
    "s": 0.5,
-   "n": 2915,
-   "gan": 6984.16,
-   "nNeta": 792,
-   "neta": 1448.49
+   "n": 2884,
+   "gan": 6950.22,
+   "nNeta": 789,
+   "neta": 1446.84
   },
   {
    "s": 2,
-   "n": 1591,
-   "gan": 3381.74,
-   "nNeta": 375,
-   "neta": 606.99
+   "n": 1573,
+   "gan": 3360.96,
+   "nNeta": 372,
+   "neta": 606.36
   },
   {
    "s": 5,
-   "n": 1059,
-   "gan": 2017.26,
-   "nNeta": 207,
-   "neta": 293.53
+   "n": 1044,
+   "gan": 2001.65,
+   "nNeta": 203,
+   "neta": 292.87
   },
   {
    "s": 30,
-   "n": 492,
-   "gan": 767.34,
-   "nNeta": 47,
-   "neta": 17.62
+   "n": 490,
+   "gan": 766.06,
+   "nNeta": 45,
+   "neta": 17.18
   }
  ],
- "rentables": 1648,
+ "rentables": 1636,
  "porCapital": [
   {
    "capital": 500,
    "ops": 78,
-   "descartadas": 324,
+   "descartadas": 321,
    "neta": 189.95,
-   "dias": 9.41,
-   "semana": 141.29
+   "dias": 9.28,
+   "semana": 143.26
   },
   {
    "capital": 1000,
    "ops": 93,
-   "descartadas": 324,
+   "descartadas": 321,
    "neta": 301.68,
-   "dias": 9.41,
-   "semana": 224.39
+   "dias": 9.28,
+   "semana": 227.53
   },
   {
    "capital": 2000,
    "ops": 98,
-   "descartadas": 324,
+   "descartadas": 321,
    "neta": 400.17,
-   "dias": 9.41,
-   "semana": 297.65
+   "dias": 9.28,
+   "semana": 301.81
   }
  ],
  "maxBloqueoH": 24,
@@ -115,9 +115,9 @@
   {
    "lunes": "2026-11-16",
    "dias": 4,
-   "horas": 90.8,
-   "episodios": 2282,
-   "sospechosas": 23,
+   "horas": 91.7,
+   "episodios": 2292,
+   "sospechosas": 24,
    "realistaNeta": 194.62,
    "capital": {
     "500": 81.92,
@@ -236,51 +236,51 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5580,
-  "n": 1986,
-  "gan": 3844.2,
-  "nNeta": 426,
-  "neta": 614.49
+  "conDato": 5526,
+  "n": 1965,
+  "gan": 3821.54,
+  "nNeta": 423,
+  "neta": 613.84
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1482
+   "n": 1473
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1975
+   "n": 1959
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1121
+   "n": 1107
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 567
+   "n": 554
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 369
+   "n": 368
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 123
+   "n": 122
   }
  ],
  "porEvento": [
   {
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "n": 313,
-   "gan": 198.76,
-   "neta": 2.69,
-   "mediana": 65.236
+   "n": 292,
+   "gan": 183.92,
+   "neta": 2.04,
+   "mediana": 79.606
   },
   {
    "titulo": "Spain vs. England",
@@ -319,8 +319,8 @@
   },
   {
    "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "n": 108,
-   "gan": 68.14,
+   "n": 107,
+   "gan": 66.89,
    "neta": 0,
    "mediana": 0.818
   },
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794866400000,
-   "n": 10
-  },
   {
    "h": 1794870000000,
    "n": 3
@@ -633,10 +629,94 @@
   },
   {
    "h": 1795136400000,
-   "n": 27
+   "n": 28
+  },
+  {
+   "h": 1795140000000,
+   "n": 9
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795139903055,
+   "titulo": "CE Sabadell FC vs. Granada CF",
+   "dur": 3021.327,
+   "gan": 2.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795142114145,
+   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
+   "dur": 31.269,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795142085320,
+   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
+   "dur": 28.587,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795141079707,
+   "titulo": "Orlando City SC vs. FC Cincinnati",
+   "dur": 0.027,
+   "gan": 0.6,
+   "neta": 0.2,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795141079649,
+   "titulo": "Orlando City SC vs. FC Cincinnati",
+   "dur": 0.023,
+   "gan": 0.6,
+   "neta": 0.2,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795141079595,
+   "titulo": "Orlando City SC vs. FC Cincinnati",
+   "dur": 0.024,
+   "gan": 0.6,
+   "neta": 0.2,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795141078547,
+   "titulo": "Orlando City SC vs. FC Cincinnati",
+   "dur": 1.048,
+   "gan": 3.2,
+   "neta": 2.64,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795141078489,
+   "titulo": "Orlando City SC vs. FC Cincinnati",
+   "dur": 0.032,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795140993557,
+   "titulo": "São Paulo FC vs. Fluminense FC",
+   "dur": 0.93,
+   "gan": 0.79,
+   "neta": 0.05,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795140609148,
+   "titulo": "Orlando City SC vs. FC Cincinnati",
+   "dur": 0.074,
+   "gan": 0.85,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795136583915,
    "titulo": "CE Sabadell FC vs. Granada CF",
@@ -675,86 +755,6 @@
    "dur": 0.473,
    "gan": 0.65,
    "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795139413645,
-   "titulo": "Orlando City SC vs. FC Cincinnati",
-   "dur": 0.284,
-   "gan": 0.69,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795139413513,
-   "titulo": "Orlando City SC vs. FC Cincinnati",
-   "dur": 0.073,
-   "gan": 1.3,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795138319446,
-   "titulo": "Donald Trump # Truth Social posts November 17 - November 24, 2026?",
-   "dur": 0.048,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795138305571,
-   "titulo": "\"I Play Rocky\" Opening Weekend Box Office",
-   "dur": 0.152,
-   "gan": 8.06,
-   "neta": 4.67,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795137757435,
-   "titulo": "Orlando City SC vs. FC Cincinnati",
-   "dur": 0.128,
-   "gan": 1.13,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795137757231,
-   "titulo": "Orlando City SC vs. FC Cincinnati",
-   "dur": 0.081,
-   "gan": 1.33,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795137756244,
-   "titulo": "Orlando City SC vs. FC Cincinnati",
-   "dur": 0.208,
-   "gan": 1.69,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795137755428,
-   "titulo": "Orlando City SC vs. FC Cincinnati",
-   "dur": 0.136,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795137755316,
-   "titulo": "Orlando City SC vs. FC Cincinnati",
-   "dur": 0.099,
-   "gan": 1.69,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795137752038,
-   "titulo": "Orlando City SC vs. FC Cincinnati",
-   "dur": 0.887,
-   "gan": 2.35,
-   "neta": 0.55,
    "lado": "si"
   }
  ]
