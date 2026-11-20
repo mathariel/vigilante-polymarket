@@ -1,21 +1,21 @@
 {
- "actualizado": 1795200218187,
- "inicio": 1794461202429,
+ "actualizado": 1795203232761,
+ "inicio": 1794470132751,
  "ejecucion": {
-  "inicio": 1795197217846,
-  "fin": 1795200218187,
-  "mensajes": 13499520,
+  "inicio": 1795200232426,
+  "fin": 1795203232761,
+  "mensajes": 14592003,
   "reconexiones": 0,
-  "eventos": 621,
+  "eventos": 615,
   "errores": [],
-  "nuevos": 32,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.72
+  "nuevos": 64,
+  "nuevosRentables": 3,
+  "nuevosNeta": 2.24
  },
- "total": 5540,
- "falsos": 2789,
+ "total": 5465,
+ "falsos": 2830,
  "largos": {
-  "episodios": 22842,
+  "episodios": 22877,
   "eventos": 178,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 231,
   "eventos": 25
  },
- "mediana": 0.463,
+ "mediana": 0.473,
  "captura": [
   {
    "s": 0.5,
-   "n": 2689,
-   "gan": 7666.95,
-   "nNeta": 793,
-   "neta": 1921.17
+   "n": 2679,
+   "gan": 7661.36,
+   "nNeta": 798,
+   "neta": 1923.67
   },
   {
    "s": 2,
-   "n": 1429,
-   "gan": 3346.61,
-   "nNeta": 359,
-   "neta": 609.41
+   "n": 1417,
+   "gan": 3341.89,
+   "nNeta": 362,
+   "neta": 611.65
   },
   {
    "s": 5,
-   "n": 882,
-   "gan": 1939.26,
+   "n": 867,
+   "gan": 1928.77,
    "nNeta": 184,
    "neta": 293.93
   },
   {
    "s": 30,
-   "n": 340,
-   "gan": 695.7,
+   "n": 330,
+   "gan": 687.47,
    "nNeta": 25,
    "neta": 16
   }
  ],
- "rentables": 1696,
+ "rentables": 1710,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 82,
-   "descartadas": 312,
-   "neta": 212.74,
-   "dias": 8.45,
-   "semana": 176.23
+   "ops": 84,
+   "descartadas": 313,
+   "neta": 214.97,
+   "dias": 8.34,
+   "semana": 180.41
   },
   {
    "capital": 1000,
-   "ops": 96,
-   "descartadas": 312,
-   "neta": 338.75,
-   "dias": 8.45,
-   "semana": 280.62
+   "ops": 98,
+   "descartadas": 313,
+   "neta": 340.98,
+   "dias": 8.34,
+   "semana": 286.16
   },
   {
    "capital": 2000,
-   "ops": 101,
-   "descartadas": 312,
-   "neta": 487.55,
-   "dias": 8.45,
-   "semana": 403.88
+   "ops": 103,
+   "descartadas": 313,
+   "neta": 489.78,
+   "dias": 8.34,
+   "semana": 411.04
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 5,
-   "horas": 107.5,
-   "episodios": 2713,
+   "horas": 108.3,
+   "episodios": 2777,
    "sospechosas": 34,
-   "realistaNeta": 384.65,
+   "realistaNeta": 386.89,
    "capital": {
-    "500": 113.3,
-    "1000": 164.85,
-    "2000": 242.67
+    "500": 115.53,
+    "1000": 167.08,
+    "2000": 244.9
    },
    "cumple": true
   }
@@ -236,42 +236,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5473,
-  "n": 1729,
-  "gan": 4002.36,
-  "nNeta": 418,
-  "neta": 777.56
+  "conDato": 5398,
+  "n": 1712,
+  "gan": 3995.52,
+  "nNeta": 421,
+  "neta": 779.8
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1569
+   "n": 1522
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1948
+   "n": 1928
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1134
+   "n": 1141
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 542
+   "n": 537
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 213
+   "n": 208
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 127
+   "n": 122
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794927600000,
-   "n": 25
-  },
   {
    "h": 1794931200000,
    "n": 41
@@ -633,128 +629,132 @@
   },
   {
    "h": 1795197600000,
-   "n": 28
+   "n": 59
+  },
+  {
+   "h": 1795201200000,
+   "n": 33
   }
  ],
  "recientes": [
   {
-   "inicio": 1795199886807,
+   "inicio": 1795202700734,
    "titulo": "DSC Arminia Bielefeld vs. 1. FC Magdeburg",
-   "dur": 1.069,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795199025415,
-   "titulo": "CE Sabadell FC vs. Granada CF",
-   "dur": 838.11,
-   "gan": 1.72,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795199837229,
-   "titulo": "DSC Arminia Bielefeld vs. 1. FC Magdeburg",
-   "dur": 1.315,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795199836684,
-   "titulo": "DSC Arminia Bielefeld vs. 1. FC Magdeburg",
-   "dur": 0.004,
+   "dur": 0.099,
    "gan": 1.84,
+   "neta": 1.14,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795202552757,
+   "titulo": "FC Den Bosch vs. VVV Venlo",
+   "dur": 0.341,
+   "gan": 0.76,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795199718786,
-   "titulo": "Escorpiones de Belén vs. AD San Carlos",
-   "dur": 0.681,
-   "gan": 8.47,
+   "inicio": 1795202490024,
+   "titulo": "DSC Arminia Bielefeld vs. 1. FC Magdeburg",
+   "dur": 4.99,
+   "gan": 0.54,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795199252387,
-   "titulo": "Aarhus GF vs. Lyngby BK",
-   "dur": 0.129,
-   "gan": 0.5,
-   "neta": 0,
+   "inicio": 1795202331852,
+   "titulo": "Helmond Sport vs. FC Dordrecht",
+   "dur": 0.315,
+   "gan": 0.6,
+   "neta": 0.28,
    "lado": "si"
   },
   {
-   "inicio": 1795198801359,
-   "titulo": "Al Ahli Saudi Club vs. Al Nassr Saudi Club",
-   "dur": 0.442,
-   "gan": 1,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795198566737,
+   "inicio": 1795202238116,
    "titulo": "DSC Arminia Bielefeld vs. 1. FC Magdeburg",
-   "dur": 0.572,
-   "gan": 0.99,
+   "dur": 0.089,
+   "gan": 1.89,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795198257274,
-   "titulo": "Molde FK vs. FK Bodø/Glimt",
-   "dur": 0.249,
-   "gan": 0.68,
+   "inicio": 1795201855006,
+   "titulo": "En Avant Guingamp vs. Rodez Aveyron Football",
+   "dur": 0.933,
+   "gan": 0.6,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795198257187,
-   "titulo": "Molde FK vs. FK Bodø/Glimt",
-   "dur": 0.051,
-   "gan": 4.82,
+   "inicio": 1795201575296,
+   "titulo": "Al Ahli Saudi Club vs. Al Nassr Saudi Club",
+   "dur": 0.945,
+   "gan": 1.08,
+   "neta": 0.14,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795201571283,
+   "titulo": "Al Ahli Saudi Club vs. Al Nassr Saudi Club",
+   "dur": 0.113,
+   "gan": 0.71,
+   "neta": 0.09,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795201352634,
+   "titulo": "Al Ahli Saudi Club vs. Al Nassr Saudi Club",
+   "dur": 0.707,
+   "gan": 1.8,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795197980056,
-   "titulo": "Igdir FK vs. Umraniyespor",
-   "dur": 0.277,
-   "gan": 0.58,
-   "neta": 0.36,
+   "inicio": 1795201323861,
+   "titulo": "Al Ahli Saudi Club vs. Al Nassr Saudi Club",
+   "dur": 0.613,
+   "gan": 0.87,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795197979924,
-   "titulo": "Igdir FK vs. Umraniyespor",
-   "dur": 0.06,
-   "gan": 0.56,
-   "neta": 0.34,
+   "inicio": 1795201322696,
+   "titulo": "Al Ahli Saudi Club vs. Al Nassr Saudi Club",
+   "dur": 0.063,
+   "gan": 1.54,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795197979849,
-   "titulo": "Igdir FK vs. Umraniyespor",
-   "dur": 0.02,
-   "gan": 0.51,
-   "neta": 0.28,
+   "inicio": 1795201322167,
+   "titulo": "Al Ahli Saudi Club vs. Al Nassr Saudi Club",
+   "dur": 0.4,
+   "gan": 1.54,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795197979821,
-   "titulo": "Igdir FK vs. Umraniyespor",
-   "dur": 0.004,
-   "gan": 0.51,
-   "neta": 0.28,
+   "inicio": 1795201317208,
+   "titulo": "Al Ahli Saudi Club vs. Al Nassr Saudi Club",
+   "dur": 1.4,
+   "gan": 0.7,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795197979793,
-   "titulo": "Igdir FK vs. Umraniyespor",
-   "dur": 0.025,
-   "gan": 0.58,
-   "neta": 0.36,
+   "inicio": 1795201316805,
+   "titulo": "Al Ahli Saudi Club vs. Al Nassr Saudi Club",
+   "dur": 0.091,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795201309232,
+   "titulo": "Al Ahli Saudi Club vs. Al Nassr Saudi Club",
+   "dur": 0.204,
+   "gan": 0.76,
+   "neta": 0,
    "lado": "si"
   }
  ]
