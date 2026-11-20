@@ -1,84 +1,84 @@
 {
- "actualizado": 1795215289944,
- "inicio": 1794512376765,
+ "actualizado": 1795218306203,
+ "inicio": 1794515419760,
  "ejecucion": {
-  "inicio": 1795212289585,
-  "fin": 1795215289944,
-  "mensajes": 10852969,
+  "inicio": 1795215305873,
+  "fin": 1795218306203,
+  "mensajes": 10932543,
   "reconexiones": 0,
-  "eventos": 619,
+  "eventos": 595,
   "errores": [],
-  "nuevos": 17,
-  "nuevosRentables": 4,
-  "nuevosNeta": 25.41
+  "nuevos": 49,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5357,
- "falsos": 2826,
+ "total": 5286,
+ "falsos": 2793,
  "largos": {
-  "episodios": 23004,
-  "eventos": 176,
+  "episodios": 23115,
+  "eventos": 177,
   "dias": 7
  },
  "enEspera": {
   "episodios": 238,
   "eventos": 26
  },
- "mediana": 0.46,
+ "mediana": 0.452,
  "captura": [
   {
    "s": 0.5,
-   "n": 2601,
-   "gan": 7644.42,
-   "nNeta": 795,
-   "neta": 1998.17
+   "n": 2550,
+   "gan": 7497.26,
+   "nNeta": 777,
+   "neta": 1954.56
   },
   {
    "s": 2,
-   "n": 1348,
-   "gan": 3211.08,
-   "nNeta": 358,
-   "neta": 595.07
+   "n": 1336,
+   "gan": 3159.17,
+   "nNeta": 354,
+   "neta": 587.93
   },
   {
    "s": 5,
-   "n": 811,
-   "gan": 1836.53,
-   "nNeta": 185,
-   "neta": 294.27
+   "n": 806,
+   "gan": 1824.92,
+   "nNeta": 184,
+   "neta": 293.16
   },
   {
    "s": 30,
-   "n": 292,
-   "gan": 610.45,
+   "n": 289,
+   "gan": 608.75,
    "nNeta": 25,
    "neta": 16
   }
  ],
- "rentables": 1700,
+ "rentables": 1664,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 87,
-   "descartadas": 311,
-   "neta": 227.17,
-   "dias": 8.09,
-   "semana": 196.62
+   "ops": 85,
+   "descartadas": 307,
+   "neta": 219.29,
+   "dias": 8.07,
+   "semana": 190.29
   },
   {
    "capital": 1000,
-   "ops": 101,
-   "descartadas": 311,
-   "neta": 366.32,
-   "dias": 8.09,
-   "semana": 317.06
+   "ops": 99,
+   "descartadas": 307,
+   "neta": 358.44,
+   "dias": 8.07,
+   "semana": 311.04
   },
   {
    "capital": 2000,
-   "ops": 106,
-   "descartadas": 311,
-   "neta": 515.12,
-   "dias": 8.09,
-   "semana": 445.85
+   "ops": 104,
+   "descartadas": 307,
+   "neta": 507.24,
+   "dias": 8.07,
+   "semana": 440.16
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 5,
-   "horas": 111.7,
-   "episodios": 2998,
+   "horas": 112.5,
+   "episodios": 3047,
    "sospechosas": 36,
    "realistaNeta": 415.29,
    "capital": {
@@ -236,42 +236,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5292,
-  "n": 1642,
-  "gan": 3924.45,
-  "nNeta": 422,
-  "neta": 805.01
+  "conDato": 5221,
+  "n": 1623,
+  "gan": 3851.8,
+  "nNeta": 416,
+  "neta": 793.19
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1486
+   "n": 1491
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1929
+   "n": 1888
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1123
+   "n": 1093
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 519
+   "n": 517
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 188
+   "n": 187
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 104
+   "n": 102
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794942000000,
-   "n": 29
-  },
   {
    "h": 1794945600000,
    "n": 98
@@ -633,127 +629,131 @@
   },
   {
    "h": 1795212000000,
-   "n": 17
+   "n": 26
+  },
+  {
+   "h": 1795215600000,
+   "n": 40
   }
  ],
  "recientes": [
   {
-   "inicio": 1795214587175,
-   "titulo": "FC Porto vs. USC Paredes",
-   "dur": 0.811,
-   "gan": 0.74,
-   "neta": 0.41,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795214523784,
-   "titulo": "FC Porto vs. USC Paredes",
-   "dur": 11.077,
-   "gan": 0.56,
-   "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795214520577,
-   "titulo": "FC Porto vs. USC Paredes",
-   "dur": 2.393,
-   "gan": 0.5,
+   "inicio": 1795217731636,
+   "titulo": "York City FC vs. Walsall FC",
+   "dur": 44.892,
+   "gan": 0.72,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795214512632,
-   "titulo": "FC Porto vs. USC Paredes",
-   "dur": 0.474,
+   "inicio": 1795216155253,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
+   "dur": 2.426,
    "gan": 0.54,
-   "neta": 0.21,
-   "lado": "si"
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1795214512416,
-   "titulo": "FC Porto vs. USC Paredes",
-   "dur": 0.022,
-   "gan": 0.61,
-   "neta": 0.26,
-   "lado": "si"
+   "inicio": 1795216154829,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
+   "dur": 0.019,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1795214509980,
-   "titulo": "FC Porto vs. USC Paredes",
-   "dur": 2.414,
-   "gan": 0.81,
-   "neta": 0.27,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795214356269,
-   "titulo": "FC Porto vs. USC Paredes",
-   "dur": 1.031,
+   "inicio": 1795216153584,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
+   "dur": 0.22,
    "gan": 0.55,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795214255100,
-   "titulo": "FC Porto vs. USC Paredes",
-   "dur": 2.233,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795214238998,
-   "titulo": "FC Porto vs. USC Paredes",
-   "dur": 0.016,
-   "gan": 1.21,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795214046967,
-   "titulo": "FC Porto vs. USC Paredes",
-   "dur": 24.6,
-   "gan": 2.69,
-   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795213475006,
-   "titulo": "FC Porto vs. USC Paredes",
-   "dur": 0.271,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795213175828,
-   "titulo": "FC Porto vs. USC Paredes",
-   "dur": 0.023,
+   "inicio": 1795215902171,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
+   "dur": 19.741,
    "gan": 0.63,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795213111646,
-   "titulo": "CD Cobresal vs. Audax CS Italiano",
-   "dur": 0.188,
-   "gan": 1.34,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795213082798,
-   "titulo": "CD Cobresal vs. Audax CS Italiano",
-   "dur": 1.566,
-   "gan": 35.68,
-   "neta": 24.09,
    "lado": "no"
   },
   {
-   "inicio": 1795213043360,
-   "titulo": "FC Porto vs. USC Paredes",
-   "dur": 0.339,
-   "gan": 0.8,
+   "inicio": 1795215899006,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
+   "dur": 3.126,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795215897724,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
+   "dur": 1.232,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795215897571,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
+   "dur": 0.025,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795215897481,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
+   "dur": 0.063,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795215897448,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
+   "dur": 0.009,
+   "gan": 0.64,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795215897428,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
+   "dur": 0.014,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795215897330,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
+   "dur": 0.08,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795215897274,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
+   "dur": 0.022,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795215897191,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
+   "dur": 0.065,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795215897151,
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
+   "dur": 0.021,
+   "gan": 0.57,
    "neta": 0,
    "lado": "no"
   }
