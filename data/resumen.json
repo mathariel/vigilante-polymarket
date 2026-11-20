@@ -1,84 +1,84 @@
 {
- "actualizado": 1795154982434,
- "inicio": 1794391808825,
+ "actualizado": 1795157999479,
+ "inicio": 1794403992309,
  "ejecucion": {
-  "inicio": 1795151982083,
-  "fin": 1795154982434,
-  "mensajes": 8355970,
-  "reconexiones": 0,
-  "eventos": 570,
+  "inicio": 1795154999151,
+  "fin": 1795157999479,
+  "mensajes": 7562457,
+  "reconexiones": 1,
+  "eventos": 561,
   "errores": [],
-  "nuevos": 4,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 11,
+  "nuevosRentables": 7,
+  "nuevosNeta": 1.34
  },
- "total": 5466,
- "falsos": 2710,
+ "total": 5418,
+ "falsos": 2715,
  "largos": {
-  "episodios": 22742,
-  "eventos": 180,
+  "episodios": 22798,
+  "eventos": 179,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 384,
+  "episodios": 379,
   "eventos": 29
  },
- "mediana": 0.502,
+ "mediana": 0.491,
  "captura": [
   {
    "s": 0.5,
-   "n": 2736,
-   "gan": 6860.06,
-   "nNeta": 781,
-   "neta": 1447.15
+   "n": 2690,
+   "gan": 6834.09,
+   "nNeta": 788,
+   "neta": 1448.49
   },
   {
    "s": 2,
-   "n": 1528,
-   "gan": 3331.26,
-   "nNeta": 364,
-   "neta": 604.9
+   "n": 1482,
+   "gan": 3304.75,
+   "nNeta": 368,
+   "neta": 605.68
   },
   {
    "s": 5,
-   "n": 997,
-   "gan": 1973.09,
-   "nNeta": 195,
-   "neta": 290.54
+   "n": 949,
+   "gan": 1946,
+   "nNeta": 197,
+   "neta": 291.09
   },
   {
    "s": 30,
-   "n": 458,
-   "gan": 749.79,
-   "nNeta": 40,
-   "neta": 16.1
+   "n": 414,
+   "gan": 724.32,
+   "nNeta": 41,
+   "neta": 16.4
   }
  ],
- "rentables": 1655,
+ "rentables": 1662,
  "porCapital": [
   {
    "capital": 500,
    "ops": 79,
-   "descartadas": 313,
+   "descartadas": 320,
    "neta": 191.68,
-   "dias": 8.67,
-   "semana": 154.75
+   "dias": 8.6,
+   "semana": 155.94
   },
   {
    "capital": 1000,
    "ops": 94,
-   "descartadas": 313,
+   "descartadas": 320,
    "neta": 303.41,
-   "dias": 8.67,
-   "semana": 244.95
+   "dias": 8.6,
+   "semana": 246.84
   },
   {
    "capital": 2000,
    "ops": 99,
-   "descartadas": 313,
+   "descartadas": 320,
    "neta": 401.9,
-   "dias": 8.67,
-   "semana": 324.46
+   "dias": 8.6,
+   "semana": 326.96
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 5,
-   "horas": 95,
-   "episodios": 2406,
+   "horas": 95.8,
+   "episodios": 2418,
    "sospechosas": 25,
-   "realistaNeta": 196.62,
+   "realistaNeta": 197.96,
    "capital": {
     "500": 83.65,
     "1000": 110.04,
@@ -236,42 +236,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5403,
-  "n": 1821,
-  "gan": 3730.98,
-  "nNeta": 416,
-  "neta": 612.35
+  "conDato": 5355,
+  "n": 1775,
+  "gan": 3705.01,
+  "nNeta": 423,
+  "neta": 613.69
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1497
+   "n": 1495
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1870
+   "n": 1869
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1096
+   "n": 1099
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 539
+   "n": 535
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 339
+   "n": 294
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 119
+   "n": 120
   }
  ],
  "porEvento": [
@@ -283,18 +283,18 @@
    "mediana": 0.203
   },
   {
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "n": 229,
-   "gan": 139.11,
-   "neta": 0.47,
-   "mediana": 106.126
-  },
-  {
    "titulo": "Bitcoin price on November 19?",
    "n": 179,
    "gan": 124.38,
    "neta": 0,
    "mediana": 0.099
+  },
+  {
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "n": 176,
+   "gan": 106.45,
+   "neta": 0.47,
+   "mediana": 50.088
   },
   {
    "titulo": "Kazakhstan vs. Slovakia",
@@ -633,10 +633,106 @@
   },
   {
    "h": 1795154400000,
-   "n": 1
+   "n": 13
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795156257276,
+   "titulo": "CE Sabadell FC vs. Granada CF",
+   "dur": 1741.878,
+   "gan": 2.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795157320610,
+   "titulo": "Best AI model on November 23?",
+   "dur": 179.208,
+   "gan": 0.64,
+   "neta": 0.3,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795157277858,
+   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
+   "dur": 3.032,
+   "gan": 0.79,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795156968173,
+   "titulo": "Best AI model on November 23?",
+   "dur": 1.116,
+   "gan": 1.29,
+   "neta": 0.25,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795156950698,
+   "titulo": "Best AI model on November 23?",
+   "dur": 10.111,
+   "gan": 0.55,
+   "neta": 0.16,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795156944694,
+   "titulo": "Best AI model on November 23?",
+   "dur": 2.995,
+   "gan": 0.55,
+   "neta": 0.16,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795156938726,
+   "titulo": "Best AI model on November 23?",
+   "dur": 2.969,
+   "gan": 0.55,
+   "neta": 0.16,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795156936809,
+   "titulo": "Best AI model on November 23?",
+   "dur": 1.848,
+   "gan": 0.55,
+   "neta": 0.16,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795156936700,
+   "titulo": "Best AI model on November 23?",
+   "dur": 0.042,
+   "gan": 0.55,
+   "neta": 0.16,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795156934578,
+   "titulo": "Best AI model on November 23?",
+   "dur": 0.848,
+   "gan": 0.71,
+   "neta": 0.2,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795155171185,
+   "titulo": "CE Sabadell FC vs. Granada CF",
+   "dur": 473.947,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795154854905,
+   "titulo": "CE Sabadell FC vs. Granada CF",
+   "dur": 215.797,
+   "gan": 2.53,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795154836099,
    "titulo": "CE Sabadell FC vs. Granada CF",
@@ -659,102 +755,6 @@
    "dur": 48.003,
    "gan": 0.8,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795152040594,
-   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
-   "dur": 1194.106,
-   "gan": 1.07,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795152331920,
-   "titulo": "# of views of MrBeast video on day 6?",
-   "dur": 0.3,
-   "gan": 2.32,
-   "neta": 1.78,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795151957976,
-   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
-   "dur": 82.46,
-   "gan": 1.06,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795151855528,
-   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
-   "dur": 111.82,
-   "gan": 1.04,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795148264592,
-   "titulo": "CE Sabadell FC vs. Granada CF",
-   "dur": 3702.756,
-   "gan": 2.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795151024679,
-   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
-   "dur": 830.811,
-   "gan": 1.03,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795151734475,
-   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
-   "dur": 1.031,
-   "gan": 2.36,
-   "neta": 1.94,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795151734401,
-   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
-   "dur": 0.04,
-   "gan": 4.08,
-   "neta": 3.41,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795151725695,
-   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
-   "dur": 3.336,
-   "gan": 1.43,
-   "neta": 0.95,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795151689113,
-   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
-   "dur": 0.243,
-   "gan": 1.08,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795151688877,
-   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
-   "dur": 0.204,
-   "gan": 1.28,
-   "neta": 0.18,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795151688768,
-   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
-   "dur": 0.08,
-   "gan": 1.48,
-   "neta": 0.37,
    "lado": "no"
   }
  ]
