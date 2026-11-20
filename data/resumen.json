@@ -1,84 +1,84 @@
 {
- "actualizado": 1795173072660,
- "inicio": 1794425071767,
+ "actualizado": 1795176088310,
+ "inicio": 1794436725627,
  "ejecucion": {
-  "inicio": 1795170072322,
-  "fin": 1795173072660,
-  "mensajes": 11110255,
+  "inicio": 1795173087959,
+  "fin": 1795176088310,
+  "mensajes": 10987712,
   "reconexiones": 1,
-  "eventos": 593,
+  "eventos": 597,
   "errores": [],
-  "nuevos": 7,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 53,
+  "nuevosRentables": 3,
+  "nuevosNeta": 172.98
  },
- "total": 5354,
- "falsos": 2705,
+ "total": 5407,
+ "falsos": 2720,
  "largos": {
-  "episodios": 23008,
+  "episodios": 22984,
   "eventos": 178,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 281,
+  "episodios": 243,
   "eventos": 27
  },
- "mediana": 0.473,
+ "mediana": 0.472,
  "captura": [
   {
    "s": 0.5,
-   "n": 2621,
-   "gan": 7242.03,
-   "nNeta": 776,
-   "neta": 1749.09
+   "n": 2645,
+   "gan": 7590.27,
+   "nNeta": 784,
+   "neta": 1934.23
   },
   {
    "s": 2,
-   "n": 1407,
-   "gan": 3269.97,
-   "nNeta": 355,
-   "neta": 607.76
+   "n": 1414,
+   "gan": 3298.57,
+   "nNeta": 356,
+   "neta": 611.46
   },
   {
    "s": 5,
-   "n": 872,
-   "gan": 1905.61,
-   "nNeta": 183,
-   "neta": 290.86
+   "n": 875,
+   "gan": 1914.45,
+   "nNeta": 184,
+   "neta": 294.56
   },
   {
    "s": 30,
-   "n": 340,
-   "gan": 687.02,
+   "n": 341,
+   "gan": 690.11,
    "nNeta": 26,
    "neta": 16.03
   }
  ],
- "rentables": 1655,
+ "rentables": 1674,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 80,
+   "ops": 82,
    "descartadas": 306,
-   "neta": 193.99,
-   "dias": 8.48,
-   "semana": 160.12
+   "neta": 214.44,
+   "dias": 8.52,
+   "semana": 176.27
   },
   {
    "capital": 1000,
-   "ops": 95,
+   "ops": 97,
    "descartadas": 306,
-   "neta": 305.72,
-   "dias": 8.48,
-   "semana": 252.34
+   "neta": 351.33,
+   "dias": 8.52,
+   "semana": 288.79
   },
   {
    "capital": 2000,
-   "ops": 100,
+   "ops": 102,
    "descartadas": 306,
-   "neta": 404.21,
-   "dias": 8.48,
-   "semana": 333.62
+   "neta": 500.13,
+   "dias": 8.52,
+   "semana": 411.1
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 5,
-   "horas": 100,
-   "episodios": 2460,
-   "sospechosas": 26,
-   "realistaNeta": 200.55,
+   "horas": 100.8,
+   "episodios": 2513,
+   "sospechosas": 28,
+   "realistaNeta": 373.53,
    "capital": {
-    "500": 85.96,
-    "1000": 112.35,
-    "2000": 139.86
+    "500": 106.41,
+    "1000": 157.96,
+    "2000": 235.78
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 63,
+  "n": 65,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5291,
-  "n": 1701,
-  "gan": 3671.33,
-  "nNeta": 410,
-  "neta": 615.77
+  "conDato": 5342,
+  "n": 1711,
+  "gan": 3973.28,
+  "nNeta": 413,
+  "neta": 788.75
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1503
+   "n": 1522
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1870
+   "n": 1888
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1103
+   "n": 1116
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 532
+   "n": 534
   },
   {
    "et": "30 s–5 min",
@@ -271,7 +271,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 126
+   "n": 127
   }
  ],
  "porEvento": [
@@ -633,129 +633,129 @@
   },
   {
    "h": 1795172400000,
-   "n": 3
+   "n": 56
   }
  ],
  "recientes": [
   {
-   "inicio": 1795170065047,
+   "inicio": 1795173089348,
    "titulo": "1. FC Union Berlin vs. RB Leipzig",
-   "dur": 3007.277,
-   "gan": 2.93,
+   "dur": 2998.614,
+   "gan": 3.09,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795172816134,
-   "titulo": "Kashima Antlers vs. Shimizu S-Pulse",
-   "dur": 0.391,
-   "gan": 0.63,
+   "inicio": 1795175873577,
+   "titulo": "Beijing Guoan vs. Shanghai Port FC",
+   "dur": 0.661,
+   "gan": 0.88,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795172815828,
-   "titulo": "Kashima Antlers vs. Shimizu S-Pulse",
-   "dur": 0.198,
-   "gan": 2.18,
-   "neta": 0.21,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795172420382,
-   "titulo": "East Bengal FC vs. SC Delhi",
-   "dur": 148.144,
-   "gan": 1,
+   "inicio": 1795175873486,
+   "titulo": "Beijing Guoan vs. Shanghai Port FC",
+   "dur": 0.032,
+   "gan": 0.59,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795170666476,
-   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
-   "dur": 0.914,
-   "gan": 1.12,
-   "neta": 0.66,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795170666416,
-   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
-   "dur": 0.051,
-   "gan": 2.43,
-   "neta": 0.83,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795170278439,
+   "inicio": 1795175822274,
    "titulo": "Vissel Kōbe vs. FC Mito Holly Hock",
-   "dur": 0.66,
-   "gan": 0.63,
-   "neta": 0,
+   "dur": 7.5,
+   "gan": 4.45,
+   "neta": 3.7,
    "lado": "si"
   },
   {
-   "inicio": 1795170107544,
-   "titulo": "Highest temperature in Helsinki on November 20?",
-   "dur": 0.018,
-   "gan": 6.89,
-   "neta": 4.5,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795167025987,
-   "titulo": "1. FC Union Berlin vs. RB Leipzig",
-   "dur": 3029.449,
-   "gan": 2.93,
+   "inicio": 1795175549278,
+   "titulo": "Vissel Kōbe vs. FC Mito Holly Hock",
+   "dur": 0.94,
+   "gan": 1.45,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795167017743,
-   "titulo": "CE Sabadell FC vs. Granada CF",
-   "dur": 3037.693,
-   "gan": 2.74,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795169945771,
-   "titulo": "Kashima Antlers vs. Shimizu S-Pulse",
-   "dur": 0.018,
-   "gan": 0.52,
+   "inicio": 1795175415160,
+   "titulo": "Beijing Guoan vs. Shanghai Port FC",
+   "dur": 1.054,
+   "gan": 0.7,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795169691656,
-   "titulo": "FC Bayern München vs. 1. FC Köln",
-   "dur": 2.156,
-   "gan": 1.38,
-   "neta": 0,
+   "inicio": 1795175395959,
+   "titulo": "Vissel Kōbe vs. FC Mito Holly Hock",
+   "dur": 0.01,
+   "gan": 0.5,
+   "neta": 0.07,
    "lado": "si"
   },
   {
-   "inicio": 1795169643576,
-   "titulo": "Garuda Yaksa vs. Madura United",
-   "dur": 0.107,
-   "gan": 0.76,
-   "neta": 0.44,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795169425596,
+   "inicio": 1795174545127,
    "titulo": "Kashiwa Reysol vs. JEF United Ichihara Chiba",
-   "dur": 6.829,
-   "gan": 1.05,
+   "dur": 0.43,
+   "gan": 2,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795169283137,
-   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
-   "dur": 0.006,
-   "gan": 0.54,
+   "inicio": 1795174542894,
+   "titulo": "Kashiwa Reysol vs. JEF United Ichihara Chiba",
+   "dur": 1.71,
+   "gan": 271.58,
+   "neta": 168.98,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795174541695,
+   "titulo": "Kashiwa Reysol vs. JEF United Ichihara Chiba",
+   "dur": 1.099,
+   "gan": 0.69,
    "neta": 0,
    "lado": "si"
+  },
+  {
+   "inicio": 1795174498700,
+   "titulo": "Kashima Antlers vs. Shimizu S-Pulse",
+   "dur": 1.45,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795174495301,
+   "titulo": "Beijing Guoan vs. Shanghai Port FC",
+   "dur": 0.021,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795174486493,
+   "titulo": "Beijing Guoan vs. Shanghai Port FC",
+   "dur": 0.244,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795174485833,
+   "titulo": "Beijing Guoan vs. Shanghai Port FC",
+   "dur": 0.239,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795174485008,
+   "titulo": "Beijing Guoan vs. Shanghai Port FC",
+   "dur": 0.33,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
