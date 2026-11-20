@@ -1,84 +1,84 @@
 {
- "actualizado": 1795176088310,
+ "actualizado": 1795179103702,
  "inicio": 1794436725627,
  "ejecucion": {
-  "inicio": 1795173087959,
-  "fin": 1795176088310,
-  "mensajes": 10987712,
-  "reconexiones": 1,
-  "eventos": 597,
+  "inicio": 1795176103409,
+  "fin": 1795179103702,
+  "mensajes": 10705461,
+  "reconexiones": 0,
+  "eventos": 604,
   "errores": [],
-  "nuevos": 53,
-  "nuevosRentables": 3,
-  "nuevosNeta": 172.98
+  "nuevos": 6,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5407,
- "falsos": 2720,
+ "total": 5414,
+ "falsos": 2718,
  "largos": {
-  "episodios": 22984,
-  "eventos": 178,
+  "episodios": 22985,
+  "eventos": 179,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 243,
-  "eventos": 27
+  "episodios": 242,
+  "eventos": 26
  },
- "mediana": 0.472,
+ "mediana": 0.473,
  "captura": [
   {
    "s": 0.5,
-   "n": 2645,
-   "gan": 7590.27,
-   "nNeta": 784,
-   "neta": 1934.23
+   "n": 2650,
+   "gan": 7597.77,
+   "nNeta": 787,
+   "neta": 1936.92
   },
   {
    "s": 2,
-   "n": 1414,
-   "gan": 3298.57,
+   "n": 1416,
+   "gan": 3303.23,
    "nNeta": 356,
    "neta": 611.46
   },
   {
    "s": 5,
-   "n": 875,
-   "gan": 1914.45,
+   "n": 877,
+   "gan": 1919.11,
    "nNeta": 184,
    "neta": 294.56
   },
   {
    "s": 30,
-   "n": 341,
-   "gan": 690.11,
+   "n": 343,
+   "gan": 694.77,
    "nNeta": 26,
    "neta": 16.03
   }
  ],
- "rentables": 1674,
+ "rentables": 1679,
  "porCapital": [
   {
    "capital": 500,
    "ops": 82,
    "descartadas": 306,
    "neta": 214.44,
-   "dias": 8.52,
-   "semana": 176.27
+   "dias": 8.55,
+   "semana": 175.55
   },
   {
    "capital": 1000,
    "ops": 97,
    "descartadas": 306,
    "neta": 351.33,
-   "dias": 8.52,
-   "semana": 288.79
+   "dias": 8.55,
+   "semana": 287.61
   },
   {
    "capital": 2000,
    "ops": 102,
    "descartadas": 306,
    "neta": 500.13,
-   "dias": 8.52,
-   "semana": 411.1
+   "dias": 8.55,
+   "semana": 409.43
   }
  ],
  "maxBloqueoH": 24,
@@ -115,9 +115,9 @@
   {
    "lunes": "2026-11-16",
    "dias": 5,
-   "horas": 100.8,
-   "episodios": 2513,
-   "sospechosas": 28,
+   "horas": 101.7,
+   "episodios": 2520,
+   "sospechosas": 30,
    "realistaNeta": 373.53,
    "capital": {
     "500": 106.41,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 65,
+  "n": 67,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,9 +236,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5342,
-  "n": 1711,
-  "gan": 3973.28,
+  "conDato": 5347,
+  "n": 1713,
+  "gan": 3977.94,
   "nNeta": 413,
   "neta": 788.75
  },
@@ -251,12 +251,12 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1888
+   "n": 1890
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1116
+   "n": 1119
   },
   {
    "et": "5–30 s",
@@ -266,12 +266,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 214
+   "n": 215
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 127
+   "n": 128
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794902400000,
-   "n": 9
-  },
   {
    "h": 1794906000000,
    "n": 1
@@ -634,9 +630,69 @@
   {
    "h": 1795172400000,
    "n": 56
+  },
+  {
+   "h": 1795176000000,
+   "n": 7
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795178379446,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 50.003,
+   "gan": 1.62,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795176081578,
+   "titulo": "1. FC Union Berlin vs. RB Leipzig",
+   "dur": 762.538,
+   "gan": 3.09,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795176368752,
+   "titulo": "Imisli FK vs. Zira FK",
+   "dur": 0.489,
+   "gan": 0.5,
+   "neta": 0.45,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795176367349,
+   "titulo": "Imisli FK vs. Zira FK",
+   "dur": 1.029,
+   "gan": 0.55,
+   "neta": 0.5,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795176358540,
+   "titulo": "Imisli FK vs. Zira FK",
+   "dur": 1.038,
+   "gan": 1.14,
+   "neta": 1.09,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795176351823,
+   "titulo": "Imisli FK vs. Zira FK",
+   "dur": 1.054,
+   "gan": 1.15,
+   "neta": 1.1,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795176275197,
+   "titulo": "Beijing Guoan vs. Shanghai Port FC",
+   "dur": 0.305,
+   "gan": 0.7,
+   "neta": 0.54,
+   "lado": "no"
+  },
   {
    "inicio": 1795173089348,
    "titulo": "1. FC Union Berlin vs. RB Leipzig",
@@ -700,62 +756,6 @@
    "gan": 2,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1795174542894,
-   "titulo": "Kashiwa Reysol vs. JEF United Ichihara Chiba",
-   "dur": 1.71,
-   "gan": 271.58,
-   "neta": 168.98,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795174541695,
-   "titulo": "Kashiwa Reysol vs. JEF United Ichihara Chiba",
-   "dur": 1.099,
-   "gan": 0.69,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795174498700,
-   "titulo": "Kashima Antlers vs. Shimizu S-Pulse",
-   "dur": 1.45,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795174495301,
-   "titulo": "Beijing Guoan vs. Shanghai Port FC",
-   "dur": 0.021,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795174486493,
-   "titulo": "Beijing Guoan vs. Shanghai Port FC",
-   "dur": 0.244,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795174485833,
-   "titulo": "Beijing Guoan vs. Shanghai Port FC",
-   "dur": 0.239,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795174485008,
-   "titulo": "Beijing Guoan vs. Shanghai Port FC",
-   "dur": 0.33,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
