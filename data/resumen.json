@@ -1,84 +1,84 @@
 {
- "actualizado": 1795197198759,
- "inicio": 1794458108532,
+ "actualizado": 1795200218187,
+ "inicio": 1794461202429,
  "ejecucion": {
-  "inicio": 1795194198494,
-  "fin": 1795197198759,
-  "mensajes": 11841584,
-  "reconexiones": 2,
-  "eventos": 614,
+  "inicio": 1795197217846,
+  "fin": 1795200218187,
+  "mensajes": 13499520,
+  "reconexiones": 0,
+  "eventos": 621,
   "errores": [],
-  "nuevos": 106,
-  "nuevosRentables": 3,
-  "nuevosNeta": 1.13
+  "nuevos": 32,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.72
  },
- "total": 5516,
- "falsos": 2781,
+ "total": 5540,
+ "falsos": 2789,
  "largos": {
-  "episodios": 22865,
-  "eventos": 179,
+  "episodios": 22842,
+  "eventos": 178,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 234,
+  "episodios": 231,
   "eventos": 25
  },
- "mediana": 0.465,
+ "mediana": 0.463,
  "captura": [
   {
    "s": 0.5,
-   "n": 2682,
-   "gan": 7653.36,
-   "nNeta": 788,
-   "neta": 1919.58
+   "n": 2689,
+   "gan": 7666.95,
+   "nNeta": 793,
+   "neta": 1921.17
   },
   {
    "s": 2,
-   "n": 1431,
-   "gan": 3347.24,
-   "nNeta": 358,
-   "neta": 608.69
+   "n": 1429,
+   "gan": 3346.61,
+   "nNeta": 359,
+   "neta": 609.41
   },
   {
    "s": 5,
-   "n": 884,
-   "gan": 1941.48,
+   "n": 882,
+   "gan": 1939.26,
    "nNeta": 184,
    "neta": 293.93
   },
   {
    "s": 30,
-   "n": 342,
-   "gan": 697.92,
+   "n": 340,
+   "gan": 695.7,
    "nNeta": 25,
    "neta": 16
   }
  ],
- "rentables": 1688,
+ "rentables": 1696,
  "porCapital": [
   {
    "capital": 500,
    "ops": 82,
-   "descartadas": 311,
+   "descartadas": 312,
    "neta": 212.74,
-   "dias": 8.52,
-   "semana": 174.82
+   "dias": 8.45,
+   "semana": 176.23
   },
   {
    "capital": 1000,
    "ops": 96,
-   "descartadas": 311,
+   "descartadas": 312,
    "neta": 338.75,
-   "dias": 8.52,
-   "semana": 278.37
+   "dias": 8.45,
+   "semana": 280.62
   },
   {
    "capital": 2000,
    "ops": 101,
-   "descartadas": 311,
+   "descartadas": 312,
    "neta": 487.55,
-   "dias": 8.52,
-   "semana": 400.64
+   "dias": 8.45,
+   "semana": 403.88
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 5,
-   "horas": 106.7,
-   "episodios": 2681,
+   "horas": 107.5,
+   "episodios": 2713,
    "sospechosas": 34,
-   "realistaNeta": 383.93,
+   "realistaNeta": 384.65,
    "capital": {
     "500": 113.3,
     "1000": 164.85,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 68,
+  "n": 67,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,27 +236,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5448,
-  "n": 1731,
-  "gan": 4002.98,
-  "nNeta": 417,
-  "neta": 776.84
+  "conDato": 5473,
+  "n": 1729,
+  "gan": 4002.36,
+  "nNeta": 418,
+  "neta": 777.56
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1560
+   "n": 1569
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1933
+   "n": 1948
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1132
+   "n": 1134
   },
   {
    "et": "5–30 s",
@@ -271,7 +271,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 129
+   "n": 127
   }
  ],
  "porEvento": [
@@ -332,11 +332,11 @@
    "mediana": 9.434
   },
   {
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "n": 89,
-   "gan": 49.01,
-   "neta": 0,
-   "mediana": 0.017
+   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
+   "n": 91,
+   "gan": 85.07,
+   "neta": 3.85,
+   "mediana": 0.122
   },
   {
    "titulo": "Seattle Sounders FC vs. Real Salt Lake",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794924000000,
-   "n": 18
-  },
   {
    "h": 1794927600000,
    "n": 25
@@ -633,129 +629,133 @@
   },
   {
    "h": 1795194000000,
-   "n": 106
+   "n": 110
+  },
+  {
+   "h": 1795197600000,
+   "n": 28
   }
  ],
  "recientes": [
   {
-   "inicio": 1795197183742,
-   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
-   "dur": 0.142,
-   "gan": 0.69,
-   "neta": 0.14,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795197152589,
-   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
-   "dur": 0.012,
-   "gan": 0.65,
+   "inicio": 1795199886807,
+   "titulo": "DSC Arminia Bielefeld vs. 1. FC Magdeburg",
+   "dur": 1.069,
+   "gan": 0.52,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795197146930,
-   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
-   "dur": 5.609,
-   "gan": 2.61,
-   "neta": 0.14,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795197032708,
-   "titulo": "FK Rostov vs. PFK Krylia Sovetov Samara",
-   "dur": 0.973,
-   "gan": 0.77,
-   "neta": 0.17,
    "lado": "si"
   },
   {
-   "inicio": 1795197002691,
-   "titulo": "Highest temperature in Helsinki on November 20?",
-   "dur": 0.055,
-   "gan": 2.85,
-   "neta": 2.66,
+   "inicio": 1795199025415,
+   "titulo": "CE Sabadell FC vs. Granada CF",
+   "dur": 838.11,
+   "gan": 1.72,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795199837229,
+   "titulo": "DSC Arminia Bielefeld vs. 1. FC Magdeburg",
+   "dur": 1.315,
+   "gan": 0.5,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795196991492,
-   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
-   "dur": 0.022,
-   "gan": 0.55,
+   "inicio": 1795199836684,
+   "titulo": "DSC Arminia Bielefeld vs. 1. FC Magdeburg",
+   "dur": 0.004,
+   "gan": 1.84,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795199718786,
+   "titulo": "Escorpiones de Belén vs. AD San Carlos",
+   "dur": 0.681,
+   "gan": 8.47,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795196968774,
-   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
-   "dur": 2.095,
-   "gan": 0.57,
+   "inicio": 1795199252387,
+   "titulo": "Aarhus GF vs. Lyngby BK",
+   "dur": 0.129,
+   "gan": 0.5,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795196968321,
-   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
-   "dur": 0.124,
-   "gan": 2.32,
+   "inicio": 1795198801359,
+   "titulo": "Al Ahli Saudi Club vs. Al Nassr Saudi Club",
+   "dur": 0.442,
+   "gan": 1,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795196961315,
-   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
-   "dur": 3.028,
-   "gan": 6.6,
+   "inicio": 1795198566737,
+   "titulo": "DSC Arminia Bielefeld vs. 1. FC Magdeburg",
+   "dur": 0.572,
+   "gan": 0.99,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795196959517,
-   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
-   "dur": 1.454,
-   "gan": 1.93,
+   "inicio": 1795198257274,
+   "titulo": "Molde FK vs. FK Bodø/Glimt",
+   "dur": 0.249,
+   "gan": 0.68,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795196959492,
-   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
-   "dur": 0.017,
-   "gan": 0.98,
+   "inicio": 1795198257187,
+   "titulo": "Molde FK vs. FK Bodø/Glimt",
+   "dur": 0.051,
+   "gan": 4.82,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795196941959,
-   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
-   "dur": 17.531,
-   "gan": 1.06,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795197980056,
+   "titulo": "Igdir FK vs. Umraniyespor",
+   "dur": 0.277,
+   "gan": 0.58,
+   "neta": 0.36,
+   "lado": "si"
   },
   {
-   "inicio": 1795196938981,
-   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
-   "dur": 2.531,
-   "gan": 0.66,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795197979924,
+   "titulo": "Igdir FK vs. Umraniyespor",
+   "dur": 0.06,
+   "gan": 0.56,
+   "neta": 0.34,
+   "lado": "si"
   },
   {
-   "inicio": 1795196938680,
-   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
-   "dur": 0.193,
-   "gan": 0.66,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795197979849,
+   "titulo": "Igdir FK vs. Umraniyespor",
+   "dur": 0.02,
+   "gan": 0.51,
+   "neta": 0.28,
+   "lado": "si"
   },
   {
-   "inicio": 1795196938379,
-   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
-   "dur": 0.101,
-   "gan": 0.66,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795197979821,
+   "titulo": "Igdir FK vs. Umraniyespor",
+   "dur": 0.004,
+   "gan": 0.51,
+   "neta": 0.28,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795197979793,
+   "titulo": "Igdir FK vs. Umraniyespor",
+   "dur": 0.025,
+   "gan": 0.58,
+   "neta": 0.36,
+   "lado": "si"
   }
  ]
 }
