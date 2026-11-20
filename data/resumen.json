@@ -1,84 +1,84 @@
 {
- "actualizado": 1795182119032,
- "inicio": 1794436725627,
+ "actualizado": 1795185133178,
+ "inicio": 1794442839703,
  "ejecucion": {
-  "inicio": 1795179118728,
-  "fin": 1795182119032,
-  "mensajes": 11577880,
-  "reconexiones": 4,
-  "eventos": 611,
+  "inicio": 1795182132880,
+  "fin": 1795185133178,
+  "mensajes": 10916523,
+  "reconexiones": 0,
+  "eventos": 595,
   "errores": [],
-  "nuevos": 9,
-  "nuevosRentables": 3,
-  "nuevosNeta": 2.3
+  "nuevos": 10,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5396,
- "falsos": 2725,
+ "total": 5403,
+ "falsos": 2729,
  "largos": {
-  "episodios": 23007,
-  "eventos": 178,
+  "episodios": 23003,
+  "eventos": 179,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 237,
+  "episodios": 236,
   "eventos": 25
  },
- "mediana": 0.474,
+ "mediana": 0.473,
  "captura": [
   {
    "s": 0.5,
    "n": 2645,
-   "gan": 7566.14,
-   "nNeta": 780,
-   "neta": 1911.51
+   "gan": 7529.56,
+   "nNeta": 777,
+   "neta": 1891.74
   },
   {
    "s": 2,
-   "n": 1417,
-   "gan": 3292.71,
-   "nNeta": 356,
-   "neta": 607.31
+   "n": 1418,
+   "gan": 3289.63,
+   "nNeta": 355,
+   "neta": 603.03
   },
   {
    "s": 5,
-   "n": 879,
-   "gan": 1921,
+   "n": 881,
+   "gan": 1922.8,
    "nNeta": 183,
    "neta": 294.53
   },
   {
    "s": 30,
-   "n": 344,
-   "gan": 696.07,
+   "n": 346,
+   "gan": 697.87,
    "nNeta": 25,
    "neta": 16
   }
  ],
- "rentables": 1669,
+ "rentables": 1667,
  "porCapital": [
   {
    "capital": 500,
    "ops": 81,
    "descartadas": 307,
-   "neta": 218.76,
-   "dias": 8.54,
-   "semana": 179.34
+   "neta": 206.67,
+   "dias": 8.53,
+   "semana": 169.57
   },
   {
    "capital": 1000,
-   "ops": 96,
+   "ops": 95,
    "descartadas": 307,
-   "neta": 347.72,
-   "dias": 8.54,
-   "semana": 285.07
+   "neta": 332.68,
+   "dias": 8.53,
+   "semana": 272.97
   },
   {
    "capital": 2000,
-   "ops": 101,
+   "ops": 100,
    "descartadas": 307,
-   "neta": 496.52,
-   "dias": 8.54,
-   "semana": 407.06
+   "neta": 481.48,
+   "dias": 8.53,
+   "semana": 395.06
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 5,
-   "horas": 102.5,
-   "episodios": 2529,
+   "horas": 103.3,
+   "episodios": 2539,
    "sospechosas": 30,
    "realistaNeta": 375.83,
    "capital": {
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 66,
+  "n": 65,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,27 +236,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5330,
-  "n": 1714,
-  "gan": 3967.11,
-  "nNeta": 413,
-  "neta": 784.6
+  "conDato": 5338,
+  "n": 1715,
+  "gan": 3936.58,
+  "nNeta": 412,
+  "neta": 769.56
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1514
+   "n": 1517
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1882
+   "n": 1887
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1115
+   "n": 1112
   },
   {
    "et": "5–30 s",
@@ -266,12 +266,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 215
+   "n": 216
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 129
+   "n": 130
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794909600000,
-   "n": 3
-  },
   {
    "h": 1794913200000,
    "n": 3
@@ -633,10 +629,94 @@
   },
   {
    "h": 1795179600000,
-   "n": 7
+   "n": 15
+  },
+  {
+   "h": 1795183200000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795183982664,
+   "titulo": "Al Duhail SC vs. Qatar SC",
+   "dur": 0.972,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795183982630,
+   "titulo": "Al Duhail SC vs. Qatar SC",
+   "dur": 0.001,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795182546601,
+   "titulo": "FC Twente vs. Willem II Tilburg",
+   "dur": 212.824,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795182665678,
+   "titulo": "Al Duhail SC vs. Qatar SC",
+   "dur": 0.191,
+   "gan": 0.94,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795182665582,
+   "titulo": "Al Duhail SC vs. Qatar SC",
+   "dur": 0.058,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795182665434,
+   "titulo": "Al Duhail SC vs. Qatar SC",
+   "dur": 0.132,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795182656789,
+   "titulo": "Al Duhail SC vs. Qatar SC",
+   "dur": 0.25,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795182656746,
+   "titulo": "Al Duhail SC vs. Qatar SC",
+   "dur": 0.023,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795182589546,
+   "titulo": "AGMK FC vs. Qizilqum Zarafshon",
+   "dur": 0.283,
+   "gan": 0.77,
+   "neta": 0.57,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795182150103,
+   "titulo": "FC Twente vs. Willem II Tilburg",
+   "dur": 396.384,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795180948792,
    "titulo": "FC Twente vs. Willem II Tilburg",
@@ -676,86 +756,6 @@
    "gan": 1.2,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1795180132370,
-   "titulo": "FC Twente vs. Willem II Tilburg",
-   "dur": 225.645,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795180037051,
-   "titulo": "East Bengal FC vs. SC Delhi",
-   "dur": 0.575,
-   "gan": 12.26,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795179504038,
-   "titulo": "East Bengal FC vs. SC Delhi",
-   "dur": 7.708,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795179434430,
-   "titulo": "Beijing Guoan vs. Shanghai Port FC",
-   "dur": 3.282,
-   "gan": 0.63,
-   "neta": 0.51,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795178379446,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 50.003,
-   "gan": 1.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795176081578,
-   "titulo": "1. FC Union Berlin vs. RB Leipzig",
-   "dur": 762.538,
-   "gan": 3.09,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795176368752,
-   "titulo": "Imisli FK vs. Zira FK",
-   "dur": 0.489,
-   "gan": 0.5,
-   "neta": 0.45,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795176367349,
-   "titulo": "Imisli FK vs. Zira FK",
-   "dur": 1.029,
-   "gan": 0.55,
-   "neta": 0.5,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795176358540,
-   "titulo": "Imisli FK vs. Zira FK",
-   "dur": 1.038,
-   "gan": 1.14,
-   "neta": 1.09,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795176351823,
-   "titulo": "Imisli FK vs. Zira FK",
-   "dur": 1.054,
-   "gan": 1.15,
-   "neta": 1.1,
-   "lado": "no"
   }
  ]
 }
