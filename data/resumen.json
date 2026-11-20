@@ -1,84 +1,84 @@
 {
- "actualizado": 1795188147103,
- "inicio": 1794446001208,
+ "actualizado": 1795191161305,
+ "inicio": 1794455173516,
  "ejecucion": {
-  "inicio": 1795185146769,
-  "fin": 1795188147103,
-  "mensajes": 12244591,
-  "reconexiones": 5,
-  "eventos": 637,
+  "inicio": 1795188160974,
+  "fin": 1795191161305,
+  "mensajes": 13206264,
+  "reconexiones": 0,
+  "eventos": 630,
   "errores": [],
-  "nuevos": 9,
-  "nuevosRentables": 1,
-  "nuevosNeta": 6.18
+  "nuevos": 5,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5392,
- "falsos": 2743,
+ "total": 5397,
+ "falsos": 2746,
  "largos": {
-  "episodios": 23008,
-  "eventos": 178,
+  "episodios": 23007,
+  "eventos": 180,
   "dias": 7
  },
  "enEspera": {
   "episodios": 234,
   "eventos": 25
  },
- "mediana": 0.472,
+ "mediana": 0.473,
  "captura": [
   {
    "s": 0.5,
-   "n": 2637,
-   "gan": 7567.61,
-   "nNeta": 776,
-   "neta": 1895.23
+   "n": 2641,
+   "gan": 7571.37,
+   "nNeta": 777,
+   "neta": 1895.47
   },
   {
    "s": 2,
-   "n": 1414,
-   "gan": 3319.55,
+   "n": 1417,
+   "gan": 3322.74,
    "nNeta": 355,
    "neta": 608.39
   },
   {
    "s": 5,
-   "n": 875,
-   "gan": 1926.53,
+   "n": 877,
+   "gan": 1929.19,
    "nNeta": 182,
    "neta": 293.71
   },
   {
    "s": 30,
-   "n": 342,
-   "gan": 694.2,
+   "n": 343,
+   "gan": 696.33,
    "nNeta": 25,
    "neta": 16
   }
  ],
- "rentables": 1668,
+ "rentables": 1670,
  "porCapital": [
   {
    "capital": 500,
    "ops": 81,
    "descartadas": 307,
    "neta": 212.03,
-   "dias": 8.41,
-   "semana": 176.4
+   "dias": 8.45,
+   "semana": 175.67
   },
   {
    "capital": 1000,
    "ops": 95,
    "descartadas": 307,
    "neta": 338.04,
-   "dias": 8.41,
-   "semana": 281.24
+   "dias": 8.45,
+   "semana": 280.08
   },
   {
    "capital": 2000,
    "ops": 100,
    "descartadas": 307,
    "neta": 486.84,
-   "dias": 8.41,
-   "semana": 405.04
+   "dias": 8.45,
+   "semana": 403.37
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 5,
-   "horas": 104.2,
-   "episodios": 2548,
+   "horas": 105,
+   "episodios": 2553,
    "sospechosas": 30,
    "realistaNeta": 382.01,
    "capital": {
@@ -236,9 +236,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5328,
-  "n": 1708,
-  "gan": 3963.59,
+  "conDato": 5333,
+  "n": 1711,
+  "gan": 3966.78,
   "nNeta": 412,
   "neta": 774.92
  },
@@ -246,27 +246,27 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1512
+   "n": 1513
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1888
+   "n": 1889
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1111
+   "n": 1112
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 533
+   "n": 534
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 213
+   "n": 214
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794916800000,
-   "n": 38
-  },
   {
    "h": 1794920400000,
    "n": 52
@@ -633,10 +629,54 @@
   },
   {
    "h": 1795186800000,
-   "n": 1
+   "n": 3
+  },
+  {
+   "h": 1795190400000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795191125931,
+   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
+   "dur": 19.825,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795191121940,
+   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
+   "dur": 3.477,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795190793262,
+   "titulo": "Al Ahli Saudi Club vs. Al Nassr Saudi Club",
+   "dur": 53.037,
+   "gan": 2.13,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795190396795,
+   "titulo": "FC Botoşani vs. FC Voluntari",
+   "dur": 0.865,
+   "gan": 0.57,
+   "neta": 0.24,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795189487947,
+   "titulo": "Highest temperature in Buenos Aires on November 20?",
+   "dur": 0.022,
+   "gan": 5.3,
+   "neta": 3.82,
+   "lado": "si"
+  },
   {
    "inicio": 1795186842265,
    "titulo": "Al Duhail SC vs. Qatar SC",
@@ -714,46 +754,6 @@
    "titulo": "Al Duhail SC vs. Qatar SC",
    "dur": 0.972,
    "gan": 0.61,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795183982630,
-   "titulo": "Al Duhail SC vs. Qatar SC",
-   "dur": 0.001,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795182546601,
-   "titulo": "FC Twente vs. Willem II Tilburg",
-   "dur": 212.824,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795182665678,
-   "titulo": "Al Duhail SC vs. Qatar SC",
-   "dur": 0.191,
-   "gan": 0.94,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795182665582,
-   "titulo": "Al Duhail SC vs. Qatar SC",
-   "dur": 0.058,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795182665434,
-   "titulo": "Al Duhail SC vs. Qatar SC",
-   "dur": 0.132,
-   "gan": 0.75,
    "neta": 0,
    "lado": "no"
   }
