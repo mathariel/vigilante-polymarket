@@ -1,21 +1,21 @@
 {
- "actualizado": 1795212273968,
- "inicio": 1794491330336,
+ "actualizado": 1795215289944,
+ "inicio": 1794512376765,
  "ejecucion": {
-  "inicio": 1795209273640,
-  "fin": 1795212273968,
-  "mensajes": 12815800,
-  "reconexiones": 2,
-  "eventos": 624,
+  "inicio": 1795212289585,
+  "fin": 1795215289944,
+  "mensajes": 10852969,
+  "reconexiones": 0,
+  "eventos": 619,
   "errores": [],
-  "nuevos": 51,
-  "nuevosRentables": 2,
-  "nuevosNeta": 1.23
+  "nuevos": 17,
+  "nuevosRentables": 4,
+  "nuevosNeta": 25.41
  },
- "total": 5395,
- "falsos": 2827,
+ "total": 5357,
+ "falsos": 2826,
  "largos": {
-  "episodios": 22961,
+  "episodios": 23004,
   "eventos": 176,
   "dias": 7
  },
@@ -23,28 +23,28 @@
   "episodios": 238,
   "eventos": 26
  },
- "mediana": 0.463,
+ "mediana": 0.46,
  "captura": [
   {
    "s": 0.5,
-   "n": 2626,
-   "gan": 7644.4,
-   "nNeta": 797,
-   "neta": 1975.42
+   "n": 2601,
+   "gan": 7644.42,
+   "nNeta": 795,
+   "neta": 1998.17
   },
   {
    "s": 2,
-   "n": 1357,
-   "gan": 3225.81,
-   "nNeta": 356,
-   "neta": 594.84
+   "n": 1348,
+   "gan": 3211.08,
+   "nNeta": 358,
+   "neta": 595.07
   },
   {
    "s": 5,
-   "n": 813,
-   "gan": 1835.36,
-   "nNeta": 183,
-   "neta": 293.89
+   "n": 811,
+   "gan": 1836.53,
+   "nNeta": 185,
+   "neta": 294.27
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 16
   }
  ],
- "rentables": 1702,
+ "rentables": 1700,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 86,
-   "descartadas": 309,
-   "neta": 215.55,
-   "dias": 8.1,
-   "semana": 186.31
+   "ops": 87,
+   "descartadas": 311,
+   "neta": 227.17,
+   "dias": 8.09,
+   "semana": 196.62
   },
   {
    "capital": 1000,
-   "ops": 100,
-   "descartadas": 309,
-   "neta": 341.56,
-   "dias": 8.1,
-   "semana": 295.23
+   "ops": 101,
+   "descartadas": 311,
+   "neta": 366.32,
+   "dias": 8.09,
+   "semana": 317.06
   },
   {
    "capital": 2000,
-   "ops": 105,
-   "descartadas": 309,
-   "neta": 490.36,
-   "dias": 8.1,
-   "semana": 423.84
+   "ops": 106,
+   "descartadas": 311,
+   "neta": 515.12,
+   "dias": 8.09,
+   "semana": 445.85
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 5,
-   "horas": 110.8,
-   "episodios": 2981,
+   "horas": 111.7,
+   "episodios": 2998,
    "sospechosas": 36,
-   "realistaNeta": 389.88,
+   "realistaNeta": 415.29,
    "capital": {
-    "500": 118.4,
-    "1000": 169.95,
-    "2000": 247.77
+    "500": 130.02,
+    "1000": 194.71,
+    "2000": 272.53
    },
    "cumple": true
   }
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5330,
-  "n": 1656,
-  "gan": 3907.66,
-  "nNeta": 419,
-  "neta": 780.02
+  "conDato": 5292,
+  "n": 1642,
+  "gan": 3924.45,
+  "nNeta": 422,
+  "neta": 805.01
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1493
+   "n": 1486
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1941
+   "n": 1929
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1140
+   "n": 1123
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 521
+   "n": 519
   },
   {
    "et": "30 s–5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794938400000,
-   "n": 29
-  },
   {
    "h": 1794942000000,
    "n": 29
@@ -634,126 +630,130 @@
   {
    "h": 1795208400000,
    "n": 91
+  },
+  {
+   "h": 1795212000000,
+   "n": 17
   }
  ],
  "recientes": [
   {
-   "inicio": 1795211550232,
-   "titulo": "Athletic Club vs. RCD Espanyol de Barcelona",
-   "dur": 0.835,
-   "gan": 1.8,
-   "neta": 0.93,
+   "inicio": 1795214587175,
+   "titulo": "FC Porto vs. USC Paredes",
+   "dur": 0.811,
+   "gan": 0.74,
+   "neta": 0.41,
    "lado": "si"
   },
   {
-   "inicio": 1795211482820,
-   "titulo": "Athletic Club vs. RCD Espanyol de Barcelona",
-   "dur": 0.438,
+   "inicio": 1795214523784,
+   "titulo": "FC Porto vs. USC Paredes",
+   "dur": 11.077,
+   "gan": 0.56,
+   "neta": 0.04,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795214520577,
+   "titulo": "FC Porto vs. USC Paredes",
+   "dur": 2.393,
    "gan": 0.5,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795211422550,
-   "titulo": "Villarreal CF B vs. Gimnastic de Tarragona",
-   "dur": 0.959,
-   "gan": 2.07,
-   "neta": 1.8,
-   "lado": "no"
+   "inicio": 1795214512632,
+   "titulo": "FC Porto vs. USC Paredes",
+   "dur": 0.474,
+   "gan": 0.54,
+   "neta": 0.21,
+   "lado": "si"
   },
   {
-   "inicio": 1795211417945,
-   "titulo": "Athletic Club vs. RCD Espanyol de Barcelona",
-   "dur": 0.719,
-   "gan": 1.11,
+   "inicio": 1795214512416,
+   "titulo": "FC Porto vs. USC Paredes",
+   "dur": 0.022,
+   "gan": 0.61,
+   "neta": 0.26,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795214509980,
+   "titulo": "FC Porto vs. USC Paredes",
+   "dur": 2.414,
+   "gan": 0.81,
+   "neta": 0.27,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795214356269,
+   "titulo": "FC Porto vs. USC Paredes",
+   "dur": 1.031,
+   "gan": 0.55,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795211415933,
-   "titulo": "Athletic Club vs. RCD Espanyol de Barcelona",
-   "dur": 0.057,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795211385270,
-   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
-   "dur": 27.18,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795211295118,
-   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
-   "dur": 86.719,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795211361004,
-   "titulo": "Athletic Club vs. RCD Espanyol de Barcelona",
-   "dur": 0.225,
-   "gan": 1.95,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795211358776,
-   "titulo": "Athletic Club vs. RCD Espanyol de Barcelona",
-   "dur": 1.021,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795211358322,
-   "titulo": "Athletic Club vs. RCD Espanyol de Barcelona",
-   "dur": 0.343,
+   "inicio": 1795214255100,
+   "titulo": "FC Porto vs. USC Paredes",
+   "dur": 2.233,
    "gan": 0.61,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795214238998,
+   "titulo": "FC Porto vs. USC Paredes",
+   "dur": 0.016,
+   "gan": 1.21,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795214046967,
+   "titulo": "FC Porto vs. USC Paredes",
+   "dur": 24.6,
+   "gan": 2.69,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795211357928,
-   "titulo": "Athletic Club vs. RCD Espanyol de Barcelona",
-   "dur": 0.284,
+   "inicio": 1795213475006,
+   "titulo": "FC Porto vs. USC Paredes",
+   "dur": 0.271,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795213175828,
+   "titulo": "FC Porto vs. USC Paredes",
+   "dur": 0.023,
    "gan": 0.63,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795211356380,
-   "titulo": "Athletic Club vs. RCD Espanyol de Barcelona",
-   "dur": 1.432,
-   "gan": 0.56,
+   "inicio": 1795213111646,
+   "titulo": "CD Cobresal vs. Audax CS Italiano",
+   "dur": 0.188,
+   "gan": 1.34,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795213082798,
+   "titulo": "CD Cobresal vs. Audax CS Italiano",
+   "dur": 1.566,
+   "gan": 35.68,
+   "neta": 24.09,
    "lado": "no"
   },
   {
-   "inicio": 1795211354529,
-   "titulo": "Athletic Club vs. RCD Espanyol de Barcelona",
-   "dur": 0.014,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795211251954,
-   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
-   "dur": 39.512,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795211194207,
-   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
-   "dur": 57.517,
-   "gan": 0.62,
+   "inicio": 1795213043360,
+   "titulo": "FC Porto vs. USC Paredes",
+   "dur": 0.339,
+   "gan": 0.8,
    "neta": 0,
    "lado": "no"
   }
