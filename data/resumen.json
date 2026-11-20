@@ -1,84 +1,84 @@
 {
- "actualizado": 1795133882718,
- "inicio": 1794316660347,
+ "actualizado": 1795136897196,
+ "inicio": 1794319664792,
  "ejecucion": {
-  "inicio": 1795130882410,
-  "fin": 1795133882718,
-  "mensajes": 9277904,
-  "reconexiones": 1,
-  "eventos": 548,
+  "inicio": 1795133896860,
+  "fin": 1795136897196,
+  "mensajes": 9588575,
+  "reconexiones": 0,
+  "eventos": 559,
   "errores": [],
-  "nuevos": 39,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 29,
+  "nuevosRentables": 2,
+  "nuevosNeta": 2.16
  },
- "total": 5595,
- "falsos": 2606,
+ "total": 5620,
+ "falsos": 2629,
  "largos": {
-  "episodios": 22637,
-  "eventos": 188,
+  "episodios": 22598,
+  "eventos": 187,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 408,
+  "episodios": 406,
   "eventos": 31
  },
- "mediana": 0.55,
+ "mediana": 0.545,
  "captura": [
   {
    "s": 0.5,
-   "n": 2907,
-   "gan": 6969.87,
-   "nNeta": 790,
-   "neta": 1446.13
+   "n": 2910,
+   "gan": 6978.56,
+   "nNeta": 791,
+   "neta": 1447.94
   },
   {
    "s": 2,
-   "n": 1585,
-   "gan": 3368.34,
-   "nNeta": 374,
-   "neta": 605.18
+   "n": 1588,
+   "gan": 3378.05,
+   "nNeta": 375,
+   "neta": 606.99
   },
   {
    "s": 5,
-   "n": 1055,
-   "gan": 2011.22,
+   "n": 1056,
+   "gan": 2013.57,
    "nNeta": 207,
    "neta": 293.53
   },
   {
    "s": 30,
    "n": 490,
-   "gan": 762.35,
+   "gan": 764.18,
    "nNeta": 47,
    "neta": 17.62
   }
  ],
- "rentables": 1616,
+ "rentables": 1641,
  "porCapital": [
   {
    "capital": 500,
    "ops": 78,
-   "descartadas": 323,
-   "neta": 189.53,
-   "dias": 9.41,
-   "semana": 141.03
+   "descartadas": 324,
+   "neta": 189.95,
+   "dias": 9.39,
+   "semana": 141.66
   },
   {
    "capital": 1000,
    "ops": 93,
-   "descartadas": 323,
-   "neta": 301.26,
-   "dias": 9.41,
-   "semana": 224.16
+   "descartadas": 324,
+   "neta": 301.68,
+   "dias": 9.39,
+   "semana": 224.99
   },
   {
    "capital": 2000,
    "ops": 98,
-   "descartadas": 323,
-   "neta": 399.75,
-   "dias": 9.41,
-   "semana": 297.45
+   "descartadas": 324,
+   "neta": 400.17,
+   "dias": 9.39,
+   "semana": 298.44
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 4,
-   "horas": 89.2,
-   "episodios": 2228,
+   "horas": 90,
+   "episodios": 2258,
    "sospechosas": 23,
-   "realistaNeta": 192.46,
+   "realistaNeta": 194.62,
    "capital": {
-    "500": 81.15,
-    "1000": 107.54,
-    "2000": 135.05
+    "500": 81.92,
+    "1000": 108.31,
+    "2000": 135.82
    },
    "cumple": true
   }
@@ -236,42 +236,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5532,
-  "n": 1979,
-  "gan": 3830.27,
-  "nNeta": 425,
-  "neta": 612.68
+  "conDato": 5557,
+  "n": 1982,
+  "gan": 3839.98,
+  "nNeta": 426,
+  "neta": 614.49
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1450
+   "n": 1472
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1966
+   "n": 1965
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1118
+   "n": 1121
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 565
+   "n": 566
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 369
+   "n": 368
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 121
+   "n": 122
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794862800000,
-   "n": 35
-  },
   {
    "h": 1794866400000,
    "n": 10
@@ -633,129 +629,133 @@
   },
   {
    "h": 1795132800000,
-   "n": 17
+   "n": 44
+  },
+  {
+   "h": 1795136400000,
+   "n": 3
   }
  ],
  "recientes": [
   {
-   "inicio": 1795133293863,
+   "inicio": 1795133716260,
    "titulo": "CE Sabadell FC vs. Granada CF",
-   "dur": 588.549,
+   "dur": 3180.603,
    "gan": 2.53,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795133493522,
-   "titulo": "EC Vitória vs. Red Bull Bragantino",
-   "dur": 0.977,
-   "gan": 0.69,
+   "inicio": 1795136797853,
+   "titulo": "Orlando City SC vs. FC Cincinnati",
+   "dur": 4.546,
+   "gan": 2.78,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795133493078,
-   "titulo": "EC Vitória vs. Red Bull Bragantino",
-   "dur": 0.027,
-   "gan": 1.3,
+   "inicio": 1795136600070,
+   "titulo": "São Paulo FC vs. Fluminense FC - Halftime Result",
+   "dur": 0.03,
+   "gan": 1.37,
+   "neta": 0.65,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795136519756,
+   "titulo": "São Paulo FC vs. Fluminense FC - Halftime Result",
+   "dur": 0.418,
+   "gan": 4.8,
+   "neta": 2.83,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795135478982,
+   "titulo": "São Paulo FC vs. Fluminense FC",
+   "dur": 1.076,
+   "gan": 0.6,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795133493033,
+   "inicio": 1795134812444,
    "titulo": "EC Vitória vs. Red Bull Bragantino",
-   "dur": 0.034,
-   "gan": 0.69,
-   "neta": 0,
+   "dur": 0.036,
+   "gan": 0.56,
+   "neta": 0.28,
    "lado": "si"
   },
   {
-   "inicio": 1795133492615,
+   "inicio": 1795134812385,
    "titulo": "EC Vitória vs. Red Bull Bragantino",
-   "dur": 0.025,
-   "gan": 1.3,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795133492506,
-   "titulo": "EC Vitória vs. Red Bull Bragantino",
-   "dur": 0.042,
-   "gan": 1.3,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795133492394,
-   "titulo": "EC Vitória vs. Red Bull Bragantino",
-   "dur": 0.068,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795133492329,
-   "titulo": "EC Vitória vs. Red Bull Bragantino",
-   "dur": 0.028,
-   "gan": 0.69,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795133492156,
-   "titulo": "EC Vitória vs. Red Bull Bragantino",
-   "dur": 0.041,
-   "gan": 1.3,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795133492098,
-   "titulo": "EC Vitória vs. Red Bull Bragantino",
-   "dur": 0.025,
-   "gan": 1.3,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795133492034,
-   "titulo": "EC Vitória vs. Red Bull Bragantino",
-   "dur": 0.025,
-   "gan": 1.3,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795133491987,
-   "titulo": "EC Vitória vs. Red Bull Bragantino",
-   "dur": 0.026,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795133425338,
-   "titulo": "EC Vitória vs. Red Bull Bragantino",
-   "dur": 0.638,
-   "gan": 0.74,
+   "dur": 0.007,
+   "gan": 0.52,
    "neta": 0.24,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795133382433,
-   "titulo": "CR Vasco da Gama vs. SC Internacional",
-   "dur": 1.214,
-   "gan": 0.85,
+   "inicio": 1795134812277,
+   "titulo": "EC Vitória vs. Red Bull Bragantino",
+   "dur": 0.064,
+   "gan": 0.86,
+   "neta": 0.42,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795134747970,
+   "titulo": "EC Vitória vs. Red Bull Bragantino",
+   "dur": 5.537,
+   "gan": 0.52,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795133344497,
-   "titulo": "Union Magdalena vs. Boca Juniors de Cali",
-   "dur": 0.989,
-   "gan": 1.9,
-   "neta": 1.71,
-   "lado": "no"
+   "inicio": 1795134415699,
+   "titulo": "CR Vasco da Gama vs. SC Internacional",
+   "dur": 4.964,
+   "gan": 3.94,
+   "neta": 1.26,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795134401946,
+   "titulo": "CR Vasco da Gama vs. SC Internacional",
+   "dur": 0.02,
+   "gan": 0.55,
+   "neta": 0.16,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795134401890,
+   "titulo": "CR Vasco da Gama vs. SC Internacional",
+   "dur": 0.03,
+   "gan": 2.08,
+   "neta": 1.29,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795134401873,
+   "titulo": "CR Vasco da Gama vs. SC Internacional",
+   "dur": 0.009,
+   "gan": 0.77,
+   "neta": 0.21,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795134401759,
+   "titulo": "CR Vasco da Gama vs. SC Internacional",
+   "dur": 0.066,
+   "gan": 2.37,
+   "neta": 1.47,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795134401700,
+   "titulo": "CR Vasco da Gama vs. SC Internacional",
+   "dur": 0.025,
+   "gan": 2.28,
+   "neta": 1.45,
+   "lado": "si"
   }
  ]
 }
