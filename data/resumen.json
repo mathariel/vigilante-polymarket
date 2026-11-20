@@ -1,84 +1,84 @@
 {
- "actualizado": 1795167042347,
- "inicio": 1794419306433,
+ "actualizado": 1795170055688,
+ "inicio": 1794422086638,
  "ejecucion": {
-  "inicio": 1795164042006,
-  "fin": 1795167042347,
-  "mensajes": 10466623,
+  "inicio": 1795167055434,
+  "fin": 1795170055688,
+  "mensajes": 11132115,
   "reconexiones": 0,
-  "eventos": 578,
+  "eventos": 592,
   "errores": [],
-  "nuevos": 6,
-  "nuevosRentables": 1,
-  "nuevosNeta": 2.31
+  "nuevos": 16,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5372,
- "falsos": 2693,
+ "total": 5369,
+ "falsos": 2704,
  "largos": {
-  "episodios": 22894,
+  "episodios": 22897,
   "eventos": 178,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 375,
-  "eventos": 28
+  "episodios": 372,
+  "eventos": 27
  },
- "mediana": 0.483,
+ "mediana": 0.476,
  "captura": [
   {
    "s": 0.5,
-   "n": 2648,
-   "gan": 6811.94,
-   "nNeta": 788,
-   "neta": 1449.18
+   "n": 2639,
+   "gan": 7252.41,
+   "nNeta": 790,
+   "neta": 1748.84
   },
   {
    "s": 2,
-   "n": 1439,
-   "gan": 3284.25,
+   "n": 1427,
+   "gan": 3282.1,
    "nNeta": 370,
    "neta": 608.23
   },
   {
    "s": 5,
-   "n": 905,
-   "gan": 1921.7,
+   "n": 891,
+   "gan": 1917.09,
    "nNeta": 198,
    "neta": 291.33
   },
   {
    "s": 30,
-   "n": 372,
-   "gan": 701.94,
+   "n": 359,
+   "gan": 698.5,
    "nNeta": 41,
    "neta": 16.5
   }
  ],
- "rentables": 1661,
+ "rentables": 1666,
  "porCapital": [
   {
    "capital": 500,
    "ops": 80,
    "descartadas": 321,
    "neta": 193.99,
-   "dias": 8.59,
-   "semana": 158
+   "dias": 8.6,
+   "semana": 157.91
   },
   {
    "capital": 1000,
    "ops": 95,
    "descartadas": 321,
    "neta": 305.72,
-   "dias": 8.59,
-   "semana": 249
+   "dias": 8.6,
+   "semana": 248.86
   },
   {
    "capital": 2000,
    "ops": 100,
    "descartadas": 321,
    "neta": 404.21,
-   "dias": 8.59,
-   "semana": 329.22
+   "dias": 8.6,
+   "semana": 329.03
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 5,
-   "horas": 98.3,
-   "episodios": 2434,
+   "horas": 99.2,
+   "episodios": 2452,
    "sospechosas": 26,
    "realistaNeta": 200.55,
    "capital": {
@@ -236,9 +236,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5309,
-  "n": 1733,
-  "gan": 3685.61,
+  "conDato": 5306,
+  "n": 1721,
+  "gan": 3683.46,
   "nNeta": 425,
   "neta": 616.24
  },
@@ -246,32 +246,32 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1496
+   "n": 1502
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1864
+   "n": 1866
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1101
+   "n": 1104
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 533
+   "n": 532
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 249
+   "n": 234
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 123
+   "n": 125
   }
  ],
  "porEvento": [
@@ -305,10 +305,10 @@
   },
   {
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "n": 126,
-   "gan": 74.14,
+   "n": 110,
+   "gan": 64.42,
    "neta": 0.47,
-   "mediana": 0.023
+   "mediana": 0.019
   },
   {
    "titulo": "Coritiba FBC vs. Santos FC",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794895200000,
-   "n": 13
-  },
   {
    "h": 1794898800000,
    "n": 44
@@ -633,129 +629,133 @@
   },
   {
    "h": 1795165200000,
-   "n": 6
+   "n": 11
+  },
+  {
+   "h": 1795168800000,
+   "n": 13
   }
  ],
  "recientes": [
   {
-   "inicio": 1795165821286,
+   "inicio": 1795167025987,
    "titulo": "1. FC Union Berlin vs. RB Leipzig",
-   "dur": 1220.724,
+   "dur": 3029.449,
    "gan": 2.93,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795164006554,
+   "inicio": 1795167017743,
    "titulo": "CE Sabadell FC vs. Granada CF",
-   "dur": 3035.456,
+   "dur": 3037.693,
    "gan": 2.74,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795166858940,
-   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
-   "dur": 4.792,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795166858842,
-   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
-   "dur": 0.024,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795166856699,
-   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
-   "dur": 0.535,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795166855549,
-   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
-   "dur": 0.588,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795166548948,
-   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
-   "dur": 2.219,
-   "gan": 3.79,
-   "neta": 2.31,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795161003764,
-   "titulo": "CE Sabadell FC vs. Granada CF",
-   "dur": 3025.184,
-   "gan": 2.69,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795163415899,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 0.805,
-   "gan": 1.27,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795163411945,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 1.542,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795163409080,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 1.093,
-   "gan": 0.8,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795163404320,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 0.052,
+   "inicio": 1795169945771,
+   "titulo": "Kashima Antlers vs. Shimizu S-Pulse",
+   "dur": 0.018,
    "gan": 0.52,
-   "neta": 0.1,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795157939462,
-   "titulo": "CE Sabadell FC vs. Granada CF",
-   "dur": 3076.157,
-   "gan": 2.53,
+   "inicio": 1795169691656,
+   "titulo": "FC Bayern München vs. 1. FC Köln",
+   "dur": 2.156,
+   "gan": 1.38,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795169643576,
+   "titulo": "Garuda Yaksa vs. Madura United",
+   "dur": 0.107,
+   "gan": 0.76,
+   "neta": 0.44,
    "lado": "no"
   },
   {
-   "inicio": 1795160766232,
-   "titulo": "CZ # posts November 13 - November 20, 2026?",
-   "dur": 0.349,
-   "gan": 2.88,
-   "neta": 2.65,
+   "inicio": 1795169425596,
+   "titulo": "Kashiwa Reysol vs. JEF United Ichihara Chiba",
+   "dur": 6.829,
+   "gan": 1.05,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795159731635,
-   "titulo": "Best AI model on November 23?",
-   "dur": 6.622,
-   "gan": 0.57,
-   "neta": 0.14,
+   "inicio": 1795169283137,
+   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
+   "dur": 0.006,
+   "gan": 0.54,
+   "neta": 0,
    "lado": "si"
+  },
+  {
+   "inicio": 1795169282093,
+   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
+   "dur": 1.012,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795169281931,
+   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
+   "dur": 0.02,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795169281914,
+   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
+   "dur": 0.002,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795169281875,
+   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
+   "dur": 0.038,
+   "gan": 0.98,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795169218159,
+   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
+   "dur": 0.012,
+   "gan": 0.7,
+   "neta": 0.08,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795169079518,
+   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
+   "dur": 11.629,
+   "gan": 1.39,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795168934238,
+   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
+   "dur": 2.142,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795168828796,
+   "titulo": "Western Sydney Wanderers FC vs. Adelaide United FC",
+   "dur": 0.676,
+   "gan": 207.12,
+   "neta": 150.16,
+   "lado": "no"
   }
  ]
 }
