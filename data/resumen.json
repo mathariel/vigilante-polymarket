@@ -1,84 +1,84 @@
 {
- "actualizado": 1795179103702,
+ "actualizado": 1795182119032,
  "inicio": 1794436725627,
  "ejecucion": {
-  "inicio": 1795176103409,
-  "fin": 1795179103702,
-  "mensajes": 10705461,
-  "reconexiones": 0,
-  "eventos": 604,
+  "inicio": 1795179118728,
+  "fin": 1795182119032,
+  "mensajes": 11577880,
+  "reconexiones": 4,
+  "eventos": 611,
   "errores": [],
-  "nuevos": 6,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 9,
+  "nuevosRentables": 3,
+  "nuevosNeta": 2.3
  },
- "total": 5414,
- "falsos": 2718,
+ "total": 5396,
+ "falsos": 2725,
  "largos": {
-  "episodios": 22985,
-  "eventos": 179,
+  "episodios": 23007,
+  "eventos": 178,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 242,
-  "eventos": 26
+  "episodios": 237,
+  "eventos": 25
  },
- "mediana": 0.473,
+ "mediana": 0.474,
  "captura": [
   {
    "s": 0.5,
-   "n": 2650,
-   "gan": 7597.77,
-   "nNeta": 787,
-   "neta": 1936.92
+   "n": 2645,
+   "gan": 7566.14,
+   "nNeta": 780,
+   "neta": 1911.51
   },
   {
    "s": 2,
-   "n": 1416,
-   "gan": 3303.23,
+   "n": 1417,
+   "gan": 3292.71,
    "nNeta": 356,
-   "neta": 611.46
+   "neta": 607.31
   },
   {
    "s": 5,
-   "n": 877,
-   "gan": 1919.11,
-   "nNeta": 184,
-   "neta": 294.56
+   "n": 879,
+   "gan": 1921,
+   "nNeta": 183,
+   "neta": 294.53
   },
   {
    "s": 30,
-   "n": 343,
-   "gan": 694.77,
-   "nNeta": 26,
-   "neta": 16.03
+   "n": 344,
+   "gan": 696.07,
+   "nNeta": 25,
+   "neta": 16
   }
  ],
- "rentables": 1679,
+ "rentables": 1669,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 82,
-   "descartadas": 306,
-   "neta": 214.44,
-   "dias": 8.55,
-   "semana": 175.55
+   "ops": 81,
+   "descartadas": 307,
+   "neta": 218.76,
+   "dias": 8.54,
+   "semana": 179.34
   },
   {
    "capital": 1000,
-   "ops": 97,
-   "descartadas": 306,
-   "neta": 351.33,
-   "dias": 8.55,
-   "semana": 287.61
+   "ops": 96,
+   "descartadas": 307,
+   "neta": 347.72,
+   "dias": 8.54,
+   "semana": 285.07
   },
   {
    "capital": 2000,
-   "ops": 102,
-   "descartadas": 306,
-   "neta": 500.13,
-   "dias": 8.55,
-   "semana": 409.43
+   "ops": 101,
+   "descartadas": 307,
+   "neta": 496.52,
+   "dias": 8.54,
+   "semana": 407.06
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 5,
-   "horas": 101.7,
-   "episodios": 2520,
+   "horas": 102.5,
+   "episodios": 2529,
    "sospechosas": 30,
-   "realistaNeta": 373.53,
+   "realistaNeta": 375.83,
    "capital": {
     "500": 106.41,
     "1000": 157.96,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 67,
+  "n": 66,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5347,
-  "n": 1713,
-  "gan": 3977.94,
+  "conDato": 5330,
+  "n": 1714,
+  "gan": 3967.11,
   "nNeta": 413,
-  "neta": 788.75
+  "neta": 784.6
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1522
+   "n": 1514
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1890
+   "n": 1882
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1119
+   "n": 1115
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 534
+   "n": 535
   },
   {
    "et": "30 s–5 min",
@@ -271,7 +271,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 128
+   "n": 129
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794906000000,
-   "n": 1
-  },
   {
    "h": 1794909600000,
    "n": 3
@@ -633,10 +629,86 @@
   },
   {
    "h": 1795176000000,
+   "n": 9
+  },
+  {
+   "h": 1795179600000,
    "n": 7
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795180948792,
+   "titulo": "FC Twente vs. Willem II Tilburg",
+   "dur": 609.69,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795181511587,
+   "titulo": "Dewa United vs. Persita Tangerang",
+   "dur": 0.103,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795181506545,
+   "titulo": "Dewa United vs. Persita Tangerang",
+   "dur": 3.692,
+   "gan": 6.43,
+   "neta": 0.58,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795181495669,
+   "titulo": "Dewa United vs. Persita Tangerang",
+   "dur": 2.163,
+   "gan": 5.97,
+   "neta": 1.38,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795181377616,
+   "titulo": "Persiba Balikpapan vs. Barito Putera",
+   "dur": 0.706,
+   "gan": 1.2,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795180132370,
+   "titulo": "FC Twente vs. Willem II Tilburg",
+   "dur": 225.645,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795180037051,
+   "titulo": "East Bengal FC vs. SC Delhi",
+   "dur": 0.575,
+   "gan": 12.26,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795179504038,
+   "titulo": "East Bengal FC vs. SC Delhi",
+   "dur": 7.708,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795179434430,
+   "titulo": "Beijing Guoan vs. Shanghai Port FC",
+   "dur": 3.282,
+   "gan": 0.63,
+   "neta": 0.51,
+   "lado": "no"
+  },
   {
    "inicio": 1795178379446,
    "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
@@ -684,78 +756,6 @@
    "gan": 1.15,
    "neta": 1.1,
    "lado": "no"
-  },
-  {
-   "inicio": 1795176275197,
-   "titulo": "Beijing Guoan vs. Shanghai Port FC",
-   "dur": 0.305,
-   "gan": 0.7,
-   "neta": 0.54,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795173089348,
-   "titulo": "1. FC Union Berlin vs. RB Leipzig",
-   "dur": 2998.614,
-   "gan": 3.09,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795175873577,
-   "titulo": "Beijing Guoan vs. Shanghai Port FC",
-   "dur": 0.661,
-   "gan": 0.88,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795175873486,
-   "titulo": "Beijing Guoan vs. Shanghai Port FC",
-   "dur": 0.032,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795175822274,
-   "titulo": "Vissel Kōbe vs. FC Mito Holly Hock",
-   "dur": 7.5,
-   "gan": 4.45,
-   "neta": 3.7,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795175549278,
-   "titulo": "Vissel Kōbe vs. FC Mito Holly Hock",
-   "dur": 0.94,
-   "gan": 1.45,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795175415160,
-   "titulo": "Beijing Guoan vs. Shanghai Port FC",
-   "dur": 1.054,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795175395959,
-   "titulo": "Vissel Kōbe vs. FC Mito Holly Hock",
-   "dur": 0.01,
-   "gan": 0.5,
-   "neta": 0.07,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795174545127,
-   "titulo": "Kashiwa Reysol vs. JEF United Ichihara Chiba",
-   "dur": 0.43,
-   "gan": 2,
-   "neta": 0,
-   "lado": "si"
   }
  ]
 }
