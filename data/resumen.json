@@ -1,84 +1,84 @@
 {
- "actualizado": 1795206247418,
- "inicio": 1794482288067,
+ "actualizado": 1795209260563,
+ "inicio": 1794488242868,
  "ejecucion": {
-  "inicio": 1795203247089,
-  "fin": 1795206247418,
-  "mensajes": 15421182,
-  "reconexiones": 0,
-  "eventos": 622,
+  "inicio": 1795206260261,
+  "fin": 1795209260563,
+  "mensajes": 14719174,
+  "reconexiones": 1,
+  "eventos": 627,
   "errores": [],
-  "nuevos": 71,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.59
+  "nuevos": 82,
+  "nuevosRentables": 3,
+  "nuevosNeta": 1.17
  },
- "total": 5476,
- "falsos": 2846,
+ "total": 5553,
+ "falsos": 2854,
  "largos": {
-  "episodios": 22856,
+  "episodios": 22770,
   "eventos": 179,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 231,
-  "eventos": 25
+  "episodios": 239,
+  "eventos": 26
  },
- "mediana": 0.471,
+ "mediana": 0.472,
  "captura": [
   {
    "s": 0.5,
-   "n": 2680,
-   "gan": 7666.3,
-   "nNeta": 803,
-   "neta": 1913.21
+   "n": 2720,
+   "gan": 7814.39,
+   "nNeta": 812,
+   "neta": 1973.81
   },
   {
    "s": 2,
-   "n": 1403,
-   "gan": 3322.74,
-   "nNeta": 360,
-   "neta": 597.58
+   "n": 1422,
+   "gan": 3345.62,
+   "nNeta": 362,
+   "neta": 597.91
   },
   {
    "s": 5,
-   "n": 854,
-   "gan": 1923.85,
+   "n": 863,
+   "gan": 1930.96,
    "nNeta": 184,
    "neta": 293.93
   },
   {
    "s": 30,
-   "n": 325,
-   "gan": 680.91,
+   "n": 324,
+   "gan": 675.57,
    "nNeta": 25,
    "neta": 16
   }
  ],
- "rentables": 1716,
+ "rentables": 1731,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 85,
-   "descartadas": 313,
-   "neta": 215.56,
+   "ops": 87,
+   "descartadas": 314,
+   "neta": 216.63,
    "dias": 8.31,
-   "semana": 181.59
+   "semana": 182.49
   },
   {
    "capital": 1000,
-   "ops": 99,
-   "descartadas": 313,
-   "neta": 341.57,
+   "ops": 101,
+   "descartadas": 314,
+   "neta": 342.64,
    "dias": 8.31,
-   "semana": 287.75
+   "semana": 288.65
   },
   {
    "capital": 2000,
-   "ops": 104,
-   "descartadas": 313,
-   "neta": 490.37,
+   "ops": 106,
+   "descartadas": 314,
+   "neta": 491.44,
    "dias": 8.31,
-   "semana": 413.1
+   "semana": 414
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 5,
-   "horas": 109.2,
-   "episodios": 2848,
-   "sospechosas": 34,
-   "realistaNeta": 387.48,
+   "horas": 110,
+   "episodios": 2930,
+   "sospechosas": 36,
+   "realistaNeta": 388.65,
    "capital": {
-    "500": 116.12,
-    "1000": 167.67,
-    "2000": 245.49
+    "500": 117.19,
+    "1000": 168.74,
+    "2000": 246.56
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 64,
+  "n": 66,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,42 +236,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5412,
-  "n": 1701,
-  "gan": 3995.63,
-  "nNeta": 422,
-  "neta": 780.39
+  "conDato": 5487,
+  "n": 1723,
+  "gan": 4023.5,
+  "nNeta": 425,
+  "neta": 781.56
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1517
+   "n": 1532
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1949
+   "n": 1982
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1148
+   "n": 1168
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 529
+   "n": 539
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 205
+   "n": 206
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 120
+   "n": 118
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794934800000,
-   "n": 49
-  },
   {
    "h": 1794938400000,
    "n": 29
@@ -633,128 +629,132 @@
   },
   {
    "h": 1795204800000,
+   "n": 82
+  },
+  {
+   "h": 1795208400000,
    "n": 40
   }
  ],
  "recientes": [
   {
-   "inicio": 1795205988606,
-   "titulo": "FC Andorra vs. CD Leganés",
-   "dur": 1.462,
-   "gan": 2.81,
-   "neta": 1.26,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795205988688,
-   "titulo": "FCV Farul Constanţa vs. FC Universitatea Cluj",
-   "dur": 0.538,
-   "gan": 0.57,
-   "neta": 0,
+   "inicio": 1795209258209,
+   "titulo": "Red Star FC vs. Pau FC",
+   "dur": 0.386,
+   "gan": 0.54,
+   "neta": 0.24,
    "lado": "no"
   },
   {
-   "inicio": 1795205988650,
-   "titulo": "FCV Farul Constanţa vs. FC Universitatea Cluj",
-   "dur": 0.034,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795205762513,
-   "titulo": "FC Volendam vs. Jong Ajax Amsterdam",
-   "dur": 0.559,
-   "gan": 0.52,
-   "neta": 0.26,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795205687289,
-   "titulo": "Liverpool Montevideo vs. Montevideo Wanderers",
-   "dur": 0.98,
-   "gan": 0.69,
-   "neta": 0.18,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795205669345,
-   "titulo": "Liverpool Montevideo vs. Montevideo Wanderers",
-   "dur": 0.682,
-   "gan": 2.22,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795205663846,
-   "titulo": "Liverpool Montevideo vs. Montevideo Wanderers",
-   "dur": 0.276,
-   "gan": 0.96,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795205597936,
-   "titulo": "FCV Farul Constanţa vs. FC Universitatea Cluj",
-   "dur": 0.378,
-   "gan": 0.58,
+   "inicio": 1795209228857,
+   "titulo": "Athletic Club vs. RCD Espanyol de Barcelona",
+   "dur": 10.682,
+   "gan": 0.6,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795205496776,
+   "inicio": 1795209213409,
    "titulo": "FC Bayern München vs. 1. FC Köln",
-   "dur": 0.37,
-   "gan": 0.65,
+   "dur": 0.186,
+   "gan": 1,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795205495127,
+   "inicio": 1795209208547,
    "titulo": "FC Bayern München vs. 1. FC Köln",
-   "dur": 1.006,
-   "gan": 0.52,
+   "dur": 0.452,
+   "gan": 0.5,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795205492390,
-   "titulo": "FC Bayern München vs. 1. FC Köln",
-   "dur": 0.112,
-   "gan": 3.87,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795205487381,
-   "titulo": "FCV Farul Constanţa vs. FC Universitatea Cluj",
-   "dur": 0.195,
-   "gan": 0.66,
-   "neta": 0.55,
    "lado": "no"
   },
   {
-   "inicio": 1795205332781,
-   "titulo": "De Graafschap vs. MVV Maastricht",
-   "dur": 0.137,
-   "gan": 1.53,
+   "inicio": 1795209191048,
+   "titulo": "Athletic Club vs. RCD Espanyol de Barcelona",
+   "dur": 8.749,
+   "gan": 3.2,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795205292709,
-   "titulo": "FC Bayern München vs. 1. FC Köln",
-   "dur": 0.427,
-   "gan": 0.52,
+   "inicio": 1795209190891,
+   "titulo": "Athletic Club vs. RCD Espanyol de Barcelona",
+   "dur": 0.055,
+   "gan": 3,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795205290915,
-   "titulo": "FC Bayern München vs. 1. FC Köln",
-   "dur": 0.577,
-   "gan": 1.62,
+   "inicio": 1795209190830,
+   "titulo": "Athletic Club vs. RCD Espanyol de Barcelona",
+   "dur": 0.031,
+   "gan": 0.68,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795209172779,
+   "titulo": "Athletic Club vs. RCD Espanyol de Barcelona",
+   "dur": 1.933,
+   "gan": 3,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795209168439,
+   "titulo": "ES Troyes AC vs. Le Havre AC",
+   "dur": 5.444,
+   "gan": 0.87,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795209149471,
+   "titulo": "Athletic Club vs. RCD Espanyol de Barcelona",
+   "dur": 17.198,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795209155701,
+   "titulo": "ES Troyes AC vs. Le Havre AC",
+   "dur": 8.126,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795209140588,
+   "titulo": "ES Troyes AC vs. Le Havre AC",
+   "dur": 3.442,
+   "gan": 0.83,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795209138108,
+   "titulo": "ES Troyes AC vs. Le Havre AC",
+   "dur": 2.409,
+   "gan": 1.33,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795209111109,
+   "titulo": "Southend United FC vs. Boreham Wood FC",
+   "dur": 2.136,
+   "gan": 0.53,
+   "neta": 0.22,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795209111081,
+   "titulo": "Southend United FC vs. Boreham Wood FC",
+   "dur": 0.017,
+   "gan": 0.5,
+   "neta": 0.21,
    "lado": "si"
   }
  ]
