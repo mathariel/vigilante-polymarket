@@ -1,84 +1,84 @@
 {
- "actualizado": 1795136897196,
- "inicio": 1794319664792,
+ "actualizado": 1795139910988,
+ "inicio": 1794322148563,
  "ejecucion": {
-  "inicio": 1795133896860,
-  "fin": 1795136897196,
-  "mensajes": 9588575,
-  "reconexiones": 0,
-  "eventos": 559,
+  "inicio": 1795136910660,
+  "fin": 1795139910988,
+  "mensajes": 8668500,
+  "reconexiones": 1,
+  "eventos": 569,
   "errores": [],
-  "nuevos": 29,
-  "nuevosRentables": 2,
-  "nuevosNeta": 2.16
+  "nuevos": 23,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5620,
- "falsos": 2629,
+ "total": 5643,
+ "falsos": 2652,
  "largos": {
-  "episodios": 22598,
-  "eventos": 187,
+  "episodios": 22561,
+  "eventos": 186,
   "dias": 7
  },
  "enEspera": {
   "episodios": 406,
   "eventos": 31
  },
- "mediana": 0.545,
+ "mediana": 0.541,
  "captura": [
   {
    "s": 0.5,
-   "n": 2910,
-   "gan": 6978.56,
-   "nNeta": 791,
-   "neta": 1447.94
+   "n": 2915,
+   "gan": 6984.16,
+   "nNeta": 792,
+   "neta": 1448.49
   },
   {
    "s": 2,
-   "n": 1588,
-   "gan": 3378.05,
+   "n": 1591,
+   "gan": 3381.74,
    "nNeta": 375,
    "neta": 606.99
   },
   {
    "s": 5,
-   "n": 1056,
-   "gan": 2013.57,
+   "n": 1059,
+   "gan": 2017.26,
    "nNeta": 207,
    "neta": 293.53
   },
   {
    "s": 30,
-   "n": 490,
-   "gan": 764.18,
+   "n": 492,
+   "gan": 767.34,
    "nNeta": 47,
    "neta": 17.62
   }
  ],
- "rentables": 1641,
+ "rentables": 1648,
  "porCapital": [
   {
    "capital": 500,
    "ops": 78,
    "descartadas": 324,
    "neta": 189.95,
-   "dias": 9.39,
-   "semana": 141.66
+   "dias": 9.41,
+   "semana": 141.29
   },
   {
    "capital": 1000,
    "ops": 93,
    "descartadas": 324,
    "neta": 301.68,
-   "dias": 9.39,
-   "semana": 224.99
+   "dias": 9.41,
+   "semana": 224.39
   },
   {
    "capital": 2000,
    "ops": 98,
    "descartadas": 324,
    "neta": 400.17,
-   "dias": 9.39,
-   "semana": 298.44
+   "dias": 9.41,
+   "semana": 297.65
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 4,
-   "horas": 90,
-   "episodios": 2258,
+   "horas": 90.8,
+   "episodios": 2282,
    "sospechosas": 23,
    "realistaNeta": 194.62,
    "capital": {
@@ -236,9 +236,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5557,
-  "n": 1982,
-  "gan": 3839.98,
+  "conDato": 5580,
+  "n": 1986,
+  "gan": 3844.2,
   "nNeta": 426,
   "neta": 614.49
  },
@@ -246,12 +246,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1472
+   "n": 1482
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1965
+   "n": 1975
   },
   {
    "et": "1–5 s",
@@ -261,17 +261,17 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 566
+   "n": 567
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 368
+   "n": 369
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 122
+   "n": 123
   }
  ],
  "porEvento": [
@@ -633,128 +633,128 @@
   },
   {
    "h": 1795136400000,
-   "n": 3
+   "n": 27
   }
  ],
  "recientes": [
   {
-   "inicio": 1795133716260,
+   "inicio": 1795136583915,
    "titulo": "CE Sabadell FC vs. Granada CF",
-   "dur": 3180.603,
+   "dur": 3326.747,
    "gan": 2.53,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795136797853,
-   "titulo": "Orlando City SC vs. FC Cincinnati",
-   "dur": 4.546,
-   "gan": 2.78,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795136600070,
-   "titulo": "São Paulo FC vs. Fluminense FC - Halftime Result",
-   "dur": 0.03,
-   "gan": 1.37,
-   "neta": 0.65,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795136519756,
-   "titulo": "São Paulo FC vs. Fluminense FC - Halftime Result",
-   "dur": 0.418,
-   "gan": 4.8,
-   "neta": 2.83,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795135478982,
+   "inicio": 1795139708695,
    "titulo": "São Paulo FC vs. Fluminense FC",
-   "dur": 1.076,
-   "gan": 0.6,
+   "dur": 0.552,
+   "gan": 0.92,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795134812444,
-   "titulo": "EC Vitória vs. Red Bull Bragantino",
-   "dur": 0.036,
-   "gan": 0.56,
-   "neta": 0.28,
+   "inicio": 1795139416174,
+   "titulo": "Orlando City SC vs. FC Cincinnati",
+   "dur": 0.028,
+   "gan": 1.14,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795139416094,
+   "titulo": "Orlando City SC vs. FC Cincinnati",
+   "dur": 0.024,
+   "gan": 1.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795139413949,
+   "titulo": "Orlando City SC vs. FC Cincinnati",
+   "dur": 0.473,
+   "gan": 0.65,
+   "neta": 0.04,
    "lado": "si"
   },
   {
-   "inicio": 1795134812385,
-   "titulo": "EC Vitória vs. Red Bull Bragantino",
-   "dur": 0.007,
-   "gan": 0.52,
-   "neta": 0.24,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795134812277,
-   "titulo": "EC Vitória vs. Red Bull Bragantino",
-   "dur": 0.064,
-   "gan": 0.86,
-   "neta": 0.42,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795134747970,
-   "titulo": "EC Vitória vs. Red Bull Bragantino",
-   "dur": 5.537,
-   "gan": 0.52,
+   "inicio": 1795139413645,
+   "titulo": "Orlando City SC vs. FC Cincinnati",
+   "dur": 0.284,
+   "gan": 0.69,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795134415699,
-   "titulo": "CR Vasco da Gama vs. SC Internacional",
-   "dur": 4.964,
-   "gan": 3.94,
-   "neta": 1.26,
+   "inicio": 1795139413513,
+   "titulo": "Orlando City SC vs. FC Cincinnati",
+   "dur": 0.073,
+   "gan": 1.3,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795134401946,
-   "titulo": "CR Vasco da Gama vs. SC Internacional",
-   "dur": 0.02,
-   "gan": 0.55,
-   "neta": 0.16,
+   "inicio": 1795138319446,
+   "titulo": "Donald Trump # Truth Social posts November 17 - November 24, 2026?",
+   "dur": 0.048,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795138305571,
+   "titulo": "\"I Play Rocky\" Opening Weekend Box Office",
+   "dur": 0.152,
+   "gan": 8.06,
+   "neta": 4.67,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795137757435,
+   "titulo": "Orlando City SC vs. FC Cincinnati",
+   "dur": 0.128,
+   "gan": 1.13,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795134401890,
-   "titulo": "CR Vasco da Gama vs. SC Internacional",
-   "dur": 0.03,
-   "gan": 2.08,
-   "neta": 1.29,
+   "inicio": 1795137757231,
+   "titulo": "Orlando City SC vs. FC Cincinnati",
+   "dur": 0.081,
+   "gan": 1.33,
+   "neta": 0.01,
    "lado": "si"
   },
   {
-   "inicio": 1795134401873,
-   "titulo": "CR Vasco da Gama vs. SC Internacional",
-   "dur": 0.009,
-   "gan": 0.77,
-   "neta": 0.21,
+   "inicio": 1795137756244,
+   "titulo": "Orlando City SC vs. FC Cincinnati",
+   "dur": 0.208,
+   "gan": 1.69,
+   "neta": 0.01,
    "lado": "si"
   },
   {
-   "inicio": 1795134401759,
-   "titulo": "CR Vasco da Gama vs. SC Internacional",
-   "dur": 0.066,
-   "gan": 2.37,
-   "neta": 1.47,
+   "inicio": 1795137755428,
+   "titulo": "Orlando City SC vs. FC Cincinnati",
+   "dur": 0.136,
+   "gan": 0.67,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795134401700,
-   "titulo": "CR Vasco da Gama vs. SC Internacional",
-   "dur": 0.025,
-   "gan": 2.28,
-   "neta": 1.45,
+   "inicio": 1795137755316,
+   "titulo": "Orlando City SC vs. FC Cincinnati",
+   "dur": 0.099,
+   "gan": 1.69,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795137752038,
+   "titulo": "Orlando City SC vs. FC Cincinnati",
+   "dur": 0.887,
+   "gan": 2.35,
+   "neta": 0.55,
    "lado": "si"
   }
  ]
