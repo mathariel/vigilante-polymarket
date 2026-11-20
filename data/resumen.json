@@ -1,84 +1,84 @@
 {
- "actualizado": 1795142924740,
- "inicio": 1794325530277,
+ "actualizado": 1795145937487,
+ "inicio": 1794337798934,
  "ejecucion": {
-  "inicio": 1795139924379,
-  "fin": 1795142924740,
-  "mensajes": 8563196,
+  "inicio": 1795142937246,
+  "fin": 1795145937487,
+  "mensajes": 8433202,
   "reconexiones": 0,
-  "eventos": 560,
+  "eventos": 554,
   "errores": [],
-  "nuevos": 9,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 18,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.19
  },
- "total": 5589,
- "falsos": 2722,
+ "total": 5453,
+ "falsos": 2691,
  "largos": {
-  "episodios": 22555,
-  "eventos": 184,
+  "episodios": 22738,
+  "eventos": 181,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 406,
-  "eventos": 31
+  "episodios": 399,
+  "eventos": 29
  },
- "mediana": 0.539,
+ "mediana": 0.515,
  "captura": [
   {
    "s": 0.5,
-   "n": 2884,
-   "gan": 6950.22,
-   "nNeta": 789,
-   "neta": 1446.84
+   "n": 2768,
+   "gan": 6861.4,
+   "nNeta": 784,
+   "neta": 1444.47
   },
   {
    "s": 2,
-   "n": 1573,
-   "gan": 3360.96,
-   "nNeta": 372,
-   "neta": 606.36
+   "n": 1561,
+   "gan": 3340.82,
+   "nNeta": 370,
+   "neta": 605.13
   },
   {
    "s": 5,
-   "n": 1044,
-   "gan": 2001.65,
-   "nNeta": 203,
-   "neta": 292.87
+   "n": 1033,
+   "gan": 1988.44,
+   "nNeta": 200,
+   "neta": 291.45
   },
   {
    "s": 30,
-   "n": 490,
-   "gan": 766.06,
-   "nNeta": 45,
-   "neta": 17.18
+   "n": 480,
+   "gan": 756.9,
+   "nNeta": 43,
+   "neta": 16.25
   }
  ],
- "rentables": 1636,
+ "rentables": 1624,
  "porCapital": [
   {
    "capital": 500,
    "ops": 78,
-   "descartadas": 321,
+   "descartadas": 319,
    "neta": 189.95,
-   "dias": 9.28,
-   "semana": 143.26
+   "dias": 8.93,
+   "semana": 148.96
   },
   {
    "capital": 1000,
    "ops": 93,
-   "descartadas": 321,
+   "descartadas": 319,
    "neta": 301.68,
-   "dias": 9.28,
-   "semana": 227.53
+   "dias": 8.93,
+   "semana": 236.58
   },
   {
    "capital": 2000,
    "ops": 98,
-   "descartadas": 321,
+   "descartadas": 319,
    "neta": 400.17,
-   "dias": 9.28,
-   "semana": 301.81
+   "dias": 8.93,
+   "semana": 313.82
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 4,
-   "horas": 91.7,
-   "episodios": 2292,
+   "horas": 92.5,
+   "episodios": 2311,
    "sospechosas": 24,
-   "realistaNeta": 194.62,
+   "realistaNeta": 194.81,
    "capital": {
     "500": 81.92,
     "1000": 108.31,
@@ -236,51 +236,51 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5526,
-  "n": 1965,
-  "gan": 3821.54,
-  "nNeta": 423,
-  "neta": 613.84
+  "conDato": 5390,
+  "n": 1858,
+  "gan": 3741.33,
+  "nNeta": 421,
+  "neta": 612.61
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1473
+   "n": 1471
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1959
+   "n": 1851
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1107
+   "n": 1092
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 554
+   "n": 553
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 368
+   "n": 361
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 122
+   "n": 119
   }
  ],
  "porEvento": [
   {
    "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "n": 292,
-   "gan": 183.92,
-   "neta": 2.04,
-   "mediana": 79.606
+   "n": 283,
+   "gan": 173.79,
+   "neta": 0.62,
+   "mediana": 79.439
   },
   {
    "titulo": "Spain vs. England",
@@ -318,13 +318,6 @@
    "mediana": 0.248
   },
   {
-   "titulo": "Donald Trump # Truth Social posts November 6 - November 13, 2026?",
-   "n": 107,
-   "gan": 66.89,
-   "neta": 0,
-   "mediana": 0.818
-  },
-  {
    "titulo": "Denmark vs. Norway",
    "n": 100,
    "gan": 152.02,
@@ -344,13 +337,16 @@
    "gan": 150.01,
    "neta": 55.81,
    "mediana": 0.36
+  },
+  {
+   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
+   "n": 91,
+   "gan": 67.62,
+   "neta": 14.82,
+   "mediana": 9.434
   }
  ],
  "porHora": [
-  {
-   "h": 1794870000000,
-   "n": 3
-  },
   {
    "h": 1794873600000,
    "n": 27
@@ -633,129 +629,133 @@
   },
   {
    "h": 1795140000000,
-   "n": 9
+   "n": 15
+  },
+  {
+   "h": 1795143600000,
+   "n": 13
   }
  ],
  "recientes": [
   {
-   "inicio": 1795139903055,
+   "inicio": 1795145758516,
+   "titulo": "Kashiwa Reysol vs. JEF United Ichihara Chiba",
+   "dur": 178.732,
+   "gan": 2.08,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795142898123,
    "titulo": "CE Sabadell FC vs. Granada CF",
-   "dur": 3021.327,
+   "dur": 3039.125,
    "gan": 2.53,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795142114145,
-   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
-   "dur": 31.269,
-   "gan": 0.57,
+   "inicio": 1795145839629,
+   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
+   "dur": 2.68,
+   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795142085320,
-   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
-   "dur": 28.587,
-   "gan": 0.54,
+   "inicio": 1795145839587,
+   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
+   "dur": 0.04,
+   "gan": 1.58,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795141079707,
-   "titulo": "Orlando City SC vs. FC Cincinnati",
-   "dur": 0.027,
-   "gan": 0.6,
-   "neta": 0.2,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795141079649,
-   "titulo": "Orlando City SC vs. FC Cincinnati",
-   "dur": 0.023,
-   "gan": 0.6,
-   "neta": 0.2,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795141079595,
-   "titulo": "Orlando City SC vs. FC Cincinnati",
-   "dur": 0.024,
-   "gan": 0.6,
-   "neta": 0.2,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795141078547,
-   "titulo": "Orlando City SC vs. FC Cincinnati",
-   "dur": 1.048,
-   "gan": 3.2,
-   "neta": 2.64,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795141078489,
-   "titulo": "Orlando City SC vs. FC Cincinnati",
-   "dur": 0.032,
-   "gan": 0.67,
+   "inicio": 1795145839313,
+   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
+   "dur": 0.008,
+   "gan": 0.51,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795140993557,
-   "titulo": "São Paulo FC vs. Fluminense FC",
-   "dur": 0.93,
-   "gan": 0.79,
-   "neta": 0.05,
-   "lado": "si"
+   "inicio": 1795145836035,
+   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
+   "dur": 3.163,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1795140609148,
-   "titulo": "Orlando City SC vs. FC Cincinnati",
+   "inicio": 1795145835038,
+   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
+   "dur": 0.194,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795145810295,
+   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
+   "dur": 3.955,
+   "gan": 1.2,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795145575723,
+   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
+   "dur": 0.082,
+   "gan": 1.18,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795145575647,
+   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
    "dur": 0.074,
-   "gan": 0.85,
+   "gan": 1.18,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795136583915,
-   "titulo": "CE Sabadell FC vs. Granada CF",
-   "dur": 3326.747,
-   "gan": 2.53,
+   "inicio": 1795145573638,
+   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
+   "dur": 0.222,
+   "gan": 0.64,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795139708695,
-   "titulo": "São Paulo FC vs. Fluminense FC",
-   "dur": 0.552,
-   "gan": 0.92,
+   "inicio": 1795144994012,
+   "titulo": "Kashiwa Reysol vs. JEF United Ichihara Chiba",
+   "dur": 60.969,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795144743223,
+   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
+   "dur": 14.149,
+   "gan": 2.01,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795139416174,
-   "titulo": "Orlando City SC vs. FC Cincinnati",
-   "dur": 0.028,
-   "gan": 1.14,
+   "inicio": 1795143913695,
+   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
+   "dur": 1.045,
+   "gan": 0.63,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795139416094,
-   "titulo": "Orlando City SC vs. FC Cincinnati",
-   "dur": 0.024,
-   "gan": 1.6,
+   "inicio": 1795143373828,
+   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
+   "dur": 41.894,
+   "gan": 0.52,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1795139413949,
-   "titulo": "Orlando City SC vs. FC Cincinnati",
-   "dur": 0.473,
-   "gan": 0.65,
-   "neta": 0.04,
-   "lado": "si"
   }
  ]
 }
