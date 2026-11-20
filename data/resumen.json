@@ -1,84 +1,84 @@
 {
- "actualizado": 1795185133178,
- "inicio": 1794442839703,
+ "actualizado": 1795188147103,
+ "inicio": 1794446001208,
  "ejecucion": {
-  "inicio": 1795182132880,
-  "fin": 1795185133178,
-  "mensajes": 10916523,
-  "reconexiones": 0,
-  "eventos": 595,
+  "inicio": 1795185146769,
+  "fin": 1795188147103,
+  "mensajes": 12244591,
+  "reconexiones": 5,
+  "eventos": 637,
   "errores": [],
-  "nuevos": 10,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 9,
+  "nuevosRentables": 1,
+  "nuevosNeta": 6.18
  },
- "total": 5403,
- "falsos": 2729,
+ "total": 5392,
+ "falsos": 2743,
  "largos": {
-  "episodios": 23003,
-  "eventos": 179,
+  "episodios": 23008,
+  "eventos": 178,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 236,
+  "episodios": 234,
   "eventos": 25
  },
- "mediana": 0.473,
+ "mediana": 0.472,
  "captura": [
   {
    "s": 0.5,
-   "n": 2645,
-   "gan": 7529.56,
-   "nNeta": 777,
-   "neta": 1891.74
+   "n": 2637,
+   "gan": 7567.61,
+   "nNeta": 776,
+   "neta": 1895.23
   },
   {
    "s": 2,
-   "n": 1418,
-   "gan": 3289.63,
+   "n": 1414,
+   "gan": 3319.55,
    "nNeta": 355,
-   "neta": 603.03
+   "neta": 608.39
   },
   {
    "s": 5,
-   "n": 881,
-   "gan": 1922.8,
-   "nNeta": 183,
-   "neta": 294.53
+   "n": 875,
+   "gan": 1926.53,
+   "nNeta": 182,
+   "neta": 293.71
   },
   {
    "s": 30,
-   "n": 346,
-   "gan": 697.87,
+   "n": 342,
+   "gan": 694.2,
    "nNeta": 25,
    "neta": 16
   }
  ],
- "rentables": 1667,
+ "rentables": 1668,
  "porCapital": [
   {
    "capital": 500,
    "ops": 81,
    "descartadas": 307,
-   "neta": 206.67,
-   "dias": 8.53,
-   "semana": 169.57
+   "neta": 212.03,
+   "dias": 8.41,
+   "semana": 176.4
   },
   {
    "capital": 1000,
    "ops": 95,
    "descartadas": 307,
-   "neta": 332.68,
-   "dias": 8.53,
-   "semana": 272.97
+   "neta": 338.04,
+   "dias": 8.41,
+   "semana": 281.24
   },
   {
    "capital": 2000,
    "ops": 100,
    "descartadas": 307,
-   "neta": 481.48,
-   "dias": 8.53,
-   "semana": 395.06
+   "neta": 486.84,
+   "dias": 8.41,
+   "semana": 405.04
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 5,
-   "horas": 103.3,
-   "episodios": 2539,
+   "horas": 104.2,
+   "episodios": 2548,
    "sospechosas": 30,
-   "realistaNeta": 375.83,
+   "realistaNeta": 382.01,
    "capital": {
-    "500": 106.41,
-    "1000": 157.96,
-    "2000": 235.78
+    "500": 112.59,
+    "1000": 164.14,
+    "2000": 241.96
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 65,
+  "n": 64,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,42 +236,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5338,
-  "n": 1715,
-  "gan": 3936.58,
+  "conDato": 5328,
+  "n": 1708,
+  "gan": 3963.59,
   "nNeta": 412,
-  "neta": 769.56
+  "neta": 774.92
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1517
+   "n": 1512
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1887
+   "n": 1888
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1112
+   "n": 1111
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 535
+   "n": 533
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 216
+   "n": 213
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 130
+   "n": 129
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794913200000,
-   "n": 3
-  },
   {
    "h": 1794916800000,
    "n": 38
@@ -633,10 +629,86 @@
   },
   {
    "h": 1795183200000,
-   "n": 2
+   "n": 10
+  },
+  {
+   "h": 1795186800000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795186842265,
+   "titulo": "Al Duhail SC vs. Qatar SC",
+   "dur": 1.731,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795186697897,
+   "titulo": "Al Duhail SC vs. Qatar SC",
+   "dur": 0.084,
+   "gan": 0.96,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795186694835,
+   "titulo": "Al Duhail SC vs. Qatar SC",
+   "dur": 2.943,
+   "gan": 3,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795186647594,
+   "titulo": "Al Duhail SC vs. Qatar SC",
+   "dur": 4.502,
+   "gan": 3,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795186579447,
+   "titulo": "Al Duhail SC vs. Qatar SC",
+   "dur": 2.164,
+   "gan": 3.35,
+   "neta": 0.13,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795186459347,
+   "titulo": "Al Duhail SC vs. Qatar SC",
+   "dur": 0.249,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795185998469,
+   "titulo": "Navbahor vs. FK Neftchi Fargona",
+   "dur": 0.216,
+   "gan": 0.55,
+   "neta": 0.43,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795185447767,
+   "titulo": "Al Duhail SC vs. Qatar SC",
+   "dur": 6.1,
+   "gan": 10.98,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795185446570,
+   "titulo": "Al Duhail SC vs. Qatar SC",
+   "dur": 1.067,
+   "gan": 1,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795183982664,
    "titulo": "Al Duhail SC vs. Qatar SC",
@@ -684,78 +756,6 @@
    "gan": 0.75,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1795182656789,
-   "titulo": "Al Duhail SC vs. Qatar SC",
-   "dur": 0.25,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795182656746,
-   "titulo": "Al Duhail SC vs. Qatar SC",
-   "dur": 0.023,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795182589546,
-   "titulo": "AGMK FC vs. Qizilqum Zarafshon",
-   "dur": 0.283,
-   "gan": 0.77,
-   "neta": 0.57,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795182150103,
-   "titulo": "FC Twente vs. Willem II Tilburg",
-   "dur": 396.384,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795180948792,
-   "titulo": "FC Twente vs. Willem II Tilburg",
-   "dur": 609.69,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795181511587,
-   "titulo": "Dewa United vs. Persita Tangerang",
-   "dur": 0.103,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795181506545,
-   "titulo": "Dewa United vs. Persita Tangerang",
-   "dur": 3.692,
-   "gan": 6.43,
-   "neta": 0.58,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795181495669,
-   "titulo": "Dewa United vs. Persita Tangerang",
-   "dur": 2.163,
-   "gan": 5.97,
-   "neta": 1.38,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795181377616,
-   "titulo": "Persiba Balikpapan vs. Barito Putera",
-   "dur": 0.706,
-   "gan": 1.2,
-   "neta": 0,
-   "lado": "si"
   }
  ]
 }
