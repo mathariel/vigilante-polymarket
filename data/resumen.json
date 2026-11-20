@@ -1,84 +1,84 @@
 {
- "actualizado": 1795148952366,
- "inicio": 1794373999192,
+ "actualizado": 1795151967605,
+ "inicio": 1794382998773,
  "ejecucion": {
-  "inicio": 1795145952024,
-  "fin": 1795148952366,
-  "mensajes": 8396044,
-  "reconexiones": 0,
-  "eventos": 566,
+  "inicio": 1795148967345,
+  "fin": 1795151967605,
+  "mensajes": 9604972,
+  "reconexiones": 2,
+  "eventos": 564,
   "errores": [],
-  "nuevos": 21,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 66,
+  "nuevosRentables": 3,
+  "nuevosNeta": 1.81
  },
- "total": 5438,
- "falsos": 2686,
+ "total": 5494,
+ "falsos": 2715,
  "largos": {
-  "episodios": 22781,
-  "eventos": 181,
+  "episodios": 22702,
+  "eventos": 179,
   "dias": 7
  },
  "enEspera": {
   "episodios": 384,
   "eventos": 29
  },
- "mediana": 0.514,
+ "mediana": 0.506,
  "captura": [
   {
    "s": 0.5,
-   "n": 2754,
-   "gan": 6852.91,
-   "nNeta": 779,
-   "neta": 1441.92
+   "n": 2762,
+   "gan": 6872.07,
+   "nNeta": 783,
+   "neta": 1447.28
   },
   {
    "s": 2,
-   "n": 1550,
-   "gan": 3333.66,
+   "n": 1552,
+   "gan": 3342.3,
    "nNeta": 366,
-   "neta": 603.41
+   "neta": 605.03
   },
   {
    "s": 5,
-   "n": 1019,
-   "gan": 1978.29,
-   "nNeta": 198,
-   "neta": 290.69
+   "n": 1021,
+   "gan": 1984.57,
+   "nNeta": 197,
+   "neta": 290.67
   },
   {
    "s": 30,
    "n": 478,
-   "gan": 757.52,
-   "nNeta": 43,
-   "neta": 16.25
+   "gan": 758.67,
+   "nNeta": 42,
+   "neta": 16.23
   }
  ],
- "rentables": 1621,
+ "rentables": 1656,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 78,
+   "ops": 79,
    "descartadas": 315,
-   "neta": 189.95,
-   "dias": 8.86,
-   "semana": 150.01
+   "neta": 191.68,
+   "dias": 8.79,
+   "semana": 152.58
   },
   {
    "capital": 1000,
-   "ops": 93,
+   "ops": 94,
    "descartadas": 315,
-   "neta": 301.68,
-   "dias": 8.86,
-   "semana": 238.25
+   "neta": 303.41,
+   "dias": 8.79,
+   "semana": 241.52
   },
   {
    "capital": 2000,
-   "ops": 98,
+   "ops": 99,
    "descartadas": 315,
-   "neta": 400.17,
-   "dias": 8.86,
-   "semana": 316.03
+   "neta": 401.9,
+   "dias": 8.79,
+   "semana": 319.91
   }
  ],
  "maxBloqueoH": 24,
@@ -114,15 +114,15 @@
   },
   {
    "lunes": "2026-11-16",
-   "dias": 4,
-   "horas": 93.3,
-   "episodios": 2333,
+   "dias": 5,
+   "horas": 94.2,
+   "episodios": 2400,
    "sospechosas": 24,
-   "realistaNeta": 194.81,
+   "realistaNeta": 196.62,
    "capital": {
-    "500": 81.92,
-    "1000": 108.31,
-    "2000": 135.82
+    "500": 83.65,
+    "1000": 110.04,
+    "2000": 137.55
    },
    "cumple": true
   }
@@ -236,58 +236,58 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5376,
-  "n": 1844,
-  "gan": 3732.4,
-  "nNeta": 417,
-  "neta": 610.85
+  "conDato": 5432,
+  "n": 1846,
+  "gan": 3741.77,
+  "nNeta": 418,
+  "neta": 612.48
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1466
+   "n": 1498
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1852
+   "n": 1872
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1095
+   "n": 1097
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 541
+   "n": 543
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 358
+   "n": 359
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 120
+   "n": 119
   }
  ],
  "porEvento": [
-  {
-   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
-   "n": 263,
-   "gan": 161.72,
-   "neta": 0.62,
-   "mediana": 99.688
-  },
   {
    "titulo": "Spain vs. England",
    "n": 261,
    "gan": 537.93,
    "neta": 19.93,
    "mediana": 0.203
+  },
+  {
+   "titulo": "Japan GDP growth in Q3 2026 (QoQ Annualized)?",
+   "n": 260,
+   "gan": 158.25,
+   "neta": 0.6,
+   "mediana": 99.029
   },
   {
    "titulo": "Bitcoin price on November 19?",
@@ -339,22 +339,14 @@
    "mediana": 9.434
   },
   {
-   "titulo": "Elon Musk # tweets November 12 - November 14, 2026?",
-   "n": 84,
-   "gan": 144.95,
-   "neta": 55.81,
-   "mediana": 0.322
+   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
+   "n": 89,
+   "gan": 97.18,
+   "neta": 20.16,
+   "mediana": 0.134
   }
  ],
  "porHora": [
-  {
-   "h": 1794873600000,
-   "n": 27
-  },
-  {
-   "h": 1794877200000,
-   "n": 20
-  },
   {
    "h": 1794880800000,
    "n": 7
@@ -634,127 +626,135 @@
   {
    "h": 1795143600000,
    "n": 35
+  },
+  {
+   "h": 1795147200000,
+   "n": 39
+  },
+  {
+   "h": 1795150800000,
+   "n": 28
   }
  ],
  "recientes": [
   {
-   "inicio": 1795145895697,
+   "inicio": 1795151855528,
+   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
+   "dur": 111.82,
+   "gan": 1.04,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795148264592,
    "titulo": "CE Sabadell FC vs. Granada CF",
-   "dur": 3056.33,
+   "dur": 3702.756,
    "gan": 2.53,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795145954421,
-   "titulo": "Kashiwa Reysol vs. JEF United Ichihara Chiba",
-   "dur": 1109.963,
-   "gan": 0.61,
+   "inicio": 1795151024679,
+   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
+   "dur": 830.811,
+   "gan": 1.03,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795146485618,
+   "inicio": 1795151734475,
    "titulo": "Seattle Sounders FC vs. Real Salt Lake",
-   "dur": 0.774,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
+   "dur": 1.031,
+   "gan": 2.36,
+   "neta": 1.94,
+   "lado": "no"
   },
   {
-   "inicio": 1795146346631,
+   "inicio": 1795151734401,
    "titulo": "Seattle Sounders FC vs. Real Salt Lake",
-   "dur": 2.579,
-   "gan": 0.78,
+   "dur": 0.04,
+   "gan": 4.08,
+   "neta": 3.41,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795151725695,
+   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
+   "dur": 3.336,
+   "gan": 1.43,
+   "neta": 0.95,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795151689113,
+   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
+   "dur": 0.243,
+   "gan": 1.08,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795146345094,
+   "inicio": 1795151688877,
    "titulo": "Seattle Sounders FC vs. Real Salt Lake",
-   "dur": 1.536,
-   "gan": 0.9,
-   "neta": 0,
+   "dur": 0.204,
+   "gan": 1.28,
+   "neta": 0.18,
    "lado": "no"
   },
   {
-   "inicio": 1795146343419,
+   "inicio": 1795151688768,
    "titulo": "Seattle Sounders FC vs. Real Salt Lake",
-   "dur": 0.023,
-   "gan": 0.79,
-   "neta": 0,
+   "dur": 0.08,
+   "gan": 1.48,
+   "neta": 0.37,
    "lado": "no"
   },
   {
-   "inicio": 1795146341686,
+   "inicio": 1795151688708,
    "titulo": "Seattle Sounders FC vs. Real Salt Lake",
-   "dur": 0.331,
-   "gan": 0.65,
-   "neta": 0.11,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795146341619,
-   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
-   "dur": 0.033,
-   "gan": 0.53,
-   "neta": 0.06,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795146341363,
-   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
-   "dur": 0.117,
-   "gan": 0.85,
-   "neta": 0.33,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795146160373,
-   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
-   "dur": 2.538,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795146160274,
-   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
-   "dur": 0.096,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795146049820,
-   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
-   "dur": 1.291,
-   "gan": 0.57,
-   "neta": 0,
+   "dur": 0.03,
+   "gan": 1.61,
+   "neta": 0.56,
    "lado": "no"
   },
   {
-   "inicio": 1795146047438,
+   "inicio": 1795151688637,
    "titulo": "Seattle Sounders FC vs. Real Salt Lake",
-   "dur": 2.272,
-   "gan": 0.62,
-   "neta": 0,
+   "dur": 0.028,
+   "gan": 1.61,
+   "neta": 0.56,
    "lado": "no"
   },
   {
-   "inicio": 1795146025422,
+   "inicio": 1795151688569,
    "titulo": "Seattle Sounders FC vs. Real Salt Lake",
-   "dur": 3.488,
-   "gan": 1,
-   "neta": 0,
+   "dur": 0.034,
+   "gan": 1.41,
+   "neta": 0.37,
    "lado": "no"
   },
   {
-   "inicio": 1795146024719,
+   "inicio": 1795151688509,
    "titulo": "Seattle Sounders FC vs. Real Salt Lake",
-   "dur": 0.192,
-   "gan": 0.87,
-   "neta": 0,
+   "dur": 0.028,
+   "gan": 1.61,
+   "neta": 0.56,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795151688452,
+   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
+   "dur": 0.028,
+   "gan": 1.41,
+   "neta": 0.37,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795151688399,
+   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
+   "dur": 0.027,
+   "gan": 1.54,
+   "neta": 0.44,
    "lado": "no"
   }
  ]
