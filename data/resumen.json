@@ -1,84 +1,84 @@
 {
- "actualizado": 1795194177815,
+ "actualizado": 1795197198759,
  "inicio": 1794458108532,
  "ejecucion": {
-  "inicio": 1795191177481,
-  "fin": 1795194177815,
-  "mensajes": 12553447,
-  "reconexiones": 0,
-  "eventos": 607,
+  "inicio": 1795194198494,
+  "fin": 1795197198759,
+  "mensajes": 11841584,
+  "reconexiones": 2,
+  "eventos": 614,
   "errores": [],
-  "nuevos": 22,
-  "nuevosRentables": 2,
-  "nuevosNeta": 0.79
+  "nuevos": 106,
+  "nuevosRentables": 3,
+  "nuevosNeta": 1.13
  },
- "total": 5419,
- "falsos": 2759,
+ "total": 5516,
+ "falsos": 2781,
  "largos": {
-  "episodios": 22979,
-  "eventos": 180,
+  "episodios": 22865,
+  "eventos": 179,
   "dias": 7
  },
  "enEspera": {
   "episodios": 234,
   "eventos": 25
  },
- "mediana": 0.471,
+ "mediana": 0.465,
  "captura": [
   {
    "s": 0.5,
-   "n": 2649,
-   "gan": 7583.82,
-   "nNeta": 780,
-   "neta": 1896.43
+   "n": 2682,
+   "gan": 7653.36,
+   "nNeta": 788,
+   "neta": 1919.58
   },
   {
    "s": 2,
-   "n": 1420,
-   "gan": 3328.01,
-   "nNeta": 356,
-   "neta": 608.47
+   "n": 1431,
+   "gan": 3347.24,
+   "nNeta": 358,
+   "neta": 608.69
   },
   {
    "s": 5,
-   "n": 879,
-   "gan": 1933.46,
-   "nNeta": 182,
-   "neta": 293.71
+   "n": 884,
+   "gan": 1941.48,
+   "nNeta": 184,
+   "neta": 293.93
   },
   {
    "s": 30,
-   "n": 344,
-   "gan": 699.02,
+   "n": 342,
+   "gan": 697.92,
    "nNeta": 25,
    "neta": 16
   }
  ],
- "rentables": 1674,
+ "rentables": 1688,
  "porCapital": [
   {
    "capital": 500,
    "ops": 82,
-   "descartadas": 308,
+   "descartadas": 311,
    "neta": 212.74,
-   "dias": 8.48,
-   "semana": 175.54
+   "dias": 8.52,
+   "semana": 174.82
   },
   {
    "capital": 1000,
    "ops": 96,
-   "descartadas": 308,
+   "descartadas": 311,
    "neta": 338.75,
-   "dias": 8.48,
-   "semana": 279.52
+   "dias": 8.52,
+   "semana": 278.37
   },
   {
    "capital": 2000,
    "ops": 101,
-   "descartadas": 308,
+   "descartadas": 311,
    "neta": 487.55,
-   "dias": 8.48,
-   "semana": 402.29
+   "dias": 8.52,
+   "semana": 400.64
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 5,
-   "horas": 105.8,
-   "episodios": 2575,
-   "sospechosas": 30,
-   "realistaNeta": 382.8,
+   "horas": 106.7,
+   "episodios": 2681,
+   "sospechosas": 34,
+   "realistaNeta": 383.93,
    "capital": {
     "500": 113.3,
     "1000": 164.85,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 64,
+  "n": 68,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,37 +236,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5355,
-  "n": 1717,
-  "gan": 3977.92,
-  "nNeta": 414,
-  "neta": 775.71
+  "conDato": 5448,
+  "n": 1731,
+  "gan": 4002.98,
+  "nNeta": 417,
+  "neta": 776.84
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1519
+   "n": 1560
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1900
+   "n": 1933
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1115
+   "n": 1132
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 535
+   "n": 542
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 215
+   "n": 213
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794920400000,
-   "n": 52
-  },
   {
    "h": 1794924000000,
    "n": 18
@@ -634,126 +630,130 @@
   {
    "h": 1795190400000,
    "n": 25
+  },
+  {
+   "h": 1795194000000,
+   "n": 106
   }
  ],
  "recientes": [
   {
-   "inicio": 1795193973353,
-   "titulo": "Highest temperature in Buenos Aires on November 22?",
-   "dur": 0.023,
-   "gan": 0.6,
+   "inicio": 1795197183742,
+   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
+   "dur": 0.142,
+   "gan": 0.69,
+   "neta": 0.14,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795197152589,
+   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
+   "dur": 0.012,
+   "gan": 0.65,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795193344948,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 1.151,
-   "gan": 6.06,
-   "neta": 4.31,
-   "lado": "si"
+   "inicio": 1795197146930,
+   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
+   "dur": 5.609,
+   "gan": 2.61,
+   "neta": 0.14,
+   "lado": "no"
   },
   {
-   "inicio": 1795193339753,
-   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
-   "dur": 1.398,
-   "gan": 0.8,
+   "inicio": 1795197032708,
+   "titulo": "FK Rostov vs. PFK Krylia Sovetov Samara",
+   "dur": 0.973,
+   "gan": 0.77,
    "neta": 0.17,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795193333598,
+   "inicio": 1795197002691,
+   "titulo": "Highest temperature in Helsinki on November 20?",
+   "dur": 0.055,
+   "gan": 2.85,
+   "neta": 2.66,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795196991492,
    "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
-   "dur": 0.689,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795193296562,
-   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
-   "dur": 0.144,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795192833517,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 0.07,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795192678155,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 0.994,
-   "gan": 4.05,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795192394403,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 0.718,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795192394384,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 0.005,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795192393985,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 0.373,
+   "dur": 0.022,
    "gan": 0.55,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795192393832,
-   "titulo": "Elon Musk # tweets November 13 - November 20, 2026?",
-   "dur": 0.051,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795191965320,
-   "titulo": "FK Rostov vs. PFK Krylia Sovetov Samara",
-   "dur": 5.166,
-   "gan": 1.58,
-   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795191833473,
+   "inicio": 1795196968774,
    "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
-   "dur": 0.122,
-   "gan": 0.6,
+   "dur": 2.095,
+   "gan": 0.57,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795191813405,
+   "inicio": 1795196968321,
    "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
-   "dur": 4.851,
-   "gan": 1,
-   "neta": 0.08,
+   "dur": 0.124,
+   "gan": 2.32,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795191814503,
-   "titulo": "FK Rostov vs. PFK Krylia Sovetov Samara",
-   "dur": 0.24,
-   "gan": 1.63,
+   "inicio": 1795196961315,
+   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
+   "dur": 3.028,
+   "gan": 6.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795196959517,
+   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
+   "dur": 1.454,
+   "gan": 1.93,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795196959492,
+   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
+   "dur": 0.017,
+   "gan": 0.98,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795196941959,
+   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
+   "dur": 17.531,
+   "gan": 1.06,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795196938981,
+   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
+   "dur": 2.531,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795196938680,
+   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
+   "dur": 0.193,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795196938379,
+   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
+   "dur": 0.101,
+   "gan": 0.66,
    "neta": 0,
    "lado": "no"
   }
