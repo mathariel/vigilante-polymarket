@@ -1,84 +1,84 @@
 {
- "actualizado": 1795218306203,
- "inicio": 1794515419760,
+ "actualizado": 1795221321342,
+ "inicio": 1794518492995,
  "ejecucion": {
-  "inicio": 1795215305873,
-  "fin": 1795218306203,
-  "mensajes": 10932543,
+  "inicio": 1795218321039,
+  "fin": 1795221321342,
+  "mensajes": 11519105,
   "reconexiones": 0,
-  "eventos": 595,
+  "eventos": 597,
   "errores": [],
-  "nuevos": 49,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 62,
+  "nuevosRentables": 3,
+  "nuevosNeta": 0.97
  },
- "total": 5286,
- "falsos": 2793,
+ "total": 5292,
+ "falsos": 2763,
  "largos": {
-  "episodios": 23115,
-  "eventos": 177,
+  "episodios": 23256,
+  "eventos": 175,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 238,
-  "eventos": 26
+  "episodios": 126,
+  "eventos": 24
  },
- "mediana": 0.452,
+ "mediana": 0.45,
  "captura": [
   {
    "s": 0.5,
    "n": 2550,
-   "gan": 7497.26,
-   "nNeta": 777,
-   "neta": 1954.56
+   "gan": 7490.6,
+   "nNeta": 775,
+   "neta": 1941.39
   },
   {
    "s": 2,
    "n": 1336,
-   "gan": 3159.17,
+   "gan": 3161.03,
    "nNeta": 354,
-   "neta": 587.93
+   "neta": 587.74
   },
   {
    "s": 5,
-   "n": 806,
-   "gan": 1824.92,
+   "n": 805,
+   "gan": 1824.01,
    "nNeta": 184,
-   "neta": 293.16
+   "neta": 293.69
   },
   {
    "s": 30,
    "n": 289,
-   "gan": 608.75,
+   "gan": 609.41,
    "nNeta": 25,
    "neta": 16
   }
  ],
- "rentables": 1664,
+ "rentables": 1663,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 85,
+   "ops": 86,
    "descartadas": 307,
-   "neta": 219.29,
-   "dias": 8.07,
-   "semana": 190.29
+   "neta": 218.1,
+   "dias": 7.88,
+   "semana": 193.71
   },
   {
    "capital": 1000,
    "ops": 99,
    "descartadas": 307,
-   "neta": 358.44,
-   "dias": 8.07,
-   "semana": 311.04
+   "neta": 354.95,
+   "dias": 7.88,
+   "semana": 315.26
   },
   {
    "capital": 2000,
    "ops": 104,
    "descartadas": 307,
-   "neta": 507.24,
-   "dias": 8.07,
-   "semana": 440.16
+   "neta": 503.74,
+   "dias": 7.88,
+   "semana": 447.43
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 5,
-   "horas": 112.5,
-   "episodios": 3047,
+   "horas": 113.3,
+   "episodios": 3109,
    "sospechosas": 36,
-   "realistaNeta": 415.29,
+   "realistaNeta": 416.26,
    "capital": {
-    "500": 130.02,
-    "1000": 194.71,
-    "2000": 272.53
+    "500": 130.83,
+    "1000": 195.52,
+    "2000": 273.34
    },
    "cumple": true
   }
@@ -236,22 +236,22 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5221,
-  "n": 1623,
-  "gan": 3851.8,
+  "conDato": 5227,
+  "n": 1622,
+  "gan": 3846.48,
   "nNeta": 416,
-  "neta": 793.19
+  "neta": 786.21
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1491
+   "n": 1500
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1888
+   "n": 1886
   },
   {
    "et": "1–5 s",
@@ -261,7 +261,7 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 517
+   "n": 516
   },
   {
    "et": "30 s–5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794945600000,
-   "n": 98
-  },
   {
    "h": 1794949200000,
    "n": 198
@@ -633,129 +629,133 @@
   },
   {
    "h": 1795215600000,
-   "n": 40
+   "n": 50
+  },
+  {
+   "h": 1795219200000,
+   "n": 52
   }
  ],
  "recientes": [
   {
-   "inicio": 1795217731636,
-   "titulo": "York City FC vs. Walsall FC",
-   "dur": 44.892,
+   "inicio": 1795221240475,
+   "titulo": "Escorpiones de Belén vs. AD San Carlos",
+   "dur": 80.567,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795221174347,
+   "titulo": "CA Vélez Sarsfield vs. CA Belgrano",
+   "dur": 0.884,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795221173288,
+   "titulo": "Independiente Medellín vs. Independiente Santa Fe",
+   "dur": 1.334,
+   "gan": 0.64,
+   "neta": 0.05,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795221049665,
+   "titulo": "CA Vélez Sarsfield vs. CA Belgrano",
+   "dur": 0.17,
+   "gan": 0.88,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795221047097,
+   "titulo": "CA Vélez Sarsfield vs. CA Belgrano",
+   "dur": 0.644,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795220855884,
+   "titulo": "Independiente Medellín vs. Independiente Santa Fe",
+   "dur": 0.761,
    "gan": 0.72,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795216155253,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
-   "dur": 2.426,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795220419260,
+   "titulo": "Independiente Medellín vs. Independiente Santa Fe",
+   "dur": 4.464,
+   "gan": 0.96,
+   "neta": 0.11,
+   "lado": "si"
   },
   {
-   "inicio": 1795216154829,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
-   "dur": 0.019,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795220419189,
+   "titulo": "Independiente Medellín vs. Independiente Santa Fe",
+   "dur": 0.031,
+   "gan": 0.53,
+   "neta": 0.01,
+   "lado": "si"
   },
   {
-   "inicio": 1795216153584,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
-   "dur": 0.22,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795220419156,
+   "titulo": "Independiente Medellín vs. Independiente Santa Fe",
+   "dur": 0.011,
+   "gan": 0.53,
+   "neta": 0.01,
+   "lado": "si"
   },
   {
-   "inicio": 1795215902171,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
-   "dur": 19.741,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795220418963,
+   "titulo": "Independiente Medellín vs. Independiente Santa Fe",
+   "dur": 0.098,
+   "gan": 0.53,
+   "neta": 0.01,
+   "lado": "si"
   },
   {
-   "inicio": 1795215899006,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
-   "dur": 3.126,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795220418806,
+   "titulo": "Independiente Medellín vs. Independiente Santa Fe",
+   "dur": 0.15,
+   "gan": 0.53,
+   "neta": 0.01,
+   "lado": "si"
   },
   {
-   "inicio": 1795215897724,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
-   "dur": 1.232,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795220417580,
+   "titulo": "Independiente Medellín vs. Independiente Santa Fe",
+   "dur": 0.215,
+   "gan": 0.96,
+   "neta": 0.11,
+   "lado": "si"
   },
   {
-   "inicio": 1795215897571,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
-   "dur": 0.025,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795220411936,
+   "titulo": "Independiente Medellín vs. Independiente Santa Fe",
+   "dur": 0.066,
+   "gan": 0.53,
+   "neta": 0.18,
+   "lado": "si"
   },
   {
-   "inicio": 1795215897481,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
-   "dur": 0.063,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795220410826,
+   "titulo": "Independiente Medellín vs. Independiente Santa Fe",
+   "dur": 0.09,
+   "gan": 0.53,
+   "neta": 0.18,
+   "lado": "si"
   },
   {
-   "inicio": 1795215897448,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
-   "dur": 0.009,
-   "gan": 0.64,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795215897428,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
-   "dur": 0.014,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795215897330,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
-   "dur": 0.08,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795215897274,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
-   "dur": 0.022,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795215897191,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
-   "dur": 0.065,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795215897151,
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office (Higher Brackets)",
-   "dur": 0.021,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795220408377,
+   "titulo": "Independiente Medellín vs. Independiente Santa Fe",
+   "dur": 0.431,
+   "gan": 0.85,
+   "neta": 0.46,
+   "lado": "si"
   }
  ]
 }
