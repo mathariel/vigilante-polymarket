@@ -1,84 +1,84 @@
 {
- "actualizado": 1795275643710,
- "inicio": 1794599919664,
+ "actualizado": 1795278658037,
+ "inicio": 1794602854928,
  "ejecucion": {
-  "inicio": 1795272643345,
-  "fin": 1795275643710,
-  "mensajes": 16176269,
-  "reconexiones": 1,
-  "eventos": 681,
+  "inicio": 1795275657807,
+  "fin": 1795278658037,
+  "mensajes": 14959176,
+  "reconexiones": 4,
+  "eventos": 682,
   "errores": [],
-  "nuevos": 150,
-  "nuevosRentables": 3,
-  "nuevosNeta": 85.47
+  "nuevos": 141,
+  "nuevosRentables": 5,
+  "nuevosNeta": 5.88
  },
- "total": 5539,
- "falsos": 3645,
+ "total": 5604,
+ "falsos": 3690,
  "largos": {
-  "episodios": 22259,
-  "eventos": 180,
+  "episodios": 22152,
+  "eventos": 179,
   "dias": 7
  },
  "enEspera": {
   "episodios": 76,
   "eventos": 19
  },
- "mediana": 0.398,
+ "mediana": 0.393,
  "captura": [
   {
    "s": 0.5,
-   "n": 2585,
-   "gan": 7634.88,
-   "nNeta": 782,
-   "neta": 1881.46
+   "n": 2598,
+   "gan": 7642.37,
+   "nNeta": 783,
+   "neta": 1819.51
   },
   {
    "s": 2,
-   "n": 1308,
-   "gan": 3126.84,
-   "nNeta": 333,
-   "neta": 514.86
+   "n": 1306,
+   "gan": 3143.66,
+   "nNeta": 330,
+   "neta": 515.66
   },
   {
    "s": 5,
-   "n": 752,
-   "gan": 1564.27,
-   "nNeta": 166,
-   "neta": 154.22
+   "n": 746,
+   "gan": 1558.41,
+   "nNeta": 163,
+   "neta": 152.08
   },
   {
    "s": 30,
-   "n": 258,
-   "gan": 562.73,
-   "nNeta": 20,
-   "neta": 14.89
+   "n": 256,
+   "gan": 567.03,
+   "nNeta": 19,
+   "neta": 13.68
   }
  ],
- "rentables": 1708,
+ "rentables": 1718,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 83,
-   "descartadas": 287,
-   "neta": 227.19,
-   "dias": 7.79,
-   "semana": 204.23
+   "ops": 78,
+   "descartadas": 289,
+   "neta": 222.51,
+   "dias": 7.64,
+   "semana": 203.78
   },
   {
    "capital": 1000,
-   "ops": 96,
-   "descartadas": 287,
-   "neta": 369.14,
-   "dias": 7.79,
-   "semana": 331.84
+   "ops": 91,
+   "descartadas": 289,
+   "neta": 364.31,
+   "dias": 7.64,
+   "semana": 333.65
   },
   {
    "capital": 2000,
-   "ops": 102,
-   "descartadas": 287,
-   "neta": 534.23,
-   "dias": 7.79,
-   "semana": 480.24
+   "ops": 97,
+   "descartadas": 289,
+   "neta": 528.62,
+   "dias": 7.64,
+   "semana": 484.12
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 6,
-   "horas": 128.3,
-   "episodios": 3805,
+   "horas": 129.2,
+   "episodios": 3946,
    "sospechosas": 57,
-   "realistaNeta": 519.68,
+   "realistaNeta": 525.56,
    "capital": {
-    "500": 155.37,
-    "1000": 243.57,
-    "2000": 367.06
+    "500": 156.08,
+    "1000": 244.28,
+    "2000": 368.05
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 81,
+  "n": 80,
   "top": [
    {
     "inicio": 1795274262924,
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5458,
+  "conDato": 5524,
   "n": 1587,
-  "gan": 3871.66,
-  "nNeta": 391,
-  "neta": 717.1
+  "gan": 3894.14,
+  "nNeta": 388,
+  "neta": 716.15
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1610
+   "n": 1633
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2022
+   "n": 2062
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1147
+   "n": 1155
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 494
+   "n": 490
   },
   {
    "et": "30 s–5 min",
@@ -271,7 +271,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 90
+   "n": 88
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795003200000,
-   "n": 2
-  },
   {
    "h": 1795006800000,
    "n": 1
@@ -633,129 +629,133 @@
   },
   {
    "h": 1795273200000,
-   "n": 142
+   "n": 171
+  },
+  {
+   "h": 1795276800000,
+   "n": 112
   }
  ],
  "recientes": [
   {
-   "inicio": 1795275404870,
-   "titulo": "Kocaelispor vs. Fenerbahçe SK",
-   "dur": 238.478,
-   "gan": 4.72,
+   "inicio": 1795278560190,
+   "titulo": "Coventry City FC vs. Crystal Palace FC",
+   "dur": 0.259,
+   "gan": 0.59,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795275590059,
-   "titulo": "Eintracht Frankfurt vs. TSG 1899 Hoffenheim",
-   "dur": 0.383,
-   "gan": 0.71,
+   "inicio": 1795278552263,
+   "titulo": "Coventry City FC vs. Crystal Palace FC",
+   "dur": 0.812,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795278551534,
+   "titulo": "Coventry City FC vs. Crystal Palace FC",
+   "dur": 0.724,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795278519182,
+   "titulo": "Aston Villa FC vs. Sunderland AFC",
+   "dur": 1.002,
+   "gan": 0.72,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795278517875,
+   "titulo": "Aston Villa FC vs. Sunderland AFC",
+   "dur": 0.228,
+   "gan": 1.15,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795278517638,
+   "titulo": "Aston Villa FC vs. Sunderland AFC",
+   "dur": 0.13,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795278509885,
+   "titulo": "Rayo Vallecano de Madrid vs. Valencia CF",
+   "dur": 0.422,
+   "gan": 1.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795275574864,
-   "titulo": "Aston Villa FC vs. Sunderland AFC",
-   "dur": 0.276,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795275574438,
-   "titulo": "Chelsea FC vs. Leeds United FC",
-   "dur": 0.308,
+   "inicio": 1795278500632,
+   "titulo": "Rayo Vallecano de Madrid vs. Valencia CF",
+   "dur": 0.2,
    "gan": 0.64,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795275573153,
-   "titulo": "Chelsea FC vs. Leeds United FC",
-   "dur": 0.588,
-   "gan": 0.92,
+   "inicio": 1795278444919,
+   "titulo": "Coventry City FC vs. Crystal Palace FC",
+   "dur": 3.177,
+   "gan": 1.25,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795275572727,
-   "titulo": "Chelsea FC vs. Leeds United FC",
-   "dur": 0.086,
-   "gan": 0.92,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795275572410,
-   "titulo": "Chelsea FC vs. Leeds United FC",
-   "dur": 0.148,
-   "gan": 0.82,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795275571879,
-   "titulo": "Chelsea FC vs. Leeds United FC",
-   "dur": 0.4,
-   "gan": 0.92,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795275570869,
-   "titulo": "Chelsea FC vs. Leeds United FC",
-   "dur": 0.292,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795275566226,
-   "titulo": "Chelsea FC vs. Leeds United FC",
-   "dur": 0.488,
-   "gan": 10.1,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795275564028,
-   "titulo": "Chelsea FC vs. Leeds United FC",
-   "dur": 0.097,
-   "gan": 0.92,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795275539629,
-   "titulo": "Chelsea FC vs. Leeds United FC",
-   "dur": 0.208,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795275492375,
-   "titulo": "Aston Villa FC vs. Sunderland AFC",
-   "dur": 0.301,
-   "gan": 1.24,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795275490818,
-   "titulo": "Aston Villa FC vs. Sunderland AFC",
-   "dur": 1.366,
+   "inicio": 1795278404421,
+   "titulo": "Fatih Karagumruk Istanbul vs. Boluspor - Halftime Result",
+   "dur": 1.097,
    "gan": 1.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795275407512,
-   "titulo": "Tottenham Hotspur FC vs. Ipswich Town FC",
-   "dur": 1.877,
-   "gan": 1.5,
+   "inicio": 1795278401626,
+   "titulo": "Fatih Karagumruk Istanbul vs. Boluspor - Halftime Result",
+   "dur": 1.499,
+   "gan": 5.93,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
+  },
+  {
+   "inicio": 1795278374663,
+   "titulo": "Aston Villa FC vs. Sunderland AFC",
+   "dur": 0.147,
+   "gan": 0.93,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795278374137,
+   "titulo": "Aston Villa FC vs. Sunderland AFC",
+   "dur": 0.116,
+   "gan": 0.93,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795278299311,
+   "titulo": "Aston Villa FC vs. Sunderland AFC",
+   "dur": 0.268,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795278281221,
+   "titulo": "Chelsea FC vs. Leeds United FC",
+   "dur": 0.088,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "si"
   }
  ]
 }
