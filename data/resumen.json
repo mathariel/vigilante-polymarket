@@ -1,43 +1,43 @@
 {
- "actualizado": 1795239436238,
- "inicio": 1794548642761,
+ "actualizado": 1795242449221,
+ "inicio": 1794551659507,
  "ejecucion": {
-  "inicio": 1795236436003,
-  "fin": 1795239436238,
-  "mensajes": 13950862,
+  "inicio": 1795239448888,
+  "fin": 1795242449221,
+  "mensajes": 15328206,
   "reconexiones": 0,
-  "eventos": 604,
+  "eventos": 617,
   "errores": [],
-  "nuevos": 101,
-  "nuevosRentables": 8,
-  "nuevosNeta": 3.58
+  "nuevos": 7,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.06
  },
- "total": 5492,
- "falsos": 2878,
+ "total": 5499,
+ "falsos": 2891,
  "largos": {
-  "episodios": 22970,
-  "eventos": 177,
+  "episodios": 22954,
+  "eventos": 178,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 126,
+  "episodios": 125,
   "eventos": 24
  },
  "mediana": 0.427,
  "captura": [
   {
    "s": 0.5,
-   "n": 2610,
-   "gan": 7618.64,
-   "nNeta": 808,
-   "neta": 1953.44
+   "n": 2614,
+   "gan": 7638.69,
+   "nNeta": 811,
+   "neta": 1961.27
   },
   {
    "s": 2,
-   "n": 1357,
-   "gan": 3202.65,
-   "nNeta": 363,
-   "neta": 581.05
+   "n": 1358,
+   "gan": 3203.78,
+   "nNeta": 364,
+   "neta": 581.11
   },
   {
    "s": 5,
@@ -54,31 +54,31 @@
    "neta": 16
   }
  ],
- "rentables": 1742,
+ "rentables": 1746,
  "porCapital": [
   {
    "capital": 500,
    "ops": 90,
-   "descartadas": 314,
+   "descartadas": 315,
    "neta": 221.33,
-   "dias": 7.9,
-   "semana": 196.15
+   "dias": 7.93,
+   "semana": 195.28
   },
   {
    "capital": 1000,
    "ops": 103,
-   "descartadas": 314,
+   "descartadas": 315,
    "neta": 358.18,
-   "dias": 7.9,
-   "semana": 317.43
+   "dias": 7.93,
+   "semana": 316.03
   },
   {
    "capital": 2000,
    "ops": 108,
-   "descartadas": 314,
+   "descartadas": 315,
    "neta": 506.97,
-   "dias": 7.9,
-   "semana": 449.29
+   "dias": 7.93,
+   "semana": 447.32
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 6,
-   "horas": 118.3,
-   "episodios": 3328,
+   "horas": 119.2,
+   "episodios": 3335,
    "sospechosas": 45,
-   "realistaNeta": 422.78,
+   "realistaNeta": 422.84,
    "capital": {
     "500": 134.06,
     "1000": 198.75,
@@ -236,11 +236,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5418,
-  "n": 1647,
-  "gan": 3891.82,
-  "nNeta": 427,
-  "neta": 781.45
+  "conDato": 5425,
+  "n": 1648,
+  "gan": 3892.95,
+  "nNeta": 428,
+  "neta": 781.51
  },
  "duraciones": [
   {
@@ -251,12 +251,12 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1958
+   "n": 1963
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1119
+   "n": 1121
   },
   {
    "et": "5–30 s",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794967200000,
-   "n": 8
-  },
   {
    "h": 1794970800000,
    "n": 11
@@ -633,10 +629,70 @@
   },
   {
    "h": 1795237200000,
-   "n": 50
+   "n": 52
+  },
+  {
+   "h": 1795240800000,
+   "n": 5
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795241874283,
+   "titulo": "Júbilo Iwata vs. RB Ōmiya Ardija",
+   "dur": 0.374,
+   "gan": 0.5,
+   "neta": 0.31,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795241874089,
+   "titulo": "Júbilo Iwata vs. RB Ōmiya Ardija",
+   "dur": 0.15,
+   "gan": 0.5,
+   "neta": 0.31,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795241710609,
+   "titulo": "Jeonbuk Hyundai Motors FC vs. FC Seoul",
+   "dur": 0.512,
+   "gan": 1.04,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795241710285,
+   "titulo": "Jeonbuk Hyundai Motors FC vs. FC Seoul",
+   "dur": 0.194,
+   "gan": 1.04,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795241605370,
+   "titulo": "Jeonbuk Hyundai Motors FC vs. FC Seoul",
+   "dur": 0.861,
+   "gan": 3.15,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795240170299,
+   "titulo": "Auckland FC vs. Melbourne Victory FC",
+   "dur": 2.357,
+   "gan": 1.13,
+   "neta": 0.06,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795239489253,
+   "titulo": "Jeonbuk Hyundai Motors FC vs. FC Seoul",
+   "dur": 1.306,
+   "gan": 0.54,
+   "neta": 0.19,
+   "lado": "no"
+  },
   {
    "inicio": 1795239140627,
    "titulo": "Highest temperature in Seoul (Incheon) on November 21?",
@@ -699,62 +755,6 @@
    "dur": 0.043,
    "gan": 1.8,
    "neta": 0.69,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795237321965,
-   "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 0.829,
-   "gan": 0.97,
-   "neta": 0.57,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795237321594,
-   "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 0.341,
-   "gan": 16.07,
-   "neta": 10.57,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795237319135,
-   "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 0.023,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795237319108,
-   "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 0.005,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795237318865,
-   "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 0.028,
-   "gan": 0.76,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795237318754,
-   "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 0.027,
-   "gan": 1.06,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795237286008,
-   "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 0.54,
-   "gan": 3.13,
-   "neta": 0.81,
    "lado": "si"
   }
  ]
