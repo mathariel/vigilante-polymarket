@@ -1,84 +1,84 @@
 {
- "actualizado": 1795233398378,
+ "actualizado": 1795236416810,
  "inicio": 1794548642761,
  "ejecucion": {
-  "inicio": 1795230398153,
-  "fin": 1795233398378,
-  "mensajes": 12014206,
-  "reconexiones": 0,
-  "eventos": 590,
+  "inicio": 1795233416554,
+  "fin": 1795236416810,
+  "mensajes": 11532601,
+  "reconexiones": 3,
+  "eventos": 580,
   "errores": [],
-  "nuevos": 36,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 27,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.61
  },
- "total": 5365,
- "falsos": 2840,
+ "total": 5392,
+ "falsos": 2854,
  "largos": {
-  "episodios": 23129,
-  "eventos": 175,
+  "episodios": 23091,
+  "eventos": 176,
   "dias": 7
  },
  "enEspera": {
   "episodios": 126,
   "eventos": 24
  },
- "mediana": 0.442,
+ "mediana": 0.439,
  "captura": [
   {
    "s": 0.5,
-   "n": 2579,
-   "gan": 7524.32,
-   "nNeta": 789,
-   "neta": 1943.8
+   "n": 2588,
+   "gan": 7574.06,
+   "nNeta": 792,
+   "neta": 1945.7
   },
   {
    "s": 2,
-   "n": 1348,
-   "gan": 3153.23,
-   "nNeta": 357,
-   "neta": 579.3
+   "n": 1351,
+   "gan": 3195.93,
+   "nNeta": 358,
+   "neta": 579.91
   },
   {
    "s": 5,
-   "n": 810,
-   "gan": 1832.27,
+   "n": 812,
+   "gan": 1855.29,
    "nNeta": 185,
    "neta": 294.8
   },
   {
    "s": 30,
-   "n": 291,
-   "gan": 610.27,
+   "n": 292,
+   "gan": 611.02,
    "nNeta": 25,
    "neta": 16
   }
  ],
- "rentables": 1691,
+ "rentables": 1701,
  "porCapital": [
   {
    "capital": 500,
    "ops": 87,
-   "descartadas": 308,
+   "descartadas": 309,
    "neta": 218.79,
-   "dias": 7.89,
-   "semana": 194.02
+   "dias": 7.93,
+   "semana": 193.16
   },
   {
    "capital": 1000,
    "ops": 100,
-   "descartadas": 308,
+   "descartadas": 309,
    "neta": 355.64,
-   "dias": 7.89,
-   "semana": 315.38
+   "dias": 7.93,
+   "semana": 313.99
   },
   {
    "capital": 2000,
    "ops": 105,
-   "descartadas": 308,
+   "descartadas": 309,
    "neta": 504.43,
-   "dias": 7.89,
-   "semana": 447.33
+   "dias": 7.93,
+   "semana": 445.36
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 5,
-   "horas": 116.7,
-   "episodios": 3200,
+   "horas": 117.5,
+   "episodios": 3227,
    "sospechosas": 42,
-   "realistaNeta": 418.59,
+   "realistaNeta": 419.2,
    "capital": {
     "500": 131.52,
     "1000": 196.21,
@@ -236,37 +236,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5294,
-  "n": 1632,
-  "gan": 3833.16,
-  "nNeta": 418,
-  "neta": 777.26
+  "conDato": 5321,
+  "n": 1637,
+  "gan": 3877.42,
+  "nNeta": 419,
+  "neta": 777.87
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1533
+   "n": 1546
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1910
+   "n": 1918
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1104
+   "n": 1108
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 519
+   "n": 520
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 185
+   "n": 186
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794960000000,
-   "n": 8
-  },
   {
    "h": 1794963600000,
    "n": 10
@@ -634,127 +630,131 @@
   {
    "h": 1795230000000,
    "n": 38
+  },
+  {
+   "h": 1795233600000,
+   "n": 27
   }
  ],
  "recientes": [
   {
-   "inicio": 1795233210302,
-   "titulo": "Escorpiones de Belén vs. AD San Carlos",
-   "dur": 0.192,
-   "gan": 0.6,
-   "neta": 0.22,
-   "lado": "si"
+   "inicio": 1795236416283,
+   "titulo": "FC Juárez vs. Atlas FC",
+   "dur": 0.098,
+   "gan": 0.62,
+   "neta": 0.29,
+   "lado": "no"
   },
   {
-   "inicio": 1795233065778,
-   "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 2.74,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795233065563,
-   "titulo": "FC Juárez vs. Atlas FC",
+   "inicio": 1795236392057,
+   "titulo": "Club Tijuana vs. Atlante FC",
    "dur": 0.06,
-   "gan": 1.06,
+   "gan": 0.56,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795233065422,
-   "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 0.091,
-   "gan": 1.76,
-   "neta": 0.05,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795233065240,
-   "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 0.009,
-   "gan": 0.73,
-   "neta": 0.51,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795233065175,
-   "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 0.003,
-   "gan": 1,
-   "neta": 0.35,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795233063835,
-   "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 1.331,
-   "gan": 1.03,
+   "inicio": 1795236382388,
+   "titulo": "Club Tijuana vs. Atlante FC",
+   "dur": 0.023,
+   "gan": 0.96,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795233010720,
-   "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 4.591,
+   "inicio": 1795236377032,
+   "titulo": "Club Tijuana vs. Atlante FC",
+   "dur": 0.079,
    "gan": 0.57,
    "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795236376685,
+   "titulo": "Club Tijuana vs. Atlante FC",
+   "dur": 0.026,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795236313688,
+   "titulo": "Club Tijuana vs. Atlante FC",
+   "dur": 0.231,
+   "gan": 0.54,
+   "neta": 0.09,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795236313446,
+   "titulo": "Club Tijuana vs. Atlante FC",
+   "dur": 0.216,
+   "gan": 0.59,
+   "neta": 0.09,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795236312451,
+   "titulo": "Club Tijuana vs. Atlante FC",
+   "dur": 0.97,
+   "gan": 0.5,
+   "neta": 0.07,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795236268529,
+   "titulo": "Club Tijuana vs. Atlante FC",
+   "dur": 0.105,
+   "gan": 0.77,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795232992546,
+   "inicio": 1795236262766,
    "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 0.86,
+   "dur": 1.635,
+   "gan": 0.85,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795236259973,
+   "titulo": "FC Juárez vs. Atlas FC",
+   "dur": 1.106,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795236247014,
+   "titulo": "FC Juárez vs. Atlas FC",
+   "dur": 0.06,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795236242535,
+   "titulo": "FC Juárez vs. Atlas FC",
+   "dur": 0.113,
+   "gan": 1.17,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795236231171,
+   "titulo": "Club Tijuana vs. Atlante FC",
+   "dur": 0.98,
    "gan": 0.6,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795232990918,
-   "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 1.544,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795232990817,
-   "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 0.029,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795232990462,
-   "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 0.059,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795232989287,
-   "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 0.03,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795232988769,
-   "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 0.046,
-   "gan": 0.82,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795232987922,
-   "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 0.689,
-   "gan": 0.62,
-   "neta": 0,
+   "inicio": 1795236221305,
+   "titulo": "Club Tijuana vs. Atlante FC",
+   "dur": 0.057,
+   "gan": 0.6,
+   "neta": 0.16,
    "lado": "si"
   }
  ]
