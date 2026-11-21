@@ -144,15 +144,27 @@
   }
  },
  "2026-11-20": {
-  "minutos": 1400,
-  "episodios": 855,
-  "sospechosas": 18,
-  "realistaN": 46,
-  "realistaNeta": 224.31,
+  "minutos": 1450,
+  "episodios": 906,
+  "sospechosas": 19,
+  "realistaN": 52,
+  "realistaNeta": 226.83,
   "capital": {
-   "500": 49.6,
-   "1000": 87.9,
-   "2000": 138.21
+   "500": 51.08,
+   "1000": 89.38,
+   "2000": 139.69
+  }
+ },
+ "2026-11-21": {
+  "minutos": 0,
+  "episodios": 50,
+  "sospechosas": 2,
+  "realistaN": 2,
+  "realistaNeta": 1.06,
+  "capital": {
+   "500": 1.06,
+   "1000": 1.06,
+   "2000": 1.06
   }
  }
 }

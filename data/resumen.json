@@ -1,50 +1,50 @@
 {
- "actualizado": 1795236416810,
+ "actualizado": 1795239436238,
  "inicio": 1794548642761,
  "ejecucion": {
-  "inicio": 1795233416554,
-  "fin": 1795236416810,
-  "mensajes": 11532601,
-  "reconexiones": 3,
-  "eventos": 580,
+  "inicio": 1795236436003,
+  "fin": 1795239436238,
+  "mensajes": 13950862,
+  "reconexiones": 0,
+  "eventos": 604,
   "errores": [],
-  "nuevos": 27,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.61
+  "nuevos": 101,
+  "nuevosRentables": 8,
+  "nuevosNeta": 3.58
  },
- "total": 5392,
- "falsos": 2854,
+ "total": 5492,
+ "falsos": 2878,
  "largos": {
-  "episodios": 23091,
-  "eventos": 176,
+  "episodios": 22970,
+  "eventos": 177,
   "dias": 7
  },
  "enEspera": {
   "episodios": 126,
   "eventos": 24
  },
- "mediana": 0.439,
+ "mediana": 0.427,
  "captura": [
   {
    "s": 0.5,
-   "n": 2588,
-   "gan": 7574.06,
-   "nNeta": 792,
-   "neta": 1945.7
+   "n": 2610,
+   "gan": 7618.64,
+   "nNeta": 808,
+   "neta": 1953.44
   },
   {
    "s": 2,
-   "n": 1351,
-   "gan": 3195.93,
-   "nNeta": 358,
-   "neta": 579.91
+   "n": 1357,
+   "gan": 3202.65,
+   "nNeta": 363,
+   "neta": 581.05
   },
   {
    "s": 5,
-   "n": 812,
-   "gan": 1855.29,
-   "nNeta": 185,
-   "neta": 294.8
+   "n": 815,
+   "gan": 1859.07,
+   "nNeta": 187,
+   "neta": 295.48
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 16
   }
  ],
- "rentables": 1701,
+ "rentables": 1742,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 87,
-   "descartadas": 309,
-   "neta": 218.79,
-   "dias": 7.93,
-   "semana": 193.16
+   "ops": 90,
+   "descartadas": 314,
+   "neta": 221.33,
+   "dias": 7.9,
+   "semana": 196.15
   },
   {
    "capital": 1000,
-   "ops": 100,
-   "descartadas": 309,
-   "neta": 355.64,
-   "dias": 7.93,
-   "semana": 313.99
+   "ops": 103,
+   "descartadas": 314,
+   "neta": 358.18,
+   "dias": 7.9,
+   "semana": 317.43
   },
   {
    "capital": 2000,
-   "ops": 105,
-   "descartadas": 309,
-   "neta": 504.43,
-   "dias": 7.93,
-   "semana": 445.36
+   "ops": 108,
+   "descartadas": 314,
+   "neta": 506.97,
+   "dias": 7.9,
+   "semana": 449.29
   }
  ],
  "maxBloqueoH": 24,
@@ -114,15 +114,15 @@
   },
   {
    "lunes": "2026-11-16",
-   "dias": 5,
-   "horas": 117.5,
-   "episodios": 3227,
-   "sospechosas": 42,
-   "realistaNeta": 419.2,
+   "dias": 6,
+   "horas": 118.3,
+   "episodios": 3328,
+   "sospechosas": 45,
+   "realistaNeta": 422.78,
    "capital": {
-    "500": 131.52,
-    "1000": 196.21,
-    "2000": 274.03
+    "500": 134.06,
+    "1000": 198.75,
+    "2000": 276.57
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 71,
+  "n": 74,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5321,
-  "n": 1637,
-  "gan": 3877.42,
-  "nNeta": 419,
-  "neta": 777.87
+  "conDato": 5418,
+  "n": 1647,
+  "gan": 3891.82,
+  "nNeta": 427,
+  "neta": 781.45
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1546
+   "n": 1592
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1918
+   "n": 1958
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1108
+   "n": 1119
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 520
+   "n": 523
   },
   {
    "et": "30 s–5 min",
@@ -304,6 +304,13 @@
    "mediana": 0.106
   },
   {
+   "titulo": "FC Juárez vs. Atlas FC",
+   "n": 130,
+   "gan": 163.51,
+   "neta": 31.54,
+   "mediana": 0.111
+  },
+  {
    "titulo": "Coritiba FBC vs. Santos FC",
    "n": 110,
    "gan": 170.02,
@@ -337,20 +344,9 @@
    "gan": 85.07,
    "neta": 3.85,
    "mediana": 0.122
-  },
-  {
-   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
-   "n": 89,
-   "gan": 97.18,
-   "neta": 20.16,
-   "mediana": 0.134
   }
  ],
  "porHora": [
-  {
-   "h": 1794963600000,
-   "n": 10
-  },
   {
    "h": 1794967200000,
    "n": 8
@@ -633,128 +629,132 @@
   },
   {
    "h": 1795233600000,
-   "n": 27
+   "n": 78
+  },
+  {
+   "h": 1795237200000,
+   "n": 50
   }
  ],
  "recientes": [
   {
-   "inicio": 1795236416283,
+   "inicio": 1795239140627,
+   "titulo": "Highest temperature in Seoul (Incheon) on November 21?",
+   "dur": 0.026,
+   "gan": 3.34,
+   "neta": 3.27,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795238931928,
+   "titulo": "Júbilo Iwata vs. RB Ōmiya Ardija",
+   "dur": 0.299,
+   "gan": 2.14,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795237996477,
+   "titulo": "Test Match: New Zealand vs India",
+   "dur": 25.137,
+   "gan": 1.34,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795237821853,
+   "titulo": "Jeonbuk Hyundai Motors FC vs. FC Seoul",
+   "dur": 1.815,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795237818049,
+   "titulo": "CE Sabadell FC vs. Granada CF",
+   "dur": 1.297,
+   "gan": 4.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795237408624,
+   "titulo": "Highest temperature in Kuala Lumpur on November 21?",
+   "dur": 0.032,
+   "gan": 1.98,
+   "neta": 1.96,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795237323092,
    "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 0.098,
-   "gan": 0.62,
-   "neta": 0.29,
-   "lado": "no"
+   "dur": 1.721,
+   "gan": 1.33,
+   "neta": 0.51,
+   "lado": "si"
   },
   {
-   "inicio": 1795236392057,
-   "titulo": "Club Tijuana vs. Atlante FC",
-   "dur": 0.06,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795237323046,
+   "titulo": "FC Juárez vs. Atlas FC",
+   "dur": 0.043,
+   "gan": 1.8,
+   "neta": 0.69,
+   "lado": "si"
   },
   {
-   "inicio": 1795236382388,
-   "titulo": "Club Tijuana vs. Atlante FC",
+   "inicio": 1795237321965,
+   "titulo": "FC Juárez vs. Atlas FC",
+   "dur": 0.829,
+   "gan": 0.97,
+   "neta": 0.57,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795237321594,
+   "titulo": "FC Juárez vs. Atlas FC",
+   "dur": 0.341,
+   "gan": 16.07,
+   "neta": 10.57,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795237319135,
+   "titulo": "FC Juárez vs. Atlas FC",
    "dur": 0.023,
-   "gan": 0.96,
+   "gan": 0.68,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795236377032,
-   "titulo": "Club Tijuana vs. Atlante FC",
-   "dur": 0.079,
+   "inicio": 1795237319108,
+   "titulo": "FC Juárez vs. Atlas FC",
+   "dur": 0.005,
    "gan": 0.57,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795236376685,
-   "titulo": "Club Tijuana vs. Atlante FC",
-   "dur": 0.026,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795236313688,
-   "titulo": "Club Tijuana vs. Atlante FC",
-   "dur": 0.231,
-   "gan": 0.54,
-   "neta": 0.09,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795236313446,
-   "titulo": "Club Tijuana vs. Atlante FC",
-   "dur": 0.216,
-   "gan": 0.59,
-   "neta": 0.09,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795236312451,
-   "titulo": "Club Tijuana vs. Atlante FC",
-   "dur": 0.97,
-   "gan": 0.5,
-   "neta": 0.07,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795236268529,
-   "titulo": "Club Tijuana vs. Atlante FC",
-   "dur": 0.105,
-   "gan": 0.77,
-   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795236262766,
+   "inicio": 1795237318865,
    "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 1.635,
-   "gan": 0.85,
+   "dur": 0.028,
+   "gan": 0.76,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795236259973,
+   "inicio": 1795237318754,
    "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 1.106,
-   "gan": 0.61,
+   "dur": 0.027,
+   "gan": 1.06,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795236247014,
+   "inicio": 1795237286008,
    "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 0.06,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795236242535,
-   "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 0.113,
-   "gan": 1.17,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795236231171,
-   "titulo": "Club Tijuana vs. Atlante FC",
-   "dur": 0.98,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795236221305,
-   "titulo": "Club Tijuana vs. Atlante FC",
-   "dur": 0.057,
-   "gan": 0.6,
-   "neta": 0.16,
+   "dur": 0.54,
+   "gan": 3.13,
+   "neta": 0.81,
    "lado": "si"
   }
  ]
