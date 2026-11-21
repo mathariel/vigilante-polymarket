@@ -1,84 +1,84 @@
 {
- "actualizado": 1795269616136,
- "inicio": 1794593895997,
+ "actualizado": 1795272629744,
+ "inicio": 1794596776211,
  "ejecucion": {
-  "inicio": 1795266615803,
-  "fin": 1795269616136,
-  "mensajes": 15288183,
-  "reconexiones": 4,
-  "eventos": 665,
+  "inicio": 1795269629436,
+  "fin": 1795272629744,
+  "mensajes": 17019499,
+  "reconexiones": 3,
+  "eventos": 682,
   "errores": [],
-  "nuevos": 46,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 104,
+  "nuevosRentables": 5,
+  "nuevosNeta": 4.78
  },
- "total": 5463,
- "falsos": 3622,
+ "total": 5488,
+ "falsos": 3656,
  "largos": {
-  "episodios": 22345,
+  "episodios": 22294,
   "eventos": 180,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 81,
-  "eventos": 21
+  "episodios": 76,
+  "eventos": 19
  },
- "mediana": 0.4,
+ "mediana": 0.398,
  "captura": [
   {
    "s": 0.5,
-   "n": 2561,
-   "gan": 7692.54,
-   "nNeta": 792,
-   "neta": 1963.89
+   "n": 2566,
+   "gan": 7454.17,
+   "nNeta": 778,
+   "neta": 1791.73
   },
   {
    "s": 2,
-   "n": 1294,
-   "gan": 3191.35,
-   "nNeta": 340,
-   "neta": 567.27
+   "n": 1295,
+   "gan": 2963.01,
+   "nNeta": 333,
+   "neta": 430.25
   },
   {
    "s": 5,
-   "n": 753,
-   "gan": 1786.65,
-   "nNeta": 170,
-   "neta": 289.82
+   "n": 756,
+   "gan": 1561.69,
+   "nNeta": 167,
+   "neta": 154.38
   },
   {
    "s": 30,
-   "n": 259,
-   "gan": 557.21,
-   "nNeta": 21,
-   "neta": 14.93
+   "n": 257,
+   "gan": 554.63,
+   "nNeta": 20,
+   "neta": 14.89
   }
  ],
- "rentables": 1712,
+ "rentables": 1702,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 77,
-   "descartadas": 296,
-   "neta": 223.59,
+   "ops": 81,
+   "descartadas": 290,
+   "neta": 211.68,
    "dias": 7.79,
-   "semana": 201.01
+   "semana": 190.32
   },
   {
    "capital": 1000,
-   "ops": 90,
-   "descartadas": 296,
-   "neta": 355.39,
+   "ops": 94,
+   "descartadas": 290,
+   "neta": 330.12,
    "dias": 7.79,
-   "semana": 319.5
+   "semana": 296.81
   },
   {
    "capital": 2000,
-   "ops": 96,
-   "descartadas": 296,
-   "neta": 502.83,
+   "ops": 100,
+   "descartadas": 290,
+   "neta": 449.54,
    "dias": 7.79,
-   "semana": 452.05
+   "semana": 404.18
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 6,
-   "horas": 126.7,
-   "episodios": 3551,
-   "sospechosas": 53,
-   "realistaNeta": 429.43,
+   "horas": 127.5,
+   "episodios": 3655,
+   "sospechosas": 54,
+   "realistaNeta": 434.21,
    "capital": {
-    "500": 139.7,
-    "1000": 204.39,
-    "2000": 282.21
+    "500": 139.86,
+    "1000": 204.55,
+    "2000": 282.37
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 77,
+  "n": 78,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5386,
-  "n": 1574,
-  "gan": 3884.71,
-  "nNeta": 400,
-  "neta": 767.23
+  "conDato": 5410,
+  "n": 1571,
+  "gan": 3705.63,
+  "nNeta": 392,
+  "neta": 632.6
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1593
+   "n": 1603
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1990
+   "n": 2000
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1119
+   "n": 1121
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 494
+   "n": 499
   },
   {
    "et": "30 s–5 min",
@@ -271,7 +271,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 93
+   "n": 91
   }
  ],
  "porEvento": [
@@ -325,13 +325,6 @@
    "mediana": 0.104
   },
   {
-   "titulo": "Slovakia vs. Faroe Islands",
-   "n": 94,
-   "gan": 94.24,
-   "neta": 1.64,
-   "mediana": 0.385
-  },
-  {
    "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
    "n": 91,
    "gan": 67.62,
@@ -344,13 +337,16 @@
    "gan": 85.07,
    "neta": 3.85,
    "mediana": 0.122
+  },
+  {
+   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
+   "n": 89,
+   "gan": 97.18,
+   "neta": 20.16,
+   "mediana": 0.134
   }
  ],
  "porHora": [
-  {
-   "h": 1794996000000,
-   "n": 3
-  },
   {
    "h": 1794999600000,
    "n": 2
@@ -634,128 +630,132 @@
   {
    "h": 1795266000000,
    "n": 58
+  },
+  {
+   "h": 1795269600000,
+   "n": 104
   }
  ],
  "recientes": [
   {
-   "inicio": 1795269454781,
-   "titulo": "FC Südtirol vs. US Cremonese",
-   "dur": 8.368,
-   "gan": 1,
+   "inicio": 1795272554096,
+   "titulo": "1. FC Union Berlin vs. RB Leipzig",
+   "dur": 1.934,
+   "gan": 56.58,
+   "neta": 4.42,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795272536827,
+   "titulo": "1. FC Union Berlin vs. RB Leipzig",
+   "dur": 1.837,
+   "gan": 0.92,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795269358091,
-   "titulo": "Southampton FC vs. Derby County FC",
-   "dur": 0.044,
-   "gan": 0.71,
+   "inicio": 1795272533981,
+   "titulo": "1. FC Union Berlin vs. RB Leipzig",
+   "dur": 1.281,
+   "gan": 1.29,
+   "neta": 0.16,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795272533222,
+   "titulo": "1. FC Union Berlin vs. RB Leipzig",
+   "dur": 0.683,
+   "gan": 1.65,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795269142742,
-   "titulo": "1. FC Nürnberg vs. Eintracht Braunschweig",
-   "dur": 1.068,
-   "gan": 2.27,
-   "neta": 1.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795269051485,
-   "titulo": "Manchester City FC vs. Fulham FC",
-   "dur": 1.119,
-   "gan": 0.6,
+   "inicio": 1795272484638,
+   "titulo": "SV 07 Elversberg vs. SC Freiburg",
+   "dur": 0.08,
+   "gan": 3.1,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795269048953,
-   "titulo": "Manchester City FC vs. Fulham FC",
-   "dur": 1.706,
-   "gan": 0.6,
+   "inicio": 1795272482557,
+   "titulo": "SV 07 Elversberg vs. SC Freiburg",
+   "dur": 0.128,
+   "gan": 1.48,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795269037610,
-   "titulo": "Manchester City FC vs. Fulham FC",
-   "dur": 5.636,
-   "gan": 0.7,
+   "inicio": 1795272467814,
+   "titulo": "Borussia Mönchengladbach vs. BV Borussia 09 Dortmund",
+   "dur": 7.059,
+   "gan": 1.17,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795268792830,
+   "inicio": 1795272448434,
+   "titulo": "1. FC Union Berlin vs. RB Leipzig",
+   "dur": 5.423,
+   "gan": 1.28,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795272445922,
    "titulo": "Deportivo Alavés vs. RC Deportivo A Coruña",
-   "dur": 0.027,
-   "gan": 1.55,
+   "dur": 0.096,
+   "gan": 1.48,
+   "neta": 0.11,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795272429804,
+   "titulo": "1. FC Union Berlin vs. RB Leipzig",
+   "dur": 1.004,
+   "gan": 1.48,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795268792214,
-   "titulo": "Deportivo Alavés vs. RC Deportivo A Coruña",
-   "dur": 0.242,
-   "gan": 0.83,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795268791137,
-   "titulo": "Deportivo Alavés vs. RC Deportivo A Coruña",
-   "dur": 0.951,
-   "gan": 2.3,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795268791006,
-   "titulo": "Deportivo Alavés vs. RC Deportivo A Coruña",
-   "dur": 0.008,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795268779037,
-   "titulo": "Galatasaray SK vs. Samsunspor",
-   "dur": 0.592,
-   "gan": 0.51,
+   "inicio": 1795272370058,
+   "titulo": "1. FC Union Berlin vs. RB Leipzig",
+   "dur": 1.365,
+   "gan": 0.61,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795268724243,
-   "titulo": "Deportivo Alavés vs. RC Deportivo A Coruña",
-   "dur": 0.023,
-   "gan": 0.53,
+   "inicio": 1795272369280,
+   "titulo": "1. FC Union Berlin vs. RB Leipzig",
+   "dur": 0.117,
+   "gan": 0.55,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795268724166,
-   "titulo": "Deportivo Alavés vs. RC Deportivo A Coruña",
-   "dur": 0.039,
-   "gan": 0.68,
+   "inicio": 1795272369114,
+   "titulo": "1. FC Union Berlin vs. RB Leipzig",
+   "dur": 0.117,
+   "gan": 0.55,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795268719920,
-   "titulo": "Deportivo Alavés vs. RC Deportivo A Coruña",
-   "dur": 0.876,
-   "gan": 1.5,
+   "inicio": 1795272343118,
+   "titulo": "1. FC Union Berlin vs. RB Leipzig",
+   "dur": 0.331,
+   "gan": 0.65,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795268633572,
-   "titulo": "Deportivo Alavés vs. RC Deportivo A Coruña",
-   "dur": 5.531,
-   "gan": 0.6,
+   "inicio": 1795272339700,
+   "titulo": "1. FC Union Berlin vs. RB Leipzig",
+   "dur": 1.449,
+   "gan": 0.71,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   }
  ]
 }
