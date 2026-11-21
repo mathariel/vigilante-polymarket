@@ -1,84 +1,84 @@
 {
- "actualizado": 1795230372562,
+ "actualizado": 1795233398378,
  "inicio": 1794548642761,
  "ejecucion": {
-  "inicio": 1795227372229,
-  "fin": 1795230372562,
-  "mensajes": 11165642,
+  "inicio": 1795230398153,
+  "fin": 1795233398378,
+  "mensajes": 12014206,
   "reconexiones": 0,
-  "eventos": 591,
+  "eventos": 590,
   "errores": [],
-  "nuevos": 19,
-  "nuevosRentables": 2,
-  "nuevosNeta": 1.13
+  "nuevos": 36,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5328,
- "falsos": 2794,
+ "total": 5365,
+ "falsos": 2840,
  "largos": {
-  "episodios": 23208,
-  "eventos": 174,
+  "episodios": 23129,
+  "eventos": 175,
   "dias": 7
  },
  "enEspera": {
   "episodios": 126,
   "eventos": 24
  },
- "mediana": 0.444,
+ "mediana": 0.442,
  "captura": [
   {
    "s": 0.5,
-   "n": 2563,
-   "gan": 7502.44,
-   "nNeta": 786,
-   "neta": 1941.76
+   "n": 2579,
+   "gan": 7524.32,
+   "nNeta": 789,
+   "neta": 1943.8
   },
   {
    "s": 2,
-   "n": 1341,
-   "gan": 3145.92,
+   "n": 1348,
+   "gan": 3153.23,
    "nNeta": 357,
    "neta": 579.3
   },
   {
    "s": 5,
-   "n": 806,
-   "gan": 1827.93,
+   "n": 810,
+   "gan": 1832.27,
    "nNeta": 185,
    "neta": 294.8
   },
   {
    "s": 30,
-   "n": 289,
-   "gan": 608.57,
+   "n": 291,
+   "gan": 610.27,
    "nNeta": 25,
    "neta": 16
   }
  ],
- "rentables": 1684,
+ "rentables": 1691,
  "porCapital": [
   {
    "capital": 500,
    "ops": 87,
    "descartadas": 308,
    "neta": 218.79,
-   "dias": 7.86,
-   "semana": 194.88
+   "dias": 7.89,
+   "semana": 194.02
   },
   {
    "capital": 1000,
    "ops": 100,
    "descartadas": 308,
    "neta": 355.64,
-   "dias": 7.86,
-   "semana": 316.78
+   "dias": 7.89,
+   "semana": 315.38
   },
   {
    "capital": 2000,
    "ops": 105,
    "descartadas": 308,
    "neta": 504.43,
-   "dias": 7.86,
-   "semana": 449.32
+   "dias": 7.89,
+   "semana": 447.33
   }
  ],
  "maxBloqueoH": 24,
@@ -115,9 +115,9 @@
   {
    "lunes": "2026-11-16",
    "dias": 5,
-   "horas": 115.8,
-   "episodios": 3163,
-   "sospechosas": 41,
+   "horas": 116.7,
+   "episodios": 3200,
+   "sospechosas": 42,
    "realistaNeta": 418.59,
    "capital": {
     "500": 131.52,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 70,
+  "n": 71,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,9 +236,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5258,
-  "n": 1624,
-  "gan": 3825.23,
+  "conDato": 5294,
+  "n": 1632,
+  "gan": 3833.16,
   "nNeta": 418,
   "neta": 777.26
  },
@@ -246,22 +246,22 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1516
+   "n": 1533
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1899
+   "n": 1910
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1099
+   "n": 1104
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 517
+   "n": 519
   },
   {
    "et": "30 s–5 min",
@@ -271,7 +271,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 104
+   "n": 106
   }
  ],
  "porEvento": [
@@ -633,128 +633,128 @@
   },
   {
    "h": 1795230000000,
-   "n": 1
+   "n": 38
   }
  ],
  "recientes": [
   {
-   "inicio": 1795227317788,
-   "titulo": "Kidderminster Harriers FC vs. AFC Fylde",
-   "dur": 3054.443,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795233210302,
+   "titulo": "Escorpiones de Belén vs. AD San Carlos",
+   "dur": 0.192,
+   "gan": 0.6,
+   "neta": 0.22,
+   "lado": "si"
   },
   {
-   "inicio": 1795230327551,
+   "inicio": 1795233065778,
    "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 0.584,
-   "gan": 6.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795229970931,
-   "titulo": "AD Cali vs. Millonarios FC",
-   "dur": 0.555,
-   "gan": 1,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795229624483,
-   "titulo": "Club Puebla vs. Atlético San Luis",
-   "dur": 11.113,
-   "gan": 3.4,
-   "neta": 1.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795229575431,
-   "titulo": "Club Puebla vs. Atlético San Luis",
-   "dur": 1.162,
-   "gan": 0.61,
-   "neta": 0.12,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795229563392,
-   "titulo": "Club Puebla vs. Atlético San Luis",
-   "dur": 9.998,
-   "gan": 0.87,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795229530523,
-   "titulo": "Club Puebla vs. Atlético San Luis",
-   "dur": 0.07,
-   "gan": 0.51,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795229529727,
-   "titulo": "Club Puebla vs. Atlético San Luis",
-   "dur": 0.604,
-   "gan": 0.99,
-   "neta": 0.08,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795229521685,
-   "titulo": "Club Puebla vs. Atlético San Luis",
-   "dur": 0.097,
+   "dur": 2.74,
    "gan": 0.53,
-   "neta": 0.2,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795229521487,
-   "titulo": "Club Puebla vs. Atlético San Luis",
+   "inicio": 1795233065563,
+   "titulo": "FC Juárez vs. Atlas FC",
+   "dur": 0.06,
+   "gan": 1.06,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795233065422,
+   "titulo": "FC Juárez vs. Atlas FC",
+   "dur": 0.091,
+   "gan": 1.76,
+   "neta": 0.05,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795233065240,
+   "titulo": "FC Juárez vs. Atlas FC",
    "dur": 0.009,
-   "gan": 0.59,
-   "neta": 0.03,
+   "gan": 0.73,
+   "neta": 0.51,
    "lado": "si"
   },
   {
-   "inicio": 1795229519827,
-   "titulo": "Club Puebla vs. Atlético San Luis",
-   "dur": 0.105,
-   "gan": 1.35,
-   "neta": 0.37,
+   "inicio": 1795233065175,
+   "titulo": "FC Juárez vs. Atlas FC",
+   "dur": 0.003,
+   "gan": 1,
+   "neta": 0.35,
    "lado": "si"
   },
   {
-   "inicio": 1795229519796,
-   "titulo": "Club Puebla vs. Atlético San Luis",
-   "dur": 0.023,
-   "gan": 0.92,
+   "inicio": 1795233063835,
+   "titulo": "FC Juárez vs. Atlas FC",
+   "dur": 1.331,
+   "gan": 1.03,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795229517798,
-   "titulo": "Club Puebla vs. Atlético San Luis",
-   "dur": 0.3,
-   "gan": 43.35,
-   "neta": 35.64,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795229516037,
-   "titulo": "Club Puebla vs. Atlético San Luis",
-   "dur": 0.305,
-   "gan": 0.5,
+   "inicio": 1795233010720,
+   "titulo": "FC Juárez vs. Atlas FC",
+   "dur": 4.591,
+   "gan": 0.57,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795229515031,
-   "titulo": "Club Puebla vs. Atlético San Luis",
-   "dur": 0.789,
-   "gan": 1.2,
-   "neta": 1,
+   "inicio": 1795232992546,
+   "titulo": "FC Juárez vs. Atlas FC",
+   "dur": 0.86,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795232990918,
+   "titulo": "FC Juárez vs. Atlas FC",
+   "dur": 1.544,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795232990817,
+   "titulo": "FC Juárez vs. Atlas FC",
+   "dur": 0.029,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795232990462,
+   "titulo": "FC Juárez vs. Atlas FC",
+   "dur": 0.059,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795232989287,
+   "titulo": "FC Juárez vs. Atlas FC",
+   "dur": 0.03,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795232988769,
+   "titulo": "FC Juárez vs. Atlas FC",
+   "dur": 0.046,
+   "gan": 0.82,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795232987922,
+   "titulo": "FC Juárez vs. Atlas FC",
+   "dur": 0.689,
+   "gan": 0.62,
+   "neta": 0,
    "lado": "si"
   }
  ]
