@@ -1,22 +1,22 @@
 {
- "actualizado": 1795293747178,
- "inicio": 1794636087794,
+ "actualizado": 1795296761223,
+ "inicio": 1794642078036,
  "ejecucion": {
-  "inicio": 1795290746862,
-  "fin": 1795293747178,
-  "mensajes": 14765396,
+  "inicio": 1795293760902,
+  "fin": 1795296761223,
+  "mensajes": 14506853,
   "reconexiones": 0,
-  "eventos": 612,
+  "eventos": 602,
   "errores": [],
-  "nuevos": 90,
-  "nuevosRentables": 7,
-  "nuevosNeta": 3.99
+  "nuevos": 74,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5926,
- "falsos": 3839,
+ "total": 5998,
+ "falsos": 3874,
  "largos": {
-  "episodios": 21714,
-  "eventos": 177,
+  "episodios": 21614,
+  "eventos": 178,
   "dias": 7
  },
  "enEspera": {
@@ -27,22 +27,22 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2768,
-   "gan": 8267.24,
-   "nNeta": 833,
-   "neta": 1985.67
+   "n": 2800,
+   "gan": 8318.6,
+   "nNeta": 837,
+   "neta": 1994.66
   },
   {
    "s": 2,
-   "n": 1397,
-   "gan": 3388.07,
-   "nNeta": 352,
-   "neta": 505.35
+   "n": 1403,
+   "gan": 3395.1,
+   "nNeta": 351,
+   "neta": 505.05
   },
   {
    "s": 5,
-   "n": 786,
-   "gan": 1702.14,
+   "n": 789,
+   "gan": 1705.99,
    "nNeta": 166,
    "neta": 128.61
   },
@@ -54,31 +54,31 @@
    "neta": 13.68
   }
  ],
- "rentables": 1814,
+ "rentables": 1828,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 83,
+   "ops": 82,
    "descartadas": 306,
-   "neta": 206.03,
-   "dias": 7.49,
-   "semana": 192.58
+   "neta": 204.03,
+   "dias": 7.46,
+   "semana": 191.52
   },
   {
    "capital": 1000,
-   "ops": 98,
+   "ops": 96,
    "descartadas": 306,
-   "neta": 345.14,
-   "dias": 7.49,
-   "semana": 322.61
+   "neta": 343.14,
+   "dias": 7.46,
+   "semana": 322.1
   },
   {
    "capital": 2000,
-   "ops": 104,
+   "ops": 103,
    "descartadas": 306,
-   "neta": 509.44,
-   "dias": 7.49,
-   "semana": 476.19
+   "neta": 509.14,
+   "dias": 7.46,
+   "semana": 477.94
   }
  ],
  "maxBloqueoH": 24,
@@ -115,9 +115,9 @@
   {
    "lunes": "2026-11-16",
    "dias": 6,
-   "horas": 133.3,
-   "episodios": 4385,
-   "sospechosas": 70,
+   "horas": 134.2,
+   "episodios": 4459,
+   "sospechosas": 71,
    "realistaNeta": 550.33,
    "capital": {
     "500": 163.53,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 92,
+  "n": 93,
   "top": [
    {
     "inicio": 1795274262924,
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5834,
-  "n": 1689,
-  "gan": 4172.35,
-  "nNeta": 413,
-  "neta": 706.76
+  "conDato": 5905,
+  "n": 1703,
+  "gan": 4187.03,
+  "nNeta": 412,
+  "neta": 706.46
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1698
+   "n": 1709
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2184
+   "n": 2224
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1249
+   "n": 1266
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 520
+   "n": 523
   },
   {
    "et": "30 s–5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795028400000,
-   "n": 34
-  },
   {
    "h": 1795032000000,
    "n": 6
@@ -633,127 +629,131 @@
   },
   {
    "h": 1795291200000,
-   "n": 80
+   "n": 104
+  },
+  {
+   "h": 1795294800000,
+   "n": 50
   }
  ],
  "recientes": [
   {
-   "inicio": 1795293600913,
+   "inicio": 1795296732365,
    "titulo": "Real Madrid CF vs. RC Celta de Vigo",
-   "dur": 0.736,
-   "gan": 1.49,
+   "dur": 2.043,
+   "gan": 0.97,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795293571884,
+   "inicio": 1795296732068,
+   "titulo": "Real Madrid CF vs. RC Celta de Vigo",
+   "dur": 0.231,
+   "gan": 0.97,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795296728932,
+   "titulo": "Real Madrid CF vs. RC Celta de Vigo",
+   "dur": 0.904,
+   "gan": 0.97,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795296710736,
+   "titulo": "Real Madrid CF vs. RC Celta de Vigo",
+   "dur": 1.911,
+   "gan": 1.17,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795296706172,
+   "titulo": "Real Madrid CF vs. RC Celta de Vigo",
+   "dur": 1.145,
+   "gan": 3.1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795296696844,
    "titulo": "AS Monaco FC vs. AJ Auxerre",
-   "dur": 12.222,
-   "gan": 0.66,
+   "dur": 1.503,
+   "gan": 0.54,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795293443103,
-   "titulo": "New England Revolution vs. Philadelphia Union",
-   "dur": 10.934,
+   "inicio": 1795296687945,
+   "titulo": "AS Monaco FC vs. AJ Auxerre",
+   "dur": 8.863,
    "gan": 0.52,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795293436883,
-   "titulo": "New England Revolution vs. Philadelphia Union",
-   "dur": 6.044,
-   "gan": 2.25,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795293431971,
-   "titulo": "New England Revolution vs. Philadelphia Union",
-   "dur": 1.356,
-   "gan": 2.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795293225882,
-   "titulo": "AS Monaco FC vs. AJ Auxerre",
-   "dur": 1.356,
-   "gan": 0.79,
+   "inicio": 1795296681131,
+   "titulo": "RC Strasbourg Alsace vs. Stade Brestois 29",
+   "dur": 1.227,
+   "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795293174348,
+   "inicio": 1795296672514,
+   "titulo": "Lille OSC vs. Olympique Lyonnais",
+   "dur": 0.395,
+   "gan": 4.72,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795296658437,
    "titulo": "AS Monaco FC vs. AJ Auxerre",
-   "dur": 1.871,
+   "dur": 0.479,
+   "gan": 0.78,
+   "neta": 0.57,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795296648551,
+   "titulo": "CA Paranaense vs. Clube do Remo",
+   "dur": 0.245,
+   "gan": 5.18,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795296579272,
+   "titulo": "Motherwell FC vs. Rangers FC",
+   "dur": 0.331,
+   "gan": 0.74,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795296553444,
+   "titulo": "Racing Club de Lens vs. Toulouse FC",
+   "dur": 0.116,
+   "gan": 0.78,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795296413585,
+   "titulo": "Racing Club de Lens vs. Toulouse FC",
+   "dur": 0.229,
    "gan": 1.65,
-   "neta": 0.04,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795293173988,
-   "titulo": "AS Monaco FC vs. AJ Auxerre",
-   "dur": 0.037,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795293173894,
-   "titulo": "AS Monaco FC vs. AJ Auxerre",
-   "dur": 0.067,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795293023118,
-   "titulo": "Lille OSC vs. Olympique Lyonnais",
-   "dur": 4.146,
-   "gan": 0.77,
-   "neta": 0,
+   "neta": 0.36,
    "lado": "si"
   },
   {
-   "inicio": 1795293022788,
-   "titulo": "Lille OSC vs. Olympique Lyonnais",
-   "dur": 0.226,
-   "gan": 1.97,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795293022645,
-   "titulo": "Lille OSC vs. Olympique Lyonnais",
-   "dur": 0.137,
-   "gan": 1.13,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795293020671,
-   "titulo": "Lille OSC vs. Olympique Lyonnais",
-   "dur": 1.961,
-   "gan": 0.81,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795293020106,
-   "titulo": "Lille OSC vs. Olympique Lyonnais",
-   "dur": 0.307,
-   "gan": 0.81,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795293019824,
-   "titulo": "Lille OSC vs. Olympique Lyonnais",
-   "dur": 0.135,
-   "gan": 0.81,
+   "inicio": 1795296413014,
+   "titulo": "Racing Club de Lens vs. Toulouse FC",
+   "dur": 0.114,
+   "gan": 0.55,
    "neta": 0,
    "lado": "si"
   }
