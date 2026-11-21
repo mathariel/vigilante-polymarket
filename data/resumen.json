@@ -1,84 +1,84 @@
 {
- "actualizado": 1795263583269,
+ "actualizado": 1795266599730,
  "inicio": 1794590750418,
  "ejecucion": {
-  "inicio": 1795260582939,
-  "fin": 1795263583269,
-  "mensajes": 13008944,
-  "reconexiones": 7,
+  "inicio": 1795263599393,
+  "fin": 1795266599730,
+  "mensajes": 14493862,
+  "reconexiones": 0,
   "eventos": 640,
   "errores": [],
-  "nuevos": 10,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.25
+  "nuevos": 38,
+  "nuevosRentables": 2,
+  "nuevosNeta": 0.86
  },
- "total": 5425,
- "falsos": 3599,
+ "total": 5457,
+ "falsos": 3607,
  "largos": {
-  "episodios": 22363,
+  "episodios": 22329,
   "eventos": 180,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 114,
+  "episodios": 112,
   "eventos": 22
  },
- "mediana": 0.402,
+ "mediana": 0.4,
  "captura": [
   {
    "s": 0.5,
-   "n": 2549,
-   "gan": 7627.24,
-   "nNeta": 790,
-   "neta": 1955.67
+   "n": 2558,
+   "gan": 7662.18,
+   "nNeta": 794,
+   "neta": 1957.62
   },
   {
    "s": 2,
-   "n": 1300,
-   "gan": 3184.66,
-   "nNeta": 343,
-   "neta": 569.92
+   "n": 1301,
+   "gan": 3198.97,
+   "nNeta": 344,
+   "neta": 570.38
   },
   {
    "s": 5,
-   "n": 763,
-   "gan": 1797.97,
+   "n": 762,
+   "gan": 1797.2,
    "nNeta": 171,
    "neta": 290.36
   },
   {
    "s": 30,
-   "n": 269,
-   "gan": 572.33,
+   "n": 267,
+   "gan": 569.32,
    "nNeta": 22,
    "neta": 15.47
   }
  ],
- "rentables": 1711,
+ "rentables": 1718,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 80,
-   "descartadas": 298,
-   "neta": 221.05,
+   "ops": 81,
+   "descartadas": 299,
+   "neta": 221.51,
    "dias": 7.79,
-   "semana": 198.7
+   "semana": 199.15
   },
   {
    "capital": 1000,
-   "ops": 93,
-   "descartadas": 298,
-   "neta": 352.85,
+   "ops": 94,
+   "descartadas": 299,
+   "neta": 353.31,
    "dias": 7.79,
-   "semana": 317.17
+   "semana": 317.65
   },
   {
    "capital": 2000,
-   "ops": 99,
-   "descartadas": 298,
-   "neta": 500.29,
+   "ops": 100,
+   "descartadas": 299,
+   "neta": 500.75,
    "dias": 7.79,
-   "semana": 449.71
+   "semana": 450.21
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 6,
-   "horas": 125,
-   "episodios": 3467,
+   "horas": 125.8,
+   "episodios": 3505,
    "sospechosas": 52,
-   "realistaNeta": 428.57,
+   "realistaNeta": 429.43,
    "capital": {
-    "500": 139.24,
-    "1000": 203.93,
-    "2000": 281.75
+    "500": 139.7,
+    "1000": 204.39,
+    "2000": 282.21
    },
    "cumple": true
   }
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5349,
-  "n": 1579,
-  "gan": 3868.68,
-  "nNeta": 402,
-  "neta": 769.48
+  "conDato": 5381,
+  "n": 1580,
+  "gan": 3885.58,
+  "nNeta": 404,
+  "neta": 770.34
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1581
+   "n": 1589
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1962
+   "n": 1983
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1111
+   "n": 1115
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 494
+   "n": 495
   },
   {
    "et": "30 s–5 min",
@@ -271,7 +271,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 97
+   "n": 95
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794992400000,
-   "n": 2
-  },
   {
    "h": 1794996000000,
    "n": 3
@@ -633,126 +629,130 @@
   },
   {
    "h": 1795262400000,
-   "n": 4
+   "n": 30
+  },
+  {
+   "h": 1795266000000,
+   "n": 12
   }
  ],
  "recientes": [
   {
-   "inicio": 1795263340914,
-   "titulo": "1. FC Nürnberg vs. Eintracht Braunschweig",
-   "dur": 0.377,
-   "gan": 1.37,
-   "neta": 0.12,
+   "inicio": 1795266551492,
+   "titulo": "Deportivo Alavés vs. RC Deportivo A Coruña",
+   "dur": 0.164,
+   "gan": 0.59,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795263066537,
-   "titulo": "VfL Wolfsburg vs. Holstein Kiel",
-   "dur": 0.323,
+   "inicio": 1795266512487,
+   "titulo": "Deportivo Alavés vs. RC Deportivo A Coruña",
+   "dur": 2.11,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795266423297,
+   "titulo": "Deportivo Alavés vs. RC Deportivo A Coruña",
+   "dur": 0.624,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795266411691,
+   "titulo": "Deportivo Alavés vs. RC Deportivo A Coruña",
+   "dur": 7.632,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795266392930,
+   "titulo": "Mjallby AIF vs. Malmo FF",
+   "dur": 0.483,
+   "gan": 0.64,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795266347863,
+   "titulo": "Galatasaray SK vs. Samsunspor",
+   "dur": 4.56,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795266347641,
+   "titulo": "Galatasaray SK vs. Samsunspor",
+   "dur": 0.198,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795266347557,
+   "titulo": "Galatasaray SK vs. Samsunspor",
+   "dur": 0.018,
    "gan": 0.62,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795262667615,
-   "titulo": "1. FC Nürnberg vs. Eintracht Braunschweig",
-   "dur": 0.942,
-   "gan": 1.56,
+   "inicio": 1795266324206,
+   "titulo": "Mjallby AIF vs. Malmo FF",
+   "dur": 1.103,
+   "gan": 2.26,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795262511532,
-   "titulo": "FK Akron Tolyatti vs. FK Fakel Voronezh",
-   "dur": 17.686,
-   "gan": 1.98,
+   "inicio": 1795266146092,
+   "titulo": "Manchester City FC vs. Fulham FC",
+   "dur": 0.188,
+   "gan": 0.6,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795262066778,
-   "titulo": "FK Akron Tolyatti vs. FK Fakel Voronezh",
-   "dur": 374.808,
-   "gan": 1.43,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795261185435,
-   "titulo": "FK Akron Tolyatti vs. FK Fakel Voronezh",
-   "dur": 552.182,
-   "gan": 1.43,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795261566956,
-   "titulo": "Gençlerbirliği SK vs. Gaziantep FK",
-   "dur": 0.001,
-   "gan": 0.51,
-   "neta": 0.2,
    "lado": "si"
   },
   {
-   "inicio": 1795261566549,
-   "titulo": "Gençlerbirliği SK vs. Gaziantep FK",
-   "dur": 0.101,
-   "gan": 0.53,
-   "neta": 0.25,
+   "inicio": 1795266111940,
+   "titulo": "Deportivo Alavés vs. RC Deportivo A Coruña",
+   "dur": 0.599,
+   "gan": 7.4,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795261563401,
-   "titulo": "Gençlerbirliği SK vs. Gaziantep FK",
-   "dur": 2.637,
-   "gan": 0.53,
-   "neta": 0.25,
+   "inicio": 1795266018476,
+   "titulo": "Liverpool LFC vs. Chelsea FC",
+   "dur": 0.004,
+   "gan": 0.5,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795261562112,
-   "titulo": "Gençlerbirliği SK vs. Gaziantep FK",
-   "dur": 0.972,
-   "gan": 0.56,
-   "neta": 0.35,
+   "inicio": 1795265721702,
+   "titulo": "Manchester City FC vs. Fulham FC",
+   "dur": 1.702,
+   "gan": 3.81,
+   "neta": 0.4,
    "lado": "si"
   },
   {
-   "inicio": 1795260027269,
-   "titulo": "Norwich City FC vs. Cardiff City FC",
-   "dur": 2.264,
-   "gan": 48.56,
+   "inicio": 1795265720808,
+   "titulo": "Manchester City FC vs. Fulham FC",
+   "dur": 0.213,
+   "gan": 0.58,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795259387254,
-   "titulo": "Deltras FC vs. Persela Lamongan",
-   "dur": 1.846,
-   "gan": 1,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795257562004,
-   "titulo": "Stade Lavallois Mayenne FC vs. Montpellier HSC",
-   "dur": 1110.441,
-   "gan": 0.82,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795255038699,
-   "titulo": "Stade Lavallois Mayenne FC vs. Montpellier HSC",
-   "dur": 2506.088,
-   "gan": 1,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795256896425,
-   "titulo": "Persik Kediri vs. Psim Yogyakarta",
-   "dur": 2.094,
+   "inicio": 1795265720509,
+   "titulo": "Manchester City FC vs. Fulham FC",
+   "dur": 0.171,
    "gan": 0.55,
    "neta": 0,
    "lado": "si"

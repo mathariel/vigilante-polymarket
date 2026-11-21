@@ -156,15 +156,15 @@
   }
  },
  "2026-11-21": {
-  "minutos": 400,
-  "episodios": 189,
+  "minutos": 450,
+  "episodios": 227,
   "sospechosas": 9,
-  "realistaN": 12,
-  "realistaNeta": 6.85,
+  "realistaN": 14,
+  "realistaNeta": 7.71,
   "capital": {
-   "500": 6.24,
-   "1000": 6.24,
-   "2000": 6.24
+   "500": 6.7,
+   "1000": 6.7,
+   "2000": 6.7
   }
  }
 }
