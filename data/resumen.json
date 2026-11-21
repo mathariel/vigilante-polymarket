@@ -1,84 +1,84 @@
 {
- "actualizado": 1795251512242,
- "inicio": 1794578703511,
+ "actualizado": 1795254525164,
+ "inicio": 1794581714963,
  "ejecucion": {
-  "inicio": 1795248511892,
-  "fin": 1795251512242,
-  "mensajes": 12965973,
+  "inicio": 1795251524858,
+  "fin": 1795254525164,
+  "mensajes": 11533757,
   "reconexiones": 0,
-  "eventos": 620,
+  "eventos": 605,
   "errores": [],
-  "nuevos": 7,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 6,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.44
  },
- "total": 5426,
- "falsos": 3372,
+ "total": 5369,
+ "falsos": 3584,
  "largos": {
-  "episodios": 22571,
-  "eventos": 178,
+  "episodios": 22420,
+  "eventos": 179,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 115,
-  "eventos": 23
+  "episodios": 114,
+  "eventos": 22
  },
  "mediana": 0.403,
  "captura": [
   {
    "s": 0.5,
-   "n": 2549,
-   "gan": 7556.3,
-   "nNeta": 780,
-   "neta": 1941.89
+   "n": 2526,
+   "gan": 7537.59,
+   "nNeta": 775,
+   "neta": 1940.74
   },
   {
    "s": 2,
-   "n": 1303,
-   "gan": 3131.59,
-   "nNeta": 341,
-   "neta": 567.02
+   "n": 1289,
+   "gan": 3118.79,
+   "nNeta": 338,
+   "neta": 565.92
   },
   {
    "s": 5,
-   "n": 769,
-   "gan": 1798.13,
-   "nNeta": 171,
-   "neta": 288.3
+   "n": 757,
+   "gan": 1787.14,
+   "nNeta": 170,
+   "neta": 288.01
   },
   {
    "s": 30,
-   "n": 270,
-   "gan": 572.31,
+   "n": 265,
+   "gan": 567.65,
    "nNeta": 22,
    "neta": 15.47
   }
  ],
- "rentables": 1691,
+ "rentables": 1669,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 78,
-   "descartadas": 298,
-   "neta": 212.15,
-   "dias": 7.73,
-   "semana": 192.21
+   "ops": 76,
+   "descartadas": 296,
+   "neta": 216.67,
+   "dias": 7.68,
+   "semana": 197.42
   },
   {
    "capital": 1000,
-   "ops": 91,
-   "descartadas": 298,
-   "neta": 345.92,
-   "dias": 7.73,
-   "semana": 313.39
+   "ops": 89,
+   "descartadas": 296,
+   "neta": 348.47,
+   "dias": 7.68,
+   "semana": 317.51
   },
   {
    "capital": 2000,
-   "ops": 96,
-   "descartadas": 298,
-   "neta": 494.71,
-   "dias": 7.73,
-   "semana": 448.2
+   "ops": 95,
+   "descartadas": 296,
+   "neta": 495.91,
+   "dias": 7.68,
+   "semana": 451.85
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 6,
-   "horas": 121.7,
-   "episodios": 3404,
+   "horas": 122.5,
+   "episodios": 3410,
    "sospechosas": 48,
-   "realistaNeta": 423.48,
+   "realistaNeta": 423.92,
    "capital": {
-    "500": 134.42,
-    "1000": 199.11,
-    "2000": 276.93
+    "500": 134.86,
+    "1000": 199.55,
+    "2000": 277.37
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 76,
+  "n": 72,
   "top": [
    {
     "inicio": 1794738069985,
@@ -203,16 +203,6 @@
     "ret": 27.8
    },
    {
-    "inicio": 1794588570882,
-    "titulo": "Highest temperature in Panama City on November 13?",
-    "lado": "si",
-    "dur": 0.032,
-    "gan": 19.81,
-    "neta": 18.58,
-    "costo": 57.39,
-    "ret": 34.5
-   },
-   {
     "inicio": 1795054293964,
     "titulo": "Grêmio FBPA vs. EC Bahia",
     "lado": "si",
@@ -231,47 +221,57 @@
     "neta": 11.53,
     "costo": 59.71,
     "ret": 22.6
+   },
+   {
+    "inicio": 1794840220357,
+    "titulo": "Sudan vs. Senegal",
+    "lado": "si",
+    "dur": 3.331,
+    "gan": 13.35,
+    "neta": 10.26,
+    "costo": 116.42,
+    "ret": 11.5
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5350,
-  "n": 1580,
-  "gan": 3812.85,
-  "nNeta": 399,
-  "neta": 765.58
+  "conDato": 5297,
+  "n": 1566,
+  "gan": 3799.88,
+  "nNeta": 396,
+  "neta": 764.83
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1580
+   "n": 1559
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1964
+   "n": 1944
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1105
+   "n": 1101
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 499
+   "n": 492
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 173
+   "n": 172
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 97
+   "n": 93
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794978000000,
-   "n": 2
-  },
   {
    "h": 1794981600000,
    "n": 1
@@ -634,9 +630,61 @@
   {
    "h": 1795248000000,
    "n": 7
+  },
+  {
+   "h": 1795251600000,
+   "n": 6
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795252905886,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 1.221,
+   "gan": 0.64,
+   "neta": 0.51,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795252904632,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 0.077,
+   "gan": 18.19,
+   "neta": 17.36,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795252731554,
+   "titulo": "Incheon United FC vs. Ulsan HD FC",
+   "dur": 0.115,
+   "gan": 0.66,
+   "neta": 0.4,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795252731433,
+   "titulo": "Incheon United FC vs. Ulsan HD FC",
+   "dur": 0.12,
+   "gan": 32.98,
+   "neta": 27.86,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795252018321,
+   "titulo": "Gangwon FC vs. Daejeon Hana Citizen FC",
+   "dur": 0.16,
+   "gan": 1,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795251948459,
+   "titulo": "Gangwon FC vs. Daejeon Hana Citizen FC",
+   "dur": 0.089,
+   "gan": 1.61,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795251402275,
    "titulo": "Gangwon FC vs. Daejeon Hana Citizen FC",
@@ -707,54 +755,6 @@
    "dur": 0.047,
    "gan": 0.81,
    "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795247369436,
-   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
-   "dur": 0.196,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795247369078,
-   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
-   "dur": 0.289,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795247278736,
-   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
-   "dur": 0.231,
-   "gan": 1.21,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795247278215,
-   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
-   "dur": 0.356,
-   "gan": 1.26,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795247271337,
-   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
-   "dur": 0.031,
-   "gan": 0.66,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795247271080,
-   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
-   "dur": 0.044,
-   "gan": 0.66,
-   "neta": 0,
    "lado": "si"
   }
  ]
