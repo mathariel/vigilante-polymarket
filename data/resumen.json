@@ -1,84 +1,84 @@
 {
- "actualizado": 1795242449221,
- "inicio": 1794551659507,
+ "actualizado": 1795245470552,
+ "inicio": 1794554538935,
  "ejecucion": {
-  "inicio": 1795239448888,
-  "fin": 1795242449221,
-  "mensajes": 15328206,
+  "inicio": 1795242470312,
+  "fin": 1795245470552,
+  "mensajes": 15150493,
   "reconexiones": 0,
-  "eventos": 617,
+  "eventos": 602,
   "errores": [],
-  "nuevos": 7,
+  "nuevos": 41,
   "nuevosRentables": 1,
-  "nuevosNeta": 0.06
+  "nuevosNeta": 0.36
  },
- "total": 5499,
- "falsos": 2891,
+ "total": 5448,
+ "falsos": 3303,
  "largos": {
-  "episodios": 22954,
+  "episodios": 22609,
   "eventos": 178,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 125,
-  "eventos": 24
+  "episodios": 115,
+  "eventos": 23
  },
- "mediana": 0.427,
+ "mediana": 0.414,
  "captura": [
   {
    "s": 0.5,
-   "n": 2614,
-   "gan": 7638.69,
-   "nNeta": 811,
-   "neta": 1961.27
+   "n": 2573,
+   "gan": 7592.46,
+   "nNeta": 784,
+   "neta": 1950.43
   },
   {
    "s": 2,
-   "n": 1358,
-   "gan": 3203.78,
-   "nNeta": 364,
-   "neta": 581.11
+   "n": 1325,
+   "gan": 3166.31,
+   "nNeta": 344,
+   "neta": 574.31
   },
   {
    "s": 5,
-   "n": 815,
-   "gan": 1859.07,
-   "nNeta": 187,
-   "neta": 295.48
+   "n": 791,
+   "gan": 1830.57,
+   "nNeta": 174,
+   "neta": 292.52
   },
   {
    "s": 30,
-   "n": 292,
-   "gan": 611.02,
-   "nNeta": 25,
-   "neta": 16
+   "n": 284,
+   "gan": 594.82,
+   "nNeta": 23,
+   "neta": 15.84
   }
  ],
- "rentables": 1746,
+ "rentables": 1697,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 90,
-   "descartadas": 315,
-   "neta": 221.33,
-   "dias": 7.93,
-   "semana": 195.28
+   "ops": 80,
+   "descartadas": 298,
+   "neta": 222.4,
+   "dias": 7.74,
+   "semana": 201.05
   },
   {
    "capital": 1000,
-   "ops": 103,
-   "descartadas": 315,
-   "neta": 358.18,
-   "dias": 7.93,
-   "semana": 316.03
+   "ops": 94,
+   "descartadas": 298,
+   "neta": 353.14,
+   "dias": 7.74,
+   "semana": 319.23
   },
   {
    "capital": 2000,
-   "ops": 108,
-   "descartadas": 315,
-   "neta": 506.97,
-   "dias": 7.93,
-   "semana": 447.32
+   "ops": 99,
+   "descartadas": 298,
+   "neta": 501.93,
+   "dias": 7.74,
+   "semana": 453.74
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 6,
-   "horas": 119.2,
-   "episodios": 3335,
-   "sospechosas": 45,
-   "realistaNeta": 422.84,
+   "horas": 120,
+   "episodios": 3376,
+   "sospechosas": 48,
+   "realistaNeta": 423.2,
    "capital": {
-    "500": 134.06,
-    "1000": 198.75,
-    "2000": 276.57
+    "500": 134.42,
+    "1000": 199.11,
+    "2000": 276.93
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 74,
+  "n": 76,
   "top": [
    {
     "inicio": 1794738069985,
@@ -193,16 +193,6 @@
     "ret": 49.6
    },
    {
-    "inicio": 1794559847719,
-    "titulo": "Highest temperature in Tel Aviv on November 13?",
-    "lado": "si",
-    "dur": 0.028,
-    "gan": 20.77,
-    "neta": 19.22,
-    "costo": 78.47,
-    "ret": 26.5
-   },
-   {
     "inicio": 1795013651090,
     "titulo": "Highest temperature in Seattle on November 18?",
     "lado": "si",
@@ -231,47 +221,57 @@
     "neta": 15.48,
     "costo": 81.79,
     "ret": 22.3
+   },
+   {
+    "inicio": 1795054292641,
+    "titulo": "Grêmio FBPA vs. EC Bahia",
+    "lado": "si",
+    "dur": 0.514,
+    "gan": 13.51,
+    "neta": 11.53,
+    "costo": 59.71,
+    "ret": 22.6
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5425,
-  "n": 1648,
-  "gan": 3892.95,
-  "nNeta": 428,
-  "neta": 781.51
+  "conDato": 5372,
+  "n": 1606,
+  "gan": 3850.45,
+  "nNeta": 402,
+  "neta": 772.87
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1592
+   "n": 1577
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1963
+   "n": 1965
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1121
+   "n": 1107
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 523
+   "n": 507
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 186
+   "n": 179
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 106
+   "n": 105
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794970800000,
-   "n": 11
-  },
   {
    "h": 1794974400000,
    "n": 2
@@ -633,129 +629,133 @@
   },
   {
    "h": 1795240800000,
-   "n": 5
+   "n": 37
+  },
+  {
+   "h": 1795244400000,
+   "n": 9
   }
  ],
  "recientes": [
   {
-   "inicio": 1795241874283,
-   "titulo": "Júbilo Iwata vs. RB Ōmiya Ardija",
-   "dur": 0.374,
-   "gan": 0.5,
-   "neta": 0.31,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795241874089,
-   "titulo": "Júbilo Iwata vs. RB Ōmiya Ardija",
-   "dur": 0.15,
-   "gan": 0.5,
-   "neta": 0.31,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795241710609,
-   "titulo": "Jeonbuk Hyundai Motors FC vs. FC Seoul",
-   "dur": 0.512,
-   "gan": 1.04,
+   "inicio": 1795244944600,
+   "titulo": "Cerezo Ōsaka vs. FC Tōkyō",
+   "dur": 0.669,
+   "gan": 0.67,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795241710285,
-   "titulo": "Jeonbuk Hyundai Motors FC vs. FC Seoul",
-   "dur": 0.194,
-   "gan": 1.04,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795241605370,
-   "titulo": "Jeonbuk Hyundai Motors FC vs. FC Seoul",
-   "dur": 0.861,
-   "gan": 3.15,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795240170299,
-   "titulo": "Auckland FC vs. Melbourne Victory FC",
-   "dur": 2.357,
-   "gan": 1.13,
-   "neta": 0.06,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795239489253,
-   "titulo": "Jeonbuk Hyundai Motors FC vs. FC Seoul",
-   "dur": 1.306,
-   "gan": 0.54,
-   "neta": 0.19,
    "lado": "no"
   },
   {
-   "inicio": 1795239140627,
-   "titulo": "Highest temperature in Seoul (Incheon) on November 21?",
-   "dur": 0.026,
-   "gan": 3.34,
-   "neta": 3.27,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795238931928,
-   "titulo": "Júbilo Iwata vs. RB Ōmiya Ardija",
-   "dur": 0.299,
-   "gan": 2.14,
+   "inicio": 1795244532512,
+   "titulo": "Kyōto Sanga FC vs. Urawa Red Diamonds",
+   "dur": 0.02,
+   "gan": 0.52,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795237996477,
-   "titulo": "Test Match: New Zealand vs India",
-   "dur": 25.137,
-   "gan": 1.34,
+   "inicio": 1795244531227,
+   "titulo": "Kyōto Sanga FC vs. Urawa Red Diamonds",
+   "dur": 0.771,
+   "gan": 0.52,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795237821853,
-   "titulo": "Jeonbuk Hyundai Motors FC vs. FC Seoul",
-   "dur": 1.815,
+   "inicio": 1795244531023,
+   "titulo": "Kyōto Sanga FC vs. Urawa Red Diamonds",
+   "dur": 0.096,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795244526564,
+   "titulo": "Kyōto Sanga FC vs. Urawa Red Diamonds",
+   "dur": 1.955,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795244483612,
+   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "dur": 0.021,
    "gan": 0.51,
-   "neta": 0,
+   "neta": 0.33,
    "lado": "si"
   },
   {
-   "inicio": 1795237818049,
-   "titulo": "CE Sabadell FC vs. Granada CF",
-   "dur": 1.297,
-   "gan": 4.66,
+   "inicio": 1795244454015,
+   "titulo": "Kyōto Sanga FC vs. Urawa Red Diamonds",
+   "dur": 0.195,
+   "gan": 0.73,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795237408624,
-   "titulo": "Highest temperature in Kuala Lumpur on November 21?",
-   "dur": 0.032,
-   "gan": 1.98,
-   "neta": 1.96,
+   "inicio": 1795244450696,
+   "titulo": "Kyōto Sanga FC vs. Urawa Red Diamonds",
+   "dur": 0.124,
+   "gan": 1,
+   "neta": 0.05,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795244449079,
+   "titulo": "Kyōto Sanga FC vs. Urawa Red Diamonds",
+   "dur": 0.353,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795244369236,
+   "titulo": "Sagan Tosu vs. Vegalta Sendai",
+   "dur": 0.285,
+   "gan": 8.06,
+   "neta": 6.89,
    "lado": "si"
   },
   {
-   "inicio": 1795237323092,
-   "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 1.721,
-   "gan": 1.33,
-   "neta": 0.51,
+   "inicio": 1795244353927,
+   "titulo": "Kyōto Sanga FC vs. Urawa Red Diamonds",
+   "dur": 0.147,
+   "gan": 1.52,
+   "neta": 0.39,
    "lado": "si"
   },
   {
-   "inicio": 1795237323046,
-   "titulo": "FC Juárez vs. Atlas FC",
-   "dur": 0.043,
-   "gan": 1.8,
-   "neta": 0.69,
+   "inicio": 1795244353872,
+   "titulo": "Kyōto Sanga FC vs. Urawa Red Diamonds",
+   "dur": 0.054,
+   "gan": 0.54,
+   "neta": 0.03,
    "lado": "si"
+  },
+  {
+   "inicio": 1795244318287,
+   "titulo": "FC Machida Zelvia vs. V-Varen Nagasaki",
+   "dur": 0.334,
+   "gan": 1,
+   "neta": 0.85,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795244127769,
+   "titulo": "Pohang Steelers FC vs. FC Anyang",
+   "dur": 0.721,
+   "gan": 1.42,
+   "neta": 1.24,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795244127477,
+   "titulo": "Pohang Steelers FC vs. FC Anyang",
+   "dur": 0.041,
+   "gan": 1.47,
+   "neta": 0.88,
+   "lado": "no"
   }
  ]
 }
