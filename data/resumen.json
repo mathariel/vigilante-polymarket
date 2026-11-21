@@ -1,21 +1,21 @@
 {
- "actualizado": 1795245470552,
- "inicio": 1794554538935,
+ "actualizado": 1795248496157,
+ "inicio": 1794575755801,
  "ejecucion": {
-  "inicio": 1795242470312,
-  "fin": 1795245470552,
-  "mensajes": 15150493,
+  "inicio": 1795245495922,
+  "fin": 1795248496157,
+  "mensajes": 13508209,
   "reconexiones": 0,
-  "eventos": 602,
+  "eventos": 613,
   "errores": [],
-  "nuevos": 41,
+  "nuevos": 21,
   "nuevosRentables": 1,
-  "nuevosNeta": 0.36
+  "nuevosNeta": 0.28
  },
- "total": 5448,
- "falsos": 3303,
+ "total": 5450,
+ "falsos": 3348,
  "largos": {
-  "episodios": 22609,
+  "episodios": 22567,
   "eventos": 178,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 115,
   "eventos": 23
  },
- "mediana": 0.414,
+ "mediana": 0.403,
  "captura": [
   {
    "s": 0.5,
-   "n": 2573,
-   "gan": 7592.46,
-   "nNeta": 784,
-   "neta": 1950.43
+   "n": 2562,
+   "gan": 7590.89,
+   "nNeta": 786,
+   "neta": 1950.9
   },
   {
    "s": 2,
-   "n": 1325,
-   "gan": 3166.31,
-   "nNeta": 344,
-   "neta": 574.31
+   "n": 1311,
+   "gan": 3159.35,
+   "nNeta": 345,
+   "neta": 574.59
   },
   {
    "s": 5,
-   "n": 791,
-   "gan": 1830.57,
+   "n": 776,
+   "gan": 1816.53,
    "nNeta": 174,
    "neta": 292.52
   },
   {
    "s": 30,
-   "n": 284,
-   "gan": 594.82,
+   "n": 274,
+   "gan": 583.72,
    "nNeta": 23,
    "neta": 15.84
   }
  ],
- "rentables": 1697,
+ "rentables": 1700,
  "porCapital": [
   {
    "capital": 500,
    "ops": 80,
-   "descartadas": 298,
+   "descartadas": 299,
    "neta": 222.4,
-   "dias": 7.74,
-   "semana": 201.05
+   "dias": 7.75,
+   "semana": 200.9
   },
   {
    "capital": 1000,
    "ops": 94,
-   "descartadas": 298,
+   "descartadas": 299,
    "neta": 353.14,
-   "dias": 7.74,
-   "semana": 319.23
+   "dias": 7.75,
+   "semana": 318.99
   },
   {
    "capital": 2000,
    "ops": 99,
-   "descartadas": 298,
+   "descartadas": 299,
    "neta": 501.93,
-   "dias": 7.74,
-   "semana": 453.74
+   "dias": 7.75,
+   "semana": 453.4
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 6,
-   "horas": 120,
-   "episodios": 3376,
+   "horas": 120.8,
+   "episodios": 3397,
    "sospechosas": 48,
-   "realistaNeta": 423.2,
+   "realistaNeta": 423.48,
    "capital": {
     "500": 134.42,
     "1000": 199.11,
@@ -236,22 +236,22 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5372,
-  "n": 1606,
-  "gan": 3850.45,
-  "nNeta": 402,
-  "neta": 772.87
+  "conDato": 5374,
+  "n": 1590,
+  "gan": 3842.43,
+  "nNeta": 403,
+  "neta": 773.15
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1577
+   "n": 1585
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1965
+   "n": 1974
   },
   {
    "et": "1–5 s",
@@ -261,17 +261,17 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 507
+   "n": 502
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 179
+   "n": 173
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 105
+   "n": 101
   }
  ],
  "porEvento": [
@@ -633,128 +633,128 @@
   },
   {
    "h": 1795244400000,
-   "n": 9
+   "n": 30
   }
  ],
  "recientes": [
   {
-   "inicio": 1795244944600,
-   "titulo": "Cerezo Ōsaka vs. FC Tōkyō",
-   "dur": 0.669,
-   "gan": 0.67,
+   "inicio": 1795247389056,
+   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
+   "dur": 0.039,
+   "gan": 4.52,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795244532512,
-   "titulo": "Kyōto Sanga FC vs. Urawa Red Diamonds",
-   "dur": 0.02,
+   "inicio": 1795247387552,
+   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
+   "dur": 0.047,
+   "gan": 0.81,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795247369436,
+   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
+   "dur": 0.196,
    "gan": 0.52,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795244531227,
-   "titulo": "Kyōto Sanga FC vs. Urawa Red Diamonds",
-   "dur": 0.771,
+   "inicio": 1795247369078,
+   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
+   "dur": 0.289,
    "gan": 0.52,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795244531023,
-   "titulo": "Kyōto Sanga FC vs. Urawa Red Diamonds",
-   "dur": 0.096,
-   "gan": 0.52,
+   "inicio": 1795247278736,
+   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
+   "dur": 0.231,
+   "gan": 1.21,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795244526564,
-   "titulo": "Kyōto Sanga FC vs. Urawa Red Diamonds",
-   "dur": 1.955,
+   "inicio": 1795247278215,
+   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
+   "dur": 0.356,
+   "gan": 1.26,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795247271337,
+   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
+   "dur": 0.031,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795247271080,
+   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
+   "dur": 0.044,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795247265263,
+   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
+   "dur": 4.864,
+   "gan": 1.71,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795247265090,
+   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
+   "dur": 0.062,
+   "gan": 0.96,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795247263523,
+   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
+   "dur": 0.563,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795247260290,
+   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
+   "dur": 2.979,
+   "gan": 3.89,
+   "neta": 0.11,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795247259573,
+   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
+   "dur": 0.011,
    "gan": 0.5,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795244483612,
-   "titulo": "Elon Musk # tweets November 19 - November 21, 2026?",
+   "inicio": 1795247258548,
+   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
+   "dur": 0.999,
+   "gan": 3.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795246294758,
+   "titulo": "Kawasaki Frontale vs. Avispa Fukuoka",
    "dur": 0.021,
-   "gan": 0.51,
-   "neta": 0.33,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795244454015,
-   "titulo": "Kyōto Sanga FC vs. Urawa Red Diamonds",
-   "dur": 0.195,
-   "gan": 0.73,
+   "gan": 3,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795244450696,
-   "titulo": "Kyōto Sanga FC vs. Urawa Red Diamonds",
-   "dur": 0.124,
-   "gan": 1,
-   "neta": 0.05,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795244449079,
-   "titulo": "Kyōto Sanga FC vs. Urawa Red Diamonds",
-   "dur": 0.353,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795244369236,
-   "titulo": "Sagan Tosu vs. Vegalta Sendai",
-   "dur": 0.285,
-   "gan": 8.06,
-   "neta": 6.89,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795244353927,
-   "titulo": "Kyōto Sanga FC vs. Urawa Red Diamonds",
-   "dur": 0.147,
-   "gan": 1.52,
-   "neta": 0.39,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795244353872,
-   "titulo": "Kyōto Sanga FC vs. Urawa Red Diamonds",
-   "dur": 0.054,
-   "gan": 0.54,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795244318287,
-   "titulo": "FC Machida Zelvia vs. V-Varen Nagasaki",
-   "dur": 0.334,
-   "gan": 1,
-   "neta": 0.85,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795244127769,
-   "titulo": "Pohang Steelers FC vs. FC Anyang",
-   "dur": 0.721,
-   "gan": 1.42,
-   "neta": 1.24,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795244127477,
-   "titulo": "Pohang Steelers FC vs. FC Anyang",
-   "dur": 0.041,
-   "gan": 1.47,
-   "neta": 0.88,
    "lado": "no"
   }
  ]
