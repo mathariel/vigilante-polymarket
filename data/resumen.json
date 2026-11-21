@@ -1,84 +1,84 @@
 {
- "actualizado": 1795290727851,
- "inicio": 1794633113263,
+ "actualizado": 1795293747178,
+ "inicio": 1794636087794,
  "ejecucion": {
-  "inicio": 1795287727556,
-  "fin": 1795290727851,
-  "mensajes": 13778716,
-  "reconexiones": 1,
+  "inicio": 1795290746862,
+  "fin": 1795293747178,
+  "mensajes": 14765396,
+  "reconexiones": 0,
   "eventos": 612,
   "errores": [],
-  "nuevos": 66,
-  "nuevosRentables": 5,
-  "nuevosNeta": 3.18
+  "nuevos": 90,
+  "nuevosRentables": 7,
+  "nuevosNeta": 3.99
  },
- "total": 5885,
- "falsos": 3798,
+ "total": 5926,
+ "falsos": 3839,
  "largos": {
-  "episodios": 21791,
-  "eventos": 178,
+  "episodios": 21714,
+  "eventos": 177,
   "dias": 7
  },
  "enEspera": {
   "episodios": 76,
   "eventos": 19
  },
- "mediana": 0.398,
+ "mediana": 0.399,
  "captura": [
   {
    "s": 0.5,
-   "n": 2746,
-   "gan": 8224.55,
+   "n": 2768,
+   "gan": 8267.24,
    "nNeta": 833,
-   "neta": 2009.53
+   "neta": 1985.67
   },
   {
    "s": 2,
-   "n": 1383,
-   "gan": 3371.05,
-   "nNeta": 350,
-   "neta": 527.11
+   "n": 1397,
+   "gan": 3388.07,
+   "nNeta": 352,
+   "neta": 505.35
   },
   {
    "s": 5,
-   "n": 780,
-   "gan": 1696.88,
-   "nNeta": 167,
-   "neta": 150.98
+   "n": 786,
+   "gan": 1702.14,
+   "nNeta": 166,
+   "neta": 128.61
   },
   {
    "s": 30,
-   "n": 265,
-   "gan": 632.24,
+   "n": 266,
+   "gan": 633.24,
    "nNeta": 19,
    "neta": 13.68
   }
  ],
- "rentables": 1832,
+ "rentables": 1814,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 82,
-   "descartadas": 305,
-   "neta": 220.93,
-   "dias": 7.54,
-   "semana": 205.22
+   "ops": 83,
+   "descartadas": 306,
+   "neta": 206.03,
+   "dias": 7.49,
+   "semana": 192.58
   },
   {
    "capital": 1000,
-   "ops": 96,
-   "descartadas": 305,
-   "neta": 365.26,
-   "dias": 7.54,
-   "semana": 339.29
+   "ops": 98,
+   "descartadas": 306,
+   "neta": 345.14,
+   "dias": 7.49,
+   "semana": 322.61
   },
   {
    "capital": 2000,
-   "ops": 102,
-   "descartadas": 305,
-   "neta": 529.56,
-   "dias": 7.54,
-   "semana": 491.91
+   "ops": 104,
+   "descartadas": 306,
+   "neta": 509.44,
+   "dias": 7.49,
+   "semana": 476.19
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 6,
-   "horas": 132.5,
-   "episodios": 4295,
-   "sospechosas": 69,
-   "realistaNeta": 546.34,
+   "horas": 133.3,
+   "episodios": 4385,
+   "sospechosas": 70,
+   "realistaNeta": 550.33,
    "capital": {
-    "500": 162.13,
-    "1000": 252.86,
-    "2000": 376.62
+    "500": 163.53,
+    "1000": 256.2,
+    "2000": 379.96
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 91,
+  "n": 92,
   "top": [
    {
     "inicio": 1795274262924,
@@ -236,37 +236,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5794,
-  "n": 1673,
-  "gan": 4145.96,
-  "nNeta": 410,
-  "neta": 726.99
+  "conDato": 5834,
+  "n": 1689,
+  "gan": 4172.35,
+  "nNeta": 413,
+  "neta": 706.76
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1696
+   "n": 1698
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2168
+   "n": 2184
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1233
+   "n": 1249
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 515
+   "n": 520
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 175
+   "n": 176
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795024800000,
-   "n": 86
-  },
   {
    "h": 1795028400000,
    "n": 34
@@ -633,127 +629,131 @@
   },
   {
    "h": 1795287600000,
-   "n": 70
+   "n": 80
+  },
+  {
+   "h": 1795291200000,
+   "n": 80
   }
  ],
  "recientes": [
   {
-   "inicio": 1795290719599,
-   "titulo": "RC Strasbourg Alsace vs. Stade Brestois 29",
-   "dur": 0.016,
-   "gan": 1.05,
+   "inicio": 1795293600913,
+   "titulo": "Real Madrid CF vs. RC Celta de Vigo",
+   "dur": 0.736,
+   "gan": 1.49,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795290713545,
-   "titulo": "FC Utrecht vs. SC Cambuur-Leeuwarden",
-   "dur": 0.115,
-   "gan": 0.85,
+   "inicio": 1795293571884,
+   "titulo": "AS Monaco FC vs. AJ Auxerre",
+   "dur": 12.222,
+   "gan": 0.66,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795290689025,
-   "titulo": "Yellow-Red KV Mechelen vs. Club Brugge",
-   "dur": 1.859,
-   "gan": 1.96,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795290510515,
-   "titulo": "Lille OSC vs. Olympique Lyonnais",
-   "dur": 5.443,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795290360055,
-   "titulo": "Lowest temperature in Seoul (Incheon) on November 22?",
-   "dur": 0.914,
-   "gan": 1,
-   "neta": 0.87,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795290359589,
-   "titulo": "Lowest temperature in Seoul (Incheon) on November 22?",
-   "dur": 0.362,
-   "gan": 2.32,
-   "neta": 2.19,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795290032403,
-   "titulo": "FC Utrecht vs. SC Cambuur-Leeuwarden",
-   "dur": 1.875,
-   "gan": 0.56,
+   "inicio": 1795293443103,
+   "titulo": "New England Revolution vs. Philadelphia Union",
+   "dur": 10.934,
+   "gan": 0.52,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795289975219,
-   "titulo": "Feyenoord Rotterdam vs. SBV Excelsior",
-   "dur": 3.843,
-   "gan": 0.76,
-   "neta": 0.57,
+   "inicio": 1795293436883,
+   "titulo": "New England Revolution vs. Philadelphia Union",
+   "dur": 6.044,
+   "gan": 2.25,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795293431971,
+   "titulo": "New England Revolution vs. Philadelphia Union",
+   "dur": 1.356,
+   "gan": 2.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795293225882,
+   "titulo": "AS Monaco FC vs. AJ Auxerre",
+   "dur": 1.356,
+   "gan": 0.79,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795289975103,
-   "titulo": "Feyenoord Rotterdam vs. SBV Excelsior",
-   "dur": 0.084,
-   "gan": 0.69,
-   "neta": 0.5,
-   "lado": "si"
+   "inicio": 1795293174348,
+   "titulo": "AS Monaco FC vs. AJ Auxerre",
+   "dur": 1.871,
+   "gan": 1.65,
+   "neta": 0.04,
+   "lado": "no"
   },
   {
-   "inicio": 1795289974079,
-   "titulo": "Feyenoord Rotterdam vs. SBV Excelsior",
-   "dur": 0.989,
-   "gan": 2.22,
-   "neta": 1.69,
-   "lado": "si"
+   "inicio": 1795293173988,
+   "titulo": "AS Monaco FC vs. AJ Auxerre",
+   "dur": 0.037,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1795289974010,
-   "titulo": "Feyenoord Rotterdam vs. SBV Excelsior",
-   "dur": 0.01,
-   "gan": 0.6,
-   "neta": 0.42,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795289971760,
-   "titulo": "Feyenoord Rotterdam vs. SBV Excelsior",
-   "dur": 2.235,
-   "gan": 1.11,
-   "neta": 0.8,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795289971608,
-   "titulo": "Feyenoord Rotterdam vs. SBV Excelsior",
-   "dur": 0.12,
-   "gan": 0.6,
-   "neta": 0.35,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795289849836,
-   "titulo": "FC Utrecht vs. SC Cambuur-Leeuwarden",
+   "inicio": 1795293173894,
+   "titulo": "AS Monaco FC vs. AJ Auxerre",
    "dur": 0.067,
-   "gan": 7.09,
-   "neta": 2.6,
+   "gan": 0.71,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795293023118,
+   "titulo": "Lille OSC vs. Olympique Lyonnais",
+   "dur": 4.146,
+   "gan": 0.77,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795289844258,
-   "titulo": "FC Utrecht vs. SC Cambuur-Leeuwarden",
-   "dur": 0.098,
-   "gan": 0.52,
+   "inicio": 1795293022788,
+   "titulo": "Lille OSC vs. Olympique Lyonnais",
+   "dur": 0.226,
+   "gan": 1.97,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795293022645,
+   "titulo": "Lille OSC vs. Olympique Lyonnais",
+   "dur": 0.137,
+   "gan": 1.13,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795293020671,
+   "titulo": "Lille OSC vs. Olympique Lyonnais",
+   "dur": 1.961,
+   "gan": 0.81,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795293020106,
+   "titulo": "Lille OSC vs. Olympique Lyonnais",
+   "dur": 0.307,
+   "gan": 0.81,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795293019824,
+   "titulo": "Lille OSC vs. Olympique Lyonnais",
+   "dur": 0.135,
+   "gan": 0.81,
    "neta": 0,
    "lado": "si"
   }
