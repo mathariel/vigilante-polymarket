@@ -1,21 +1,21 @@
 {
- "actualizado": 1795227356897,
- "inicio": 1794545584278,
+ "actualizado": 1795230372562,
+ "inicio": 1794548642761,
  "ejecucion": {
-  "inicio": 1795224356672,
-  "fin": 1795227356897,
-  "mensajes": 10553479,
+  "inicio": 1795227372229,
+  "fin": 1795230372562,
+  "mensajes": 11165642,
   "reconexiones": 0,
-  "eventos": 588,
+  "eventos": 591,
   "errores": [],
-  "nuevos": 10,
+  "nuevos": 19,
   "nuevosRentables": 2,
-  "nuevosNeta": 0.51
+  "nuevosNeta": 1.13
  },
- "total": 5309,
- "falsos": 2777,
+ "total": 5328,
+ "falsos": 2794,
  "largos": {
-  "episodios": 23237,
+  "episodios": 23208,
   "eventos": 174,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 126,
   "eventos": 24
  },
- "mediana": 0.445,
+ "mediana": 0.444,
  "captura": [
   {
    "s": 0.5,
-   "n": 2555,
-   "gan": 7486.42,
-   "nNeta": 781,
-   "neta": 1939.43
+   "n": 2563,
+   "gan": 7502.44,
+   "nNeta": 786,
+   "neta": 1941.76
   },
   {
    "s": 2,
-   "n": 1338,
-   "gan": 3140.2,
-   "nNeta": 355,
-   "neta": 578.17
+   "n": 1341,
+   "gan": 3145.92,
+   "nNeta": 357,
+   "neta": 579.3
   },
   {
    "s": 5,
-   "n": 804,
-   "gan": 1823.84,
-   "nNeta": 183,
-   "neta": 293.67
+   "n": 806,
+   "gan": 1827.93,
+   "nNeta": 185,
+   "neta": 294.8
   },
   {
    "s": 30,
    "n": 289,
-   "gan": 609.65,
+   "gan": 608.57,
    "nNeta": 25,
    "neta": 16
   }
  ],
- "rentables": 1674,
+ "rentables": 1684,
  "porCapital": [
   {
    "capital": 500,
    "ops": 87,
-   "descartadas": 306,
+   "descartadas": 308,
    "neta": 218.79,
    "dias": 7.86,
-   "semana": 194.96
+   "semana": 194.88
   },
   {
    "capital": 1000,
    "ops": 100,
-   "descartadas": 306,
+   "descartadas": 308,
    "neta": 355.64,
    "dias": 7.86,
-   "semana": 316.91
+   "semana": 316.78
   },
   {
    "capital": 2000,
    "ops": 105,
-   "descartadas": 306,
+   "descartadas": 308,
    "neta": 504.43,
    "dias": 7.86,
-   "semana": 449.51
+   "semana": 449.32
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 5,
-   "horas": 115,
-   "episodios": 3143,
-   "sospechosas": 39,
-   "realistaNeta": 417.46,
+   "horas": 115.8,
+   "episodios": 3163,
+   "sospechosas": 41,
+   "realistaNeta": 418.59,
    "capital": {
     "500": 131.52,
     "1000": 196.21,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 68,
+  "n": 70,
   "top": [
    {
     "inicio": 1794738069985,
@@ -141,6 +141,16 @@
     "neta": 66.39,
     "costo": 113.14,
     "ret": 60.3
+   },
+   {
+    "inicio": 1795229517798,
+    "titulo": "Club Puebla vs. Atlético San Luis",
+    "lado": "si",
+    "dur": 0.3,
+    "gan": 43.35,
+    "neta": 35.64,
+    "costo": 304.65,
+    "ret": 14.2
    },
    {
     "inicio": 1794769805301,
@@ -221,57 +231,47 @@
     "neta": 15.48,
     "costo": 81.79,
     "ret": 22.3
-   },
-   {
-    "inicio": 1795054292641,
-    "titulo": "Grêmio FBPA vs. EC Bahia",
-    "lado": "si",
-    "dur": 0.514,
-    "gan": 13.51,
-    "neta": 11.53,
-    "costo": 59.71,
-    "ret": 22.6
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5241,
-  "n": 1621,
-  "gan": 3819.51,
-  "nNeta": 416,
-  "neta": 776.13
+  "conDato": 5258,
+  "n": 1624,
+  "gan": 3825.23,
+  "nNeta": 418,
+  "neta": 777.26
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1508
+   "n": 1516
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1892
+   "n": 1899
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1097
+   "n": 1099
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 515
+   "n": 517
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 186
+   "n": 185
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 103
+   "n": 104
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794956400000,
-   "n": 17
-  },
   {
    "h": 1794960000000,
    "n": 8
@@ -633,129 +629,133 @@
   },
   {
    "h": 1795226400000,
-   "n": 6
+   "n": 25
+  },
+  {
+   "h": 1795230000000,
+   "n": 1
   }
  ],
  "recientes": [
   {
-   "inicio": 1795224385179,
+   "inicio": 1795227317788,
    "titulo": "Kidderminster Harriers FC vs. AFC Fylde",
-   "dur": 2971.496,
+   "dur": 3054.443,
    "gan": 0.53,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795227127376,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 0.076,
-   "gan": 0.86,
+   "inicio": 1795230327551,
+   "titulo": "FC Juárez vs. Atlas FC",
+   "dur": 0.584,
+   "gan": 6.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795227127253,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 0.092,
-   "gan": 1.1,
+   "inicio": 1795229970931,
+   "titulo": "AD Cali vs. Millonarios FC",
+   "dur": 0.555,
+   "gan": 1,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795226931292,
+   "inicio": 1795229624483,
    "titulo": "Club Puebla vs. Atlético San Luis",
-   "dur": 2.794,
+   "dur": 11.113,
+   "gan": 3.4,
+   "neta": 1.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795229575431,
+   "titulo": "Club Puebla vs. Atlético San Luis",
+   "dur": 1.162,
    "gan": 0.61,
-   "neta": 0,
+   "neta": 0.12,
    "lado": "si"
   },
   {
-   "inicio": 1795226915107,
+   "inicio": 1795229563392,
    "titulo": "Club Puebla vs. Atlético San Luis",
-   "dur": 2.869,
-   "gan": 1.14,
+   "dur": 9.998,
+   "gan": 0.87,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795226888738,
+   "inicio": 1795229530523,
    "titulo": "Club Puebla vs. Atlético San Luis",
-   "dur": 0.303,
-   "gan": 0.8,
-   "neta": 0,
+   "dur": 0.07,
+   "gan": 0.51,
+   "neta": 0.03,
    "lado": "si"
   },
   {
-   "inicio": 1795226888267,
+   "inicio": 1795229529727,
    "titulo": "Club Puebla vs. Atlético San Luis",
-   "dur": 0.024,
-   "gan": 0.66,
-   "neta": 0.48,
+   "dur": 0.604,
+   "gan": 0.99,
+   "neta": 0.08,
    "lado": "si"
   },
   {
-   "inicio": 1795224933188,
-   "titulo": "CA Bucaramanga vs. América de Cali",
-   "dur": 2.549,
-   "gan": 0.93,
-   "neta": 0.35,
-   "lado": "no"
+   "inicio": 1795229521685,
+   "titulo": "Club Puebla vs. Atlético San Luis",
+   "dur": 0.097,
+   "gan": 0.53,
+   "neta": 0.2,
+   "lado": "si"
   },
   {
-   "inicio": 1795224793498,
-   "titulo": "CA Bucaramanga vs. América de Cali",
-   "dur": 3.466,
-   "gan": 1.01,
-   "neta": 0.16,
-   "lado": "no"
+   "inicio": 1795229521487,
+   "titulo": "Club Puebla vs. Atlético San Luis",
+   "dur": 0.009,
+   "gan": 0.59,
+   "neta": 0.03,
+   "lado": "si"
   },
   {
-   "inicio": 1795224734447,
-   "titulo": "CA Bucaramanga vs. América de Cali",
-   "dur": 0.027,
-   "gan": 0.6,
-   "neta": 0.14,
-   "lado": "no"
+   "inicio": 1795229519827,
+   "titulo": "Club Puebla vs. Atlético San Luis",
+   "dur": 0.105,
+   "gan": 1.35,
+   "neta": 0.37,
+   "lado": "si"
   },
   {
-   "inicio": 1795224318363,
-   "titulo": "Kidderminster Harriers FC vs. AFC Fylde",
-   "dur": 65.011,
-   "gan": 0.56,
+   "inicio": 1795229519796,
+   "titulo": "Club Puebla vs. Atlético San Luis",
+   "dur": 0.023,
+   "gan": 0.92,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795222992171,
-   "titulo": "Kidderminster Harriers FC vs. AFC Fylde",
-   "dur": 1342.853,
-   "gan": 1.04,
+   "inicio": 1795229517798,
+   "titulo": "Club Puebla vs. Atlético San Luis",
+   "dur": 0.3,
+   "gan": 43.35,
+   "neta": 35.64,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795229516037,
+   "titulo": "Club Puebla vs. Atlético San Luis",
+   "dur": 0.305,
+   "gan": 0.5,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795224241756,
-   "titulo": "CA Bucaramanga vs. América de Cali",
-   "dur": 0.189,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795224239084,
-   "titulo": "CA Bucaramanga vs. América de Cali",
-   "dur": 0.448,
-   "gan": 0.96,
-   "neta": 0.05,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795224236556,
-   "titulo": "CA Bucaramanga vs. América de Cali",
-   "dur": 0.953,
-   "gan": 0.72,
-   "neta": 0.07,
-   "lado": "no"
+   "inicio": 1795229515031,
+   "titulo": "Club Puebla vs. Atlético San Luis",
+   "dur": 0.789,
+   "gan": 1.2,
+   "neta": 1,
+   "lado": "si"
   }
  ]
 }
