@@ -1,21 +1,21 @@
 {
- "actualizado": 1795278658037,
- "inicio": 1794602854928,
+ "actualizado": 1795281673594,
+ "inicio": 1794617933969,
  "ejecucion": {
-  "inicio": 1795275657807,
-  "fin": 1795278658037,
-  "mensajes": 14959176,
+  "inicio": 1795278673229,
+  "fin": 1795281673594,
+  "mensajes": 13490366,
   "reconexiones": 4,
-  "eventos": 682,
+  "eventos": 657,
   "errores": [],
-  "nuevos": 141,
-  "nuevosRentables": 5,
-  "nuevosNeta": 5.88
+  "nuevos": 70,
+  "nuevosRentables": 6,
+  "nuevosNeta": 2.44
  },
- "total": 5604,
- "falsos": 3690,
+ "total": 5635,
+ "falsos": 3712,
  "largos": {
-  "episodios": 22152,
+  "episodios": 22107,
   "eventos": 179,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 76,
   "eventos": 19
  },
- "mediana": 0.393,
+ "mediana": 0.394,
  "captura": [
   {
    "s": 0.5,
-   "n": 2598,
-   "gan": 7642.37,
-   "nNeta": 783,
-   "neta": 1819.51
+   "n": 2614,
+   "gan": 7722.53,
+   "nNeta": 796,
+   "neta": 1850.6
   },
   {
    "s": 2,
-   "n": 1306,
-   "gan": 3143.66,
-   "nNeta": 330,
-   "neta": 515.66
+   "n": 1319,
+   "gan": 3206.06,
+   "nNeta": 335,
+   "neta": 518.18
   },
   {
    "s": 5,
-   "n": 746,
-   "gan": 1558.41,
-   "nNeta": 163,
-   "neta": 152.08
+   "n": 754,
+   "gan": 1618.16,
+   "nNeta": 165,
+   "neta": 153.04
   },
   {
    "s": 30,
-   "n": 256,
-   "gan": 567.03,
+   "n": 260,
+   "gan": 606.75,
    "nNeta": 19,
    "neta": 13.68
   }
  ],
- "rentables": 1718,
+ "rentables": 1742,
  "porCapital": [
   {
    "capital": 500,
    "ops": 78,
-   "descartadas": 289,
+   "descartadas": 295,
    "neta": 222.51,
    "dias": 7.64,
-   "semana": 203.78
+   "semana": 203.83
   },
   {
    "capital": 1000,
    "ops": 91,
-   "descartadas": 289,
+   "descartadas": 295,
    "neta": 364.31,
    "dias": 7.64,
-   "semana": 333.65
+   "semana": 333.72
   },
   {
    "capital": 2000,
    "ops": 97,
-   "descartadas": 289,
+   "descartadas": 295,
    "neta": 528.62,
    "dias": 7.64,
-   "semana": 484.12
+   "semana": 484.24
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 6,
-   "horas": 129.2,
-   "episodios": 3946,
-   "sospechosas": 57,
-   "realistaNeta": 525.56,
+   "horas": 130,
+   "episodios": 4016,
+   "sospechosas": 61,
+   "realistaNeta": 528,
    "capital": {
     "500": 156.08,
     "1000": 244.28,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 80,
+  "n": 84,
   "top": [
    {
     "inicio": 1795274262924,
@@ -213,6 +213,16 @@
     "ret": 49.6
    },
    {
+    "inicio": 1795279498803,
+    "titulo": "Oldham Athletic AFC vs. Exeter City FC",
+    "lado": "si",
+    "dur": 0.842,
+    "gan": 23.1,
+    "neta": 21.34,
+    "costo": 46.9,
+    "ret": 49.3
+   },
+   {
     "inicio": 1795013651090,
     "titulo": "Highest temperature in Seattle on November 18?",
     "lado": "si",
@@ -221,57 +231,47 @@
     "neta": 18.76,
     "costo": 74.6,
     "ret": 27.8
-   },
-   {
-    "inicio": 1795054293964,
-    "titulo": "Grêmio FBPA vs. EC Bahia",
-    "lado": "si",
-    "dur": 0.082,
-    "gan": 18.21,
-    "neta": 15.48,
-    "costo": 81.79,
-    "ret": 22.3
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5524,
-  "n": 1587,
-  "gan": 3894.14,
-  "nNeta": 388,
-  "neta": 716.15
+  "conDato": 5551,
+  "n": 1601,
+  "gan": 3959.83,
+  "nNeta": 394,
+  "neta": 718.59
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1633
+   "n": 1639
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2062
+   "n": 2067
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1155
+   "n": 1167
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 490
+   "n": 494
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 168
+   "n": 170
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 88
+   "n": 90
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795006800000,
-   "n": 1
-  },
   {
    "h": 1795010400000,
    "n": 3
@@ -633,128 +629,132 @@
   },
   {
    "h": 1795276800000,
-   "n": 112
+   "n": 166
+  },
+  {
+   "h": 1795280400000,
+   "n": 16
   }
  ],
  "recientes": [
   {
-   "inicio": 1795278560190,
-   "titulo": "Coventry City FC vs. Crystal Palace FC",
-   "dur": 0.259,
-   "gan": 0.59,
+   "inicio": 1795281337540,
+   "titulo": "FC Utrecht vs. SC Cambuur-Leeuwarden",
+   "dur": 335.691,
+   "gan": 1,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795278552263,
-   "titulo": "Coventry City FC vs. Crystal Palace FC",
-   "dur": 0.812,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795278551534,
-   "titulo": "Coventry City FC vs. Crystal Palace FC",
-   "dur": 0.724,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795278519182,
-   "titulo": "Aston Villa FC vs. Sunderland AFC",
-   "dur": 1.002,
-   "gan": 0.72,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795278517875,
-   "titulo": "Aston Villa FC vs. Sunderland AFC",
-   "dur": 0.228,
-   "gan": 1.15,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795278517638,
-   "titulo": "Aston Villa FC vs. Sunderland AFC",
-   "dur": 0.13,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795278509885,
-   "titulo": "Rayo Vallecano de Madrid vs. Valencia CF",
-   "dur": 0.422,
-   "gan": 1.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795278500632,
-   "titulo": "Rayo Vallecano de Madrid vs. Valencia CF",
-   "dur": 0.2,
-   "gan": 0.64,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795278444919,
-   "titulo": "Coventry City FC vs. Crystal Palace FC",
-   "dur": 3.177,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795278404421,
-   "titulo": "Fatih Karagumruk Istanbul vs. Boluspor - Halftime Result",
-   "dur": 1.097,
-   "gan": 1.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795278401626,
-   "titulo": "Fatih Karagumruk Istanbul vs. Boluspor - Halftime Result",
-   "dur": 1.499,
-   "gan": 5.93,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795278374663,
-   "titulo": "Aston Villa FC vs. Sunderland AFC",
-   "dur": 0.147,
-   "gan": 0.93,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795278374137,
-   "titulo": "Aston Villa FC vs. Sunderland AFC",
-   "dur": 0.116,
-   "gan": 0.93,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795278299311,
-   "titulo": "Aston Villa FC vs. Sunderland AFC",
-   "dur": 0.268,
+   "inicio": 1795281667306,
+   "titulo": "OGC Nice vs. Paris Saint-Germain FC",
+   "dur": 2.222,
    "gan": 0.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795278281221,
-   "titulo": "Chelsea FC vs. Leeds United FC",
-   "dur": 0.088,
-   "gan": 0.59,
+   "inicio": 1795281640913,
+   "titulo": "OGC Nice vs. Paris Saint-Germain FC",
+   "dur": 25.631,
+   "gan": 0.62,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795281638766,
+   "titulo": "OGC Nice vs. Paris Saint-Germain FC",
+   "dur": 0.002,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795281107408,
+   "titulo": "OGC Nice vs. Paris Saint-Germain FC",
+   "dur": 2.82,
+   "gan": 3.3,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795281013576,
+   "titulo": "OGC Nice vs. Paris Saint-Germain FC",
+   "dur": 1.051,
+   "gan": 9.08,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795280835629,
+   "titulo": "Rayo Vallecano de Madrid vs. Valencia CF",
+   "dur": 2.539,
+   "gan": 1.68,
+   "neta": 0.22,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795280833941,
+   "titulo": "Rayo Vallecano de Madrid vs. Valencia CF",
+   "dur": 1.577,
+   "gan": 0.6,
+   "neta": 0.08,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795280035451,
+   "titulo": "FC Utrecht vs. SC Cambuur-Leeuwarden",
+   "dur": 736.899,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795280702345,
+   "titulo": "Rayo Vallecano de Madrid vs. Valencia CF",
+   "dur": 0.289,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795280702206,
+   "titulo": "Rayo Vallecano de Madrid vs. Valencia CF",
+   "dur": 0.114,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795280702051,
+   "titulo": "Rayo Vallecano de Madrid vs. Valencia CF",
+   "dur": 0.143,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795280701683,
+   "titulo": "Rayo Vallecano de Madrid vs. Valencia CF",
+   "dur": 0.329,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795280683341,
+   "titulo": "OGC Nice vs. Paris Saint-Germain FC",
+   "dur": 2.266,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795280587077,
+   "titulo": "CD Coquimbo Unido vs. Everton de Viña del Mar",
+   "dur": 0.871,
+   "gan": 3.7,
+   "neta": 3.37,
    "lado": "si"
   }
  ]
