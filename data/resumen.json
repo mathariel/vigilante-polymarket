@@ -1,21 +1,21 @@
 {
- "actualizado": 1795248496157,
- "inicio": 1794575755801,
+ "actualizado": 1795251512242,
+ "inicio": 1794578703511,
  "ejecucion": {
-  "inicio": 1795245495922,
-  "fin": 1795248496157,
-  "mensajes": 13508209,
+  "inicio": 1795248511892,
+  "fin": 1795251512242,
+  "mensajes": 12965973,
   "reconexiones": 0,
-  "eventos": 613,
+  "eventos": 620,
   "errores": [],
-  "nuevos": 21,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.28
+  "nuevos": 7,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5450,
- "falsos": 3348,
+ "total": 5426,
+ "falsos": 3372,
  "largos": {
-  "episodios": 22567,
+  "episodios": 22571,
   "eventos": 178,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2562,
-   "gan": 7590.89,
-   "nNeta": 786,
-   "neta": 1950.9
+   "n": 2549,
+   "gan": 7556.3,
+   "nNeta": 780,
+   "neta": 1941.89
   },
   {
    "s": 2,
-   "n": 1311,
-   "gan": 3159.35,
-   "nNeta": 345,
-   "neta": 574.59
+   "n": 1303,
+   "gan": 3131.59,
+   "nNeta": 341,
+   "neta": 567.02
   },
   {
    "s": 5,
-   "n": 776,
-   "gan": 1816.53,
-   "nNeta": 174,
-   "neta": 292.52
+   "n": 769,
+   "gan": 1798.13,
+   "nNeta": 171,
+   "neta": 288.3
   },
   {
    "s": 30,
-   "n": 274,
-   "gan": 583.72,
-   "nNeta": 23,
-   "neta": 15.84
+   "n": 270,
+   "gan": 572.31,
+   "nNeta": 22,
+   "neta": 15.47
   }
  ],
- "rentables": 1700,
+ "rentables": 1691,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 80,
-   "descartadas": 299,
-   "neta": 222.4,
-   "dias": 7.75,
-   "semana": 200.9
+   "ops": 78,
+   "descartadas": 298,
+   "neta": 212.15,
+   "dias": 7.73,
+   "semana": 192.21
   },
   {
    "capital": 1000,
-   "ops": 94,
-   "descartadas": 299,
-   "neta": 353.14,
-   "dias": 7.75,
-   "semana": 318.99
+   "ops": 91,
+   "descartadas": 298,
+   "neta": 345.92,
+   "dias": 7.73,
+   "semana": 313.39
   },
   {
    "capital": 2000,
-   "ops": 99,
-   "descartadas": 299,
-   "neta": 501.93,
-   "dias": 7.75,
-   "semana": 453.4
+   "ops": 96,
+   "descartadas": 298,
+   "neta": 494.71,
+   "dias": 7.73,
+   "semana": 448.2
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 6,
-   "horas": 120.8,
-   "episodios": 3397,
+   "horas": 121.7,
+   "episodios": 3404,
    "sospechosas": 48,
    "realistaNeta": 423.48,
    "capital": {
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5374,
-  "n": 1590,
-  "gan": 3842.43,
-  "nNeta": 403,
-  "neta": 773.15
+  "conDato": 5350,
+  "n": 1580,
+  "gan": 3812.85,
+  "nNeta": 399,
+  "neta": 765.58
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1585
+   "n": 1580
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1974
+   "n": 1964
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1107
+   "n": 1105
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 502
+   "n": 499
   },
   {
    "et": "30 s–5 min",
@@ -271,7 +271,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 101
+   "n": 97
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794974400000,
-   "n": 2
-  },
   {
    "h": 1794978000000,
    "n": 2
@@ -634,9 +630,69 @@
   {
    "h": 1795244400000,
    "n": 30
+  },
+  {
+   "h": 1795248000000,
+   "n": 7
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795251402275,
+   "titulo": "Gangwon FC vs. Daejeon Hana Citizen FC",
+   "dur": 0.189,
+   "gan": 1.29,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795251386089,
+   "titulo": "Gangwon FC vs. Daejeon Hana Citizen FC",
+   "dur": 0.472,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795251383119,
+   "titulo": "Gangwon FC vs. Daejeon Hana Citizen FC",
+   "dur": 2.873,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795251381251,
+   "titulo": "Gangwon FC vs. Daejeon Hana Citizen FC",
+   "dur": 0.099,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795250920357,
+   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
+   "dur": 0.108,
+   "gan": 0.51,
+   "neta": 0.08,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795249954576,
+   "titulo": "CD Cobreloa Calama vs. San Luis de Quillota",
+   "dur": 0.216,
+   "gan": 2.95,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795249894800,
+   "titulo": "Brisbane Roar FC vs. Sydney FC",
+   "dur": 36.999,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795247389056,
    "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
@@ -700,62 +756,6 @@
    "gan": 0.66,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1795247265263,
-   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
-   "dur": 4.864,
-   "gan": 1.71,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795247265090,
-   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
-   "dur": 0.062,
-   "gan": 0.96,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795247263523,
-   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
-   "dur": 0.563,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795247260290,
-   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
-   "dur": 2.979,
-   "gan": 3.89,
-   "neta": 0.11,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795247259573,
-   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
-   "dur": 0.011,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795247258548,
-   "titulo": "Gamba Ōsaka vs. Fagiano Okayama",
-   "dur": 0.999,
-   "gan": 3.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795246294758,
-   "titulo": "Kawasaki Frontale vs. Avispa Fukuoka",
-   "dur": 0.021,
-   "gan": 3,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
