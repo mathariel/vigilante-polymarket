@@ -1,84 +1,84 @@
 {
- "actualizado": 1795284688272,
- "inicio": 1794621016635,
+ "actualizado": 1795287710029,
+ "inicio": 1794626087810,
  "ejecucion": {
-  "inicio": 1795281687943,
-  "fin": 1795284688272,
-  "mensajes": 13094919,
-  "reconexiones": 1,
-  "eventos": 646,
+  "inicio": 1795284709803,
+  "fin": 1795287710029,
+  "mensajes": 13576594,
+  "reconexiones": 0,
+  "eventos": 645,
   "errores": [],
-  "nuevos": 77,
-  "nuevosRentables": 5,
-  "nuevosNeta": 1.77
+  "nuevos": 135,
+  "nuevosRentables": 10,
+  "nuevosNeta": 13.39
  },
- "total": 5695,
- "falsos": 3727,
+ "total": 5824,
+ "falsos": 3765,
  "largos": {
-  "episodios": 22038,
-  "eventos": 179,
+  "episodios": 21878,
+  "eventos": 178,
   "dias": 7
  },
  "enEspera": {
   "episodios": 76,
   "eventos": 19
  },
- "mediana": 0.396,
+ "mediana": 0.398,
  "captura": [
   {
    "s": 0.5,
-   "n": 2647,
-   "gan": 7818.24,
-   "nNeta": 810,
-   "neta": 1875.13
+   "n": 2718,
+   "gan": 8177.03,
+   "nNeta": 827,
+   "neta": 2007.03
   },
   {
    "s": 2,
-   "n": 1328,
-   "gan": 3221.52,
-   "nNeta": 339,
-   "neta": 519.93
+   "n": 1366,
+   "gan": 3341.18,
+   "nNeta": 346,
+   "neta": 524.8
   },
   {
    "s": 5,
-   "n": 757,
-   "gan": 1622.63,
-   "nNeta": 165,
-   "neta": 153.04
+   "n": 774,
+   "gan": 1681.61,
+   "nNeta": 166,
+   "neta": 150.24
   },
   {
    "s": 30,
-   "n": 261,
-   "gan": 607.67,
+   "n": 264,
+   "gan": 625.81,
    "nNeta": 19,
    "neta": 13.68
   }
  ],
- "rentables": 1770,
+ "rentables": 1815,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 79,
-   "descartadas": 297,
-   "neta": 222.67,
-   "dias": 7.59,
-   "semana": 205.23
+   "ops": 81,
+   "descartadas": 301,
+   "neta": 220.06,
+   "dias": 7.56,
+   "semana": 203.89
   },
   {
    "capital": 1000,
-   "ops": 92,
-   "descartadas": 297,
-   "neta": 364.47,
-   "dias": 7.59,
-   "semana": 335.92
+   "ops": 95,
+   "descartadas": 301,
+   "neta": 364.39,
+   "dias": 7.56,
+   "semana": 337.6
   },
   {
    "capital": 2000,
-   "ops": 98,
-   "descartadas": 297,
-   "neta": 528.77,
-   "dias": 7.59,
-   "semana": 487.36
+   "ops": 101,
+   "descartadas": 301,
+   "neta": 528.69,
+   "dias": 7.56,
+   "semana": 489.83
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 6,
-   "horas": 130.8,
-   "episodios": 4094,
-   "sospechosas": 62,
-   "realistaNeta": 529.77,
+   "horas": 131.7,
+   "episodios": 4229,
+   "sospechosas": 68,
+   "realistaNeta": 543.16,
    "capital": {
-    "500": 156.24,
-    "1000": 244.44,
-    "2000": 368.2
+    "500": 161.26,
+    "1000": 251.99,
+    "2000": 375.75
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 85,
+  "n": 91,
   "top": [
    {
     "inicio": 1795274262924,
@@ -141,6 +141,16 @@
     "neta": 177.34,
     "costo": 754.36,
     "ret": 25.6
+   },
+   {
+    "inicio": 1795286367624,
+    "titulo": "PFK CSKA Moskva vs. RFK Akhmat Groznyi",
+    "lado": "si",
+    "dur": 1.023,
+    "gan": 100.07,
+    "neta": 93.63,
+    "costo": 973,
+    "ret": 10.3
    },
    {
     "inicio": 1794738069985,
@@ -221,52 +231,42 @@
     "neta": 21.34,
     "costo": 46.9,
     "ret": 49.3
-   },
-   {
-    "inicio": 1795013651090,
-    "titulo": "Highest temperature in Seattle on November 18?",
-    "lado": "si",
-    "dur": 0.083,
-    "gan": 20.72,
-    "neta": 18.76,
-    "costo": 74.6,
-    "ret": 27.8
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5610,
-  "n": 1609,
-  "gan": 3976.37,
-  "nNeta": 398,
-  "neta": 720.34
+  "conDato": 5733,
+  "n": 1652,
+  "gan": 4100.65,
+  "nNeta": 405,
+  "neta": 723.81
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1651
+   "n": 1682
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2098
+   "n": 2142
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1181
+   "n": 1218
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 496
+   "n": 510
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 171
+   "n": 174
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795021200000,
-   "n": 3
-  },
   {
    "h": 1795024800000,
    "n": 86
@@ -633,129 +629,133 @@
   },
   {
    "h": 1795284000000,
-   "n": 16
+   "n": 147
+  },
+  {
+   "h": 1795287600000,
+   "n": 4
   }
  ],
  "recientes": [
   {
-   "inicio": 1795284619959,
-   "titulo": "Parma Calcio 1913 vs. AS Roma",
-   "dur": 0.786,
-   "gan": 0.73,
-   "neta": 0.33,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795284597377,
-   "titulo": "FC Crotone vs. Cosenza Calcio",
-   "dur": 5.712,
-   "gan": 2.95,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795284594829,
-   "titulo": "FC Lugano vs. Grasshopper Club Zurich",
-   "dur": 0.814,
-   "gan": 3.31,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795284535087,
-   "titulo": "Young Boys Bern vs. FC Thun",
-   "dur": 2.185,
-   "gan": 0.55,
-   "neta": 0.25,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795284533774,
-   "titulo": "Young Boys Bern vs. FC Thun",
-   "dur": 0.36,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795284533215,
-   "titulo": "Young Boys Bern vs. FC Thun",
-   "dur": 0.23,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795284530031,
-   "titulo": "Young Boys Bern vs. FC Thun",
-   "dur": 0.392,
-   "gan": 0.69,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795284529802,
-   "titulo": "Young Boys Bern vs. FC Thun",
-   "dur": 0.101,
-   "gan": 1.03,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795284529531,
-   "titulo": "Young Boys Bern vs. FC Thun",
-   "dur": 0.217,
-   "gan": 0.69,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795284509914,
-   "titulo": "Young Boys Bern vs. FC Thun",
-   "dur": 1.463,
-   "gan": 2.44,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795284507471,
-   "titulo": "Young Boys Bern vs. FC Thun",
-   "dur": 0.873,
-   "gan": 6.47,
-   "neta": 4.14,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795284297045,
-   "titulo": "Young Boys Bern vs. FC Thun",
-   "dur": 0.205,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795284189656,
-   "titulo": "Parma Calcio 1913 vs. AS Roma",
-   "dur": 2.421,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795284174708,
+   "inicio": 1795287607409,
    "titulo": "Newcastle United FC vs. Arsenal FC",
-   "dur": 3.435,
-   "gan": 0.7,
-   "neta": 0.04,
+   "dur": 1.814,
+   "gan": 1.53,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795284096158,
-   "titulo": "US Folgore Caratese vs. FC Arzignano Valchiampo",
-   "dur": 1.988,
-   "gan": 0.95,
+   "inicio": 1795287607152,
+   "titulo": "Newcastle United FC vs. Arsenal FC",
+   "dur": 0.02,
+   "gan": 0.78,
    "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795287604822,
+   "titulo": "Newcastle United FC vs. Arsenal FC",
+   "dur": 2.273,
+   "gan": 0.81,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795287604331,
+   "titulo": "Newcastle United FC vs. Arsenal FC",
+   "dur": 0.435,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795287536865,
+   "titulo": "Newcastle United FC vs. Arsenal FC",
+   "dur": 0.503,
+   "gan": 0.97,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795287533826,
+   "titulo": "Newcastle United FC vs. Arsenal FC",
+   "dur": 1.305,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795287375588,
+   "titulo": "Newcastle United FC vs. Arsenal FC",
+   "dur": 0.028,
+   "gan": 0.73,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795287371273,
+   "titulo": "Newcastle United FC vs. Arsenal FC",
+   "dur": 3.615,
+   "gan": 0.96,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795287362435,
+   "titulo": "Newcastle United FC vs. Arsenal FC",
+   "dur": 7.624,
+   "gan": 0.96,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795287321435,
+   "titulo": "Vålerenga Fotball vs. IK Start",
+   "dur": 4.434,
+   "gan": 0.78,
+   "neta": 0.4,
    "lado": "si"
+  },
+  {
+   "inicio": 1795287317495,
+   "titulo": "Vålerenga Fotball vs. IK Start",
+   "dur": 0.059,
+   "gan": 0.63,
+   "neta": 0.33,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795287316355,
+   "titulo": "Vålerenga Fotball vs. IK Start",
+   "dur": 0.115,
+   "gan": 0.63,
+   "neta": 0.33,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795287315335,
+   "titulo": "Vålerenga Fotball vs. IK Start",
+   "dur": 0.739,
+   "gan": 3.11,
+   "neta": 1.61,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795287245719,
+   "titulo": "Feyenoord Rotterdam vs. SBV Excelsior",
+   "dur": 1.672,
+   "gan": 3.66,
+   "neta": 1.98,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795287245103,
+   "titulo": "Feyenoord Rotterdam vs. SBV Excelsior",
+   "dur": 0.297,
+   "gan": 6.26,
+   "neta": 0.89,
+   "lado": "no"
   }
  ]
 }
