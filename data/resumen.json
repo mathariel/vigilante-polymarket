@@ -1,84 +1,84 @@
 {
- "actualizado": 1795299773393,
- "inicio": 1794645143049,
+ "actualizado": 1795302786969,
+ "inicio": 1794657220071,
  "ejecucion": {
-  "inicio": 1795296773137,
-  "fin": 1795299773393,
-  "mensajes": 13364851,
-  "reconexiones": 2,
-  "eventos": 595,
+  "inicio": 1795299786649,
+  "fin": 1795302786969,
+  "mensajes": 12710888,
+  "reconexiones": 0,
+  "eventos": 600,
   "errores": [],
-  "nuevos": 114,
-  "nuevosRentables": 8,
-  "nuevosNeta": 3.44
+  "nuevos": 19,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.01
  },
- "total": 6087,
- "falsos": 3909,
+ "total": 6088,
+ "falsos": 3918,
  "largos": {
-  "episodios": 21497,
-  "eventos": 179,
+  "episodios": 21494,
+  "eventos": 178,
   "dias": 7
  },
  "enEspera": {
   "episodios": 76,
   "eventos": 19
  },
- "mediana": 0.398,
+ "mediana": 0.4,
  "captura": [
   {
    "s": 0.5,
-   "n": 2841,
-   "gan": 8472.33,
-   "nNeta": 849,
-   "neta": 2045.85
+   "n": 2847,
+   "gan": 8482.69,
+   "nNeta": 846,
+   "neta": 2045.01
   },
   {
    "s": 2,
-   "n": 1416,
-   "gan": 3405.87,
-   "nNeta": 353,
-   "neta": 505.25
+   "n": 1418,
+   "gan": 3407.11,
+   "nNeta": 352,
+   "neta": 503.82
   },
   {
    "s": 5,
-   "n": 793,
-   "gan": 1709.51,
-   "nNeta": 167,
-   "neta": 128.84
+   "n": 794,
+   "gan": 1710.19,
+   "nNeta": 166,
+   "neta": 128.46
   },
   {
    "s": 30,
-   "n": 268,
-   "gan": 634.66,
-   "nNeta": 20,
-   "neta": 13.91
+   "n": 267,
+   "gan": 633.09,
+   "nNeta": 19,
+   "neta": 13.53
   }
  ],
- "rentables": 1858,
+ "rentables": 1848,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 85,
-   "descartadas": 310,
-   "neta": 208.17,
-   "dias": 7.43,
-   "semana": 196.23
+   "ops": 82,
+   "descartadas": 308,
+   "neta": 207.88,
+   "dias": 7.4,
+   "semana": 196.7
   },
   {
    "capital": 1000,
-   "ops": 100,
-   "descartadas": 310,
-   "neta": 346.62,
-   "dias": 7.43,
-   "semana": 326.74
+   "ops": 97,
+   "descartadas": 308,
+   "neta": 345.31,
+   "dias": 7.4,
+   "semana": 326.73
   },
   {
    "capital": 2000,
-   "ops": 106,
-   "descartadas": 310,
-   "neta": 510.41,
-   "dias": 7.43,
-   "semana": 481.14
+   "ops": 105,
+   "descartadas": 308,
+   "neta": 509.35,
+   "dias": 7.4,
+   "semana": 481.95
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 6,
-   "horas": 135,
-   "episodios": 4573,
-   "sospechosas": 75,
-   "realistaNeta": 553.77,
+   "horas": 135.8,
+   "episodios": 4592,
+   "sospechosas": 76,
+   "realistaNeta": 553.78,
    "capital": {
     "500": 165.73,
     "1000": 258.4,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 97,
+  "n": 98,
   "top": [
    {
     "inicio": 1795274262924,
@@ -238,30 +238,30 @@
   "reaccion": 0.5,
   "conDato": 5990,
   "n": 1723,
-  "gan": 4204.83,
-  "nNeta": 419,
-  "neta": 708.97
+  "gan": 4202.95,
+  "nNeta": 416,
+  "neta": 706.97
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1726
+   "n": 1722
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2268
+   "n": 2269
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1290
+   "n": 1293
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 525
+   "n": 527
   },
   {
    "et": "30 s–5 min",
@@ -271,7 +271,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 92
+   "n": 91
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795035600000,
-   "n": 39
-  },
   {
    "h": 1795039200000,
    "n": 52
@@ -633,128 +629,132 @@
   },
   {
    "h": 1795298400000,
-   "n": 23
+   "n": 31
+  },
+  {
+   "h": 1795302000000,
+   "n": 11
   }
  ],
  "recientes": [
   {
-   "inicio": 1795297441886,
-   "titulo": "AS Monaco FC vs. AJ Auxerre",
-   "dur": 2331.253,
-   "gan": 0.6,
-   "neta": 0.23,
-   "lado": "no"
+   "inicio": 1795302586712,
+   "titulo": "CF Pachuca vs. Deportivo Toluca FC",
+   "dur": 3.318,
+   "gan": 1.93,
+   "neta": 0,
+   "lado": "si"
   },
   {
-   "inicio": 1795299408359,
-   "titulo": "FC Dallas vs. Portland Timbers",
-   "dur": 5.141,
-   "gan": 0.81,
+   "inicio": 1795302562121,
+   "titulo": "CF Pachuca vs. Deportivo Toluca FC",
+   "dur": 0.512,
+   "gan": 0.72,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795302560725,
+   "titulo": "CF Pachuca vs. Deportivo Toluca FC",
+   "dur": 1.393,
+   "gan": 0.72,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795302411829,
+   "titulo": "CF Pachuca vs. Deportivo Toluca FC",
+   "dur": 0.682,
+   "gan": 1.18,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795302385616,
+   "titulo": "CF Pachuca vs. Deportivo Toluca FC",
+   "dur": 26.196,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795302376104,
+   "titulo": "CF Pachuca vs. Deportivo Toluca FC",
+   "dur": 1.349,
+   "gan": 1.06,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795302347053,
+   "titulo": "CF Pachuca vs. Deportivo Toluca FC",
+   "dur": 1.485,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795302346217,
+   "titulo": "CF Pachuca vs. Deportivo Toluca FC",
+   "dur": 0.252,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795302342840,
+   "titulo": "CF Pachuca vs. Deportivo Toluca FC",
+   "dur": 0.202,
+   "gan": 1.24,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795299408183,
-   "titulo": "FC Dallas vs. Portland Timbers",
-   "dur": 0.174,
-   "gan": 0.54,
+   "inicio": 1795302342335,
+   "titulo": "CF Pachuca vs. Deportivo Toluca FC",
+   "dur": 0.178,
+   "gan": 12.77,
+   "neta": 1.47,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795302337075,
+   "titulo": "CF Pachuca vs. Deportivo Toluca FC",
+   "dur": 0.137,
+   "gan": 1.06,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795299407351,
-   "titulo": "FC Dallas vs. Portland Timbers",
-   "dur": 0.469,
-   "gan": 0.81,
+   "inicio": 1795301303376,
+   "titulo": "CA Mineiro vs. CA Boca Juniors",
+   "dur": 1.042,
+   "gan": 1,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795299407112,
-   "titulo": "FC Dallas vs. Portland Timbers",
-   "dur": 0.221,
-   "gan": 0.54,
+   "inicio": 1795301300859,
+   "titulo": "CA Mineiro vs. CA Boca Juniors",
+   "dur": 1.013,
+   "gan": 1.32,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795299401425,
-   "titulo": "FC Dallas vs. Portland Timbers",
-   "dur": 4.892,
-   "gan": 0.81,
+   "inicio": 1795301293241,
+   "titulo": "CA Mineiro vs. CA Boca Juniors",
+   "dur": 3.418,
+   "gan": 1.1,
+   "neta": 0.02,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795300704276,
+   "titulo": "CF Pachuca vs. Deportivo Toluca FC",
+   "dur": 0.556,
+   "gan": 3.1,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795299401163,
-   "titulo": "FC Dallas vs. Portland Timbers",
-   "dur": 0.236,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795299400421,
-   "titulo": "FC Dallas vs. Portland Timbers",
-   "dur": 0.085,
-   "gan": 0.64,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795299399888,
-   "titulo": "FC Dallas vs. Portland Timbers",
-   "dur": 0.33,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795299399290,
-   "titulo": "FC Dallas vs. Portland Timbers",
-   "dur": 0.15,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795299398649,
-   "titulo": "FC Dallas vs. Portland Timbers",
-   "dur": 0.149,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795299397775,
-   "titulo": "FC Dallas vs. Portland Timbers",
-   "dur": 0.136,
-   "gan": 0.9,
-   "neta": 0.14,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795299397042,
-   "titulo": "FC Dallas vs. Portland Timbers",
-   "dur": 0.17,
-   "gan": 0.81,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795299396799,
-   "titulo": "FC Dallas vs. Portland Timbers",
-   "dur": 0.222,
-   "gan": 0.69,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795299396658,
-   "titulo": "FC Dallas vs. Portland Timbers",
-   "dur": 0.052,
-   "gan": 0.9,
-   "neta": 0.14,
    "lado": "no"
   }
  ]
