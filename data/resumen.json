@@ -1,84 +1,84 @@
 {
- "actualizado": 1795296761223,
- "inicio": 1794642078036,
+ "actualizado": 1795299773393,
+ "inicio": 1794645143049,
  "ejecucion": {
-  "inicio": 1795293760902,
-  "fin": 1795296761223,
-  "mensajes": 14506853,
-  "reconexiones": 0,
-  "eventos": 602,
+  "inicio": 1795296773137,
+  "fin": 1795299773393,
+  "mensajes": 13364851,
+  "reconexiones": 2,
+  "eventos": 595,
   "errores": [],
-  "nuevos": 74,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 114,
+  "nuevosRentables": 8,
+  "nuevosNeta": 3.44
  },
- "total": 5998,
- "falsos": 3874,
+ "total": 6087,
+ "falsos": 3909,
  "largos": {
-  "episodios": 21614,
-  "eventos": 178,
+  "episodios": 21497,
+  "eventos": 179,
   "dias": 7
  },
  "enEspera": {
   "episodios": 76,
   "eventos": 19
  },
- "mediana": 0.399,
+ "mediana": 0.398,
  "captura": [
   {
    "s": 0.5,
-   "n": 2800,
-   "gan": 8318.6,
-   "nNeta": 837,
-   "neta": 1994.66
+   "n": 2841,
+   "gan": 8472.33,
+   "nNeta": 849,
+   "neta": 2045.85
   },
   {
    "s": 2,
-   "n": 1403,
-   "gan": 3395.1,
-   "nNeta": 351,
-   "neta": 505.05
+   "n": 1416,
+   "gan": 3405.87,
+   "nNeta": 353,
+   "neta": 505.25
   },
   {
    "s": 5,
-   "n": 789,
-   "gan": 1705.99,
-   "nNeta": 166,
-   "neta": 128.61
+   "n": 793,
+   "gan": 1709.51,
+   "nNeta": 167,
+   "neta": 128.84
   },
   {
    "s": 30,
-   "n": 266,
-   "gan": 633.24,
-   "nNeta": 19,
-   "neta": 13.68
+   "n": 268,
+   "gan": 634.66,
+   "nNeta": 20,
+   "neta": 13.91
   }
  ],
- "rentables": 1828,
+ "rentables": 1858,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 82,
-   "descartadas": 306,
-   "neta": 204.03,
-   "dias": 7.46,
-   "semana": 191.52
+   "ops": 85,
+   "descartadas": 310,
+   "neta": 208.17,
+   "dias": 7.43,
+   "semana": 196.23
   },
   {
    "capital": 1000,
-   "ops": 96,
-   "descartadas": 306,
-   "neta": 343.14,
-   "dias": 7.46,
-   "semana": 322.1
+   "ops": 100,
+   "descartadas": 310,
+   "neta": 346.62,
+   "dias": 7.43,
+   "semana": 326.74
   },
   {
    "capital": 2000,
-   "ops": 103,
-   "descartadas": 306,
-   "neta": 509.14,
-   "dias": 7.46,
-   "semana": 477.94
+   "ops": 106,
+   "descartadas": 310,
+   "neta": 510.41,
+   "dias": 7.43,
+   "semana": 481.14
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 6,
-   "horas": 134.2,
-   "episodios": 4459,
-   "sospechosas": 71,
-   "realistaNeta": 550.33,
+   "horas": 135,
+   "episodios": 4573,
+   "sospechosas": 75,
+   "realistaNeta": 553.77,
    "capital": {
-    "500": 163.53,
-    "1000": 256.2,
-    "2000": 379.96
+    "500": 165.73,
+    "1000": 258.4,
+    "2000": 382.16
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 93,
+  "n": 97,
   "top": [
    {
     "inicio": 1795274262924,
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5905,
-  "n": 1703,
-  "gan": 4187.03,
-  "nNeta": 412,
-  "neta": 706.46
+  "conDato": 5990,
+  "n": 1723,
+  "gan": 4204.83,
+  "nNeta": 419,
+  "neta": 708.97
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1709
+   "n": 1726
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2224
+   "n": 2268
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1266
+   "n": 1290
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 523
+   "n": 525
   },
   {
    "et": "30 s–5 min",
@@ -271,7 +271,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 90
+   "n": 92
   }
  ],
  "porEvento": [
@@ -326,9 +326,9 @@
   },
   {
    "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
-   "n": 91,
-   "gan": 67.62,
-   "neta": 14.82,
+   "n": 92,
+   "gan": 68.48,
+   "neta": 15.6,
    "mediana": 9.434
   },
   {
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795032000000,
-   "n": 6
-  },
   {
    "h": 1795035600000,
    "n": 39
@@ -633,129 +629,133 @@
   },
   {
    "h": 1795294800000,
-   "n": 50
+   "n": 141
+  },
+  {
+   "h": 1795298400000,
+   "n": 23
   }
  ],
  "recientes": [
   {
-   "inicio": 1795296732365,
-   "titulo": "Real Madrid CF vs. RC Celta de Vigo",
-   "dur": 2.043,
-   "gan": 0.97,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795296732068,
-   "titulo": "Real Madrid CF vs. RC Celta de Vigo",
-   "dur": 0.231,
-   "gan": 0.97,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795296728932,
-   "titulo": "Real Madrid CF vs. RC Celta de Vigo",
-   "dur": 0.904,
-   "gan": 0.97,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795296710736,
-   "titulo": "Real Madrid CF vs. RC Celta de Vigo",
-   "dur": 1.911,
-   "gan": 1.17,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795296706172,
-   "titulo": "Real Madrid CF vs. RC Celta de Vigo",
-   "dur": 1.145,
-   "gan": 3.1,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795296696844,
+   "inicio": 1795297441886,
    "titulo": "AS Monaco FC vs. AJ Auxerre",
-   "dur": 1.503,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795296687945,
-   "titulo": "AS Monaco FC vs. AJ Auxerre",
-   "dur": 8.863,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795296681131,
-   "titulo": "RC Strasbourg Alsace vs. Stade Brestois 29",
-   "dur": 1.227,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795296672514,
-   "titulo": "Lille OSC vs. Olympique Lyonnais",
-   "dur": 0.395,
-   "gan": 4.72,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795296658437,
-   "titulo": "AS Monaco FC vs. AJ Auxerre",
-   "dur": 0.479,
-   "gan": 0.78,
-   "neta": 0.57,
+   "dur": 2331.253,
+   "gan": 0.6,
+   "neta": 0.23,
    "lado": "no"
   },
   {
-   "inicio": 1795296648551,
-   "titulo": "CA Paranaense vs. Clube do Remo",
-   "dur": 0.245,
-   "gan": 5.18,
+   "inicio": 1795299408359,
+   "titulo": "FC Dallas vs. Portland Timbers",
+   "dur": 5.141,
+   "gan": 0.81,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795296579272,
-   "titulo": "Motherwell FC vs. Rangers FC",
-   "dur": 0.331,
-   "gan": 0.74,
+   "inicio": 1795299408183,
+   "titulo": "FC Dallas vs. Portland Timbers",
+   "dur": 0.174,
+   "gan": 0.54,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795296553444,
-   "titulo": "Racing Club de Lens vs. Toulouse FC",
-   "dur": 0.116,
-   "gan": 0.78,
+   "inicio": 1795299407351,
+   "titulo": "FC Dallas vs. Portland Timbers",
+   "dur": 0.469,
+   "gan": 0.81,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795296413585,
-   "titulo": "Racing Club de Lens vs. Toulouse FC",
-   "dur": 0.229,
-   "gan": 1.65,
-   "neta": 0.36,
-   "lado": "si"
+   "inicio": 1795299407112,
+   "titulo": "FC Dallas vs. Portland Timbers",
+   "dur": 0.221,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1795296413014,
-   "titulo": "Racing Club de Lens vs. Toulouse FC",
-   "dur": 0.114,
-   "gan": 0.55,
+   "inicio": 1795299401425,
+   "titulo": "FC Dallas vs. Portland Timbers",
+   "dur": 4.892,
+   "gan": 0.81,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
+  },
+  {
+   "inicio": 1795299401163,
+   "titulo": "FC Dallas vs. Portland Timbers",
+   "dur": 0.236,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795299400421,
+   "titulo": "FC Dallas vs. Portland Timbers",
+   "dur": 0.085,
+   "gan": 0.64,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795299399888,
+   "titulo": "FC Dallas vs. Portland Timbers",
+   "dur": 0.33,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795299399290,
+   "titulo": "FC Dallas vs. Portland Timbers",
+   "dur": 0.15,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795299398649,
+   "titulo": "FC Dallas vs. Portland Timbers",
+   "dur": 0.149,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795299397775,
+   "titulo": "FC Dallas vs. Portland Timbers",
+   "dur": 0.136,
+   "gan": 0.9,
+   "neta": 0.14,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795299397042,
+   "titulo": "FC Dallas vs. Portland Timbers",
+   "dur": 0.17,
+   "gan": 0.81,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795299396799,
+   "titulo": "FC Dallas vs. Portland Timbers",
+   "dur": 0.222,
+   "gan": 0.69,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795299396658,
+   "titulo": "FC Dallas vs. Portland Timbers",
+   "dur": 0.052,
+   "gan": 0.9,
+   "neta": 0.14,
+   "lado": "no"
   }
  ]
 }
