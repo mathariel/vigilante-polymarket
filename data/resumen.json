@@ -1,22 +1,22 @@
 {
- "actualizado": 1795257545007,
+ "actualizado": 1795260565665,
  "inicio": 1794590750418,
  "ejecucion": {
-  "inicio": 1795254544785,
-  "fin": 1795257545007,
-  "mensajes": 11872183,
-  "reconexiones": 5,
-  "eventos": 613,
+  "inicio": 1795257565432,
+  "fin": 1795260565665,
+  "mensajes": 10623045,
+  "reconexiones": 0,
+  "eventos": 619,
   "errores": [],
-  "nuevos": 44,
-  "nuevosRentables": 5,
-  "nuevosNeta": 4.4
+  "nuevos": 2,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5412,
- "falsos": 3589,
+ "total": 5415,
+ "falsos": 3592,
  "largos": {
-  "episodios": 22377,
-  "eventos": 179,
+  "episodios": 22375,
+  "eventos": 180,
   "dias": 7
  },
  "enEspera": {
@@ -27,29 +27,29 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2540,
-   "gan": 7568.49,
+   "n": 2543,
+   "gan": 7619.75,
    "nNeta": 788,
    "neta": 1955.07
   },
   {
    "s": 2,
-   "n": 1294,
-   "gan": 3129.81,
+   "n": 1296,
+   "gan": 3179.29,
    "nNeta": 342,
    "neta": 569.67
   },
   {
    "s": 5,
-   "n": 759,
-   "gan": 1792.31,
+   "n": 760,
+   "gan": 1793.13,
    "nNeta": 171,
    "neta": 290.36
   },
   {
    "s": 30,
-   "n": 266,
-   "gan": 568.65,
+   "n": 267,
+   "gan": 569.47,
    "nNeta": 22,
    "neta": 15.47
   }
@@ -61,24 +61,24 @@
    "ops": 79,
    "descartadas": 298,
    "neta": 220.8,
-   "dias": 7.72,
-   "semana": 200.27
+   "dias": 7.75,
+   "semana": 199.37
   },
   {
    "capital": 1000,
    "ops": 92,
    "descartadas": 298,
    "neta": 352.6,
-   "dias": 7.72,
-   "semana": 319.82
+   "dias": 7.75,
+   "semana": 318.38
   },
   {
    "capital": 2000,
    "ops": 98,
    "descartadas": 298,
    "neta": 500.04,
-   "dias": 7.72,
-   "semana": 453.55
+   "dias": 7.75,
+   "semana": 451.51
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 6,
-   "horas": 123.3,
-   "episodios": 3454,
+   "horas": 124.2,
+   "episodios": 3457,
    "sospechosas": 52,
    "realistaNeta": 428.32,
    "capital": {
@@ -236,9 +236,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5336,
-  "n": 1572,
-  "gan": 3812.05,
+  "conDato": 5339,
+  "n": 1575,
+  "gan": 3863.31,
   "nNeta": 401,
   "neta": 769.23
  },
@@ -256,7 +256,7 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1108
+   "n": 1110
   },
   {
    "et": "5–30 s",
@@ -271,7 +271,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 94
+   "n": 95
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794985200000,
-   "n": 1
-  },
   {
    "h": 1794988800000,
    "n": 3
@@ -633,10 +629,38 @@
   },
   {
    "h": 1795255200000,
-   "n": 43
+   "n": 44
+  },
+  {
+   "h": 1795258800000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795260027269,
+   "titulo": "Norwich City FC vs. Cardiff City FC",
+   "dur": 2.264,
+   "gan": 48.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795259387254,
+   "titulo": "Deltras FC vs. Persela Lamongan",
+   "dur": 1.846,
+   "gan": 1,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795257562004,
+   "titulo": "Stade Lavallois Mayenne FC vs. Montpellier HSC",
+   "dur": 1110.441,
+   "gan": 0.82,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795255038699,
    "titulo": "Stade Lavallois Mayenne FC vs. Montpellier HSC",
@@ -731,30 +755,6 @@
    "dur": 7.532,
    "gan": 0.75,
    "neta": 0.38,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795256869847,
-   "titulo": "Persik Kediri vs. Psim Yogyakarta",
-   "dur": 0.147,
-   "gan": 1.68,
-   "neta": 0.52,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795256869800,
-   "titulo": "Persik Kediri vs. Psim Yogyakarta",
-   "dur": 0.015,
-   "gan": 0.54,
-   "neta": 0.21,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795256869764,
-   "titulo": "Persik Kediri vs. Psim Yogyakarta",
-   "dur": 0.005,
-   "gan": 0.61,
-   "neta": 0.19,
    "lado": "si"
   }
  ]
