@@ -1,21 +1,21 @@
 {
- "actualizado": 1795281673594,
- "inicio": 1794617933969,
+ "actualizado": 1795284688272,
+ "inicio": 1794621016635,
  "ejecucion": {
-  "inicio": 1795278673229,
-  "fin": 1795281673594,
-  "mensajes": 13490366,
-  "reconexiones": 4,
-  "eventos": 657,
+  "inicio": 1795281687943,
+  "fin": 1795284688272,
+  "mensajes": 13094919,
+  "reconexiones": 1,
+  "eventos": 646,
   "errores": [],
-  "nuevos": 70,
-  "nuevosRentables": 6,
-  "nuevosNeta": 2.44
+  "nuevos": 77,
+  "nuevosRentables": 5,
+  "nuevosNeta": 1.77
  },
- "total": 5635,
- "falsos": 3712,
+ "total": 5695,
+ "falsos": 3727,
  "largos": {
-  "episodios": 22107,
+  "episodios": 22038,
   "eventos": 179,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 76,
   "eventos": 19
  },
- "mediana": 0.394,
+ "mediana": 0.396,
  "captura": [
   {
    "s": 0.5,
-   "n": 2614,
-   "gan": 7722.53,
-   "nNeta": 796,
-   "neta": 1850.6
+   "n": 2647,
+   "gan": 7818.24,
+   "nNeta": 810,
+   "neta": 1875.13
   },
   {
    "s": 2,
-   "n": 1319,
-   "gan": 3206.06,
-   "nNeta": 335,
-   "neta": 518.18
+   "n": 1328,
+   "gan": 3221.52,
+   "nNeta": 339,
+   "neta": 519.93
   },
   {
    "s": 5,
-   "n": 754,
-   "gan": 1618.16,
+   "n": 757,
+   "gan": 1622.63,
    "nNeta": 165,
    "neta": 153.04
   },
   {
    "s": 30,
-   "n": 260,
-   "gan": 606.75,
+   "n": 261,
+   "gan": 607.67,
    "nNeta": 19,
    "neta": 13.68
   }
  ],
- "rentables": 1742,
+ "rentables": 1770,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 78,
-   "descartadas": 295,
-   "neta": 222.51,
-   "dias": 7.64,
-   "semana": 203.83
+   "ops": 79,
+   "descartadas": 297,
+   "neta": 222.67,
+   "dias": 7.59,
+   "semana": 205.23
   },
   {
    "capital": 1000,
-   "ops": 91,
-   "descartadas": 295,
-   "neta": 364.31,
-   "dias": 7.64,
-   "semana": 333.72
+   "ops": 92,
+   "descartadas": 297,
+   "neta": 364.47,
+   "dias": 7.59,
+   "semana": 335.92
   },
   {
    "capital": 2000,
-   "ops": 97,
-   "descartadas": 295,
-   "neta": 528.62,
-   "dias": 7.64,
-   "semana": 484.24
+   "ops": 98,
+   "descartadas": 297,
+   "neta": 528.77,
+   "dias": 7.59,
+   "semana": 487.36
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 6,
-   "horas": 130,
-   "episodios": 4016,
-   "sospechosas": 61,
-   "realistaNeta": 528,
+   "horas": 130.8,
+   "episodios": 4094,
+   "sospechosas": 62,
+   "realistaNeta": 529.77,
    "capital": {
-    "500": 156.08,
-    "1000": 244.28,
-    "2000": 368.05
+    "500": 156.24,
+    "1000": 244.44,
+    "2000": 368.2
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 84,
+  "n": 85,
   "top": [
    {
     "inicio": 1795274262924,
@@ -236,37 +236,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5551,
-  "n": 1601,
-  "gan": 3959.83,
-  "nNeta": 394,
-  "neta": 718.59
+  "conDato": 5610,
+  "n": 1609,
+  "gan": 3976.37,
+  "nNeta": 398,
+  "neta": 720.34
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1639
+   "n": 1651
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2067
+   "n": 2098
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1167
+   "n": 1181
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 494
+   "n": 496
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 170
+   "n": 171
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795010400000,
-   "n": 3
-  },
   {
    "h": 1795021200000,
    "n": 3
@@ -633,128 +629,132 @@
   },
   {
    "h": 1795280400000,
+   "n": 78
+  },
+  {
+   "h": 1795284000000,
    "n": 16
   }
  ],
  "recientes": [
   {
-   "inicio": 1795281337540,
-   "titulo": "FC Utrecht vs. SC Cambuur-Leeuwarden",
-   "dur": 335.691,
-   "gan": 1,
-   "neta": 0,
-   "lado": "si"
+   "inicio": 1795284619959,
+   "titulo": "Parma Calcio 1913 vs. AS Roma",
+   "dur": 0.786,
+   "gan": 0.73,
+   "neta": 0.33,
+   "lado": "no"
   },
   {
-   "inicio": 1795281667306,
-   "titulo": "OGC Nice vs. Paris Saint-Germain FC",
-   "dur": 2.222,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795281640913,
-   "titulo": "OGC Nice vs. Paris Saint-Germain FC",
-   "dur": 25.631,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795281638766,
-   "titulo": "OGC Nice vs. Paris Saint-Germain FC",
-   "dur": 0.002,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795281107408,
-   "titulo": "OGC Nice vs. Paris Saint-Germain FC",
-   "dur": 2.82,
-   "gan": 3.3,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795281013576,
-   "titulo": "OGC Nice vs. Paris Saint-Germain FC",
-   "dur": 1.051,
-   "gan": 9.08,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795280835629,
-   "titulo": "Rayo Vallecano de Madrid vs. Valencia CF",
-   "dur": 2.539,
-   "gan": 1.68,
-   "neta": 0.22,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795280833941,
-   "titulo": "Rayo Vallecano de Madrid vs. Valencia CF",
-   "dur": 1.577,
-   "gan": 0.6,
-   "neta": 0.08,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795280035451,
-   "titulo": "FC Utrecht vs. SC Cambuur-Leeuwarden",
-   "dur": 736.899,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795280702345,
-   "titulo": "Rayo Vallecano de Madrid vs. Valencia CF",
-   "dur": 0.289,
-   "gan": 0.65,
+   "inicio": 1795284597377,
+   "titulo": "FC Crotone vs. Cosenza Calcio",
+   "dur": 5.712,
+   "gan": 2.95,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795280702206,
-   "titulo": "Rayo Vallecano de Madrid vs. Valencia CF",
-   "dur": 0.114,
-   "gan": 0.65,
+   "inicio": 1795284594829,
+   "titulo": "FC Lugano vs. Grasshopper Club Zurich",
+   "dur": 0.814,
+   "gan": 3.31,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795284535087,
+   "titulo": "Young Boys Bern vs. FC Thun",
+   "dur": 2.185,
+   "gan": 0.55,
+   "neta": 0.25,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795284533774,
+   "titulo": "Young Boys Bern vs. FC Thun",
+   "dur": 0.36,
+   "gan": 0.67,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795280702051,
-   "titulo": "Rayo Vallecano de Madrid vs. Valencia CF",
-   "dur": 0.143,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795280701683,
-   "titulo": "Rayo Vallecano de Madrid vs. Valencia CF",
-   "dur": 0.329,
+   "inicio": 1795284533215,
+   "titulo": "Young Boys Bern vs. FC Thun",
+   "dur": 0.23,
    "gan": 0.52,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795280683341,
-   "titulo": "OGC Nice vs. Paris Saint-Germain FC",
-   "dur": 2.266,
-   "gan": 0.8,
+   "inicio": 1795284530031,
+   "titulo": "Young Boys Bern vs. FC Thun",
+   "dur": 0.392,
+   "gan": 0.69,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795284529802,
+   "titulo": "Young Boys Bern vs. FC Thun",
+   "dur": 0.101,
+   "gan": 1.03,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795284529531,
+   "titulo": "Young Boys Bern vs. FC Thun",
+   "dur": 0.217,
+   "gan": 0.69,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795284509914,
+   "titulo": "Young Boys Bern vs. FC Thun",
+   "dur": 1.463,
+   "gan": 2.44,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795284507471,
+   "titulo": "Young Boys Bern vs. FC Thun",
+   "dur": 0.873,
+   "gan": 6.47,
+   "neta": 4.14,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795284297045,
+   "titulo": "Young Boys Bern vs. FC Thun",
+   "dur": 0.205,
+   "gan": 0.53,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795280587077,
-   "titulo": "CD Coquimbo Unido vs. Everton de Viña del Mar",
-   "dur": 0.871,
-   "gan": 3.7,
-   "neta": 3.37,
+   "inicio": 1795284189656,
+   "titulo": "Parma Calcio 1913 vs. AS Roma",
+   "dur": 2.421,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795284174708,
+   "titulo": "Newcastle United FC vs. Arsenal FC",
+   "dur": 3.435,
+   "gan": 0.7,
+   "neta": 0.04,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795284096158,
+   "titulo": "US Folgore Caratese vs. FC Arzignano Valchiampo",
+   "dur": 1.988,
+   "gan": 0.95,
+   "neta": 0,
    "lado": "si"
   }
  ]
