@@ -1,21 +1,21 @@
 {
- "actualizado": 1795260565665,
+ "actualizado": 1795263583269,
  "inicio": 1794590750418,
  "ejecucion": {
-  "inicio": 1795257565432,
-  "fin": 1795260565665,
-  "mensajes": 10623045,
-  "reconexiones": 0,
-  "eventos": 619,
+  "inicio": 1795260582939,
+  "fin": 1795263583269,
+  "mensajes": 13008944,
+  "reconexiones": 7,
+  "eventos": 640,
   "errores": [],
-  "nuevos": 2,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 10,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.25
  },
- "total": 5415,
- "falsos": 3592,
+ "total": 5425,
+ "falsos": 3599,
  "largos": {
-  "episodios": 22375,
+  "episodios": 22363,
   "eventos": 180,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2543,
-   "gan": 7619.75,
-   "nNeta": 788,
-   "neta": 1955.07
+   "n": 2549,
+   "gan": 7627.24,
+   "nNeta": 790,
+   "neta": 1955.67
   },
   {
    "s": 2,
-   "n": 1296,
-   "gan": 3179.29,
-   "nNeta": 342,
-   "neta": 569.67
+   "n": 1300,
+   "gan": 3184.66,
+   "nNeta": 343,
+   "neta": 569.92
   },
   {
    "s": 5,
-   "n": 760,
-   "gan": 1793.13,
+   "n": 763,
+   "gan": 1797.97,
    "nNeta": 171,
    "neta": 290.36
   },
   {
    "s": 30,
-   "n": 267,
-   "gan": 569.47,
+   "n": 269,
+   "gan": 572.33,
    "nNeta": 22,
    "neta": 15.47
   }
  ],
- "rentables": 1706,
+ "rentables": 1711,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 79,
+   "ops": 80,
    "descartadas": 298,
-   "neta": 220.8,
-   "dias": 7.75,
-   "semana": 199.37
+   "neta": 221.05,
+   "dias": 7.79,
+   "semana": 198.7
   },
   {
    "capital": 1000,
-   "ops": 92,
+   "ops": 93,
    "descartadas": 298,
-   "neta": 352.6,
-   "dias": 7.75,
-   "semana": 318.38
+   "neta": 352.85,
+   "dias": 7.79,
+   "semana": 317.17
   },
   {
    "capital": 2000,
-   "ops": 98,
+   "ops": 99,
    "descartadas": 298,
-   "neta": 500.04,
-   "dias": 7.75,
-   "semana": 451.51
+   "neta": 500.29,
+   "dias": 7.79,
+   "semana": 449.71
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 6,
-   "horas": 124.2,
-   "episodios": 3457,
+   "horas": 125,
+   "episodios": 3467,
    "sospechosas": 52,
-   "realistaNeta": 428.32,
+   "realistaNeta": 428.57,
    "capital": {
-    "500": 138.99,
-    "1000": 203.68,
-    "2000": 281.5
+    "500": 139.24,
+    "1000": 203.93,
+    "2000": 281.75
    },
    "cumple": true
   }
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5339,
-  "n": 1575,
-  "gan": 3863.31,
-  "nNeta": 401,
-  "neta": 769.23
+  "conDato": 5349,
+  "n": 1579,
+  "gan": 3868.68,
+  "nNeta": 402,
+  "neta": 769.48
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1580
+   "n": 1581
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1957
+   "n": 1962
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1110
+   "n": 1111
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 493
+   "n": 494
   },
   {
    "et": "30 s–5 min",
@@ -271,7 +271,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 95
+   "n": 97
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794988800000,
-   "n": 3
-  },
   {
    "h": 1794992400000,
    "n": 2
@@ -633,10 +629,94 @@
   },
   {
    "h": 1795258800000,
-   "n": 2
+   "n": 8
+  },
+  {
+   "h": 1795262400000,
+   "n": 4
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795263340914,
+   "titulo": "1. FC Nürnberg vs. Eintracht Braunschweig",
+   "dur": 0.377,
+   "gan": 1.37,
+   "neta": 0.12,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795263066537,
+   "titulo": "VfL Wolfsburg vs. Holstein Kiel",
+   "dur": 0.323,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795262667615,
+   "titulo": "1. FC Nürnberg vs. Eintracht Braunschweig",
+   "dur": 0.942,
+   "gan": 1.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795262511532,
+   "titulo": "FK Akron Tolyatti vs. FK Fakel Voronezh",
+   "dur": 17.686,
+   "gan": 1.98,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795262066778,
+   "titulo": "FK Akron Tolyatti vs. FK Fakel Voronezh",
+   "dur": 374.808,
+   "gan": 1.43,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795261185435,
+   "titulo": "FK Akron Tolyatti vs. FK Fakel Voronezh",
+   "dur": 552.182,
+   "gan": 1.43,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795261566956,
+   "titulo": "Gençlerbirliği SK vs. Gaziantep FK",
+   "dur": 0.001,
+   "gan": 0.51,
+   "neta": 0.2,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795261566549,
+   "titulo": "Gençlerbirliği SK vs. Gaziantep FK",
+   "dur": 0.101,
+   "gan": 0.53,
+   "neta": 0.25,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795261563401,
+   "titulo": "Gençlerbirliği SK vs. Gaziantep FK",
+   "dur": 2.637,
+   "gan": 0.53,
+   "neta": 0.25,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795261562112,
+   "titulo": "Gençlerbirliği SK vs. Gaziantep FK",
+   "dur": 0.972,
+   "gan": 0.56,
+   "neta": 0.35,
+   "lado": "si"
+  },
   {
    "inicio": 1795260027269,
    "titulo": "Norwich City FC vs. Cardiff City FC",
@@ -675,86 +755,6 @@
    "dur": 2.094,
    "gan": 0.55,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795256891393,
-   "titulo": "Persik Kediri vs. Psim Yogyakarta",
-   "dur": 0.963,
-   "gan": 8.6,
-   "neta": 5.96,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795256884653,
-   "titulo": "Persik Kediri vs. Psim Yogyakarta",
-   "dur": 0.52,
-   "gan": 0.77,
-   "neta": 0.42,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795256883086,
-   "titulo": "Persik Kediri vs. Psim Yogyakarta",
-   "dur": 0.005,
-   "gan": 0.59,
-   "neta": 0.44,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795256880777,
-   "titulo": "Persik Kediri vs. Psim Yogyakarta",
-   "dur": 2.297,
-   "gan": 0.56,
-   "neta": 0.09,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795256880751,
-   "titulo": "Persik Kediri vs. Psim Yogyakarta",
-   "dur": 0.022,
-   "gan": 0.56,
-   "neta": 0.09,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795256880727,
-   "titulo": "Persik Kediri vs. Psim Yogyakarta",
-   "dur": 0.013,
-   "gan": 0.77,
-   "neta": 0.43,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795256880331,
-   "titulo": "Persik Kediri vs. Psim Yogyakarta",
-   "dur": 0.383,
-   "gan": 0.77,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795256879251,
-   "titulo": "Persik Kediri vs. Psim Yogyakarta",
-   "dur": 0.429,
-   "gan": 1.06,
-   "neta": 0.37,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795256877537,
-   "titulo": "Persik Kediri vs. Psim Yogyakarta",
-   "dur": 1.437,
-   "gan": 1.08,
-   "neta": 0.71,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795256870003,
-   "titulo": "Persik Kediri vs. Psim Yogyakarta",
-   "dur": 7.532,
-   "gan": 0.75,
-   "neta": 0.38,
    "lado": "si"
   }
  ]
