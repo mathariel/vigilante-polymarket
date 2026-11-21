@@ -1,21 +1,21 @@
 {
- "actualizado": 1795224335355,
- "inicio": 1794539593100,
+ "actualizado": 1795227356897,
+ "inicio": 1794545584278,
  "ejecucion": {
-  "inicio": 1795221335020,
-  "fin": 1795224335355,
-  "mensajes": 10991374,
+  "inicio": 1795224356672,
+  "fin": 1795227356897,
+  "mensajes": 10553479,
   "reconexiones": 0,
   "eventos": 588,
   "errores": [],
-  "nuevos": 22,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.69
+  "nuevos": 10,
+  "nuevosRentables": 2,
+  "nuevosNeta": 0.51
  },
- "total": 5300,
- "falsos": 2774,
+ "total": 5309,
+ "falsos": 2777,
  "largos": {
-  "episodios": 23243,
+  "episodios": 23237,
   "eventos": 174,
   "dias": 7
  },
@@ -27,39 +27,39 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2551,
-   "gan": 7482.46,
-   "nNeta": 779,
-   "neta": 1938.92
+   "n": 2555,
+   "gan": 7486.42,
+   "nNeta": 781,
+   "neta": 1939.43
   },
   {
    "s": 2,
-   "n": 1334,
-   "gan": 3136.24,
-   "nNeta": 353,
-   "neta": 577.66
+   "n": 1338,
+   "gan": 3140.2,
+   "nNeta": 355,
+   "neta": 578.17
   },
   {
    "s": 5,
    "n": 804,
-   "gan": 1823.96,
+   "gan": 1823.84,
    "nNeta": 183,
    "neta": 293.67
   },
   {
    "s": 30,
    "n": 289,
-   "gan": 610.17,
+   "gan": 609.65,
    "nNeta": 25,
    "neta": 16
   }
  ],
- "rentables": 1670,
+ "rentables": 1674,
  "porCapital": [
   {
    "capital": 500,
    "ops": 87,
-   "descartadas": 304,
+   "descartadas": 306,
    "neta": 218.79,
    "dias": 7.86,
    "semana": 194.96
@@ -67,7 +67,7 @@
   {
    "capital": 1000,
    "ops": 100,
-   "descartadas": 304,
+   "descartadas": 306,
    "neta": 355.64,
    "dias": 7.86,
    "semana": 316.91
@@ -75,7 +75,7 @@
   {
    "capital": 2000,
    "ops": 105,
-   "descartadas": 304,
+   "descartadas": 306,
    "neta": 504.43,
    "dias": 7.86,
    "semana": 449.51
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 5,
-   "horas": 114.2,
-   "episodios": 3132,
-   "sospechosas": 38,
-   "realistaNeta": 416.95,
+   "horas": 115,
+   "episodios": 3143,
+   "sospechosas": 39,
+   "realistaNeta": 417.46,
    "capital": {
     "500": 131.52,
     "1000": 196.21,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 67,
+  "n": 68,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,27 +236,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5233,
-  "n": 1617,
-  "gan": 3815.55,
-  "nNeta": 414,
-  "neta": 775.62
+  "conDato": 5241,
+  "n": 1621,
+  "gan": 3819.51,
+  "nNeta": 416,
+  "neta": 776.13
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1504
+   "n": 1508
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1891
+   "n": 1892
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1093
+   "n": 1097
   },
   {
    "et": "5–30 s",
@@ -266,12 +266,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 185
+   "n": 186
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 104
+   "n": 103
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794952800000,
-   "n": 9
-  },
   {
    "h": 1794956400000,
    "n": 17
@@ -633,10 +629,102 @@
   },
   {
    "h": 1795222800000,
-   "n": 10
+   "n": 15
+  },
+  {
+   "h": 1795226400000,
+   "n": 6
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795224385179,
+   "titulo": "Kidderminster Harriers FC vs. AFC Fylde",
+   "dur": 2971.496,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795227127376,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 0.076,
+   "gan": 0.86,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795227127253,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 0.092,
+   "gan": 1.1,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795226931292,
+   "titulo": "Club Puebla vs. Atlético San Luis",
+   "dur": 2.794,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795226915107,
+   "titulo": "Club Puebla vs. Atlético San Luis",
+   "dur": 2.869,
+   "gan": 1.14,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795226888738,
+   "titulo": "Club Puebla vs. Atlético San Luis",
+   "dur": 0.303,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795226888267,
+   "titulo": "Club Puebla vs. Atlético San Luis",
+   "dur": 0.024,
+   "gan": 0.66,
+   "neta": 0.48,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795224933188,
+   "titulo": "CA Bucaramanga vs. América de Cali",
+   "dur": 2.549,
+   "gan": 0.93,
+   "neta": 0.35,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795224793498,
+   "titulo": "CA Bucaramanga vs. América de Cali",
+   "dur": 3.466,
+   "gan": 1.01,
+   "neta": 0.16,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795224734447,
+   "titulo": "CA Bucaramanga vs. América de Cali",
+   "dur": 0.027,
+   "gan": 0.6,
+   "neta": 0.14,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795224318363,
+   "titulo": "Kidderminster Harriers FC vs. AFC Fylde",
+   "dur": 65.011,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795222992171,
    "titulo": "Kidderminster Harriers FC vs. AFC Fylde",
@@ -668,94 +756,6 @@
    "gan": 0.72,
    "neta": 0.07,
    "lado": "no"
-  },
-  {
-   "inicio": 1795224234971,
-   "titulo": "CA Bucaramanga vs. América de Cali",
-   "dur": 1.559,
-   "gan": 0.64,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795224231121,
-   "titulo": "CA Bucaramanga vs. América de Cali",
-   "dur": 1.172,
-   "gan": 0.72,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795224226565,
-   "titulo": "CA Bucaramanga vs. América de Cali",
-   "dur": 4.331,
-   "gan": 1.67,
-   "neta": 0.69,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795224206373,
-   "titulo": "CA Bucaramanga vs. América de Cali",
-   "dur": 0.792,
-   "gan": 0.89,
-   "neta": 0.14,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795224201609,
-   "titulo": "CA Bucaramanga vs. América de Cali",
-   "dur": 0.591,
-   "gan": 7.15,
-   "neta": 2.3,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795223747272,
-   "titulo": "CA Bucaramanga vs. América de Cali",
-   "dur": 0.352,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795222610194,
-   "titulo": "Escorpiones de Belén vs. AD San Carlos",
-   "dur": 0.137,
-   "gan": 0.99,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795222593693,
-   "titulo": "Escorpiones de Belén vs. AD San Carlos",
-   "dur": 0.104,
-   "gan": 0.99,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795222585228,
-   "titulo": "Escorpiones de Belén vs. AD San Carlos",
-   "dur": 0.095,
-   "gan": 0.99,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795222580571,
-   "titulo": "Escorpiones de Belén vs. AD San Carlos",
-   "dur": 0.048,
-   "gan": 0.99,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795222267079,
-   "titulo": "CD Palestino vs. CD Unión La Calera",
-   "dur": 1.256,
-   "gan": 1.53,
-   "neta": 1.23,
-   "lado": "si"
   }
  ]
 }
