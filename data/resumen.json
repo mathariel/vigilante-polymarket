@@ -1,21 +1,21 @@
 {
- "actualizado": 1795287710029,
- "inicio": 1794626087810,
+ "actualizado": 1795290727851,
+ "inicio": 1794633113263,
  "ejecucion": {
-  "inicio": 1795284709803,
-  "fin": 1795287710029,
-  "mensajes": 13576594,
-  "reconexiones": 0,
-  "eventos": 645,
+  "inicio": 1795287727556,
+  "fin": 1795290727851,
+  "mensajes": 13778716,
+  "reconexiones": 1,
+  "eventos": 612,
   "errores": [],
-  "nuevos": 135,
-  "nuevosRentables": 10,
-  "nuevosNeta": 13.39
+  "nuevos": 66,
+  "nuevosRentables": 5,
+  "nuevosNeta": 3.18
  },
- "total": 5824,
- "falsos": 3765,
+ "total": 5885,
+ "falsos": 3798,
  "largos": {
-  "episodios": 21878,
+  "episodios": 21791,
   "eventos": 178,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2718,
-   "gan": 8177.03,
-   "nNeta": 827,
-   "neta": 2007.03
+   "n": 2746,
+   "gan": 8224.55,
+   "nNeta": 833,
+   "neta": 2009.53
   },
   {
    "s": 2,
-   "n": 1366,
-   "gan": 3341.18,
-   "nNeta": 346,
-   "neta": 524.8
+   "n": 1383,
+   "gan": 3371.05,
+   "nNeta": 350,
+   "neta": 527.11
   },
   {
    "s": 5,
-   "n": 774,
-   "gan": 1681.61,
-   "nNeta": 166,
-   "neta": 150.24
+   "n": 780,
+   "gan": 1696.88,
+   "nNeta": 167,
+   "neta": 150.98
   },
   {
    "s": 30,
-   "n": 264,
-   "gan": 625.81,
+   "n": 265,
+   "gan": 632.24,
    "nNeta": 19,
    "neta": 13.68
   }
  ],
- "rentables": 1815,
+ "rentables": 1832,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 81,
-   "descartadas": 301,
-   "neta": 220.06,
-   "dias": 7.56,
-   "semana": 203.89
+   "ops": 82,
+   "descartadas": 305,
+   "neta": 220.93,
+   "dias": 7.54,
+   "semana": 205.22
   },
   {
    "capital": 1000,
-   "ops": 95,
-   "descartadas": 301,
-   "neta": 364.39,
-   "dias": 7.56,
-   "semana": 337.6
+   "ops": 96,
+   "descartadas": 305,
+   "neta": 365.26,
+   "dias": 7.54,
+   "semana": 339.29
   },
   {
    "capital": 2000,
-   "ops": 101,
-   "descartadas": 301,
-   "neta": 528.69,
-   "dias": 7.56,
-   "semana": 489.83
+   "ops": 102,
+   "descartadas": 305,
+   "neta": 529.56,
+   "dias": 7.54,
+   "semana": 491.91
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 6,
-   "horas": 131.7,
-   "episodios": 4229,
-   "sospechosas": 68,
-   "realistaNeta": 543.16,
+   "horas": 132.5,
+   "episodios": 4295,
+   "sospechosas": 69,
+   "realistaNeta": 546.34,
    "capital": {
-    "500": 161.26,
-    "1000": 251.99,
-    "2000": 375.75
+    "500": 162.13,
+    "1000": 252.86,
+    "2000": 376.62
    },
    "cumple": true
   }
@@ -236,37 +236,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5733,
-  "n": 1652,
-  "gan": 4100.65,
-  "nNeta": 405,
-  "neta": 723.81
+  "conDato": 5794,
+  "n": 1673,
+  "gan": 4145.96,
+  "nNeta": 410,
+  "neta": 726.99
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1682
+   "n": 1696
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2142
+   "n": 2168
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1218
+   "n": 1233
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 510
+   "n": 515
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 174
+   "n": 175
   },
   {
    "et": "> 5 min",
@@ -633,129 +633,129 @@
   },
   {
    "h": 1795287600000,
-   "n": 4
+   "n": 70
   }
  ],
  "recientes": [
   {
-   "inicio": 1795287607409,
-   "titulo": "Newcastle United FC vs. Arsenal FC",
-   "dur": 1.814,
-   "gan": 1.53,
+   "inicio": 1795290719599,
+   "titulo": "RC Strasbourg Alsace vs. Stade Brestois 29",
+   "dur": 0.016,
+   "gan": 1.05,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795287607152,
-   "titulo": "Newcastle United FC vs. Arsenal FC",
-   "dur": 0.02,
-   "gan": 0.78,
+   "inicio": 1795290713545,
+   "titulo": "FC Utrecht vs. SC Cambuur-Leeuwarden",
+   "dur": 0.115,
+   "gan": 0.85,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795287604822,
-   "titulo": "Newcastle United FC vs. Arsenal FC",
-   "dur": 2.273,
-   "gan": 0.81,
+   "inicio": 1795290689025,
+   "titulo": "Yellow-Red KV Mechelen vs. Club Brugge",
+   "dur": 1.859,
+   "gan": 1.96,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795287604331,
-   "titulo": "Newcastle United FC vs. Arsenal FC",
-   "dur": 0.435,
+   "inicio": 1795290510515,
+   "titulo": "Lille OSC vs. Olympique Lyonnais",
+   "dur": 5.443,
    "gan": 0.62,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795287536865,
-   "titulo": "Newcastle United FC vs. Arsenal FC",
-   "dur": 0.503,
-   "gan": 0.97,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795287533826,
-   "titulo": "Newcastle United FC vs. Arsenal FC",
-   "dur": 1.305,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795287375588,
-   "titulo": "Newcastle United FC vs. Arsenal FC",
-   "dur": 0.028,
-   "gan": 0.73,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795287371273,
-   "titulo": "Newcastle United FC vs. Arsenal FC",
-   "dur": 3.615,
-   "gan": 0.96,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795287362435,
-   "titulo": "Newcastle United FC vs. Arsenal FC",
-   "dur": 7.624,
-   "gan": 0.96,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795287321435,
-   "titulo": "Vålerenga Fotball vs. IK Start",
-   "dur": 4.434,
-   "gan": 0.78,
-   "neta": 0.4,
    "lado": "si"
   },
   {
-   "inicio": 1795287317495,
-   "titulo": "Vålerenga Fotball vs. IK Start",
-   "dur": 0.059,
-   "gan": 0.63,
-   "neta": 0.33,
+   "inicio": 1795290360055,
+   "titulo": "Lowest temperature in Seoul (Incheon) on November 22?",
+   "dur": 0.914,
+   "gan": 1,
+   "neta": 0.87,
    "lado": "si"
   },
   {
-   "inicio": 1795287316355,
-   "titulo": "Vålerenga Fotball vs. IK Start",
-   "dur": 0.115,
-   "gan": 0.63,
-   "neta": 0.33,
+   "inicio": 1795290359589,
+   "titulo": "Lowest temperature in Seoul (Incheon) on November 22?",
+   "dur": 0.362,
+   "gan": 2.32,
+   "neta": 2.19,
    "lado": "si"
   },
   {
-   "inicio": 1795287315335,
-   "titulo": "Vålerenga Fotball vs. IK Start",
-   "dur": 0.739,
-   "gan": 3.11,
-   "neta": 1.61,
-   "lado": "si"
+   "inicio": 1795290032403,
+   "titulo": "FC Utrecht vs. SC Cambuur-Leeuwarden",
+   "dur": 1.875,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1795287245719,
+   "inicio": 1795289975219,
    "titulo": "Feyenoord Rotterdam vs. SBV Excelsior",
-   "dur": 1.672,
-   "gan": 3.66,
-   "neta": 1.98,
+   "dur": 3.843,
+   "gan": 0.76,
+   "neta": 0.57,
    "lado": "si"
   },
   {
-   "inicio": 1795287245103,
+   "inicio": 1795289975103,
    "titulo": "Feyenoord Rotterdam vs. SBV Excelsior",
-   "dur": 0.297,
-   "gan": 6.26,
-   "neta": 0.89,
-   "lado": "no"
+   "dur": 0.084,
+   "gan": 0.69,
+   "neta": 0.5,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795289974079,
+   "titulo": "Feyenoord Rotterdam vs. SBV Excelsior",
+   "dur": 0.989,
+   "gan": 2.22,
+   "neta": 1.69,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795289974010,
+   "titulo": "Feyenoord Rotterdam vs. SBV Excelsior",
+   "dur": 0.01,
+   "gan": 0.6,
+   "neta": 0.42,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795289971760,
+   "titulo": "Feyenoord Rotterdam vs. SBV Excelsior",
+   "dur": 2.235,
+   "gan": 1.11,
+   "neta": 0.8,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795289971608,
+   "titulo": "Feyenoord Rotterdam vs. SBV Excelsior",
+   "dur": 0.12,
+   "gan": 0.6,
+   "neta": 0.35,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795289849836,
+   "titulo": "FC Utrecht vs. SC Cambuur-Leeuwarden",
+   "dur": 0.067,
+   "gan": 7.09,
+   "neta": 2.6,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795289844258,
+   "titulo": "FC Utrecht vs. SC Cambuur-Leeuwarden",
+   "dur": 0.098,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
   }
  ]
 }
