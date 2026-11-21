@@ -1,84 +1,84 @@
 {
- "actualizado": 1795221321342,
- "inicio": 1794518492995,
+ "actualizado": 1795224335355,
+ "inicio": 1794539593100,
  "ejecucion": {
-  "inicio": 1795218321039,
-  "fin": 1795221321342,
-  "mensajes": 11519105,
+  "inicio": 1795221335020,
+  "fin": 1795224335355,
+  "mensajes": 10991374,
   "reconexiones": 0,
-  "eventos": 597,
+  "eventos": 588,
   "errores": [],
-  "nuevos": 62,
-  "nuevosRentables": 3,
-  "nuevosNeta": 0.97
+  "nuevos": 22,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.69
  },
- "total": 5292,
- "falsos": 2763,
+ "total": 5300,
+ "falsos": 2774,
  "largos": {
-  "episodios": 23256,
-  "eventos": 175,
+  "episodios": 23243,
+  "eventos": 174,
   "dias": 7
  },
  "enEspera": {
   "episodios": 126,
   "eventos": 24
  },
- "mediana": 0.45,
+ "mediana": 0.445,
  "captura": [
   {
    "s": 0.5,
-   "n": 2550,
-   "gan": 7490.6,
-   "nNeta": 775,
-   "neta": 1941.39
+   "n": 2551,
+   "gan": 7482.46,
+   "nNeta": 779,
+   "neta": 1938.92
   },
   {
    "s": 2,
-   "n": 1336,
-   "gan": 3161.03,
-   "nNeta": 354,
-   "neta": 587.74
+   "n": 1334,
+   "gan": 3136.24,
+   "nNeta": 353,
+   "neta": 577.66
   },
   {
    "s": 5,
-   "n": 805,
-   "gan": 1824.01,
-   "nNeta": 184,
-   "neta": 293.69
+   "n": 804,
+   "gan": 1823.96,
+   "nNeta": 183,
+   "neta": 293.67
   },
   {
    "s": 30,
    "n": 289,
-   "gan": 609.41,
+   "gan": 610.17,
    "nNeta": 25,
    "neta": 16
   }
  ],
- "rentables": 1663,
+ "rentables": 1670,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 86,
-   "descartadas": 307,
-   "neta": 218.1,
-   "dias": 7.88,
-   "semana": 193.71
+   "ops": 87,
+   "descartadas": 304,
+   "neta": 218.79,
+   "dias": 7.86,
+   "semana": 194.96
   },
   {
    "capital": 1000,
-   "ops": 99,
-   "descartadas": 307,
-   "neta": 354.95,
-   "dias": 7.88,
-   "semana": 315.26
+   "ops": 100,
+   "descartadas": 304,
+   "neta": 355.64,
+   "dias": 7.86,
+   "semana": 316.91
   },
   {
    "capital": 2000,
-   "ops": 104,
-   "descartadas": 307,
-   "neta": 503.74,
-   "dias": 7.88,
-   "semana": 447.43
+   "ops": 105,
+   "descartadas": 304,
+   "neta": 504.43,
+   "dias": 7.86,
+   "semana": 449.51
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 5,
-   "horas": 113.3,
-   "episodios": 3109,
-   "sospechosas": 36,
-   "realistaNeta": 416.26,
+   "horas": 114.2,
+   "episodios": 3132,
+   "sospechosas": 38,
+   "realistaNeta": 416.95,
    "capital": {
-    "500": 130.83,
-    "1000": 195.52,
-    "2000": 273.34
+    "500": 131.52,
+    "1000": 196.21,
+    "2000": 274.03
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 65,
+  "n": 67,
   "top": [
    {
     "inicio": 1794738069985,
@@ -236,22 +236,22 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5227,
-  "n": 1622,
-  "gan": 3846.48,
-  "nNeta": 416,
-  "neta": 786.21
+  "conDato": 5233,
+  "n": 1617,
+  "gan": 3815.55,
+  "nNeta": 414,
+  "neta": 775.62
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1500
+   "n": 1504
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 1886
+   "n": 1891
   },
   {
    "et": "1–5 s",
@@ -261,17 +261,17 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 516
+   "n": 515
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 187
+   "n": 185
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 102
+   "n": 104
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1794949200000,
-   "n": 198
-  },
   {
    "h": 1794952800000,
    "n": 9
@@ -633,128 +629,132 @@
   },
   {
    "h": 1795219200000,
-   "n": 52
+   "n": 65
+  },
+  {
+   "h": 1795222800000,
+   "n": 10
   }
  ],
  "recientes": [
   {
-   "inicio": 1795221240475,
-   "titulo": "Escorpiones de Belén vs. AD San Carlos",
-   "dur": 80.567,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795221174347,
-   "titulo": "CA Vélez Sarsfield vs. CA Belgrano",
-   "dur": 0.884,
-   "gan": 0.59,
+   "inicio": 1795222992171,
+   "titulo": "Kidderminster Harriers FC vs. AFC Fylde",
+   "dur": 1342.853,
+   "gan": 1.04,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795221173288,
-   "titulo": "Independiente Medellín vs. Independiente Santa Fe",
-   "dur": 1.334,
-   "gan": 0.64,
+   "inicio": 1795224241756,
+   "titulo": "CA Bucaramanga vs. América de Cali",
+   "dur": 0.189,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795224239084,
+   "titulo": "CA Bucaramanga vs. América de Cali",
+   "dur": 0.448,
+   "gan": 0.96,
    "neta": 0.05,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795221049665,
-   "titulo": "CA Vélez Sarsfield vs. CA Belgrano",
-   "dur": 0.17,
-   "gan": 0.88,
+   "inicio": 1795224236556,
+   "titulo": "CA Bucaramanga vs. América de Cali",
+   "dur": 0.953,
+   "gan": 0.72,
+   "neta": 0.07,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795224234971,
+   "titulo": "CA Bucaramanga vs. América de Cali",
+   "dur": 1.559,
+   "gan": 0.64,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795221047097,
-   "titulo": "CA Vélez Sarsfield vs. CA Belgrano",
-   "dur": 0.644,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795220855884,
-   "titulo": "Independiente Medellín vs. Independiente Santa Fe",
-   "dur": 0.761,
+   "inicio": 1795224231121,
+   "titulo": "CA Bucaramanga vs. América de Cali",
+   "dur": 1.172,
    "gan": 0.72,
    "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795224226565,
+   "titulo": "CA Bucaramanga vs. América de Cali",
+   "dur": 4.331,
+   "gan": 1.67,
+   "neta": 0.69,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795224206373,
+   "titulo": "CA Bucaramanga vs. América de Cali",
+   "dur": 0.792,
+   "gan": 0.89,
+   "neta": 0.14,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795224201609,
+   "titulo": "CA Bucaramanga vs. América de Cali",
+   "dur": 0.591,
+   "gan": 7.15,
+   "neta": 2.3,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795223747272,
+   "titulo": "CA Bucaramanga vs. América de Cali",
+   "dur": 0.352,
+   "gan": 0.51,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795220419260,
-   "titulo": "Independiente Medellín vs. Independiente Santa Fe",
-   "dur": 4.464,
-   "gan": 0.96,
-   "neta": 0.11,
+   "inicio": 1795222610194,
+   "titulo": "Escorpiones de Belén vs. AD San Carlos",
+   "dur": 0.137,
+   "gan": 0.99,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795220419189,
-   "titulo": "Independiente Medellín vs. Independiente Santa Fe",
-   "dur": 0.031,
-   "gan": 0.53,
-   "neta": 0.01,
+   "inicio": 1795222593693,
+   "titulo": "Escorpiones de Belén vs. AD San Carlos",
+   "dur": 0.104,
+   "gan": 0.99,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795220419156,
-   "titulo": "Independiente Medellín vs. Independiente Santa Fe",
-   "dur": 0.011,
-   "gan": 0.53,
-   "neta": 0.01,
+   "inicio": 1795222585228,
+   "titulo": "Escorpiones de Belén vs. AD San Carlos",
+   "dur": 0.095,
+   "gan": 0.99,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795220418963,
-   "titulo": "Independiente Medellín vs. Independiente Santa Fe",
-   "dur": 0.098,
-   "gan": 0.53,
-   "neta": 0.01,
+   "inicio": 1795222580571,
+   "titulo": "Escorpiones de Belén vs. AD San Carlos",
+   "dur": 0.048,
+   "gan": 0.99,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795220418806,
-   "titulo": "Independiente Medellín vs. Independiente Santa Fe",
-   "dur": 0.15,
-   "gan": 0.53,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795220417580,
-   "titulo": "Independiente Medellín vs. Independiente Santa Fe",
-   "dur": 0.215,
-   "gan": 0.96,
-   "neta": 0.11,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795220411936,
-   "titulo": "Independiente Medellín vs. Independiente Santa Fe",
-   "dur": 0.066,
-   "gan": 0.53,
-   "neta": 0.18,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795220410826,
-   "titulo": "Independiente Medellín vs. Independiente Santa Fe",
-   "dur": 0.09,
-   "gan": 0.53,
-   "neta": 0.18,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795220408377,
-   "titulo": "Independiente Medellín vs. Independiente Santa Fe",
-   "dur": 0.431,
-   "gan": 0.85,
-   "neta": 0.46,
+   "inicio": 1795222267079,
+   "titulo": "CD Palestino vs. CD Unión La Calera",
+   "dur": 1.256,
+   "gan": 1.53,
+   "neta": 1.23,
    "lado": "si"
   }
  ]
