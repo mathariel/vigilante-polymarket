@@ -1,21 +1,21 @@
 {
- "actualizado": 1795372147455,
- "inicio": 1794771671674,
+ "actualizado": 1795375160479,
+ "inicio": 1794774353777,
  "ejecucion": {
-  "inicio": 1795369147156,
-  "fin": 1795372147455,
-  "mensajes": 14054142,
+  "inicio": 1795372160158,
+  "fin": 1795375160479,
+  "mensajes": 12025989,
   "reconexiones": 0,
-  "eventos": 610,
+  "eventos": 602,
   "errores": [],
-  "nuevos": 64,
-  "nuevosRentables": 6,
-  "nuevosNeta": 3.16
+  "nuevos": 41,
+  "nuevosRentables": 2,
+  "nuevosNeta": 0.62
  },
- "total": 5861,
- "falsos": 3940,
+ "total": 5834,
+ "falsos": 3951,
  "largos": {
-  "episodios": 21842,
+  "episodios": 21861,
   "eventos": 173,
   "dias": 7
  },
@@ -23,28 +23,28 @@
   "episodios": 52,
   "eventos": 17
  },
- "mediana": 0.359,
+ "mediana": 0.366,
  "captura": [
   {
    "s": 0.5,
-   "n": 2660,
-   "gan": 8492.63,
-   "nNeta": 785,
-   "neta": 1962.9
+   "n": 2665,
+   "gan": 8511.32,
+   "nNeta": 790,
+   "neta": 1982.07
   },
   {
    "s": 2,
-   "n": 1286,
-   "gan": 3345.42,
-   "nNeta": 312,
-   "neta": 430.38
+   "n": 1287,
+   "gan": 3346.36,
+   "nNeta": 313,
+   "neta": 430.96
   },
   {
    "s": 5,
-   "n": 736,
-   "gan": 1790.61,
-   "nNeta": 163,
-   "neta": 132.47
+   "n": 738,
+   "gan": 1793.1,
+   "nNeta": 164,
+   "neta": 133.05
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 34.77
   }
  ],
- "rentables": 1741,
+ "rentables": 1745,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 75,
-   "descartadas": 283,
-   "neta": 182.93,
-   "dias": 6.89,
-   "semana": 185.93
+   "ops": 76,
+   "descartadas": 284,
+   "neta": 183.51,
+   "dias": 6.92,
+   "semana": 185.64
   },
   {
    "capital": 1000,
-   "ops": 83,
-   "descartadas": 283,
-   "neta": 281.1,
-   "dias": 6.89,
-   "semana": 285.72
+   "ops": 84,
+   "descartadas": 284,
+   "neta": 281.68,
+   "dias": 6.92,
+   "semana": 284.95
   },
   {
    "capital": 2000,
-   "ops": 84,
-   "descartadas": 283,
-   "neta": 414.35,
-   "dias": 6.89,
-   "semana": 421.16
+   "ops": 85,
+   "descartadas": 284,
+   "neta": 414.93,
+   "dias": 6.92,
+   "semana": 419.74
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 7,
-   "horas": 155,
-   "episodios": 5521,
-   "sospechosas": 90,
-   "realistaNeta": 631.9,
+   "horas": 155.8,
+   "episodios": 5562,
+   "sospechosas": 91,
+   "realistaNeta": 632.52,
    "capital": {
-    "500": 182.52,
-    "1000": 280.7,
-    "2000": 413.94
+    "500": 183.1,
+    "1000": 281.28,
+    "2000": 414.52
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 91,
+  "n": 92,
   "top": [
    {
     "inicio": 1795274262924,
@@ -236,17 +236,17 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5770,
-  "n": 1589,
-  "gan": 4221.85,
-  "nNeta": 377,
-  "neta": 634.85
+  "conDato": 5742,
+  "n": 1593,
+  "gan": 4228.63,
+  "nNeta": 379,
+  "neta": 635.47
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1691
+   "n": 1662
   },
   {
    "et": "0.1–1 s",
@@ -261,7 +261,7 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 490
+   "n": 492
   },
   {
    "et": "30 s–5 min",
@@ -276,13 +276,6 @@
  ],
  "porEvento": [
   {
-   "titulo": "Spain vs. England",
-   "n": 214,
-   "gan": 338.05,
-   "neta": 15.86,
-   "mediana": 0.176
-  },
-  {
    "titulo": "Bitcoin price on November 19?",
    "n": 179,
    "gan": 124.38,
@@ -295,6 +288,13 @@
    "gan": 248.31,
    "neta": 21.73,
    "mediana": 0.132
+  },
+  {
+   "titulo": "Spain vs. England",
+   "n": 147,
+   "gan": 204.38,
+   "neta": 5.83,
+   "mediana": 0.225
   },
   {
    "titulo": "FC Juárez vs. Atlas FC",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795114800000,
-   "n": 104
-  },
   {
    "h": 1795118400000,
    "n": 4
@@ -633,128 +629,132 @@
   },
   {
    "h": 1795370400000,
+   "n": 41
+  },
+  {
+   "h": 1795374000000,
    "n": 28
   }
  ],
  "recientes": [
   {
-   "inicio": 1795370909408,
-   "titulo": "FC Lorient vs. Stade Rennais FC 1901",
-   "dur": 1237.75,
-   "gan": 1,
-   "neta": 0.46,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795371702550,
-   "titulo": "Lommel SK vs. Standard Liege",
-   "dur": 2.194,
-   "gan": 1.3,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795371702451,
-   "titulo": "Lommel SK vs. Standard Liege",
-   "dur": 0.083,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795371674226,
-   "titulo": "AC Milan vs. Frosinone Calcio",
-   "dur": 1.186,
-   "gan": 0.74,
-   "neta": 0.34,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795371637012,
-   "titulo": "Lommel SK vs. Standard Liege",
-   "dur": 0.037,
-   "gan": 0.55,
-   "neta": 0.09,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795371400999,
-   "titulo": "Criciúma EC vs. Fortaleza EC",
-   "dur": 0.822,
-   "gan": 14.72,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795371289348,
-   "titulo": "AC Milan vs. Frosinone Calcio",
-   "dur": 0.17,
-   "gan": 1.36,
-   "neta": 0.82,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795371207913,
-   "titulo": "Olympiacos Piraeus vs. POT Iraklis",
-   "dur": 0.866,
+   "inicio": 1795375028303,
+   "titulo": "Celta Fortuna vs. Real Valladolid CF",
+   "dur": 0.349,
    "gan": 0.84,
-   "neta": 0.01,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795375027011,
+   "titulo": "Celta Fortuna vs. Real Valladolid CF",
+   "dur": 1.041,
+   "gan": 1.08,
+   "neta": 0.82,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795374998536,
+   "titulo": "Celta Fortuna vs. Real Valladolid CF",
+   "dur": 0.712,
+   "gan": 19.89,
+   "neta": 14.69,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795374913812,
+   "titulo": "RSC Anderlecht vs. Oud-Heverlee Leuven",
+   "dur": 7.384,
+   "gan": 0.61,
+   "neta": 0.37,
    "lado": "si"
   },
   {
-   "inicio": 1795371185059,
-   "titulo": "OpenRouter token usage week of November 16?",
-   "dur": 0.534,
-   "gan": 2.56,
-   "neta": 1.64,
+   "inicio": 1795374908321,
+   "titulo": "Celta Fortuna vs. Real Valladolid CF",
+   "dur": 0.767,
+   "gan": 1.02,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795374858591,
+   "titulo": "Celta Fortuna vs. Real Valladolid CF",
+   "dur": 0.833,
+   "gan": 0.5,
+   "neta": 0.3,
    "lado": "si"
   },
   {
-   "inicio": 1795371145034,
-   "titulo": "CA Osasuna vs. Málaga CF",
-   "dur": 0.811,
+   "inicio": 1795374858359,
+   "titulo": "Celta Fortuna vs. Real Valladolid CF",
+   "dur": 0.121,
+   "gan": 0.75,
+   "neta": 0.06,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795374818311,
+   "titulo": "RSC Anderlecht vs. Oud-Heverlee Leuven",
+   "dur": 0.776,
+   "gan": 1.72,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795374817926,
+   "titulo": "RSC Anderlecht vs. Oud-Heverlee Leuven",
+   "dur": 0.362,
+   "gan": 1.49,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795374817820,
+   "titulo": "RSC Anderlecht vs. Oud-Heverlee Leuven",
+   "dur": 0.077,
    "gan": 0.53,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795371125436,
-   "titulo": "CA Paranaense vs. Clube do Remo",
-   "dur": 5.235,
-   "gan": 88.98,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795371115481,
-   "titulo": "CA Osasuna vs. Málaga CF",
-   "dur": 1.581,
-   "gan": 0.56,
-   "neta": 0.15,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795371112998,
-   "titulo": "CA Osasuna vs. Málaga CF",
-   "dur": 0.219,
-   "gan": 0.63,
-   "neta": 0.09,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795370999737,
-   "titulo": "CA Osasuna vs. Málaga CF",
-   "dur": 0.017,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795370910159,
+   "inicio": 1795374817685,
    "titulo": "RSC Anderlecht vs. Oud-Heverlee Leuven",
-   "dur": 4.788,
-   "gan": 2.7,
+   "dur": 0.111,
+   "gan": 0.87,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795374816521,
+   "titulo": "RSC Anderlecht vs. Oud-Heverlee Leuven",
+   "dur": 0.151,
+   "gan": 0.89,
+   "neta": 0.08,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795374815371,
+   "titulo": "RSC Anderlecht vs. Oud-Heverlee Leuven",
+   "dur": 1.111,
+   "gan": 1.05,
+   "neta": 0.11,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795374814613,
+   "titulo": "RSC Anderlecht vs. Oud-Heverlee Leuven",
+   "dur": 0.737,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795374812781,
+   "titulo": "RSC Anderlecht vs. Oud-Heverlee Leuven",
+   "dur": 0.185,
+   "gan": 0.58,
+   "neta": 0.05,
    "lado": "si"
   }
  ]
