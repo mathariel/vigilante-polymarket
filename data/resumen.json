@@ -1,84 +1,84 @@
 {
- "actualizado": 1795311839352,
- "inicio": 1794672315000,
+ "actualizado": 1795314855417,
+ "inicio": 1794687349641,
  "ejecucion": {
-  "inicio": 1795308839124,
-  "fin": 1795311839352,
-  "mensajes": 10939785,
+  "inicio": 1795311855123,
+  "fin": 1795314855417,
+  "mensajes": 11209034,
   "reconexiones": 0,
-  "eventos": 586,
+  "eventos": 584,
   "errores": [],
-  "nuevos": 38,
+  "nuevos": 50,
   "nuevosRentables": 2,
-  "nuevosNeta": 0.3
+  "nuevosNeta": 1.17
  },
- "total": 5766,
- "falsos": 3762,
+ "total": 5587,
+ "falsos": 3739,
  "largos": {
-  "episodios": 21994,
+  "episodios": 22202,
   "eventos": 176,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 70,
+  "episodios": 69,
   "eventos": 18
  },
- "mediana": 0.396,
+ "mediana": 0.383,
  "captura": [
   {
    "s": 0.5,
-   "n": 2691,
-   "gan": 7940.26,
-   "nNeta": 816,
-   "neta": 1948.48
+   "n": 2576,
+   "gan": 7806.41,
+   "nNeta": 779,
+   "neta": 1922.95
   },
   {
    "s": 2,
-   "n": 1327,
-   "gan": 3068.48,
-   "nNeta": 337,
-   "neta": 430.65
+   "n": 1273,
+   "gan": 2956.88,
+   "nNeta": 321,
+   "neta": 418.78
   },
   {
    "s": 5,
-   "n": 740,
-   "gan": 1514.5,
-   "nNeta": 162,
-   "neta": 120.73
+   "n": 720,
+   "gan": 1473.55,
+   "nNeta": 160,
+   "neta": 120.61
   },
   {
    "s": 30,
-   "n": 250,
-   "gan": 557,
+   "n": 245,
+   "gan": 544.14,
    "nNeta": 16,
    "neta": 6.99
   }
  ],
- "rentables": 1743,
+ "rentables": 1684,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 77,
-   "descartadas": 304,
-   "neta": 191.82,
-   "dias": 7.22,
-   "semana": 185.93
+   "ops": 67,
+   "descartadas": 293,
+   "neta": 186.82,
+   "dias": 7.18,
+   "semana": 182.12
   },
   {
    "capital": 1000,
-   "ops": 88,
-   "descartadas": 304,
-   "neta": 307.82,
-   "dias": 7.22,
-   "semana": 298.36
+   "ops": 81,
+   "descartadas": 293,
+   "neta": 298.51,
+   "dias": 7.18,
+   "semana": 291
   },
   {
    "capital": 2000,
-   "ops": 93,
-   "descartadas": 304,
-   "neta": 440.83,
-   "dias": 7.22,
-   "semana": 427.28
+   "ops": 87,
+   "descartadas": 293,
+   "neta": 428.54,
+   "dias": 7.18,
+   "semana": 417.76
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 6,
-   "horas": 138.3,
-   "episodios": 4699,
-   "sospechosas": 77,
-   "realistaNeta": 557.03,
+   "horas": 139.2,
+   "episodios": 4749,
+   "sospechosas": 80,
+   "realistaNeta": 558.2,
    "capital": {
-    "500": 165.73,
-    "1000": 258.4,
-    "2000": 382.16
+    "500": 166.73,
+    "1000": 259.4,
+    "2000": 383.16
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 96,
+  "n": 98,
   "top": [
    {
     "inicio": 1795274262924,
@@ -236,37 +236,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5670,
-  "n": 1617,
-  "gan": 3853.92,
-  "nNeta": 400,
-  "neta": 633.44
+  "conDato": 5489,
+  "n": 1558,
+  "gan": 3739.46,
+  "nNeta": 383,
+  "neta": 618.72
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1653
+   "n": 1629
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2134
+   "n": 2058
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1231
+   "n": 1173
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 490
+   "n": 475
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 162
+   "n": 157
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795046400000,
-   "n": 108
-  },
   {
    "h": 1795050000000,
    "n": 41
@@ -633,129 +629,133 @@
   },
   {
    "h": 1795309200000,
-   "n": 38
+   "n": 64
+  },
+  {
+   "h": 1795312800000,
+   "n": 24
   }
  ],
  "recientes": [
   {
-   "inicio": 1795311401587,
-   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
-   "dur": 0.538,
-   "gan": 3.11,
+   "inicio": 1795314329293,
+   "titulo": "Pumas de la UNAM vs. CF Monterrey",
+   "dur": 7.049,
+   "gan": 1.35,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795311313889,
-   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
-   "dur": 0.034,
+   "inicio": 1795314320313,
+   "titulo": "Pumas de la UNAM vs. CF Monterrey",
+   "dur": 1.954,
    "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795311311050,
-   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
-   "dur": 0.082,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795311284760,
-   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
-   "dur": 1.423,
-   "gan": 0.98,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795311283033,
-   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
-   "dur": 1.665,
-   "gan": 1.69,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795311278804,
-   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
-   "dur": 1.953,
-   "gan": 1.86,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795311273742,
+   "inicio": 1795314117147,
    "titulo": "Pumas de la UNAM vs. CF Monterrey",
-   "dur": 1.409,
-   "gan": 0.65,
+   "dur": 1.719,
+   "gan": 0.76,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795311162128,
-   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
-   "dur": 0.098,
-   "gan": 0.5,
+   "inicio": 1795314116211,
+   "titulo": "Pumas de la UNAM vs. CF Monterrey",
+   "dur": 0.631,
+   "gan": 0.93,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795311162070,
-   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
-   "dur": 0.015,
-   "gan": 1.26,
+   "inicio": 1795314115871,
+   "titulo": "Pumas de la UNAM vs. CF Monterrey",
+   "dur": 0.029,
+   "gan": 0.75,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795311161992,
-   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
-   "dur": 0.046,
-   "gan": 1.69,
+   "inicio": 1795314115815,
+   "titulo": "Pumas de la UNAM vs. CF Monterrey",
+   "dur": 0.03,
+   "gan": 0.79,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795311161684,
-   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
-   "dur": 0.277,
-   "gan": 0.88,
+   "inicio": 1795314115515,
+   "titulo": "Pumas de la UNAM vs. CF Monterrey",
+   "dur": 0.024,
+   "gan": 0.69,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795311161471,
-   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
-   "dur": 0.204,
-   "gan": 1.37,
+   "inicio": 1795314114942,
+   "titulo": "Pumas de la UNAM vs. CF Monterrey",
+   "dur": 0.499,
+   "gan": 1.15,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795311161349,
-   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
-   "dur": 0.094,
-   "gan": 0.98,
+   "inicio": 1795314114676,
+   "titulo": "Pumas de la UNAM vs. CF Monterrey",
+   "dur": 0.252,
+   "gan": 3.28,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795311161280,
-   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
-   "dur": 0.041,
-   "gan": 1.42,
+   "inicio": 1795314114632,
+   "titulo": "Pumas de la UNAM vs. CF Monterrey",
+   "dur": 0.036,
+   "gan": 1.3,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795311161160,
-   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
-   "dur": 0.047,
-   "gan": 1.96,
+   "inicio": 1795313916746,
+   "titulo": "Wellington Phoenix FC vs. Macarthur FC",
+   "dur": 0.077,
+   "gan": 1.59,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
+  },
+  {
+   "inicio": 1795313911533,
+   "titulo": "Wellington Phoenix FC vs. Macarthur FC",
+   "dur": 0.89,
+   "gan": 45.93,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795313766735,
+   "titulo": "Pumas de la UNAM vs. CF Monterrey",
+   "dur": 2.086,
+   "gan": 1.03,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795313152946,
+   "titulo": "Wellington Phoenix FC vs. Macarthur FC",
+   "dur": 1.557,
+   "gan": 7.82,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795313152563,
+   "titulo": "Wellington Phoenix FC vs. Macarthur FC",
+   "dur": 0.077,
+   "gan": 9.88,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
