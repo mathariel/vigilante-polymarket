@@ -1,84 +1,84 @@
 {
- "actualizado": 1795351033586,
- "inicio": 1794723554907,
+ "actualizado": 1795354049185,
+ "inicio": 1794738647992,
  "ejecucion": {
-  "inicio": 1795348033336,
-  "fin": 1795351033586,
-  "mensajes": 15188577,
-  "reconexiones": 0,
-  "eventos": 641,
+  "inicio": 1795351048858,
+  "fin": 1795354049185,
+  "mensajes": 16483515,
+  "reconexiones": 13,
+  "eventos": 660,
   "errores": [],
-  "nuevos": 39,
-  "nuevosRentables": 5,
-  "nuevosNeta": 1.72
+  "nuevos": 57,
+  "nuevosRentables": 3,
+  "nuevosNeta": 6.35
  },
- "total": 5603,
- "falsos": 3787,
+ "total": 5655,
+ "falsos": 3818,
  "largos": {
-  "episodios": 22200,
+  "episodios": 22122,
   "eventos": 176,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 65,
+  "episodios": 64,
   "eventos": 18
  },
- "mediana": 0.363,
+ "mediana": 0.366,
  "captura": [
   {
    "s": 0.5,
-   "n": 2546,
-   "gan": 7759.71,
-   "nNeta": 753,
-   "neta": 1850.69
+   "n": 2575,
+   "gan": 8063.05,
+   "nNeta": 756,
+   "neta": 1858.03
   },
   {
    "s": 2,
-   "n": 1244,
-   "gan": 2919.41,
-   "nNeta": 307,
-   "neta": 387.8
+   "n": 1260,
+   "gan": 3155.21,
+   "nNeta": 308,
+   "neta": 392.21
   },
   {
    "s": 5,
-   "n": 708,
-   "gan": 1473.25,
+   "n": 717,
+   "gan": 1687.16,
    "nNeta": 153,
    "neta": 101.14
   },
   {
    "s": 30,
-   "n": 239,
-   "gan": 555.45,
+   "n": 241,
+   "gan": 606.63,
    "nNeta": 14,
    "neta": 5.24
   }
  ],
- "rentables": 1667,
+ "rentables": 1676,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 69,
-   "descartadas": 284,
-   "neta": 175.04,
+   "ops": 71,
+   "descartadas": 285,
+   "neta": 179.73,
    "dias": 7.05,
-   "semana": 173.69
+   "semana": 178.56
   },
   {
    "capital": 1000,
-   "ops": 79,
-   "descartadas": 284,
-   "neta": 277.95,
+   "ops": 81,
+   "descartadas": 285,
+   "neta": 282.64,
    "dias": 7.05,
-   "semana": 275.82
+   "semana": 280.81
   },
   {
    "capital": 2000,
-   "ops": 80,
-   "descartadas": 284,
-   "neta": 401.73,
+   "ops": 82,
+   "descartadas": 285,
+   "neta": 406.42,
    "dias": 7.05,
-   "semana": 398.63
+   "semana": 403.78
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 7,
-   "horas": 149.2,
-   "episodios": 4971,
-   "sospechosas": 84,
-   "realistaNeta": 561.74,
+   "horas": 150,
+   "episodios": 5028,
+   "sospechosas": 85,
+   "realistaNeta": 568.09,
    "capital": {
-    "500": 168.4,
-    "1000": 261.07,
-    "2000": 384.83
+    "500": 173.09,
+    "1000": 265.76,
+    "2000": 389.52
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 92,
+  "n": 93,
   "top": [
    {
     "inicio": 1795274262924,
@@ -236,37 +236,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5511,
-  "n": 1526,
-  "gan": 3715.9,
-  "nNeta": 367,
-  "neta": 587.9
+  "conDato": 5562,
+  "n": 1548,
+  "gan": 4003.38,
+  "nNeta": 370,
+  "neta": 594.25
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1656
+   "n": 1664
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2083
+   "n": 2104
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1149
+   "n": 1163
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 469
+   "n": 476
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 153
+   "n": 155
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795093200000,
-   "n": 9
-  },
   {
    "h": 1795096800000,
    "n": 4
@@ -633,129 +629,133 @@
   },
   {
    "h": 1795348800000,
-   "n": 28
+   "n": 38
+  },
+  {
+   "h": 1795352400000,
+   "n": 47
   }
  ],
  "recientes": [
   {
-   "inicio": 1795350996447,
-   "titulo": "FC Energie Cottbus vs. Hertha BSC",
-   "dur": 0.142,
-   "gan": 0.58,
+   "inicio": 1795353993479,
+   "titulo": "Kasımpaşa SK vs. Alanyaspor",
+   "dur": 0.546,
+   "gan": 8.41,
+   "neta": 1.29,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795353950531,
+   "titulo": "FC Barcelona vs. Villarreal CF",
+   "dur": 0.998,
+   "gan": 1.01,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795350877223,
-   "titulo": "FC Twente vs. Willem II Tilburg",
-   "dur": 5.591,
-   "gan": 1.23,
+   "inicio": 1795353949086,
+   "titulo": "FC Barcelona vs. Villarreal CF",
+   "dur": 0.773,
+   "gan": 1.01,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795350876827,
-   "titulo": "Union Brescia vs. AC Renate",
-   "dur": 0.111,
-   "gan": 0.8,
+   "inicio": 1795353945180,
+   "titulo": "FC Barcelona vs. Villarreal CF",
+   "dur": 1.726,
+   "gan": 0.7,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795350875458,
-   "titulo": "FC Twente vs. Willem II Tilburg",
-   "dur": 0.353,
-   "gan": 1.99,
-   "neta": 0.62,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795350875687,
-   "titulo": "Union Brescia vs. AC Renate",
-   "dur": 0.067,
-   "gan": 0.57,
+   "inicio": 1795353941248,
+   "titulo": "FC Barcelona vs. Villarreal CF",
+   "dur": 0.281,
+   "gan": 0.71,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795350875604,
-   "titulo": "Union Brescia vs. AC Renate",
-   "dur": 0.043,
-   "gan": 0.96,
+   "inicio": 1795353936514,
+   "titulo": "FC Barcelona vs. Villarreal CF",
+   "dur": 0.538,
+   "gan": 0.77,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795350874398,
-   "titulo": "FC Twente vs. Willem II Tilburg",
-   "dur": 0.01,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795350874109,
-   "titulo": "FC Twente vs. Willem II Tilburg",
-   "dur": 0.248,
+   "inicio": 1795353933840,
+   "titulo": "FC Barcelona vs. Villarreal CF",
+   "dur": 0.523,
    "gan": 0.5,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795350871399,
-   "titulo": "FC Twente vs. Willem II Tilburg",
-   "dur": 0.855,
-   "gan": 4.62,
-   "neta": 0.63,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795350864439,
-   "titulo": "FC Twente vs. Willem II Tilburg",
-   "dur": 5.623,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795350674388,
-   "titulo": "SD Huesca vs. UD Ibiza",
-   "dur": 0.372,
-   "gan": 1.08,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795350621891,
-   "titulo": "Burnley FC vs. Blackburn Rovers FC",
-   "dur": 0.652,
-   "gan": 0.78,
-   "neta": 0.32,
    "lado": "no"
   },
   {
-   "inicio": 1795350606921,
-   "titulo": "FC Twente vs. Willem II Tilburg",
-   "dur": 6.334,
-   "gan": 0.56,
+   "inicio": 1795353929344,
+   "titulo": "FC Barcelona vs. Villarreal CF",
+   "dur": 1.717,
+   "gan": 0.82,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795350445314,
-   "titulo": "FK Radnicki 1923 Kragujevac vs. FK Cukaricki Belgrade",
-   "dur": 0.12,
-   "gan": 6.18,
-   "neta": 0.51,
    "lado": "no"
   },
   {
-   "inicio": 1795350312165,
-   "titulo": "Highest temperature in Ankara on November 22?",
-   "dur": 0.277,
-   "gan": 0.56,
-   "neta": 0.55,
-   "lado": "si"
+   "inicio": 1795353929295,
+   "titulo": "FC Barcelona vs. Villarreal CF",
+   "dur": 0.03,
+   "gan": 1.22,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795353926650,
+   "titulo": "FC Barcelona vs. Villarreal CF",
+   "dur": 2.632,
+   "gan": 2.89,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795353917219,
+   "titulo": "FC Barcelona vs. Villarreal CF",
+   "dur": 0.13,
+   "gan": 1.26,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795353900295,
+   "titulo": "FC Barcelona vs. Villarreal CF",
+   "dur": 16.923,
+   "gan": 1.37,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795353888035,
+   "titulo": "FC Barcelona vs. Villarreal CF",
+   "dur": 0.047,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795353887992,
+   "titulo": "FC Barcelona vs. Villarreal CF",
+   "dur": 0.038,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795353887588,
+   "titulo": "FC Barcelona vs. Villarreal CF",
+   "dur": 0.148,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
