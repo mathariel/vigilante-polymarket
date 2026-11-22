@@ -1,21 +1,21 @@
 {
- "actualizado": 1795323901801,
- "inicio": 1794699405319,
+ "actualizado": 1795326916527,
+ "inicio": 1794708488575,
  "ejecucion": {
-  "inicio": 1795320901447,
-  "fin": 1795323901801,
-  "mensajes": 12159174,
-  "reconexiones": 0,
-  "eventos": 606,
+  "inicio": 1795323916221,
+  "fin": 1795326916527,
+  "mensajes": 13884503,
+  "reconexiones": 6,
+  "eventos": 611,
   "errores": [],
-  "nuevos": 65,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 31,
+  "nuevosRentables": 4,
+  "nuevosNeta": 0.36
  },
- "total": 5535,
- "falsos": 3738,
+ "total": 5558,
+ "falsos": 3746,
  "largos": {
-  "episodios": 22277,
+  "episodios": 22250,
   "eventos": 176,
   "dias": 7
  },
@@ -23,26 +23,26 @@
   "episodios": 65,
   "eventos": 18
  },
- "mediana": 0.37,
+ "mediana": 0.371,
  "captura": [
   {
    "s": 0.5,
-   "n": 2534,
-   "gan": 7634.75,
-   "nNeta": 747,
-   "neta": 1845.68
+   "n": 2545,
+   "gan": 7642.4,
+   "nNeta": 750,
+   "neta": 1839.97
   },
   {
    "s": 2,
-   "n": 1247,
-   "gan": 2883.54,
-   "nNeta": 302,
-   "neta": 388.41
+   "n": 1252,
+   "gan": 2890.04,
+   "nNeta": 305,
+   "neta": 388.6
   },
   {
    "s": 5,
-   "n": 716,
-   "gan": 1444.72,
+   "n": 717,
+   "gan": 1445.66,
    "nNeta": 154,
    "neta": 100.9
   },
@@ -54,31 +54,31 @@
    "neta": 5.24
   }
  ],
- "rentables": 1640,
+ "rentables": 1645,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 67,
-   "descartadas": 281,
-   "neta": 174.19,
-   "dias": 7.12,
-   "semana": 171.26
+   "ops": 68,
+   "descartadas": 284,
+   "neta": 174.36,
+   "dias": 7.14,
+   "semana": 171.02
   },
   {
    "capital": 1000,
-   "ops": 77,
-   "descartadas": 281,
-   "neta": 277.1,
-   "dias": 7.12,
-   "semana": 272.45
+   "ops": 78,
+   "descartadas": 284,
+   "neta": 277.27,
+   "dias": 7.14,
+   "semana": 271.96
   },
   {
    "capital": 2000,
-   "ops": 78,
-   "descartadas": 281,
-   "neta": 400.88,
-   "dias": 7.12,
-   "semana": 394.14
+   "ops": 79,
+   "descartadas": 284,
+   "neta": 401.05,
+   "dias": 7.14,
+   "semana": 393.37
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 7,
-   "horas": 141.7,
-   "episodios": 4834,
+   "horas": 142.5,
+   "episodios": 4865,
    "sospechosas": 82,
-   "realistaNeta": 558.98,
+   "realistaNeta": 559.34,
    "capital": {
-    "500": 167.23,
-    "1000": 259.9,
-    "2000": 383.66
+    "500": 167.4,
+    "1000": 260.07,
+    "2000": 383.83
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 96,
+  "n": 95,
   "top": [
    {
     "inicio": 1795274262924,
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5439,
-  "n": 1527,
-  "gan": 3654.25,
-  "nNeta": 362,
-  "neta": 587.88
+  "conDato": 5463,
+  "n": 1535,
+  "gan": 3662.78,
+  "nNeta": 366,
+  "neta": 588.24
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1630
+   "n": 1633
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2045
+   "n": 2055
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1137
+   "n": 1146
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 469
+   "n": 470
   },
   {
    "et": "30 s–5 min",
@@ -633,129 +633,129 @@
   },
   {
    "h": 1795323600000,
-   "n": 3
+   "n": 34
   }
  ],
  "recientes": [
   {
-   "inicio": 1795323781360,
-   "titulo": "Tigres de la UANL vs. CF América",
-   "dur": 0.151,
-   "gan": 1.25,
-   "neta": 0.66,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795323780512,
-   "titulo": "Tigres de la UANL vs. CF América",
-   "dur": 0.677,
-   "gan": 1.15,
-   "neta": 0.34,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795323777377,
-   "titulo": "Tigres de la UANL vs. CF América",
-   "dur": 0.582,
-   "gan": 2.53,
-   "neta": 2.24,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795322540625,
-   "titulo": "Tigres de la UANL vs. CF América",
-   "dur": 0.217,
-   "gan": 3.27,
+   "inicio": 1795325823610,
+   "titulo": "Gwangju FC vs. Bucheon FC 1995",
+   "dur": 3.841,
+   "gan": 1.55,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795322529917,
-   "titulo": "Tigres de la UANL vs. CF América",
-   "dur": 0.409,
-   "gan": 0.56,
+   "inicio": 1795325693579,
+   "titulo": "Gwangju FC vs. Bucheon FC 1995",
+   "dur": 0.729,
+   "gan": 0.8,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795325691131,
+   "titulo": "Gwangju FC vs. Bucheon FC 1995",
+   "dur": 2.339,
+   "gan": 0.8,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795325684763,
+   "titulo": "Gwangju FC vs. Bucheon FC 1995",
+   "dur": 4.267,
+   "gan": 1.46,
+   "neta": 0.1,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795325683696,
+   "titulo": "Gwangju FC vs. Bucheon FC 1995",
+   "dur": 0.426,
+   "gan": 0.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795322400234,
-   "titulo": "Test Match: New Zealand vs India",
-   "dur": 41.48,
-   "gan": 4.13,
+   "inicio": 1795325682853,
+   "titulo": "Gwangju FC vs. Bucheon FC 1995",
+   "dur": 0.769,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795325680883,
+   "titulo": "Gwangju FC vs. Bucheon FC 1995",
+   "dur": 1.718,
+   "gan": 0.8,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795325680648,
+   "titulo": "Gwangju FC vs. Bucheon FC 1995",
+   "dur": 0.083,
+   "gan": 0.8,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795325680233,
+   "titulo": "Gwangju FC vs. Bucheon FC 1995",
+   "dur": 0.107,
+   "gan": 0.8,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795325679835,
+   "titulo": "Gwangju FC vs. Bucheon FC 1995",
+   "dur": 0.287,
+   "gan": 0.8,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795325677248,
+   "titulo": "Gwangju FC vs. Bucheon FC 1995",
+   "dur": 0.008,
+   "gan": 0.51,
+   "neta": 0.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795325639140,
+   "titulo": "Gwangju FC vs. Bucheon FC 1995",
+   "dur": 0.71,
+   "gan": 12.66,
+   "neta": 9.35,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795325173169,
+   "titulo": "Gwangju FC vs. Bucheon FC 1995",
+   "dur": 0.5,
+   "gan": 0.51,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795322310748,
-   "titulo": "Test Match: New Zealand vs India",
-   "dur": 70.203,
-   "gan": 0.62,
+   "inicio": 1795325139801,
+   "titulo": "Gwangju FC vs. Bucheon FC 1995",
+   "dur": 0.298,
+   "gan": 0.54,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795322239473,
-   "titulo": "Tigres de la UANL vs. CF América",
-   "dur": 0.935,
-   "gan": 1,
+   "inicio": 1795325137580,
+   "titulo": "Gwangju FC vs. Bucheon FC 1995",
+   "dur": 1.949,
+   "gan": 0.59,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795322235648,
-   "titulo": "Tigres de la UANL vs. CF América",
-   "dur": 0.856,
-   "gan": 3.65,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795322231132,
-   "titulo": "Tigres de la UANL vs. CF América",
-   "dur": 0.137,
-   "gan": 1.66,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795322230497,
-   "titulo": "Tigres de la UANL vs. CF América",
-   "dur": 0.005,
-   "gan": 1.47,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795322230303,
-   "titulo": "Tigres de la UANL vs. CF América",
-   "dur": 0.014,
-   "gan": 1.22,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795322229937,
-   "titulo": "Tigres de la UANL vs. CF América",
-   "dur": 0.338,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795322229874,
-   "titulo": "Tigres de la UANL vs. CF América",
-   "dur": 0.052,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795322228113,
-   "titulo": "Tigres de la UANL vs. CF América",
-   "dur": 0.098,
-   "gan": 0.79,
-   "neta": 0,
-   "lado": "si"
+   "lado": "no"
   }
  ]
 }
