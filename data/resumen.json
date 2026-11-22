@@ -1,84 +1,84 @@
 {
- "actualizado": 1795381187063,
+ "actualizado": 1795384201041,
  "inicio": 1794774353777,
  "ejecucion": {
-  "inicio": 1795378186824,
-  "fin": 1795381187063,
-  "mensajes": 11522912,
-  "reconexiones": 0,
-  "eventos": 554,
+  "inicio": 1795381200728,
+  "fin": 1795384201041,
+  "mensajes": 13200716,
+  "reconexiones": 1,
+  "eventos": 581,
   "errores": [],
-  "nuevos": 32,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.47
+  "nuevos": 249,
+  "nuevosRentables": 14,
+  "nuevosNeta": 5
  },
- "total": 5801,
- "falsos": 3982,
+ "total": 5942,
+ "falsos": 3975,
  "largos": {
-  "episodios": 21869,
-  "eventos": 173,
+  "episodios": 21745,
+  "eventos": 171,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 52,
+  "episodios": 47,
   "eventos": 17
  },
- "mediana": 0.375,
+ "mediana": 0.365,
  "captura": [
   {
    "s": 0.5,
-   "n": 2667,
-   "gan": 8509.71,
-   "nNeta": 799,
-   "neta": 1990.03
+   "n": 2700,
+   "gan": 8479.04,
+   "nNeta": 828,
+   "neta": 2008.41
   },
   {
    "s": 2,
    "n": 1279,
-   "gan": 3344.61,
-   "nNeta": 315,
-   "neta": 433.39
+   "gan": 3331.24,
+   "nNeta": 324,
+   "neta": 437.61
   },
   {
    "s": 5,
-   "n": 737,
-   "gan": 1786.39,
-   "nNeta": 164,
-   "neta": 133.05
+   "n": 724,
+   "gan": 1750.43,
+   "nNeta": 167,
+   "neta": 136.57
   },
   {
    "s": 30,
-   "n": 246,
-   "gan": 516.9,
+   "n": 238,
+   "gan": 496.06,
    "nNeta": 21,
    "neta": 34.77
   }
  ],
- "rentables": 1765,
+ "rentables": 1815,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 77,
-   "descartadas": 284,
-   "neta": 184.85,
-   "dias": 6.99,
-   "semana": 185.2
+   "ops": 78,
+   "descartadas": 295,
+   "neta": 185.99,
+   "dias": 6.93,
+   "semana": 188.01
   },
   {
    "capital": 1000,
-   "ops": 85,
-   "descartadas": 284,
-   "neta": 283.02,
-   "dias": 6.99,
-   "semana": 283.56
+   "ops": 87,
+   "descartadas": 295,
+   "neta": 286.32,
+   "dias": 6.93,
+   "semana": 289.42
   },
   {
    "capital": 2000,
-   "ops": 86,
-   "descartadas": 284,
-   "neta": 416.27,
-   "dias": 6.99,
-   "semana": 417.07
+   "ops": 88,
+   "descartadas": 295,
+   "neta": 419.57,
+   "dias": 6.93,
+   "semana": 424.11
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 7,
-   "horas": 157.5,
-   "episodios": 5608,
-   "sospechosas": 93,
-   "realistaNeta": 634.33,
+   "horas": 158.3,
+   "episodios": 5857,
+   "sospechosas": 95,
+   "realistaNeta": 639.33,
    "capital": {
-    "500": 184.44,
-    "1000": 282.62,
-    "2000": 415.86
+    "500": 185.59,
+    "1000": 285.92,
+    "2000": 419.16
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 94,
+  "n": 95,
   "top": [
    {
     "inicio": 1795274262924,
@@ -236,42 +236,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5707,
-  "n": 1582,
-  "gan": 4219.1,
-  "nNeta": 380,
-  "neta": 636.47
+  "conDato": 5847,
+  "n": 1589,
+  "gan": 4231.38,
+  "nNeta": 393,
+  "neta": 641.23
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1638
+   "n": 1684
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2233
+   "n": 2309
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1185
+   "n": 1215
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 491
+   "n": 486
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 159
+   "n": 156
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 87
+   "n": 82
   }
  ],
  "porEvento": [
@@ -290,6 +290,13 @@
    "mediana": 0.132
   },
   {
+   "titulo": "Olympique de Marseille vs. Le Mans FC",
+   "n": 133,
+   "gan": 131.98,
+   "neta": 14.87,
+   "mediana": 0.183
+  },
+  {
    "titulo": "FC Juárez vs. Atlas FC",
    "n": 130,
    "gan": 163.51,
@@ -302,6 +309,13 @@
    "gan": 95.67,
    "neta": 0.14,
    "mediana": 0.106
+  },
+  {
+   "titulo": "Atalanta BC vs. FC Internazionale Milano",
+   "n": 126,
+   "gan": 139.3,
+   "neta": 21.49,
+   "mediana": 0.341
   },
   {
    "titulo": "Coritiba FBC vs. Santos FC",
@@ -330,27 +344,9 @@
    "gan": 68.48,
    "neta": 15.6,
    "mediana": 9.434
-  },
-  {
-   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
-   "n": 91,
-   "gan": 85.07,
-   "neta": 3.85,
-   "mediana": 0.122
-  },
-  {
-   "titulo": "Seattle Sounders FC vs. Real Salt Lake",
-   "n": 89,
-   "gan": 97.18,
-   "neta": 20.16,
-   "mediana": 0.134
   }
  ],
  "porHora": [
-  {
-   "h": 1795122000000,
-   "n": 14
-  },
   {
    "h": 1795125600000,
    "n": 7
@@ -634,128 +630,132 @@
   {
    "h": 1795377600000,
    "n": 38
+  },
+  {
+   "h": 1795381200000,
+   "n": 249
   }
  ],
  "recientes": [
   {
-   "inicio": 1795380935166,
-   "titulo": "Atalanta BC vs. FC Internazionale Milano",
-   "dur": 1.24,
-   "gan": 0.54,
+   "inicio": 1795384187749,
+   "titulo": "Fluminense FC vs. Mirassol FC",
+   "dur": 0.348,
+   "gan": 1,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795380719521,
-   "titulo": "Atalanta BC vs. FC Internazionale Milano",
-   "dur": 9.427,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795380598302,
-   "titulo": "Bamin Real Potosí vs. Club Bolívar",
-   "dur": 1.488,
-   "gan": 1.36,
-   "neta": 0.56,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795380598085,
-   "titulo": "Bamin Real Potosí vs. Club Bolívar",
-   "dur": 0.095,
-   "gan": 1.33,
-   "neta": 0.56,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795380318947,
-   "titulo": "Bamin Real Potosí vs. Club Bolívar",
-   "dur": 0.944,
-   "gan": 3.28,
-   "neta": 2.78,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795380286011,
-   "titulo": "Orense SC vs. Mushuc Runa SC",
-   "dur": 0.702,
-   "gan": 1.06,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795380172458,
-   "titulo": "Donald Trump # Truth Social posts November 17 - November 24, 2026?",
-   "dur": 0.008,
-   "gan": 0.6,
-   "neta": 0.45,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795379612987,
-   "titulo": "Criciúma EC vs. Fortaleza EC",
-   "dur": 0.502,
-   "gan": 0.6,
-   "neta": 0.41,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795379464289,
-   "titulo": "Atalanta BC vs. FC Internazionale Milano",
-   "dur": 0.503,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795379385906,
-   "titulo": "Getafe CF vs. Club Atlético de Madrid",
-   "dur": 0.124,
-   "gan": 0.64,
-   "neta": 0.08,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795379240014,
-   "titulo": "Atalanta BC vs. FC Internazionale Milano",
-   "dur": 0.067,
-   "gan": 0.82,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795379167513,
+   "inicio": 1795383674311,
    "titulo": "Olympique de Marseille vs. Le Mans FC",
-   "dur": 0.801,
-   "gan": 1.85,
-   "neta": 0.22,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795379163571,
-   "titulo": "Atalanta BC vs. FC Internazionale Milano",
-   "dur": 4.278,
-   "gan": 0.5,
-   "neta": 0,
+   "dur": 0.776,
+   "gan": 4.7,
+   "neta": 3.93,
    "lado": "si"
   },
   {
-   "inicio": 1795379163043,
-   "titulo": "Atalanta BC vs. FC Internazionale Milano",
-   "dur": 0.22,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795379157112,
+   "inicio": 1795383674217,
    "titulo": "Olympique de Marseille vs. Le Mans FC",
-   "dur": 3.47,
-   "gan": 2.31,
-   "neta": 0.47,
+   "dur": 0.019,
+   "gan": 1.2,
+   "neta": 0.26,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795383673816,
+   "titulo": "Olympique de Marseille vs. Le Mans FC",
+   "dur": 0.366,
+   "gan": 0.67,
+   "neta": 0.26,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795383671624,
+   "titulo": "Olympique de Marseille vs. Le Mans FC",
+   "dur": 2.183,
+   "gan": 0.6,
+   "neta": 0.24,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795383643321,
+   "titulo": "Olympique de Marseille vs. Le Mans FC",
+   "dur": 0.107,
+   "gan": 0.58,
+   "neta": 0.24,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795383642976,
+   "titulo": "Olympique de Marseille vs. Le Mans FC",
+   "dur": 0.313,
+   "gan": 0.74,
+   "neta": 0.37,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795383642116,
+   "titulo": "Olympique de Marseille vs. Le Mans FC",
+   "dur": 0.826,
+   "gan": 0.74,
+   "neta": 0.37,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795383627281,
+   "titulo": "Olympique de Marseille vs. Le Mans FC",
+   "dur": 9.803,
+   "gan": 1.29,
+   "neta": 0.91,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795383583906,
+   "titulo": "Olympique de Marseille vs. Le Mans FC",
+   "dur": 0.534,
+   "gan": 1.09,
+   "neta": 0.96,
    "lado": "no"
+  },
+  {
+   "inicio": 1795383583854,
+   "titulo": "Olympique de Marseille vs. Le Mans FC",
+   "dur": 0.024,
+   "gan": 1.24,
+   "neta": 1.12,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795383583806,
+   "titulo": "Olympique de Marseille vs. Le Mans FC",
+   "dur": 0.024,
+   "gan": 0.58,
+   "neta": 0.48,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795383583734,
+   "titulo": "Olympique de Marseille vs. Le Mans FC",
+   "dur": 0.041,
+   "gan": 1.5,
+   "neta": 0.32,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795383569936,
+   "titulo": "Atalanta BC vs. FC Internazionale Milano",
+   "dur": 0.652,
+   "gan": 5.29,
+   "neta": 4.83,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795383560480,
+   "titulo": "Atalanta BC vs. FC Internazionale Milano",
+   "dur": 5.219,
+   "gan": 3.18,
+   "neta": 2.56,
+   "lado": "si"
   }
  ]
 }
