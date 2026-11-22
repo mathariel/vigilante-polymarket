@@ -1,50 +1,50 @@
 {
- "actualizado": 1795366120684,
- "inicio": 1794765744089,
+ "actualizado": 1795369133788,
+ "inicio": 1794768754009,
  "ejecucion": {
-  "inicio": 1795363120364,
-  "fin": 1795366120684,
-  "mensajes": 14227912,
+  "inicio": 1795366133445,
+  "fin": 1795369133788,
+  "mensajes": 15437402,
   "reconexiones": 0,
-  "eventos": 630,
+  "eventos": 642,
   "errores": [],
-  "nuevos": 92,
-  "nuevosRentables": 3,
-  "nuevosNeta": 2.27
+  "nuevos": 87,
+  "nuevosRentables": 4,
+  "nuevosNeta": 1.91
  },
- "total": 5811,
- "falsos": 3909,
+ "total": 5862,
+ "falsos": 3932,
  "largos": {
-  "episodios": 21911,
+  "episodios": 21842,
   "eventos": 173,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 54,
+  "episodios": 53,
   "eventos": 17
  },
- "mediana": 0.368,
+ "mediana": 0.36,
  "captura": [
   {
    "s": 0.5,
-   "n": 2648,
-   "gan": 8353.14,
-   "nNeta": 776,
-   "neta": 1949.24
+   "n": 2656,
+   "gan": 8402.1,
+   "nNeta": 782,
+   "neta": 1965.15
   },
   {
    "s": 2,
-   "n": 1286,
-   "gan": 3218.52,
+   "n": 1281,
+   "gan": 3220.9,
    "nNeta": 312,
-   "neta": 438.75
+   "neta": 432.05
   },
   {
    "s": 5,
-   "n": 735,
-   "gan": 1671.1,
-   "nNeta": 161,
-   "neta": 132.66
+   "n": 733,
+   "gan": 1667.39,
+   "nNeta": 162,
+   "neta": 133.29
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 34.31
   }
  ],
- "rentables": 1724,
+ "rentables": 1742,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 73,
+   "ops": 74,
    "descartadas": 283,
-   "neta": 188.27,
+   "neta": 182.5,
    "dias": 6.88,
-   "semana": 191.58
+   "semana": 185.65
   },
   {
    "capital": 1000,
-   "ops": 81,
+   "ops": 82,
    "descartadas": 283,
-   "neta": 286.44,
+   "neta": 280.67,
    "dias": 6.88,
-   "semana": 291.48
+   "semana": 285.52
   },
   {
    "capital": 2000,
-   "ops": 82,
+   "ops": 83,
    "descartadas": 283,
-   "neta": 419.69,
+   "neta": 413.92,
    "dias": 6.88,
-   "semana": 427.08
+   "semana": 421.07
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 7,
-   "horas": 153.3,
-   "episodios": 5370,
-   "sospechosas": 89,
-   "realistaNeta": 626.83,
+   "horas": 154.2,
+   "episodios": 5457,
+   "sospechosas": 90,
+   "realistaNeta": 628.74,
    "capital": {
-    "500": 178.09,
-    "1000": 276.27,
-    "2000": 409.51
+    "500": 179.99,
+    "1000": 278.17,
+    "2000": 411.41
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 90,
+  "n": 91,
   "top": [
    {
     "inicio": 1795274262924,
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5721,
-  "n": 1577,
-  "gan": 4074.49,
-  "nNeta": 375,
-  "neta": 643.2
+  "conDato": 5771,
+  "n": 1581,
+  "gan": 4095.09,
+  "nNeta": 376,
+  "neta": 637.02
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1672
+   "n": 1692
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2202
+   "n": 2234
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1194
+   "n": 1195
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 490
+   "n": 488
   },
   {
    "et": "30 s–5 min",
@@ -277,10 +277,10 @@
  "porEvento": [
   {
    "titulo": "Spain vs. England",
-   "n": 258,
-   "gan": 398.09,
-   "neta": 19.93,
-   "mediana": 0.197
+   "n": 252,
+   "gan": 390.91,
+   "neta": 19.81,
+   "mediana": 0.196
   },
   {
    "titulo": "Bitcoin price on November 19?",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795107600000,
-   "n": 71
-  },
   {
    "h": 1795111200000,
    "n": 16
@@ -633,129 +629,133 @@
   },
   {
    "h": 1795363200000,
-   "n": 92
+   "n": 96
+  },
+  {
+   "h": 1795366800000,
+   "n": 83
   }
  ],
  "recientes": [
   {
-   "inicio": 1795366118436,
-   "titulo": "Sønderjyske Fodbold vs. Odense BK",
-   "dur": 0.173,
-   "gan": 0.85,
-   "neta": 0.73,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795366037335,
-   "titulo": "Panaitolikos Agrinio vs. Volos NPS",
-   "dur": 1.182,
-   "gan": 0.92,
-   "neta": 0.83,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795365966444,
-   "titulo": "SV Werder Bremen vs. Hamburger SV",
-   "dur": 2.24,
-   "gan": 0.78,
+   "inicio": 1795369075796,
+   "titulo": "CA Osasuna vs. Málaga CF",
+   "dur": 0.53,
+   "gan": 0.75,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795365943522,
-   "titulo": "Kristiansund BK vs. Sandefjord Fotball",
-   "dur": 0.13,
-   "gan": 0.5,
-   "neta": 0.36,
-   "lado": "no"
+   "inicio": 1795368977974,
+   "titulo": "Go Ahead Eagles vs. Fortuna Sittard",
+   "dur": 0.181,
+   "gan": 1.13,
+   "neta": 0.58,
+   "lado": "si"
   },
   {
-   "inicio": 1795365905310,
-   "titulo": "Liverpool FC vs. Manchester United FC",
-   "dur": 1.018,
-   "gan": 1.41,
+   "inicio": 1795368960919,
+   "titulo": "FK Austria Wien vs. FC Salzburg",
+   "dur": 0.001,
+   "gan": 0.69,
+   "neta": 0.11,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795368828879,
+   "titulo": "AC Milan vs. Frosinone Calcio",
+   "dur": 0.324,
+   "gan": 1.01,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795368766610,
+   "titulo": "AC Milan vs. Frosinone Calcio",
+   "dur": 6.845,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795368595746,
+   "titulo": "AC Milan vs. Frosinone Calcio",
+   "dur": 1.797,
+   "gan": 1.19,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795365899811,
-   "titulo": "KV Kortrijk vs. Union Saint-Gilloise",
-   "dur": 0.883,
-   "gan": 0.71,
-   "neta": 0.18,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795365868700,
-   "titulo": "Liverpool FC vs. Manchester United FC",
-   "dur": 1.059,
-   "gan": 45.27,
-   "neta": 13.17,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795365852276,
-   "titulo": "Liverpool FC vs. Manchester United FC",
-   "dur": 1.087,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795365819932,
-   "titulo": "KV Kortrijk vs. Union Saint-Gilloise",
-   "dur": 0.028,
-   "gan": 0.51,
-   "neta": 0.07,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795365818646,
-   "titulo": "KV Kortrijk vs. Union Saint-Gilloise",
-   "dur": 1.234,
-   "gan": 0.67,
-   "neta": 0.07,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795365751815,
+   "inicio": 1795368591590,
    "titulo": "FC Lorient vs. Stade Rennais FC 1901",
-   "dur": 0.621,
-   "gan": 2,
-   "neta": 1.37,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795365751807,
-   "titulo": "FC Lorient vs. Stade Rennais FC 1901",
-   "dur": 0.004,
-   "gan": 0.5,
-   "neta": 0.18,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795365751779,
-   "titulo": "FC Lorient vs. Stade Rennais FC 1901",
-   "dur": 0.017,
-   "gan": 7.36,
-   "neta": 2.29,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795365599377,
-   "titulo": "Real Racing Club vs. Real Sociedad de Fútbol",
-   "dur": 6.831,
-   "gan": 0.66,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795365603371,
-   "titulo": "Liverpool FC vs. Manchester United FC",
-   "dur": 0.117,
-   "gan": 0.74,
+   "dur": 0.994,
+   "gan": 1,
    "neta": 0,
    "lado": "si"
+  },
+  {
+   "inicio": 1795368586355,
+   "titulo": "AC Milan vs. Frosinone Calcio",
+   "dur": 1.503,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795368586290,
+   "titulo": "AC Milan vs. Frosinone Calcio",
+   "dur": 0.037,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795368586213,
+   "titulo": "AC Milan vs. Frosinone Calcio",
+   "dur": 0.031,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795368586151,
+   "titulo": "AC Milan vs. Frosinone Calcio",
+   "dur": 0.032,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795368585685,
+   "titulo": "AC Milan vs. Frosinone Calcio",
+   "dur": 0.042,
+   "gan": 1.13,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795368575112,
+   "titulo": "AC Milan vs. Frosinone Calcio",
+   "dur": 1.676,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795368574778,
+   "titulo": "AC Milan vs. Frosinone Calcio",
+   "dur": 0.333,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795368574460,
+   "titulo": "AC Milan vs. Frosinone Calcio",
+   "dur": 0.312,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
