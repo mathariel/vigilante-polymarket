@@ -1,84 +1,84 @@
 {
- "actualizado": 1795384201041,
- "inicio": 1794774353777,
+ "actualizado": 1795387220521,
+ "inicio": 1794783752735,
  "ejecucion": {
-  "inicio": 1795381200728,
-  "fin": 1795384201041,
-  "mensajes": 13200716,
-  "reconexiones": 1,
-  "eventos": 581,
+  "inicio": 1795384220285,
+  "fin": 1795387220521,
+  "mensajes": 11740806,
+  "reconexiones": 0,
+  "eventos": 570,
   "errores": [],
-  "nuevos": 249,
-  "nuevosRentables": 14,
-  "nuevosNeta": 5
+  "nuevos": 18,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.55
  },
- "total": 5942,
- "falsos": 3975,
+ "total": 5930,
+ "falsos": 3959,
  "largos": {
-  "episodios": 21745,
+  "episodios": 21781,
   "eventos": 171,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 47,
+  "episodios": 45,
   "eventos": 17
  },
- "mediana": 0.365,
+ "mediana": 0.362,
  "captura": [
   {
    "s": 0.5,
-   "n": 2700,
-   "gan": 8479.04,
-   "nNeta": 828,
-   "neta": 2008.41
+   "n": 2689,
+   "gan": 8456.31,
+   "nNeta": 824,
+   "neta": 1998.65
   },
   {
    "s": 2,
-   "n": 1279,
-   "gan": 3331.24,
-   "nNeta": 324,
-   "neta": 437.61
+   "n": 1268,
+   "gan": 3316.84,
+   "nNeta": 322,
+   "neta": 436.66
   },
   {
    "s": 5,
-   "n": 724,
-   "gan": 1750.43,
-   "nNeta": 167,
-   "neta": 136.57
+   "n": 717,
+   "gan": 1750.7,
+   "nNeta": 166,
+   "neta": 136.32
   },
   {
    "s": 30,
-   "n": 238,
-   "gan": 496.06,
+   "n": 234,
+   "gan": 492.85,
    "nNeta": 21,
    "neta": 34.77
   }
  ],
- "rentables": 1815,
+ "rentables": 1811,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 78,
-   "descartadas": 295,
-   "neta": 185.99,
-   "dias": 6.93,
-   "semana": 188.01
+   "ops": 77,
+   "descartadas": 293,
+   "neta": 185.59,
+   "dias": 6.91,
+   "semana": 188.04
   },
   {
    "capital": 1000,
-   "ops": 87,
-   "descartadas": 295,
-   "neta": 286.32,
-   "dias": 6.93,
-   "semana": 289.42
+   "ops": 86,
+   "descartadas": 293,
+   "neta": 285.92,
+   "dias": 6.91,
+   "semana": 289.69
   },
   {
    "capital": 2000,
-   "ops": 88,
-   "descartadas": 295,
-   "neta": 419.57,
-   "dias": 6.93,
-   "semana": 424.11
+   "ops": 87,
+   "descartadas": 293,
+   "neta": 419.17,
+   "dias": 6.91,
+   "semana": 424.7
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 7,
-   "horas": 158.3,
-   "episodios": 5857,
+   "horas": 159.2,
+   "episodios": 5875,
    "sospechosas": 95,
-   "realistaNeta": 639.33,
+   "realistaNeta": 639.88,
    "capital": {
     "500": 185.59,
     "1000": 285.92,
@@ -236,37 +236,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5847,
-  "n": 1589,
-  "gan": 4231.38,
-  "nNeta": 393,
-  "neta": 641.23
+  "conDato": 5835,
+  "n": 1578,
+  "gan": 4217.54,
+  "nNeta": 390,
+  "neta": 639.88
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1684
+   "n": 1680
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2309
+   "n": 2313
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1215
+   "n": 1210
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 486
+   "n": 483
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 156
+   "n": 152
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795125600000,
-   "n": 7
-  },
   {
    "h": 1795129200000,
    "n": 45
@@ -633,129 +629,133 @@
   },
   {
    "h": 1795381200000,
-   "n": 249
+   "n": 254
+  },
+  {
+   "h": 1795384800000,
+   "n": 13
   }
  ],
  "recientes": [
   {
-   "inicio": 1795384187749,
-   "titulo": "Fluminense FC vs. Mirassol FC",
-   "dur": 0.348,
-   "gan": 1,
+   "inicio": 1795387061341,
+   "titulo": "Chicago Fire FC vs. Charlotte FC",
+   "dur": 18.626,
+   "gan": 6.36,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795387053636,
+   "titulo": "CSD Colo-Colo vs. CD Universidad Católica",
+   "dur": 0.76,
+   "gan": 0.9,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795383674311,
-   "titulo": "Olympique de Marseille vs. Le Mans FC",
-   "dur": 0.776,
-   "gan": 4.7,
-   "neta": 3.93,
+   "inicio": 1795386996770,
+   "titulo": "Nashville SC vs. FC Cincinnati",
+   "dur": 0.234,
+   "gan": 1.15,
+   "neta": 0.08,
    "lado": "si"
   },
   {
-   "inicio": 1795383674217,
-   "titulo": "Olympique de Marseille vs. Le Mans FC",
-   "dur": 0.019,
-   "gan": 1.2,
-   "neta": 0.26,
+   "inicio": 1795386601349,
+   "titulo": "Nashville SC vs. FC Cincinnati",
+   "dur": 0.112,
+   "gan": 1.15,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795385918123,
+   "titulo": "Metropolitanos FC vs. Deportivo La Guaira",
+   "dur": 0.157,
+   "gan": 2.47,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795383673816,
-   "titulo": "Olympique de Marseille vs. Le Mans FC",
-   "dur": 0.366,
-   "gan": 0.67,
-   "neta": 0.26,
+   "inicio": 1795385687406,
+   "titulo": "CSD Colo-Colo vs. CD Universidad Católica",
+   "dur": 1.873,
+   "gan": 1.42,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795385683001,
+   "titulo": "CSD Colo-Colo vs. CD Universidad Católica",
+   "dur": 0.743,
+   "gan": 0.64,
+   "neta": 0.42,
    "lado": "si"
   },
   {
-   "inicio": 1795383671624,
-   "titulo": "Olympique de Marseille vs. Le Mans FC",
-   "dur": 2.183,
+   "inicio": 1795385558539,
+   "titulo": "Rubio Nu vs. Libertad Asuncion",
+   "dur": 0.11,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795385558460,
+   "titulo": "Rubio Nu vs. Libertad Asuncion",
+   "dur": 0.055,
    "gan": 0.6,
-   "neta": 0.24,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795383643321,
-   "titulo": "Olympique de Marseille vs. Le Mans FC",
-   "dur": 0.107,
-   "gan": 0.58,
-   "neta": 0.24,
+   "inicio": 1795385413920,
+   "titulo": "SC União Torreense vs. Sport Lisboa e Benfica",
+   "dur": 0.485,
+   "gan": 0.51,
+   "neta": 0.29,
    "lado": "si"
   },
   {
-   "inicio": 1795383642976,
-   "titulo": "Olympique de Marseille vs. Le Mans FC",
-   "dur": 0.313,
-   "gan": 0.74,
-   "neta": 0.37,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795383642116,
-   "titulo": "Olympique de Marseille vs. Le Mans FC",
-   "dur": 0.826,
-   "gan": 0.74,
-   "neta": 0.37,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795383627281,
-   "titulo": "Olympique de Marseille vs. Le Mans FC",
-   "dur": 9.803,
-   "gan": 1.29,
-   "neta": 0.91,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795383583906,
-   "titulo": "Olympique de Marseille vs. Le Mans FC",
-   "dur": 0.534,
-   "gan": 1.09,
-   "neta": 0.96,
+   "inicio": 1795385401286,
+   "titulo": "SC União Torreense vs. Sport Lisboa e Benfica",
+   "dur": 2.139,
+   "gan": 0.87,
+   "neta": 0.56,
    "lado": "no"
   },
   {
-   "inicio": 1795383583854,
-   "titulo": "Olympique de Marseille vs. Le Mans FC",
-   "dur": 0.024,
-   "gan": 1.24,
-   "neta": 1.12,
+   "inicio": 1795385385785,
+   "titulo": "SC União Torreense vs. Sport Lisboa e Benfica",
+   "dur": 6.949,
+   "gan": 0.64,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795383583806,
-   "titulo": "Olympique de Marseille vs. Le Mans FC",
-   "dur": 0.024,
-   "gan": 0.58,
-   "neta": 0.48,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795383583734,
-   "titulo": "Olympique de Marseille vs. Le Mans FC",
-   "dur": 0.041,
-   "gan": 1.5,
-   "neta": 0.32,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795383569936,
-   "titulo": "Atalanta BC vs. FC Internazionale Milano",
-   "dur": 0.652,
-   "gan": 5.29,
-   "neta": 4.83,
+   "inicio": 1795385382225,
+   "titulo": "SC União Torreense vs. Sport Lisboa e Benfica",
+   "dur": 0.056,
+   "gan": 2.91,
+   "neta": 0.55,
    "lado": "si"
   },
   {
-   "inicio": 1795383560480,
-   "titulo": "Atalanta BC vs. FC Internazionale Milano",
-   "dur": 5.219,
-   "gan": 3.18,
-   "neta": 2.56,
-   "lado": "si"
+   "inicio": 1795384702442,
+   "titulo": "LDU Quito vs. SD Aucas",
+   "dur": 0.737,
+   "gan": 0.87,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795384528510,
+   "titulo": "SC União Torreense vs. Sport Lisboa e Benfica",
+   "dur": 0.367,
+   "gan": 0.66,
+   "neta": 0.41,
+   "lado": "no"
   }
  ]
 }
