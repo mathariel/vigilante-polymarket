@@ -1,84 +1,84 @@
 {
- "actualizado": 1795360088570,
- "inicio": 1794750656751,
+ "actualizado": 1795363106483,
+ "inicio": 1794762206189,
  "ejecucion": {
-  "inicio": 1795357088337,
-  "fin": 1795360088570,
-  "mensajes": 15985933,
+  "inicio": 1795360106155,
+  "fin": 1795363106483,
+  "mensajes": 15369742,
   "reconexiones": 0,
-  "eventos": 671,
+  "eventos": 663,
   "errores": [],
-  "nuevos": 72,
-  "nuevosRentables": 7,
-  "nuevosNeta": 46.37
+  "nuevos": 110,
+  "nuevosRentables": 4,
+  "nuevosNeta": 5.05
  },
- "total": 5703,
- "falsos": 3872,
+ "total": 5791,
+ "falsos": 3895,
  "largos": {
-  "episodios": 22041,
+  "episodios": 21939,
   "eventos": 174,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 58,
-  "eventos": 18
+  "episodios": 55,
+  "eventos": 17
  },
  "mediana": 0.37,
  "captura": [
   {
    "s": 0.5,
-   "n": 2602,
-   "gan": 8190.55,
-   "nNeta": 765,
-   "neta": 1943.49
+   "n": 2643,
+   "gan": 8300.06,
+   "nNeta": 775,
+   "neta": 1958.49
   },
   {
    "s": 2,
-   "n": 1275,
-   "gan": 3188.56,
-   "nNeta": 317,
-   "neta": 442.37
+   "n": 1289,
+   "gan": 3242.36,
+   "nNeta": 315,
+   "neta": 444.05
   },
   {
    "s": 5,
-   "n": 719,
-   "gan": 1621.38,
-   "nNeta": 158,
-   "neta": 127.4
+   "n": 731,
+   "gan": 1665.65,
+   "nNeta": 160,
+   "neta": 132.16
   },
   {
    "s": 30,
-   "n": 240,
-   "gan": 508.71,
-   "nNeta": 18,
-   "neta": 30.72
+   "n": 242,
+   "gan": 513.28,
+   "nNeta": 19,
+   "neta": 33.76
   }
  ],
- "rentables": 1691,
+ "rentables": 1707,
  "porCapital": [
   {
    "capital": 500,
    "ops": 72,
    "descartadas": 286,
-   "neta": 181.92,
-   "dias": 6.91,
-   "semana": 184.26
+   "neta": 183.74,
+   "dias": 6.89,
+   "semana": 186.62
   },
   {
    "capital": 1000,
-   "ops": 84,
+   "ops": 83,
    "descartadas": 286,
-   "neta": 290.35,
-   "dias": 6.91,
-   "semana": 294.09
+   "neta": 291.82,
+   "dias": 6.89,
+   "semana": 296.39
   },
   {
    "capital": 2000,
-   "ops": 85,
+   "ops": 84,
    "descartadas": 286,
-   "neta": 423.61,
-   "dias": 6.91,
-   "semana": 429.05
+   "neta": 425.07,
+   "dias": 6.89,
+   "semana": 431.72
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 7,
-   "horas": 151.7,
-   "episodios": 5168,
+   "horas": 152.5,
+   "episodios": 5278,
    "sospechosas": 87,
-   "realistaNeta": 619.51,
+   "realistaNeta": 624.56,
    "capital": {
-    "500": 175.81,
-    "1000": 273.99,
-    "2000": 407.23
+    "500": 178.09,
+    "1000": 276.27,
+    "2000": 409.51
    },
    "cumple": true
   }
@@ -236,37 +236,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5612,
-  "n": 1561,
-  "gan": 4029.89,
-  "nNeta": 379,
-  "neta": 644.95
+  "conDato": 5700,
+  "n": 1581,
+  "gan": 4101.55,
+  "nNeta": 378,
+  "neta": 646.81
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1670
+   "n": 1689
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2128
+   "n": 2165
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1179
+   "n": 1199
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 479
+   "n": 489
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 154
+   "n": 156
   },
   {
    "et": "> 5 min",
@@ -633,128 +633,128 @@
   },
   {
    "h": 1795359600000,
-   "n": 10
+   "n": 120
   }
  ],
  "recientes": [
   {
-   "inicio": 1795357280484,
-   "titulo": "1. FC Kaiserslautern vs. SG Dynamo Dresden",
-   "dur": 2807.855,
-   "gan": 0.65,
-   "neta": 0.53,
+   "inicio": 1795362965538,
+   "titulo": "APO Levadiakos FC vs. Atromitos Athinon",
+   "dur": 140.62,
+   "gan": 4.03,
+   "neta": 3.04,
    "lado": "si"
   },
   {
-   "inicio": 1795360065904,
-   "titulo": "FC Augsburg vs. 1. FSV Mainz 05",
-   "dur": 0.035,
+   "inicio": 1795363071365,
+   "titulo": "Trabzonspor vs. Eyüpspor",
+   "dur": 4.76,
+   "gan": 0.81,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795363074676,
+   "titulo": "Real Racing Club vs. Real Sociedad de Fútbol",
+   "dur": 0.223,
    "gan": 0.78,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795360064175,
-   "titulo": "FC Augsburg vs. 1. FSV Mainz 05",
-   "dur": 0.495,
-   "gan": 2.04,
-   "neta": 0.22,
    "lado": "si"
   },
   {
-   "inicio": 1795360063124,
-   "titulo": "FC Augsburg vs. 1. FSV Mainz 05",
-   "dur": 0.168,
-   "gan": 1.55,
-   "neta": 0.05,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795360062718,
-   "titulo": "FC Augsburg vs. 1. FSV Mainz 05",
-   "dur": 0.371,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795360018410,
-   "titulo": "FC Augsburg vs. 1. FSV Mainz 05",
-   "dur": 0.821,
-   "gan": 1.22,
-   "neta": 0.1,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795360009562,
-   "titulo": "FC Augsburg vs. 1. FSV Mainz 05",
-   "dur": 2.598,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795359992972,
-   "titulo": "FC Augsburg vs. 1. FSV Mainz 05",
-   "dur": 1.253,
-   "gan": 22.8,
-   "neta": 9.58,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795359884761,
-   "titulo": "GKS Katowice vs. KKS Lech Poznan",
-   "dur": 0.194,
-   "gan": 0.76,
-   "neta": 0.3,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795359884571,
-   "titulo": "GKS Katowice vs. KKS Lech Poznan",
-   "dur": 0.17,
-   "gan": 1.03,
+   "inicio": 1795363019247,
+   "titulo": "Trabzonspor vs. Eyüpspor",
+   "dur": 35.378,
+   "gan": 0.54,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795359876969,
-   "titulo": "Paris FC vs. Angers SCO",
-   "dur": 0.049,
+   "inicio": 1795363004769,
+   "titulo": "Trabzonspor vs. Eyüpspor",
+   "dur": 0.135,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795362984701,
+   "titulo": "Trabzonspor vs. Eyüpspor",
+   "dur": 1.292,
+   "gan": 0.59,
+   "neta": 0.07,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795362984500,
+   "titulo": "Trabzonspor vs. Eyüpspor",
+   "dur": 0.18,
+   "gan": 0.64,
+   "neta": 0.08,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795362967448,
+   "titulo": "Trabzonspor vs. Eyüpspor",
+   "dur": 17.031,
    "gan": 0.6,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795359585841,
-   "titulo": "FC Barcelona vs. Villarreal CF",
-   "dur": 1.025,
-   "gan": 2.57,
-   "neta": 1.68,
+   "inicio": 1795362967511,
+   "titulo": "Hull City AFC vs. Brighton & Hove Albion FC",
+   "dur": 0.959,
+   "gan": 11,
+   "neta": 9.14,
    "lado": "si"
   },
   {
-   "inicio": 1795359577356,
-   "titulo": "FC Barcelona vs. Villarreal CF",
-   "dur": 0.034,
-   "gan": 0.5,
+   "inicio": 1795362963414,
+   "titulo": "Trabzonspor vs. Eyüpspor",
+   "dur": 2.068,
+   "gan": 0.6,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795359570368,
-   "titulo": "FC Barcelona vs. Villarreal CF",
-   "dur": 0.028,
-   "gan": 0.5,
+   "inicio": 1795362940402,
+   "titulo": "Trabzonspor vs. Eyüpspor",
+   "dur": 21.773,
+   "gan": 1.6,
    "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795362953582,
+   "titulo": "Hull City AFC vs. Brighton & Hove Albion FC",
+   "dur": 1.047,
+   "gan": 0.59,
+   "neta": 0.16,
    "lado": "si"
   },
   {
-   "inicio": 1795359536474,
-   "titulo": "FC Barcelona vs. Villarreal CF",
-   "dur": 0.609,
-   "gan": 3.22,
-   "neta": 1.27,
+   "inicio": 1795362863340,
+   "titulo": "FC Augsburg vs. 1. FSV Mainz 05",
+   "dur": 0.344,
+   "gan": 1.27,
+   "neta": 0.52,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795362861849,
+   "titulo": "FC Augsburg vs. 1. FSV Mainz 05",
+   "dur": 1.422,
+   "gan": 1.45,
+   "neta": 0.4,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795362793784,
+   "titulo": "Hull City AFC vs. Brighton & Hove Albion FC",
+   "dur": 0.061,
+   "gan": 1.1,
+   "neta": 0.03,
    "lado": "si"
   }
  ]
