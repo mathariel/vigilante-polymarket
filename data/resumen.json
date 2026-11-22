@@ -1,84 +1,84 @@
 {
- "actualizado": 1795308817594,
- "inicio": 1794666241336,
+ "actualizado": 1795311839352,
+ "inicio": 1794672315000,
  "ejecucion": {
-  "inicio": 1795305817256,
-  "fin": 1795308817594,
-  "mensajes": 11586133,
+  "inicio": 1795308839124,
+  "fin": 1795311839352,
+  "mensajes": 10939785,
   "reconexiones": 0,
-  "eventos": 585,
+  "eventos": 586,
   "errores": [],
-  "nuevos": 18,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.03
+  "nuevos": 38,
+  "nuevosRentables": 2,
+  "nuevosNeta": 0.3
  },
- "total": 6032,
- "falsos": 3851,
+ "total": 5766,
+ "falsos": 3762,
  "largos": {
-  "episodios": 21628,
-  "eventos": 177,
+  "episodios": 21994,
+  "eventos": 176,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 75,
-  "eventos": 19
+  "episodios": 70,
+  "eventos": 18
  },
- "mediana": 0.401,
+ "mediana": 0.396,
  "captura": [
   {
    "s": 0.5,
-   "n": 2823,
-   "gan": 8310.65,
-   "nNeta": 836,
-   "neta": 1984.75
+   "n": 2691,
+   "gan": 7940.26,
+   "nNeta": 816,
+   "neta": 1948.48
   },
   {
    "s": 2,
-   "n": 1403,
-   "gan": 3317.35,
-   "nNeta": 345,
-   "neta": 451.27
+   "n": 1327,
+   "gan": 3068.48,
+   "nNeta": 337,
+   "neta": 430.65
   },
   {
    "s": 5,
-   "n": 779,
-   "gan": 1680.7,
-   "nNeta": 163,
-   "neta": 121.47
+   "n": 740,
+   "gan": 1514.5,
+   "nNeta": 162,
+   "neta": 120.73
   },
   {
    "s": 30,
-   "n": 265,
-   "gan": 626.7,
-   "nNeta": 17,
-   "neta": 7.71
+   "n": 250,
+   "gan": 557,
+   "nNeta": 16,
+   "neta": 6.99
   }
  ],
- "rentables": 1819,
+ "rentables": 1743,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 72,
-   "descartadas": 308,
-   "neta": 193.15,
-   "dias": 7.32,
-   "semana": 184.6
+   "ops": 77,
+   "descartadas": 304,
+   "neta": 191.82,
+   "dias": 7.22,
+   "semana": 185.93
   },
   {
    "capital": 1000,
    "ops": 88,
-   "descartadas": 308,
-   "neta": 308.31,
-   "dias": 7.32,
-   "semana": 294.65
+   "descartadas": 304,
+   "neta": 307.82,
+   "dias": 7.22,
+   "semana": 298.36
   },
   {
    "capital": 2000,
-   "ops": 98,
-   "descartadas": 308,
-   "neta": 457.88,
-   "dias": 7.32,
-   "semana": 437.59
+   "ops": 93,
+   "descartadas": 304,
+   "neta": 440.83,
+   "dias": 7.22,
+   "semana": 427.28
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 6,
-   "horas": 137.5,
-   "episodios": 4661,
+   "horas": 138.3,
+   "episodios": 4699,
    "sospechosas": 77,
-   "realistaNeta": 556.73,
+   "realistaNeta": 557.03,
    "capital": {
     "500": 165.73,
     "1000": 258.4,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 97,
+  "n": 96,
   "top": [
    {
     "inicio": 1795274262924,
@@ -236,42 +236,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5935,
-  "n": 1708,
-  "gan": 4126.19,
-  "nNeta": 410,
-  "neta": 657.6
+  "conDato": 5670,
+  "n": 1617,
+  "gan": 3853.92,
+  "nNeta": 400,
+  "neta": 633.44
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1712
+   "n": 1653
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2238
+   "n": 2134
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1293
+   "n": 1231
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 514
+   "n": 490
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 175
+   "n": 162
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 90
+   "n": 88
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795042800000,
-   "n": 28
-  },
   {
    "h": 1795046400000,
    "n": 108
@@ -634,128 +630,132 @@
   {
    "h": 1795305600000,
    "n": 19
+  },
+  {
+   "h": 1795309200000,
+   "n": 38
   }
  ],
  "recientes": [
   {
-   "inicio": 1795308746687,
-   "titulo": "Club Santos Laguna vs. Club León FC",
-   "dur": 0.008,
-   "gan": 0.52,
-   "neta": 0.19,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795308746642,
-   "titulo": "Club Santos Laguna vs. Club León FC",
-   "dur": 0.004,
-   "gan": 1.17,
-   "neta": 0.39,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795308745831,
-   "titulo": "Club Santos Laguna vs. Club León FC",
-   "dur": 0.801,
-   "gan": 0.83,
-   "neta": 0.25,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795308743085,
-   "titulo": "Club Santos Laguna vs. Club León FC",
-   "dur": 1.232,
-   "gan": 0.5,
-   "neta": 0.15,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795307844419,
-   "titulo": "Club Santos Laguna vs. Club León FC",
-   "dur": 1.825,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795307842981,
-   "titulo": "Club Santos Laguna vs. Club León FC",
-   "dur": 0.49,
-   "gan": 0.76,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795307729102,
+   "inicio": 1795311401587,
    "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
-   "dur": 4.771,
-   "gan": 0.64,
+   "dur": 0.538,
+   "gan": 3.11,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795307723326,
+   "inicio": 1795311313889,
    "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
-   "dur": 0.163,
-   "gan": 0.64,
+   "dur": 0.034,
+   "gan": 0.51,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795307438765,
-   "titulo": "Inter Miami CF vs. Columbus Crew",
-   "dur": 1.929,
-   "gan": 0.52,
+   "inicio": 1795311311050,
+   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
+   "dur": 0.082,
+   "gan": 0.7,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795307413226,
-   "titulo": "Inter Miami CF vs. Columbus Crew",
-   "dur": 13.312,
+   "inicio": 1795311284760,
+   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
+   "dur": 1.423,
+   "gan": 0.98,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795311283033,
+   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
+   "dur": 1.665,
+   "gan": 1.69,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795311278804,
+   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
+   "dur": 1.953,
+   "gan": 1.86,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795311273742,
+   "titulo": "Pumas de la UNAM vs. CF Monterrey",
+   "dur": 1.409,
    "gan": 0.65,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795307005918,
-   "titulo": "Inter Miami CF vs. Columbus Crew",
-   "dur": 0.33,
-   "gan": 6.5,
-   "neta": 2.25,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795307005839,
-   "titulo": "Inter Miami CF vs. Columbus Crew",
-   "dur": 0.061,
-   "gan": 6.44,
-   "neta": 4.73,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795306789489,
+   "inicio": 1795311162128,
    "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
-   "dur": 0.259,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795306751493,
-   "titulo": "CD Oriente Petrolero vs. Club Independiente Petrolero",
-   "dur": 0.085,
-   "gan": 1.09,
+   "dur": 0.098,
+   "gan": 0.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795306745010,
-   "titulo": "CD Oriente Petrolero vs. Club Independiente Petrolero",
-   "dur": 1.305,
-   "gan": 1.29,
+   "inicio": 1795311162070,
+   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
+   "dur": 0.015,
+   "gan": 1.26,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
+  },
+  {
+   "inicio": 1795311161992,
+   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
+   "dur": 0.046,
+   "gan": 1.69,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795311161684,
+   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
+   "dur": 0.277,
+   "gan": 0.88,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795311161471,
+   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
+   "dur": 0.204,
+   "gan": 1.37,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795311161349,
+   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
+   "dur": 0.094,
+   "gan": 0.98,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795311161280,
+   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
+   "dur": 0.041,
+   "gan": 1.42,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795311161160,
+   "titulo": "Associação Chapecoense de Futebol vs. Cruzeiro EC",
+   "dur": 0.047,
+   "gan": 1.96,
+   "neta": 0,
+   "lado": "si"
   }
  ]
 }
