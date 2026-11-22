@@ -1,84 +1,84 @@
 {
- "actualizado": 1795369133788,
- "inicio": 1794768754009,
+ "actualizado": 1795372147455,
+ "inicio": 1794771671674,
  "ejecucion": {
-  "inicio": 1795366133445,
-  "fin": 1795369133788,
-  "mensajes": 15437402,
+  "inicio": 1795369147156,
+  "fin": 1795372147455,
+  "mensajes": 14054142,
   "reconexiones": 0,
-  "eventos": 642,
+  "eventos": 610,
   "errores": [],
-  "nuevos": 87,
-  "nuevosRentables": 4,
-  "nuevosNeta": 1.91
+  "nuevos": 64,
+  "nuevosRentables": 6,
+  "nuevosNeta": 3.16
  },
- "total": 5862,
- "falsos": 3932,
+ "total": 5861,
+ "falsos": 3940,
  "largos": {
   "episodios": 21842,
   "eventos": 173,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 53,
+  "episodios": 52,
   "eventos": 17
  },
- "mediana": 0.36,
+ "mediana": 0.359,
  "captura": [
   {
    "s": 0.5,
-   "n": 2656,
-   "gan": 8402.1,
-   "nNeta": 782,
-   "neta": 1965.15
+   "n": 2660,
+   "gan": 8492.63,
+   "nNeta": 785,
+   "neta": 1962.9
   },
   {
    "s": 2,
-   "n": 1281,
-   "gan": 3220.9,
+   "n": 1286,
+   "gan": 3345.42,
    "nNeta": 312,
-   "neta": 432.05
+   "neta": 430.38
   },
   {
    "s": 5,
-   "n": 733,
-   "gan": 1667.39,
-   "nNeta": 162,
-   "neta": 133.29
+   "n": 736,
+   "gan": 1790.61,
+   "nNeta": 163,
+   "neta": 132.47
   },
   {
    "s": 30,
-   "n": 245,
-   "gan": 515.37,
-   "nNeta": 20,
-   "neta": 34.31
+   "n": 246,
+   "gan": 516.9,
+   "nNeta": 21,
+   "neta": 34.77
   }
  ],
- "rentables": 1742,
+ "rentables": 1741,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 74,
+   "ops": 75,
    "descartadas": 283,
-   "neta": 182.5,
-   "dias": 6.88,
-   "semana": 185.65
+   "neta": 182.93,
+   "dias": 6.89,
+   "semana": 185.93
   },
   {
    "capital": 1000,
-   "ops": 82,
+   "ops": 83,
    "descartadas": 283,
-   "neta": 280.67,
-   "dias": 6.88,
-   "semana": 285.52
+   "neta": 281.1,
+   "dias": 6.89,
+   "semana": 285.72
   },
   {
    "capital": 2000,
-   "ops": 83,
+   "ops": 84,
    "descartadas": 283,
-   "neta": 413.92,
-   "dias": 6.88,
-   "semana": 421.07
+   "neta": 414.35,
+   "dias": 6.89,
+   "semana": 421.16
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 7,
-   "horas": 154.2,
-   "episodios": 5457,
+   "horas": 155,
+   "episodios": 5521,
    "sospechosas": 90,
-   "realistaNeta": 628.74,
+   "realistaNeta": 631.9,
    "capital": {
-    "500": 179.99,
-    "1000": 278.17,
-    "2000": 411.41
+    "500": 182.52,
+    "1000": 280.7,
+    "2000": 413.94
    },
    "cumple": true
   }
@@ -236,17 +236,17 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5771,
-  "n": 1581,
-  "gan": 4095.09,
-  "nNeta": 376,
-  "neta": 637.02
+  "conDato": 5770,
+  "n": 1589,
+  "gan": 4221.85,
+  "nNeta": 377,
+  "neta": 634.85
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1692
+   "n": 1691
   },
   {
    "et": "0.1–1 s",
@@ -256,12 +256,12 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1195
+   "n": 1192
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 488
+   "n": 490
   },
   {
    "et": "30 s–5 min",
@@ -271,16 +271,16 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 86
+   "n": 87
   }
  ],
  "porEvento": [
   {
    "titulo": "Spain vs. England",
-   "n": 252,
-   "gan": 390.91,
-   "neta": 19.81,
-   "mediana": 0.196
+   "n": 214,
+   "gan": 338.05,
+   "neta": 15.86,
+   "mediana": 0.176
   },
   {
    "titulo": "Bitcoin price on November 19?",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795111200000,
-   "n": 16
-  },
   {
    "h": 1795114800000,
    "n": 104
@@ -633,129 +629,133 @@
   },
   {
    "h": 1795366800000,
-   "n": 83
+   "n": 119
+  },
+  {
+   "h": 1795370400000,
+   "n": 28
   }
  ],
  "recientes": [
   {
-   "inicio": 1795369075796,
-   "titulo": "CA Osasuna vs. Málaga CF",
-   "dur": 0.53,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795368977974,
-   "titulo": "Go Ahead Eagles vs. Fortuna Sittard",
-   "dur": 0.181,
-   "gan": 1.13,
-   "neta": 0.58,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795368960919,
-   "titulo": "FK Austria Wien vs. FC Salzburg",
-   "dur": 0.001,
-   "gan": 0.69,
-   "neta": 0.11,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795368828879,
-   "titulo": "AC Milan vs. Frosinone Calcio",
-   "dur": 0.324,
-   "gan": 1.01,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795368766610,
-   "titulo": "AC Milan vs. Frosinone Calcio",
-   "dur": 6.845,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795368595746,
-   "titulo": "AC Milan vs. Frosinone Calcio",
-   "dur": 1.797,
-   "gan": 1.19,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795368591590,
+   "inicio": 1795370909408,
    "titulo": "FC Lorient vs. Stade Rennais FC 1901",
-   "dur": 0.994,
+   "dur": 1237.75,
    "gan": 1,
-   "neta": 0,
+   "neta": 0.46,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795371702550,
+   "titulo": "Lommel SK vs. Standard Liege",
+   "dur": 2.194,
+   "gan": 1.3,
+   "neta": 0.01,
    "lado": "si"
   },
   {
-   "inicio": 1795368586355,
-   "titulo": "AC Milan vs. Frosinone Calcio",
-   "dur": 1.503,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795368586290,
-   "titulo": "AC Milan vs. Frosinone Calcio",
-   "dur": 0.037,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795368586213,
-   "titulo": "AC Milan vs. Frosinone Calcio",
-   "dur": 0.031,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795368586151,
-   "titulo": "AC Milan vs. Frosinone Calcio",
-   "dur": 0.032,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795368585685,
-   "titulo": "AC Milan vs. Frosinone Calcio",
-   "dur": 0.042,
-   "gan": 1.13,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795368575112,
-   "titulo": "AC Milan vs. Frosinone Calcio",
-   "dur": 1.676,
+   "inicio": 1795371702451,
+   "titulo": "Lommel SK vs. Standard Liege",
+   "dur": 0.083,
    "gan": 0.62,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795371674226,
+   "titulo": "AC Milan vs. Frosinone Calcio",
+   "dur": 1.186,
+   "gan": 0.74,
+   "neta": 0.34,
    "lado": "no"
   },
   {
-   "inicio": 1795368574778,
-   "titulo": "AC Milan vs. Frosinone Calcio",
-   "dur": 0.333,
-   "gan": 0.59,
+   "inicio": 1795371637012,
+   "titulo": "Lommel SK vs. Standard Liege",
+   "dur": 0.037,
+   "gan": 0.55,
+   "neta": 0.09,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795371400999,
+   "titulo": "Criciúma EC vs. Fortaleza EC",
+   "dur": 0.822,
+   "gan": 14.72,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795368574460,
+   "inicio": 1795371289348,
    "titulo": "AC Milan vs. Frosinone Calcio",
-   "dur": 0.312,
-   "gan": 0.57,
+   "dur": 0.17,
+   "gan": 1.36,
+   "neta": 0.82,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795371207913,
+   "titulo": "Olympiacos Piraeus vs. POT Iraklis",
+   "dur": 0.866,
+   "gan": 0.84,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795371185059,
+   "titulo": "OpenRouter token usage week of November 16?",
+   "dur": 0.534,
+   "gan": 2.56,
+   "neta": 1.64,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795371145034,
+   "titulo": "CA Osasuna vs. Málaga CF",
+   "dur": 0.811,
+   "gan": 0.53,
    "neta": 0,
    "lado": "no"
+  },
+  {
+   "inicio": 1795371125436,
+   "titulo": "CA Paranaense vs. Clube do Remo",
+   "dur": 5.235,
+   "gan": 88.98,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795371115481,
+   "titulo": "CA Osasuna vs. Málaga CF",
+   "dur": 1.581,
+   "gan": 0.56,
+   "neta": 0.15,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795371112998,
+   "titulo": "CA Osasuna vs. Málaga CF",
+   "dur": 0.219,
+   "gan": 0.63,
+   "neta": 0.09,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795370999737,
+   "titulo": "CA Osasuna vs. Málaga CF",
+   "dur": 0.017,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795370910159,
+   "titulo": "RSC Anderlecht vs. Oud-Heverlee Leuven",
+   "dur": 4.788,
+   "gan": 2.7,
+   "neta": 0,
+   "lado": "si"
   }
  ]
 }
