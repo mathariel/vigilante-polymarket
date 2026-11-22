@@ -1,84 +1,84 @@
 {
- "actualizado": 1795314855417,
- "inicio": 1794687349641,
+ "actualizado": 1795317869356,
+ "inicio": 1794693324058,
  "ejecucion": {
-  "inicio": 1795311855123,
-  "fin": 1795314855417,
-  "mensajes": 11209034,
+  "inicio": 1795314869042,
+  "fin": 1795317869357,
+  "mensajes": 11477093,
   "reconexiones": 0,
-  "eventos": 584,
+  "eventos": 591,
   "errores": [],
-  "nuevos": 50,
-  "nuevosRentables": 2,
-  "nuevosNeta": 1.17
+  "nuevos": 11,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5587,
- "falsos": 3739,
+ "total": 5520,
+ "falsos": 3724,
  "largos": {
-  "episodios": 22202,
+  "episodios": 22293,
   "eventos": 176,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 69,
+  "episodios": 67,
   "eventos": 18
  },
- "mediana": 0.383,
+ "mediana": 0.379,
  "captura": [
   {
    "s": 0.5,
-   "n": 2576,
-   "gan": 7806.41,
-   "nNeta": 779,
-   "neta": 1922.95
+   "n": 2545,
+   "gan": 7735.58,
+   "nNeta": 767,
+   "neta": 1902.51
   },
   {
    "s": 2,
-   "n": 1273,
-   "gan": 2956.88,
-   "nNeta": 321,
-   "neta": 418.78
+   "n": 1255,
+   "gan": 2901.58,
+   "nNeta": 315,
+   "neta": 400.81
   },
   {
    "s": 5,
-   "n": 720,
-   "gan": 1473.55,
-   "nNeta": 160,
-   "neta": 120.61
+   "n": 713,
+   "gan": 1441.59,
+   "nNeta": 158,
+   "neta": 103.54
   },
   {
    "s": 30,
-   "n": 245,
-   "gan": 544.14,
-   "nNeta": 16,
-   "neta": 6.99
+   "n": 244,
+   "gan": 543.14,
+   "nNeta": 15,
+   "neta": 6.06
   }
  ],
- "rentables": 1684,
+ "rentables": 1665,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 67,
-   "descartadas": 293,
-   "neta": 186.82,
-   "dias": 7.18,
-   "semana": 182.12
+   "ops": 70,
+   "descartadas": 290,
+   "neta": 181.1,
+   "dias": 7.13,
+   "semana": 177.73
   },
   {
    "capital": 1000,
-   "ops": 81,
-   "descartadas": 293,
-   "neta": 298.51,
-   "dias": 7.18,
-   "semana": 291
+   "ops": 83,
+   "descartadas": 290,
+   "neta": 287.49,
+   "dias": 7.13,
+   "semana": 282.15
   },
   {
    "capital": 2000,
-   "ops": 87,
-   "descartadas": 293,
-   "neta": 428.54,
-   "dias": 7.18,
-   "semana": 417.76
+   "ops": 84,
+   "descartadas": 290,
+   "neta": 411.27,
+   "dias": 7.13,
+   "semana": 403.62
   }
  ],
  "maxBloqueoH": 24,
@@ -115,9 +115,9 @@
   {
    "lunes": "2026-11-16",
    "dias": 6,
-   "horas": 139.2,
-   "episodios": 4749,
-   "sospechosas": 80,
+   "horas": 140,
+   "episodios": 4760,
+   "sospechosas": 81,
    "realistaNeta": 558.2,
    "capital": {
     "500": 166.73,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 98,
+  "n": 97,
   "top": [
    {
     "inicio": 1795274262924,
@@ -236,37 +236,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5489,
-  "n": 1558,
-  "gan": 3739.46,
-  "nNeta": 383,
-  "neta": 618.72
+  "conDato": 5423,
+  "n": 1538,
+  "gan": 3680.21,
+  "nNeta": 377,
+  "neta": 600.75
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1629
+   "n": 1619
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2058
+   "n": 2027
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1173
+   "n": 1154
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 475
+   "n": 469
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 157
+   "n": 156
   },
   {
    "et": "> 5 min",
@@ -633,10 +633,98 @@
   },
   {
    "h": 1795312800000,
-   "n": 24
+   "n": 35
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795315506071,
+   "titulo": "Pumas de la UNAM vs. CF Monterrey",
+   "dur": 0.29,
+   "gan": 3.17,
+   "neta": 0.14,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795315418901,
+   "titulo": "Pumas de la UNAM vs. CF Monterrey",
+   "dur": 0.91,
+   "gan": 6.69,
+   "neta": 0.25,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795315235459,
+   "titulo": "Pumas de la UNAM vs. CF Monterrey",
+   "dur": 0.32,
+   "gan": 1.94,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795315180699,
+   "titulo": "Pumas de la UNAM vs. CF Monterrey",
+   "dur": 3.846,
+   "gan": 1.04,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795315179946,
+   "titulo": "Pumas de la UNAM vs. CF Monterrey",
+   "dur": 0.371,
+   "gan": 2.29,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795315179756,
+   "titulo": "Pumas de la UNAM vs. CF Monterrey",
+   "dur": 0.094,
+   "gan": 0.69,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795315147688,
+   "titulo": "Pumas de la UNAM vs. CF Monterrey",
+   "dur": 1.623,
+   "gan": 1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795315023055,
+   "titulo": "Pumas de la UNAM vs. CF Monterrey - First Team to Score",
+   "dur": 0.239,
+   "gan": 0.62,
+   "neta": 0.47,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795315022694,
+   "titulo": "Pumas de la UNAM vs. CF Monterrey",
+   "dur": 0.408,
+   "gan": 0.89,
+   "neta": 0.14,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795315022517,
+   "titulo": "Pumas de la UNAM vs. CF Monterrey",
+   "dur": 0.144,
+   "gan": 1.2,
+   "neta": 0.2,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795314963800,
+   "titulo": "Pumas de la UNAM vs. CF Monterrey",
+   "dur": 0.248,
+   "gan": 3,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1795314329293,
    "titulo": "Pumas de la UNAM vs. CF Monterrey",
@@ -668,94 +756,6 @@
    "gan": 0.93,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1795314115871,
-   "titulo": "Pumas de la UNAM vs. CF Monterrey",
-   "dur": 0.029,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795314115815,
-   "titulo": "Pumas de la UNAM vs. CF Monterrey",
-   "dur": 0.03,
-   "gan": 0.79,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795314115515,
-   "titulo": "Pumas de la UNAM vs. CF Monterrey",
-   "dur": 0.024,
-   "gan": 0.69,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795314114942,
-   "titulo": "Pumas de la UNAM vs. CF Monterrey",
-   "dur": 0.499,
-   "gan": 1.15,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795314114676,
-   "titulo": "Pumas de la UNAM vs. CF Monterrey",
-   "dur": 0.252,
-   "gan": 3.28,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795314114632,
-   "titulo": "Pumas de la UNAM vs. CF Monterrey",
-   "dur": 0.036,
-   "gan": 1.3,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795313916746,
-   "titulo": "Wellington Phoenix FC vs. Macarthur FC",
-   "dur": 0.077,
-   "gan": 1.59,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795313911533,
-   "titulo": "Wellington Phoenix FC vs. Macarthur FC",
-   "dur": 0.89,
-   "gan": 45.93,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795313766735,
-   "titulo": "Pumas de la UNAM vs. CF Monterrey",
-   "dur": 2.086,
-   "gan": 1.03,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795313152946,
-   "titulo": "Wellington Phoenix FC vs. Macarthur FC",
-   "dur": 1.557,
-   "gan": 7.82,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795313152563,
-   "titulo": "Wellington Phoenix FC vs. Macarthur FC",
-   "dur": 0.077,
-   "gan": 9.88,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
