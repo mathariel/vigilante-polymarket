@@ -1,84 +1,84 @@
 {
- "actualizado": 1795320886433,
+ "actualizado": 1795323901801,
  "inicio": 1794699405319,
  "ejecucion": {
-  "inicio": 1795317886191,
-  "fin": 1795320886433,
-  "mensajes": 11489577,
+  "inicio": 1795320901447,
+  "fin": 1795323901801,
+  "mensajes": 12159174,
   "reconexiones": 0,
-  "eventos": 599,
+  "eventos": 606,
   "errores": [],
-  "nuevos": 9,
-  "nuevosRentables": 2,
-  "nuevosNeta": 0.78
+  "nuevos": 65,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5507,
- "falsos": 3716,
+ "total": 5535,
+ "falsos": 3738,
  "largos": {
-  "episodios": 22322,
+  "episodios": 22277,
   "eventos": 176,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 67,
+  "episodios": 65,
   "eventos": 18
  },
- "mediana": 0.378,
+ "mediana": 0.37,
  "captura": [
   {
    "s": 0.5,
-   "n": 2539,
-   "gan": 7663.07,
-   "nNeta": 762,
-   "neta": 1871.71
+   "n": 2534,
+   "gan": 7634.75,
+   "nNeta": 747,
+   "neta": 1845.68
   },
   {
    "s": 2,
-   "n": 1255,
-   "gan": 2887.56,
-   "nNeta": 313,
-   "neta": 394.44
+   "n": 1247,
+   "gan": 2883.54,
+   "nNeta": 302,
+   "neta": 388.41
   },
   {
    "s": 5,
    "n": 716,
-   "gan": 1441.54,
-   "nNeta": 157,
-   "neta": 103.1
+   "gan": 1444.72,
+   "nNeta": 154,
+   "neta": 100.9
   },
   {
    "s": 30,
-   "n": 245,
-   "gan": 547.15,
+   "n": 247,
+   "gan": 551.9,
    "nNeta": 14,
    "neta": 5.24
   }
  ],
- "rentables": 1657,
+ "rentables": 1640,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 71,
-   "descartadas": 289,
-   "neta": 178.05,
-   "dias": 7.16,
-   "semana": 174.01
+   "ops": 67,
+   "descartadas": 281,
+   "neta": 174.19,
+   "dias": 7.12,
+   "semana": 171.26
   },
   {
    "capital": 1000,
-   "ops": 81,
-   "descartadas": 289,
-   "neta": 280.96,
-   "dias": 7.16,
-   "semana": 274.59
+   "ops": 77,
+   "descartadas": 281,
+   "neta": 277.1,
+   "dias": 7.12,
+   "semana": 272.45
   },
   {
    "capital": 2000,
-   "ops": 82,
-   "descartadas": 289,
-   "neta": 404.74,
-   "dias": 7.16,
-   "semana": 395.55
+   "ops": 78,
+   "descartadas": 281,
+   "neta": 400.88,
+   "dias": 7.12,
+   "semana": 394.14
   }
  ],
  "maxBloqueoH": 24,
@@ -114,10 +114,10 @@
   },
   {
    "lunes": "2026-11-16",
-   "dias": 6,
-   "horas": 140.8,
-   "episodios": 4769,
-   "sospechosas": 81,
+   "dias": 7,
+   "horas": 141.7,
+   "episodios": 4834,
+   "sospechosas": 82,
    "realistaNeta": 558.98,
    "capital": {
     "500": 167.23,
@@ -236,37 +236,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5411,
-  "n": 1536,
-  "gan": 3658.87,
-  "nNeta": 374,
-  "neta": 594.26
+  "conDato": 5439,
+  "n": 1527,
+  "gan": 3654.25,
+  "nNeta": 362,
+  "neta": 587.88
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1615
+   "n": 1630
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2020
+   "n": 2045
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1149
+   "n": 1137
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 471
+   "n": 469
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 157
+   "n": 159
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795057200000,
-   "n": 180
-  },
   {
    "h": 1795060800000,
    "n": 1
@@ -633,127 +629,131 @@
   },
   {
    "h": 1795320000000,
+   "n": 65
+  },
+  {
+   "h": 1795323600000,
    "n": 3
   }
  ],
  "recientes": [
   {
-   "inicio": 1795320846909,
-   "titulo": "Test Match: New Zealand vs India",
-   "dur": 39.285,
-   "gan": 5.18,
-   "neta": 0.39,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795320646325,
-   "titulo": "Test Match: New Zealand vs India",
-   "dur": 153.302,
-   "gan": 1.45,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795320147741,
-   "titulo": "Test Match: New Zealand vs India",
-   "dur": 8.183,
-   "gan": 1.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795319603322,
-   "titulo": "Test Match: New Zealand vs India",
-   "dur": 0.982,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795319369811,
-   "titulo": "Wellington Phoenix FC vs. Macarthur FC",
-   "dur": 0.318,
-   "gan": 1.94,
-   "neta": 0.07,
+   "inicio": 1795323781360,
+   "titulo": "Tigres de la UANL vs. CF América",
+   "dur": 0.151,
+   "gan": 1.25,
+   "neta": 0.66,
    "lado": "si"
   },
   {
-   "inicio": 1795319331860,
+   "inicio": 1795323780512,
+   "titulo": "Tigres de la UANL vs. CF América",
+   "dur": 0.677,
+   "gan": 1.15,
+   "neta": 0.34,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795323777377,
+   "titulo": "Tigres de la UANL vs. CF América",
+   "dur": 0.582,
+   "gan": 2.53,
+   "neta": 2.24,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795322540625,
+   "titulo": "Tigres de la UANL vs. CF América",
+   "dur": 0.217,
+   "gan": 3.27,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795322529917,
+   "titulo": "Tigres de la UANL vs. CF América",
+   "dur": 0.409,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795322400234,
    "titulo": "Test Match: New Zealand vs India",
-   "dur": 21.014,
-   "gan": 0.96,
+   "dur": 41.48,
+   "gan": 4.13,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795318732329,
+   "inicio": 1795322310748,
+   "titulo": "Test Match: New Zealand vs India",
+   "dur": 70.203,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795322239473,
    "titulo": "Tigres de la UANL vs. CF América",
-   "dur": 0.077,
+   "dur": 0.935,
+   "gan": 1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795322235648,
+   "titulo": "Tigres de la UANL vs. CF América",
+   "dur": 0.856,
+   "gan": 3.65,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795322231132,
+   "titulo": "Tigres de la UANL vs. CF América",
+   "dur": 0.137,
+   "gan": 1.66,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795322230497,
+   "titulo": "Tigres de la UANL vs. CF América",
+   "dur": 0.005,
+   "gan": 1.47,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795322230303,
+   "titulo": "Tigres de la UANL vs. CF América",
+   "dur": 0.014,
+   "gan": 1.22,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795322229937,
+   "titulo": "Tigres de la UANL vs. CF América",
+   "dur": 0.338,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795322229874,
+   "titulo": "Tigres de la UANL vs. CF América",
+   "dur": 0.052,
    "gan": 0.52,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795318057051,
+   "inicio": 1795322228113,
    "titulo": "Tigres de la UANL vs. CF América",
-   "dur": 0.267,
-   "gan": 1.28,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795317889144,
-   "titulo": "Washington Spirit vs. Kansas City Current",
-   "dur": 6.293,
-   "gan": 0.52,
-   "neta": 0.48,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795315506071,
-   "titulo": "Pumas de la UNAM vs. CF Monterrey",
-   "dur": 0.29,
-   "gan": 3.17,
-   "neta": 0.14,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795315418901,
-   "titulo": "Pumas de la UNAM vs. CF Monterrey",
-   "dur": 0.91,
-   "gan": 6.69,
-   "neta": 0.25,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795315235459,
-   "titulo": "Pumas de la UNAM vs. CF Monterrey",
-   "dur": 0.32,
-   "gan": 1.94,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795315180699,
-   "titulo": "Pumas de la UNAM vs. CF Monterrey",
-   "dur": 3.846,
-   "gan": 1.04,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795315179946,
-   "titulo": "Pumas de la UNAM vs. CF Monterrey",
-   "dur": 0.371,
-   "gan": 2.29,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795315179756,
-   "titulo": "Pumas de la UNAM vs. CF Monterrey",
-   "dur": 0.094,
-   "gan": 0.69,
+   "dur": 0.098,
+   "gan": 0.79,
    "neta": 0,
    "lado": "si"
   }
