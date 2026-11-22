@@ -1,84 +1,84 @@
 {
- "actualizado": 1795348020156,
- "inicio": 1794717540454,
+ "actualizado": 1795351033586,
+ "inicio": 1794723554907,
  "ejecucion": {
-  "inicio": 1795345019844,
-  "fin": 1795348020156,
-  "mensajes": 12721120,
+  "inicio": 1795348033336,
+  "fin": 1795351033586,
+  "mensajes": 15188577,
   "reconexiones": 0,
-  "eventos": 600,
+  "eventos": 641,
   "errores": [],
-  "nuevos": 32,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.18
+  "nuevos": 39,
+  "nuevosRentables": 5,
+  "nuevosNeta": 1.72
  },
- "total": 5589,
- "falsos": 3777,
+ "total": 5603,
+ "falsos": 3787,
  "largos": {
-  "episodios": 22220,
-  "eventos": 177,
+  "episodios": 22200,
+  "eventos": 176,
   "dias": 7
  },
  "enEspera": {
   "episodios": 65,
   "eventos": 18
  },
- "mediana": 0.362,
+ "mediana": 0.363,
  "captura": [
   {
    "s": 0.5,
-   "n": 2541,
-   "gan": 7711.06,
-   "nNeta": 749,
-   "neta": 1859.96
+   "n": 2546,
+   "gan": 7759.71,
+   "nNeta": 753,
+   "neta": 1850.69
   },
   {
    "s": 2,
-   "n": 1247,
-   "gan": 2899.3,
-   "nNeta": 305,
-   "neta": 389.19
+   "n": 1244,
+   "gan": 2919.41,
+   "nNeta": 307,
+   "neta": 387.8
   },
   {
    "s": 5,
-   "n": 711,
-   "gan": 1450.34,
-   "nNeta": 152,
-   "neta": 100.78
+   "n": 708,
+   "gan": 1473.25,
+   "nNeta": 153,
+   "neta": 101.14
   },
   {
    "s": 30,
-   "n": 246,
-   "gan": 552.36,
+   "n": 239,
+   "gan": 555.45,
    "nNeta": 14,
    "neta": 5.24
   }
  ],
- "rentables": 1662,
+ "rentables": 1667,
  "porCapital": [
   {
    "capital": 500,
    "ops": 69,
-   "descartadas": 281,
-   "neta": 174.86,
-   "dias": 7.21,
-   "semana": 169.85
+   "descartadas": 284,
+   "neta": 175.04,
+   "dias": 7.05,
+   "semana": 173.69
   },
   {
    "capital": 1000,
    "ops": 79,
-   "descartadas": 281,
-   "neta": 277.77,
-   "dias": 7.21,
-   "semana": 269.82
+   "descartadas": 284,
+   "neta": 277.95,
+   "dias": 7.05,
+   "semana": 275.82
   },
   {
    "capital": 2000,
    "ops": 80,
-   "descartadas": 281,
-   "neta": 401.55,
-   "dias": 7.21,
-   "semana": 390.04
+   "descartadas": 284,
+   "neta": 401.73,
+   "dias": 7.05,
+   "semana": 398.63
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 7,
-   "horas": 148.3,
-   "episodios": 4932,
-   "sospechosas": 83,
-   "realistaNeta": 560.02,
+   "horas": 149.2,
+   "episodios": 4971,
+   "sospechosas": 84,
+   "realistaNeta": 561.74,
    "capital": {
-    "500": 167.9,
-    "1000": 260.57,
-    "2000": 384.33
+    "500": 168.4,
+    "1000": 261.07,
+    "2000": 384.83
    },
    "cumple": true
   }
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 96,
+  "n": 92,
   "top": [
    {
     "inicio": 1795274262924,
@@ -151,16 +151,6 @@
     "neta": 93.63,
     "costo": 973,
     "ret": 10.3
-   },
-   {
-    "inicio": 1794738069985,
-    "titulo": "Highest temperature in Istanbul on November 15?",
-    "lado": "si",
-    "dur": 0.631,
-    "gan": 68.21,
-    "neta": 66.39,
-    "costo": 113.14,
-    "ret": 60.3
    },
    {
     "inicio": 1795273848619,
@@ -231,16 +221,26 @@
     "neta": 21.34,
     "costo": 46.9,
     "ret": 49.3
+   },
+   {
+    "inicio": 1795013651090,
+    "titulo": "Highest temperature in Seattle on November 18?",
+    "lado": "si",
+    "dur": 0.083,
+    "gan": 20.72,
+    "neta": 18.76,
+    "costo": 74.6,
+    "ret": 27.8
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5493,
-  "n": 1525,
-  "gan": 3669.19,
-  "nNeta": 364,
-  "neta": 588.6
+  "conDato": 5511,
+  "n": 1526,
+  "gan": 3715.9,
+  "nNeta": 367,
+  "neta": 587.9
  },
  "duraciones": [
   {
@@ -251,27 +251,27 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2070
+   "n": 2083
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1145
+   "n": 1149
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 465
+   "n": 469
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 159
+   "n": 153
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 87
+   "n": 86
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795089600000,
-   "n": 7
-  },
   {
    "h": 1795093200000,
    "n": 9
@@ -633,128 +629,132 @@
   },
   {
    "h": 1795345200000,
-   "n": 32
+   "n": 43
+  },
+  {
+   "h": 1795348800000,
+   "n": 28
   }
  ],
  "recientes": [
   {
-   "inicio": 1795345952050,
-   "titulo": "Hull City AFC vs. Brighton & Hove Albion FC",
-   "dur": 2067.797,
-   "gan": 1.55,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795347735464,
-   "titulo": "SD Huesca vs. UD Ibiza",
-   "dur": 0.669,
-   "gan": 0.85,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795347293195,
-   "titulo": "POFC Botev Vratsa vs. FC CSKA 1948",
-   "dur": 0.1,
-   "gan": 0.52,
-   "neta": 0.11,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795347277496,
-   "titulo": "POFC Botev Vratsa vs. FC CSKA 1948",
-   "dur": 0.89,
-   "gan": 0.5,
-   "neta": 0.09,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795347222308,
-   "titulo": "Juventus FC vs. Venezia FC",
-   "dur": 1.793,
-   "gan": 0.81,
+   "inicio": 1795350996447,
+   "titulo": "FC Energie Cottbus vs. Hertha BSC",
+   "dur": 0.142,
+   "gan": 0.58,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795347217510,
-   "titulo": "Juventus FC vs. Venezia FC",
-   "dur": 3.3,
-   "gan": 0.81,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795347210582,
-   "titulo": "POFC Botev Vratsa vs. FC CSKA 1948",
-   "dur": 0.969,
-   "gan": 5.47,
-   "neta": 1.06,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795347198493,
-   "titulo": "RKS Rakow Czestochowa vs. Widzew Lodz",
-   "dur": 0.984,
-   "gan": 2.91,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795347194760,
-   "titulo": "Juventus FC vs. Venezia FC",
-   "dur": 1.736,
-   "gan": 0.81,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795347058207,
+   "inicio": 1795350877223,
    "titulo": "FC Twente vs. Willem II Tilburg",
-   "dur": 9.909,
-   "gan": 2.69,
+   "dur": 5.591,
+   "gan": 1.23,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795346396412,
-   "titulo": "Erzurumspor FK vs. Göztepe SK",
-   "dur": 0.651,
-   "gan": 1,
+   "inicio": 1795350876827,
+   "titulo": "Union Brescia vs. AC Renate",
+   "dur": 0.111,
+   "gan": 0.8,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795346377457,
-   "titulo": "Erzurumspor FK vs. Göztepe SK",
-   "dur": 0.286,
-   "gan": 1.18,
+   "inicio": 1795350875458,
+   "titulo": "FC Twente vs. Willem II Tilburg",
+   "dur": 0.353,
+   "gan": 1.99,
+   "neta": 0.62,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795350875687,
+   "titulo": "Union Brescia vs. AC Renate",
+   "dur": 0.067,
+   "gan": 0.57,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795350875604,
+   "titulo": "Union Brescia vs. AC Renate",
+   "dur": 0.043,
+   "gan": 0.96,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795350874398,
+   "titulo": "FC Twente vs. Willem II Tilburg",
+   "dur": 0.01,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795350874109,
+   "titulo": "FC Twente vs. Willem II Tilburg",
+   "dur": 0.248,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795350871399,
+   "titulo": "FC Twente vs. Willem II Tilburg",
+   "dur": 0.855,
+   "gan": 4.62,
+   "neta": 0.63,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795350864439,
+   "titulo": "FC Twente vs. Willem II Tilburg",
+   "dur": 5.623,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795350674388,
+   "titulo": "SD Huesca vs. UD Ibiza",
+   "dur": 0.372,
+   "gan": 1.08,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795350621891,
+   "titulo": "Burnley FC vs. Blackburn Rovers FC",
+   "dur": 0.652,
+   "gan": 0.78,
+   "neta": 0.32,
    "lado": "no"
   },
   {
-   "inicio": 1795346362454,
-   "titulo": "Erzurumspor FK vs. Göztepe SK",
-   "dur": 0.475,
-   "gan": 0.72,
+   "inicio": 1795350606921,
+   "titulo": "FC Twente vs. Willem II Tilburg",
+   "dur": 6.334,
+   "gan": 0.56,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795346360091,
-   "titulo": "Erzurumspor FK vs. Göztepe SK",
-   "dur": 0.138,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
+   "inicio": 1795350445314,
+   "titulo": "FK Radnicki 1923 Kragujevac vs. FK Cukaricki Belgrade",
+   "dur": 0.12,
+   "gan": 6.18,
+   "neta": 0.51,
+   "lado": "no"
   },
   {
-   "inicio": 1795346359978,
-   "titulo": "Erzurumspor FK vs. Göztepe SK",
-   "dur": 0.101,
-   "gan": 1.61,
-   "neta": 0,
+   "inicio": 1795350312165,
+   "titulo": "Highest temperature in Ankara on November 22?",
+   "dur": 0.277,
+   "gan": 0.56,
+   "neta": 0.55,
    "lado": "si"
   }
  ]
