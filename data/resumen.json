@@ -1,22 +1,22 @@
 {
- "actualizado": 1795341990794,
- "inicio": 1794711477008,
+ "actualizado": 1795345004413,
+ "inicio": 1794717540454,
  "ejecucion": {
-  "inicio": 1795338990551,
-  "fin": 1795341990794,
-  "mensajes": 9888166,
+  "inicio": 1795342004081,
+  "fin": 1795345004413,
+  "mensajes": 11171130,
   "reconexiones": 0,
-  "eventos": 601,
+  "eventos": 616,
   "errores": [],
-  "nuevos": 23,
+  "nuevos": 1,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5581,
- "falsos": 3780,
+ "total": 5582,
+ "falsos": 3784,
  "largos": {
   "episodios": 22212,
-  "eventos": 175,
+  "eventos": 177,
   "dias": 7
  },
  "enEspera": {
@@ -27,8 +27,8 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2545,
-   "gan": 7649.91,
+   "n": 2546,
+   "gan": 7650.45,
    "nNeta": 748,
    "neta": 1840.47
   },
@@ -61,24 +61,24 @@
    "ops": 69,
    "descartadas": 280,
    "neta": 174.86,
-   "dias": 7.19,
-   "semana": 170.13
+   "dias": 7.23,
+   "semana": 169.31
   },
   {
    "capital": 1000,
    "ops": 79,
    "descartadas": 280,
    "neta": 277.77,
-   "dias": 7.19,
-   "semana": 270.27
+   "dias": 7.23,
+   "semana": 268.96
   },
   {
    "capital": 2000,
    "ops": 80,
    "descartadas": 280,
    "neta": 401.55,
-   "dias": 7.19,
-   "semana": 390.69
+   "dias": 7.23,
+   "semana": 388.81
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 7,
-   "horas": 146.7,
-   "episodios": 4899,
+   "horas": 147.5,
+   "episodios": 4900,
    "sospechosas": 83,
    "realistaNeta": 559.84,
    "capital": {
@@ -236,7 +236,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5485,
+  "conDato": 5486,
   "n": 1532,
   "gan": 3667.29,
   "nNeta": 363,
@@ -256,7 +256,7 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1146
+   "n": 1147
   },
   {
    "et": "5–30 s",
@@ -633,10 +633,18 @@
   },
   {
    "h": 1795341600000,
-   "n": 1
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795343814595,
+   "titulo": "SC Vianense vs. Rio Ave FC",
+   "dur": 1.086,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795341612151,
    "titulo": "Araz Nakhchivan PFK vs. Neftchi Baku PFC",
@@ -747,14 +755,6 @@
    "dur": 0.096,
    "gan": 2.24,
    "neta": 0.81,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795339336558,
-   "titulo": "Seoul E-Land FC vs. Chungnam Asan FC",
-   "dur": 0.091,
-   "gan": 2.54,
-   "neta": 0.63,
    "lado": "si"
   }
  ]
