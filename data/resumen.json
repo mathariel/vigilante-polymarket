@@ -1,21 +1,21 @@
 {
- "actualizado": 1795329930040,
+ "actualizado": 1795332949805,
  "inicio": 1794708488575,
  "ejecucion": {
-  "inicio": 1795326929709,
-  "fin": 1795329930040,
-  "mensajes": 13140422,
-  "reconexiones": 0,
-  "eventos": 609,
+  "inicio": 1795329949565,
+  "fin": 1795332949805,
+  "mensajes": 11674442,
+  "reconexiones": 6,
+  "eventos": 607,
   "errores": [],
-  "nuevos": 7,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.5
+  "nuevos": 1,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5563,
- "falsos": 3752,
+ "total": 5564,
+ "falsos": 3759,
  "largos": {
-  "episodios": 22242,
+  "episodios": 22237,
   "eventos": 176,
   "dias": 7
  },
@@ -54,31 +54,31 @@
    "neta": 5.24
   }
  ],
- "rentables": 1647,
+ "rentables": 1648,
  "porCapital": [
   {
    "capital": 500,
    "ops": 69,
    "descartadas": 284,
    "neta": 174.86,
-   "dias": 7.14,
-   "semana": 171.46
+   "dias": 7.17,
+   "semana": 170.63
   },
   {
    "capital": 1000,
    "ops": 79,
    "descartadas": 284,
    "neta": 277.77,
-   "dias": 7.14,
-   "semana": 272.38
+   "dias": 7.17,
+   "semana": 271.05
   },
   {
    "capital": 2000,
    "ops": 80,
    "descartadas": 284,
    "neta": 401.55,
-   "dias": 7.14,
-   "semana": 393.75
+   "dias": 7.17,
+   "semana": 391.83
   }
  ],
  "maxBloqueoH": 24,
@@ -115,9 +115,9 @@
   {
    "lunes": "2026-11-16",
    "dias": 7,
-   "horas": 143.3,
-   "episodios": 4872,
-   "sospechosas": 82,
+   "horas": 144.2,
+   "episodios": 4873,
+   "sospechosas": 83,
    "realistaNeta": 559.84,
    "capital": {
     "500": 167.9,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 95,
+  "n": 96,
   "top": [
    {
     "inicio": 1795274262924,
@@ -246,7 +246,7 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1635
+   "n": 1636
   },
   {
    "et": "0.1–1 s",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795064400000,
-   "n": 3
-  },
   {
    "h": 1795068000000,
    "n": 1
@@ -634,9 +630,21 @@
   {
    "h": 1795327200000,
    "n": 7
+  },
+  {
+   "h": 1795330800000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795332809892,
+   "titulo": "Highest temperature in Kuala Lumpur on November 22?",
+   "dur": 0.091,
+   "gan": 0.8,
+   "neta": 0.79,
+   "lado": "si"
+  },
   {
    "inicio": 1795329491245,
    "titulo": "Gwangju FC vs. Bucheon FC 1995",
@@ -745,14 +753,6 @@
    "inicio": 1795325680883,
    "titulo": "Gwangju FC vs. Bucheon FC 1995",
    "dur": 1.718,
-   "gan": 0.8,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795325680648,
-   "titulo": "Gwangju FC vs. Bucheon FC 1995",
-   "dur": 0.083,
    "gan": 0.8,
    "neta": 0.17,
    "lado": "si"
