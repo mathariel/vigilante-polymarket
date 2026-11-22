@@ -1,21 +1,21 @@
 {
- "actualizado": 1795326916527,
+ "actualizado": 1795329930040,
  "inicio": 1794708488575,
  "ejecucion": {
-  "inicio": 1795323916221,
-  "fin": 1795326916527,
-  "mensajes": 13884503,
-  "reconexiones": 6,
-  "eventos": 611,
+  "inicio": 1795326929709,
+  "fin": 1795329930040,
+  "mensajes": 13140422,
+  "reconexiones": 0,
+  "eventos": 609,
   "errores": [],
-  "nuevos": 31,
-  "nuevosRentables": 4,
-  "nuevosNeta": 0.36
+  "nuevos": 7,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.5
  },
- "total": 5558,
- "falsos": 3746,
+ "total": 5563,
+ "falsos": 3752,
  "largos": {
-  "episodios": 22250,
+  "episodios": 22242,
   "eventos": 176,
   "dias": 7
  },
@@ -27,17 +27,17 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2545,
-   "gan": 7642.4,
-   "nNeta": 750,
-   "neta": 1839.97
+   "n": 2548,
+   "gan": 7645.51,
+   "nNeta": 751,
+   "neta": 1840.47
   },
   {
    "s": 2,
-   "n": 1252,
-   "gan": 2890.04,
-   "nNeta": 305,
-   "neta": 388.6
+   "n": 1253,
+   "gan": 2890.87,
+   "nNeta": 306,
+   "neta": 389.1
   },
   {
    "s": 5,
@@ -54,31 +54,31 @@
    "neta": 5.24
   }
  ],
- "rentables": 1645,
+ "rentables": 1647,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 68,
+   "ops": 69,
    "descartadas": 284,
-   "neta": 174.36,
+   "neta": 174.86,
    "dias": 7.14,
-   "semana": 171.02
+   "semana": 171.46
   },
   {
    "capital": 1000,
-   "ops": 78,
+   "ops": 79,
    "descartadas": 284,
-   "neta": 277.27,
+   "neta": 277.77,
    "dias": 7.14,
-   "semana": 271.96
+   "semana": 272.38
   },
   {
    "capital": 2000,
-   "ops": 79,
+   "ops": 80,
    "descartadas": 284,
-   "neta": 401.05,
+   "neta": 401.55,
    "dias": 7.14,
-   "semana": 393.37
+   "semana": 393.75
   }
  ],
  "maxBloqueoH": 24,
@@ -115,14 +115,14 @@
   {
    "lunes": "2026-11-16",
    "dias": 7,
-   "horas": 142.5,
-   "episodios": 4865,
+   "horas": 143.3,
+   "episodios": 4872,
    "sospechosas": 82,
-   "realistaNeta": 559.34,
+   "realistaNeta": 559.84,
    "capital": {
-    "500": 167.4,
-    "1000": 260.07,
-    "2000": 383.83
+    "500": 167.9,
+    "1000": 260.57,
+    "2000": 384.33
    },
    "cumple": true
   }
@@ -236,27 +236,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5463,
-  "n": 1535,
-  "gan": 3662.78,
-  "nNeta": 366,
-  "neta": 588.24
+  "conDato": 5468,
+  "n": 1536,
+  "gan": 3663.61,
+  "nNeta": 367,
+  "neta": 588.74
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1633
+   "n": 1635
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2055
+   "n": 2056
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1146
+   "n": 1148
   },
   {
    "et": "5–30 s",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795060800000,
-   "n": 1
-  },
   {
    "h": 1795064400000,
    "n": 3
@@ -634,9 +630,69 @@
   {
    "h": 1795323600000,
    "n": 34
+  },
+  {
+   "h": 1795327200000,
+   "n": 7
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795329491245,
+   "titulo": "Gwangju FC vs. Bucheon FC 1995",
+   "dur": 2.118,
+   "gan": 0.83,
+   "neta": 0.5,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795329490436,
+   "titulo": "Gwangju FC vs. Bucheon FC 1995",
+   "dur": 0.497,
+   "gan": 0.83,
+   "neta": 0.5,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795328671911,
+   "titulo": "Gwangju FC vs. Bucheon FC 1995",
+   "dur": 0.038,
+   "gan": 1.07,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795328671793,
+   "titulo": "Gwangju FC vs. Bucheon FC 1995",
+   "dur": 0.05,
+   "gan": 1.3,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795328667885,
+   "titulo": "Gwangju FC vs. Bucheon FC 1995",
+   "dur": 1.244,
+   "gan": 1.18,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795328637485,
+   "titulo": "Gwangju FC vs. Bucheon FC 1995",
+   "dur": 0.747,
+   "gan": 1.04,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795327324120,
+   "titulo": "\"The Cat in the Hat\" 3rd Weekend Box Office",
+   "dur": 0.016,
+   "gan": 1.06,
+   "neta": 0.82,
+   "lado": "si"
+  },
   {
    "inicio": 1795325823610,
    "titulo": "Gwangju FC vs. Bucheon FC 1995",
@@ -700,62 +756,6 @@
    "gan": 0.8,
    "neta": 0.17,
    "lado": "si"
-  },
-  {
-   "inicio": 1795325680233,
-   "titulo": "Gwangju FC vs. Bucheon FC 1995",
-   "dur": 0.107,
-   "gan": 0.8,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795325679835,
-   "titulo": "Gwangju FC vs. Bucheon FC 1995",
-   "dur": 0.287,
-   "gan": 0.8,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795325677248,
-   "titulo": "Gwangju FC vs. Bucheon FC 1995",
-   "dur": 0.008,
-   "gan": 0.51,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795325639140,
-   "titulo": "Gwangju FC vs. Bucheon FC 1995",
-   "dur": 0.71,
-   "gan": 12.66,
-   "neta": 9.35,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795325173169,
-   "titulo": "Gwangju FC vs. Bucheon FC 1995",
-   "dur": 0.5,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795325139801,
-   "titulo": "Gwangju FC vs. Bucheon FC 1995",
-   "dur": 0.298,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795325137580,
-   "titulo": "Gwangju FC vs. Bucheon FC 1995",
-   "dur": 1.949,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
