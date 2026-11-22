@@ -1,84 +1,84 @@
 {
- "actualizado": 1795363106483,
- "inicio": 1794762206189,
+ "actualizado": 1795366120684,
+ "inicio": 1794765744089,
  "ejecucion": {
-  "inicio": 1795360106155,
-  "fin": 1795363106483,
-  "mensajes": 15369742,
+  "inicio": 1795363120364,
+  "fin": 1795366120684,
+  "mensajes": 14227912,
   "reconexiones": 0,
-  "eventos": 663,
+  "eventos": 630,
   "errores": [],
-  "nuevos": 110,
-  "nuevosRentables": 4,
-  "nuevosNeta": 5.05
+  "nuevos": 92,
+  "nuevosRentables": 3,
+  "nuevosNeta": 2.27
  },
- "total": 5791,
- "falsos": 3895,
+ "total": 5811,
+ "falsos": 3909,
  "largos": {
-  "episodios": 21939,
-  "eventos": 174,
+  "episodios": 21911,
+  "eventos": 173,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 55,
+  "episodios": 54,
   "eventos": 17
  },
- "mediana": 0.37,
+ "mediana": 0.368,
  "captura": [
   {
    "s": 0.5,
-   "n": 2643,
-   "gan": 8300.06,
-   "nNeta": 775,
-   "neta": 1958.49
+   "n": 2648,
+   "gan": 8353.14,
+   "nNeta": 776,
+   "neta": 1949.24
   },
   {
    "s": 2,
-   "n": 1289,
-   "gan": 3242.36,
-   "nNeta": 315,
-   "neta": 444.05
+   "n": 1286,
+   "gan": 3218.52,
+   "nNeta": 312,
+   "neta": 438.75
   },
   {
    "s": 5,
-   "n": 731,
-   "gan": 1665.65,
-   "nNeta": 160,
-   "neta": 132.16
+   "n": 735,
+   "gan": 1671.1,
+   "nNeta": 161,
+   "neta": 132.66
   },
   {
    "s": 30,
-   "n": 242,
-   "gan": 513.28,
-   "nNeta": 19,
-   "neta": 33.76
+   "n": 245,
+   "gan": 515.37,
+   "nNeta": 20,
+   "neta": 34.31
   }
  ],
- "rentables": 1707,
+ "rentables": 1724,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 72,
-   "descartadas": 286,
-   "neta": 183.74,
-   "dias": 6.89,
-   "semana": 186.62
+   "ops": 73,
+   "descartadas": 283,
+   "neta": 188.27,
+   "dias": 6.88,
+   "semana": 191.58
   },
   {
    "capital": 1000,
-   "ops": 83,
-   "descartadas": 286,
-   "neta": 291.82,
-   "dias": 6.89,
-   "semana": 296.39
+   "ops": 81,
+   "descartadas": 283,
+   "neta": 286.44,
+   "dias": 6.88,
+   "semana": 291.48
   },
   {
    "capital": 2000,
-   "ops": 84,
-   "descartadas": 286,
-   "neta": 425.07,
-   "dias": 6.89,
-   "semana": 431.72
+   "ops": 82,
+   "descartadas": 283,
+   "neta": 419.69,
+   "dias": 6.88,
+   "semana": 427.08
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 7,
-   "horas": 152.5,
-   "episodios": 5278,
-   "sospechosas": 87,
-   "realistaNeta": 624.56,
+   "horas": 153.3,
+   "episodios": 5370,
+   "sospechosas": 89,
+   "realistaNeta": 626.83,
    "capital": {
     "500": 178.09,
     "1000": 276.27,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 91,
+  "n": 90,
   "top": [
    {
     "inicio": 1795274262924,
@@ -171,16 +171,6 @@
     "neta": 35.64,
     "costo": 304.65,
     "ret": 14.2
-   },
-   {
-    "inicio": 1794769805301,
-    "titulo": "CD Comerciantes Unidos vs. Sport Boys Association",
-    "lado": "si",
-    "dur": 0.545,
-    "gan": 32.18,
-    "neta": 23.71,
-    "costo": 260.73,
-    "ret": 12.3
    },
    {
     "inicio": 1794840918442,
@@ -231,42 +221,52 @@
     "neta": 18.76,
     "costo": 74.6,
     "ret": 27.8
+   },
+   {
+    "inicio": 1795350128462,
+    "titulo": "Highest temperature in Ankara on November 22?",
+    "lado": "si",
+    "dur": 0.002,
+    "gan": 18.41,
+    "neta": 18.25,
+    "costo": 103.15,
+    "ret": 17.8
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5700,
-  "n": 1581,
-  "gan": 4101.55,
-  "nNeta": 378,
-  "neta": 646.81
+  "conDato": 5721,
+  "n": 1577,
+  "gan": 4074.49,
+  "nNeta": 375,
+  "neta": 643.2
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1689
+   "n": 1672
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2165
+   "n": 2202
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1199
+   "n": 1194
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 489
+   "n": 490
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 156
+   "n": 159
   },
   {
    "et": "> 5 min",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795104000000,
-   "n": 3
-  },
   {
    "h": 1795107600000,
    "n": 71
@@ -634,127 +630,131 @@
   {
    "h": 1795359600000,
    "n": 120
+  },
+  {
+   "h": 1795363200000,
+   "n": 92
   }
  ],
  "recientes": [
   {
-   "inicio": 1795362965538,
-   "titulo": "APO Levadiakos FC vs. Atromitos Athinon",
-   "dur": 140.62,
-   "gan": 4.03,
-   "neta": 3.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795363071365,
-   "titulo": "Trabzonspor vs. Eyüpspor",
-   "dur": 4.76,
-   "gan": 0.81,
-   "neta": 0,
+   "inicio": 1795366118436,
+   "titulo": "Sønderjyske Fodbold vs. Odense BK",
+   "dur": 0.173,
+   "gan": 0.85,
+   "neta": 0.73,
    "lado": "no"
   },
   {
-   "inicio": 1795363074676,
-   "titulo": "Real Racing Club vs. Real Sociedad de Fútbol",
-   "dur": 0.223,
+   "inicio": 1795366037335,
+   "titulo": "Panaitolikos Agrinio vs. Volos NPS",
+   "dur": 1.182,
+   "gan": 0.92,
+   "neta": 0.83,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795365966444,
+   "titulo": "SV Werder Bremen vs. Hamburger SV",
+   "dur": 2.24,
    "gan": 0.78,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795363019247,
-   "titulo": "Trabzonspor vs. Eyüpspor",
-   "dur": 35.378,
-   "gan": 0.54,
+   "inicio": 1795365943522,
+   "titulo": "Kristiansund BK vs. Sandefjord Fotball",
+   "dur": 0.13,
+   "gan": 0.5,
+   "neta": 0.36,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795365905310,
+   "titulo": "Liverpool FC vs. Manchester United FC",
+   "dur": 1.018,
+   "gan": 1.41,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795363004769,
-   "titulo": "Trabzonspor vs. Eyüpspor",
-   "dur": 0.135,
-   "gan": 0.54,
+   "inicio": 1795365899811,
+   "titulo": "KV Kortrijk vs. Union Saint-Gilloise",
+   "dur": 0.883,
+   "gan": 0.71,
+   "neta": 0.18,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795365868700,
+   "titulo": "Liverpool FC vs. Manchester United FC",
+   "dur": 1.059,
+   "gan": 45.27,
+   "neta": 13.17,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795365852276,
+   "titulo": "Liverpool FC vs. Manchester United FC",
+   "dur": 1.087,
+   "gan": 0.53,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795362984701,
-   "titulo": "Trabzonspor vs. Eyüpspor",
-   "dur": 1.292,
-   "gan": 0.59,
+   "inicio": 1795365819932,
+   "titulo": "KV Kortrijk vs. Union Saint-Gilloise",
+   "dur": 0.028,
+   "gan": 0.51,
    "neta": 0.07,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795365818646,
+   "titulo": "KV Kortrijk vs. Union Saint-Gilloise",
+   "dur": 1.234,
+   "gan": 0.67,
+   "neta": 0.07,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795365751815,
+   "titulo": "FC Lorient vs. Stade Rennais FC 1901",
+   "dur": 0.621,
+   "gan": 2,
+   "neta": 1.37,
    "lado": "no"
   },
   {
-   "inicio": 1795362984500,
-   "titulo": "Trabzonspor vs. Eyüpspor",
-   "dur": 0.18,
-   "gan": 0.64,
-   "neta": 0.08,
+   "inicio": 1795365751807,
+   "titulo": "FC Lorient vs. Stade Rennais FC 1901",
+   "dur": 0.004,
+   "gan": 0.5,
+   "neta": 0.18,
    "lado": "no"
   },
   {
-   "inicio": 1795362967448,
-   "titulo": "Trabzonspor vs. Eyüpspor",
-   "dur": 17.031,
-   "gan": 0.6,
+   "inicio": 1795365751779,
+   "titulo": "FC Lorient vs. Stade Rennais FC 1901",
+   "dur": 0.017,
+   "gan": 7.36,
+   "neta": 2.29,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795365599377,
+   "titulo": "Real Racing Club vs. Real Sociedad de Fútbol",
+   "dur": 6.831,
+   "gan": 0.66,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795362967511,
-   "titulo": "Hull City AFC vs. Brighton & Hove Albion FC",
-   "dur": 0.959,
-   "gan": 11,
-   "neta": 9.14,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795362963414,
-   "titulo": "Trabzonspor vs. Eyüpspor",
-   "dur": 2.068,
-   "gan": 0.6,
+   "inicio": 1795365603371,
+   "titulo": "Liverpool FC vs. Manchester United FC",
+   "dur": 0.117,
+   "gan": 0.74,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795362940402,
-   "titulo": "Trabzonspor vs. Eyüpspor",
-   "dur": 21.773,
-   "gan": 1.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795362953582,
-   "titulo": "Hull City AFC vs. Brighton & Hove Albion FC",
-   "dur": 1.047,
-   "gan": 0.59,
-   "neta": 0.16,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795362863340,
-   "titulo": "FC Augsburg vs. 1. FSV Mainz 05",
-   "dur": 0.344,
-   "gan": 1.27,
-   "neta": 0.52,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795362861849,
-   "titulo": "FC Augsburg vs. 1. FSV Mainz 05",
-   "dur": 1.422,
-   "gan": 1.45,
-   "neta": 0.4,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795362793784,
-   "titulo": "Hull City AFC vs. Brighton & Hove Albion FC",
-   "dur": 0.061,
-   "gan": 1.1,
-   "neta": 0.03,
    "lado": "si"
   }
  ]
