@@ -1,21 +1,21 @@
 {
- "actualizado": 1795335963559,
- "inicio": 1794708503372,
+ "actualizado": 1795338977968,
+ "inicio": 1794711477008,
  "ejecucion": {
-  "inicio": 1795332963251,
-  "fin": 1795335963559,
-  "mensajes": 11633968,
+  "inicio": 1795335977647,
+  "fin": 1795338977968,
+  "mensajes": 10885529,
   "reconexiones": 0,
-  "eventos": 615,
+  "eventos": 588,
   "errores": [],
-  "nuevos": 0,
+  "nuevos": 3,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 5564,
- "falsos": 3764,
+ "total": 5562,
+ "falsos": 3781,
  "largos": {
-  "episodios": 22235,
+  "episodios": 22224,
   "eventos": 176,
   "dias": 7
  },
@@ -23,28 +23,28 @@
   "episodios": 65,
   "eventos": 18
  },
- "mediana": 0.371,
+ "mediana": 0.37,
  "captura": [
   {
    "s": 0.5,
-   "n": 2548,
-   "gan": 7645.51,
-   "nNeta": 751,
-   "neta": 1840.47
+   "n": 2544,
+   "gan": 7643,
+   "nNeta": 748,
+   "neta": 1840.32
   },
   {
    "s": 2,
-   "n": 1253,
-   "gan": 2890.87,
-   "nNeta": 306,
-   "neta": 389.1
+   "n": 1250,
+   "gan": 2888.18,
+   "nNeta": 304,
+   "neta": 389.01
   },
   {
    "s": 5,
-   "n": 717,
-   "gan": 1445.66,
-   "nNeta": 154,
-   "neta": 100.9
+   "n": 715,
+   "gan": 1444.13,
+   "nNeta": 152,
+   "neta": 100.78
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 5.24
   }
  ],
- "rentables": 1648,
+ "rentables": 1645,
  "porCapital": [
   {
    "capital": 500,
    "ops": 69,
-   "descartadas": 284,
+   "descartadas": 281,
    "neta": 174.86,
-   "dias": 7.21,
-   "semana": 169.8
+   "dias": 7.22,
+   "semana": 169.45
   },
   {
    "capital": 1000,
    "ops": 79,
-   "descartadas": 284,
+   "descartadas": 281,
    "neta": 277.77,
-   "dias": 7.21,
-   "semana": 269.74
+   "dias": 7.22,
+   "semana": 269.19
   },
   {
    "capital": 2000,
    "ops": 80,
-   "descartadas": 284,
+   "descartadas": 281,
    "neta": 401.55,
-   "dias": 7.21,
-   "semana": 389.93
+   "dias": 7.22,
+   "semana": 389.14
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 7,
-   "horas": 145,
-   "episodios": 4873,
+   "horas": 145.8,
+   "episodios": 4876,
    "sospechosas": 83,
    "realistaNeta": 559.84,
    "capital": {
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5468,
-  "n": 1536,
-  "gan": 3663.61,
-  "nNeta": 367,
-  "neta": 588.74
+  "conDato": 5466,
+  "n": 1532,
+  "gan": 3661.1,
+  "nNeta": 364,
+  "neta": 588.59
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1636
+   "n": 1635
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2056
+   "n": 2059
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1148
+   "n": 1146
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 470
+   "n": 468
   },
   {
    "et": "30 s–5 min",
@@ -347,14 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795068000000,
-   "n": 1
-  },
-  {
-   "h": 1795078800000,
-   "n": 2
-  },
   {
    "h": 1795082400000,
    "n": 3
@@ -634,9 +626,41 @@
   {
    "h": 1795330800000,
    "n": 1
+  },
+  {
+   "h": 1795334400000,
+   "n": 1
+  },
+  {
+   "h": 1795338000000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795338710408,
+   "titulo": "Araz Nakhchivan PFK vs. Neftchi Baku PFC",
+   "dur": 0.193,
+   "gan": 19.24,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795338010571,
+   "titulo": "Seoul E-Land FC vs. Chungnam Asan FC",
+   "dur": 0.284,
+   "gan": 7.87,
+   "neta": 3.41,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795337428874,
+   "titulo": "Araz Nakhchivan PFK vs. Neftchi Baku PFC",
+   "dur": 0.237,
+   "gan": 1.13,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795332809892,
    "titulo": "Highest temperature in Kuala Lumpur on November 22?",
@@ -731,30 +755,6 @@
    "dur": 4.267,
    "gan": 1.46,
    "neta": 0.1,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795325683696,
-   "titulo": "Gwangju FC vs. Bucheon FC 1995",
-   "dur": 0.426,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795325682853,
-   "titulo": "Gwangju FC vs. Bucheon FC 1995",
-   "dur": 0.769,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795325680883,
-   "titulo": "Gwangju FC vs. Bucheon FC 1995",
-   "dur": 1.718,
-   "gan": 0.8,
-   "neta": 0.17,
    "lado": "si"
   }
  ]
