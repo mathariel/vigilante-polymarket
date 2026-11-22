@@ -1,84 +1,84 @@
 {
- "actualizado": 1795387220521,
- "inicio": 1794783752735,
+ "actualizado": 1795390235637,
+ "inicio": 1794789558195,
  "ejecucion": {
-  "inicio": 1795384220285,
-  "fin": 1795387220521,
-  "mensajes": 11740806,
+  "inicio": 1795387235297,
+  "fin": 1795390235637,
+  "mensajes": 11626952,
   "reconexiones": 0,
-  "eventos": 570,
+  "eventos": 562,
   "errores": [],
-  "nuevos": 18,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.55
+  "nuevos": 111,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 5930,
- "falsos": 3959,
+ "total": 6000,
+ "falsos": 3994,
  "largos": {
-  "episodios": 21781,
-  "eventos": 171,
+  "episodios": 21683,
+  "eventos": 170,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 45,
+  "episodios": 42,
   "eventos": 17
  },
- "mediana": 0.362,
+ "mediana": 0.349,
  "captura": [
   {
    "s": 0.5,
-   "n": 2689,
-   "gan": 8456.31,
-   "nNeta": 824,
-   "neta": 1998.65
+   "n": 2690,
+   "gan": 8453.51,
+   "nNeta": 827,
+   "neta": 1998.63
   },
   {
    "s": 2,
-   "n": 1268,
-   "gan": 3316.84,
+   "n": 1261,
+   "gan": 3305.71,
    "nNeta": 322,
    "neta": 436.66
   },
   {
    "s": 5,
-   "n": 717,
-   "gan": 1750.7,
+   "n": 710,
+   "gan": 1738.86,
    "nNeta": 166,
    "neta": 136.32
   },
   {
    "s": 30,
-   "n": 234,
-   "gan": 492.85,
+   "n": 229,
+   "gan": 482.35,
    "nNeta": 21,
    "neta": 34.77
   }
  ],
- "rentables": 1811,
+ "rentables": 1854,
  "porCapital": [
   {
    "capital": 500,
    "ops": 77,
    "descartadas": 293,
    "neta": 185.59,
-   "dias": 6.91,
-   "semana": 188.04
+   "dias": 6.84,
+   "semana": 189.83
   },
   {
    "capital": 1000,
    "ops": 86,
    "descartadas": 293,
    "neta": 285.92,
-   "dias": 6.91,
-   "semana": 289.69
+   "dias": 6.84,
+   "semana": 292.45
   },
   {
    "capital": 2000,
    "ops": 87,
    "descartadas": 293,
    "neta": 419.17,
-   "dias": 6.91,
-   "semana": 424.7
+   "dias": 6.84,
+   "semana": 428.75
   }
  ],
  "maxBloqueoH": 24,
@@ -115,9 +115,9 @@
   {
    "lunes": "2026-11-16",
    "dias": 7,
-   "horas": 159.2,
-   "episodios": 5875,
-   "sospechosas": 95,
+   "horas": 160,
+   "episodios": 5986,
+   "sospechosas": 97,
    "realistaNeta": 639.88,
    "capital": {
     "500": 185.59,
@@ -130,7 +130,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 95,
+  "n": 97,
   "top": [
    {
     "inicio": 1795274262924,
@@ -236,9 +236,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5835,
-  "n": 1578,
-  "gan": 4217.54,
+  "conDato": 5903,
+  "n": 1570,
+  "gan": 4206.22,
   "nNeta": 390,
   "neta": 639.88
  },
@@ -246,32 +246,32 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1680
+   "n": 1736
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2313
+   "n": 2332
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1210
+   "n": 1212
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 483
+   "n": 481
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 152
+   "n": 151
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 82
+   "n": 78
   }
  ],
  "porEvento": [
@@ -304,13 +304,6 @@
    "mediana": 0.111
   },
   {
-   "titulo": "Target Q3 comparable sales growth?",
-   "n": 127,
-   "gan": 95.67,
-   "neta": 0.14,
-   "mediana": 0.106
-  },
-  {
    "titulo": "Atalanta BC vs. FC Internazionale Milano",
    "n": 126,
    "gan": 139.3,
@@ -323,6 +316,13 @@
    "gan": 170.02,
    "neta": 52.38,
    "mediana": 0.248
+  },
+  {
+   "titulo": "Target Q3 comparable sales growth?",
+   "n": 100,
+   "gan": 75.83,
+   "neta": 0.14,
+   "mediana": 0.201
   },
   {
    "titulo": "Denmark vs. Norway",
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795129200000,
-   "n": 45
-  },
   {
    "h": 1795132800000,
    "n": 44
@@ -633,129 +629,133 @@
   },
   {
    "h": 1795384800000,
-   "n": 13
+   "n": 36
+  },
+  {
+   "h": 1795388400000,
+   "n": 88
   }
  ],
  "recientes": [
   {
-   "inicio": 1795387061341,
-   "titulo": "Chicago Fire FC vs. Charlotte FC",
-   "dur": 18.626,
-   "gan": 6.36,
+   "inicio": 1795390167628,
+   "titulo": "CD Guadalajara vs. CF Cruz Azul",
+   "dur": 14.181,
+   "gan": 0.57,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795387053636,
-   "titulo": "CSD Colo-Colo vs. CD Universidad Católica",
-   "dur": 0.76,
+   "inicio": 1795390163539,
+   "titulo": "CD Guadalajara vs. CF Cruz Azul",
+   "dur": 0.492,
+   "gan": 0.72,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795390160978,
+   "titulo": "CD Guadalajara vs. CF Cruz Azul",
+   "dur": 0.277,
+   "gan": 0.82,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795390160120,
+   "titulo": "CD Guadalajara vs. CF Cruz Azul",
+   "dur": 0.706,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795390006662,
+   "titulo": "CA River Plate vs. CA Lanús",
+   "dur": 0.96,
+   "gan": 0.75,
+   "neta": 0.02,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795389791778,
+   "titulo": "Fluminense FC vs. Mirassol FC",
+   "dur": 0.231,
+   "gan": 0.66,
+   "neta": 0.04,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795389790698,
+   "titulo": "Fluminense FC vs. Mirassol FC",
+   "dur": 0.61,
+   "gan": 0.54,
+   "neta": 0.05,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795389583835,
+   "titulo": "Nashville SC vs. FC Cincinnati",
+   "dur": 0.087,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795389572291,
+   "titulo": "Test Match: New Zealand vs India",
+   "dur": 1.746,
+   "gan": 1.24,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795389470301,
+   "titulo": "Nashville SC vs. FC Cincinnati",
+   "dur": 0.169,
+   "gan": 0.52,
+   "neta": 0.01,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795389454573,
+   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
+   "dur": 0.098,
+   "gan": 1.17,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795389310914,
+   "titulo": "Test Match: New Zealand vs India",
+   "dur": 1.451,
    "gan": 0.9,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795386996770,
-   "titulo": "Nashville SC vs. FC Cincinnati",
-   "dur": 0.234,
-   "gan": 1.15,
-   "neta": 0.08,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795386601349,
-   "titulo": "Nashville SC vs. FC Cincinnati",
-   "dur": 0.112,
-   "gan": 1.15,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795385918123,
-   "titulo": "Metropolitanos FC vs. Deportivo La Guaira",
-   "dur": 0.157,
-   "gan": 2.47,
+   "inicio": 1795388669075,
+   "titulo": "AC Goianiense vs. Vila Nova FC",
+   "dur": 0.179,
+   "gan": 1.04,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795385687406,
-   "titulo": "CSD Colo-Colo vs. CD Universidad Católica",
-   "dur": 1.873,
-   "gan": 1.42,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795385683001,
-   "titulo": "CSD Colo-Colo vs. CD Universidad Católica",
-   "dur": 0.743,
-   "gan": 0.64,
-   "neta": 0.42,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795385558539,
-   "titulo": "Rubio Nu vs. Libertad Asuncion",
-   "dur": 0.11,
-   "gan": 0.55,
+   "inicio": 1795388668980,
+   "titulo": "AC Goianiense vs. Vila Nova FC",
+   "dur": 0.004,
+   "gan": 0.54,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795385558460,
-   "titulo": "Rubio Nu vs. Libertad Asuncion",
-   "dur": 0.055,
-   "gan": 0.6,
-   "neta": 0,
+   "inicio": 1795388630736,
+   "titulo": "AC Goianiense vs. Vila Nova FC",
+   "dur": 0.771,
+   "gan": 0.75,
+   "neta": 0.07,
    "lado": "si"
-  },
-  {
-   "inicio": 1795385413920,
-   "titulo": "SC União Torreense vs. Sport Lisboa e Benfica",
-   "dur": 0.485,
-   "gan": 0.51,
-   "neta": 0.29,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795385401286,
-   "titulo": "SC União Torreense vs. Sport Lisboa e Benfica",
-   "dur": 2.139,
-   "gan": 0.87,
-   "neta": 0.56,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795385385785,
-   "titulo": "SC União Torreense vs. Sport Lisboa e Benfica",
-   "dur": 6.949,
-   "gan": 0.64,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795385382225,
-   "titulo": "SC União Torreense vs. Sport Lisboa e Benfica",
-   "dur": 0.056,
-   "gan": 2.91,
-   "neta": 0.55,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795384702442,
-   "titulo": "LDU Quito vs. SD Aucas",
-   "dur": 0.737,
-   "gan": 0.87,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795384528510,
-   "titulo": "SC União Torreense vs. Sport Lisboa e Benfica",
-   "dur": 0.367,
-   "gan": 0.66,
-   "neta": 0.41,
-   "lado": "no"
   }
  ]
 }
