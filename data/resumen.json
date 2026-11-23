@@ -1,21 +1,21 @@
 {
- "actualizado": 1795426429886,
+ "actualizado": 1795429448922,
  "inicio": 1794823016354,
  "ejecucion": {
-  "inicio": 1795423429581,
-  "fin": 1795426429886,
-  "mensajes": 8698953,
+  "inicio": 1795426448587,
+  "fin": 1795429448922,
+  "mensajes": 9061454,
   "reconexiones": 0,
-  "eventos": 531,
+  "eventos": 542,
   "errores": [],
-  "nuevos": 0,
+  "nuevos": 3,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6092,
- "falsos": 4175,
+ "total": 6095,
+ "falsos": 4227,
  "largos": {
-  "episodios": 21474,
+  "episodios": 21425,
   "eventos": 168,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2703,
-   "gan": 8571.23,
+   "n": 2704,
+   "gan": 8572.03,
    "nNeta": 848,
    "neta": 2015.52
   },
   {
    "s": 2,
-   "n": 1249,
-   "gan": 3345.23,
+   "n": 1250,
+   "gan": 3346.03,
    "nNeta": 329,
    "neta": 440.62
   },
   {
    "s": 5,
-   "n": 689,
-   "gan": 1761.8,
+   "n": 690,
+   "gan": 1762.6,
    "nNeta": 168,
    "neta": 137.35
   },
   {
    "s": 30,
-   "n": 210,
-   "gan": 462.18,
+   "n": 211,
+   "gan": 462.98,
    "nNeta": 20,
    "neta": 34.63
   }
  ],
- "rentables": 1898,
+ "rentables": 1899,
  "porCapital": [
   {
    "capital": 500,
    "ops": 79,
    "descartadas": 301,
    "neta": 186.7,
-   "dias": 6.94,
-   "semana": 188.31
+   "dias": 6.98,
+   "semana": 187.37
   },
   {
    "capital": 1000,
    "ops": 88,
    "descartadas": 301,
    "neta": 287.03,
-   "dias": 6.94,
-   "semana": 289.51
+   "dias": 6.98,
+   "semana": 288.06
   },
   {
    "capital": 2000,
    "ops": 89,
    "descartadas": 301,
    "neta": 420.28,
-   "dias": 6.94,
-   "semana": 423.91
+   "dias": 6.98,
+   "semana": 421.79
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 1,
-   "horas": 4.2,
-   "episodios": 2,
+   "horas": 5,
+   "episodios": 5,
    "sospechosas": 0,
    "realistaNeta": 0.58,
    "capital": {
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5995,
-  "n": 1557,
-  "gan": 4253.39,
+  "conDato": 5998,
+  "n": 1558,
+  "gan": 4254.19,
   "nNeta": 400,
   "neta": 646.48
  },
@@ -260,12 +260,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1767
+   "n": 1768
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2389
+   "n": 2390
   },
   {
    "et": "1–5 s",
@@ -280,7 +280,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 136
+   "n": 137
   },
   {
    "et": "> 5 min",
@@ -361,14 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795150800000,
-   "n": 33
-  },
-  {
-   "h": 1795154400000,
-   "n": 14
-  },
   {
    "h": 1795158000000,
    "n": 4
@@ -648,9 +640,41 @@
   {
    "h": 1795417200000,
    "n": 2
+  },
+  {
+   "h": 1795424400000,
+   "n": 1
+  },
+  {
+   "h": 1795428000000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795429270640,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 177.951,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795429439247,
+   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
+   "dur": 0.411,
+   "gan": 0.65,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795427609111,
+   "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
+   "dur": 0.053,
+   "gan": 6.49,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795417858794,
    "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
@@ -745,30 +769,6 @@
    "dur": 0.101,
    "gan": 0.62,
    "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795402724121,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.023,
-   "gan": 0.52,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795402722000,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.787,
-   "gan": 1.06,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795402721119,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.113,
-   "gan": 0.61,
-   "neta": 0,
    "lado": "si"
   }
  ]
