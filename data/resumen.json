@@ -1,84 +1,84 @@
 {
- "actualizado": 1795399278819,
- "inicio": 1794801803820,
+ "actualizado": 1795402292636,
+ "inicio": 1794807934563,
  "ejecucion": {
-  "inicio": 1795396278493,
-  "fin": 1795399278819,
-  "mensajes": 10069353,
+  "inicio": 1795399292303,
+  "fin": 1795402292636,
+  "mensajes": 9293837,
   "reconexiones": 0,
-  "eventos": 550,
+  "eventos": 549,
   "errores": [],
-  "nuevos": 79,
-  "nuevosRentables": 4,
-  "nuevosNeta": 2.45
+  "nuevos": 33,
+  "nuevosRentables": 2,
+  "nuevosNeta": 0.07
  },
- "total": 6100,
- "falsos": 4035,
+ "total": 6132,
+ "falsos": 4052,
  "largos": {
-  "episodios": 21566,
+  "episodios": 21523,
   "eventos": 168,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 37,
-  "eventos": 17
+  "episodios": 36,
+  "eventos": 16
  },
  "mediana": 0.341,
  "captura": [
   {
    "s": 0.5,
-   "n": 2708,
-   "gan": 8504.13,
-   "nNeta": 839,
-   "neta": 2011.22
+   "n": 2724,
+   "gan": 8575.37,
+   "nNeta": 843,
+   "neta": 2011.83
   },
   {
    "s": 2,
-   "n": 1262,
-   "gan": 3310.33,
-   "nNeta": 326,
-   "neta": 440.23
+   "n": 1269,
+   "gan": 3364.46,
+   "nNeta": 327,
+   "neta": 440.29
   },
   {
    "s": 5,
-   "n": 706,
-   "gan": 1733.05,
-   "nNeta": 167,
-   "neta": 137.42
+   "n": 709,
+   "gan": 1781.02,
+   "nNeta": 168,
+   "neta": 137.48
   },
   {
    "s": 30,
-   "n": 221,
-   "gan": 472.34,
+   "n": 222,
+   "gan": 472.85,
    "nNeta": 21,
    "neta": 34.77
   }
  ],
- "rentables": 1881,
+ "rentables": 1889,
  "porCapital": [
   {
    "capital": 500,
    "ops": 79,
-   "descartadas": 296,
+   "descartadas": 298,
    "neta": 186.7,
-   "dias": 6.81,
-   "semana": 191.85
+   "dias": 6.85,
+   "semana": 190.89
   },
   {
    "capital": 1000,
    "ops": 88,
-   "descartadas": 296,
+   "descartadas": 298,
    "neta": 287.03,
-   "dias": 6.81,
-   "semana": 294.94
+   "dias": 6.85,
+   "semana": 293.46
   },
   {
    "capital": 2000,
    "ops": 89,
-   "descartadas": 296,
+   "descartadas": 298,
    "neta": 420.28,
-   "dias": 6.81,
-   "semana": 431.87
+   "dias": 6.85,
+   "semana": 429.7
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 7,
-   "horas": 162.5,
-   "episodios": 6100,
+   "horas": 163.3,
+   "episodios": 6133,
    "sospechosas": 97,
-   "realistaNeta": 644.11,
+   "realistaNeta": 644.18,
    "capital": {
     "500": 186.7,
     "1000": 287.03,
@@ -236,32 +236,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6003,
-  "n": 1573,
-  "gan": 4213.97,
-  "nNeta": 395,
-  "neta": 644.11
+  "conDato": 6035,
+  "n": 1582,
+  "gan": 4270.72,
+  "nNeta": 397,
+  "neta": 644.18
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1774
+   "n": 1781
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2385
+   "n": 2397
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1225
+   "n": 1234
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 485
+   "n": 487
   },
   {
    "et": "30 s–5 min",
@@ -271,7 +271,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 74
+   "n": 75
   }
  ],
  "porEvento": [
@@ -633,127 +633,127 @@
   },
   {
    "h": 1795399200000,
-   "n": 1
+   "n": 34
   }
  ],
  "recientes": [
   {
-   "inicio": 1795399263107,
-   "titulo": "How many UKMTO notices November 16–22?",
-   "dur": 15.39,
-   "gan": 0.68,
-   "neta": 0.68,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795398499813,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.1,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795398429771,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.039,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795398321547,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.033,
-   "gan": 0.85,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795398319207,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 2.004,
-   "gan": 1.71,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795398318153,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.021,
-   "gan": 0.96,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795398318116,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.03,
-   "gan": 0.91,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795398316017,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.165,
+   "inicio": 1795400720266,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 1572.04,
    "gan": 0.51,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795398315580,
+   "inicio": 1795401872727,
    "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.343,
+   "dur": 0.843,
+   "gan": 0.72,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795401871883,
+   "titulo": "Querétaro FC vs. Club Necaxa",
+   "dur": 0.097,
+   "gan": 0.72,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795401871579,
+   "titulo": "Querétaro FC vs. Club Necaxa",
+   "dur": 0.101,
+   "gan": 0.72,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795401871384,
+   "titulo": "Querétaro FC vs. Club Necaxa",
+   "dur": 0.09,
+   "gan": 0.72,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795401867991,
+   "titulo": "Querétaro FC vs. Club Necaxa",
+   "dur": 3.285,
    "gan": 0.93,
-   "neta": 0.15,
-   "lado": "si"
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1795398314900,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.651,
-   "gan": 27.68,
-   "neta": 7.82,
-   "lado": "si"
+   "inicio": 1795401752508,
+   "titulo": "Instituto AC Córdoba vs. CA Huracán",
+   "dur": 2.867,
+   "gan": 19.82,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1795398307574,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.102,
-   "gan": 0.54,
+   "inicio": 1795401733881,
+   "titulo": "Instituto AC Córdoba vs. CA Huracán",
+   "dur": 1.037,
+   "gan": 0.82,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795401732507,
+   "titulo": "Instituto AC Córdoba vs. CA Huracán",
+   "dur": 0.786,
+   "gan": 2.79,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795398307020,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.052,
-   "gan": 0.7,
+   "inicio": 1795401732393,
+   "titulo": "Instituto AC Córdoba vs. CA Huracán",
+   "dur": 0.025,
+   "gan": 0.82,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795398305987,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.624,
-   "gan": 0.57,
+   "inicio": 1795401719625,
+   "titulo": "Instituto AC Córdoba vs. CA Huracán",
+   "dur": 8.947,
+   "gan": 41.16,
+   "neta": 0.06,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795401718244,
+   "titulo": "Instituto AC Córdoba vs. CA Huracán",
+   "dur": 1.312,
+   "gan": 1.18,
+   "neta": 0.05,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795401718162,
+   "titulo": "Instituto AC Córdoba vs. CA Huracán",
+   "dur": -0.001,
+   "gan": 0.59,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795398305747,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.207,
-   "gan": 0.65,
+   "inicio": 1795401711188,
+   "titulo": "Instituto AC Córdoba vs. CA Huracán",
+   "dur": 6.062,
+   "gan": 5.01,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795398294083,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 1.056,
-   "gan": 1,
+   "inicio": 1795401703694,
+   "titulo": "Instituto AC Córdoba vs. CA Huracán",
+   "dur": 1.933,
+   "gan": 1.5,
    "neta": 0,
    "lado": "si"
   }
