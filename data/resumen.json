@@ -1,84 +1,84 @@
 {
- "actualizado": 1795411348158,
- "inicio": 1794809278131,
+ "actualizado": 1795414361875,
+ "inicio": 1794817004444,
  "ejecucion": {
-  "inicio": 1795408347802,
-  "fin": 1795411348158,
-  "mensajes": 9787209,
-  "reconexiones": 0,
-  "eventos": 522,
+  "inicio": 1795411361601,
+  "fin": 1795414361875,
+  "mensajes": 9001169,
+  "reconexiones": 1,
+  "eventos": 535,
   "errores": [],
   "nuevos": 0,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6156,
+ "total": 6097,
  "falsos": 4084,
  "largos": {
-  "episodios": 21481,
+  "episodios": 21545,
   "eventos": 168,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 32,
+  "episodios": 31,
   "eventos": 15
  },
  "mediana": 0.341,
  "captura": [
   {
    "s": 0.5,
-   "n": 2729,
-   "gan": 8590.42,
+   "n": 2706,
+   "gan": 8572.71,
    "nNeta": 846,
    "neta": 2014.94
   },
   {
    "s": 2,
-   "n": 1269,
-   "gan": 3365.46,
+   "n": 1252,
+   "gan": 3347.02,
    "nNeta": 328,
    "neta": 440.42
   },
   {
    "s": 5,
-   "n": 707,
-   "gan": 1779.64,
+   "n": 693,
+   "gan": 1764.16,
    "nNeta": 168,
    "neta": 137.35
   },
   {
    "s": 30,
-   "n": 219,
-   "gan": 470.06,
+   "n": 212,
+   "gan": 463.45,
    "nNeta": 20,
    "neta": 34.63
   }
  ],
- "rentables": 1897,
+ "rentables": 1896,
  "porCapital": [
   {
    "capital": 500,
    "ops": 79,
    "descartadas": 299,
    "neta": 186.7,
-   "dias": 6.86,
-   "semana": 190.45
+   "dias": 6.87,
+   "semana": 190.2
   },
   {
    "capital": 1000,
    "ops": 88,
    "descartadas": 299,
    "neta": 287.03,
-   "dias": 6.86,
-   "semana": 292.79
+   "dias": 6.87,
+   "semana": 292.41
   },
   {
    "capital": 2000,
    "ops": 89,
    "descartadas": 299,
    "neta": 420.28,
-   "dias": 6.86,
-   "semana": 428.72
+   "dias": 6.87,
+   "semana": 428.16
   }
  ],
  "maxBloqueoH": 24,
@@ -129,7 +129,7 @@
   {
    "lunes": "2026-11-23",
    "dias": 1,
-   "horas": 0,
+   "horas": 0.8,
    "episodios": 0,
    "sospechosas": 0,
    "realistaNeta": 0,
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6059,
-  "n": 1582,
-  "gan": 4276.2,
+  "conDato": 6000,
+  "n": 1559,
+  "gan": 4254.29,
   "nNeta": 398,
   "neta": 645.9
  },
@@ -260,32 +260,32 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1791
+   "n": 1767
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2409
+   "n": 2391
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1238
+   "n": 1235
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 488
+   "n": 481
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 143
+   "n": 137
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 76
+   "n": 75
   }
  ],
  "porEvento": [
@@ -346,18 +346,18 @@
    "mediana": 0.71
   },
   {
-   "titulo": "Target Q3 comparable sales growth?",
-   "n": 94,
-   "gan": 71.28,
-   "neta": 0.14,
-   "mediana": 0.168
-  },
-  {
    "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
    "n": 92,
    "gan": 68.48,
    "neta": 15.6,
    "mediana": 9.434
+  },
+  {
+   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
+   "n": 91,
+   "gan": 85.07,
+   "neta": 3.85,
+   "mediana": 0.122
   }
  ],
  "porHora": [
