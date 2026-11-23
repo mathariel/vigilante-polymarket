@@ -1,21 +1,21 @@
 {
- "actualizado": 1795435488875,
+ "actualizado": 1795438511259,
  "inicio": 1794823016354,
  "ejecucion": {
-  "inicio": 1795432488475,
-  "fin": 1795435488875,
-  "mensajes": 10710906,
-  "reconexiones": 0,
-  "eventos": 543,
+  "inicio": 1795435511027,
+  "fin": 1795438511259,
+  "mensajes": 10448323,
+  "reconexiones": 1,
+  "eventos": 554,
   "errores": [],
-  "nuevos": 8,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.01
+  "nuevos": 15,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 6115,
- "falsos": 4264,
+ "total": 6131,
+ "falsos": 4269,
  "largos": {
-  "episodios": 21382,
+  "episodios": 21369,
   "eventos": 168,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 31,
   "eventos": 15
  },
- "mediana": 0.343,
+ "mediana": 0.344,
  "captura": [
   {
    "s": 0.5,
-   "n": 2721,
-   "gan": 8605.24,
-   "nNeta": 850,
-   "neta": 2016.56
+   "n": 2736,
+   "gan": 8673.01,
+   "nNeta": 852,
+   "neta": 2033.73
   },
   {
    "s": 2,
-   "n": 1267,
-   "gan": 3381.5,
-   "nNeta": 331,
-   "neta": 441.66
+   "n": 1280,
+   "gan": 3447.91,
+   "nNeta": 332,
+   "neta": 458.64
   },
   {
    "s": 5,
-   "n": 706,
-   "gan": 1797.27,
+   "n": 718,
+   "gan": 1839.99,
    "nNeta": 170,
    "neta": 138.39
   },
   {
    "s": 30,
-   "n": 221,
-   "gan": 486.85,
+   "n": 229,
+   "gan": 520.3,
    "nNeta": 21,
    "neta": 35.66
   }
  ],
- "rentables": 1903,
+ "rentables": 1905,
  "porCapital": [
   {
    "capital": 500,
    "ops": 79,
    "descartadas": 303,
    "neta": 186.7,
-   "dias": 7.04,
-   "semana": 185.51
+   "dias": 7.08,
+   "semana": 184.6
   },
   {
    "capital": 1000,
    "ops": 88,
    "descartadas": 303,
    "neta": 287.03,
-   "dias": 7.04,
-   "semana": 285.2
+   "dias": 7.08,
+   "semana": 283.79
   },
   {
    "capital": 2000,
    "ops": 89,
    "descartadas": 303,
    "neta": 420.28,
-   "dias": 7.04,
-   "semana": 417.6
+   "dias": 7.08,
+   "semana": 415.54
   }
  ],
  "maxBloqueoH": 24,
@@ -129,9 +129,9 @@
   {
    "lunes": "2026-11-23",
    "dias": 1,
-   "horas": 6.7,
-   "episodios": 25,
-   "sospechosas": 0,
+   "horas": 7.5,
+   "episodios": 41,
+   "sospechosas": 1,
    "realistaNeta": 1.62,
    "capital": {
     "500": 0,
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 97,
+  "n": 98,
   "top": [
    {
     "inicio": 1795274262924,
@@ -207,6 +207,16 @@
     "ret": 13.4
    },
    {
+    "inicio": 1795437488199,
+    "titulo": "FK LNZ Cherkasy vs. FK Polissia",
+    "lado": "si",
+    "dur": 3.295,
+    "gan": 23.69,
+    "neta": 16.98,
+    "costo": 209.48,
+    "ret": 11.3
+   },
+   {
     "inicio": 1795082475475,
     "titulo": "Highest temperature in Karachi on November 19?",
     "lado": "si",
@@ -235,24 +245,14 @@
     "neta": 18.76,
     "costo": 74.6,
     "ret": 27.8
-   },
-   {
-    "inicio": 1795350128462,
-    "titulo": "Highest temperature in Ankara on November 22?",
-    "lado": "si",
-    "dur": 0.002,
-    "gan": 18.41,
-    "neta": 18.25,
-    "costo": 103.15,
-    "ret": 17.8
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6018,
-  "n": 1575,
-  "gan": 4289.66,
+  "conDato": 6033,
+  "n": 1587,
+  "gan": 4332.38,
   "nNeta": 402,
   "neta": 647.52
  },
@@ -265,27 +265,27 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2392
+   "n": 2393
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1237
+   "n": 1240
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 485
+   "n": 489
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 140
+   "n": 144
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 81
+   "n": 85
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795161600000,
-   "n": 5
-  },
   {
    "h": 1795165200000,
    "n": 11
@@ -648,126 +644,130 @@
   {
    "h": 1795431600000,
    "n": 11
+  },
+  {
+   "h": 1795435200000,
+   "n": 16
   }
  ],
  "recientes": [
   {
-   "inicio": 1795432442494,
+   "inicio": 1795438159110,
    "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
-   "dur": 3045.983,
-   "gan": 5.47,
+   "dur": 351.919,
+   "gan": 5.56,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795432451820,
+   "inicio": 1795435461748,
    "titulo": "Watford FC vs. Blackburn Rovers FC",
-   "dur": 3036.657,
+   "dur": 3049.281,
    "gan": 3.26,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795435109450,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 7.441,
-   "gan": 1.67,
-   "neta": 0.32,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795434841909,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 5.286,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795434841703,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 0.101,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795434750260,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 17.633,
-   "gan": 0.72,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795434569573,
+   "inicio": 1795437571399,
    "titulo": "Test Match: South Africa vs Bangladesh",
-   "dur": 4.77,
-   "gan": 0.51,
+   "dur": 1.281,
+   "gan": 0.63,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795433299075,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 12.54,
-   "gan": 1.02,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795432489952,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 808.529,
-   "gan": 0.8,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795432861269,
-   "titulo": "Highest temperature in Munich on November 23?",
-   "dur": 0.156,
-   "gan": 2.71,
-   "neta": 2.62,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795432204432,
-   "titulo": "Watford FC vs. Blackburn Rovers FC",
-   "dur": 268.517,
-   "gan": 0.6,
+   "inicio": 1795437478961,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 90.394,
+   "gan": 1.08,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795430237220,
+   "inicio": 1795437488199,
+   "titulo": "FK LNZ Cherkasy vs. FK Polissia",
+   "dur": 3.295,
+   "gan": 23.69,
+   "neta": 16.98,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795437424443,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 30.743,
+   "gan": 0.9,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795437388196,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 10.283,
+   "gan": 1.13,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795437365183,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 9.566,
+   "gan": 1.13,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795437254856,
    "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
-   "dur": 2235.729,
-   "gan": 5.54,
+   "dur": 99.361,
+   "gan": 5.56,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795429469667,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 3003.282,
-   "gan": 0.8,
+   "inicio": 1795437143765,
+   "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
+   "dur": 72.075,
+   "gan": 5.56,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795431133177,
-   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
-   "dur": 538.558,
-   "gan": 2.76,
-   "neta": 1.03,
-   "lado": "si"
+   "inicio": 1795437074648,
+   "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
+   "dur": 27.042,
+   "gan": 5.56,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1795431437768,
-   "titulo": "Spain General Election: Turnout",
-   "dur": 51.698,
-   "gan": 0.65,
+   "inicio": 1795436531543,
+   "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
+   "dur": 333.843,
+   "gan": 6.06,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795436352502,
+   "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
+   "dur": 5.202,
+   "gan": 1.35,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795435513686,
+   "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
+   "dur": 793.142,
+   "gan": 5.47,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795436119195,
+   "titulo": "FK LNZ Cherkasy vs. FK Polissia",
+   "dur": 0.355,
+   "gan": 0.55,
    "neta": 0,
    "lado": "no"
   }
