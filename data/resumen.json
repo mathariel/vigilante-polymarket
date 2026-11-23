@@ -1,50 +1,50 @@
 {
- "actualizado": 1795465685685,
- "inicio": 1794829078527,
+ "actualizado": 1795468701129,
+ "inicio": 1794832024463,
  "ejecucion": {
-  "inicio": 1795462685457,
-  "fin": 1795465685685,
-  "mensajes": 16129866,
+  "inicio": 1795465700866,
+  "fin": 1795468701129,
+  "mensajes": 14721832,
   "reconexiones": 0,
-  "eventos": 571,
+  "eventos": 578,
   "errores": [],
-  "nuevos": 50,
-  "nuevosRentables": 2,
-  "nuevosNeta": 0.69
+  "nuevos": 103,
+  "nuevosRentables": 9,
+  "nuevosNeta": 7.78
  },
- "total": 6372,
- "falsos": 4340,
+ "total": 6471,
+ "falsos": 4364,
  "largos": {
-  "episodios": 21101,
-  "eventos": 169,
+  "episodios": 20983,
+  "eventos": 170,
   "dias": 7
  },
  "enEspera": {
   "episodios": 36,
   "eventos": 18
  },
- "mediana": 0.34,
+ "mediana": 0.342,
  "captura": [
   {
    "s": 0.5,
-   "n": 2828,
-   "gan": 8943.12,
-   "nNeta": 890,
-   "neta": 2102.71
+   "n": 2882,
+   "gan": 8904.01,
+   "nNeta": 908,
+   "neta": 2112.9
   },
   {
    "s": 2,
-   "n": 1316,
-   "gan": 3595.8,
-   "nNeta": 339,
-   "neta": 497.15
+   "n": 1342,
+   "gan": 3662.97,
+   "nNeta": 347,
+   "neta": 500.89
   },
   {
    "s": 5,
-   "n": 731,
-   "gan": 1879.27,
-   "nNeta": 170,
-   "neta": 138.39
+   "n": 744,
+   "gan": 1920.47,
+   "nNeta": 174,
+   "neta": 140.03
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 35.66
   }
  ],
- "rentables": 1999,
+ "rentables": 2030,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 83,
-   "descartadas": 309,
-   "neta": 201.69,
-   "dias": 7.29,
-   "semana": 193.73
+   "ops": 84,
+   "descartadas": 317,
+   "neta": 202.56,
+   "dias": 7.32,
+   "semana": 193.64
   },
   {
    "capital": 1000,
-   "ops": 94,
-   "descartadas": 309,
-   "neta": 316.46,
-   "dias": 7.29,
-   "semana": 303.97
+   "ops": 95,
+   "descartadas": 317,
+   "neta": 317.33,
+   "dias": 7.32,
+   "semana": 303.36
   },
   {
    "capital": 2000,
-   "ops": 96,
-   "descartadas": 309,
-   "neta": 459.83,
-   "dias": 7.29,
-   "semana": 441.69
+   "ops": 97,
+   "descartadas": 317,
+   "neta": 460.7,
+   "dias": 7.32,
+   "semana": 440.41
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 1,
-   "horas": 15,
-   "episodios": 286,
-   "sospechosas": 2,
-   "realistaNeta": 44.03,
+   "horas": 15.8,
+   "episodios": 389,
+   "sospechosas": 3,
+   "realistaNeta": 51.81,
    "capital": {
-    "500": 15.4,
-    "1000": 30.13,
-    "2000": 40.25
+    "500": 16.27,
+    "1000": 31,
+    "2000": 41.12
    },
    "cumple": true
   }
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 99,
+  "n": 100,
   "top": [
    {
     "inicio": 1795274262924,
@@ -250,32 +250,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6273,
-  "n": 1637,
-  "gan": 4509.49,
-  "nNeta": 415,
-  "neta": 689.23
+  "conDato": 6371,
+  "n": 1668,
+  "gan": 4588.93,
+  "nNeta": 424,
+  "neta": 697.01
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1843
+   "n": 1862
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2502
+   "n": 2541
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1285
+   "n": 1313
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 496
+   "n": 509
   },
   {
    "et": "30 s–5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795194000000,
-   "n": 110
-  },
   {
    "h": 1795197600000,
    "n": 59
@@ -647,128 +643,132 @@
   },
   {
    "h": 1795464000000,
-   "n": 27
+   "n": 100
+  },
+  {
+   "h": 1795467600000,
+   "n": 30
   }
  ],
  "recientes": [
   {
-   "inicio": 1795465681644,
-   "titulo": "AC Monza vs. ACF Fiorentina",
-   "dur": 0.38,
-   "gan": 0.56,
-   "neta": 0.07,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795465639933,
-   "titulo": "CDT Real Oruro vs. Club Guabirá",
-   "dur": 0.829,
-   "gan": 0.92,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795465618679,
-   "titulo": "CDT Real Oruro vs. Club Guabirá",
-   "dur": 0.111,
-   "gan": 1.21,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795465510495,
-   "titulo": "Brentford FC vs. Everton FC",
-   "dur": 0.646,
-   "gan": 0.78,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795465510275,
-   "titulo": "Brentford FC vs. Everton FC",
-   "dur": 0.152,
-   "gan": 4.45,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795465510259,
-   "titulo": "Brentford FC vs. Everton FC",
-   "dur": 0.009,
-   "gan": 1.26,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795465379634,
-   "titulo": "Brentford FC vs. Everton FC",
-   "dur": 5.044,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795465335065,
-   "titulo": "Brentford FC vs. Everton FC",
-   "dur": 0.027,
-   "gan": 1.05,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795465335002,
-   "titulo": "Brentford FC vs. Everton FC",
-   "dur": 0.032,
-   "gan": 0.9,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795465334794,
-   "titulo": "Brentford FC vs. Everton FC",
-   "dur": 0.175,
-   "gan": 0.86,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795465334702,
-   "titulo": "Brentford FC vs. Everton FC",
-   "dur": 0.054,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795465334645,
-   "titulo": "Brentford FC vs. Everton FC",
-   "dur": 0.011,
-   "gan": 2,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795465187650,
+   "inicio": 1795468672377,
    "titulo": "AD Ceuta FC vs. UD Almería",
-   "dur": 2.797,
-   "gan": 0.86,
+   "dur": 10.697,
+   "gan": 1.64,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795465106630,
-   "titulo": "Brentford FC vs. Everton FC",
-   "dur": 2.718,
-   "gan": 36.88,
+   "inicio": 1795468520471,
+   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
+   "dur": 0.55,
+   "gan": 0.62,
+   "neta": 0.3,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795468520295,
+   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
+   "dur": 0.04,
+   "gan": 0.81,
+   "neta": 0.3,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795468520033,
+   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
+   "dur": 0.113,
+   "gan": 0.59,
+   "neta": 0.3,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795468519920,
+   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
+   "dur": 0.088,
+   "gan": 0.63,
+   "neta": 0.23,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795468519297,
+   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
+   "dur": 0.604,
+   "gan": 1.42,
+   "neta": 0.28,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795468507377,
+   "titulo": "Levante UD vs. Elche CF",
+   "dur": 3.175,
+   "gan": 1.45,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795465038263,
-   "titulo": "AC Monza vs. ACF Fiorentina",
-   "dur": 1.819,
-   "gan": 1.1,
+   "inicio": 1795468472369,
+   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
+   "dur": 3.374,
+   "gan": 1.59,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795468470651,
+   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
+   "dur": 1.423,
+   "gan": 0.61,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795468470293,
+   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
+   "dur": 0.312,
+   "gan": 1.58,
+   "neta": 0.18,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795468469008,
+   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
+   "dur": 0.306,
+   "gan": 0.67,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795468468365,
+   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
+   "dur": 0.291,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795468466522,
+   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
+   "dur": 1.189,
+   "gan": 0.59,
+   "neta": 0.06,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795468466109,
+   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
+   "dur": 0.409,
+   "gan": 1.21,
+   "neta": 0.11,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795468465401,
+   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
+   "dur": 0.058,
+   "gan": 1.05,
+   "neta": 0.1,
    "lado": "si"
   }
  ]
