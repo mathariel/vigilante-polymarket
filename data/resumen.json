@@ -1,84 +1,84 @@
 {
- "actualizado": 1795432473165,
+ "actualizado": 1795435488875,
  "inicio": 1794823016354,
  "ejecucion": {
-  "inicio": 1795429472947,
-  "fin": 1795432473165,
-  "mensajes": 10368349,
+  "inicio": 1795432488475,
+  "fin": 1795435488875,
+  "mensajes": 10710906,
   "reconexiones": 0,
-  "eventos": 542,
+  "eventos": 543,
   "errores": [],
-  "nuevos": 9,
+  "nuevos": 8,
   "nuevosRentables": 1,
-  "nuevosNeta": 1.03
+  "nuevosNeta": 0.01
  },
- "total": 6105,
- "falsos": 4263,
+ "total": 6115,
+ "falsos": 4264,
  "largos": {
-  "episodios": 21387,
+  "episodios": 21382,
   "eventos": 168,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 30,
-  "eventos": 14
+  "episodios": 31,
+  "eventos": 15
  },
- "mediana": 0.342,
+ "mediana": 0.343,
  "captura": [
   {
    "s": 0.5,
-   "n": 2713,
-   "gan": 8590.3,
-   "nNeta": 849,
-   "neta": 2016.55
+   "n": 2721,
+   "gan": 8605.24,
+   "nNeta": 850,
+   "neta": 2016.56
   },
   {
    "s": 2,
-   "n": 1259,
-   "gan": 3366.56,
-   "nNeta": 330,
-   "neta": 441.65
+   "n": 1267,
+   "gan": 3381.5,
+   "nNeta": 331,
+   "neta": 441.66
   },
   {
    "s": 5,
-   "n": 699,
-   "gan": 1783.13,
-   "nNeta": 169,
-   "neta": 138.38
+   "n": 706,
+   "gan": 1797.27,
+   "nNeta": 170,
+   "neta": 138.39
   },
   {
    "s": 30,
-   "n": 218,
-   "gan": 477.32,
+   "n": 221,
+   "gan": 486.85,
    "nNeta": 21,
    "neta": 35.66
   }
  ],
- "rentables": 1901,
+ "rentables": 1903,
  "porCapital": [
   {
    "capital": 500,
    "ops": 79,
-   "descartadas": 302,
+   "descartadas": 303,
    "neta": 186.7,
-   "dias": 7.01,
-   "semana": 186.44
+   "dias": 7.04,
+   "semana": 185.51
   },
   {
    "capital": 1000,
    "ops": 88,
-   "descartadas": 302,
+   "descartadas": 303,
    "neta": 287.03,
-   "dias": 7.01,
-   "semana": 286.62
+   "dias": 7.04,
+   "semana": 285.2
   },
   {
    "capital": 2000,
    "ops": 89,
-   "descartadas": 302,
+   "descartadas": 303,
    "neta": 420.28,
-   "dias": 7.01,
-   "semana": 419.68
+   "dias": 7.04,
+   "semana": 417.6
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 1,
-   "horas": 5.8,
-   "episodios": 15,
+   "horas": 6.7,
+   "episodios": 25,
    "sospechosas": 0,
-   "realistaNeta": 1.61,
+   "realistaNeta": 1.62,
    "capital": {
     "500": 0,
     "1000": 0,
@@ -250,11 +250,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6008,
-  "n": 1567,
-  "gan": 4274.72,
-  "nNeta": 401,
-  "neta": 647.51
+  "conDato": 6018,
+  "n": 1575,
+  "gan": 4289.66,
+  "nNeta": 402,
+  "neta": 647.52
  },
  "duraciones": [
   {
@@ -265,17 +265,17 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2390
+   "n": 2392
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1236
+   "n": 1237
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 481
+   "n": 485
   },
   {
    "et": "30 s–5 min",
@@ -285,7 +285,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 78
+   "n": 81
   }
  ],
  "porEvento": [
@@ -647,10 +647,90 @@
   },
   {
    "h": 1795431600000,
-   "n": 1
+   "n": 11
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795432442494,
+   "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
+   "dur": 3045.983,
+   "gan": 5.47,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795432451820,
+   "titulo": "Watford FC vs. Blackburn Rovers FC",
+   "dur": 3036.657,
+   "gan": 3.26,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795435109450,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 7.441,
+   "gan": 1.67,
+   "neta": 0.32,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795434841909,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 5.286,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795434841703,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 0.101,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795434750260,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 17.633,
+   "gan": 0.72,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795434569573,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 4.77,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795433299075,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 12.54,
+   "gan": 1.02,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795432489952,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 808.529,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795432861269,
+   "titulo": "Highest temperature in Munich on November 23?",
+   "dur": 0.156,
+   "gan": 2.71,
+   "neta": 2.62,
+   "lado": "si"
+  },
   {
    "inicio": 1795432204432,
    "titulo": "Watford FC vs. Blackburn Rovers FC",
@@ -690,86 +770,6 @@
    "gan": 0.65,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1795431367458,
-   "titulo": "Spain General Election: Turnout",
-   "dur": 24.867,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795430487544,
-   "titulo": "Spain General Election: Turnout",
-   "dur": 639.742,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795430199094,
-   "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
-   "dur": 26.598,
-   "gan": 5.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795429945319,
-   "titulo": "Spain General Election: Turnout",
-   "dur": 39.922,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795429636046,
-   "titulo": "Highest temperature in Busan on November 23?",
-   "dur": 0.048,
-   "gan": 0.94,
-   "neta": 0.83,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795429270640,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 177.951,
-   "gan": 0.8,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795429439247,
-   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
-   "dur": 0.411,
-   "gan": 0.65,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795427609111,
-   "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
-   "dur": 0.053,
-   "gan": 6.49,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795417858794,
-   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
-   "dur": 2.082,
-   "gan": 0.57,
-   "neta": 0.2,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795417854869,
-   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
-   "dur": 0.691,
-   "gan": 0.9,
-   "neta": 0.39,
-   "lado": "si"
   }
  ]
 }
