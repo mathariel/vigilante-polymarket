@@ -1,84 +1,84 @@
 {
- "actualizado": 1795390235637,
- "inicio": 1794789558195,
+ "actualizado": 1795393249881,
+ "inicio": 1794798581267,
  "ejecucion": {
-  "inicio": 1795387235297,
-  "fin": 1795390235637,
-  "mensajes": 11626952,
-  "reconexiones": 0,
-  "eventos": 562,
+  "inicio": 1795390249547,
+  "fin": 1795393249881,
+  "mensajes": 9447163,
+  "reconexiones": 1,
+  "eventos": 556,
   "errores": [],
-  "nuevos": 111,
+  "nuevos": 18,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6000,
- "falsos": 3994,
+ "total": 6011,
+ "falsos": 3998,
  "largos": {
-  "episodios": 21683,
-  "eventos": 170,
+  "episodios": 21676,
+  "eventos": 171,
   "dias": 7
  },
  "enEspera": {
   "episodios": 42,
   "eventos": 17
  },
- "mediana": 0.349,
+ "mediana": 0.348,
  "captura": [
   {
    "s": 0.5,
-   "n": 2690,
-   "gan": 8453.51,
-   "nNeta": 827,
-   "neta": 1998.63
+   "n": 2692,
+   "gan": 8454.92,
+   "nNeta": 828,
+   "neta": 1998.66
   },
   {
    "s": 2,
    "n": 1261,
-   "gan": 3305.71,
+   "gan": 3305.12,
    "nNeta": 322,
    "neta": 436.66
   },
   {
    "s": 5,
-   "n": 710,
-   "gan": 1738.86,
+   "n": 709,
+   "gan": 1736.73,
    "nNeta": 166,
    "neta": 136.32
   },
   {
    "s": 30,
-   "n": 229,
-   "gan": 482.35,
+   "n": 225,
+   "gan": 477.12,
    "nNeta": 21,
    "neta": 34.77
   }
  ],
- "rentables": 1854,
+ "rentables": 1857,
  "porCapital": [
   {
    "capital": 500,
    "ops": 77,
    "descartadas": 293,
    "neta": 185.59,
-   "dias": 6.84,
-   "semana": 189.83
+   "dias": 6.87,
+   "semana": 189.18
   },
   {
    "capital": 1000,
    "ops": 86,
    "descartadas": 293,
    "neta": 285.92,
-   "dias": 6.84,
-   "semana": 292.45
+   "dias": 6.87,
+   "semana": 291.45
   },
   {
    "capital": 2000,
    "ops": 87,
    "descartadas": 293,
    "neta": 419.17,
-   "dias": 6.84,
-   "semana": 428.75
+   "dias": 6.87,
+   "semana": 427.28
   }
  ],
  "maxBloqueoH": 24,
@@ -115,8 +115,8 @@
   {
    "lunes": "2026-11-16",
    "dias": 7,
-   "horas": 160,
-   "episodios": 5986,
+   "horas": 160.8,
+   "episodios": 6004,
    "sospechosas": 97,
    "realistaNeta": 639.88,
    "capital": {
@@ -236,9 +236,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5903,
+  "conDato": 5914,
   "n": 1570,
-  "gan": 4206.22,
+  "gan": 4206.23,
   "nNeta": 390,
   "neta": 639.88
  },
@@ -246,32 +246,32 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1736
+   "n": 1741
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2332
+   "n": 2337
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1212
+   "n": 1214
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 481
+   "n": 484
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 151
+   "n": 148
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 78
+   "n": 77
   }
  ],
  "porEvento": [
@@ -318,13 +318,6 @@
    "mediana": 0.248
   },
   {
-   "titulo": "Target Q3 comparable sales growth?",
-   "n": 100,
-   "gan": 75.83,
-   "neta": 0.14,
-   "mediana": 0.201
-  },
-  {
    "titulo": "Denmark vs. Norway",
    "n": 100,
    "gan": 152.02,
@@ -339,6 +332,13 @@
    "mediana": 0.71
   },
   {
+   "titulo": "Target Q3 comparable sales growth?",
+   "n": 94,
+   "gan": 71.28,
+   "neta": 0.14,
+   "mediana": 0.168
+  },
+  {
    "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
    "n": 92,
    "gan": 68.48,
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795132800000,
-   "n": 44
-  },
   {
    "h": 1795136400000,
    "n": 28
@@ -633,128 +629,132 @@
   },
   {
    "h": 1795388400000,
-   "n": 88
+   "n": 105
+  },
+  {
+   "h": 1795392000000,
+   "n": 1
   }
  ],
  "recientes": [
   {
-   "inicio": 1795390167628,
-   "titulo": "CD Guadalajara vs. CF Cruz Azul",
-   "dur": 14.181,
+   "inicio": 1795392784406,
+   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
+   "dur": 0.314,
+   "gan": 0.76,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795391953778,
+   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
+   "dur": 5.75,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795391951916,
+   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
+   "dur": 0.394,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795391948743,
+   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
+   "dur": 1.749,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795391941151,
+   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
+   "dur": 0.67,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795391940300,
+   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
+   "dur": 0.021,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795391887875,
+   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
+   "dur": 0.021,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795391886233,
+   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
+   "dur": 0.086,
    "gan": 0.57,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795390163539,
-   "titulo": "CD Guadalajara vs. CF Cruz Azul",
-   "dur": 0.492,
-   "gan": 0.72,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795390160978,
-   "titulo": "CD Guadalajara vs. CF Cruz Azul",
-   "dur": 0.277,
-   "gan": 0.82,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795390160120,
-   "titulo": "CD Guadalajara vs. CF Cruz Azul",
-   "dur": 0.706,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795390006662,
-   "titulo": "CA River Plate vs. CA Lanús",
-   "dur": 0.96,
-   "gan": 0.75,
-   "neta": 0.02,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795389791778,
-   "titulo": "Fluminense FC vs. Mirassol FC",
-   "dur": 0.231,
-   "gan": 0.66,
-   "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795389790698,
-   "titulo": "Fluminense FC vs. Mirassol FC",
-   "dur": 0.61,
-   "gan": 0.54,
-   "neta": 0.05,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795389583835,
-   "titulo": "Nashville SC vs. FC Cincinnati",
-   "dur": 0.087,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795389572291,
-   "titulo": "Test Match: New Zealand vs India",
-   "dur": 1.746,
-   "gan": 1.24,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795389470301,
-   "titulo": "Nashville SC vs. FC Cincinnati",
-   "dur": 0.169,
-   "gan": 0.52,
-   "neta": 0.01,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795389454573,
+   "inicio": 1795391822481,
    "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
-   "dur": 0.098,
-   "gan": 1.17,
+   "dur": 1.219,
+   "gan": 0.75,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795391822078,
+   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
+   "dur": 0.241,
+   "gan": 0.59,
+   "neta": 0.08,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795391801852,
+   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
+   "dur": 0.474,
+   "gan": 0.95,
+   "neta": 0.57,
    "lado": "no"
   },
   {
-   "inicio": 1795389310914,
+   "inicio": 1795391801465,
+   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
+   "dur": 0.058,
+   "gan": 0.68,
+   "neta": 0.27,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795391116170,
    "titulo": "Test Match: New Zealand vs India",
-   "dur": 1.451,
+   "dur": 9.224,
    "gan": 0.9,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795388669075,
-   "titulo": "AC Goianiense vs. Vila Nova FC",
-   "dur": 0.179,
-   "gan": 1.04,
+   "inicio": 1795391112351,
+   "titulo": "Test Match: New Zealand vs India",
+   "dur": 2.631,
+   "gan": 1.1,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795388668980,
-   "titulo": "AC Goianiense vs. Vila Nova FC",
-   "dur": 0.004,
-   "gan": 0.54,
+   "inicio": 1795391104009,
+   "titulo": "Test Match: New Zealand vs India",
+   "dur": 6.739,
+   "gan": 0.9,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795388630736,
-   "titulo": "AC Goianiense vs. Vila Nova FC",
-   "dur": 0.771,
-   "gan": 0.75,
-   "neta": 0.07,
    "lado": "si"
   }
  ]
