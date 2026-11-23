@@ -1,48 +1,48 @@
 {
- "actualizado": 1795456633434,
- "inicio": 1794826057243,
+ "actualizado": 1795459651456,
+ "inicio": 1794829059222,
  "ejecucion": {
-  "inicio": 1795453633109,
-  "fin": 1795456633434,
-  "mensajes": 14907051,
-  "reconexiones": 0,
-  "eventos": 563,
+  "inicio": 1795456651152,
+  "fin": 1795459651457,
+  "mensajes": 14938628,
+  "reconexiones": 1,
+  "eventos": 562,
   "errores": [],
-  "nuevos": 70,
+  "nuevos": 52,
   "nuevosRentables": 3,
-  "nuevosNeta": 7.78
+  "nuevosNeta": 0.45
  },
- "total": 6260,
- "falsos": 4296,
+ "total": 6309,
+ "falsos": 4307,
  "largos": {
-  "episodios": 21243,
-  "eventos": 169,
+  "episodios": 21188,
+  "eventos": 168,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 32,
-  "eventos": 15
+  "episodios": 33,
+  "eventos": 16
  },
- "mediana": 0.341,
+ "mediana": 0.34,
  "captura": [
   {
    "s": 0.5,
-   "n": 2784,
-   "gan": 8820.68,
-   "nNeta": 873,
-   "neta": 2083.82
+   "n": 2802,
+   "gan": 8851.79,
+   "nNeta": 880,
+   "neta": 2086.06
   },
   {
    "s": 2,
-   "n": 1300,
-   "gan": 3547.32,
-   "nNeta": 337,
-   "neta": 496.77
+   "n": 1308,
+   "gan": 3557.65,
+   "nNeta": 339,
+   "neta": 497.15
   },
   {
    "s": 5,
-   "n": 726,
-   "gan": 1871.94,
+   "n": 728,
+   "gan": 1873.98,
    "nNeta": 170,
    "neta": 138.39
   },
@@ -54,31 +54,31 @@
    "neta": 35.66
   }
  ],
- "rentables": 1954,
+ "rentables": 1979,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 80,
-   "descartadas": 306,
-   "neta": 200.28,
-   "dias": 7.25,
-   "semana": 193.35
+   "ops": 81,
+   "descartadas": 308,
+   "neta": 200.64,
+   "dias": 7.22,
+   "semana": 194.59
   },
   {
    "capital": 1000,
-   "ops": 91,
-   "descartadas": 306,
-   "neta": 315.05,
-   "dias": 7.25,
-   "semana": 304.16
+   "ops": 92,
+   "descartadas": 308,
+   "neta": 315.41,
+   "dias": 7.22,
+   "semana": 305.9
   },
   {
    "capital": 2000,
-   "ops": 93,
-   "descartadas": 306,
-   "neta": 458.42,
-   "dias": 7.25,
-   "semana": 442.57
+   "ops": 94,
+   "descartadas": 308,
+   "neta": 458.78,
+   "dias": 7.22,
+   "semana": 444.94
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 1,
-   "horas": 12.5,
-   "episodios": 171,
+   "horas": 13.3,
+   "episodios": 223,
    "sospechosas": 1,
-   "realistaNeta": 42.09,
+   "realistaNeta": 42.54,
    "capital": {
-    "500": 13.99,
-    "1000": 28.72,
-    "2000": 38.84
+    "500": 14.35,
+    "1000": 29.08,
+    "2000": 39.2
    },
    "cumple": true
   }
@@ -250,32 +250,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6162,
-  "n": 1612,
-  "gan": 4442.26,
-  "nNeta": 409,
-  "neta": 687.29
+  "conDato": 6211,
+  "n": 1621,
+  "gan": 4456.61,
+  "nNeta": 412,
+  "neta": 687.74
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1811
+   "n": 1827
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2449
+   "n": 2473
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1263
+   "n": 1270
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 491
+   "n": 493
   },
   {
    "et": "30 s–5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795183200000,
-   "n": 10
-  },
   {
    "h": 1795186800000,
    "n": 3
@@ -648,127 +644,131 @@
   {
    "h": 1795453200000,
    "n": 70
+  },
+  {
+   "h": 1795456800000,
+   "n": 52
   }
  ],
  "recientes": [
   {
-   "inicio": 1795456606407,
-   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
-   "dur": 0.724,
-   "gan": 1.1,
-   "neta": 0.16,
+   "inicio": 1795459598647,
+   "titulo": "Rams Başakşehir FK vs. Çorum FK",
+   "dur": 0.882,
+   "gan": 2.26,
+   "neta": 0.07,
    "lado": "si"
   },
   {
-   "inicio": 1795456600473,
-   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
-   "dur": 1.348,
-   "gan": 2.7,
-   "neta": 1.13,
+   "inicio": 1795459589322,
+   "titulo": "Rams Başakşehir FK vs. Çorum FK",
+   "dur": 3.122,
+   "gan": 0.75,
+   "neta": 0.36,
    "lado": "si"
   },
   {
-   "inicio": 1795456504190,
-   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
-   "dur": 1.313,
-   "gan": 1.34,
-   "neta": 0.39,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795456504132,
-   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
-   "dur": 0.058,
-   "gan": 1.1,
-   "neta": 0.13,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795456502855,
-   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
-   "dur": 0.01,
-   "gan": 1.1,
-   "neta": 0.13,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795456502124,
-   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
-   "dur": 0.626,
-   "gan": 1.78,
-   "neta": 0.22,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795456486869,
-   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
-   "dur": 1.634,
-   "gan": 0.78,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795456477183,
-   "titulo": "Al Ain FC vs. Esteghlal FC Tehran",
-   "dur": 0.237,
-   "gan": 5.49,
-   "neta": 4.39,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795456468420,
-   "titulo": "Al Ain FC vs. Esteghlal FC Tehran",
-   "dur": 0.353,
-   "gan": 2.27,
-   "neta": 2.06,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795456462114,
-   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
-   "dur": 1.022,
-   "gan": 0.83,
+   "inicio": 1795459512403,
+   "titulo": "Rams Başakşehir FK vs. Çorum FK",
+   "dur": 2.441,
+   "gan": 0.84,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795456344613,
-   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
-   "dur": 0.56,
-   "gan": 1.69,
+   "inicio": 1795459502849,
+   "titulo": "Rams Başakşehir FK vs. Çorum FK",
+   "dur": 2.165,
+   "gan": 3.32,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795456290243,
-   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
-   "dur": 2.237,
-   "gan": 3.1,
-   "neta": 1.53,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795456287875,
-   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
-   "dur": 0.329,
-   "gan": 1.04,
+   "inicio": 1795459451431,
+   "titulo": "Rams Başakşehir FK vs. Çorum FK",
+   "dur": 0.658,
+   "gan": 0.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795456258695,
-   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
-   "dur": 0.39,
-   "gan": 0.55,
+   "inicio": 1795459450648,
+   "titulo": "Rams Başakşehir FK vs. Çorum FK",
+   "dur": 0.769,
+   "gan": 0.72,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795455837315,
-   "titulo": "Al Ain FC vs. Esteghlal FC Tehran",
-   "dur": 2.138,
-   "gan": 10.8,
-   "neta": 6.21,
+   "inicio": 1795459432304,
+   "titulo": "Rams Başakşehir FK vs. Çorum FK",
+   "dur": 0.726,
+   "gan": 0.51,
+   "neta": 0.32,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795459432228,
+   "titulo": "Rams Başakşehir FK vs. Çorum FK",
+   "dur": 0.044,
+   "gan": 0.53,
+   "neta": 0.25,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795459431496,
+   "titulo": "Rams Başakşehir FK vs. Çorum FK",
+   "dur": 0.175,
+   "gan": 0.69,
+   "neta": 0.32,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795459424325,
+   "titulo": "Rams Başakşehir FK vs. Çorum FK",
+   "dur": 5.763,
+   "gan": 1.44,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795459424174,
+   "titulo": "Rams Başakşehir FK vs. Çorum FK",
+   "dur": 0.147,
+   "gan": 0.79,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795459423115,
+   "titulo": "Rams Başakşehir FK vs. Çorum FK",
+   "dur": 0.156,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795459423080,
+   "titulo": "Rams Başakşehir FK vs. Çorum FK",
+   "dur": 0.004,
+   "gan": 0.93,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795459421975,
+   "titulo": "Rams Başakşehir FK vs. Çorum FK",
+   "dur": 0.086,
+   "gan": 1.9,
+   "neta": 0.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795459421506,
+   "titulo": "Rams Başakşehir FK vs. Çorum FK",
+   "dur": 0.324,
+   "gan": 1.98,
+   "neta": 0.1,
    "lado": "si"
   }
  ]
