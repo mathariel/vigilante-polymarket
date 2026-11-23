@@ -1,21 +1,21 @@
 {
- "actualizado": 1795417375332,
+ "actualizado": 1795420389205,
  "inicio": 1794819838296,
  "ejecucion": {
-  "inicio": 1795414375082,
-  "fin": 1795417375332,
-  "mensajes": 9194344,
+  "inicio": 1795417388807,
+  "fin": 1795420389205,
+  "mensajes": 9108519,
   "reconexiones": 0,
   "eventos": 527,
   "errores": [],
-  "nuevos": 0,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 2,
+  "nuevosRentables": 2,
+  "nuevosNeta": 0.58
  },
- "total": 6090,
- "falsos": 4088,
+ "total": 6092,
+ "falsos": 4115,
  "largos": {
-  "episodios": 21553,
+  "episodios": 21527,
   "eventos": 168,
   "dias": 7
  },
@@ -27,17 +27,17 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2701,
-   "gan": 8569.77,
-   "nNeta": 846,
-   "neta": 2014.94
+   "n": 2703,
+   "gan": 8571.23,
+   "nNeta": 848,
+   "neta": 2015.52
   },
   {
    "s": 2,
-   "n": 1248,
-   "gan": 3344.66,
-   "nNeta": 328,
-   "neta": 440.42
+   "n": 1249,
+   "gan": 3345.23,
+   "nNeta": 329,
+   "neta": 440.62
   },
   {
    "s": 5,
@@ -54,31 +54,31 @@
    "neta": 34.63
   }
  ],
- "rentables": 1896,
+ "rentables": 1898,
  "porCapital": [
   {
    "capital": 500,
    "ops": 79,
-   "descartadas": 299,
+   "descartadas": 301,
    "neta": 186.7,
-   "dias": 6.84,
-   "semana": 191.2
+   "dias": 6.87,
+   "semana": 190.23
   },
   {
    "capital": 1000,
    "ops": 88,
-   "descartadas": 299,
+   "descartadas": 301,
    "neta": 287.03,
-   "dias": 6.84,
-   "semana": 293.95
+   "dias": 6.87,
+   "semana": 292.45
   },
   {
    "capital": 2000,
    "ops": 89,
-   "descartadas": 299,
+   "descartadas": 301,
    "neta": 420.28,
-   "dias": 6.84,
-   "semana": 430.41
+   "dias": 6.87,
+   "semana": 428.22
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 1,
-   "horas": 1.7,
-   "episodios": 0,
+   "horas": 2.5,
+   "episodios": 2,
    "sospechosas": 0,
-   "realistaNeta": 0,
+   "realistaNeta": 0.58,
    "capital": {
     "500": 0,
     "1000": 0,
@@ -250,11 +250,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5993,
-  "n": 1555,
-  "gan": 4251.93,
-  "nNeta": 398,
-  "neta": 645.9
+  "conDato": 5995,
+  "n": 1557,
+  "gan": 4253.39,
+  "nNeta": 400,
+  "neta": 646.48
  },
  "duraciones": [
   {
@@ -265,12 +265,12 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2388
+   "n": 2389
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1235
+   "n": 1236
   },
   {
    "et": "5–30 s",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795147200000,
-   "n": 39
-  },
   {
    "h": 1795150800000,
    "n": 33
@@ -648,9 +644,29 @@
   {
    "h": 1795402800000,
    "n": 4
+  },
+  {
+   "h": 1795417200000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795417858794,
+   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
+   "dur": 2.082,
+   "gan": 0.57,
+   "neta": 0.2,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795417854869,
+   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
+   "dur": 0.691,
+   "gan": 0.9,
+   "neta": 0.39,
+   "lado": "si"
+  },
   {
    "inicio": 1795405290458,
    "titulo": "Test Match: New Zealand vs India",
@@ -751,22 +767,6 @@
    "inicio": 1795402721119,
    "titulo": "Querétaro FC vs. Club Necaxa",
    "dur": 0.113,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795402720900,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.091,
-   "gan": 0.73,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795402720765,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.11,
    "gan": 0.61,
    "neta": 0,
    "lado": "si"
