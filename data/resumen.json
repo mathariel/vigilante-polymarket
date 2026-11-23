@@ -1,22 +1,22 @@
 {
- "actualizado": 1795438511259,
+ "actualizado": 1795441535689,
  "inicio": 1794823016354,
  "ejecucion": {
-  "inicio": 1795435511027,
-  "fin": 1795438511259,
-  "mensajes": 10448323,
-  "reconexiones": 1,
-  "eventos": 554,
+  "inicio": 1795438535393,
+  "fin": 1795441535689,
+  "mensajes": 11093655,
+  "reconexiones": 0,
+  "eventos": 548,
   "errores": [],
-  "nuevos": 15,
+  "nuevos": 3,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6131,
- "falsos": 4269,
+ "total": 6135,
+ "falsos": 4270,
  "largos": {
-  "episodios": 21369,
-  "eventos": 168,
+  "episodios": 21368,
+  "eventos": 169,
   "dias": 7
  },
  "enEspera": {
@@ -27,29 +27,29 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2736,
-   "gan": 8673.01,
+   "n": 2739,
+   "gan": 8684.83,
    "nNeta": 852,
    "neta": 2033.73
   },
   {
    "s": 2,
-   "n": 1280,
-   "gan": 3447.91,
+   "n": 1283,
+   "gan": 3459.73,
    "nNeta": 332,
    "neta": 458.64
   },
   {
    "s": 5,
-   "n": 718,
-   "gan": 1839.99,
+   "n": 721,
+   "gan": 1851.81,
    "nNeta": 170,
    "neta": 138.39
   },
   {
    "s": 30,
-   "n": 229,
-   "gan": 520.3,
+   "n": 231,
+   "gan": 531.59,
    "nNeta": 21,
    "neta": 35.66
   }
@@ -61,24 +61,24 @@
    "ops": 79,
    "descartadas": 303,
    "neta": 186.7,
-   "dias": 7.08,
-   "semana": 184.6
+   "dias": 7.11,
+   "semana": 183.69
   },
   {
    "capital": 1000,
    "ops": 88,
    "descartadas": 303,
    "neta": 287.03,
-   "dias": 7.08,
-   "semana": 283.79
+   "dias": 7.11,
+   "semana": 282.39
   },
   {
    "capital": 2000,
    "ops": 89,
    "descartadas": 303,
    "neta": 420.28,
-   "dias": 7.08,
-   "semana": 415.54
+   "dias": 7.11,
+   "semana": 413.49
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 1,
-   "horas": 7.5,
-   "episodios": 41,
+   "horas": 8.3,
+   "episodios": 45,
    "sospechosas": 1,
    "realistaNeta": 1.62,
    "capital": {
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6033,
-  "n": 1587,
-  "gan": 4332.38,
+  "conDato": 6037,
+  "n": 1590,
+  "gan": 4344.2,
   "nNeta": 402,
   "neta": 647.52
  },
@@ -260,7 +260,7 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1769
+   "n": 1770
   },
   {
    "et": "0.1–1 s",
@@ -275,17 +275,17 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 489
+   "n": 490
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 144
+   "n": 145
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 85
+   "n": 86
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795165200000,
-   "n": 11
-  },
   {
    "h": 1795168800000,
    "n": 18
@@ -647,10 +643,46 @@
   },
   {
    "h": 1795435200000,
-   "n": 16
+   "n": 17
+  },
+  {
+   "h": 1795438800000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795441417957,
+   "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
+   "dur": 117.439,
+   "gan": 5.73,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795438514559,
+   "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
+   "dur": 2861.933,
+   "gan": 5.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795439740891,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 14.51,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795439740298,
+   "titulo": "Test Match: South Africa vs Bangladesh",
+   "dur": 0.089,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795438159110,
    "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
@@ -736,38 +768,6 @@
    "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
    "dur": 27.042,
    "gan": 5.56,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795436531543,
-   "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
-   "dur": 333.843,
-   "gan": 6.06,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795436352502,
-   "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
-   "dur": 5.202,
-   "gan": 1.35,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795435513686,
-   "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
-   "dur": 793.142,
-   "gan": 5.47,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795436119195,
-   "titulo": "FK LNZ Cherkasy vs. FK Polissia",
-   "dur": 0.355,
-   "gan": 0.55,
    "neta": 0,
    "lado": "no"
   }
