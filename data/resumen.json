@@ -1,21 +1,21 @@
 {
- "actualizado": 1795471716464,
+ "actualizado": 1795474731525,
  "inicio": 1794835122937,
  "ejecucion": {
-  "inicio": 1795468716131,
-  "fin": 1795471716464,
-  "mensajes": 13808906,
+  "inicio": 1795471731197,
+  "fin": 1795474731525,
+  "mensajes": 12883279,
   "reconexiones": 0,
-  "eventos": 565,
+  "eventos": 548,
   "errores": [],
-  "nuevos": 43,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 86,
+  "nuevosRentables": 4,
+  "nuevosNeta": 2.93
  },
- "total": 6459,
- "falsos": 4387,
+ "total": 6507,
+ "falsos": 4398,
  "largos": {
-  "episodios": 20977,
+  "episodios": 20925,
   "eventos": 170,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 36,
   "eventos": 18
  },
- "mediana": 0.34,
+ "mediana": 0.331,
  "captura": [
   {
    "s": 0.5,
-   "n": 2864,
-   "gan": 8935.95,
-   "nNeta": 912,
-   "neta": 2145.84
+   "n": 2857,
+   "gan": 8890.23,
+   "nNeta": 915,
+   "neta": 2103.86
   },
   {
    "s": 2,
-   "n": 1325,
-   "gan": 3648.69,
-   "nNeta": 347,
-   "neta": 500.89
+   "n": 1312,
+   "gan": 3589.67,
+   "nNeta": 345,
+   "neta": 453.92
   },
   {
    "s": 5,
-   "n": 738,
-   "gan": 1915.14,
+   "n": 728,
+   "gan": 1892.38,
    "nNeta": 174,
-   "neta": 140.03
+   "neta": 126.85
   },
   {
    "s": 30,
-   "n": 235,
-   "gan": 551.15,
-   "nNeta": 21,
-   "neta": 35.66
+   "n": 228,
+   "gan": 547.48,
+   "nNeta": 22,
+   "neta": 35.82
   }
  ],
- "rentables": 2043,
+ "rentables": 2084,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 84,
+   "ops": 86,
    "descartadas": 317,
-   "neta": 202.56,
-   "dias": 7.36,
-   "semana": 192.72
+   "neta": 195.98,
+   "dias": 7.28,
+   "semana": 188.32
   },
   {
    "capital": 1000,
-   "ops": 95,
+   "ops": 96,
    "descartadas": 317,
-   "neta": 317.33,
-   "dias": 7.36,
-   "semana": 301.92
+   "neta": 306.05,
+   "dias": 7.28,
+   "semana": 294.09
   },
   {
    "capital": 2000,
-   "ops": 97,
+   "ops": 98,
    "descartadas": 317,
-   "neta": 460.7,
-   "dias": 7.36,
-   "semana": 438.32
+   "neta": 449.42,
+   "dias": 7.28,
+   "semana": 431.86
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 1,
-   "horas": 16.7,
-   "episodios": 432,
-   "sospechosas": 4,
-   "realistaNeta": 51.81,
+   "horas": 17.5,
+   "episodios": 518,
+   "sospechosas": 5,
+   "realistaNeta": 54.74,
    "capital": {
-    "500": 16.27,
-    "1000": 31,
-    "2000": 41.12
+    "500": 19.04,
+    "1000": 33.77,
+    "2000": 43.89
    },
    "cumple": true
   }
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 101,
+  "n": 100,
   "top": [
    {
     "inicio": 1795274262924,
@@ -185,16 +185,6 @@
     "neta": 35.64,
     "costo": 304.65,
     "ret": 14.2
-   },
-   {
-    "inicio": 1794840918442,
-    "titulo": "Sudan vs. Senegal",
-    "lado": "no",
-    "dur": 2.235,
-    "gan": 27.03,
-    "neta": 25,
-    "costo": 173.47,
-    "ret": 15.6
    },
    {
     "inicio": 1795054292065,
@@ -245,27 +235,37 @@
     "neta": 21.34,
     "costo": 46.9,
     "ret": 49.3
+   },
+   {
+    "inicio": 1795013651090,
+    "titulo": "Highest temperature in Seattle on November 18?",
+    "lado": "si",
+    "dur": 0.083,
+    "gan": 20.72,
+    "neta": 18.76,
+    "costo": 74.6,
+    "ret": 27.8
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6358,
-  "n": 1643,
-  "gan": 4568.13,
-  "nNeta": 424,
-  "neta": 697.01
+  "conDato": 6407,
+  "n": 1634,
+  "gan": 4550.72,
+  "nNeta": 425,
+  "neta": 685.6
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1855
+   "n": 1881
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2555
+   "n": 2587
   },
   {
    "et": "1–5 s",
@@ -275,17 +275,17 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 503
+   "n": 500
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 146
+   "n": 142
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 89
+   "n": 86
   }
  ],
  "porEvento": [
@@ -298,10 +298,10 @@
   },
   {
    "titulo": "Kazakhstan vs. Slovakia",
-   "n": 170,
-   "gan": 248.31,
+   "n": 169,
+   "gan": 247.41,
    "neta": 21.73,
-   "mediana": 0.132
+   "mediana": 0.131
   },
   {
    "titulo": "Olympique de Marseille vs. Le Mans FC",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795197600000,
-   "n": 59
-  },
   {
    "h": 1795201200000,
    "n": 64
@@ -648,127 +644,131 @@
   {
    "h": 1795467600000,
    "n": 73
+  },
+  {
+   "h": 1795471200000,
+   "n": 86
   }
  ],
  "recientes": [
   {
-   "inicio": 1795470744192,
-   "titulo": "Levante UD vs. Elche CF",
-   "dur": 0.887,
-   "gan": 0.52,
+   "inicio": 1795472695639,
+   "titulo": "Spain General Election: BNG # of seats?",
+   "dur": 2035.562,
+   "gan": 0.54,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795470744101,
-   "titulo": "Levante UD vs. Elche CF",
-   "dur": 0.005,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795470736600,
-   "titulo": "Levante UD vs. Elche CF",
-   "dur": 0.781,
-   "gan": 0.68,
-   "neta": 0.45,
+   "inicio": 1795474510670,
+   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
+   "dur": 0.012,
+   "gan": 0.71,
+   "neta": 0.47,
    "lado": "si"
   },
   {
-   "inicio": 1795470736560,
-   "titulo": "Levante UD vs. Elche CF",
-   "dur": 0.014,
-   "gan": 0.55,
-   "neta": 0.32,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795470734565,
-   "titulo": "Levante UD vs. Elche CF",
-   "dur": 0.167,
-   "gan": 1.15,
+   "inicio": 1795474493910,
+   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
+   "dur": 0.27,
+   "gan": 0.76,
    "neta": 0.57,
    "lado": "si"
   },
   {
-   "inicio": 1795470733677,
-   "titulo": "Levante UD vs. Elche CF",
-   "dur": 0.88,
-   "gan": 54.21,
-   "neta": 34.95,
+   "inicio": 1795474493184,
+   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
+   "dur": 0.699,
+   "gan": 0.76,
+   "neta": 0.51,
    "lado": "si"
   },
   {
-   "inicio": 1795470574227,
-   "titulo": "Levante UD vs. Elche CF",
-   "dur": 0.127,
-   "gan": 1.26,
-   "neta": 0,
+   "inicio": 1795474487367,
+   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
+   "dur": 0.868,
+   "gan": 0.57,
+   "neta": 0.27,
    "lado": "si"
   },
   {
-   "inicio": 1795470573922,
-   "titulo": "Levante UD vs. Elche CF",
-   "dur": 0.189,
-   "gan": 1.24,
-   "neta": 0,
+   "inicio": 1795474485384,
+   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
+   "dur": 1.602,
+   "gan": 0.88,
+   "neta": 0.67,
    "lado": "si"
   },
   {
-   "inicio": 1795470573730,
-   "titulo": "Levante UD vs. Elche CF",
-   "dur": 0.017,
-   "gan": 1.48,
-   "neta": 0,
+   "inicio": 1795474485284,
+   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
+   "dur": 0.09,
+   "gan": 0.62,
+   "neta": 0.4,
    "lado": "si"
   },
   {
-   "inicio": 1795470573431,
-   "titulo": "Levante UD vs. Elche CF",
-   "dur": 0.18,
-   "gan": 1.53,
-   "neta": 0,
+   "inicio": 1795474484835,
+   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
+   "dur": 0.19,
+   "gan": 0.72,
+   "neta": 0.41,
    "lado": "si"
   },
   {
-   "inicio": 1795470573222,
-   "titulo": "Levante UD vs. Elche CF",
-   "dur": 0.061,
-   "gan": 1.53,
-   "neta": 0,
+   "inicio": 1795474484620,
+   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
+   "dur": 0.062,
+   "gan": 0.57,
+   "neta": 0.2,
    "lado": "si"
   },
   {
-   "inicio": 1795470446634,
-   "titulo": "Levante UD vs. Elche CF",
-   "dur": 0.033,
-   "gan": 2,
-   "neta": 0,
+   "inicio": 1795474483634,
+   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
+   "dur": 0.025,
+   "gan": 1.09,
+   "neta": 0.79,
    "lado": "si"
   },
   {
-   "inicio": 1795470415214,
-   "titulo": "Levante UD vs. Elche CF",
-   "dur": 0.169,
-   "gan": 0.63,
-   "neta": 0,
+   "inicio": 1795474422788,
+   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
+   "dur": 0.139,
+   "gan": 0.64,
+   "neta": 0.27,
    "lado": "si"
   },
   {
-   "inicio": 1795470398369,
-   "titulo": "Levante UD vs. Elche CF",
-   "dur": 0.249,
-   "gan": 0.56,
-   "neta": 0,
+   "inicio": 1795474422487,
+   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
+   "dur": 0.095,
+   "gan": 0.64,
+   "neta": 0.27,
    "lado": "si"
   },
   {
-   "inicio": 1795470397170,
-   "titulo": "Levante UD vs. Elche CF",
-   "dur": 0.107,
-   "gan": 0.56,
-   "neta": 0,
+   "inicio": 1795474422234,
+   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
+   "dur": 0.147,
+   "gan": 0.64,
+   "neta": 0.27,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795474422027,
+   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
+   "dur": 0.094,
+   "gan": 0.64,
+   "neta": 0.27,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795474421583,
+   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
+   "dur": 0.104,
+   "gan": 0.64,
+   "neta": 0.27,
    "lado": "si"
   }
  ]
