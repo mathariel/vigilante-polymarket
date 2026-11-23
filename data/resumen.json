@@ -1,84 +1,84 @@
 {
- "actualizado": 1795393249881,
+ "actualizado": 1795396263146,
  "inicio": 1794798581267,
  "ejecucion": {
-  "inicio": 1795390249547,
-  "fin": 1795393249881,
-  "mensajes": 9447163,
-  "reconexiones": 1,
-  "eventos": 556,
+  "inicio": 1795393262826,
+  "fin": 1795396263146,
+  "mensajes": 10165063,
+  "reconexiones": 0,
+  "eventos": 557,
   "errores": [],
-  "nuevos": 18,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 17,
+  "nuevosRentables": 1,
+  "nuevosNeta": 1.78
  },
- "total": 6011,
- "falsos": 3998,
+ "total": 6021,
+ "falsos": 4006,
  "largos": {
-  "episodios": 21676,
+  "episodios": 21665,
   "eventos": 171,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 42,
+  "episodios": 41,
   "eventos": 17
  },
- "mediana": 0.348,
+ "mediana": 0.347,
  "captura": [
   {
    "s": 0.5,
-   "n": 2692,
-   "gan": 8454.92,
-   "nNeta": 828,
-   "neta": 1998.66
+   "n": 2693,
+   "gan": 8462.6,
+   "nNeta": 830,
+   "neta": 2000.56
   },
   {
    "s": 2,
-   "n": 1261,
-   "gan": 3305.12,
-   "nNeta": 322,
-   "neta": 436.66
+   "n": 1257,
+   "gan": 3304.55,
+   "nNeta": 323,
+   "neta": 438.44
   },
   {
    "s": 5,
-   "n": 709,
-   "gan": 1736.73,
+   "n": 705,
+   "gan": 1731.95,
    "nNeta": 166,
    "neta": 136.32
   },
   {
    "s": 30,
-   "n": 225,
-   "gan": 477.12,
+   "n": 221,
+   "gan": 472.34,
    "nNeta": 21,
    "neta": 34.77
   }
  ],
- "rentables": 1857,
+ "rentables": 1859,
  "porCapital": [
   {
    "capital": 500,
    "ops": 77,
-   "descartadas": 293,
+   "descartadas": 294,
    "neta": 185.59,
-   "dias": 6.87,
-   "semana": 189.18
+   "dias": 6.78,
+   "semana": 191.69
   },
   {
    "capital": 1000,
    "ops": 86,
-   "descartadas": 293,
+   "descartadas": 294,
    "neta": 285.92,
-   "dias": 6.87,
-   "semana": 291.45
+   "dias": 6.78,
+   "semana": 295.31
   },
   {
    "capital": 2000,
    "ops": 87,
-   "descartadas": 293,
+   "descartadas": 294,
    "neta": 419.17,
-   "dias": 6.87,
-   "semana": 427.28
+   "dias": 6.78,
+   "semana": 432.94
   }
  ],
  "maxBloqueoH": 24,
@@ -115,10 +115,10 @@
   {
    "lunes": "2026-11-16",
    "dias": 7,
-   "horas": 160.8,
-   "episodios": 6004,
+   "horas": 161.7,
+   "episodios": 6021,
    "sospechosas": 97,
-   "realistaNeta": 639.88,
+   "realistaNeta": 641.66,
    "capital": {
     "500": 185.59,
     "1000": 285.92,
@@ -236,27 +236,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5914,
-  "n": 1570,
-  "gan": 4206.23,
-  "nNeta": 390,
-  "neta": 639.88
+  "conDato": 5924,
+  "n": 1567,
+  "gan": 4207,
+  "nNeta": 391,
+  "neta": 641.66
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1741
+   "n": 1745
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2337
+   "n": 2345
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1214
+   "n": 1216
   },
   {
    "et": "5–30 s",
@@ -266,12 +266,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 148
+   "n": 147
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 77
+   "n": 74
   }
  ],
  "porEvento": [
@@ -347,10 +347,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795136400000,
-   "n": 28
-  },
   {
    "h": 1795140000000,
    "n": 15
@@ -633,129 +629,133 @@
   },
   {
    "h": 1795392000000,
-   "n": 1
+   "n": 7
+  },
+  {
+   "h": 1795395600000,
+   "n": 11
   }
  ],
  "recientes": [
   {
-   "inicio": 1795392784406,
-   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
-   "dur": 0.314,
-   "gan": 0.76,
+   "inicio": 1795395981799,
+   "titulo": "Chicago Fire FC vs. Charlotte FC",
+   "dur": 1.788,
+   "gan": 1.07,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795391953778,
-   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
-   "dur": 5.75,
-   "gan": 0.52,
+   "inicio": 1795395981738,
+   "titulo": "Chicago Fire FC vs. Charlotte FC",
+   "dur": 0.054,
+   "gan": 0.94,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795391951916,
-   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
-   "dur": 0.394,
-   "gan": 0.75,
+   "inicio": 1795395981683,
+   "titulo": "Chicago Fire FC vs. Charlotte FC",
+   "dur": 0.029,
+   "gan": 0.55,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795391948743,
-   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
-   "dur": 1.749,
-   "gan": 0.52,
+   "inicio": 1795395946898,
+   "titulo": "Chicago Fire FC vs. Charlotte FC",
+   "dur": 0.615,
+   "gan": 1.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795391941151,
-   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
-   "dur": 0.67,
-   "gan": 0.52,
+   "inicio": 1795395928575,
+   "titulo": "Chicago Fire FC vs. Charlotte FC",
+   "dur": 1.135,
+   "gan": 0.54,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795391940300,
-   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
-   "dur": 0.021,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795391887875,
-   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
-   "dur": 0.021,
+   "inicio": 1795395928328,
+   "titulo": "Chicago Fire FC vs. Charlotte FC",
+   "dur": 0.094,
    "gan": 0.51,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795395926571,
+   "titulo": "Chicago Fire FC vs. Charlotte FC",
+   "dur": 0.113,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795395926499,
+   "titulo": "Chicago Fire FC vs. Charlotte FC",
+   "dur": 0.035,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795395923678,
+   "titulo": "Chicago Fire FC vs. Charlotte FC",
+   "dur": 0.532,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795395905790,
+   "titulo": "Chicago Fire FC vs. Charlotte FC",
+   "dur": 0.123,
+   "gan": 1.09,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795395897651,
+   "titulo": "Chicago Fire FC vs. Charlotte FC",
+   "dur": 0.121,
+   "gan": 3.2,
+   "neta": 0.66,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795395504168,
+   "titulo": "CD Guadalajara vs. CF Cruz Azul",
+   "dur": 0,
+   "gan": 1.09,
+   "neta": 0.15,
    "lado": "no"
   },
   {
-   "inicio": 1795391886233,
-   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
-   "dur": 0.086,
-   "gan": 0.57,
+   "inicio": 1795395376777,
+   "titulo": "CD Limache vs. CD La Serena",
+   "dur": 0.505,
+   "gan": 3.24,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795395359940,
+   "titulo": "Chicago Fire FC vs. Charlotte FC",
+   "dur": 0.234,
+   "gan": 0.66,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795391822481,
-   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
-   "dur": 1.219,
-   "gan": 0.75,
+   "inicio": 1795395351314,
+   "titulo": "Chicago Fire FC vs. Charlotte FC",
+   "dur": 0.106,
+   "gan": 0.67,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795391822078,
-   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
-   "dur": 0.241,
-   "gan": 0.59,
-   "neta": 0.08,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795391801852,
-   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
-   "dur": 0.474,
-   "gan": 0.95,
-   "neta": 0.57,
    "lado": "no"
-  },
-  {
-   "inicio": 1795391801465,
-   "titulo": "Red Bull Bragantino vs. CR Vasco da Gama",
-   "dur": 0.058,
-   "gan": 0.68,
-   "neta": 0.27,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795391116170,
-   "titulo": "Test Match: New Zealand vs India",
-   "dur": 9.224,
-   "gan": 0.9,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795391112351,
-   "titulo": "Test Match: New Zealand vs India",
-   "dur": 2.631,
-   "gan": 1.1,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795391104009,
-   "titulo": "Test Match: New Zealand vs India",
-   "dur": 6.739,
-   "gan": 0.9,
-   "neta": 0,
-   "lado": "si"
   }
  ]
 }
