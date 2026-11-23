@@ -1,84 +1,84 @@
 {
- "actualizado": 1795441535689,
+ "actualizado": 1795444563177,
  "inicio": 1794823016354,
  "ejecucion": {
-  "inicio": 1795438535393,
-  "fin": 1795441535689,
-  "mensajes": 11093655,
+  "inicio": 1795441562946,
+  "fin": 1795444563177,
+  "mensajes": 11374457,
   "reconexiones": 0,
-  "eventos": 548,
+  "eventos": 560,
   "errores": [],
-  "nuevos": 3,
+  "nuevos": 11,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6135,
- "falsos": 4270,
+ "total": 6147,
+ "falsos": 4283,
  "largos": {
-  "episodios": 21368,
+  "episodios": 21348,
   "eventos": 169,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 31,
+  "episodios": 32,
   "eventos": 15
  },
  "mediana": 0.344,
  "captura": [
   {
    "s": 0.5,
-   "n": 2739,
-   "gan": 8684.83,
-   "nNeta": 852,
-   "neta": 2033.73
+   "n": 2746,
+   "gan": 8694.17,
+   "nNeta": 854,
+   "neta": 2033.86
   },
   {
    "s": 2,
-   "n": 1283,
-   "gan": 3459.73,
+   "n": 1288,
+   "gan": 3472.41,
    "nNeta": 332,
    "neta": 458.64
   },
   {
    "s": 5,
-   "n": 721,
-   "gan": 1851.81,
+   "n": 723,
+   "gan": 1862.66,
    "nNeta": 170,
    "neta": 138.39
   },
   {
    "s": 30,
-   "n": 231,
-   "gan": 531.59,
+   "n": 233,
+   "gan": 542.44,
    "nNeta": 21,
    "neta": 35.66
   }
  ],
- "rentables": 1905,
+ "rentables": 1910,
  "porCapital": [
   {
    "capital": 500,
    "ops": 79,
    "descartadas": 303,
    "neta": 186.7,
-   "dias": 7.11,
-   "semana": 183.69
+   "dias": 7.15,
+   "semana": 182.79
   },
   {
    "capital": 1000,
    "ops": 88,
    "descartadas": 303,
    "neta": 287.03,
-   "dias": 7.11,
-   "semana": 282.39
+   "dias": 7.15,
+   "semana": 281.01
   },
   {
    "capital": 2000,
    "ops": 89,
    "descartadas": 303,
    "neta": 420.28,
-   "dias": 7.11,
-   "semana": 413.49
+   "dias": 7.15,
+   "semana": 411.47
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 1,
-   "horas": 8.3,
-   "episodios": 45,
+   "horas": 9.2,
+   "episodios": 57,
    "sospechosas": 1,
    "realistaNeta": 1.62,
    "capital": {
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6037,
-  "n": 1590,
-  "gan": 4344.2,
+  "conDato": 6049,
+  "n": 1595,
+  "gan": 4356.94,
   "nNeta": 402,
   "neta": 647.52
  },
@@ -260,17 +260,17 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1770
+   "n": 1775
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2393
+   "n": 2395
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1240
+   "n": 1243
   },
   {
    "et": "5–30 s",
@@ -285,7 +285,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 86
+   "n": 88
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795168800000,
-   "n": 18
-  },
   {
    "h": 1795172400000,
    "n": 56
@@ -647,10 +643,110 @@
   },
   {
    "h": 1795438800000,
-   "n": 3
+   "n": 5
+  },
+  {
+   "h": 1795442400000,
+   "n": 10
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795444214268,
+   "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
+   "dur": 348.68,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795444126532,
+   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
+   "dur": 0.044,
+   "gan": 0.84,
+   "neta": 0.62,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795443189001,
+   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
+   "dur": 0.665,
+   "gan": 0.63,
+   "neta": 0.05,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795443188950,
+   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
+   "dur": 0.006,
+   "gan": 0.5,
+   "neta": 0.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795443188923,
+   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
+   "dur": 0.003,
+   "gan": 0.5,
+   "neta": 0.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795443188723,
+   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
+   "dur": 0.011,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795442842377,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 3.578,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795442837706,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 4.586,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795442835059,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 2.606,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795442772958,
+   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC - Halftime Result",
+   "dur": 0.977,
+   "gan": 0.75,
+   "neta": 0.33,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795441561111,
+   "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
+   "dur": 464.69,
+   "gan": 5.73,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795441661365,
+   "titulo": "FK LNZ Cherkasy vs. FK Polissia",
+   "dur": 0.073,
+   "gan": 0.69,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795441417957,
    "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
@@ -672,102 +768,6 @@
    "titulo": "Test Match: South Africa vs Bangladesh",
    "dur": 14.51,
    "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795439740298,
-   "titulo": "Test Match: South Africa vs Bangladesh",
-   "dur": 0.089,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795438159110,
-   "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
-   "dur": 351.919,
-   "gan": 5.56,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795435461748,
-   "titulo": "Watford FC vs. Blackburn Rovers FC",
-   "dur": 3049.281,
-   "gan": 3.26,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795437571399,
-   "titulo": "Test Match: South Africa vs Bangladesh",
-   "dur": 1.281,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795437478961,
-   "titulo": "Test Match: South Africa vs Bangladesh",
-   "dur": 90.394,
-   "gan": 1.08,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795437488199,
-   "titulo": "FK LNZ Cherkasy vs. FK Polissia",
-   "dur": 3.295,
-   "gan": 23.69,
-   "neta": 16.98,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795437424443,
-   "titulo": "Test Match: South Africa vs Bangladesh",
-   "dur": 30.743,
-   "gan": 0.9,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795437388196,
-   "titulo": "Test Match: South Africa vs Bangladesh",
-   "dur": 10.283,
-   "gan": 1.13,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795437365183,
-   "titulo": "Test Match: South Africa vs Bangladesh",
-   "dur": 9.566,
-   "gan": 1.13,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795437254856,
-   "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
-   "dur": 99.361,
-   "gan": 5.56,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795437143765,
-   "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
-   "dur": 72.075,
-   "gan": 5.56,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795437074648,
-   "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
-   "dur": 27.042,
-   "gan": 5.56,
    "neta": 0,
    "lado": "no"
   }
