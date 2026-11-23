@@ -1,84 +1,84 @@
 {
- "actualizado": 1795474731525,
- "inicio": 1794835122937,
+ "actualizado": 1795477745299,
+ "inicio": 1794838099082,
  "ejecucion": {
-  "inicio": 1795471731197,
-  "fin": 1795474731525,
-  "mensajes": 12883279,
+  "inicio": 1795474744937,
+  "fin": 1795477745300,
+  "mensajes": 12479112,
   "reconexiones": 0,
-  "eventos": 548,
+  "eventos": 520,
   "errores": [],
-  "nuevos": 86,
-  "nuevosRentables": 4,
-  "nuevosNeta": 2.93
+  "nuevos": 57,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.3
  },
- "total": 6507,
- "falsos": 4398,
+ "total": 6545,
+ "falsos": 4386,
  "largos": {
-  "episodios": 20925,
-  "eventos": 170,
+  "episodios": 20906,
+  "eventos": 171,
   "dias": 7
  },
  "enEspera": {
   "episodios": 36,
   "eventos": 18
  },
- "mediana": 0.331,
+ "mediana": 0.33,
  "captura": [
   {
    "s": 0.5,
-   "n": 2857,
-   "gan": 8890.23,
-   "nNeta": 915,
-   "neta": 2103.86
+   "n": 2858,
+   "gan": 8859.91,
+   "nNeta": 917,
+   "neta": 2106.53
   },
   {
    "s": 2,
    "n": 1312,
-   "gan": 3589.67,
-   "nNeta": 345,
-   "neta": 453.92
+   "gan": 3563.16,
+   "nNeta": 344,
+   "neta": 453.77
   },
   {
    "s": 5,
    "n": 728,
-   "gan": 1892.38,
+   "gan": 1870.45,
    "nNeta": 174,
    "neta": 126.85
   },
   {
    "s": 30,
-   "n": 228,
-   "gan": 547.48,
+   "n": 229,
+   "gan": 533.74,
    "nNeta": 22,
    "neta": 35.82
   }
  ],
- "rentables": 2084,
+ "rentables": 2087,
  "porCapital": [
   {
    "capital": 500,
    "ops": 86,
    "descartadas": 317,
    "neta": 195.98,
-   "dias": 7.28,
-   "semana": 188.32
+   "dias": 7.3,
+   "semana": 187.91
   },
   {
    "capital": 1000,
    "ops": 96,
    "descartadas": 317,
    "neta": 306.05,
-   "dias": 7.28,
-   "semana": 294.09
+   "dias": 7.3,
+   "semana": 293.46
   },
   {
    "capital": 2000,
    "ops": 98,
    "descartadas": 317,
    "neta": 449.42,
-   "dias": 7.28,
-   "semana": 431.86
+   "dias": 7.3,
+   "semana": 430.93
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 1,
-   "horas": 17.5,
-   "episodios": 518,
+   "horas": 18.3,
+   "episodios": 576,
    "sospechosas": 5,
-   "realistaNeta": 54.74,
+   "realistaNeta": 55.04,
    "capital": {
     "500": 19.04,
     "1000": 33.77,
@@ -250,22 +250,22 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6407,
-  "n": 1634,
-  "gan": 4550.72,
+  "conDato": 6445,
+  "n": 1635,
+  "gan": 4519.09,
   "nNeta": 425,
-  "neta": 685.6
+  "neta": 685.75
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1881
+   "n": 1896
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2587
+   "n": 2610
   },
   {
    "et": "1–5 s",
@@ -275,7 +275,7 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 500
+   "n": 499
   },
   {
    "et": "30 s–5 min",
@@ -285,7 +285,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 86
+   "n": 87
   }
  ],
  "porEvento": [
@@ -298,10 +298,10 @@
   },
   {
    "titulo": "Kazakhstan vs. Slovakia",
-   "n": 169,
-   "gan": 247.41,
-   "neta": 21.73,
-   "mediana": 0.131
+   "n": 155,
+   "gan": 207.54,
+   "neta": 21.02,
+   "mediana": 0.111
   },
   {
    "titulo": "Olympique de Marseille vs. Le Mans FC",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795201200000,
-   "n": 64
-  },
   {
    "h": 1795204800000,
    "n": 82
@@ -647,128 +643,132 @@
   },
   {
    "h": 1795471200000,
-   "n": 86
+   "n": 87
+  },
+  {
+   "h": 1795474800000,
+   "n": 57
   }
  ],
  "recientes": [
   {
-   "inicio": 1795472695639,
+   "inicio": 1795476551513,
    "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 2035.562,
-   "gan": 0.54,
+   "dur": 1193.427,
+   "gan": 0.7,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795474510670,
-   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
-   "dur": 0.012,
-   "gan": 0.71,
-   "neta": 0.47,
+   "inicio": 1795476783560,
+   "titulo": "Botafogo FR vs. São Paulo FC",
+   "dur": 1.829,
+   "gan": 0.74,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795474493910,
-   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
-   "dur": 0.27,
-   "gan": 0.76,
-   "neta": 0.57,
+   "inicio": 1795476782593,
+   "titulo": "Botafogo FR vs. São Paulo FC",
+   "dur": 0.955,
+   "gan": 0.85,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795474493184,
-   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
-   "dur": 0.699,
-   "gan": 0.76,
-   "neta": 0.51,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795474487367,
-   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
-   "dur": 0.868,
+   "inicio": 1795476772279,
+   "titulo": "Botafogo FR vs. São Paulo FC",
+   "dur": 0.427,
    "gan": 0.57,
-   "neta": 0.27,
-   "lado": "si"
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1795474485384,
-   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
-   "dur": 1.602,
-   "gan": 0.88,
-   "neta": 0.67,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795474485284,
-   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
-   "dur": 0.09,
-   "gan": 0.62,
-   "neta": 0.4,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795474484835,
-   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
-   "dur": 0.19,
-   "gan": 0.72,
-   "neta": 0.41,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795474484620,
-   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
-   "dur": 0.062,
+   "inicio": 1795476771604,
+   "titulo": "Botafogo FR vs. São Paulo FC",
+   "dur": 0.421,
    "gan": 0.57,
-   "neta": 0.2,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795476613374,
+   "titulo": "Botafogo FR vs. São Paulo FC",
+   "dur": 1.235,
+   "gan": 0.81,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795474483634,
-   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
-   "dur": 0.025,
-   "gan": 1.09,
-   "neta": 0.79,
+   "inicio": 1795476330254,
+   "titulo": "Botafogo FR vs. São Paulo FC",
+   "dur": 1.307,
+   "gan": 1.78,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795476175445,
+   "titulo": "SC Internacional vs. EC Vitória",
+   "dur": 2.664,
+   "gan": 1.8,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795474422788,
-   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
-   "dur": 0.139,
-   "gan": 0.64,
-   "neta": 0.27,
+   "inicio": 1795476168104,
+   "titulo": "SC Internacional vs. EC Vitória",
+   "dur": 1.079,
+   "gan": 4.06,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795474422487,
-   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
-   "dur": 0.095,
-   "gan": 0.64,
-   "neta": 0.27,
+   "inicio": 1795476140905,
+   "titulo": "SC Internacional vs. EC Vitória",
+   "dur": 0.016,
+   "gan": 0.66,
+   "neta": 0.11,
    "lado": "si"
   },
   {
-   "inicio": 1795474422234,
-   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
-   "dur": 0.147,
-   "gan": 0.64,
-   "neta": 0.27,
+   "inicio": 1795476140663,
+   "titulo": "SC Internacional vs. EC Vitória",
+   "dur": 0.228,
+   "gan": 1.1,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795474422027,
-   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
-   "dur": 0.094,
-   "gan": 0.64,
-   "neta": 0.27,
+   "inicio": 1795476140396,
+   "titulo": "SC Internacional vs. EC Vitória",
+   "dur": 0.038,
+   "gan": 0.57,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795474421583,
-   "titulo": "CS 2 de Mayo vs. Sportivo San Lorenzo",
-   "dur": 0.104,
-   "gan": 0.64,
-   "neta": 0.27,
+   "inicio": 1795476138737,
+   "titulo": "SC Internacional vs. EC Vitória",
+   "dur": 0.572,
+   "gan": 0.66,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795476135944,
+   "titulo": "SC Internacional vs. EC Vitória",
+   "dur": 0.841,
+   "gan": 0.93,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795476126777,
+   "titulo": "SC Internacional vs. EC Vitória",
+   "dur": 1.687,
+   "gan": 0.54,
+   "neta": 0,
    "lado": "si"
   }
  ]
