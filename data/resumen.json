@@ -1,55 +1,55 @@
 {
- "actualizado": 1795414361875,
- "inicio": 1794817004444,
+ "actualizado": 1795417375332,
+ "inicio": 1794819838296,
  "ejecucion": {
-  "inicio": 1795411361601,
-  "fin": 1795414361875,
-  "mensajes": 9001169,
-  "reconexiones": 1,
-  "eventos": 535,
+  "inicio": 1795414375082,
+  "fin": 1795417375332,
+  "mensajes": 9194344,
+  "reconexiones": 0,
+  "eventos": 527,
   "errores": [],
   "nuevos": 0,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 6097,
- "falsos": 4084,
+ "total": 6090,
+ "falsos": 4088,
  "largos": {
-  "episodios": 21545,
+  "episodios": 21553,
   "eventos": 168,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 31,
-  "eventos": 15
+  "episodios": 30,
+  "eventos": 14
  },
  "mediana": 0.341,
  "captura": [
   {
    "s": 0.5,
-   "n": 2706,
-   "gan": 8572.71,
+   "n": 2701,
+   "gan": 8569.77,
    "nNeta": 846,
    "neta": 2014.94
   },
   {
    "s": 2,
-   "n": 1252,
-   "gan": 3347.02,
+   "n": 1248,
+   "gan": 3344.66,
    "nNeta": 328,
    "neta": 440.42
   },
   {
    "s": 5,
-   "n": 693,
-   "gan": 1764.16,
+   "n": 689,
+   "gan": 1761.8,
    "nNeta": 168,
    "neta": 137.35
   },
   {
    "s": 30,
-   "n": 212,
-   "gan": 463.45,
+   "n": 210,
+   "gan": 462.18,
    "nNeta": 20,
    "neta": 34.63
   }
@@ -61,24 +61,24 @@
    "ops": 79,
    "descartadas": 299,
    "neta": 186.7,
-   "dias": 6.87,
-   "semana": 190.2
+   "dias": 6.84,
+   "semana": 191.2
   },
   {
    "capital": 1000,
    "ops": 88,
    "descartadas": 299,
    "neta": 287.03,
-   "dias": 6.87,
-   "semana": 292.41
+   "dias": 6.84,
+   "semana": 293.95
   },
   {
    "capital": 2000,
    "ops": 89,
    "descartadas": 299,
    "neta": 420.28,
-   "dias": 6.87,
-   "semana": 428.16
+   "dias": 6.84,
+   "semana": 430.41
   }
  ],
  "maxBloqueoH": 24,
@@ -129,7 +129,7 @@
   {
    "lunes": "2026-11-23",
    "dias": 1,
-   "horas": 0.8,
+   "horas": 1.7,
    "episodios": 0,
    "sospechosas": 0,
    "realistaNeta": 0,
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6000,
-  "n": 1559,
-  "gan": 4254.29,
+  "conDato": 5993,
+  "n": 1555,
+  "gan": 4251.93,
   "nNeta": 398,
   "neta": 645.9
  },
@@ -265,7 +265,7 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2391
+   "n": 2388
   },
   {
    "et": "1–5 s",
@@ -275,17 +275,17 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 481
+   "n": 479
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 137
+   "n": 136
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 75
+   "n": 74
   }
  ],
  "porEvento": [
