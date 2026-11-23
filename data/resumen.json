@@ -1,84 +1,84 @@
 {
- "actualizado": 1795447580953,
+ "actualizado": 1795450597786,
  "inicio": 1794826057243,
  "ejecucion": {
-  "inicio": 1795444580603,
-  "fin": 1795447580953,
-  "mensajes": 13214022,
+  "inicio": 1795447597536,
+  "fin": 1795450597786,
+  "mensajes": 11770374,
   "reconexiones": 0,
-  "eventos": 569,
+  "eventos": 538,
   "errores": [],
-  "nuevos": 28,
-  "nuevosRentables": 4,
-  "nuevosNeta": 28.12
+  "nuevos": 10,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 6174,
- "falsos": 4292,
+ "total": 6184,
+ "falsos": 4293,
  "largos": {
-  "episodios": 21317,
-  "eventos": 169,
+  "episodios": 21312,
+  "eventos": 170,
   "dias": 7
  },
  "enEspera": {
   "episodios": 32,
   "eventos": 15
  },
- "mediana": 0.345,
+ "mediana": 0.344,
  "captura": [
   {
    "s": 0.5,
-   "n": 2760,
-   "gan": 8753.05,
-   "nNeta": 860,
-   "neta": 2062.97
+   "n": 2763,
+   "gan": 8757.89,
+   "nNeta": 861,
+   "neta": 2063.04
   },
   {
    "s": 2,
-   "n": 1295,
-   "gan": 3516.41,
+   "n": 1296,
+   "gan": 3519.85,
    "nNeta": 334,
    "neta": 484.44
   },
   {
    "s": 5,
-   "n": 724,
-   "gan": 1867.93,
+   "n": 725,
+   "gan": 1871.37,
    "nNeta": 170,
    "neta": 138.39
   },
   {
    "s": 30,
-   "n": 234,
-   "gan": 547.71,
+   "n": 235,
+   "gan": 551.15,
    "nNeta": 21,
    "neta": 35.66
   }
  ],
- "rentables": 1920,
+ "rentables": 1926,
  "porCapital": [
   {
    "capital": 500,
    "ops": 80,
    "descartadas": 304,
    "neta": 200.28,
-   "dias": 7.15,
-   "semana": 196.19
+   "dias": 7.18,
+   "semana": 195.23
   },
   {
    "capital": 1000,
    "ops": 90,
    "descartadas": 304,
    "neta": 313.95,
-   "dias": 7.15,
-   "semana": 307.54
+   "dias": 7.18,
+   "semana": 306.04
   },
   {
    "capital": 2000,
    "ops": 91,
    "descartadas": 304,
    "neta": 447.2,
-   "dias": 7.15,
-   "semana": 438.07
+   "dias": 7.18,
+   "semana": 435.94
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 1,
-   "horas": 10,
-   "episodios": 85,
+   "horas": 10.8,
+   "episodios": 95,
    "sospechosas": 1,
    "realistaNeta": 29.74,
    "capital": {
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6076,
-  "n": 1604,
-  "gan": 4406.15,
+  "conDato": 6086,
+  "n": 1605,
+  "gan": 4409.59,
   "nNeta": 405,
   "neta": 674.94
  },
@@ -260,12 +260,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1779
+   "n": 1782
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2409
+   "n": 2415
   },
   {
    "et": "1–5 s",
@@ -280,7 +280,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 145
+   "n": 146
   },
   {
    "et": "> 5 min",
@@ -647,10 +647,90 @@
   },
   {
    "h": 1795446000000,
-   "n": 24
+   "n": 34
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795448493221,
+   "titulo": "Tractor Tabriz vs. Al Wasl FC",
+   "dur": 163.448,
+   "gan": 1.27,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795448141888,
+   "titulo": "Wadi Degla SC vs. El Ittihad SC El Iskandary",
+   "dur": 0.714,
+   "gan": 0.72,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795448141835,
+   "titulo": "Wadi Degla SC vs. El Ittihad SC El Iskandary",
+   "dur": 0.023,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795448139648,
+   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
+   "dur": 0.041,
+   "gan": 0.51,
+   "neta": 0.06,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795448138796,
+   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
+   "dur": 0.199,
+   "gan": 0.51,
+   "neta": 0.06,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795448138433,
+   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
+   "dur": 0.262,
+   "gan": 0.51,
+   "neta": 0.06,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795448138218,
+   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
+   "dur": 0.063,
+   "gan": 0.55,
+   "neta": 0.07,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795448138057,
+   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
+   "dur": 0.12,
+   "gan": 0.6,
+   "neta": 0.08,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795448137301,
+   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
+   "dur": 0.742,
+   "gan": 0.56,
+   "neta": 0.07,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795447684157,
+   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
+   "dur": 0.228,
+   "gan": 0.77,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1795446918519,
    "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
@@ -690,86 +770,6 @@
    "gan": 2.06,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1795446908182,
-   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
-   "dur": 0.038,
-   "gan": 0.73,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795446898443,
-   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
-   "dur": 0.553,
-   "gan": 0.78,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795446895840,
-   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
-   "dur": 0.095,
-   "gan": 6.41,
-   "neta": 0.09,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795446871612,
-   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
-   "dur": 0.327,
-   "gan": 3.27,
-   "neta": 1.24,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795446860224,
-   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
-   "dur": 2.766,
-   "gan": 4.49,
-   "neta": 2.46,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795446819222,
-   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
-   "dur": 4.658,
-   "gan": 0.8,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795446818796,
-   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
-   "dur": 0.4,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795446814471,
-   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
-   "dur": 3.772,
-   "gan": 1.23,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795446814293,
-   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
-   "dur": 0.131,
-   "gan": 1.09,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795446814238,
-   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
-   "dur": 0.023,
-   "gan": 1.09,
-   "neta": 0,
-   "lado": "si"
   }
  ]
 }
