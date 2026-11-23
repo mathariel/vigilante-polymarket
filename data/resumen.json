@@ -1,21 +1,21 @@
 {
- "actualizado": 1795429448922,
+ "actualizado": 1795432473165,
  "inicio": 1794823016354,
  "ejecucion": {
-  "inicio": 1795426448587,
-  "fin": 1795429448922,
-  "mensajes": 9061454,
+  "inicio": 1795429472947,
+  "fin": 1795432473165,
+  "mensajes": 10368349,
   "reconexiones": 0,
   "eventos": 542,
   "errores": [],
-  "nuevos": 3,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 9,
+  "nuevosRentables": 1,
+  "nuevosNeta": 1.03
  },
- "total": 6095,
- "falsos": 4227,
+ "total": 6105,
+ "falsos": 4263,
  "largos": {
-  "episodios": 21425,
+  "episodios": 21387,
   "eventos": 168,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 30,
   "eventos": 14
  },
- "mediana": 0.341,
+ "mediana": 0.342,
  "captura": [
   {
    "s": 0.5,
-   "n": 2704,
-   "gan": 8572.03,
-   "nNeta": 848,
-   "neta": 2015.52
+   "n": 2713,
+   "gan": 8590.3,
+   "nNeta": 849,
+   "neta": 2016.55
   },
   {
    "s": 2,
-   "n": 1250,
-   "gan": 3346.03,
-   "nNeta": 329,
-   "neta": 440.62
+   "n": 1259,
+   "gan": 3366.56,
+   "nNeta": 330,
+   "neta": 441.65
   },
   {
    "s": 5,
-   "n": 690,
-   "gan": 1762.6,
-   "nNeta": 168,
-   "neta": 137.35
+   "n": 699,
+   "gan": 1783.13,
+   "nNeta": 169,
+   "neta": 138.38
   },
   {
    "s": 30,
-   "n": 211,
-   "gan": 462.98,
-   "nNeta": 20,
-   "neta": 34.63
+   "n": 218,
+   "gan": 477.32,
+   "nNeta": 21,
+   "neta": 35.66
   }
  ],
- "rentables": 1899,
+ "rentables": 1901,
  "porCapital": [
   {
    "capital": 500,
    "ops": 79,
-   "descartadas": 301,
+   "descartadas": 302,
    "neta": 186.7,
-   "dias": 6.98,
-   "semana": 187.37
+   "dias": 7.01,
+   "semana": 186.44
   },
   {
    "capital": 1000,
    "ops": 88,
-   "descartadas": 301,
+   "descartadas": 302,
    "neta": 287.03,
-   "dias": 6.98,
-   "semana": 288.06
+   "dias": 7.01,
+   "semana": 286.62
   },
   {
    "capital": 2000,
    "ops": 89,
-   "descartadas": 301,
+   "descartadas": 302,
    "neta": 420.28,
-   "dias": 6.98,
-   "semana": 421.79
+   "dias": 7.01,
+   "semana": 419.68
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 1,
-   "horas": 5,
-   "episodios": 5,
+   "horas": 5.8,
+   "episodios": 15,
    "sospechosas": 0,
-   "realistaNeta": 0.58,
+   "realistaNeta": 1.61,
    "capital": {
     "500": 0,
     "1000": 0,
@@ -250,17 +250,17 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 5998,
-  "n": 1558,
-  "gan": 4254.19,
-  "nNeta": 400,
-  "neta": 646.48
+  "conDato": 6008,
+  "n": 1567,
+  "gan": 4274.72,
+  "nNeta": 401,
+  "neta": 647.51
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1768
+   "n": 1769
   },
   {
    "et": "0.1–1 s",
@@ -275,17 +275,17 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 479
+   "n": 481
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 137
+   "n": 140
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 74
+   "n": 78
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795158000000,
-   "n": 4
-  },
   {
    "h": 1795161600000,
    "n": 5
@@ -647,10 +643,94 @@
   },
   {
    "h": 1795428000000,
-   "n": 2
+   "n": 11
+  },
+  {
+   "h": 1795431600000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795432204432,
+   "titulo": "Watford FC vs. Blackburn Rovers FC",
+   "dur": 268.517,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795430237220,
+   "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
+   "dur": 2235.729,
+   "gan": 5.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795429469667,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 3003.282,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795431133177,
+   "titulo": "Elon Musk # tweets November 21 - November 23, 2026?",
+   "dur": 538.558,
+   "gan": 2.76,
+   "neta": 1.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795431437768,
+   "titulo": "Spain General Election: Turnout",
+   "dur": 51.698,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795431367458,
+   "titulo": "Spain General Election: Turnout",
+   "dur": 24.867,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795430487544,
+   "titulo": "Spain General Election: Turnout",
+   "dur": 639.742,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795430199094,
+   "titulo": "Asteras Tripolis vs. Aris Thessaloniki",
+   "dur": 26.598,
+   "gan": 5.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795429945319,
+   "titulo": "Spain General Election: Turnout",
+   "dur": 39.922,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795429636046,
+   "titulo": "Highest temperature in Busan on November 23?",
+   "dur": 0.048,
+   "gan": 0.94,
+   "neta": 0.83,
+   "lado": "si"
+  },
   {
    "inicio": 1795429270640,
    "titulo": "Democratic 2028 presidential odds on November 27?",
@@ -689,86 +769,6 @@
    "dur": 0.691,
    "gan": 0.9,
    "neta": 0.39,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795405290458,
-   "titulo": "Test Match: New Zealand vs India",
-   "dur": 3.65,
-   "gan": 1.33,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795402307391,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 1132.941,
-   "gan": 0.91,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795403269160,
-   "titulo": "Vancouver Whitecaps FC vs. Real Salt Lake",
-   "dur": 1.342,
-   "gan": 3.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795403078607,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.648,
-   "gan": 2.74,
-   "neta": 2,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795402804614,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.016,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795402779119,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.065,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795402737997,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.248,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795402737941,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.056,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795402724279,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.947,
-   "gan": 0.51,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795402724172,
-   "titulo": "Querétaro FC vs. Club Necaxa",
-   "dur": 0.101,
-   "gan": 0.62,
-   "neta": 0.01,
    "lado": "si"
   }
  ]
