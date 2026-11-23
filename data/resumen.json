@@ -1,21 +1,21 @@
 {
- "actualizado": 1795453611934,
+ "actualizado": 1795456633434,
  "inicio": 1794826057243,
  "ejecucion": {
-  "inicio": 1795450611655,
-  "fin": 1795453611934,
-  "mensajes": 13047766,
+  "inicio": 1795453633109,
+  "fin": 1795456633434,
+  "mensajes": 14907051,
   "reconexiones": 0,
-  "eventos": 557,
+  "eventos": 563,
   "errores": [],
-  "nuevos": 6,
-  "nuevosRentables": 1,
-  "nuevosNeta": 4.57
+  "nuevos": 70,
+  "nuevosRentables": 3,
+  "nuevosNeta": 7.78
  },
- "total": 6190,
- "falsos": 4293,
+ "total": 6260,
+ "falsos": 4296,
  "largos": {
-  "episodios": 21311,
+  "episodios": 21243,
   "eventos": 169,
   "dias": 7
  },
@@ -23,26 +23,26 @@
   "episodios": 32,
   "eventos": 15
  },
- "mediana": 0.344,
+ "mediana": 0.341,
  "captura": [
   {
    "s": 0.5,
-   "n": 2766,
-   "gan": 8774.45,
-   "nNeta": 864,
-   "neta": 2069.83
+   "n": 2784,
+   "gan": 8820.68,
+   "nNeta": 873,
+   "neta": 2083.82
   },
   {
    "s": 2,
-   "n": 1297,
-   "gan": 3530.98,
-   "nNeta": 335,
-   "neta": 489.01
+   "n": 1300,
+   "gan": 3547.32,
+   "nNeta": 337,
+   "neta": 496.77
   },
   {
    "s": 5,
-   "n": 725,
-   "gan": 1871.37,
+   "n": 726,
+   "gan": 1871.94,
    "nNeta": 170,
    "neta": 138.39
   },
@@ -54,31 +54,31 @@
    "neta": 35.66
   }
  ],
- "rentables": 1931,
+ "rentables": 1954,
  "porCapital": [
   {
    "capital": 500,
    "ops": 80,
-   "descartadas": 304,
+   "descartadas": 306,
    "neta": 200.28,
-   "dias": 7.22,
-   "semana": 194.29
+   "dias": 7.25,
+   "semana": 193.35
   },
   {
    "capital": 1000,
    "ops": 91,
-   "descartadas": 304,
+   "descartadas": 306,
    "neta": 315.05,
-   "dias": 7.22,
-   "semana": 305.63
+   "dias": 7.25,
+   "semana": 304.16
   },
   {
    "capital": 2000,
-   "ops": 92,
-   "descartadas": 304,
-   "neta": 451.77,
-   "dias": 7.22,
-   "semana": 438.26
+   "ops": 93,
+   "descartadas": 306,
+   "neta": 458.42,
+   "dias": 7.25,
+   "semana": 442.57
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 1,
-   "horas": 11.7,
-   "episodios": 101,
+   "horas": 12.5,
+   "episodios": 171,
    "sospechosas": 1,
-   "realistaNeta": 34.31,
+   "realistaNeta": 42.09,
    "capital": {
     "500": 13.99,
     "1000": 28.72,
-    "2000": 32.19
+    "2000": 38.84
    },
    "cumple": true
   }
@@ -250,32 +250,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6092,
-  "n": 1606,
-  "gan": 4420.72,
-  "nNeta": 406,
-  "neta": 679.51
+  "conDato": 6162,
+  "n": 1612,
+  "gan": 4442.26,
+  "nNeta": 409,
+  "neta": 687.29
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1783
+   "n": 1811
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2419
+   "n": 2449
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1252
+   "n": 1263
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 490
+   "n": 491
   },
   {
    "et": "30 s–5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795179600000,
-   "n": 15
-  },
   {
    "h": 1795183200000,
    "n": 10
@@ -648,128 +644,132 @@
   {
    "h": 1795449600000,
    "n": 6
+  },
+  {
+   "h": 1795453200000,
+   "n": 70
   }
  ],
  "recientes": [
   {
-   "inicio": 1795452332853,
-   "titulo": "Tractor Tabriz vs. Al Wasl FC",
-   "dur": 0.659,
-   "gan": 0.75,
-   "neta": 0.03,
+   "inicio": 1795456606407,
+   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
+   "dur": 0.724,
+   "gan": 1.1,
+   "neta": 0.16,
    "lado": "si"
   },
   {
-   "inicio": 1795452230494,
-   "titulo": "Tractor Tabriz vs. Al Wasl FC",
-   "dur": 0.254,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795456600473,
+   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
+   "dur": 1.348,
+   "gan": 2.7,
+   "neta": 1.13,
+   "lado": "si"
   },
   {
-   "inicio": 1795452230434,
-   "titulo": "Tractor Tabriz vs. Al Wasl FC",
-   "dur": 0.031,
-   "gan": 1.75,
+   "inicio": 1795456504190,
+   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
+   "dur": 1.313,
+   "gan": 1.34,
    "neta": 0.39,
    "lado": "no"
   },
   {
-   "inicio": 1795452230223,
-   "titulo": "Tractor Tabriz vs. Al Wasl FC",
-   "dur": 0.181,
-   "gan": 1.98,
-   "neta": 0.46,
+   "inicio": 1795456504132,
+   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
+   "dur": 0.058,
+   "gan": 1.1,
+   "neta": 0.13,
    "lado": "no"
   },
   {
-   "inicio": 1795452229222,
-   "titulo": "Tractor Tabriz vs. Al Wasl FC",
-   "dur": 0.981,
-   "gan": 4.58,
-   "neta": 2.18,
+   "inicio": 1795456502855,
+   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
+   "dur": 0.01,
+   "gan": 1.1,
+   "neta": 0.13,
    "lado": "no"
   },
   {
-   "inicio": 1795451373023,
+   "inicio": 1795456502124,
+   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
+   "dur": 0.626,
+   "gan": 1.78,
+   "neta": 0.22,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795456486869,
+   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
+   "dur": 1.634,
+   "gan": 0.78,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795456477183,
    "titulo": "Al Ain FC vs. Esteghlal FC Tehran",
-   "dur": 2.057,
-   "gan": 14.49,
-   "neta": 5.83,
-   "lado": "si"
+   "dur": 0.237,
+   "gan": 5.49,
+   "neta": 4.39,
+   "lado": "no"
   },
   {
-   "inicio": 1795448493221,
-   "titulo": "Tractor Tabriz vs. Al Wasl FC",
-   "dur": 163.448,
-   "gan": 1.27,
+   "inicio": 1795456468420,
+   "titulo": "Al Ain FC vs. Esteghlal FC Tehran",
+   "dur": 0.353,
+   "gan": 2.27,
+   "neta": 2.06,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795456462114,
+   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
+   "dur": 1.022,
+   "gan": 0.83,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795448141888,
-   "titulo": "Wadi Degla SC vs. El Ittihad SC El Iskandary",
-   "dur": 0.714,
-   "gan": 0.72,
+   "inicio": 1795456344613,
+   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
+   "dur": 0.56,
+   "gan": 1.69,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795448141835,
-   "titulo": "Wadi Degla SC vs. El Ittihad SC El Iskandary",
-   "dur": 0.023,
-   "gan": 0.52,
+   "inicio": 1795456290243,
+   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
+   "dur": 2.237,
+   "gan": 3.1,
+   "neta": 1.53,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795456287875,
+   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
+   "dur": 0.329,
+   "gan": 1.04,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795448139648,
-   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
-   "dur": 0.041,
-   "gan": 0.51,
-   "neta": 0.06,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795448138796,
-   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
-   "dur": 0.199,
-   "gan": 0.51,
-   "neta": 0.06,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795448138433,
-   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
-   "dur": 0.262,
-   "gan": 0.51,
-   "neta": 0.06,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795448138218,
-   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
-   "dur": 0.063,
+   "inicio": 1795456258695,
+   "titulo": "Al-Shamal vs. Al Ahli Saudi FC",
+   "dur": 0.39,
    "gan": 0.55,
-   "neta": 0.07,
-   "lado": "no"
+   "neta": 0,
+   "lado": "si"
   },
   {
-   "inicio": 1795448138057,
-   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
-   "dur": 0.12,
-   "gan": 0.6,
-   "neta": 0.08,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795448137301,
-   "titulo": "FK Neftchi Fargona vs. Al Hilal SFC",
-   "dur": 0.742,
-   "gan": 0.56,
-   "neta": 0.07,
-   "lado": "no"
+   "inicio": 1795455837315,
+   "titulo": "Al Ain FC vs. Esteghlal FC Tehran",
+   "dur": 2.138,
+   "gan": 10.8,
+   "neta": 6.21,
+   "lado": "si"
   }
  ]
 }
