@@ -1,21 +1,21 @@
 {
- "actualizado": 1795468701129,
- "inicio": 1794832024463,
+ "actualizado": 1795471716464,
+ "inicio": 1794835122937,
  "ejecucion": {
-  "inicio": 1795465700866,
-  "fin": 1795468701129,
-  "mensajes": 14721832,
+  "inicio": 1795468716131,
+  "fin": 1795471716464,
+  "mensajes": 13808906,
   "reconexiones": 0,
-  "eventos": 578,
+  "eventos": 565,
   "errores": [],
-  "nuevos": 103,
-  "nuevosRentables": 9,
-  "nuevosNeta": 7.78
+  "nuevos": 43,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 6471,
- "falsos": 4364,
+ "total": 6459,
+ "falsos": 4387,
  "largos": {
-  "episodios": 20983,
+  "episodios": 20977,
   "eventos": 170,
   "dias": 7
  },
@@ -23,26 +23,26 @@
   "episodios": 36,
   "eventos": 18
  },
- "mediana": 0.342,
+ "mediana": 0.34,
  "captura": [
   {
    "s": 0.5,
-   "n": 2882,
-   "gan": 8904.01,
-   "nNeta": 908,
-   "neta": 2112.9
+   "n": 2864,
+   "gan": 8935.95,
+   "nNeta": 912,
+   "neta": 2145.84
   },
   {
    "s": 2,
-   "n": 1342,
-   "gan": 3662.97,
+   "n": 1325,
+   "gan": 3648.69,
    "nNeta": 347,
    "neta": 500.89
   },
   {
    "s": 5,
-   "n": 744,
-   "gan": 1920.47,
+   "n": 738,
+   "gan": 1915.14,
    "nNeta": 174,
    "neta": 140.03
   },
@@ -54,31 +54,31 @@
    "neta": 35.66
   }
  ],
- "rentables": 2030,
+ "rentables": 2043,
  "porCapital": [
   {
    "capital": 500,
    "ops": 84,
    "descartadas": 317,
    "neta": 202.56,
-   "dias": 7.32,
-   "semana": 193.64
+   "dias": 7.36,
+   "semana": 192.72
   },
   {
    "capital": 1000,
    "ops": 95,
    "descartadas": 317,
    "neta": 317.33,
-   "dias": 7.32,
-   "semana": 303.36
+   "dias": 7.36,
+   "semana": 301.92
   },
   {
    "capital": 2000,
    "ops": 97,
    "descartadas": 317,
    "neta": 460.7,
-   "dias": 7.32,
-   "semana": 440.41
+   "dias": 7.36,
+   "semana": 438.32
   }
  ],
  "maxBloqueoH": 24,
@@ -129,9 +129,9 @@
   {
    "lunes": "2026-11-23",
    "dias": 1,
-   "horas": 15.8,
-   "episodios": 389,
-   "sospechosas": 3,
+   "horas": 16.7,
+   "episodios": 432,
+   "sospechosas": 4,
    "realistaNeta": 51.81,
    "capital": {
     "500": 16.27,
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 100,
+  "n": 101,
   "top": [
    {
     "inicio": 1795274262924,
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6371,
-  "n": 1668,
-  "gan": 4588.93,
+  "conDato": 6358,
+  "n": 1643,
+  "gan": 4568.13,
   "nNeta": 424,
   "neta": 697.01
  },
@@ -260,22 +260,22 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1862
+   "n": 1855
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2541
+   "n": 2555
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1313
+   "n": 1300
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 509
+   "n": 503
   },
   {
    "et": "30 s–5 min",
@@ -647,128 +647,128 @@
   },
   {
    "h": 1795467600000,
-   "n": 30
+   "n": 73
   }
  ],
  "recientes": [
   {
-   "inicio": 1795468672377,
-   "titulo": "AD Ceuta FC vs. UD Almería",
-   "dur": 10.697,
-   "gan": 1.64,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795468520471,
-   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
-   "dur": 0.55,
-   "gan": 0.62,
-   "neta": 0.3,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795468520295,
-   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
-   "dur": 0.04,
-   "gan": 0.81,
-   "neta": 0.3,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795468520033,
-   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
-   "dur": 0.113,
-   "gan": 0.59,
-   "neta": 0.3,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795468519920,
-   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
-   "dur": 0.088,
-   "gan": 0.63,
-   "neta": 0.23,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795468519297,
-   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
-   "dur": 0.604,
-   "gan": 1.42,
-   "neta": 0.28,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795468507377,
+   "inicio": 1795470744192,
    "titulo": "Levante UD vs. Elche CF",
-   "dur": 3.175,
-   "gan": 1.45,
+   "dur": 0.887,
+   "gan": 0.52,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795468472369,
-   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
-   "dur": 3.374,
-   "gan": 1.59,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795468470651,
-   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
-   "dur": 1.423,
-   "gan": 0.61,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795468470293,
-   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
-   "dur": 0.312,
-   "gan": 1.58,
-   "neta": 0.18,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795468469008,
-   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
-   "dur": 0.306,
-   "gan": 0.67,
+   "inicio": 1795470744101,
+   "titulo": "Levante UD vs. Elche CF",
+   "dur": 0.005,
+   "gan": 0.52,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795468468365,
-   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
-   "dur": 0.291,
+   "inicio": 1795470736600,
+   "titulo": "Levante UD vs. Elche CF",
+   "dur": 0.781,
    "gan": 0.68,
+   "neta": 0.45,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795470736560,
+   "titulo": "Levante UD vs. Elche CF",
+   "dur": 0.014,
+   "gan": 0.55,
+   "neta": 0.32,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795470734565,
+   "titulo": "Levante UD vs. Elche CF",
+   "dur": 0.167,
+   "gan": 1.15,
+   "neta": 0.57,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795470733677,
+   "titulo": "Levante UD vs. Elche CF",
+   "dur": 0.88,
+   "gan": 54.21,
+   "neta": 34.95,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795470574227,
+   "titulo": "Levante UD vs. Elche CF",
+   "dur": 0.127,
+   "gan": 1.26,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795468466522,
-   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
-   "dur": 1.189,
-   "gan": 0.59,
-   "neta": 0.06,
+   "inicio": 1795470573922,
+   "titulo": "Levante UD vs. Elche CF",
+   "dur": 0.189,
+   "gan": 1.24,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795468466109,
-   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
-   "dur": 0.409,
-   "gan": 1.21,
-   "neta": 0.11,
+   "inicio": 1795470573730,
+   "titulo": "Levante UD vs. Elche CF",
+   "dur": 0.017,
+   "gan": 1.48,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795468465401,
-   "titulo": "Gimnasia y Esgrima de La Plata vs. CA Newell's Old Boys",
-   "dur": 0.058,
-   "gan": 1.05,
-   "neta": 0.1,
+   "inicio": 1795470573431,
+   "titulo": "Levante UD vs. Elche CF",
+   "dur": 0.18,
+   "gan": 1.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795470573222,
+   "titulo": "Levante UD vs. Elche CF",
+   "dur": 0.061,
+   "gan": 1.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795470446634,
+   "titulo": "Levante UD vs. Elche CF",
+   "dur": 0.033,
+   "gan": 2,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795470415214,
+   "titulo": "Levante UD vs. Elche CF",
+   "dur": 0.169,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795470398369,
+   "titulo": "Levante UD vs. Elche CF",
+   "dur": 0.249,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795470397170,
+   "titulo": "Levante UD vs. Elche CF",
+   "dur": 0.107,
+   "gan": 0.56,
+   "neta": 0,
    "lado": "si"
   }
  ]
