@@ -1,48 +1,48 @@
 {
- "actualizado": 1795462667613,
+ "actualizado": 1795465685685,
  "inicio": 1794829078527,
  "ejecucion": {
-  "inicio": 1795459667310,
-  "fin": 1795462667614,
-  "mensajes": 15538967,
-  "reconexiones": 1,
-  "eventos": 573,
+  "inicio": 1795462685457,
+  "fin": 1795465685685,
+  "mensajes": 16129866,
+  "reconexiones": 0,
+  "eventos": 571,
   "errores": [],
-  "nuevos": 13,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.8
+  "nuevos": 50,
+  "nuevosRentables": 2,
+  "nuevosNeta": 0.69
  },
- "total": 6322,
- "falsos": 4319,
+ "total": 6372,
+ "falsos": 4340,
  "largos": {
-  "episodios": 21167,
-  "eventos": 168,
+  "episodios": 21101,
+  "eventos": 169,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 35,
-  "eventos": 17
+  "episodios": 36,
+  "eventos": 18
  },
- "mediana": 0.341,
+ "mediana": 0.34,
  "captura": [
   {
    "s": 0.5,
-   "n": 2810,
-   "gan": 8872.94,
-   "nNeta": 884,
-   "neta": 2094.7
+   "n": 2828,
+   "gan": 8943.12,
+   "nNeta": 890,
+   "neta": 2102.71
   },
   {
    "s": 2,
-   "n": 1309,
-   "gan": 3558.22,
+   "n": 1316,
+   "gan": 3595.8,
    "nNeta": 339,
    "neta": 497.15
   },
   {
    "s": 5,
-   "n": 728,
-   "gan": 1873.98,
+   "n": 731,
+   "gan": 1879.27,
    "nNeta": 170,
    "neta": 138.39
   },
@@ -54,31 +54,31 @@
    "neta": 35.66
   }
  ],
- "rentables": 1984,
+ "rentables": 1999,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 82,
-   "descartadas": 308,
-   "neta": 201.44,
-   "dias": 7.25,
-   "semana": 194.42
+   "ops": 83,
+   "descartadas": 309,
+   "neta": 201.69,
+   "dias": 7.29,
+   "semana": 193.73
   },
   {
    "capital": 1000,
-   "ops": 93,
-   "descartadas": 308,
-   "neta": 316.21,
-   "dias": 7.25,
-   "semana": 305.2
+   "ops": 94,
+   "descartadas": 309,
+   "neta": 316.46,
+   "dias": 7.29,
+   "semana": 303.97
   },
   {
    "capital": 2000,
-   "ops": 95,
-   "descartadas": 308,
-   "neta": 459.58,
-   "dias": 7.25,
-   "semana": 443.57
+   "ops": 96,
+   "descartadas": 309,
+   "neta": 459.83,
+   "dias": 7.29,
+   "semana": 441.69
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 1,
-   "horas": 14.2,
-   "episodios": 236,
-   "sospechosas": 1,
-   "realistaNeta": 43.34,
+   "horas": 15,
+   "episodios": 286,
+   "sospechosas": 2,
+   "realistaNeta": 44.03,
    "capital": {
-    "500": 15.15,
-    "1000": 29.88,
-    "2000": 40
+    "500": 15.4,
+    "1000": 30.13,
+    "2000": 40.25
    },
    "cumple": true
   }
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 98,
+  "n": 99,
   "top": [
    {
     "inicio": 1795274262924,
@@ -227,6 +227,16 @@
     "ret": 49.6
    },
    {
+    "inicio": 1795463273812,
+    "titulo": "Al Quwa Al Jawiya vs. Al Gharafa SC",
+    "lado": "si",
+    "dur": 1.329,
+    "gan": 23.41,
+    "neta": 18.04,
+    "costo": 186.99,
+    "ret": 12.5
+   },
+   {
     "inicio": 1795279498803,
     "titulo": "Oldham Athletic AFC vs. Exeter City FC",
     "lado": "si",
@@ -235,47 +245,37 @@
     "neta": 21.34,
     "costo": 46.9,
     "ret": 49.3
-   },
-   {
-    "inicio": 1795013651090,
-    "titulo": "Highest temperature in Seattle on November 18?",
-    "lado": "si",
-    "dur": 0.083,
-    "gan": 20.72,
-    "neta": 18.76,
-    "costo": 74.6,
-    "ret": 27.8
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6224,
-  "n": 1624,
-  "gan": 4459.18,
-  "nNeta": 413,
-  "neta": 688.54
+  "conDato": 6273,
+  "n": 1637,
+  "gan": 4509.49,
+  "nNeta": 415,
+  "neta": 689.23
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1832
+   "n": 1843
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2477
+   "n": 2502
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1274
+   "n": 1285
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 493
+   "n": 496
   },
   {
    "et": "30 s–5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795190400000,
-   "n": 25
-  },
   {
    "h": 1795194000000,
    "n": 110
@@ -647,128 +643,132 @@
   },
   {
    "h": 1795460400000,
-   "n": 13
+   "n": 36
+  },
+  {
+   "h": 1795464000000,
+   "n": 27
   }
  ],
  "recientes": [
   {
-   "inicio": 1795462573507,
-   "titulo": "Al Quwa Al Jawiya vs. Al Gharafa SC",
-   "dur": 0.501,
-   "gan": 1.08,
-   "neta": 0.6,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795462508263,
-   "titulo": "Al Quwa Al Jawiya vs. Al Gharafa SC",
-   "dur": 0.038,
-   "gan": 0.8,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795462462589,
-   "titulo": "Hammarby IF vs. IFK Goteborg",
-   "dur": 0.01,
-   "gan": 0.75,
-   "neta": 0.07,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795462010555,
-   "titulo": "Orgryte IS vs. Kalmar FF",
-   "dur": 0.741,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795462008801,
-   "titulo": "Orgryte IS vs. Kalmar FF",
-   "dur": 1.132,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795462006230,
-   "titulo": "Orgryte IS vs. Kalmar FF",
-   "dur": 1.6,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795462003282,
-   "titulo": "Orgryte IS vs. Kalmar FF",
-   "dur": 2.753,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795461645484,
-   "titulo": "Orgryte IS vs. Kalmar FF",
-   "dur": 1.686,
-   "gan": 0.55,
-   "neta": 0.23,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795461645029,
-   "titulo": "Orgryte IS vs. Kalmar FF",
-   "dur": 0.008,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795461569069,
-   "titulo": "Al-Ittihad Club vs. Pakhtakor",
-   "dur": 0.546,
-   "gan": 0.63,
-   "neta": 0.17,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795461427819,
-   "titulo": "Brøndby IF vs. FC Midtjylland",
-   "dur": 0.011,
-   "gan": 2.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795461013148,
-   "titulo": "OpenAI’s valuation end of November 2026?",
-   "dur": 0.031,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795460968586,
-   "titulo": "Sepsi OSK vs. FC Rapid 1923",
-   "dur": 0.616,
+   "inicio": 1795465681644,
+   "titulo": "AC Monza vs. ACF Fiorentina",
+   "dur": 0.38,
    "gan": 0.56,
-   "neta": 0.31,
+   "neta": 0.07,
    "lado": "no"
   },
   {
-   "inicio": 1795459598647,
-   "titulo": "Rams Başakşehir FK vs. Çorum FK",
-   "dur": 0.882,
-   "gan": 2.26,
-   "neta": 0.07,
+   "inicio": 1795465639933,
+   "titulo": "CDT Real Oruro vs. Club Guabirá",
+   "dur": 0.829,
+   "gan": 0.92,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795459589322,
-   "titulo": "Rams Başakşehir FK vs. Çorum FK",
-   "dur": 3.122,
-   "gan": 0.75,
-   "neta": 0.36,
+   "inicio": 1795465618679,
+   "titulo": "CDT Real Oruro vs. Club Guabirá",
+   "dur": 0.111,
+   "gan": 1.21,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795465510495,
+   "titulo": "Brentford FC vs. Everton FC",
+   "dur": 0.646,
+   "gan": 0.78,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795465510275,
+   "titulo": "Brentford FC vs. Everton FC",
+   "dur": 0.152,
+   "gan": 4.45,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795465510259,
+   "titulo": "Brentford FC vs. Everton FC",
+   "dur": 0.009,
+   "gan": 1.26,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795465379634,
+   "titulo": "Brentford FC vs. Everton FC",
+   "dur": 5.044,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795465335065,
+   "titulo": "Brentford FC vs. Everton FC",
+   "dur": 0.027,
+   "gan": 1.05,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795465335002,
+   "titulo": "Brentford FC vs. Everton FC",
+   "dur": 0.032,
+   "gan": 0.9,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795465334794,
+   "titulo": "Brentford FC vs. Everton FC",
+   "dur": 0.175,
+   "gan": 0.86,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795465334702,
+   "titulo": "Brentford FC vs. Everton FC",
+   "dur": 0.054,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795465334645,
+   "titulo": "Brentford FC vs. Everton FC",
+   "dur": 0.011,
+   "gan": 2,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795465187650,
+   "titulo": "AD Ceuta FC vs. UD Almería",
+   "dur": 2.797,
+   "gan": 0.86,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795465106630,
+   "titulo": "Brentford FC vs. Everton FC",
+   "dur": 2.718,
+   "gan": 36.88,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795465038263,
+   "titulo": "AC Monza vs. ACF Fiorentina",
+   "dur": 1.819,
+   "gan": 1.1,
+   "neta": 0,
    "lado": "si"
   }
  ]
