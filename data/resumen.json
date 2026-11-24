@@ -1,48 +1,48 @@
 {
- "actualizado": 1795541133072,
+ "actualizado": 1795544151888,
  "inicio": 1794904631654,
  "ejecucion": {
-  "inicio": 1795538132838,
-  "fin": 1795541133072,
-  "mensajes": 12004780,
-  "reconexiones": 0,
-  "eventos": 553,
+  "inicio": 1795541151540,
+  "fin": 1795544151888,
+  "mensajes": 11479759,
+  "reconexiones": 1,
+  "eventos": 546,
   "errores": [],
-  "nuevos": 11,
-  "nuevosRentables": 4,
-  "nuevosNeta": 11.73
+  "nuevos": 12,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.45
  },
- "total": 7779,
- "falsos": 4399,
+ "total": 7790,
+ "falsos": 4406,
  "largos": {
-  "episodios": 19796,
-  "eventos": 167,
+  "episodios": 19783,
+  "eventos": 168,
   "dias": 7
  },
  "enEspera": {
   "episodios": 35,
   "eventos": 17
  },
- "mediana": 0.228,
+ "mediana": 0.227,
  "captura": [
   {
    "s": 0.5,
-   "n": 2970,
-   "gan": 8893.89,
-   "nNeta": 943,
-   "neta": 2122.16
+   "n": 2972,
+   "gan": 8897.24,
+   "nNeta": 944,
+   "neta": 2122.61
   },
   {
    "s": 2,
-   "n": 1349,
-   "gan": 3575.81,
+   "n": 1350,
+   "gan": 3578.39,
    "nNeta": 374,
    "neta": 483.5
   },
   {
    "s": 5,
-   "n": 777,
-   "gan": 1916.98,
+   "n": 778,
+   "gan": 1919.56,
    "nNeta": 199,
    "neta": 137.21
   },
@@ -54,31 +54,31 @@
    "neta": 39.19
   }
  ],
- "rentables": 2132,
+ "rentables": 2135,
  "porCapital": [
   {
    "capital": 500,
    "ops": 90,
-   "descartadas": 345,
+   "descartadas": 346,
    "neta": 213.23,
    "dias": 7.33,
-   "semana": 203.56
+   "semana": 203.52
   },
   {
    "capital": 1000,
    "ops": 102,
-   "descartadas": 345,
+   "descartadas": 346,
    "neta": 327.9,
    "dias": 7.33,
-   "semana": 313.02
+   "semana": 312.97
   },
   {
    "capital": 2000,
    "ops": 104,
-   "descartadas": 345,
+   "descartadas": 346,
    "neta": 471.27,
    "dias": 7.33,
-   "semana": 449.88
+   "semana": 449.81
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 2,
-   "horas": 35.8,
-   "episodios": 2244,
+   "horas": 36.7,
+   "episodios": 2256,
    "sospechosas": 8,
-   "realistaNeta": 98.8,
+   "realistaNeta": 99.25,
    "capital": {
     "500": 39.14,
     "1000": 58.46,
@@ -250,22 +250,22 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7678,
-  "n": 1770,
-  "gan": 4623.3,
-  "nNeta": 459,
-  "neta": 720.82
+  "conDato": 7689,
+  "n": 1772,
+  "gan": 4626.65,
+  "nNeta": 460,
+  "neta": 721.27
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2699
+   "n": 2706
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3002
+   "n": 3005
   },
   {
    "et": "1–5 s",
@@ -275,7 +275,7 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 517
+   "n": 518
   },
   {
    "et": "30 s–5 min",
@@ -339,6 +339,13 @@
    "mediana": 0.104
   },
   {
+   "titulo": "Spain General Election: BNG # of seats?",
+   "n": 98,
+   "gan": 76.39,
+   "neta": 0,
+   "mediana": 0.51
+  },
+  {
    "titulo": "SC Internacional vs. EC Vitória",
    "n": 97,
    "gan": 158.07,
@@ -351,20 +358,9 @@
    "gan": 433.46,
    "neta": 26.52,
    "mediana": 0.71
-  },
-  {
-   "titulo": "Spain General Election: BNG # of seats?",
-   "n": 92,
-   "gan": 72.73,
-   "neta": 0,
-   "mediana": 0.574
   }
  ],
  "porHora": [
-  {
-   "h": 1795269600000,
-   "n": 112
-  },
   {
    "h": 1795273200000,
    "n": 171
@@ -647,10 +643,110 @@
   },
   {
    "h": 1795539600000,
-   "n": 4
+   "n": 5
+  },
+  {
+   "h": 1795543200000,
+   "n": 11
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795544143624,
+   "titulo": "Spain General Election: BNG # of seats?",
+   "dur": 0.058,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795544085851,
+   "titulo": "El Masry SC vs. Asyut Petroleum SC",
+   "dur": 0.125,
+   "gan": 0.56,
+   "neta": 0.06,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795544085477,
+   "titulo": "El Masry SC vs. Asyut Petroleum SC",
+   "dur": 0.188,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795544085278,
+   "titulo": "El Masry SC vs. Asyut Petroleum SC",
+   "dur": 0.183,
+   "gan": 0.72,
+   "neta": 0.13,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795544048863,
+   "titulo": "Spain General Election: BNG # of seats?",
+   "dur": 0.001,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795543946462,
+   "titulo": "Spain General Election: BNG # of seats?",
+   "dur": 0.011,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795543915409,
+   "titulo": "Spain General Election: BNG # of seats?",
+   "dur": 0.03,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795543808404,
+   "titulo": "Spain General Election: BNG # of seats?",
+   "dur": 0.017,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795543473590,
+   "titulo": "Spain General Election: BNG # of seats?",
+   "dur": 0.007,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795543361961,
+   "titulo": "OpenAI’s valuation end of November 2026?",
+   "dur": 0.544,
+   "gan": 0.77,
+   "neta": 0.45,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795543333119,
+   "titulo": "Lowest temperature in Seoul (Incheon) on November 26?",
+   "dur": 0.082,
+   "gan": 0.56,
+   "neta": 0.48,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795542588976,
+   "titulo": "FK Bodø/Glimt vs. LASK Linz",
+   "dur": 6.37,
+   "gan": 3.21,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1795540806708,
    "titulo": "Shabab Al Ahli Dubai vs. Al Qadsiah",
@@ -673,102 +769,6 @@
    "dur": 0.399,
    "gan": 0.5,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795539757965,
-   "titulo": "Smouha SC vs. National Bank of Egypt Club",
-   "dur": 2.53,
-   "gan": 1.14,
-   "neta": 0.9,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795539511035,
-   "titulo": "Smouha SC vs. National Bank of Egypt Club",
-   "dur": 1.003,
-   "gan": 1.33,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795539504060,
-   "titulo": "Smouha SC vs. National Bank of Egypt Club",
-   "dur": 5.689,
-   "gan": 0.63,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795539477590,
-   "titulo": "Smouha SC vs. National Bank of Egypt Club",
-   "dur": 2.222,
-   "gan": 12.19,
-   "neta": 9.96,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795539318064,
-   "titulo": "Highest temperature in Sao Paulo on November 24?",
-   "dur": 0.905,
-   "gan": 0.9,
-   "neta": 0.89,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795538966793,
-   "titulo": "FK Shakhtar Donetsk vs. Fenerbahçe SK",
-   "dur": 0.261,
-   "gan": 0.98,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795538965266,
-   "titulo": "FK Shakhtar Donetsk vs. Fenerbahçe SK",
-   "dur": 1.512,
-   "gan": 4.04,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795538964866,
-   "titulo": "FK Shakhtar Donetsk vs. Fenerbahçe SK",
-   "dur": 0.396,
-   "gan": 5.94,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795537974805,
-   "titulo": "Smouha SC vs. National Bank of Egypt Club",
-   "dur": 1.548,
-   "gan": 0.79,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795537969848,
-   "titulo": "Smouha SC vs. National Bank of Egypt Club",
-   "dur": 1.105,
-   "gan": 0.8,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795537229676,
-   "titulo": "Smouha SC vs. National Bank of Egypt Club",
-   "dur": 0.063,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795536784800,
-   "titulo": "Shabab Al Ahli Dubai vs. Al Qadsiah",
-   "dur": 0.796,
-   "gan": 0.5,
-   "neta": 0.19,
    "lado": "si"
   }
  ]
