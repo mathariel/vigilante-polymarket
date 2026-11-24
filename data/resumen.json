@@ -1,21 +1,21 @@
 {
- "actualizado": 1795522996674,
+ "actualizado": 1795526016293,
  "inicio": 1794904631654,
  "ejecucion": {
-  "inicio": 1795519996440,
-  "fin": 1795522996674,
-  "mensajes": 10947399,
-  "reconexiones": 7,
-  "eventos": 555,
+  "inicio": 1795523015950,
+  "fin": 1795526016293,
+  "mensajes": 11799386,
+  "reconexiones": 0,
+  "eventos": 559,
   "errores": [],
-  "nuevos": 25,
-  "nuevosRentables": 5,
-  "nuevosNeta": 5.99
+  "nuevos": 12,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 7717,
- "falsos": 4345,
+ "total": 7728,
+ "falsos": 4351,
  "largos": {
-  "episodios": 19885,
+  "episodios": 19872,
   "eventos": 167,
   "dias": 7
  },
@@ -27,22 +27,22 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2948,
-   "gan": 8856.46,
+   "n": 2950,
+   "gan": 8853.72,
    "nNeta": 932,
    "neta": 2105.76
   },
   {
    "s": 2,
-   "n": 1340,
-   "gan": 3552.97,
+   "n": 1341,
+   "gan": 3549.54,
    "nNeta": 367,
    "neta": 469.21
   },
   {
    "s": 5,
    "n": 774,
-   "gan": 1913.89,
+   "gan": 1909.66,
    "nNeta": 197,
    "neta": 136.1
   },
@@ -54,31 +54,31 @@
    "neta": 39.19
   }
  ],
- "rentables": 2105,
+ "rentables": 2106,
  "porCapital": [
   {
    "capital": 500,
    "ops": 88,
    "descartadas": 342,
    "neta": 202.37,
-   "dias": 7.14,
-   "semana": 198.29
+   "dias": 7.16,
+   "semana": 197.91
   },
   {
    "capital": 1000,
    "ops": 98,
    "descartadas": 342,
    "neta": 314.6,
-   "dias": 7.14,
-   "semana": 308.25
+   "dias": 7.16,
+   "semana": 307.66
   },
   {
    "capital": 2000,
    "ops": 100,
    "descartadas": 342,
    "neta": 457.97,
-   "dias": 7.14,
-   "semana": 448.72
+   "dias": 7.16,
+   "semana": 447.87
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 2,
-   "horas": 30.8,
-   "episodios": 2181,
+   "horas": 31.7,
+   "episodios": 2193,
    "sospechosas": 7,
    "realistaNeta": 84.51,
    "capital": {
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7617,
-  "n": 1758,
-  "gan": 4595.07,
+  "conDato": 7628,
+  "n": 1759,
+  "gan": 4591.64,
   "nNeta": 452,
   "neta": 706.53
  },
@@ -260,17 +260,17 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2686
+   "n": 2689
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2968
+   "n": 2975
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1278
+   "n": 1279
   },
   {
    "et": "5–30 s",
@@ -361,14 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795248000000,
-   "n": 7
-  },
-  {
-   "h": 1795251600000,
-   "n": 7
-  },
   {
    "h": 1795255200000,
    "n": 44
@@ -648,9 +640,113 @@
   {
    "h": 1795518000000,
    "n": 61
+  },
+  {
+   "h": 1795521600000,
+   "n": 11
+  },
+  {
+   "h": 1795525200000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795525211108,
+   "titulo": "Shanghai Port FC vs. Buriram United",
+   "dur": 5.617,
+   "gan": 1.02,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795525189832,
+   "titulo": "Cong An Ha Noi FC vs. Vissel Kobe",
+   "dur": 0.474,
+   "gan": 0.95,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795525189751,
+   "titulo": "Cong An Ha Noi FC vs. Vissel Kobe",
+   "dur": 0.084,
+   "gan": 11.12,
+   "neta": 4.87,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795525123246,
+   "titulo": "Shanghai Port FC vs. Buriram United",
+   "dur": 0.193,
+   "gan": 0.89,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795525122997,
+   "titulo": "Shanghai Port FC vs. Buriram United",
+   "dur": 0.149,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795525122703,
+   "titulo": "Shanghai Port FC vs. Buriram United",
+   "dur": 0.008,
+   "gan": 0.9,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795525122351,
+   "titulo": "Shanghai Port FC vs. Buriram United",
+   "dur": 0.25,
+   "gan": 0.88,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795524492970,
+   "titulo": "Shanghai Port FC vs. Buriram United",
+   "dur": 0.086,
+   "gan": 14.82,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795524213077,
+   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
+   "dur": 3.053,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795524035929,
+   "titulo": "Millonarios FC vs. CA Bucaramanga",
+   "dur": 0.19,
+   "gan": 1.02,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795523146612,
+   "titulo": "Cong An Ha Noi FC vs. Vissel Kobe",
+   "dur": 0.641,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795523076716,
+   "titulo": "Cong An Ha Noi FC vs. Vissel Kobe",
+   "dur": 0.179,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1795521296249,
    "titulo": "Kyoto Sanga FC vs. FC Pohang Steelers",
@@ -674,102 +770,6 @@
    "gan": 0.68,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1795520558648,
-   "titulo": "San Jose Earthquakes vs. Houston Dynamo",
-   "dur": 0.411,
-   "gan": 9.44,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795520538159,
-   "titulo": "San Jose Earthquakes vs. Houston Dynamo",
-   "dur": 0.115,
-   "gan": 9,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795520505083,
-   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
-   "dur": 7.337,
-   "gan": 7.76,
-   "neta": 3.76,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795520460598,
-   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
-   "dur": 36.057,
-   "gan": 4.51,
-   "neta": 0.9,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795520448549,
-   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
-   "dur": 1.3,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795520447179,
-   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
-   "dur": 0.192,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795520446686,
-   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
-   "dur": 0.24,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795520446037,
-   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
-   "dur": 0.288,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795520443596,
-   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
-   "dur": 2.326,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795520439108,
-   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
-   "dur": 4.288,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795520437108,
-   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
-   "dur": 0.113,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795520286305,
-   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
-   "dur": 4.428,
-   "gan": 1.02,
-   "neta": 0.29,
-   "lado": "no"
   }
  ]
 }
