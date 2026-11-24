@@ -1,84 +1,84 @@
 {
- "actualizado": 1795492823362,
- "inicio": 1794847279095,
+ "actualizado": 1795495837991,
+ "inicio": 1794850299050,
  "ejecucion": {
-  "inicio": 1795489823091,
-  "fin": 1795492823362,
-  "mensajes": 11374039,
+  "inicio": 1795492837667,
+  "fin": 1795495837991,
+  "mensajes": 10786426,
   "reconexiones": 0,
-  "eventos": 517,
+  "eventos": 528,
   "errores": [],
-  "nuevos": 14,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 59,
+  "nuevosRentables": 17,
+  "nuevosNeta": 4.94
  },
- "total": 6574,
- "falsos": 4401,
+ "total": 6613,
+ "falsos": 4422,
  "largos": {
-  "episodios": 20900,
-  "eventos": 171,
+  "episodios": 20848,
+  "eventos": 172,
   "dias": 7
  },
  "enEspera": {
   "episodios": 36,
   "eventos": 18
  },
- "mediana": 0.334,
+ "mediana": 0.338,
  "captura": [
   {
    "s": 0.5,
-   "n": 2883,
-   "gan": 8858.49,
-   "nNeta": 934,
-   "neta": 2115.29
+   "n": 2911,
+   "gan": 8879.34,
+   "nNeta": 944,
+   "neta": 2114
   },
   {
    "s": 2,
-   "n": 1335,
-   "gan": 3573.13,
-   "nNeta": 355,
-   "neta": 463.39
+   "n": 1354,
+   "gan": 3581.74,
+   "nNeta": 367,
+   "neta": 464.27
   },
   {
    "s": 5,
-   "n": 747,
-   "gan": 1885.53,
-   "nNeta": 181,
-   "neta": 128.02
+   "n": 766,
+   "gan": 1898.44,
+   "nNeta": 195,
+   "neta": 132.45
   },
   {
    "s": 30,
-   "n": 237,
-   "gan": 535.54,
-   "nNeta": 21,
-   "neta": 35.72
+   "n": 250,
+   "gan": 545.42,
+   "nNeta": 31,
+   "neta": 39.12
   }
  ],
- "rentables": 2104,
+ "rentables": 2111,
  "porCapital": [
   {
    "capital": 500,
    "ops": 89,
-   "descartadas": 328,
+   "descartadas": 342,
    "neta": 199.1,
-   "dias": 7.43,
-   "semana": 187.53
+   "dias": 7.44,
+   "semana": 187.38
   },
   {
    "capital": 1000,
    "ops": 99,
-   "descartadas": 328,
+   "descartadas": 342,
    "neta": 309.17,
-   "dias": 7.43,
-   "semana": 291.21
+   "dias": 7.44,
+   "semana": 290.97
   },
   {
    "capital": 2000,
    "ops": 101,
-   "descartadas": 328,
+   "descartadas": 342,
    "neta": 452.54,
-   "dias": 7.43,
-   "semana": 426.25
+   "dias": 7.44,
+   "semana": 425.9
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 1,
-   "horas": 22.5,
-   "episodios": 782,
+   "horas": 23.3,
+   "episodios": 843,
    "sospechosas": 7,
-   "realistaNeta": 68.71,
+   "realistaNeta": 73.65,
    "capital": {
     "500": 22.16,
     "1000": 36.89,
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 102,
+  "n": 100,
   "top": [
    {
     "inicio": 1795274262924,
@@ -250,42 +250,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6472,
-  "n": 1659,
-  "gan": 4528.39,
-  "nNeta": 439,
-  "neta": 697.26
+  "conDato": 6513,
+  "n": 1693,
+  "gan": 4560.12,
+  "nNeta": 453,
+  "neta": 701.14
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1893
+   "n": 1894
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2618
+   "n": 2638
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1305
+   "n": 1304
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 510
+   "n": 516
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 141
+   "n": 150
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 96
+   "n": 100
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795219200000,
-   "n": 65
-  },
   {
    "h": 1795222800000,
    "n": 15
@@ -648,127 +644,131 @@
   {
    "h": 1795489200000,
    "n": 28
+  },
+  {
+   "h": 1795492800000,
+   "n": 61
   }
  ],
  "recientes": [
   {
-   "inicio": 1795489819878,
+   "inicio": 1795494498574,
    "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 3003.216,
-   "gan": 0.72,
+   "dur": 1339.095,
+   "gan": 0.7,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795489824367,
+   "inicio": 1795492837276,
    "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 2998.727,
-   "gan": 2.41,
+   "dur": 3000.393,
+   "gan": 2.09,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795492776319,
-   "titulo": "Highest temperature in Manila on November 24?",
-   "dur": 0.025,
-   "gan": 0.73,
-   "neta": 0.7,
+   "inicio": 1795495605157,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 16.749,
+   "gan": 0.53,
+   "neta": 0.23,
    "lado": "si"
   },
   {
-   "inicio": 1795492776213,
-   "titulo": "Highest temperature in Manila on November 24?",
-   "dur": 0.095,
-   "gan": 0.6,
-   "neta": 0.57,
+   "inicio": 1795495600263,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 4.858,
+   "gan": 0.53,
+   "neta": 0.23,
    "lado": "si"
   },
   {
-   "inicio": 1795492452122,
-   "titulo": "Highest temperature in Hong Kong on November 24?",
-   "dur": 0.017,
-   "gan": 6.62,
-   "neta": 5.94,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795490266843,
-   "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 6.005,
+   "inicio": 1795495595261,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 4.741,
    "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
+   "neta": 0.23,
+   "lado": "si"
   },
   {
-   "inicio": 1795490262256,
-   "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 0.004,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795495582011,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 12.947,
+   "gan": 0.52,
+   "neta": 0.19,
+   "lado": "si"
   },
   {
-   "inicio": 1795490195771,
-   "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 0.137,
-   "gan": 0.97,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795495408848,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 173.107,
+   "gan": 0.7,
+   "neta": 0.35,
+   "lado": "si"
   },
   {
-   "inicio": 1795490184096,
-   "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 0.195,
+   "inicio": 1795495431734,
+   "titulo": "Highest temperature in Shenzhen on November 24?",
+   "dur": 0.046,
+   "gan": 0.64,
+   "neta": 0.54,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795495408372,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 0.414,
+   "gan": 0.64,
+   "neta": 0.31,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795494834559,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 573.682,
+   "gan": 0.58,
+   "neta": 0.3,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795494735479,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 97.85,
+   "gan": 0.58,
+   "neta": 0.3,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795494734682,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 0.021,
+   "gan": 0.75,
+   "neta": 0.35,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795494668235,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 65.989,
    "gan": 0.65,
-   "neta": 0.08,
-   "lado": "no"
+   "neta": 0.36,
+   "lado": "si"
   },
   {
-   "inicio": 1795490183875,
-   "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 0.203,
-   "gan": 0.67,
-   "neta": 0.06,
-   "lado": "no"
+   "inicio": 1795494500541,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 166.453,
+   "gan": 0.62,
+   "neta": 0.33,
+   "lado": "si"
   },
   {
-   "inicio": 1795490183873,
-   "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 0.001,
-   "gan": 0.5,
-   "neta": 0.06,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795490174813,
-   "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 0.917,
-   "gan": 0.74,
-   "neta": 0.01,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795489955641,
-   "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 2.269,
+   "inicio": 1795494394633,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 104.651,
    "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795489950176,
-   "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 0.53,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795489948198,
-   "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 1.516,
-   "gan": 0.5,
-   "neta": 0,
+   "neta": 0.32,
    "lado": "si"
   }
  ]
