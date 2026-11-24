@@ -1,21 +1,21 @@
 {
- "actualizado": 1795504885125,
- "inicio": 1794859341046,
+ "actualizado": 1795507899646,
+ "inicio": 1794862346263,
  "ejecucion": {
-  "inicio": 1795501884816,
-  "fin": 1795504885125,
-  "mensajes": 10240765,
+  "inicio": 1795504899314,
+  "fin": 1795507899646,
+  "mensajes": 10532196,
   "reconexiones": 0,
-  "eventos": 544,
+  "eventos": 545,
   "errores": [],
-  "nuevos": 1,
+  "nuevos": 12,
   "nuevosRentables": 1,
-  "nuevosNeta": 0.06
+  "nuevosNeta": 0.22
  },
  "total": 6563,
- "falsos": 4387,
+ "falsos": 4367,
  "largos": {
-  "episodios": 20957,
+  "episodios": 20983,
   "eventos": 172,
   "dias": 7
  },
@@ -23,38 +23,38 @@
   "episodios": 35,
   "eventos": 17
  },
- "mediana": 0.336,
+ "mediana": 0.334,
  "captura": [
   {
    "s": 0.5,
-   "n": 2881,
-   "gan": 8815.17,
-   "nNeta": 937,
-   "neta": 2102.97
+   "n": 2875,
+   "gan": 8809.34,
+   "nNeta": 934,
+   "neta": 2101.11
   },
   {
    "s": 2,
    "n": 1347,
-   "gan": 3557.19,
-   "nNeta": 368,
-   "neta": 466.42
+   "gan": 3559.41,
+   "nNeta": 367,
+   "neta": 465.61
   },
   {
    "s": 5,
-   "n": 767,
-   "gan": 1897.62,
+   "n": 769,
+   "gan": 1901.89,
    "nNeta": 195,
    "neta": 132.17
   },
   {
    "s": 30,
-   "n": 256,
-   "gan": 558.36,
+   "n": 258,
+   "gan": 562.63,
    "nNeta": 32,
    "neta": 39.18
   }
  ],
- "rentables": 2095,
+ "rentables": 2098,
  "porCapital": [
   {
    "capital": 500,
@@ -62,7 +62,7 @@
    "descartadas": 341,
    "neta": 200.78,
    "dias": 7.43,
-   "semana": 189.24
+   "semana": 189.05
   },
   {
    "capital": 1000,
@@ -70,7 +70,7 @@
    "descartadas": 341,
    "neta": 310.85,
    "dias": 7.43,
-   "semana": 293
+   "semana": 292.71
   },
   {
    "capital": 2000,
@@ -78,7 +78,7 @@
    "descartadas": 341,
    "neta": 454.22,
    "dias": 7.43,
-   "semana": 428.13
+   "semana": 427.7
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 2,
-   "horas": 25.8,
-   "episodios": 851,
+   "horas": 26.7,
+   "episodios": 864,
    "sospechosas": 7,
-   "realistaNeta": 76.14,
+   "realistaNeta": 76.36,
    "capital": {
     "500": 24.59,
     "1000": 39.32,
@@ -251,26 +251,26 @@
  "realista": {
   "reaccion": 0.5,
   "conDato": 6463,
-  "n": 1678,
-  "gan": 4528.42,
+  "n": 1679,
+  "gan": 4531.22,
   "nNeta": 452,
-  "neta": 702.5
+  "neta": 701.91
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1883
+   "n": 1885
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2619
+   "n": 2618
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1283
+   "n": 1280
   },
   {
    "et": "5–30 s",
@@ -285,7 +285,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 107
+   "n": 109
   }
  ],
  "porEvento": [
@@ -361,14 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795230000000,
-   "n": 38
-  },
-  {
-   "h": 1795233600000,
-   "n": 78
-  },
   {
    "h": 1795237200000,
    "n": 52
@@ -648,9 +640,121 @@
   {
    "h": 1795500000000,
    "n": 2
+  },
+  {
+   "h": 1795503600000,
+   "n": 10
+  },
+  {
+   "h": 1795507200000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795504899775,
+   "titulo": "Spain General Election: BNG # of seats?",
+   "dur": 2999.542,
+   "gan": 1.1,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795507851687,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 0.021,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795507723796,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 0.207,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795507723683,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 0.031,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795504892650,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 2499.246,
+   "gan": 3.17,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795506990124,
+   "titulo": "Newcastle United Jets vs. Kashiwa Reysol",
+   "dur": 0.193,
+   "gan": 1.18,
+   "neta": 0.45,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795506958683,
+   "titulo": "Newcastle United Jets vs. Kashiwa Reysol",
+   "dur": 0.262,
+   "gan": 1.2,
+   "neta": 0.46,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795506952973,
+   "titulo": "Newcastle United Jets vs. Kashiwa Reysol",
+   "dur": 1.944,
+   "gan": 1.58,
+   "neta": 0.6,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795506940556,
+   "titulo": "Newcastle United Jets vs. Kashiwa Reysol",
+   "dur": 1.183,
+   "gan": 1.6,
+   "neta": 0.61,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795506761920,
+   "titulo": "Highest temperature in Wuhan on November 24?",
+   "dur": 0.016,
+   "gan": 0.59,
+   "neta": 0.54,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795506681932,
+   "titulo": "Newcastle United Jets vs. Kashiwa Reysol",
+   "dur": 0.413,
+   "gan": 0.57,
+   "neta": 0.42,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795506681779,
+   "titulo": "Newcastle United Jets vs. Kashiwa Reysol",
+   "dur": 0.026,
+   "gan": 0.59,
+   "neta": 0.31,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795506681345,
+   "titulo": "Newcastle United Jets vs. Kashiwa Reysol",
+   "dur": 0.196,
+   "gan": 1,
+   "neta": 0.66,
+   "lado": "no"
+  },
   {
    "inicio": 1795501880050,
    "titulo": "Spain General Election: BNG # of seats?",
@@ -665,110 +769,6 @@
    "dur": 2998.121,
    "gan": 3.39,
    "neta": 0.06,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795498868340,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 2996.951,
-   "gan": 2.2,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795498868155,
-   "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 2997.136,
-   "gan": 0.82,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795499199073,
-   "titulo": "Spain General Election: Turnout",
-   "dur": 2391.866,
-   "gan": 2.98,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795495744435,
-   "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 3107.603,
-   "gan": 0.82,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795495839465,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 3012.573,
-   "gan": 2.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795497388151,
-   "titulo": "Highest temperature in Hong Kong on November 24?",
-   "dur": 2.735,
-   "gan": 18.1,
-   "neta": 17.67,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795494498574,
-   "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 1339.095,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795492837276,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 3000.393,
-   "gan": 2.09,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795495605157,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 16.749,
-   "gan": 0.53,
-   "neta": 0.23,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795495600263,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 4.858,
-   "gan": 0.53,
-   "neta": 0.23,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795495595261,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 4.741,
-   "gan": 0.51,
-   "neta": 0.23,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795495582011,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 12.947,
-   "gan": 0.52,
-   "neta": 0.19,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795495408848,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 173.107,
-   "gan": 0.7,
-   "neta": 0.35,
    "lado": "si"
   }
  ]
