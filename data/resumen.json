@@ -1,21 +1,21 @@
 {
- "actualizado": 1795526016293,
+ "actualizado": 1795529036821,
  "inicio": 1794904631654,
  "ejecucion": {
-  "inicio": 1795523015950,
-  "fin": 1795526016293,
-  "mensajes": 11799386,
+  "inicio": 1795526036592,
+  "fin": 1795529036821,
+  "mensajes": 12653120,
   "reconexiones": 0,
-  "eventos": 559,
+  "eventos": 555,
   "errores": [],
-  "nuevos": 12,
+  "nuevos": 3,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 7728,
- "falsos": 4351,
+ "total": 7731,
+ "falsos": 4362,
  "largos": {
-  "episodios": 19872,
+  "episodios": 19862,
   "eventos": 167,
   "dias": 7
  },
@@ -54,31 +54,31 @@
    "neta": 39.19
   }
  ],
- "rentables": 2106,
+ "rentables": 2108,
  "porCapital": [
   {
    "capital": 500,
    "ops": 88,
    "descartadas": 342,
    "neta": 202.37,
-   "dias": 7.16,
-   "semana": 197.91
+   "dias": 7.19,
+   "semana": 196.95
   },
   {
    "capital": 1000,
    "ops": 98,
    "descartadas": 342,
    "neta": 314.6,
-   "dias": 7.16,
-   "semana": 307.66
+   "dias": 7.19,
+   "semana": 306.17
   },
   {
    "capital": 2000,
    "ops": 100,
    "descartadas": 342,
    "neta": 457.97,
-   "dias": 7.16,
-   "semana": 447.87
+   "dias": 7.19,
+   "semana": 445.69
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 2,
-   "horas": 31.7,
-   "episodios": 2193,
+   "horas": 32.5,
+   "episodios": 2196,
    "sospechosas": 7,
    "realistaNeta": 84.51,
    "capital": {
@@ -250,7 +250,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7628,
+  "conDato": 7631,
   "n": 1759,
   "gan": 4591.64,
   "nNeta": 452,
@@ -265,7 +265,7 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2975
+   "n": 2978
   },
   {
    "et": "1–5 s",
@@ -647,10 +647,34 @@
   },
   {
    "h": 1795525200000,
-   "n": 1
+   "n": 4
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795528399690,
+   "titulo": "Shanghai Port FC vs. Buriram United",
+   "dur": 0.21,
+   "gan": 7.93,
+   "neta": 7.1,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795527643145,
+   "titulo": "Ratchaburi FC vs. Johor Darul Ta'zim",
+   "dur": 0.285,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795526509442,
+   "titulo": "Shanghai Port FC vs. Buriram United",
+   "dur": 0.42,
+   "gan": 2.25,
+   "neta": 0.78,
+   "lado": "no"
+  },
   {
    "inicio": 1795525211108,
    "titulo": "Shanghai Port FC vs. Buriram United",
@@ -744,30 +768,6 @@
    "titulo": "Cong An Ha Noi FC vs. Vissel Kobe",
    "dur": 0.179,
    "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795521296249,
-   "titulo": "Kyoto Sanga FC vs. FC Pohang Steelers",
-   "dur": 0.119,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795521295259,
-   "titulo": "Kyoto Sanga FC vs. FC Pohang Steelers",
-   "dur": 0.398,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795521295167,
-   "titulo": "Kyoto Sanga FC vs. FC Pohang Steelers",
-   "dur": 0.07,
-   "gan": 0.68,
    "neta": 0,
    "lado": "si"
   }
