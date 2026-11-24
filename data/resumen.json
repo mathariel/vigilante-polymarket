@@ -1,84 +1,84 @@
 {
- "actualizado": 1795556221289,
- "inicio": 1794913657457,
+ "actualizado": 1795559245226,
+ "inicio": 1794916693655,
  "ejecucion": {
-  "inicio": 1795553220951,
-  "fin": 1795556221289,
-  "mensajes": 17014439,
-  "reconexiones": 1,
-  "eventos": 567,
+  "inicio": 1795556244978,
+  "fin": 1795559245226,
+  "mensajes": 12313784,
+  "reconexiones": 4,
+  "eventos": 550,
   "errores": [],
-  "nuevos": 96,
-  "nuevosRentables": 3,
-  "nuevosNeta": 3.82
+  "nuevos": 60,
+  "nuevosRentables": 9,
+  "nuevosNeta": 12.25
  },
- "total": 8002,
- "falsos": 4550,
+ "total": 8027,
+ "falsos": 4579,
  "largos": {
-  "episodios": 19437,
-  "eventos": 166,
+  "episodios": 19389,
+  "eventos": 165,
   "dias": 7
  },
  "enEspera": {
   "episodios": 44,
   "eventos": 20
  },
- "mediana": 0.234,
+ "mediana": 0.235,
  "captura": [
   {
    "s": 0.5,
-   "n": 3085,
-   "gan": 9251.07,
-   "nNeta": 970,
-   "neta": 2166.82
+   "n": 3096,
+   "gan": 9285.44,
+   "nNeta": 976,
+   "neta": 2180.4
   },
   {
    "s": 2,
-   "n": 1403,
-   "gan": 3756.89,
-   "nNeta": 383,
-   "neta": 508.84
+   "n": 1412,
+   "gan": 3771.49,
+   "nNeta": 388,
+   "neta": 510.49
   },
   {
    "s": 5,
-   "n": 812,
-   "gan": 2041.52,
-   "nNeta": 203,
-   "neta": 141.35
+   "n": 818,
+   "gan": 2052.68,
+   "nNeta": 207,
+   "neta": 142.97
   },
   {
    "s": 30,
-   "n": 271,
-   "gan": 635.34,
-   "nNeta": 32,
-   "neta": 39.19
+   "n": 269,
+   "gan": 622.22,
+   "nNeta": 31,
+   "neta": 38.87
   }
  ],
- "rentables": 2185,
+ "rentables": 2198,
  "porCapital": [
   {
    "capital": 500,
    "ops": 92,
-   "descartadas": 354,
+   "descartadas": 360,
    "neta": 228.63,
    "dias": 7.4,
-   "semana": 216.23
+   "semana": 216.38
   },
   {
    "capital": 1000,
-   "ops": 106,
-   "descartadas": 354,
-   "neta": 352.04,
+   "ops": 107,
+   "descartadas": 360,
+   "neta": 354.07,
    "dias": 7.4,
-   "semana": 332.94
+   "semana": 335.1
   },
   {
    "capital": 2000,
-   "ops": 108,
-   "descartadas": 354,
-   "neta": 495.41,
+   "ops": 110,
+   "descartadas": 360,
+   "neta": 505.96,
    "dias": 7.4,
-   "semana": 468.53
+   "semana": 478.85
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 2,
-   "horas": 40,
-   "episodios": 2472,
-   "sospechosas": 10,
-   "realistaNeta": 127.18,
+   "horas": 40.8,
+   "episodios": 2533,
+   "sospechosas": 11,
+   "realistaNeta": 139.43,
    "capital": {
     "500": 54.54,
-    "1000": 82.6,
-    "2000": 92.72
+    "1000": 84.63,
+    "2000": 103.27
    },
    "cumple": true
   }
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 103,
+  "n": 104,
   "top": [
    {
     "inicio": 1795274262924,
@@ -155,6 +155,16 @@
     "neta": 177.34,
     "costo": 754.36,
     "ret": 25.6
+   },
+   {
+    "inicio": 1795556812964,
+    "titulo": "Feyenoord Rotterdam vs. FC Porto",
+    "lado": "si",
+    "dur": 0.025,
+    "gan": 105.17,
+    "neta": 95.06,
+    "costo": 407.83,
+    "ret": 25.8
    },
    {
     "inicio": 1795286367624,
@@ -235,57 +245,47 @@
     "neta": 18.04,
     "costo": 186.99,
     "ret": 12.5
-   },
-   {
-    "inicio": 1795279498803,
-    "titulo": "Oldham Athletic AFC vs. Exeter City FC",
-    "lado": "si",
-    "dur": 0.842,
-    "gan": 23.1,
-    "neta": 21.34,
-    "costo": 46.9,
-    "ret": 49.3
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7899,
-  "n": 1836,
-  "gan": 4820.7,
-  "nNeta": 472,
-  "neta": 747.93
+  "conDato": 7923,
+  "n": 1848,
+  "gan": 4855.32,
+  "nNeta": 480,
+  "neta": 759.86
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2750
+   "n": 2755
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3092
+   "n": 3094
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1337
+   "n": 1348
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 541
+   "n": 549
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 156
+   "n": 153
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 115
+   "n": 116
   }
  ],
  "porEvento": [
@@ -333,10 +333,10 @@
   },
   {
    "titulo": "Spain General Election: BNG # of seats?",
-   "n": 107,
-   "gan": 96.07,
+   "n": 108,
+   "gan": 100.18,
    "neta": 0,
-   "mediana": 0.513
+   "mediana": 0.569
   },
   {
    "titulo": "Denmark vs. Norway",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795284000000,
-   "n": 147
-  },
   {
    "h": 1795287600000,
    "n": 80
@@ -647,129 +643,133 @@
   },
   {
    "h": 1795554000000,
-   "n": 93
+   "n": 141
+  },
+  {
+   "h": 1795557600000,
+   "n": 13
   }
  ],
  "recientes": [
   {
-   "inicio": 1795553200039,
+   "inicio": 1795556243100,
    "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 3020.915,
-   "gan": 3.96,
+   "dur": 3001.881,
+   "gan": 4.11,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795556207823,
-   "titulo": "Middlesbrough FC vs. Swansea City AFC",
-   "dur": 0.573,
-   "gan": 0.9,
-   "neta": 0.75,
+   "inicio": 1795559195087,
+   "titulo": "Associação Chapecoense de Futebol vs. SE Palmeiras",
+   "dur": 1.983,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795559192038,
+   "titulo": "Associação Chapecoense de Futebol vs. SE Palmeiras",
+   "dur": 3.038,
+   "gan": 0.77,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795559192030,
+   "titulo": "Associação Chapecoense de Futebol vs. SE Palmeiras",
+   "dur": 0.006,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795558963455,
+   "titulo": "Associação Chapecoense de Futebol vs. SE Palmeiras",
+   "dur": 0.295,
+   "gan": 0.52,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795556180226,
-   "titulo": "Feyenoord Rotterdam vs. FC Porto",
-   "dur": 0.084,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795556179950,
-   "titulo": "Feyenoord Rotterdam vs. FC Porto",
-   "dur": 0.252,
+   "inicio": 1795558963058,
+   "titulo": "Associação Chapecoense de Futebol vs. SE Palmeiras",
+   "dur": 0.262,
    "gan": 0.53,
-   "neta": 0.08,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795556178391,
-   "titulo": "Feyenoord Rotterdam vs. FC Porto",
-   "dur": 1.446,
-   "gan": 0.76,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795556177987,
-   "titulo": "Feyenoord Rotterdam vs. FC Porto",
-   "dur": 0.362,
-   "gan": 1.55,
+   "inicio": 1795558706471,
+   "titulo": "Associação Chapecoense de Futebol vs. SE Palmeiras",
+   "dur": 0.427,
+   "gan": 7.25,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795556172034,
-   "titulo": "Feyenoord Rotterdam vs. FC Porto",
-   "dur": 0.809,
+   "inicio": 1795558470890,
+   "titulo": "GPU rental prices (B200) end of November?",
+   "dur": 5.365,
+   "gan": 0.58,
+   "neta": 0.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795558465203,
+   "titulo": "GPU rental prices (B200) end of November?",
+   "dur": 5.353,
+   "gan": 0.51,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795558459510,
+   "titulo": "GPU rental prices (B200) end of November?",
+   "dur": 1.746,
+   "gan": 0.73,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795558458794,
+   "titulo": "GPU rental prices (B200) end of November?",
+   "dur": 0.301,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795558439766,
+   "titulo": "GPU rental prices (B200) end of November?",
+   "dur": 0.02,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795558429772,
+   "titulo": "GPU rental prices (B200) end of November?",
+   "dur": 5.521,
+   "gan": 0.79,
+   "neta": 0.05,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795558396131,
+   "titulo": "GPU rental prices (B200) end of November?",
+   "dur": 16.345,
+   "gan": 0.89,
+   "neta": 0.07,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795557248424,
+   "titulo": "Rangers FC vs. Aberdeen FC",
+   "dur": 0.7,
    "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795556172004,
-   "titulo": "Feyenoord Rotterdam vs. FC Porto",
-   "dur": 0.012,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795556171926,
-   "titulo": "Feyenoord Rotterdam vs. FC Porto",
-   "dur": 0.011,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795556170092,
-   "titulo": "Feyenoord Rotterdam vs. FC Porto",
-   "dur": 0.258,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795556169638,
-   "titulo": "Feyenoord Rotterdam vs. FC Porto",
-   "dur": 0.425,
-   "gan": 0.96,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795556168105,
-   "titulo": "Feyenoord Rotterdam vs. FC Porto",
-   "dur": 0.503,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795556147995,
-   "titulo": "Feyenoord Rotterdam vs. FC Porto",
-   "dur": 7.415,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795556147932,
-   "titulo": "Feyenoord Rotterdam vs. FC Porto",
-   "dur": 0.046,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795556147497,
-   "titulo": "Feyenoord Rotterdam vs. FC Porto",
-   "dur": 0.107,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
+   "neta": 0.33,
+   "lado": "si"
   }
  ]
 }
