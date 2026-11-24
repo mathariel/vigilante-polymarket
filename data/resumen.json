@@ -1,21 +1,21 @@
 {
- "actualizado": 1795538103532,
+ "actualizado": 1795541133072,
  "inicio": 1794904631654,
  "ejecucion": {
-  "inicio": 1795535103296,
-  "fin": 1795538103532,
-  "mensajes": 12978487,
+  "inicio": 1795538132838,
+  "fin": 1795541133072,
+  "mensajes": 12004780,
   "reconexiones": 0,
-  "eventos": 548,
+  "eventos": 553,
   "errores": [],
-  "nuevos": 12,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.12
+  "nuevos": 11,
+  "nuevosRentables": 4,
+  "nuevosNeta": 11.73
  },
- "total": 7768,
- "falsos": 4390,
+ "total": 7779,
+ "falsos": 4399,
  "largos": {
-  "episodios": 19811,
+  "episodios": 19796,
   "eventos": 167,
   "dias": 7
  },
@@ -23,28 +23,28 @@
   "episodios": 35,
   "eventos": 17
  },
- "mediana": 0.227,
+ "mediana": 0.228,
  "captura": [
   {
    "s": 0.5,
-   "n": 2962,
-   "gan": 8870.49,
-   "nNeta": 937,
-   "neta": 2109.14
+   "n": 2970,
+   "gan": 8893.89,
+   "nNeta": 943,
+   "neta": 2122.16
   },
   {
    "s": 2,
-   "n": 1345,
-   "gan": 3559.2,
-   "nNeta": 370,
-   "neta": 471.77
+   "n": 1349,
+   "gan": 3575.81,
+   "nNeta": 374,
+   "neta": 483.5
   },
   {
    "s": 5,
-   "n": 776,
-   "gan": 1915.2,
-   "nNeta": 198,
-   "neta": 137.2
+   "n": 777,
+   "gan": 1916.98,
+   "nNeta": 199,
+   "neta": 137.21
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 39.19
   }
  ],
- "rentables": 2126,
+ "rentables": 2132,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 88,
-   "descartadas": 343,
-   "neta": 202.37,
-   "dias": 7.3,
-   "semana": 194.12
+   "ops": 90,
+   "descartadas": 345,
+   "neta": 213.23,
+   "dias": 7.33,
+   "semana": 203.56
   },
   {
    "capital": 1000,
-   "ops": 100,
-   "descartadas": 343,
-   "neta": 317.04,
-   "dias": 7.3,
-   "semana": 304.11
+   "ops": 102,
+   "descartadas": 345,
+   "neta": 327.9,
+   "dias": 7.33,
+   "semana": 313.02
   },
   {
    "capital": 2000,
-   "ops": 102,
-   "descartadas": 343,
-   "neta": 460.41,
-   "dias": 7.3,
-   "semana": 441.63
+   "ops": 104,
+   "descartadas": 345,
+   "neta": 471.27,
+   "dias": 7.33,
+   "semana": 449.88
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 2,
-   "horas": 35,
-   "episodios": 2233,
-   "sospechosas": 7,
-   "realistaNeta": 87.07,
+   "horas": 35.8,
+   "episodios": 2244,
+   "sospechosas": 8,
+   "realistaNeta": 98.8,
    "capital": {
-    "500": 28.28,
-    "1000": 47.6,
-    "2000": 57.72
+    "500": 39.14,
+    "1000": 58.46,
+    "2000": 68.58
    },
    "cumple": true
   }
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 100,
+  "n": 101,
   "top": [
    {
     "inicio": 1795274262924,
@@ -250,11 +250,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7668,
-  "n": 1765,
-  "gan": 4602.65,
-  "nNeta": 455,
-  "neta": 709.09
+  "conDato": 7678,
+  "n": 1770,
+  "gan": 4623.3,
+  "nNeta": 459,
+  "neta": 720.82
  },
  "duraciones": [
   {
@@ -265,17 +265,17 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2997
+   "n": 3002
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1285
+   "n": 1290
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 516
+   "n": 517
   },
   {
    "et": "30 s–5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795266000000,
-   "n": 58
-  },
   {
    "h": 1795269600000,
    "n": 112
@@ -647,10 +643,102 @@
   },
   {
    "h": 1795536000000,
+   "n": 11
+  },
+  {
+   "h": 1795539600000,
    "n": 4
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795540806708,
+   "titulo": "Shabab Al Ahli Dubai vs. Al Qadsiah",
+   "dur": 3.286,
+   "gan": 1.5,
+   "neta": 0.86,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795540058186,
+   "titulo": "Smouha SC vs. National Bank of Egypt Club",
+   "dur": 0.95,
+   "gan": 0.73,
+   "neta": 0.4,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795539870129,
+   "titulo": "Smouha SC vs. National Bank of Egypt Club",
+   "dur": 0.399,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795539757965,
+   "titulo": "Smouha SC vs. National Bank of Egypt Club",
+   "dur": 2.53,
+   "gan": 1.14,
+   "neta": 0.9,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795539511035,
+   "titulo": "Smouha SC vs. National Bank of Egypt Club",
+   "dur": 1.003,
+   "gan": 1.33,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795539504060,
+   "titulo": "Smouha SC vs. National Bank of Egypt Club",
+   "dur": 5.689,
+   "gan": 0.63,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795539477590,
+   "titulo": "Smouha SC vs. National Bank of Egypt Club",
+   "dur": 2.222,
+   "gan": 12.19,
+   "neta": 9.96,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795539318064,
+   "titulo": "Highest temperature in Sao Paulo on November 24?",
+   "dur": 0.905,
+   "gan": 0.9,
+   "neta": 0.89,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795538966793,
+   "titulo": "FK Shakhtar Donetsk vs. Fenerbahçe SK",
+   "dur": 0.261,
+   "gan": 0.98,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795538965266,
+   "titulo": "FK Shakhtar Donetsk vs. Fenerbahçe SK",
+   "dur": 1.512,
+   "gan": 4.04,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795538964866,
+   "titulo": "FK Shakhtar Donetsk vs. Fenerbahçe SK",
+   "dur": 0.396,
+   "gan": 5.94,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795537974805,
    "titulo": "Smouha SC vs. National Bank of Egypt Club",
@@ -681,94 +769,6 @@
    "dur": 0.796,
    "gan": 0.5,
    "neta": 0.19,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795535556705,
-   "titulo": "North East United FC vs. SC Delhi",
-   "dur": 0.397,
-   "gan": 1.09,
-   "neta": 0.34,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795535556653,
-   "titulo": "North East United FC vs. SC Delhi",
-   "dur": 0.023,
-   "gan": 1.09,
-   "neta": 0.34,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795535554540,
-   "titulo": "North East United FC vs. SC Delhi",
-   "dur": 0.5,
-   "gan": 1.12,
-   "neta": 0.35,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795535554275,
-   "titulo": "North East United FC vs. SC Delhi",
-   "dur": 0.15,
-   "gan": 1.12,
-   "neta": 0.35,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795535551387,
-   "titulo": "North East United FC vs. SC Delhi",
-   "dur": 0.227,
-   "gan": 1.63,
-   "neta": 0.52,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795535551256,
-   "titulo": "North East United FC vs. SC Delhi",
-   "dur": 0.012,
-   "gan": 2.35,
-   "neta": 0.73,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795535551189,
-   "titulo": "North East United FC vs. SC Delhi",
-   "dur": 0.007,
-   "gan": 2.32,
-   "neta": 0.72,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795535144844,
-   "titulo": "North East United FC vs. SC Delhi",
-   "dur": 2.328,
-   "gan": 0.61,
-   "neta": 0.08,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795534680415,
-   "titulo": "North East United FC vs. SC Delhi",
-   "dur": 0.026,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795534680112,
-   "titulo": "North East United FC vs. SC Delhi",
-   "dur": 0.161,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795534679474,
-   "titulo": "North East United FC vs. SC Delhi",
-   "dur": 0.17,
-   "gan": 0.65,
-   "neta": 0,
    "lado": "si"
   }
  ]
