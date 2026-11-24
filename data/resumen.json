@@ -1,21 +1,21 @@
 {
- "actualizado": 1795550182456,
- "inicio": 1794907572021,
+ "actualizado": 1795553206705,
+ "inicio": 1794910571114,
  "ejecucion": {
-  "inicio": 1795547182110,
-  "fin": 1795550182456,
-  "mensajes": 14966937,
-  "reconexiones": 0,
-  "eventos": 543,
+  "inicio": 1795550206471,
+  "fin": 1795553206705,
+  "mensajes": 15605158,
+  "reconexiones": 1,
+  "eventos": 551,
   "errores": [],
-  "nuevos": 32,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 57,
+  "nuevosRentables": 9,
+  "nuevosNeta": 23.4
  },
- "total": 7848,
- "falsos": 4445,
+ "total": 7905,
+ "falsos": 4457,
  "largos": {
-  "episodios": 19687,
+  "episodios": 19623,
   "eventos": 166,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 44,
   "eventos": 20
  },
- "mediana": 0.23,
+ "mediana": 0.232,
  "captura": [
   {
    "s": 0.5,
-   "n": 3008,
-   "gan": 9068.72,
-   "nNeta": 949,
-   "neta": 2134.99
+   "n": 3041,
+   "gan": 9177.44,
+   "nNeta": 959,
+   "neta": 2158.42
   },
   {
    "s": 2,
-   "n": 1368,
-   "gan": 3643.71,
-   "nNeta": 374,
-   "neta": 482.94
+   "n": 1386,
+   "gan": 3721.46,
+   "nNeta": 381,
+   "neta": 505.75
   },
   {
    "s": 5,
-   "n": 791,
-   "gan": 1978.88,
-   "nNeta": 199,
-   "neta": 137.21
+   "n": 800,
+   "gan": 2011.41,
+   "nNeta": 202,
+   "neta": 138.8
   },
   {
    "s": 30,
-   "n": 267,
-   "gan": 619.7,
+   "n": 270,
+   "gan": 631.38,
    "nNeta": 32,
    "neta": 39.19
   }
  ],
- "rentables": 2143,
+ "rentables": 2158,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 91,
-   "descartadas": 345,
-   "neta": 213.94,
-   "dias": 7.36,
-   "semana": 203.48
+   "ops": 92,
+   "descartadas": 353,
+   "neta": 228.63,
+   "dias": 7.37,
+   "semana": 217.25
   },
   {
    "capital": 1000,
-   "ops": 103,
-   "descartadas": 345,
-   "neta": 328.61,
-   "dias": 7.36,
-   "semana": 312.55
+   "ops": 104,
+   "descartadas": 353,
+   "neta": 348.76,
+   "dias": 7.37,
+   "semana": 331.4
   },
   {
    "capital": 2000,
-   "ops": 105,
-   "descartadas": 345,
-   "neta": 471.98,
-   "dias": 7.36,
-   "semana": 448.91
+   "ops": 106,
+   "descartadas": 353,
+   "neta": 492.13,
+   "dias": 7.37,
+   "semana": 467.64
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 2,
-   "horas": 38.3,
-   "episodios": 2317,
+   "horas": 39.2,
+   "episodios": 2375,
    "sospechosas": 10,
-   "realistaNeta": 99.96,
+   "realistaNeta": 123.36,
    "capital": {
-    "500": 39.85,
-    "1000": 59.17,
-    "2000": 69.29
+    "500": 54.54,
+    "1000": 79.32,
+    "2000": 89.44
    },
    "cumple": true
   }
@@ -250,42 +250,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7745,
-  "n": 1792,
-  "gan": 4693.09,
-  "nNeta": 460,
-  "neta": 720.71
+  "conDato": 7802,
+  "n": 1815,
+  "gan": 4780.52,
+  "nNeta": 469,
+  "neta": 744.11
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2713
+   "n": 2722
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3027
+   "n": 3047
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1306
+   "n": 1325
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 524
+   "n": 530
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 154
+   "n": 156
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 113
+   "n": 114
   }
  ],
  "porEvento": [
@@ -333,10 +333,10 @@
   },
   {
    "titulo": "Spain General Election: BNG # of seats?",
-   "n": 105,
-   "gan": 88,
+   "n": 106,
+   "gan": 92.11,
    "neta": 0,
-   "mediana": 0.51
+   "mediana": 0.513
   },
   {
    "titulo": "Denmark vs. Norway",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795276800000,
-   "n": 166
-  },
   {
    "h": 1795280400000,
    "n": 78
@@ -647,128 +643,132 @@
   },
   {
    "h": 1795546800000,
-   "n": 34
+   "n": 35
+  },
+  {
+   "h": 1795550400000,
+   "n": 57
   }
  ],
  "recientes": [
   {
-   "inicio": 1795547180526,
+   "inicio": 1795553204511,
+   "titulo": "Feyenoord Rotterdam vs. FC Porto",
+   "dur": 1.962,
+   "gan": 2,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795550204563,
    "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 3001.588,
-   "gan": 4.09,
+   "dur": 3001.91,
+   "gan": 4.11,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795550136006,
-   "titulo": "Bristol City FC vs. Wrexham AFC",
-   "dur": 0.194,
-   "gan": 1.2,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795550134377,
-   "titulo": "Sheffield United FC vs. Southampton FC",
-   "dur": 0.493,
-   "gan": 0.68,
+   "inicio": 1795553204408,
+   "titulo": "Feyenoord Rotterdam vs. FC Porto",
+   "dur": 0.033,
+   "gan": 2,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795549950442,
-   "titulo": "Norwich City FC vs. Queens Park Rangers FC",
-   "dur": 1.069,
-   "gan": 2.24,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795549734006,
-   "titulo": "Virtus Entella vs. Hellas Verona FC",
-   "dur": 2.795,
-   "gan": 20.35,
+   "inicio": 1795553084399,
+   "titulo": "Manchester City FC vs. SSC Napoli",
+   "dur": 1.089,
+   "gan": 1.72,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795549657621,
-   "titulo": "Al Nassr Club vs. Al Sadd SC",
-   "dur": 1.102,
+   "inicio": 1795553079747,
+   "titulo": "Manchester City FC vs. SSC Napoli",
+   "dur": 1.344,
+   "gan": 1.32,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795553070973,
+   "titulo": "Manchester City FC vs. SSC Napoli",
+   "dur": 0.83,
+   "gan": 1.87,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795553038885,
+   "titulo": "ŠK Slovan Bratislava vs. Real Betis Balompié",
+   "dur": 1.026,
    "gan": 1.33,
-   "neta": 0,
+   "neta": 0.03,
    "lado": "no"
   },
   {
-   "inicio": 1795549112674,
-   "titulo": "Galatasaray SK vs. Aston Villa FC",
-   "dur": 1.189,
-   "gan": 1.46,
-   "neta": 1.14,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795549078604,
-   "titulo": "Rangers FC vs. Aberdeen FC - Halftime Result",
-   "dur": 16.857,
+   "inicio": 1795552412031,
+   "titulo": "RB Leipzig vs. Racing Club de Lens",
+   "dur": 0.357,
    "gan": 0.87,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795549093224,
-   "titulo": "Galatasaray SK vs. Aston Villa FC",
-   "dur": 1.155,
-   "gan": 4.78,
-   "neta": 3.97,
    "lado": "si"
   },
   {
-   "inicio": 1795548953505,
-   "titulo": "Galatasaray SK vs. Aston Villa FC",
-   "dur": 1.111,
-   "gan": 12.26,
-   "neta": 7,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795548899335,
-   "titulo": "Galatasaray SK vs. Aston Villa FC",
-   "dur": 0.945,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795548859801,
-   "titulo": "Galatasaray SK vs. Aston Villa FC",
-   "dur": 1.003,
-   "gan": 0.6,
+   "inicio": 1795552349178,
+   "titulo": "Como 1907 vs. AEK",
+   "dur": 2.46,
+   "gan": 3.03,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795548817655,
-   "titulo": "FK Bodø/Glimt vs. LASK Linz",
-   "dur": 0.375,
-   "gan": 39.32,
-   "neta": 34.83,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795548809914,
-   "titulo": "FK Bodø/Glimt vs. LASK Linz",
-   "dur": 0.307,
-   "gan": 2.78,
-   "neta": 2.48,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795548704024,
-   "titulo": "Galatasaray SK vs. Aston Villa FC",
-   "dur": 3.698,
-   "gan": 0.52,
+   "inicio": 1795552349023,
+   "titulo": "Como 1907 vs. AEK",
+   "dur": 0.027,
+   "gan": 3.03,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795552348937,
+   "titulo": "Como 1907 vs. AEK",
+   "dur": 0.046,
+   "gan": 3.03,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795552348836,
+   "titulo": "Como 1907 vs. AEK",
+   "dur": 0.052,
+   "gan": 3.03,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795552317312,
+   "titulo": "Como 1907 vs. AEK",
+   "dur": 2.325,
+   "gan": 2.14,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795552314681,
+   "titulo": "Como 1907 vs. AEK",
+   "dur": 0.611,
+   "gan": 1.42,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795552301499,
+   "titulo": "Como 1907 vs. AEK",
+   "dur": 4.364,
+   "gan": 30.31,
+   "neta": 20.15,
    "lado": "si"
   }
  ]
