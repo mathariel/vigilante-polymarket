@@ -1,21 +1,21 @@
 {
- "actualizado": 1795480768495,
- "inicio": 1794844215893,
+ "actualizado": 1795483783414,
+ "inicio": 1794847089009,
  "ejecucion": {
-  "inicio": 1795477768262,
-  "fin": 1795480768495,
-  "mensajes": 11227387,
-  "reconexiones": 0,
-  "eventos": 528,
+  "inicio": 1795480783077,
+  "fin": 1795483783414,
+  "mensajes": 8327261,
+  "reconexiones": 1,
+  "eventos": 521,
   "errores": [],
-  "nuevos": 67,
-  "nuevosRentables": 2,
-  "nuevosNeta": 1.61
+  "nuevos": 28,
+  "nuevosRentables": 13,
+  "nuevosNeta": 4.87
  },
- "total": 6551,
- "falsos": 4384,
+ "total": 6550,
+ "falsos": 4382,
  "largos": {
-  "episodios": 20909,
+  "episodios": 20918,
   "eventos": 171,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 36,
   "eventos": 18
  },
- "mediana": 0.329,
+ "mediana": 0.33,
  "captura": [
   {
    "s": 0.5,
-   "n": 2854,
-   "gan": 8816.96,
-   "nNeta": 914,
-   "neta": 2101.19
+   "n": 2860,
+   "gan": 8814.42,
+   "nNeta": 928,
+   "neta": 2106.49
   },
   {
    "s": 2,
-   "n": 1314,
-   "gan": 3542.86,
-   "nNeta": 342,
-   "neta": 452.58
+   "n": 1320,
+   "gan": 3537.16,
+   "nNeta": 353,
+   "neta": 457.17
   },
   {
    "s": 5,
-   "n": 729,
-   "gan": 1871.26,
-   "nNeta": 174,
-   "neta": 126.85
+   "n": 735,
+   "gan": 1866.83,
+   "nNeta": 181,
+   "neta": 127.83
   },
   {
    "s": 30,
    "n": 230,
-   "gan": 534.46,
+   "gan": 525.76,
    "nNeta": 22,
    "neta": 35.82
   }
  ],
- "rentables": 2085,
+ "rentables": 2093,
  "porCapital": [
   {
    "capital": 500,
    "ops": 87,
-   "descartadas": 315,
+   "descartadas": 328,
    "neta": 196.77,
-   "dias": 7.33,
-   "semana": 187.87
+   "dias": 7.36,
+   "semana": 187.17
   },
   {
    "capital": 1000,
    "ops": 97,
-   "descartadas": 315,
+   "descartadas": 328,
    "neta": 306.84,
-   "dias": 7.33,
-   "semana": 292.96
+   "dias": 7.36,
+   "semana": 291.88
   },
   {
    "capital": 2000,
    "ops": 99,
-   "descartadas": 315,
+   "descartadas": 328,
    "neta": 450.21,
-   "dias": 7.33,
-   "semana": 429.85
+   "dias": 7.36,
+   "semana": 428.26
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 1,
-   "horas": 19.2,
-   "episodios": 643,
+   "horas": 20,
+   "episodios": 672,
    "sospechosas": 6,
-   "realistaNeta": 56.65,
+   "realistaNeta": 61.52,
    "capital": {
     "500": 19.83,
     "1000": 34.56,
@@ -250,42 +250,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6450,
-  "n": 1637,
-  "gan": 4498.3,
-  "nNeta": 424,
-  "neta": 686.02
+  "conDato": 6449,
+  "n": 1643,
+  "gan": 4492.61,
+  "nNeta": 437,
+  "neta": 690.89
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1902
+   "n": 1894
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2608
+   "n": 2611
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1301
+   "n": 1299
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 499
+   "n": 505
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 142
+   "n": 141
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 88
+   "n": 89
   }
  ],
  "porEvento": [
@@ -346,25 +346,21 @@
    "mediana": 0.71
   },
   {
-   "titulo": "Kazakhstan vs. Slovakia",
-   "n": 95,
-   "gan": 99.42,
-   "neta": 8.82,
-   "mediana": 0.122
-  },
-  {
    "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
    "n": 92,
    "gan": 68.48,
    "neta": 15.6,
    "mediana": 9.434
+  },
+  {
+   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
+   "n": 91,
+   "gan": 85.07,
+   "neta": 3.85,
+   "mediana": 0.122
   }
  ],
  "porHora": [
-  {
-   "h": 1795208400000,
-   "n": 91
-  },
   {
    "h": 1795212000000,
    "n": 26
@@ -647,129 +643,133 @@
   },
   {
    "h": 1795478400000,
-   "n": 39
+   "n": 52
+  },
+  {
+   "h": 1795482000000,
+   "n": 16
   }
  ],
  "recientes": [
   {
-   "inicio": 1795477768671,
+   "inicio": 1795480746506,
    "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 2999.593,
+   "dur": 3036.575,
    "gan": 0.72,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795480588502,
-   "titulo": "Botafogo FR vs. São Paulo FC",
-   "dur": 1.864,
-   "gan": 4.18,
-   "neta": 0.73,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795480587800,
-   "titulo": "Botafogo FR vs. São Paulo FC",
-   "dur": 0.648,
-   "gan": 1.09,
-   "neta": 0.72,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795479898257,
-   "titulo": "Lowest temperature in London on November 24?",
-   "dur": 0.749,
-   "gan": 0.84,
-   "neta": 0.79,
+   "inicio": 1795483523815,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 10.457,
+   "gan": 0.78,
+   "neta": 0.16,
    "lado": "si"
   },
   {
-   "inicio": 1795479897477,
-   "titulo": "Lowest temperature in London on November 24?",
+   "inicio": 1795483385112,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 10.048,
+   "gan": 0.67,
+   "neta": 0.11,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795483175790,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 0.916,
+   "gan": 0.5,
+   "neta": 0.08,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795483152612,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 23.03,
+   "gan": 0.51,
+   "neta": 0.14,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795482987327,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 4.608,
+   "gan": 0.62,
+   "neta": 0.14,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795482903060,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 1.795,
+   "gan": 0.62,
+   "neta": 0.14,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795482612317,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 12.12,
+   "gan": 0.73,
+   "neta": 0.14,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795482459107,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 17.417,
+   "gan": 0.73,
+   "neta": 0.14,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795482391590,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 5.218,
+   "gan": 0.73,
+   "neta": 0.14,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795482299512,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 9.105,
+   "gan": 0.73,
+   "neta": 0.14,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795482202459,
+   "titulo": "Botafogo FR vs. São Paulo FC",
+   "dur": 0.348,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795482196073,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 4.242,
+   "gan": 0.73,
+   "neta": 0.14,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795482125569,
+   "titulo": "Botafogo FR vs. São Paulo FC",
+   "dur": 2.255,
+   "gan": 7.4,
+   "neta": 3.96,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795482107841,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
    "dur": 0.295,
-   "gan": 3.71,
-   "neta": 3.59,
+   "gan": 0.52,
+   "neta": 0.14,
    "lado": "si"
-  },
-  {
-   "inicio": 1795479731367,
-   "titulo": "SC Internacional vs. EC Vitória",
-   "dur": 0.098,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795479731312,
-   "titulo": "SC Internacional vs. EC Vitória",
-   "dur": 0.004,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795479731298,
-   "titulo": "SC Internacional vs. EC Vitória",
-   "dur": 0.007,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795479731177,
-   "titulo": "SC Internacional vs. EC Vitória",
-   "dur": 0.003,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795479731146,
-   "titulo": "SC Internacional vs. EC Vitória",
-   "dur": 0.005,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795479731125,
-   "titulo": "SC Internacional vs. EC Vitória",
-   "dur": 0.005,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795479730938,
-   "titulo": "SC Internacional vs. EC Vitória",
-   "dur": 0.017,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795479730805,
-   "titulo": "SC Internacional vs. EC Vitória",
-   "dur": 0.004,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795479730605,
-   "titulo": "SC Internacional vs. EC Vitória",
-   "dur": 0.194,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795479728929,
-   "titulo": "SC Internacional vs. EC Vitória",
-   "dur": 0.056,
-   "gan": 0.79,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
