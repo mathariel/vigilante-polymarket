@@ -1,21 +1,21 @@
 {
- "actualizado": 1795532058428,
+ "actualizado": 1795535076360,
  "inicio": 1794904631654,
  "ejecucion": {
-  "inicio": 1795529058184,
-  "fin": 1795532058428,
-  "mensajes": 11593149,
+  "inicio": 1795532076012,
+  "fin": 1795535076360,
+  "mensajes": 12125908,
   "reconexiones": 0,
-  "eventos": 555,
+  "eventos": 549,
   "errores": [],
-  "nuevos": 7,
-  "nuevosRentables": 2,
-  "nuevosNeta": 2.44
+  "nuevos": 18,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 7738,
- "falsos": 4370,
+ "total": 7756,
+ "falsos": 4373,
  "largos": {
-  "episodios": 19851,
+  "episodios": 19835,
   "eventos": 166,
   "dias": 7
  },
@@ -27,10 +27,10 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2953,
-   "gan": 8862.6,
-   "nNeta": 934,
-   "neta": 2108.2
+   "n": 2958,
+   "gan": 8867.47,
+   "nNeta": 935,
+   "neta": 2108.68
   },
   {
    "s": 2,
@@ -54,31 +54,31 @@
    "neta": 39.19
   }
  ],
- "rentables": 2113,
+ "rentables": 2117,
  "porCapital": [
   {
    "capital": 500,
    "ops": 88,
    "descartadas": 342,
    "neta": 202.37,
-   "dias": 7.23,
-   "semana": 196
+   "dias": 7.26,
+   "semana": 195.05
   },
   {
    "capital": 1000,
    "ops": 100,
    "descartadas": 342,
    "neta": 317.04,
-   "dias": 7.23,
-   "semana": 307.05
+   "dias": 7.26,
+   "semana": 305.57
   },
   {
    "capital": 2000,
    "ops": 102,
    "descartadas": 342,
    "neta": 460.41,
-   "dias": 7.23,
-   "semana": 445.9
+   "dias": 7.26,
+   "semana": 443.76
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 2,
-   "horas": 33.3,
-   "episodios": 2203,
+   "horas": 34.2,
+   "episodios": 2221,
    "sospechosas": 7,
    "realistaNeta": 86.95,
    "capital": {
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7638,
-  "n": 1762,
-  "gan": 4600.52,
+  "conDato": 7656,
+  "n": 1763,
+  "gan": 4601.08,
   "nNeta": 454,
   "neta": 708.97
  },
@@ -260,17 +260,17 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2693
+   "n": 2695
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2978
+   "n": 2992
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1280
+   "n": 1282
   },
   {
    "et": "5–30 s",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795258800000,
-   "n": 8
-  },
   {
    "h": 1795262400000,
    "n": 30
@@ -648,128 +644,132 @@
   {
    "h": 1795528800000,
    "n": 7
+  },
+  {
+   "h": 1795532400000,
+   "n": 18
   }
  ],
  "recientes": [
   {
-   "inicio": 1795530498352,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 0.013,
-   "gan": 0.52,
-   "neta": 0.28,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795530234263,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 0.006,
-   "gan": 0.55,
-   "neta": 0.18,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795529381899,
+   "inicio": 1795534680415,
    "titulo": "North East United FC vs. SC Delhi",
-   "dur": 2.692,
-   "gan": 3.34,
-   "neta": 1.34,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795529371734,
-   "titulo": "North East United FC vs. SC Delhi",
-   "dur": 8.129,
-   "gan": 1.47,
+   "dur": 0.026,
+   "gan": 0.65,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795529362166,
+   "inicio": 1795534680112,
    "titulo": "North East United FC vs. SC Delhi",
-   "dur": 6.015,
-   "gan": 4.12,
-   "neta": 1.15,
+   "dur": 0.161,
+   "gan": 0.65,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795529321868,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 0.021,
-   "gan": 0.72,
-   "neta": 0.36,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795529165253,
+   "inicio": 1795534679474,
    "titulo": "North East United FC vs. SC Delhi",
-   "dur": 0.022,
-   "gan": 2.31,
+   "dur": 0.17,
+   "gan": 0.65,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795528399690,
-   "titulo": "Shanghai Port FC vs. Buriram United",
-   "dur": 0.21,
-   "gan": 7.93,
-   "neta": 7.1,
+   "inicio": 1795534491024,
+   "titulo": "East Bengal FC vs. Al Hussein Irbid",
+   "dur": 0.125,
+   "gan": 1.14,
+   "neta": 0.33,
    "lado": "si"
   },
   {
-   "inicio": 1795527643145,
-   "titulo": "Ratchaburi FC vs. Johor Darul Ta'zim",
-   "dur": 0.285,
-   "gan": 0.63,
-   "neta": 0,
+   "inicio": 1795534490429,
+   "titulo": "East Bengal FC vs. Al Hussein Irbid",
+   "dur": 0.568,
+   "gan": 2.27,
+   "neta": 0.48,
    "lado": "si"
   },
   {
-   "inicio": 1795526509442,
-   "titulo": "Shanghai Port FC vs. Buriram United",
-   "dur": 0.42,
-   "gan": 2.25,
-   "neta": 0.78,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795525211108,
-   "titulo": "Shanghai Port FC vs. Buriram United",
-   "dur": 5.617,
-   "gan": 1.02,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795525189832,
-   "titulo": "Cong An Ha Noi FC vs. Vissel Kobe",
-   "dur": 0.474,
-   "gan": 0.95,
+   "inicio": 1795534254007,
+   "titulo": "North East United FC vs. SC Delhi",
+   "dur": 0.279,
+   "gan": 0.56,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795525189751,
-   "titulo": "Cong An Ha Noi FC vs. Vissel Kobe",
+   "inicio": 1795534253548,
+   "titulo": "North East United FC vs. SC Delhi",
+   "dur": 0.185,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795534252926,
+   "titulo": "North East United FC vs. SC Delhi",
+   "dur": 0.517,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795534246756,
+   "titulo": "North East United FC vs. SC Delhi",
    "dur": 0.084,
-   "gan": 11.12,
-   "neta": 4.87,
+   "gan": 0.56,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795525123246,
-   "titulo": "Shanghai Port FC vs. Buriram United",
-   "dur": 0.193,
-   "gan": 0.89,
+   "inicio": 1795534241998,
+   "titulo": "North East United FC vs. SC Delhi",
+   "dur": 0.101,
+   "gan": 0.56,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795525122997,
-   "titulo": "Shanghai Port FC vs. Buriram United",
-   "dur": 0.149,
-   "gan": 0.75,
+   "inicio": 1795534241532,
+   "titulo": "North East United FC vs. SC Delhi",
+   "dur": 0.198,
+   "gan": 0.56,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
+  },
+  {
+   "inicio": 1795534232489,
+   "titulo": "North East United FC vs. SC Delhi",
+   "dur": 0.486,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795534231994,
+   "titulo": "North East United FC vs. SC Delhi",
+   "dur": 0.39,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795534231150,
+   "titulo": "North East United FC vs. SC Delhi",
+   "dur": 0.728,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795534218239,
+   "titulo": "North East United FC vs. SC Delhi",
+   "dur": 1.697,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
