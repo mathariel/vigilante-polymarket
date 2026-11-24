@@ -1,21 +1,21 @@
 {
- "actualizado": 1795489810944,
- "inicio": 1794847168355,
+ "actualizado": 1795492823362,
+ "inicio": 1794847279095,
  "ejecucion": {
-  "inicio": 1795486810664,
-  "fin": 1795489810944,
-  "mensajes": 11292795,
+  "inicio": 1795489823091,
+  "fin": 1795492823362,
+  "mensajes": 11374039,
   "reconexiones": 0,
-  "eventos": 525,
+  "eventos": 517,
   "errores": [],
-  "nuevos": 30,
-  "nuevosRentables": 4,
-  "nuevosNeta": 3.1
+  "nuevos": 14,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 6561,
- "falsos": 4398,
+ "total": 6574,
+ "falsos": 4401,
  "largos": {
-  "episodios": 20909,
+  "episodios": 20900,
   "eventos": 171,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2876,
-   "gan": 8852.51,
-   "nNeta": 933,
-   "neta": 2115.28
+   "n": 2883,
+   "gan": 8858.49,
+   "nNeta": 934,
+   "neta": 2115.29
   },
   {
    "s": 2,
-   "n": 1331,
-   "gan": 3568.89,
+   "n": 1335,
+   "gan": 3573.13,
    "nNeta": 355,
    "neta": 463.39
   },
   {
    "s": 5,
-   "n": 744,
-   "gan": 1881.89,
+   "n": 747,
+   "gan": 1885.53,
    "nNeta": 181,
    "neta": 128.02
   },
   {
    "s": 30,
-   "n": 235,
-   "gan": 532.41,
+   "n": 237,
+   "gan": 535.54,
    "nNeta": 21,
    "neta": 35.72
   }
  ],
- "rentables": 2099,
+ "rentables": 2104,
  "porCapital": [
   {
    "capital": 500,
    "ops": 89,
    "descartadas": 328,
    "neta": 199.1,
-   "dias": 7.4,
-   "semana": 188.23
+   "dias": 7.43,
+   "semana": 187.53
   },
   {
    "capital": 1000,
    "ops": 99,
    "descartadas": 328,
    "neta": 309.17,
-   "dias": 7.4,
-   "semana": 292.3
+   "dias": 7.43,
+   "semana": 291.21
   },
   {
    "capital": 2000,
    "ops": 101,
    "descartadas": 328,
    "neta": 452.54,
-   "dias": 7.4,
-   "semana": 427.84
+   "dias": 7.43,
+   "semana": 426.25
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 1,
-   "horas": 21.7,
-   "episodios": 767,
+   "horas": 22.5,
+   "episodios": 782,
    "sospechosas": 7,
    "realistaNeta": 68.71,
    "capital": {
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6459,
-  "n": 1654,
-  "gan": 4523.65,
+  "conDato": 6472,
+  "n": 1659,
+  "gan": 4528.39,
   "nNeta": 439,
   "neta": 697.26
  },
@@ -260,22 +260,22 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1889
+   "n": 1893
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2614
+   "n": 2618
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1303
+   "n": 1305
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 509
+   "n": 510
   },
   {
    "et": "30 s–5 min",
@@ -285,7 +285,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 94
+   "n": 96
   }
  ],
  "porEvento": [
@@ -647,129 +647,129 @@
   },
   {
    "h": 1795489200000,
-   "n": 13
+   "n": 28
   }
  ],
  "recientes": [
   {
-   "inicio": 1795486813071,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 2997.595,
-   "gan": 0.76,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795486645678,
+   "inicio": 1795489819878,
    "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 3164.988,
+   "dur": 3003.216,
    "gan": 0.72,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795489784191,
+   "inicio": 1795489824367,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 2998.727,
+   "gan": 2.41,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795492776319,
+   "titulo": "Highest temperature in Manila on November 24?",
+   "dur": 0.025,
+   "gan": 0.73,
+   "neta": 0.7,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795492776213,
+   "titulo": "Highest temperature in Manila on November 24?",
+   "dur": 0.095,
+   "gan": 0.6,
+   "neta": 0.57,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795492452122,
+   "titulo": "Highest temperature in Hong Kong on November 24?",
+   "dur": 0.017,
+   "gan": 6.62,
+   "neta": 5.94,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795490266843,
    "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 0.039,
-   "gan": 2.04,
+   "dur": 6.005,
+   "gan": 0.51,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795489784096,
+   "inicio": 1795490262256,
    "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 0.038,
-   "gan": 1.81,
+   "dur": 0.004,
+   "gan": 0.51,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795489781656,
+   "inicio": 1795490195771,
    "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 2.373,
-   "gan": 7.05,
-   "neta": 1.48,
+   "dur": 0.137,
+   "gan": 0.97,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795489752008,
+   "inicio": 1795490184096,
    "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 13.847,
-   "gan": 1.2,
-   "neta": 0,
-   "lado": "si"
+   "dur": 0.195,
+   "gan": 0.65,
+   "neta": 0.08,
+   "lado": "no"
   },
   {
-   "inicio": 1795489742298,
+   "inicio": 1795490183875,
    "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 5.06,
-   "gan": 0.9,
-   "neta": 0,
-   "lado": "si"
+   "dur": 0.203,
+   "gan": 0.67,
+   "neta": 0.06,
+   "lado": "no"
   },
   {
-   "inicio": 1795489742197,
+   "inicio": 1795490183873,
    "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 0.08,
-   "gan": 0.9,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795489534756,
-   "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 1.731,
-   "gan": 0.63,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795489528652,
-   "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 5.976,
-   "gan": 0.72,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795489520581,
-   "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 8.055,
-   "gan": 0.64,
-   "neta": 0.1,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795489486472,
-   "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 0.197,
+   "dur": 0.001,
    "gan": 0.5,
-   "neta": 0.16,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795489486358,
-   "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 0.014,
-   "gan": 0.52,
-   "neta": 0.16,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795489483490,
-   "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 0.146,
-   "gan": 6.22,
-   "neta": 0.87,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795489264594,
-   "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 1.339,
-   "gan": 0.64,
-   "neta": 0,
+   "neta": 0.06,
    "lado": "no"
+  },
+  {
+   "inicio": 1795490174813,
+   "titulo": "St. Louis City SC vs. Los Angeles FC",
+   "dur": 0.917,
+   "gan": 0.74,
+   "neta": 0.01,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795489955641,
+   "titulo": "St. Louis City SC vs. Los Angeles FC",
+   "dur": 2.269,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795489950176,
+   "titulo": "St. Louis City SC vs. Los Angeles FC",
+   "dur": 0.53,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795489948198,
+   "titulo": "St. Louis City SC vs. Los Angeles FC",
+   "dur": 1.516,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
   }
  ]
 }
