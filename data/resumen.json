@@ -1,84 +1,84 @@
 {
- "actualizado": 1795516955408,
+ "actualizado": 1795519970901,
  "inicio": 1794901565376,
  "ejecucion": {
-  "inicio": 1795513955078,
-  "fin": 1795516955408,
-  "mensajes": 10627512,
-  "reconexiones": 0,
-  "eventos": 556,
+  "inicio": 1795516970600,
+  "fin": 1795519970901,
+  "mensajes": 11709355,
+  "reconexiones": 4,
+  "eventos": 540,
   "errores": [],
-  "nuevos": 30,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 43,
+  "nuevosRentables": 3,
+  "nuevosNeta": 0.64
  },
- "total": 7656,
- "falsos": 4351,
+ "total": 7697,
+ "falsos": 4341,
  "largos": {
-  "episodios": 19926,
-  "eventos": 165,
+  "episodios": 19905,
+  "eventos": 166,
   "dias": 7
  },
  "enEspera": {
   "episodios": 35,
   "eventos": 17
  },
- "mediana": 0.226,
+ "mediana": 0.227,
  "captura": [
   {
    "s": 0.5,
-   "n": 2921,
-   "gan": 8818.86,
-   "nNeta": 921,
-   "neta": 2098.31
+   "n": 2940,
+   "gan": 8838.33,
+   "nNeta": 925,
+   "neta": 2099.04
   },
   {
    "s": 2,
-   "n": 1327,
-   "gan": 3530.93,
-   "nNeta": 360,
-   "neta": 462.61
+   "n": 1337,
+   "gan": 3539.28,
+   "nNeta": 362,
+   "neta": 463.22
   },
   {
    "s": 5,
-   "n": 768,
-   "gan": 1899.97,
-   "nNeta": 192,
-   "neta": 130.09
+   "n": 774,
+   "gan": 1905.44,
+   "nNeta": 194,
+   "neta": 130.7
   },
   {
    "s": 30,
-   "n": 258,
-   "gan": 562.1,
+   "n": 259,
+   "gan": 562.92,
    "nNeta": 31,
    "neta": 38.33
   }
  ],
- "rentables": 2092,
+ "rentables": 2095,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 86,
-   "descartadas": 336,
-   "neta": 200.21,
-   "dias": 7.09,
-   "semana": 197.54
+   "ops": 87,
+   "descartadas": 338,
+   "neta": 200.77,
+   "dias": 7.11,
+   "semana": 197.55
   },
   {
    "capital": 1000,
-   "ops": 96,
-   "descartadas": 336,
-   "neta": 310.28,
-   "dias": 7.09,
-   "semana": 306.16
+   "ops": 97,
+   "descartadas": 338,
+   "neta": 310.84,
+   "dias": 7.11,
+   "semana": 305.87
   },
   {
    "capital": 2000,
-   "ops": 98,
-   "descartadas": 336,
-   "neta": 453.65,
-   "dias": 7.09,
-   "semana": 447.62
+   "ops": 99,
+   "descartadas": 338,
+   "neta": 454.21,
+   "dias": 7.11,
+   "semana": 446.94
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 2,
-   "horas": 29.2,
-   "episodios": 2112,
+   "horas": 30,
+   "episodios": 2156,
    "sospechosas": 7,
-   "realistaNeta": 77.88,
+   "realistaNeta": 78.52,
    "capital": {
-    "500": 26.11,
-    "1000": 40.84,
-    "2000": 50.96
+    "500": 26.67,
+    "1000": 41.4,
+    "2000": 51.52
    },
    "cumple": true
   }
@@ -250,32 +250,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7556,
-  "n": 1742,
-  "gan": 4565.44,
-  "nNeta": 444,
-  "neta": 699.9
+  "conDato": 7597,
+  "n": 1755,
+  "gan": 4580.91,
+  "nNeta": 447,
+  "neta": 700.54
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2674
+   "n": 2683
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2942
+   "n": 2958
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1261
+   "n": 1271
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 510
+   "n": 515
   },
   {
    "et": "30 s–5 min",
@@ -285,7 +285,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 109
+   "n": 110
   }
  ],
  "porEvento": [
@@ -353,18 +353,14 @@
    "mediana": 0.71
   },
   {
-   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
-   "n": 91,
-   "gan": 85.07,
-   "neta": 3.85,
-   "mediana": 0.122
+   "titulo": "Spain General Election: BNG # of seats?",
+   "n": 92,
+   "gan": 72.73,
+   "neta": 0,
+   "mediana": 0.574
   }
  ],
  "porHora": [
-  {
-   "h": 1795244400000,
-   "n": 30
-  },
   {
    "h": 1795248000000,
    "n": 7
@@ -647,128 +643,132 @@
   },
   {
    "h": 1795514400000,
-   "n": 28
+   "n": 36
+  },
+  {
+   "h": 1795518000000,
+   "n": 36
   }
  ],
  "recientes": [
   {
-   "inicio": 1795515406809,
-   "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 1548.272,
-   "gan": 1.13,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795516953896,
-   "titulo": "Kyoto Sanga FC vs. FC Pohang Steelers",
-   "dur": 0.007,
-   "gan": 1.26,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795516948002,
-   "titulo": "Kyoto Sanga FC vs. FC Pohang Steelers",
-   "dur": 3.979,
-   "gan": 3.45,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795516893150,
-   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
-   "dur": 0.232,
+   "inicio": 1795519866124,
+   "titulo": "Highest temperature in Warsaw on November 24?",
+   "dur": 19.722,
    "gan": 0.59,
-   "neta": 0.23,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795516882675,
-   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
-   "dur": 0.202,
-   "gan": 0.51,
-   "neta": 0.07,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795516882509,
-   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
-   "dur": 0.108,
-   "gan": 1.14,
-   "neta": 0.36,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795516274005,
-   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
-   "dur": 1.066,
-   "gan": 0.61,
-   "neta": 0.18,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795516267098,
-   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
-   "dur": 0.095,
-   "gan": 2.01,
-   "neta": 0,
+   "neta": 0.56,
    "lado": "si"
   },
   {
-   "inicio": 1795515909361,
-   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
-   "dur": 0.487,
-   "gan": 0.61,
+   "inicio": 1795519866056,
+   "titulo": "Highest temperature in Warsaw on November 24?",
+   "dur": 0.034,
+   "gan": 0.8,
+   "neta": 0.77,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795519839732,
+   "titulo": "Kyoto Sanga FC vs. FC Pohang Steelers",
+   "dur": 8.116,
+   "gan": 0.82,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795515908030,
-   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
-   "dur": 0.665,
-   "gan": 0.61,
+   "inicio": 1795519834327,
+   "titulo": "Kyoto Sanga FC vs. FC Pohang Steelers",
+   "dur": 4.822,
+   "gan": 0.82,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795515905247,
-   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
-   "dur": 0.002,
-   "gan": 0.63,
-   "neta": 0.01,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795515905200,
-   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
-   "dur": 0.019,
-   "gan": 0.63,
-   "neta": 0.01,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795515901924,
-   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
-   "dur": 3.225,
-   "gan": 1,
+   "inicio": 1795519829987,
+   "titulo": "Kyoto Sanga FC vs. FC Pohang Steelers",
+   "dur": 4.118,
+   "gan": 0.89,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795515890400,
-   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
-   "dur": 10.054,
-   "gan": 1.78,
+   "inicio": 1795516954069,
+   "titulo": "Spain General Election: BNG # of seats?",
+   "dur": 2862.393,
+   "gan": 0.82,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795515883453,
+   "inicio": 1795519796465,
    "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
-   "dur": 0.205,
-   "gan": 5.45,
-   "neta": 1.77,
+   "dur": 6.159,
+   "gan": 0.79,
+   "neta": 0.05,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795519787840,
+   "titulo": "Kyoto Sanga FC vs. FC Pohang Steelers",
+   "dur": 0.68,
+   "gan": 0.6,
+   "neta": 0.09,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795519766779,
+   "titulo": "Shabab Al Ahli Dubai vs. Al Qadsiah",
+   "dur": 1.613,
+   "gan": 4.95,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795519746974,
+   "titulo": "Shabab Al Ahli Dubai vs. Al Qadsiah",
+   "dur": 0.09,
+   "gan": 5.88,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795519550142,
+   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
+   "dur": 4.713,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795519549833,
+   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
+   "dur": 0.195,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795519216078,
+   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
+   "dur": 0.094,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795519215024,
+   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
+   "dur": 0.247,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795519214029,
+   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
+   "dur": 0.359,
+   "gan": 0.53,
+   "neta": 0,
    "lado": "no"
   }
  ]
