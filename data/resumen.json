@@ -1,21 +1,21 @@
 {
- "actualizado": 1795486796835,
+ "actualizado": 1795489810944,
  "inicio": 1794847168355,
  "ejecucion": {
-  "inicio": 1795483796522,
-  "fin": 1795486796835,
-  "mensajes": 9299939,
+  "inicio": 1795486810664,
+  "fin": 1795489810944,
+  "mensajes": 11292795,
   "reconexiones": 0,
-  "eventos": 529,
+  "eventos": 525,
   "errores": [],
-  "nuevos": 63,
+  "nuevos": 30,
   "nuevosRentables": 4,
-  "nuevosNeta": 4.09
+  "nuevosNeta": 3.1
  },
- "total": 6546,
- "falsos": 4394,
+ "total": 6561,
+ "falsos": 4398,
  "largos": {
-  "episodios": 20919,
+  "episodios": 20909,
   "eventos": 171,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2871,
-   "gan": 8837.39,
-   "nNeta": 929,
-   "neta": 2112.18
+   "n": 2876,
+   "gan": 8852.51,
+   "nNeta": 933,
+   "neta": 2115.28
   },
   {
    "s": 2,
-   "n": 1328,
-   "gan": 3557.71,
-   "nNeta": 352,
-   "neta": 460.33
+   "n": 1331,
+   "gan": 3568.89,
+   "nNeta": 355,
+   "neta": 463.39
   },
   {
    "s": 5,
-   "n": 740,
-   "gan": 1877.31,
-   "nNeta": 179,
-   "neta": 127.7
+   "n": 744,
+   "gan": 1881.89,
+   "nNeta": 181,
+   "neta": 128.02
   },
   {
    "s": 30,
-   "n": 233,
-   "gan": 530.93,
+   "n": 235,
+   "gan": 532.41,
    "nNeta": 21,
    "neta": 35.72
   }
  ],
- "rentables": 2091,
+ "rentables": 2099,
  "porCapital": [
   {
    "capital": 500,
    "ops": 89,
-   "descartadas": 324,
+   "descartadas": 328,
    "neta": 199.1,
-   "dias": 7.38,
-   "semana": 188.75
+   "dias": 7.4,
+   "semana": 188.23
   },
   {
    "capital": 1000,
    "ops": 99,
-   "descartadas": 324,
+   "descartadas": 328,
    "neta": 309.17,
-   "dias": 7.38,
-   "semana": 293.11
+   "dias": 7.4,
+   "semana": 292.3
   },
   {
    "capital": 2000,
    "ops": 101,
-   "descartadas": 324,
+   "descartadas": 328,
    "neta": 452.54,
-   "dias": 7.38,
-   "semana": 429.03
+   "dias": 7.4,
+   "semana": 427.84
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 1,
-   "horas": 20.8,
-   "episodios": 736,
-   "sospechosas": 6,
-   "realistaNeta": 65.61,
+   "horas": 21.7,
+   "episodios": 767,
+   "sospechosas": 7,
+   "realistaNeta": 68.71,
    "capital": {
     "500": 22.16,
     "1000": 36.89,
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 101,
+  "n": 102,
   "top": [
    {
     "inicio": 1795274262924,
@@ -250,32 +250,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6445,
-  "n": 1650,
-  "gan": 4511.39,
-  "nNeta": 435,
-  "neta": 694.16
+  "conDato": 6459,
+  "n": 1654,
+  "gan": 4523.65,
+  "nNeta": 439,
+  "neta": 697.26
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1881
+   "n": 1889
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2612
+   "n": 2614
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1302
+   "n": 1303
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 507
+   "n": 509
   },
   {
    "et": "30 s–5 min",
@@ -285,7 +285,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 92
+   "n": 94
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795215600000,
-   "n": 50
-  },
   {
    "h": 1795219200000,
    "n": 65
@@ -647,129 +643,133 @@
   },
   {
    "h": 1795485600000,
-   "n": 3
+   "n": 21
+  },
+  {
+   "h": 1795489200000,
+   "n": 13
   }
  ],
  "recientes": [
   {
-   "inicio": 1795486310010,
+   "inicio": 1795486813071,
    "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 486.514,
-   "gan": 1.29,
+   "dur": 2997.595,
+   "gan": 0.76,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795483654324,
+   "inicio": 1795486645678,
    "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 3142.2,
-   "gan": 0.7,
+   "dur": 3164.988,
+   "gan": 0.72,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795484902165,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 1407.282,
-   "gan": 1.59,
+   "inicio": 1795489784191,
+   "titulo": "St. Louis City SC vs. Los Angeles FC",
+   "dur": 0.039,
+   "gan": 2.04,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795489784096,
+   "titulo": "St. Louis City SC vs. Los Angeles FC",
+   "dur": 0.038,
+   "gan": 1.81,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795489781656,
+   "titulo": "St. Louis City SC vs. Los Angeles FC",
+   "dur": 2.373,
+   "gan": 7.05,
+   "neta": 1.48,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795489752008,
+   "titulo": "St. Louis City SC vs. Los Angeles FC",
+   "dur": 13.847,
+   "gan": 1.2,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795485745941,
+   "inicio": 1795489742298,
    "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 4.371,
-   "gan": 1.57,
+   "dur": 5.06,
+   "gan": 0.9,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795485640113,
-   "titulo": "Santos FC vs. Grêmio FBPA",
-   "dur": 3.187,
-   "gan": 1.37,
-   "neta": 1.26,
+   "inicio": 1795489742197,
+   "titulo": "St. Louis City SC vs. Los Angeles FC",
+   "dur": 0.08,
+   "gan": 0.9,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795485578131,
+   "inicio": 1795489534756,
    "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 4.679,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795485566385,
-   "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 11.636,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795485566321,
-   "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 0.008,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795485566261,
-   "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 0.05,
-   "gan": 0.97,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795485562316,
-   "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 2.418,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795485561711,
-   "titulo": "St. Louis City SC vs. Los Angeles FC",
-   "dur": 0.602,
+   "dur": 1.731,
    "gan": 0.63,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795489528652,
+   "titulo": "St. Louis City SC vs. Los Angeles FC",
+   "dur": 5.976,
+   "gan": 0.72,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795489520581,
+   "titulo": "St. Louis City SC vs. Los Angeles FC",
+   "dur": 8.055,
+   "gan": 0.64,
+   "neta": 0.1,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795489486472,
+   "titulo": "St. Louis City SC vs. Los Angeles FC",
+   "dur": 0.197,
+   "gan": 0.5,
+   "neta": 0.16,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795489486358,
+   "titulo": "St. Louis City SC vs. Los Angeles FC",
+   "dur": 0.014,
+   "gan": 0.52,
+   "neta": 0.16,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795489483490,
+   "titulo": "St. Louis City SC vs. Los Angeles FC",
+   "dur": 0.146,
+   "gan": 6.22,
+   "neta": 0.87,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795489264594,
+   "titulo": "St. Louis City SC vs. Los Angeles FC",
+   "dur": 1.339,
+   "gan": 0.64,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1795485536915,
-   "titulo": "Santos FC vs. Grêmio FBPA",
-   "dur": 0.299,
-   "gan": 1.32,
-   "neta": 0.96,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795485388400,
-   "titulo": "St. Louis City SC vs. Los Angeles FC - Halftime Result",
-   "dur": 0.03,
-   "gan": 3.52,
-   "neta": 1.28,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795485387969,
-   "titulo": "St. Louis City SC vs. Los Angeles FC - Halftime Result",
-   "dur": 0.213,
-   "gan": 1.33,
-   "neta": 0.04,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795485387896,
-   "titulo": "St. Louis City SC vs. Los Angeles FC - Halftime Result",
-   "dur": 0.056,
-   "gan": 0.65,
-   "neta": 0.31,
-   "lado": "si"
   }
  ]
 }
