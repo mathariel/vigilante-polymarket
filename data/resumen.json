@@ -1,21 +1,21 @@
 {
- "actualizado": 1795559245226,
+ "actualizado": 1795562259929,
  "inicio": 1794916693655,
  "ejecucion": {
-  "inicio": 1795556244978,
-  "fin": 1795559245226,
-  "mensajes": 12313784,
-  "reconexiones": 4,
-  "eventos": 550,
+  "inicio": 1795559259587,
+  "fin": 1795562259929,
+  "mensajes": 10393082,
+  "reconexiones": 0,
+  "eventos": 546,
   "errores": [],
-  "nuevos": 60,
-  "nuevosRentables": 9,
-  "nuevosNeta": 12.25
+  "nuevos": 6,
+  "nuevosRentables": 2,
+  "nuevosNeta": 0.05
  },
- "total": 8027,
- "falsos": 4579,
+ "total": 8021,
+ "falsos": 4570,
  "largos": {
-  "episodios": 19389,
+  "episodios": 19411,
   "eventos": 165,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3096,
-   "gan": 9285.44,
-   "nNeta": 976,
-   "neta": 2180.4
+   "n": 3093,
+   "gan": 9266.14,
+   "nNeta": 977,
+   "neta": 2178.47
   },
   {
    "s": 2,
-   "n": 1412,
-   "gan": 3771.49,
-   "nNeta": 388,
-   "neta": 510.49
+   "n": 1410,
+   "gan": 3763.22,
+   "nNeta": 390,
+   "neta": 510.54
   },
   {
    "s": 5,
-   "n": 818,
-   "gan": 2052.68,
-   "nNeta": 207,
-   "neta": 142.97
+   "n": 817,
+   "gan": 2049.64,
+   "nNeta": 208,
+   "neta": 142.99
   },
   {
    "s": 30,
    "n": 269,
-   "gan": 622.22,
+   "gan": 625.81,
    "nNeta": 31,
    "neta": 38.87
   }
  ],
- "rentables": 2198,
+ "rentables": 2199,
  "porCapital": [
   {
    "capital": 500,
    "ops": 92,
-   "descartadas": 360,
+   "descartadas": 362,
    "neta": 228.63,
-   "dias": 7.4,
-   "semana": 216.38
+   "dias": 7.41,
+   "semana": 216.01
   },
   {
    "capital": 1000,
    "ops": 107,
-   "descartadas": 360,
+   "descartadas": 362,
    "neta": 354.07,
-   "dias": 7.4,
-   "semana": 335.1
+   "dias": 7.41,
+   "semana": 334.52
   },
   {
    "capital": 2000,
    "ops": 110,
-   "descartadas": 360,
+   "descartadas": 362,
    "neta": 505.96,
-   "dias": 7.4,
-   "semana": 478.85
+   "dias": 7.41,
+   "semana": 478.02
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 2,
-   "horas": 40.8,
-   "episodios": 2533,
+   "horas": 41.7,
+   "episodios": 2540,
    "sospechosas": 11,
-   "realistaNeta": 139.43,
+   "realistaNeta": 139.48,
    "capital": {
     "500": 54.54,
     "1000": 84.63,
@@ -250,11 +250,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7923,
+  "conDato": 7917,
   "n": 1848,
-  "gan": 4855.32,
-  "nNeta": 480,
-  "neta": 759.86
+  "gan": 4848.2,
+  "nNeta": 482,
+  "neta": 759.91
  },
  "duraciones": [
   {
@@ -265,27 +265,27 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3094
+   "n": 3090
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1348
+   "n": 1347
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 549
+   "n": 548
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 153
+   "n": 152
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 116
+   "n": 117
   }
  ],
  "porEvento": [
@@ -333,8 +333,8 @@
   },
   {
    "titulo": "Spain General Election: BNG # of seats?",
-   "n": 108,
-   "gan": 100.18,
+   "n": 109,
+   "gan": 104.36,
    "neta": 0,
    "mediana": 0.569
   },
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795287600000,
-   "n": 80
-  },
   {
    "h": 1795291200000,
    "n": 104
@@ -647,10 +643,70 @@
   },
   {
    "h": 1795557600000,
-   "n": 13
+   "n": 15
+  },
+  {
+   "h": 1795561200000,
+   "n": 5
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795559257402,
+   "titulo": "Spain General Election: BNG # of seats?",
+   "dur": 3002.188,
+   "gan": 4.18,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795561733399,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 15.822,
+   "gan": 0.52,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795561733267,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 0.019,
+   "gan": 0.57,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795561733169,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 0.018,
+   "gan": 0.52,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795561731873,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 0.593,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795561442694,
+   "titulo": "GPU rental prices (B200) end of November?",
+   "dur": 2.218,
+   "gan": 0.53,
+   "neta": 0.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795559271499,
+   "titulo": "Associação Chapecoense de Futebol vs. SE Palmeiras",
+   "dur": 1.678,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795556243100,
    "titulo": "Spain General Election: BNG # of seats?",
@@ -713,62 +769,6 @@
    "dur": 5.365,
    "gan": 0.58,
    "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795558465203,
-   "titulo": "GPU rental prices (B200) end of November?",
-   "dur": 5.353,
-   "gan": 0.51,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795558459510,
-   "titulo": "GPU rental prices (B200) end of November?",
-   "dur": 1.746,
-   "gan": 0.73,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795558458794,
-   "titulo": "GPU rental prices (B200) end of November?",
-   "dur": 0.301,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795558439766,
-   "titulo": "GPU rental prices (B200) end of November?",
-   "dur": 0.02,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795558429772,
-   "titulo": "GPU rental prices (B200) end of November?",
-   "dur": 5.521,
-   "gan": 0.79,
-   "neta": 0.05,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795558396131,
-   "titulo": "GPU rental prices (B200) end of November?",
-   "dur": 16.345,
-   "gan": 0.89,
-   "neta": 0.07,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795557248424,
-   "titulo": "Rangers FC vs. Aberdeen FC",
-   "dur": 0.7,
-   "gan": 0.5,
-   "neta": 0.33,
    "lado": "si"
   }
  ]
