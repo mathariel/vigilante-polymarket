@@ -1,84 +1,84 @@
 {
- "actualizado": 1795498852383,
- "inicio": 1794850299050,
+ "actualizado": 1795501865568,
+ "inicio": 1794853256113,
  "ejecucion": {
-  "inicio": 1795495852034,
-  "fin": 1795498852383,
-  "mensajes": 10989307,
-  "reconexiones": 0,
-  "eventos": 535,
+  "inicio": 1795498865288,
+  "fin": 1795501865568,
+  "mensajes": 10593869,
+  "reconexiones": 1,
+  "eventos": 537,
   "errores": [],
-  "nuevos": 1,
-  "nuevosRentables": 1,
-  "nuevosNeta": 2.43
+  "nuevos": 3,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 6609,
- "falsos": 4423,
+ "total": 6580,
+ "falsos": 4387,
  "largos": {
-  "episodios": 20860,
+  "episodios": 20934,
   "eventos": 172,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 36,
-  "eventos": 18
+  "episodios": 35,
+  "eventos": 17
  },
- "mediana": 0.338,
+ "mediana": 0.336,
  "captura": [
   {
    "s": 0.5,
-   "n": 2908,
-   "gan": 8880.35,
-   "nNeta": 945,
-   "neta": 2116.43
+   "n": 2888,
+   "gan": 8822.48,
+   "nNeta": 937,
+   "neta": 2103.33
   },
   {
    "s": 2,
-   "n": 1355,
-   "gan": 3586.59,
+   "n": 1350,
+   "gan": 3559.72,
    "nNeta": 368,
    "neta": 466.7
   },
   {
    "s": 5,
    "n": 767,
-   "gan": 1901.28,
+   "gan": 1895.75,
    "nNeta": 195,
    "neta": 132.45
   },
   {
    "s": 30,
-   "n": 252,
-   "gan": 548.76,
+   "n": 254,
+   "gan": 554.05,
    "nNeta": 31,
    "neta": 39.12
   }
  ],
- "rentables": 2112,
+ "rentables": 2101,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 90,
-   "descartadas": 342,
-   "neta": 201.53,
-   "dias": 7.46,
-   "semana": 189.05
+   "ops": 89,
+   "descartadas": 341,
+   "neta": 200.78,
+   "dias": 7.41,
+   "semana": 189.75
   },
   {
    "capital": 1000,
-   "ops": 100,
-   "descartadas": 342,
-   "neta": 311.6,
-   "dias": 7.46,
-   "semana": 292.3
+   "ops": 99,
+   "descartadas": 341,
+   "neta": 310.85,
+   "dias": 7.41,
+   "semana": 293.78
   },
   {
    "capital": 2000,
-   "ops": 102,
-   "descartadas": 342,
-   "neta": 454.97,
-   "dias": 7.46,
-   "semana": 426.8
+   "ops": 101,
+   "descartadas": 341,
+   "neta": 454.22,
+   "dias": 7.41,
+   "semana": 429.28
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 2,
-   "horas": 24.2,
-   "episodios": 846,
+   "horas": 25,
+   "episodios": 849,
    "sospechosas": 7,
    "realistaNeta": 76.08,
    "capital": {
@@ -250,42 +250,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6509,
-  "n": 1692,
-  "gan": 4563.15,
-  "nNeta": 454,
-  "neta": 703.57
+  "conDato": 6480,
+  "n": 1682,
+  "gan": 4531.52,
+  "nNeta": 452,
+  "neta": 702.78
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1894
+   "n": 1889
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2636
+   "n": 2624
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1301
+   "n": 1289
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 515
+   "n": 513
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 150
+   "n": 149
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 102
+   "n": 105
   }
  ],
  "porEvento": [
@@ -647,10 +647,34 @@
   },
   {
    "h": 1795496400000,
-   "n": 1
+   "n": 4
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795498868340,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 2996.951,
+   "gan": 2.2,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795498868155,
+   "titulo": "Spain General Election: BNG # of seats?",
+   "dur": 2997.136,
+   "gan": 0.82,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795499199073,
+   "titulo": "Spain General Election: Turnout",
+   "dur": 2391.866,
+   "gan": 2.98,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795495744435,
    "titulo": "Spain General Election: BNG # of seats?",
@@ -745,30 +769,6 @@
    "dur": 0.414,
    "gan": 0.64,
    "neta": 0.31,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795494834559,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 573.682,
-   "gan": 0.58,
-   "neta": 0.3,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795494735479,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 97.85,
-   "gan": 0.58,
-   "neta": 0.3,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795494734682,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 0.021,
-   "gan": 0.75,
-   "neta": 0.35,
    "lado": "si"
   }
  ]
