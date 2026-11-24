@@ -1,21 +1,21 @@
 {
- "actualizado": 1795553206705,
- "inicio": 1794910571114,
+ "actualizado": 1795556221289,
+ "inicio": 1794913657457,
  "ejecucion": {
-  "inicio": 1795550206471,
-  "fin": 1795553206705,
-  "mensajes": 15605158,
+  "inicio": 1795553220951,
+  "fin": 1795556221289,
+  "mensajes": 17014439,
   "reconexiones": 1,
-  "eventos": 551,
+  "eventos": 567,
   "errores": [],
-  "nuevos": 57,
-  "nuevosRentables": 9,
-  "nuevosNeta": 23.4
+  "nuevos": 96,
+  "nuevosRentables": 3,
+  "nuevosNeta": 3.82
  },
- "total": 7905,
- "falsos": 4457,
+ "total": 8002,
+ "falsos": 4550,
  "largos": {
-  "episodios": 19623,
+  "episodios": 19437,
   "eventos": 166,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 44,
   "eventos": 20
  },
- "mediana": 0.232,
+ "mediana": 0.234,
  "captura": [
   {
    "s": 0.5,
-   "n": 3041,
-   "gan": 9177.44,
-   "nNeta": 959,
-   "neta": 2158.42
+   "n": 3085,
+   "gan": 9251.07,
+   "nNeta": 970,
+   "neta": 2166.82
   },
   {
    "s": 2,
-   "n": 1386,
-   "gan": 3721.46,
-   "nNeta": 381,
-   "neta": 505.75
+   "n": 1403,
+   "gan": 3756.89,
+   "nNeta": 383,
+   "neta": 508.84
   },
   {
    "s": 5,
-   "n": 800,
-   "gan": 2011.41,
-   "nNeta": 202,
-   "neta": 138.8
+   "n": 812,
+   "gan": 2041.52,
+   "nNeta": 203,
+   "neta": 141.35
   },
   {
    "s": 30,
-   "n": 270,
-   "gan": 631.38,
+   "n": 271,
+   "gan": 635.34,
    "nNeta": 32,
    "neta": 39.19
   }
  ],
- "rentables": 2158,
+ "rentables": 2185,
  "porCapital": [
   {
    "capital": 500,
    "ops": 92,
-   "descartadas": 353,
+   "descartadas": 354,
    "neta": 228.63,
-   "dias": 7.37,
-   "semana": 217.25
+   "dias": 7.4,
+   "semana": 216.23
   },
   {
    "capital": 1000,
-   "ops": 104,
-   "descartadas": 353,
-   "neta": 348.76,
-   "dias": 7.37,
-   "semana": 331.4
+   "ops": 106,
+   "descartadas": 354,
+   "neta": 352.04,
+   "dias": 7.4,
+   "semana": 332.94
   },
   {
    "capital": 2000,
-   "ops": 106,
-   "descartadas": 353,
-   "neta": 492.13,
-   "dias": 7.37,
-   "semana": 467.64
+   "ops": 108,
+   "descartadas": 354,
+   "neta": 495.41,
+   "dias": 7.4,
+   "semana": 468.53
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 2,
-   "horas": 39.2,
-   "episodios": 2375,
+   "horas": 40,
+   "episodios": 2472,
    "sospechosas": 10,
-   "realistaNeta": 123.36,
+   "realistaNeta": 127.18,
    "capital": {
     "500": 54.54,
-    "1000": 79.32,
-    "2000": 89.44
+    "1000": 82.6,
+    "2000": 92.72
    },
    "cumple": true
   }
@@ -250,32 +250,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7802,
-  "n": 1815,
-  "gan": 4780.52,
-  "nNeta": 469,
-  "neta": 744.11
+  "conDato": 7899,
+  "n": 1836,
+  "gan": 4820.7,
+  "nNeta": 472,
+  "neta": 747.93
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2722
+   "n": 2750
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3047
+   "n": 3092
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1325
+   "n": 1337
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 530
+   "n": 541
   },
   {
    "et": "30 s–5 min",
@@ -285,7 +285,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 114
+   "n": 115
   }
  ],
  "porEvento": [
@@ -333,8 +333,8 @@
   },
   {
    "titulo": "Spain General Election: BNG # of seats?",
-   "n": 106,
-   "gan": 92.11,
+   "n": 107,
+   "gan": 96.07,
    "neta": 0,
    "mediana": 0.513
   },
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795280400000,
-   "n": 78
-  },
   {
    "h": 1795284000000,
    "n": 147
@@ -647,129 +643,133 @@
   },
   {
    "h": 1795550400000,
-   "n": 57
+   "n": 61
+  },
+  {
+   "h": 1795554000000,
+   "n": 93
   }
  ],
  "recientes": [
   {
-   "inicio": 1795553204511,
-   "titulo": "Feyenoord Rotterdam vs. FC Porto",
-   "dur": 1.962,
-   "gan": 2,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795550204563,
+   "inicio": 1795553200039,
    "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 3001.91,
-   "gan": 4.11,
+   "dur": 3020.915,
+   "gan": 3.96,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795553204408,
+   "inicio": 1795556207823,
+   "titulo": "Middlesbrough FC vs. Swansea City AFC",
+   "dur": 0.573,
+   "gan": 0.9,
+   "neta": 0.75,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795556180226,
    "titulo": "Feyenoord Rotterdam vs. FC Porto",
-   "dur": 0.033,
-   "gan": 2,
+   "dur": 0.084,
+   "gan": 0.57,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795553084399,
-   "titulo": "Manchester City FC vs. SSC Napoli",
-   "dur": 1.089,
-   "gan": 1.72,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795553079747,
-   "titulo": "Manchester City FC vs. SSC Napoli",
-   "dur": 1.344,
-   "gan": 1.32,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795553070973,
-   "titulo": "Manchester City FC vs. SSC Napoli",
-   "dur": 0.83,
-   "gan": 1.87,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795553038885,
-   "titulo": "ŠK Slovan Bratislava vs. Real Betis Balompié",
-   "dur": 1.026,
-   "gan": 1.33,
-   "neta": 0.03,
    "lado": "no"
   },
   {
-   "inicio": 1795552412031,
-   "titulo": "RB Leipzig vs. Racing Club de Lens",
-   "dur": 0.357,
-   "gan": 0.87,
-   "neta": 0,
-   "lado": "si"
+   "inicio": 1795556179950,
+   "titulo": "Feyenoord Rotterdam vs. FC Porto",
+   "dur": 0.252,
+   "gan": 0.53,
+   "neta": 0.08,
+   "lado": "no"
   },
   {
-   "inicio": 1795552349178,
-   "titulo": "Como 1907 vs. AEK",
-   "dur": 2.46,
-   "gan": 3.03,
+   "inicio": 1795556178391,
+   "titulo": "Feyenoord Rotterdam vs. FC Porto",
+   "dur": 1.446,
+   "gan": 0.76,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795552349023,
-   "titulo": "Como 1907 vs. AEK",
-   "dur": 0.027,
-   "gan": 3.03,
+   "inicio": 1795556177987,
+   "titulo": "Feyenoord Rotterdam vs. FC Porto",
+   "dur": 0.362,
+   "gan": 1.55,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795552348937,
-   "titulo": "Como 1907 vs. AEK",
+   "inicio": 1795556172034,
+   "titulo": "Feyenoord Rotterdam vs. FC Porto",
+   "dur": 0.809,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795556172004,
+   "titulo": "Feyenoord Rotterdam vs. FC Porto",
+   "dur": 0.012,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795556171926,
+   "titulo": "Feyenoord Rotterdam vs. FC Porto",
+   "dur": 0.011,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795556170092,
+   "titulo": "Feyenoord Rotterdam vs. FC Porto",
+   "dur": 0.258,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795556169638,
+   "titulo": "Feyenoord Rotterdam vs. FC Porto",
+   "dur": 0.425,
+   "gan": 0.96,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795556168105,
+   "titulo": "Feyenoord Rotterdam vs. FC Porto",
+   "dur": 0.503,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795556147995,
+   "titulo": "Feyenoord Rotterdam vs. FC Porto",
+   "dur": 7.415,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795556147932,
+   "titulo": "Feyenoord Rotterdam vs. FC Porto",
    "dur": 0.046,
-   "gan": 3.03,
+   "gan": 0.53,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795552348836,
-   "titulo": "Como 1907 vs. AEK",
-   "dur": 0.052,
-   "gan": 3.03,
+   "inicio": 1795556147497,
+   "titulo": "Feyenoord Rotterdam vs. FC Porto",
+   "dur": 0.107,
+   "gan": 0.52,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795552317312,
-   "titulo": "Como 1907 vs. AEK",
-   "dur": 2.325,
-   "gan": 2.14,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795552314681,
-   "titulo": "Como 1907 vs. AEK",
-   "dur": 0.611,
-   "gan": 1.42,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795552301499,
-   "titulo": "Como 1907 vs. AEK",
-   "dur": 4.364,
-   "gan": 30.31,
-   "neta": 20.15,
-   "lado": "si"
+   "lado": "no"
   }
  ]
 }
