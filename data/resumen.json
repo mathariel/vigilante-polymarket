@@ -1,21 +1,21 @@
 {
- "actualizado": 1795477745299,
- "inicio": 1794838099082,
+ "actualizado": 1795480768495,
+ "inicio": 1794844215893,
  "ejecucion": {
-  "inicio": 1795474744937,
-  "fin": 1795477745300,
-  "mensajes": 12479112,
+  "inicio": 1795477768262,
+  "fin": 1795480768495,
+  "mensajes": 11227387,
   "reconexiones": 0,
-  "eventos": 520,
+  "eventos": 528,
   "errores": [],
-  "nuevos": 57,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.3
+  "nuevos": 67,
+  "nuevosRentables": 2,
+  "nuevosNeta": 1.61
  },
- "total": 6545,
- "falsos": 4386,
+ "total": 6551,
+ "falsos": 4384,
  "largos": {
-  "episodios": 20906,
+  "episodios": 20909,
   "eventos": 171,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 36,
   "eventos": 18
  },
- "mediana": 0.33,
+ "mediana": 0.329,
  "captura": [
   {
    "s": 0.5,
-   "n": 2858,
-   "gan": 8859.91,
-   "nNeta": 917,
-   "neta": 2106.53
+   "n": 2854,
+   "gan": 8816.96,
+   "nNeta": 914,
+   "neta": 2101.19
   },
   {
    "s": 2,
-   "n": 1312,
-   "gan": 3563.16,
-   "nNeta": 344,
-   "neta": 453.77
+   "n": 1314,
+   "gan": 3542.86,
+   "nNeta": 342,
+   "neta": 452.58
   },
   {
    "s": 5,
-   "n": 728,
-   "gan": 1870.45,
+   "n": 729,
+   "gan": 1871.26,
    "nNeta": 174,
    "neta": 126.85
   },
   {
    "s": 30,
-   "n": 229,
-   "gan": 533.74,
+   "n": 230,
+   "gan": 534.46,
    "nNeta": 22,
    "neta": 35.82
   }
  ],
- "rentables": 2087,
+ "rentables": 2085,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 86,
-   "descartadas": 317,
-   "neta": 195.98,
-   "dias": 7.3,
-   "semana": 187.91
+   "ops": 87,
+   "descartadas": 315,
+   "neta": 196.77,
+   "dias": 7.33,
+   "semana": 187.87
   },
   {
    "capital": 1000,
-   "ops": 96,
-   "descartadas": 317,
-   "neta": 306.05,
-   "dias": 7.3,
-   "semana": 293.46
+   "ops": 97,
+   "descartadas": 315,
+   "neta": 306.84,
+   "dias": 7.33,
+   "semana": 292.96
   },
   {
    "capital": 2000,
-   "ops": 98,
-   "descartadas": 317,
-   "neta": 449.42,
-   "dias": 7.3,
-   "semana": 430.93
+   "ops": 99,
+   "descartadas": 315,
+   "neta": 450.21,
+   "dias": 7.33,
+   "semana": 429.85
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 1,
-   "horas": 18.3,
-   "episodios": 576,
-   "sospechosas": 5,
-   "realistaNeta": 55.04,
+   "horas": 19.2,
+   "episodios": 643,
+   "sospechosas": 6,
+   "realistaNeta": 56.65,
    "capital": {
-    "500": 19.04,
-    "1000": 33.77,
-    "2000": 43.89
+    "500": 19.83,
+    "1000": 34.56,
+    "2000": 44.68
    },
    "cumple": true
   }
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 100,
+  "n": 101,
   "top": [
    {
     "inicio": 1795274262924,
@@ -250,27 +250,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6445,
-  "n": 1635,
-  "gan": 4519.09,
-  "nNeta": 425,
-  "neta": 685.75
+  "conDato": 6450,
+  "n": 1637,
+  "gan": 4498.3,
+  "nNeta": 424,
+  "neta": 686.02
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1896
+   "n": 1902
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2610
+   "n": 2608
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1300
+   "n": 1301
   },
   {
    "et": "5–30 s",
@@ -285,7 +285,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 87
+   "n": 88
   }
  ],
  "porEvento": [
@@ -295,13 +295,6 @@
    "gan": 124.38,
    "neta": 0,
    "mediana": 0.099
-  },
-  {
-   "titulo": "Kazakhstan vs. Slovakia",
-   "n": 155,
-   "gan": 207.54,
-   "neta": 21.02,
-   "mediana": 0.111
   },
   {
    "titulo": "Olympique de Marseille vs. Le Mans FC",
@@ -339,6 +332,13 @@
    "mediana": 0.104
   },
   {
+   "titulo": "SC Internacional vs. EC Vitória",
+   "n": 97,
+   "gan": 158.07,
+   "neta": 5.46,
+   "mediana": 0.098
+  },
+  {
    "titulo": "FC Barcelona vs. Villarreal CF",
    "n": 96,
    "gan": 433.46,
@@ -346,25 +346,21 @@
    "mediana": 0.71
   },
   {
+   "titulo": "Kazakhstan vs. Slovakia",
+   "n": 95,
+   "gan": 99.42,
+   "neta": 8.82,
+   "mediana": 0.122
+  },
+  {
    "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
    "n": 92,
    "gan": 68.48,
    "neta": 15.6,
    "mediana": 9.434
-  },
-  {
-   "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
-   "n": 91,
-   "gan": 85.07,
-   "neta": 3.85,
-   "mediana": 0.122
   }
  ],
  "porHora": [
-  {
-   "h": 1795204800000,
-   "n": 82
-  },
   {
    "h": 1795208400000,
    "n": 91
@@ -647,129 +643,133 @@
   },
   {
    "h": 1795474800000,
-   "n": 57
+   "n": 85
+  },
+  {
+   "h": 1795478400000,
+   "n": 39
   }
  ],
  "recientes": [
   {
-   "inicio": 1795476551513,
+   "inicio": 1795477768671,
    "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 1193.427,
-   "gan": 0.7,
+   "dur": 2999.593,
+   "gan": 0.72,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795476783560,
+   "inicio": 1795480588502,
    "titulo": "Botafogo FR vs. São Paulo FC",
-   "dur": 1.829,
+   "dur": 1.864,
+   "gan": 4.18,
+   "neta": 0.73,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795480587800,
+   "titulo": "Botafogo FR vs. São Paulo FC",
+   "dur": 0.648,
+   "gan": 1.09,
+   "neta": 0.72,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795479898257,
+   "titulo": "Lowest temperature in London on November 24?",
+   "dur": 0.749,
+   "gan": 0.84,
+   "neta": 0.79,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795479897477,
+   "titulo": "Lowest temperature in London on November 24?",
+   "dur": 0.295,
+   "gan": 3.71,
+   "neta": 3.59,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795479731367,
+   "titulo": "SC Internacional vs. EC Vitória",
+   "dur": 0.098,
    "gan": 0.74,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795476782593,
-   "titulo": "Botafogo FR vs. São Paulo FC",
-   "dur": 0.955,
-   "gan": 0.85,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795476772279,
-   "titulo": "Botafogo FR vs. São Paulo FC",
-   "dur": 0.427,
-   "gan": 0.57,
+   "inicio": 1795479731312,
+   "titulo": "SC Internacional vs. EC Vitória",
+   "dur": 0.004,
+   "gan": 0.74,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795476771604,
-   "titulo": "Botafogo FR vs. São Paulo FC",
-   "dur": 0.421,
-   "gan": 0.57,
+   "inicio": 1795479731298,
+   "titulo": "SC Internacional vs. EC Vitória",
+   "dur": 0.007,
+   "gan": 0.74,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795476613374,
-   "titulo": "Botafogo FR vs. São Paulo FC",
-   "dur": 1.235,
-   "gan": 0.81,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795476330254,
-   "titulo": "Botafogo FR vs. São Paulo FC",
-   "dur": 1.307,
-   "gan": 1.78,
+   "inicio": 1795479731177,
+   "titulo": "SC Internacional vs. EC Vitória",
+   "dur": 0.003,
+   "gan": 0.74,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795476175445,
+   "inicio": 1795479731146,
    "titulo": "SC Internacional vs. EC Vitória",
-   "dur": 2.664,
-   "gan": 1.8,
+   "dur": 0.005,
+   "gan": 0.74,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795476168104,
+   "inicio": 1795479731125,
    "titulo": "SC Internacional vs. EC Vitória",
-   "dur": 1.079,
-   "gan": 4.06,
+   "dur": 0.005,
+   "gan": 0.74,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795476140905,
+   "inicio": 1795479730938,
    "titulo": "SC Internacional vs. EC Vitória",
-   "dur": 0.016,
-   "gan": 0.66,
-   "neta": 0.11,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795476140663,
-   "titulo": "SC Internacional vs. EC Vitória",
-   "dur": 0.228,
-   "gan": 1.1,
+   "dur": 0.017,
+   "gan": 0.74,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795476140396,
+   "inicio": 1795479730805,
    "titulo": "SC Internacional vs. EC Vitória",
-   "dur": 0.038,
-   "gan": 0.57,
+   "dur": 0.004,
+   "gan": 0.74,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795476138737,
+   "inicio": 1795479730605,
    "titulo": "SC Internacional vs. EC Vitória",
-   "dur": 0.572,
-   "gan": 0.66,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795476135944,
-   "titulo": "SC Internacional vs. EC Vitória",
-   "dur": 0.841,
-   "gan": 0.93,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795476126777,
-   "titulo": "SC Internacional vs. EC Vitória",
-   "dur": 1.687,
-   "gan": 0.54,
+   "dur": 0.194,
+   "gan": 0.74,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
+  },
+  {
+   "inicio": 1795479728929,
+   "titulo": "SC Internacional vs. EC Vitória",
+   "dur": 0.056,
+   "gan": 0.79,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
