@@ -1,21 +1,21 @@
 {
- "actualizado": 1795501865568,
- "inicio": 1794853256113,
+ "actualizado": 1795504885125,
+ "inicio": 1794859341046,
  "ejecucion": {
-  "inicio": 1795498865288,
-  "fin": 1795501865568,
-  "mensajes": 10593869,
-  "reconexiones": 1,
-  "eventos": 537,
+  "inicio": 1795501884816,
+  "fin": 1795504885125,
+  "mensajes": 10240765,
+  "reconexiones": 0,
+  "eventos": 544,
   "errores": [],
-  "nuevos": 3,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 1,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.06
  },
- "total": 6580,
+ "total": 6563,
  "falsos": 4387,
  "largos": {
-  "episodios": 20934,
+  "episodios": 20957,
   "eventos": 172,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2888,
-   "gan": 8822.48,
+   "n": 2881,
+   "gan": 8815.17,
    "nNeta": 937,
-   "neta": 2103.33
+   "neta": 2102.97
   },
   {
    "s": 2,
-   "n": 1350,
-   "gan": 3559.72,
+   "n": 1347,
+   "gan": 3557.19,
    "nNeta": 368,
-   "neta": 466.7
+   "neta": 466.42
   },
   {
    "s": 5,
    "n": 767,
-   "gan": 1895.75,
+   "gan": 1897.62,
    "nNeta": 195,
-   "neta": 132.45
+   "neta": 132.17
   },
   {
    "s": 30,
-   "n": 254,
-   "gan": 554.05,
-   "nNeta": 31,
-   "neta": 39.12
+   "n": 256,
+   "gan": 558.36,
+   "nNeta": 32,
+   "neta": 39.18
   }
  ],
- "rentables": 2101,
+ "rentables": 2095,
  "porCapital": [
   {
    "capital": 500,
    "ops": 89,
    "descartadas": 341,
    "neta": 200.78,
-   "dias": 7.41,
-   "semana": 189.75
+   "dias": 7.43,
+   "semana": 189.24
   },
   {
    "capital": 1000,
    "ops": 99,
    "descartadas": 341,
    "neta": 310.85,
-   "dias": 7.41,
-   "semana": 293.78
+   "dias": 7.43,
+   "semana": 293
   },
   {
    "capital": 2000,
    "ops": 101,
    "descartadas": 341,
    "neta": 454.22,
-   "dias": 7.41,
-   "semana": 429.28
+   "dias": 7.43,
+   "semana": 428.13
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 2,
-   "horas": 25,
-   "episodios": 849,
+   "horas": 25.8,
+   "episodios": 851,
    "sospechosas": 7,
-   "realistaNeta": 76.08,
+   "realistaNeta": 76.14,
    "capital": {
     "500": 24.59,
     "1000": 39.32,
@@ -250,32 +250,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6480,
-  "n": 1682,
-  "gan": 4531.52,
+  "conDato": 6463,
+  "n": 1678,
+  "gan": 4528.42,
   "nNeta": 452,
-  "neta": 702.78
+  "neta": 702.5
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1889
+   "n": 1883
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2624
+   "n": 2619
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1289
+   "n": 1283
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 513
+   "n": 511
   },
   {
    "et": "30 s–5 min",
@@ -285,7 +285,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 105
+   "n": 107
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795226400000,
-   "n": 25
-  },
   {
    "h": 1795230000000,
    "n": 38
@@ -648,9 +644,29 @@
   {
    "h": 1795496400000,
    "n": 4
+  },
+  {
+   "h": 1795500000000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795501880050,
+   "titulo": "Spain General Election: BNG # of seats?",
+   "dur": 3004.769,
+   "gan": 0.92,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795501886698,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 2998.121,
+   "gan": 3.39,
+   "neta": 0.06,
+   "lado": "si"
+  },
   {
    "inicio": 1795498868340,
    "titulo": "Democratic 2028 presidential odds on November 27?",
@@ -753,22 +769,6 @@
    "dur": 173.107,
    "gan": 0.7,
    "neta": 0.35,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795495431734,
-   "titulo": "Highest temperature in Shenzhen on November 24?",
-   "dur": 0.046,
-   "gan": 0.64,
-   "neta": 0.54,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795495408372,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 0.414,
-   "gan": 0.64,
-   "neta": 0.31,
    "lado": "si"
   }
  ]
