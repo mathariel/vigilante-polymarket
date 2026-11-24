@@ -1,21 +1,21 @@
 {
- "actualizado": 1795513938492,
- "inicio": 1794889512879,
+ "actualizado": 1795516955408,
+ "inicio": 1794901565376,
  "ejecucion": {
-  "inicio": 1795510938243,
-  "fin": 1795513938492,
-  "mensajes": 11218878,
+  "inicio": 1795513955078,
+  "fin": 1795516955408,
+  "mensajes": 10627512,
   "reconexiones": 0,
-  "eventos": 552,
+  "eventos": 556,
   "errores": [],
-  "nuevos": 230,
-  "nuevosRentables": 1,
-  "nuevosNeta": 1.52
+  "nuevos": 30,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 7626,
- "falsos": 4372,
+ "total": 7656,
+ "falsos": 4351,
  "largos": {
-  "episodios": 19928,
+  "episodios": 19926,
   "eventos": 165,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 2905,
-   "gan": 8799.46,
-   "nNeta": 919,
-   "neta": 2097.76
+   "n": 2921,
+   "gan": 8818.86,
+   "nNeta": 921,
+   "neta": 2098.31
   },
   {
    "s": 2,
-   "n": 1316,
-   "gan": 3516.02,
+   "n": 1327,
+   "gan": 3530.93,
    "nNeta": 360,
    "neta": 462.61
   },
   {
    "s": 5,
-   "n": 759,
-   "gan": 1889.51,
+   "n": 768,
+   "gan": 1899.97,
    "nNeta": 192,
    "neta": 130.09
   },
   {
    "s": 30,
-   "n": 252,
-   "gan": 555.68,
+   "n": 258,
+   "gan": 562.1,
    "nNeta": 31,
    "neta": 38.33
   }
  ],
- "rentables": 2081,
+ "rentables": 2092,
  "porCapital": [
   {
    "capital": 500,
    "ops": 86,
    "descartadas": 336,
    "neta": 200.21,
-   "dias": 7.06,
-   "semana": 198.52
+   "dias": 7.09,
+   "semana": 197.54
   },
   {
    "capital": 1000,
    "ops": 96,
    "descartadas": 336,
    "neta": 310.28,
-   "dias": 7.06,
-   "semana": 307.67
+   "dias": 7.09,
+   "semana": 306.16
   },
   {
    "capital": 2000,
    "ops": 98,
    "descartadas": 336,
    "neta": 453.65,
-   "dias": 7.06,
-   "semana": 449.84
+   "dias": 7.09,
+   "semana": 447.62
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 2,
-   "horas": 28.3,
-   "episodios": 2082,
+   "horas": 29.2,
+   "episodios": 2112,
    "sospechosas": 7,
    "realistaNeta": 77.88,
    "capital": {
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7526,
-  "n": 1730,
-  "gan": 4549.4,
+  "conDato": 7556,
+  "n": 1742,
+  "gan": 4565.44,
   "nNeta": 444,
   "neta": 699.9
  },
@@ -260,32 +260,32 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2666
+   "n": 2674
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2933
+   "n": 2942
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1257
+   "n": 1261
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 507
+   "n": 510
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 145
+   "n": 149
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 107
+   "n": 109
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795240800000,
-   "n": 37
-  },
   {
    "h": 1795244400000,
    "n": 30
@@ -647,128 +643,132 @@
   },
   {
    "h": 1795510800000,
-   "n": 259
+   "n": 261
+  },
+  {
+   "h": 1795514400000,
+   "n": 28
   }
  ],
  "recientes": [
   {
-   "inicio": 1795513691509,
+   "inicio": 1795515406809,
    "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 246.737,
-   "gan": 0.95,
+   "dur": 1548.272,
+   "gan": 1.13,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795513929265,
-   "titulo": "Highest temperature in Tel Aviv on November 24?",
-   "dur": 0.93,
-   "gan": 2.08,
-   "neta": 1.97,
+   "inicio": 1795516953896,
+   "titulo": "Kyoto Sanga FC vs. FC Pohang Steelers",
+   "dur": 0.007,
+   "gan": 1.26,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795516948002,
+   "titulo": "Kyoto Sanga FC vs. FC Pohang Steelers",
+   "dur": 3.979,
+   "gan": 3.45,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795516893150,
+   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
+   "dur": 0.232,
+   "gan": 0.59,
+   "neta": 0.23,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795516882675,
+   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
+   "dur": 0.202,
+   "gan": 0.51,
+   "neta": 0.07,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795516882509,
+   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
+   "dur": 0.108,
+   "gan": 1.14,
+   "neta": 0.36,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795516274005,
+   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
+   "dur": 1.066,
+   "gan": 0.61,
+   "neta": 0.18,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795516267098,
+   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
+   "dur": 0.095,
+   "gan": 2.01,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795513689904,
-   "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 0.606,
-   "gan": 0.95,
+   "inicio": 1795515909361,
+   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
+   "dur": 0.487,
+   "gan": 0.61,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795513688801,
-   "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 0.088,
-   "gan": 0.95,
+   "inicio": 1795515908030,
+   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
+   "dur": 0.665,
+   "gan": 0.61,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795513685822,
-   "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 0.05,
-   "gan": 0.95,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795513337832,
-   "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 276.832,
-   "gan": 0.95,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795510867900,
-   "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 2454.183,
-   "gan": 1.08,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795512804972,
-   "titulo": "Newcastle United Jets vs. Kashiwa Reysol",
-   "dur": 0.109,
-   "gan": 0.76,
-   "neta": 0.33,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795512804943,
-   "titulo": "Newcastle United Jets vs. Kashiwa Reysol",
+   "inicio": 1795515905247,
+   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
    "dur": 0.002,
-   "gan": 0.56,
-   "neta": 0.17,
+   "gan": 0.63,
+   "neta": 0.01,
    "lado": "no"
   },
   {
-   "inicio": 1795512804617,
-   "titulo": "Newcastle United Jets vs. Kashiwa Reysol",
-   "dur": 0.3,
-   "gan": 1.22,
-   "neta": 0.49,
+   "inicio": 1795515905200,
+   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
+   "dur": 0.019,
+   "gan": 0.63,
+   "neta": 0.01,
    "lado": "no"
   },
   {
-   "inicio": 1795512803429,
-   "titulo": "Newcastle United Jets vs. Kashiwa Reysol",
-   "dur": 1.044,
-   "gan": 0.52,
-   "neta": 0.26,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795511012135,
-   "titulo": "GPU rental prices (H100) end of November?",
-   "dur": 1278.915,
-   "gan": 0.71,
+   "inicio": 1795515901924,
+   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
+   "dur": 3.225,
+   "gan": 1,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795512111740,
-   "titulo": "Newcastle United Jets vs. Kashiwa Reysol",
-   "dur": 1.28,
-   "gan": 1.54,
-   "neta": 0.2,
+   "inicio": 1795515890400,
+   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
+   "dur": 10.054,
+   "gan": 1.78,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795512111027,
-   "titulo": "Newcastle United Jets vs. Kashiwa Reysol",
-   "dur": 0.092,
-   "gan": 1.26,
-   "neta": 0.18,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795512110794,
-   "titulo": "Newcastle United Jets vs. Kashiwa Reysol",
-   "dur": 0.101,
-   "gan": 1.26,
-   "neta": 0.18,
+   "inicio": 1795515883453,
+   "titulo": "Daejeon Citizen FC vs. Beijing Guoan",
+   "dur": 0.205,
+   "gan": 5.45,
+   "neta": 1.77,
    "lado": "no"
   }
  ]
