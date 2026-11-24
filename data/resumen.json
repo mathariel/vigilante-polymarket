@@ -1,84 +1,84 @@
 {
- "actualizado": 1795507899646,
- "inicio": 1794862346263,
+ "actualizado": 1795510914793,
+ "inicio": 1794862393308,
  "ejecucion": {
-  "inicio": 1795504899314,
-  "fin": 1795507899646,
-  "mensajes": 10532196,
+  "inicio": 1795507914449,
+  "fin": 1795510914793,
+  "mensajes": 10482137,
   "reconexiones": 0,
   "eventos": 545,
   "errores": [],
-  "nuevos": 12,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.22
+  "nuevos": 986,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 6563,
- "falsos": 4367,
+ "total": 7459,
+ "falsos": 4365,
  "largos": {
-  "episodios": 20983,
-  "eventos": 172,
+  "episodios": 20096,
+  "eventos": 167,
   "dias": 7
  },
  "enEspera": {
   "episodios": 35,
   "eventos": 17
  },
- "mediana": 0.334,
+ "mediana": 0.243,
  "captura": [
   {
    "s": 0.5,
-   "n": 2875,
-   "gan": 8809.34,
-   "nNeta": 934,
-   "neta": 2101.11
+   "n": 2933,
+   "gan": 8825.2,
+   "nNeta": 920,
+   "neta": 2096.62
   },
   {
    "s": 2,
-   "n": 1347,
-   "gan": 3559.41,
-   "nNeta": 367,
-   "neta": 465.61
+   "n": 1346,
+   "gan": 3539.84,
+   "nNeta": 360,
+   "neta": 462.61
   },
   {
    "s": 5,
-   "n": 769,
-   "gan": 1901.89,
-   "nNeta": 195,
-   "neta": 132.17
+   "n": 768,
+   "gan": 1895.13,
+   "nNeta": 192,
+   "neta": 130.09
   },
   {
    "s": 30,
-   "n": 258,
-   "gan": 562.63,
-   "nNeta": 32,
-   "neta": 39.18
+   "n": 252,
+   "gan": 555,
+   "nNeta": 31,
+   "neta": 38.33
   }
  ],
- "rentables": 2098,
+ "rentables": 2077,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 89,
-   "descartadas": 341,
-   "neta": 200.78,
-   "dias": 7.43,
-   "semana": 189.05
+   "ops": 85,
+   "descartadas": 336,
+   "neta": 198.69,
+   "dias": 7.16,
+   "semana": 194.14
   },
   {
    "capital": 1000,
-   "ops": 99,
-   "descartadas": 341,
-   "neta": 310.85,
-   "dias": 7.43,
-   "semana": 292.71
+   "ops": 95,
+   "descartadas": 336,
+   "neta": 308.76,
+   "dias": 7.16,
+   "semana": 301.7
   },
   {
    "capital": 2000,
-   "ops": 101,
-   "descartadas": 341,
-   "neta": 454.22,
-   "dias": 7.43,
-   "semana": 427.7
+   "ops": 97,
+   "descartadas": 336,
+   "neta": 452.13,
+   "dias": 7.16,
+   "semana": 441.79
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 2,
-   "horas": 26.7,
-   "episodios": 864,
+   "horas": 27.5,
+   "episodios": 1851,
    "sospechosas": 7,
    "realistaNeta": 76.36,
    "capital": {
@@ -250,45 +250,52 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 6463,
-  "n": 1679,
-  "gan": 4531.22,
-  "nNeta": 452,
-  "neta": 701.91
+  "conDato": 7359,
+  "n": 1748,
+  "gan": 4562.38,
+  "nNeta": 443,
+  "neta": 698.38
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 1885
+   "n": 2515
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 2618
+   "n": 2884
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1280
+   "n": 1281
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 511
+   "n": 516
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 149
+   "n": 146
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 109
+   "n": 106
   }
  ],
  "porEvento": [
+  {
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "n": 973,
+   "gan": 700.54,
+   "neta": 0,
+   "mediana": 0.089
+  },
   {
    "titulo": "Bitcoin price on November 19?",
    "n": 179,
@@ -346,13 +353,6 @@
    "mediana": 0.71
   },
   {
-   "titulo": "\"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office",
-   "n": 92,
-   "gan": 68.48,
-   "neta": 15.6,
-   "mediana": 9.434
-  },
-  {
    "titulo": "FK Shakhtar Donetsk vs. FK Livyi Bereh",
    "n": 91,
    "gan": 85.07,
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795237200000,
-   "n": 52
-  },
   {
    "h": 1795240800000,
    "n": 37
@@ -647,129 +643,133 @@
   },
   {
    "h": 1795507200000,
-   "n": 3
+   "n": 962
+  },
+  {
+   "h": 1795510800000,
+   "n": 28
   }
  ],
  "recientes": [
   {
-   "inicio": 1795504899775,
+   "inicio": 1795507899002,
    "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 2999.542,
+   "dur": 3015.45,
    "gan": 1.1,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795507851687,
+   "inicio": 1795510913429,
    "titulo": "Elon Musk Net Worth on November 30?",
-   "dur": 0.021,
-   "gan": 0.6,
+   "dur": 0.085,
+   "gan": 0.66,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795507723796,
+   "inicio": 1795510912335,
    "titulo": "Elon Musk Net Worth on November 30?",
-   "dur": 0.207,
-   "gan": 0.6,
+   "dur": 0.086,
+   "gan": 0.66,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795507723683,
+   "inicio": 1795510908084,
    "titulo": "Elon Musk Net Worth on November 30?",
-   "dur": 0.031,
-   "gan": 0.6,
+   "dur": 0.299,
+   "gan": 0.66,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795504892650,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 2499.246,
-   "gan": 3.17,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795506990124,
-   "titulo": "Newcastle United Jets vs. Kashiwa Reysol",
-   "dur": 0.193,
-   "gan": 1.18,
-   "neta": 0.45,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795506958683,
-   "titulo": "Newcastle United Jets vs. Kashiwa Reysol",
-   "dur": 0.262,
-   "gan": 1.2,
-   "neta": 0.46,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795506952973,
-   "titulo": "Newcastle United Jets vs. Kashiwa Reysol",
-   "dur": 1.944,
-   "gan": 1.58,
-   "neta": 0.6,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795506940556,
-   "titulo": "Newcastle United Jets vs. Kashiwa Reysol",
-   "dur": 1.183,
-   "gan": 1.6,
-   "neta": 0.61,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795506761920,
-   "titulo": "Highest temperature in Wuhan on November 24?",
-   "dur": 0.016,
-   "gan": 0.59,
-   "neta": 0.54,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795506681932,
-   "titulo": "Newcastle United Jets vs. Kashiwa Reysol",
-   "dur": 0.413,
-   "gan": 0.57,
-   "neta": 0.42,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795506681779,
-   "titulo": "Newcastle United Jets vs. Kashiwa Reysol",
-   "dur": 0.026,
-   "gan": 0.59,
-   "neta": 0.31,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795506681345,
-   "titulo": "Newcastle United Jets vs. Kashiwa Reysol",
-   "dur": 0.196,
-   "gan": 1,
-   "neta": 0.66,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795501880050,
-   "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 3004.769,
-   "gan": 0.92,
+   "inicio": 1795510905757,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 0.111,
+   "gan": 0.66,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795501886698,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 2998.121,
-   "gan": 3.39,
-   "neta": 0.06,
-   "lado": "si"
+   "inicio": 1795510901400,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 0.106,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795510899311,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 0.096,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795510895033,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 0.267,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795510887951,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 0.074,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795510883006,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 0.075,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795510880106,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 0.114,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795510876328,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 0.161,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795510872854,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 0.464,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795510859689,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 0.177,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795510854788,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 0.11,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
