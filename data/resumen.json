@@ -1,84 +1,84 @@
 {
- "actualizado": 1795547166634,
+ "actualizado": 1795550182456,
  "inicio": 1794907572021,
  "ejecucion": {
-  "inicio": 1795544166293,
-  "fin": 1795547166634,
-  "mensajes": 12707438,
+  "inicio": 1795547182110,
+  "fin": 1795550182456,
+  "mensajes": 14966937,
   "reconexiones": 0,
-  "eventos": 550,
+  "eventos": 543,
   "errores": [],
-  "nuevos": 28,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.71
+  "nuevos": 32,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 7818,
- "falsos": 4418,
+ "total": 7848,
+ "falsos": 4445,
  "largos": {
-  "episodios": 19741,
-  "eventos": 168,
+  "episodios": 19687,
+  "eventos": 166,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 42,
+  "episodios": 44,
   "eventos": 20
  },
- "mediana": 0.228,
+ "mediana": 0.23,
  "captura": [
   {
    "s": 0.5,
-   "n": 2989,
-   "gan": 9003.82,
-   "nNeta": 946,
-   "neta": 2123.71
+   "n": 3008,
+   "gan": 9068.72,
+   "nNeta": 949,
+   "neta": 2134.99
   },
   {
    "s": 2,
-   "n": 1361,
-   "gan": 3632.45,
-   "nNeta": 375,
-   "neta": 484.21
+   "n": 1368,
+   "gan": 3643.71,
+   "nNeta": 374,
+   "neta": 482.94
   },
   {
    "s": 5,
-   "n": 786,
-   "gan": 1969.58,
+   "n": 791,
+   "gan": 1978.88,
    "nNeta": 199,
    "neta": 137.21
   },
   {
    "s": 30,
-   "n": 265,
-   "gan": 614.95,
+   "n": 267,
+   "gan": 619.7,
    "nNeta": 32,
    "neta": 39.19
   }
  ],
- "rentables": 2137,
+ "rentables": 2143,
  "porCapital": [
   {
    "capital": 500,
    "ops": 91,
-   "descartadas": 346,
+   "descartadas": 345,
    "neta": 213.94,
-   "dias": 7.37,
-   "semana": 203.23
+   "dias": 7.36,
+   "semana": 203.48
   },
   {
    "capital": 1000,
    "ops": 103,
-   "descartadas": 346,
+   "descartadas": 345,
    "neta": 328.61,
-   "dias": 7.37,
-   "semana": 312.16
+   "dias": 7.36,
+   "semana": 312.55
   },
   {
    "capital": 2000,
    "ops": 105,
-   "descartadas": 346,
+   "descartadas": 345,
    "neta": 471.98,
-   "dias": 7.37,
-   "semana": 448.35
+   "dias": 7.36,
+   "semana": 448.91
   }
  ],
  "maxBloqueoH": 24,
@@ -129,9 +129,9 @@
   {
    "lunes": "2026-11-23",
    "dias": 2,
-   "horas": 37.5,
-   "episodios": 2284,
-   "sospechosas": 8,
+   "horas": 38.3,
+   "episodios": 2317,
+   "sospechosas": 10,
    "realistaNeta": 99.96,
    "capital": {
     "500": 39.85,
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 101,
+  "n": 103,
   "top": [
    {
     "inicio": 1795274262924,
@@ -185,6 +185,16 @@
     "neta": 35.64,
     "costo": 304.65,
     "ret": 14.2
+   },
+   {
+    "inicio": 1795548817655,
+    "titulo": "FK Bodø/Glimt vs. LASK Linz",
+    "lado": "si",
+    "dur": 0.375,
+    "gan": 39.32,
+    "neta": 34.83,
+    "costo": 360.98,
+    "ret": 10.9
    },
    {
     "inicio": 1795054292065,
@@ -235,57 +245,47 @@
     "neta": 21.34,
     "costo": 46.9,
     "ret": 49.3
-   },
-   {
-    "inicio": 1795013651090,
-    "titulo": "Highest temperature in Seattle on November 18?",
-    "lado": "si",
-    "dur": 0.083,
-    "gan": 20.72,
-    "neta": 18.76,
-    "costo": 74.6,
-    "ret": 27.8
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7717,
-  "n": 1784,
-  "gan": 4681.28,
-  "nNeta": 461,
-  "neta": 721.98
+  "conDato": 7745,
+  "n": 1792,
+  "gan": 4693.09,
+  "nNeta": 460,
+  "neta": 720.71
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2712
+   "n": 2713
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3014
+   "n": 3027
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1295
+   "n": 1306
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 521
+   "n": 524
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 153
+   "n": 154
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 112
+   "n": 113
   }
  ],
  "porEvento": [
@@ -333,8 +333,8 @@
   },
   {
    "titulo": "Spain General Election: BNG # of seats?",
-   "n": 104,
-   "gan": 83.91,
+   "n": 105,
+   "gan": 88,
    "neta": 0,
    "mediana": 0.51
   },
@@ -647,129 +647,129 @@
   },
   {
    "h": 1795546800000,
-   "n": 1
+   "n": 34
   }
  ],
  "recientes": [
   {
-   "inicio": 1795545742013,
+   "inicio": 1795547180526,
    "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 1424.285,
-   "gan": 4.59,
+   "dur": 3001.588,
+   "gan": 4.09,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795546975542,
-   "titulo": "Al Nassr Club vs. Al Sadd SC",
-   "dur": 0.573,
-   "gan": 1.01,
+   "inicio": 1795550136006,
+   "titulo": "Bristol City FC vs. Wrexham AFC",
+   "dur": 0.194,
+   "gan": 1.2,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795550134377,
+   "titulo": "Sheffield United FC vs. Southampton FC",
+   "dur": 0.493,
+   "gan": 0.68,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795546602882,
+   "inicio": 1795549950442,
    "titulo": "Norwich City FC vs. Queens Park Rangers FC",
-   "dur": 341.43,
-   "gan": 1.3,
+   "dur": 1.069,
+   "gan": 2.24,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795546601801,
-   "titulo": "Norwich City FC vs. Queens Park Rangers FC",
-   "dur": 0.145,
-   "gan": 1.3,
+   "inicio": 1795549734006,
+   "titulo": "Virtus Entella vs. Hellas Verona FC",
+   "dur": 2.795,
+   "gan": 20.35,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795549657621,
+   "titulo": "Al Nassr Club vs. Al Sadd SC",
+   "dur": 1.102,
+   "gan": 1.33,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795546502407,
-   "titulo": "Norwich City FC vs. Queens Park Rangers FC",
-   "dur": 7.861,
-   "gan": 1.3,
+   "inicio": 1795549112674,
+   "titulo": "Galatasaray SK vs. Aston Villa FC",
+   "dur": 1.189,
+   "gan": 1.46,
+   "neta": 1.14,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795549078604,
+   "titulo": "Rangers FC vs. Aberdeen FC - Halftime Result",
+   "dur": 16.857,
+   "gan": 0.87,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795546420978,
+   "inicio": 1795549093224,
+   "titulo": "Galatasaray SK vs. Aston Villa FC",
+   "dur": 1.155,
+   "gan": 4.78,
+   "neta": 3.97,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795548953505,
+   "titulo": "Galatasaray SK vs. Aston Villa FC",
+   "dur": 1.111,
+   "gan": 12.26,
+   "neta": 7,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795548899335,
+   "titulo": "Galatasaray SK vs. Aston Villa FC",
+   "dur": 0.945,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795548859801,
+   "titulo": "Galatasaray SK vs. Aston Villa FC",
+   "dur": 1.003,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795548817655,
    "titulo": "FK Bodø/Glimt vs. LASK Linz",
-   "dur": 0.584,
-   "gan": 0.9,
-   "neta": 0,
-   "lado": "no"
+   "dur": 0.375,
+   "gan": 39.32,
+   "neta": 34.83,
+   "lado": "si"
   },
   {
-   "inicio": 1795546384992,
+   "inicio": 1795548809914,
+   "titulo": "FK Bodø/Glimt vs. LASK Linz",
+   "dur": 0.307,
+   "gan": 2.78,
+   "neta": 2.48,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795548704024,
    "titulo": "Galatasaray SK vs. Aston Villa FC",
-   "dur": 4.328,
-   "gan": 0.55,
+   "dur": 3.698,
+   "gan": 0.52,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1795546377230,
-   "titulo": "Galatasaray SK vs. Aston Villa FC",
-   "dur": 7.369,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795546286507,
-   "titulo": "Al Nassr Club vs. Al Sadd SC",
-   "dur": 0.264,
-   "gan": 0.93,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795546286485,
-   "titulo": "Al Nassr Club vs. Al Sadd SC",
-   "dur": 0.02,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795546286317,
-   "titulo": "Al Nassr Club vs. Al Sadd SC",
-   "dur": 0.025,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795546252880,
-   "titulo": "Al Nassr Club vs. Al Sadd SC - Halftime Result",
-   "dur": 3.099,
-   "gan": 1.93,
-   "neta": 0.66,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795546252721,
-   "titulo": "Al Nassr Club vs. Al Sadd SC - Halftime Result",
-   "dur": 0.121,
-   "gan": 1.29,
-   "neta": 0.32,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795546014790,
-   "titulo": "SS Juve Stabia vs. US Catanzaro 1929",
-   "dur": 0.685,
-   "gan": 0.96,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795545870922,
-   "titulo": "SS Juve Stabia vs. US Catanzaro 1929",
-   "dur": 0.407,
-   "gan": 1.11,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
