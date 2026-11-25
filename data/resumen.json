@@ -1,21 +1,21 @@
 {
- "actualizado": 1795613549152,
+ "actualizado": 1795616565960,
  "inicio": 1794934801302,
  "ejecucion": {
-  "inicio": 1795610548774,
-  "fin": 1795613549152,
-  "mensajes": 11778204,
+  "inicio": 1795613565558,
+  "fin": 1795616565960,
+  "mensajes": 11892829,
   "reconexiones": 0,
-  "eventos": 566,
+  "eventos": 561,
   "errores": [],
   "nuevos": 13,
-  "nuevosRentables": 4,
-  "nuevosNeta": 0.9
+  "nuevosRentables": 3,
+  "nuevosNeta": 2.06
  },
- "total": 8036,
- "falsos": 4621,
+ "total": 8044,
+ "falsos": 4617,
  "largos": {
-  "episodios": 19411,
+  "episodios": 19409,
   "eventos": 162,
   "dias": 7
  },
@@ -23,21 +23,21 @@
   "episodios": 45,
   "eventos": 21
  },
- "mediana": 0.235,
+ "mediana": 0.236,
  "captura": [
   {
    "s": 0.5,
-   "n": 3104,
-   "gan": 9329.5,
-   "nNeta": 999,
-   "neta": 2203.25
+   "n": 3108,
+   "gan": 9311.32,
+   "nNeta": 1003,
+   "neta": 2195.06
   },
   {
    "s": 2,
-   "n": 1427,
-   "gan": 3793.07,
-   "nNeta": 407,
-   "neta": 512.86
+   "n": 1429,
+   "gan": 3796.79,
+   "nNeta": 409,
+   "neta": 516.24
   },
   {
    "s": 5,
@@ -54,31 +54,31 @@
    "neta": 41.88
   }
  ],
- "rentables": 2237,
+ "rentables": 2247,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 96,
+   "ops": 99,
    "descartadas": 381,
-   "neta": 230.14,
-   "dias": 7.84,
-   "semana": 205.58
+   "neta": 232.2,
+   "dias": 7.86,
+   "semana": 206.67
   },
   {
    "capital": 1000,
-   "ops": 111,
+   "ops": 114,
    "descartadas": 381,
-   "neta": 355.58,
-   "dias": 7.84,
-   "semana": 317.63
+   "neta": 357.64,
+   "dias": 7.86,
+   "semana": 318.32
   },
   {
    "capital": 2000,
-   "ops": 114,
+   "ops": 117,
    "descartadas": 381,
-   "neta": 507.47,
-   "dias": 7.84,
-   "semana": 453.31
+   "neta": 509.53,
+   "dias": 7.86,
+   "semana": 453.51
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 3,
-   "horas": 55.8,
-   "episodios": 2697,
-   "sospechosas": 13,
-   "realistaNeta": 149.42,
+   "horas": 56.7,
+   "episodios": 2710,
+   "sospechosas": 15,
+   "realistaNeta": 151.48,
    "capital": {
-    "500": 59.77,
-    "1000": 89.86,
-    "2000": 108.5
+    "500": 61.83,
+    "1000": 91.92,
+    "2000": 110.56
    },
    "cumple": true
   }
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 105,
+  "n": 107,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,11 +250,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7931,
-  "n": 1859,
-  "gan": 4878.4,
-  "nNeta": 505,
-  "neta": 766.1
+  "conDato": 7937,
+  "n": 1862,
+  "gan": 4880.66,
+  "nNeta": 508,
+  "neta": 768.16
  },
  "duraciones": [
   {
@@ -265,12 +265,12 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3094
+   "n": 3100
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1334
+   "n": 1336
   },
   {
    "et": "5–30 s",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795338000000,
-   "n": 24
-  },
   {
    "h": 1795341600000,
    "n": 2
@@ -647,10 +643,118 @@
   },
   {
    "h": 1795611600000,
-   "n": 5
+   "n": 14
+  },
+  {
+   "h": 1795615200000,
+   "n": 4
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795615899775,
+   "titulo": "Audace Cerignola vs. Inter Milano U23",
+   "dur": 0.327,
+   "gan": 0.69,
+   "neta": 0.14,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795615839862,
+   "titulo": "Lowest temperature in Tokyo on November 25?",
+   "dur": 0.868,
+   "gan": 0.82,
+   "neta": 0.79,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795615652694,
+   "titulo": "PFC Nasaf vs. AL-Khaldiya SC",
+   "dur": 0.002,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795615506188,
+   "titulo": "Gukesh Dommaraju vs. Javokhir Sindarov - FIDE World Chess Championship 2026 (Game 2)",
+   "dur": 2.838,
+   "gan": 6.4,
+   "neta": 5.89,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795614520007,
+   "titulo": "Highest temperature in Amsterdam on November 25?",
+   "dur": 3.487,
+   "gan": 0.52,
+   "neta": 0.43,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795614393313,
+   "titulo": "Persib Bandung vs. FC Seoul",
+   "dur": 0.077,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795614170635,
+   "titulo": "Persib Bandung vs. FC Seoul",
+   "dur": 0.195,
+   "gan": 0.79,
+   "neta": 0.08,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795614170237,
+   "titulo": "Persib Bandung vs. FC Seoul",
+   "dur": 0.353,
+   "gan": 0.79,
+   "neta": 0.08,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795614169787,
+   "titulo": "Persib Bandung vs. FC Seoul",
+   "dur": 0.435,
+   "gan": 1.03,
+   "neta": 0.09,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795614168964,
+   "titulo": "Persib Bandung vs. FC Seoul",
+   "dur": 0.172,
+   "gan": 0.55,
+   "neta": 0.02,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795614167652,
+   "titulo": "Persib Bandung vs. FC Seoul",
+   "dur": 0.08,
+   "gan": 0.7,
+   "neta": 0.01,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795613953985,
+   "titulo": "Highest temperature in Amsterdam on November 25?",
+   "dur": 1.098,
+   "gan": 0.62,
+   "neta": 0.57,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795613642310,
+   "titulo": "Highest temperature in Madrid on November 25?",
+   "dur": 0.964,
+   "gan": 0.59,
+   "neta": 0.58,
+   "lado": "si"
+  },
   {
    "inicio": 1795613403682,
    "titulo": "Persib Bandung vs. FC Seoul",
@@ -666,110 +770,6 @@
    "gan": 1.9,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1795613401975,
-   "titulo": "Persib Bandung vs. FC Seoul",
-   "dur": 0.715,
-   "gan": 1.33,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795611762057,
-   "titulo": "Elon Musk # tweets November 23 - November 25, 2026?",
-   "dur": 0.018,
-   "gan": 0.61,
-   "neta": 0.32,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795611759862,
-   "titulo": "Elon Musk # tweets November 23 - November 25, 2026?",
-   "dur": 0.027,
-   "gan": 0.86,
-   "neta": 0.69,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795611445052,
-   "titulo": "GPU rental prices (B200) end of November?",
-   "dur": 10.472,
-   "gan": 0.64,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795611349071,
-   "titulo": "Persib Bandung vs. FC Seoul",
-   "dur": 0.132,
-   "gan": 1.01,
-   "neta": 0.37,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795611348671,
-   "titulo": "Persib Bandung vs. FC Seoul",
-   "dur": 0.327,
-   "gan": 1.87,
-   "neta": 0.72,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795611050445,
-   "titulo": "GPU rental prices (B200) end of November?",
-   "dur": 4.299,
-   "gan": 0.76,
-   "neta": 0.2,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795611044356,
-   "titulo": "GPU rental prices (B200) end of November?",
-   "dur": 5.852,
-   "gan": 0.76,
-   "neta": 0.2,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795611041745,
-   "titulo": "GPU rental prices (B200) end of November?",
-   "dur": 2.326,
-   "gan": 0.86,
-   "neta": 0.3,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795611039560,
-   "titulo": "GPU rental prices (B200) end of November?",
-   "dur": 1.845,
-   "gan": 0.86,
-   "neta": 0.3,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795611039148,
-   "titulo": "GPU rental prices (B200) end of November?",
-   "dur": 0.042,
-   "gan": 1.22,
-   "neta": 0.35,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795610324712,
-   "titulo": "GPU rental prices (B200) end of November?",
-   "dur": 0.239,
-   "gan": 1.44,
-   "neta": 0.54,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795610324453,
-   "titulo": "GPU rental prices (B200) end of November?",
-   "dur": 0.126,
-   "gan": 0.8,
-   "neta": 0,
-   "lado": "si"
   }
  ]
 }
