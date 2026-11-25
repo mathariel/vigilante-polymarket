@@ -1,21 +1,21 @@
 {
- "actualizado": 1795619591526,
+ "actualizado": 1795622610174,
  "inicio": 1794935304925,
  "ejecucion": {
-  "inicio": 1795616591289,
-  "fin": 1795619591526,
-  "mensajes": 12173089,
+  "inicio": 1795619609896,
+  "fin": 1795622610174,
+  "mensajes": 11167030,
   "reconexiones": 0,
-  "eventos": 562,
+  "eventos": 556,
   "errores": [],
-  "nuevos": 5,
-  "nuevosRentables": 2,
-  "nuevosNeta": 1.05
+  "nuevos": 1,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 8044,
+ "total": 8043,
  "falsos": 4621,
  "largos": {
-  "episodios": 19407,
+  "episodios": 19409,
   "eventos": 162,
   "dias": 7
  },
@@ -27,8 +27,8 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3110,
-   "gan": 9312.71,
+   "n": 3111,
+   "gan": 9313.41,
    "nNeta": 1005,
    "neta": 2196.11
   },
@@ -61,24 +61,24 @@
    "ops": 99,
    "descartadas": 383,
    "neta": 232.2,
-   "dias": 7.9,
-   "semana": 205.76
+   "dias": 7.93,
+   "semana": 205.03
   },
   {
    "capital": 1000,
    "ops": 114,
    "descartadas": 383,
    "neta": 357.64,
-   "dias": 7.9,
-   "semana": 316.91
+   "dias": 7.93,
+   "semana": 315.8
   },
   {
    "capital": 2000,
    "ops": 117,
    "descartadas": 383,
    "neta": 509.53,
-   "dias": 7.9,
-   "semana": 451.51
+   "dias": 7.93,
+   "semana": 449.92
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 3,
-   "horas": 57.5,
-   "episodios": 2715,
+   "horas": 58.3,
+   "episodios": 2716,
    "sospechosas": 15,
    "realistaNeta": 152.53,
    "capital": {
@@ -250,7 +250,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7937,
+  "conDato": 7936,
   "n": 1864,
   "gan": 4882.05,
   "nNeta": 510,
@@ -260,17 +260,17 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2764
+   "n": 2763
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3097
+   "n": 3096
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1336
+   "n": 1337
   },
   {
    "et": "5–30 s",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795341600000,
-   "n": 2
-  },
   {
    "h": 1795345200000,
    "n": 43
@@ -648,9 +644,21 @@
   {
    "h": 1795615200000,
    "n": 9
+  },
+  {
+   "h": 1795618800000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795619817021,
+   "titulo": "PFC Nasaf vs. AL-Khaldiya SC",
+   "dur": 1.332,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795618704728,
    "titulo": "Elon Musk # tweets November 23 - November 25, 2026?",
@@ -761,14 +769,6 @@
    "dur": 0.435,
    "gan": 1.03,
    "neta": 0.09,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795614168964,
-   "titulo": "Persib Bandung vs. FC Seoul",
-   "dur": 0.172,
-   "gan": 0.55,
-   "neta": 0.02,
    "lado": "no"
   }
  ]
