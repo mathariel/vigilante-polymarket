@@ -1,21 +1,21 @@
 {
- "actualizado": 1795574340270,
+ "actualizado": 1795577354192,
  "inicio": 1794922725124,
  "ejecucion": {
-  "inicio": 1795571340035,
-  "fin": 1795574340270,
-  "mensajes": 9053187,
+  "inicio": 1795574353863,
+  "fin": 1795577354192,
+  "mensajes": 9149210,
   "reconexiones": 0,
-  "eventos": 521,
+  "eventos": 519,
   "errores": [],
-  "nuevos": 2,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 9,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.21
  },
- "total": 8018,
- "falsos": 4580,
+ "total": 8023,
+ "falsos": 4586,
  "largos": {
-  "episodios": 19421,
+  "episodios": 19413,
   "eventos": 166,
   "dias": 7
  },
@@ -27,17 +27,17 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3104,
-   "gan": 9281.29,
-   "nNeta": 981,
-   "neta": 2179.38
+   "n": 3107,
+   "gan": 9298.54,
+   "nNeta": 984,
+   "neta": 2192.62
   },
   {
    "s": 2,
-   "n": 1419,
-   "gan": 3775.39,
-   "nNeta": 393,
-   "neta": 511.05
+   "n": 1421,
+   "gan": 3777.87,
+   "nNeta": 394,
+   "neta": 511.26
   },
   {
    "s": 5,
@@ -54,31 +54,31 @@
    "neta": 39.39
   }
  ],
- "rentables": 2203,
+ "rentables": 2209,
  "porCapital": [
   {
    "capital": 500,
    "ops": 92,
-   "descartadas": 365,
+   "descartadas": 366,
    "neta": 228.63,
-   "dias": 7.54,
-   "semana": 212.28
+   "dias": 7.57,
+   "semana": 211.36
   },
   {
    "capital": 1000,
    "ops": 107,
-   "descartadas": 365,
+   "descartadas": 366,
    "neta": 354.07,
-   "dias": 7.54,
-   "semana": 328.74
+   "dias": 7.57,
+   "semana": 327.32
   },
   {
    "capital": 2000,
    "ops": 110,
-   "descartadas": 365,
+   "descartadas": 366,
    "neta": 505.96,
-   "dias": 7.54,
-   "semana": 469.77
+   "dias": 7.57,
+   "semana": 467.73
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 2,
-   "horas": 45,
-   "episodios": 2559,
-   "sospechosas": 11,
-   "realistaNeta": 139.99,
+   "horas": 45.8,
+   "episodios": 2568,
+   "sospechosas": 12,
+   "realistaNeta": 140.2,
    "capital": {
     "500": 54.54,
     "1000": 84.63,
@@ -144,8 +144,18 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 104,
+  "n": 105,
   "top": [
+   {
+    "inicio": 1795574360666,
+    "titulo": "América de Cali vs. AD Cali",
+    "lado": "si",
+    "dur": 0.306,
+    "gan": 203.32,
+    "neta": 172.21,
+    "costo": 1185.34,
+    "ret": 17.2
+   },
    {
     "inicio": 1795274262924,
     "titulo": "Como 1907 vs. Cagliari Calcio",
@@ -235,42 +245,32 @@
     "neta": 22.9,
     "costo": 47.56,
     "ret": 49.6
-   },
-   {
-    "inicio": 1795463273812,
-    "titulo": "Al Quwa Al Jawiya vs. Al Gharafa SC",
-    "lado": "si",
-    "dur": 1.329,
-    "gan": 23.41,
-    "neta": 18.04,
-    "costo": 186.99,
-    "ret": 12.5
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7914,
-  "n": 1858,
-  "gan": 4860.64,
-  "nNeta": 485,
-  "neta": 760.42
+  "conDato": 7918,
+  "n": 1860,
+  "gan": 4863.12,
+  "nNeta": 486,
+  "neta": 760.63
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2745
+   "n": 2746
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3087
+   "n": 3088
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1351
+   "n": 1354
   },
   {
    "et": "5–30 s",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795298400000,
-   "n": 31
-  },
   {
    "h": 1795302000000,
    "n": 61
@@ -647,10 +643,86 @@
   },
   {
    "h": 1795572000000,
-   "n": 2
+   "n": 7
+  },
+  {
+   "h": 1795575600000,
+   "n": 4
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795576995872,
+   "titulo": "América de Cali vs. AD Cali",
+   "dur": 1.005,
+   "gan": 3.41,
+   "neta": 1.68,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795576994539,
+   "titulo": "América de Cali vs. AD Cali",
+   "dur": 0.183,
+   "gan": 1.11,
+   "neta": 0.76,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795576993816,
+   "titulo": "América de Cali vs. AD Cali",
+   "dur": 0.503,
+   "gan": 3.99,
+   "neta": 3.41,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795576568265,
+   "titulo": "América de Cali vs. AD Cali",
+   "dur": 2.474,
+   "gan": 1.48,
+   "neta": 0.21,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795575450567,
+   "titulo": "América de Cali vs. AD Cali",
+   "dur": 0.396,
+   "gan": 0.83,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795574565130,
+   "titulo": "América de Cali vs. AD Cali",
+   "dur": 0.331,
+   "gan": 8.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795574383429,
+   "titulo": "América de Cali vs. AD Cali",
+   "dur": 4.166,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795574368149,
+   "titulo": "América de Cali vs. AD Cali",
+   "dur": 0.036,
+   "gan": 0.58,
+   "neta": 0.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795574360666,
+   "titulo": "América de Cali vs. AD Cali",
+   "dur": 0.306,
+   "gan": 203.32,
+   "neta": 172.21,
+   "lado": "si"
+  },
   {
    "inicio": 1795574240270,
    "titulo": "América de Cali vs. AD Cali",
@@ -697,78 +769,6 @@
    "dur": 543.964,
    "gan": 1.47,
    "neta": 0.22,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795568150988,
-   "titulo": "Okta (OKTA) Q3 cRPO growth?",
-   "dur": 127.102,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795567659649,
-   "titulo": "Will Claude go down on __ days in November 2026?",
-   "dur": 4.852,
-   "gan": 1.26,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795567650941,
-   "titulo": "Will Claude go down on __ days in November 2026?",
-   "dur": 1.338,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795566546051,
-   "titulo": "Millonarios FC vs. CA Bucaramanga",
-   "dur": 0.618,
-   "gan": 0.84,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795565245216,
-   "titulo": "GPU rental prices (B200) end of November?",
-   "dur": 4.78,
-   "gan": 0.52,
-   "neta": 0.05,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795564491893,
-   "titulo": "Millonarios FC vs. CA Bucaramanga",
-   "dur": 0.894,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795564487464,
-   "titulo": "Millonarios FC vs. CA Bucaramanga",
-   "dur": 4.389,
-   "gan": 0.73,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795564272931,
-   "titulo": "Millonarios FC vs. CA Bucaramanga",
-   "dur": 0.811,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795564272657,
-   "titulo": "Millonarios FC vs. CA Bucaramanga",
-   "dur": 0.146,
-   "gan": 0.6,
-   "neta": 0,
    "lado": "si"
   }
  ]
