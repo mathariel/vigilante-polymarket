@@ -1,84 +1,84 @@
 {
- "actualizado": 1795646738039,
+ "actualizado": 1795649752173,
  "inicio": 1794949792535,
  "ejecucion": {
-  "inicio": 1795643737709,
-  "fin": 1795646738040,
-  "mensajes": 10296301,
+  "inicio": 1795646751844,
+  "fin": 1795649752173,
+  "mensajes": 10507688,
   "reconexiones": 0,
-  "eventos": 532,
+  "eventos": 529,
   "errores": [],
-  "nuevos": 4,
+  "nuevos": 9,
   "nuevosRentables": 1,
-  "nuevosNeta": 6.64
+  "nuevosNeta": 1.79
  },
- "total": 8421,
+ "total": 8399,
  "falsos": 4706,
  "largos": {
-  "episodios": 18955,
+  "episodios": 18977,
   "eventos": 163,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 58,
-  "eventos": 26
+  "episodios": 60,
+  "eventos": 27
  },
  "mediana": 0.239,
  "captura": [
   {
    "s": 0.5,
-   "n": 3259,
-   "gan": 10004.8,
+   "n": 3252,
+   "gan": 9991.74,
    "nNeta": 1047,
-   "neta": 2484.01
+   "neta": 2485.53
   },
   {
    "s": 2,
    "n": 1500,
-   "gan": 4242.58,
+   "gan": 4241.63,
    "nNeta": 434,
-   "neta": 742.1
+   "neta": 743.62
   },
   {
    "s": 5,
-   "n": 861,
-   "gan": 2203.96,
+   "n": 862,
+   "gan": 2205.4,
    "nNeta": 235,
    "neta": 225.99
   },
   {
    "s": 30,
-   "n": 281,
-   "gan": 666.27,
+   "n": 282,
+   "gan": 667.71,
    "nNeta": 38,
    "neta": 41.75
   }
  ],
- "rentables": 2352,
+ "rentables": 2353,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 109,
-   "descartadas": 401,
-   "neta": 239.83,
-   "dias": 8.06,
-   "semana": 208.21
+   "ops": 110,
+   "descartadas": 400,
+   "neta": 241.62,
+   "dias": 8.1,
+   "semana": 208.93
   },
   {
    "capital": 1000,
-   "ops": 122,
-   "descartadas": 401,
-   "neta": 367.62,
-   "dias": 8.06,
-   "semana": 319.15
+   "ops": 123,
+   "descartadas": 400,
+   "neta": 369.41,
+   "dias": 8.1,
+   "semana": 319.43
   },
   {
    "capital": 2000,
-   "ops": 129,
-   "descartadas": 401,
-   "neta": 555.87,
-   "dias": 8.06,
-   "semana": 482.59
+   "ops": 130,
+   "descartadas": 400,
+   "neta": 557.66,
+   "dias": 8.1,
+   "semana": 482.22
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 3,
-   "horas": 65,
-   "episodios": 3338,
+   "horas": 65.8,
+   "episodios": 3347,
    "sospechosas": 19,
-   "realistaNeta": 438.92,
+   "realistaNeta": 440.71,
    "capital": {
-    "500": 69.83,
-    "1000": 102.67,
-    "2000": 178.9
+    "500": 71.62,
+    "1000": 104.46,
+    "2000": 180.69
    },
    "cumple": true
   }
@@ -250,27 +250,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8311,
+  "conDato": 8289,
   "n": 1957,
-  "gan": 5425.82,
+  "gan": 5424.5,
   "nNeta": 540,
-  "neta": 1007.11
+  "neta": 1008.63
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2867
+   "n": 2863
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3249
+   "n": 3231
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1432
+   "n": 1431
   },
   {
    "et": "5–30 s",
@@ -285,7 +285,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 128
+   "n": 129
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795370400000,
-   "n": 41
-  },
   {
    "h": 1795374000000,
    "n": 36
@@ -647,10 +643,86 @@
   },
   {
    "h": 1795644000000,
-   "n": 2
+   "n": 6
+  },
+  {
+   "h": 1795647600000,
+   "n": 5
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795646755523,
+   "titulo": "Spain General Election: Turnout",
+   "dur": 2996.322,
+   "gan": 1.44,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795649746519,
+   "titulo": "CA Mineiro vs. SC Corinthians Paulista - Halftime Result",
+   "dur": 1.056,
+   "gan": 3.96,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795649731460,
+   "titulo": "CA Mineiro vs. SC Corinthians Paulista - Halftime Result",
+   "dur": 1.052,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795649212676,
+   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
+   "dur": 0.342,
+   "gan": 1.83,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795648988030,
+   "titulo": "Highest temperature in Wellington on November 26?",
+   "dur": 3.336,
+   "gan": 1.9,
+   "neta": 1.79,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795648039703,
+   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
+   "dur": 1.828,
+   "gan": 0.82,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795647454816,
+   "titulo": "Highest temperature in Wellington on November 26?",
+   "dur": 0.128,
+   "gan": 0.57,
+   "neta": 0.54,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795647454754,
+   "titulo": "Highest temperature in Wellington on November 26?",
+   "dur": 0.027,
+   "gan": 0.57,
+   "neta": 0.52,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795647200433,
+   "titulo": "Spain General Election: PSOE # of seats?",
+   "dur": 0.112,
+   "gan": 0.91,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795644648730,
    "titulo": "Spain General Election: Turnout",
@@ -698,78 +770,6 @@
    "gan": 5.15,
    "neta": 2.71,
    "lado": "no"
-  },
-  {
-   "inicio": 1795643475616,
-   "titulo": "Sporting CP vs. Manchester United FC",
-   "dur": 4.471,
-   "gan": 1.02,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795643474021,
-   "titulo": "Sporting CP vs. Manchester United FC",
-   "dur": 1.145,
-   "gan": 1.3,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795643471376,
-   "titulo": "Sporting CP vs. Manchester United FC",
-   "dur": 0.33,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795643470294,
-   "titulo": "Sporting CP vs. Manchester United FC",
-   "dur": 0.042,
-   "gan": 0.8,
-   "neta": 0.1,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795643470043,
-   "titulo": "Sporting CP vs. Manchester United FC",
-   "dur": 0.032,
-   "gan": 18.59,
-   "neta": 4.75,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795643469299,
-   "titulo": "Sporting CP vs. Manchester United FC",
-   "dur": 0.119,
-   "gan": 0.6,
-   "neta": 0.23,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795643469250,
-   "titulo": "Sporting CP vs. Manchester United FC",
-   "dur": 0.008,
-   "gan": 0.58,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795643469146,
-   "titulo": "Sporting CP vs. Manchester United FC",
-   "dur": 0.033,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795643469130,
-   "titulo": "Sporting CP vs. Manchester United FC",
-   "dur": 0.01,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "si"
   }
  ]
 }
