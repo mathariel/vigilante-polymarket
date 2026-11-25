@@ -1,84 +1,84 @@
 {
- "actualizado": 1795628648801,
+ "actualizado": 1795631667000,
  "inicio": 1794937590064,
  "ejecucion": {
-  "inicio": 1795625648451,
-  "fin": 1795628648801,
-  "mensajes": 11173343,
+  "inicio": 1795628666650,
+  "fin": 1795631667000,
+  "mensajes": 11903065,
   "reconexiones": 0,
-  "eventos": 544,
+  "eventos": 541,
   "errores": [],
-  "nuevos": 6,
-  "nuevosRentables": 2,
-  "nuevosNeta": 1.53
+  "nuevos": 70,
+  "nuevosRentables": 7,
+  "nuevosNeta": 5.51
  },
- "total": 8054,
- "falsos": 4618,
+ "total": 8110,
+ "falsos": 4628,
  "largos": {
-  "episodios": 19407,
-  "eventos": 162,
+  "episodios": 19341,
+  "eventos": 164,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 45,
-  "eventos": 21
+  "episodios": 47,
+  "eventos": 22
  },
- "mediana": 0.237,
+ "mediana": 0.238,
  "captura": [
   {
    "s": 0.5,
-   "n": 3118,
-   "gan": 9353.42,
-   "nNeta": 1008,
-   "neta": 2198.94
+   "n": 3143,
+   "gan": 9445.33,
+   "nNeta": 1014,
+   "neta": 2204.15
   },
   {
    "s": 2,
-   "n": 1436,
-   "gan": 3835.95,
-   "nNeta": 413,
-   "neta": 518.63
+   "n": 1450,
+   "gan": 3901.84,
+   "nNeta": 414,
+   "neta": 520.84
   },
   {
    "s": 5,
-   "n": 840,
-   "gan": 2122.18,
-   "nNeta": 222,
-   "neta": 148.78
+   "n": 848,
+   "gan": 2138.19,
+   "nNeta": 223,
+   "neta": 149.44
   },
   {
    "s": 30,
-   "n": 287,
-   "gan": 680.84,
+   "n": 289,
+   "gan": 685.57,
    "nNeta": 39,
    "neta": 42.56
   }
  ],
- "rentables": 2259,
+ "rentables": 2283,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 101,
-   "descartadas": 383,
-   "neta": 233.73,
-   "dias": 8,
-   "semana": 204.58
+   "ops": 107,
+   "descartadas": 382,
+   "neta": 237.82,
+   "dias": 8.03,
+   "semana": 207.4
   },
   {
    "capital": 1000,
-   "ops": 116,
-   "descartadas": 383,
-   "neta": 359.17,
-   "dias": 8,
-   "semana": 314.38
+   "ops": 122,
+   "descartadas": 382,
+   "neta": 363.26,
+   "dias": 8.03,
+   "semana": 316.8
   },
   {
    "capital": 2000,
-   "ops": 119,
-   "descartadas": 383,
-   "neta": 511.06,
-   "dias": 8,
-   "semana": 447.32
+   "ops": 125,
+   "descartadas": 382,
+   "neta": 515.15,
+   "dias": 8.03,
+   "semana": 449.26
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 3,
-   "horas": 60,
-   "episodios": 2727,
+   "horas": 60.8,
+   "episodios": 2797,
    "sospechosas": 16,
-   "realistaNeta": 154.06,
+   "realistaNeta": 159.57,
    "capital": {
-    "500": 63.36,
-    "1000": 93.45,
-    "2000": 112.09
+    "500": 67.45,
+    "1000": 97.54,
+    "2000": 116.18
    },
    "cumple": true
   }
@@ -250,42 +250,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7946,
-  "n": 1870,
-  "gan": 4920.67,
-  "nNeta": 512,
-  "neta": 770.74
+  "conDato": 8002,
+  "n": 1893,
+  "gan": 4993.27,
+  "nNeta": 517,
+  "neta": 776.14
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2766
+   "n": 2781
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3098
+   "n": 3113
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1339
+   "n": 1356
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 553
+   "n": 559
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 160
+   "n": 161
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 127
+   "n": 128
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795352400000,
-   "n": 84
-  },
   {
    "h": 1795356000000,
    "n": 93
@@ -647,129 +643,133 @@
   },
   {
    "h": 1795626000000,
-   "n": 6
+   "n": 19
+  },
+  {
+   "h": 1795629600000,
+   "n": 57
   }
  ],
  "recientes": [
   {
-   "inicio": 1795625641403,
-   "titulo": "Burnley FC vs. Birmingham City FC",
-   "dur": 3007.052,
-   "gan": 1.27,
+   "inicio": 1795631489046,
+   "titulo": "SK Slavia Praha vs. Villarreal CF",
+   "dur": 0.143,
+   "gan": 1.02,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795631476868,
+   "titulo": "SK Slavia Praha vs. Villarreal CF",
+   "dur": 0.063,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795631476353,
+   "titulo": "SK Slavia Praha vs. Villarreal CF",
+   "dur": 0.045,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795631459159,
+   "titulo": "SK Slavia Praha vs. Villarreal CF",
+   "dur": 6.613,
+   "gan": 1.04,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795628546769,
-   "titulo": "OpenAI’s valuation end of November 2026?",
-   "dur": 0.01,
-   "gan": 0.86,
-   "neta": 0,
+   "inicio": 1795631463564,
+   "titulo": "Sabah FK vs. FC Barcelona - Halftime Result",
+   "dur": 0.192,
+   "gan": 0.62,
+   "neta": 0.48,
    "lado": "si"
   },
   {
-   "inicio": 1795628356288,
-   "titulo": "Lowest temperature in Hong Kong on November 26?",
-   "dur": 5.525,
-   "gan": 1.06,
-   "neta": 0.94,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795628357126,
-   "titulo": "Lowest temperature in Hong Kong on November 26?",
-   "dur": 0.026,
-   "gan": 1.12,
-   "neta": 1,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795628355943,
-   "titulo": "Lowest temperature in Hong Kong on November 26?",
-   "dur": 0.238,
-   "gan": 0.91,
-   "neta": 0.79,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795628308134,
-   "titulo": "Lowest temperature in Hong Kong on November 26?",
-   "dur": 0.851,
-   "gan": 1.38,
-   "neta": 1.28,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795628093865,
-   "titulo": "Lowest temperature in Hong Kong on November 26?",
-   "dur": 3.264,
-   "gan": 0.72,
-   "neta": 0.4,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795623725912,
-   "titulo": "Burnley FC vs. Birmingham City FC",
-   "dur": 1902.825,
+   "inicio": 1795631434067,
+   "titulo": "SK Slavia Praha vs. Villarreal CF",
+   "dur": 1.644,
    "gan": 0.5,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795625074416,
-   "titulo": "Lowest temperature in Hong Kong on November 27?",
-   "dur": 0.03,
-   "gan": 0.53,
-   "neta": 0.38,
-   "lado": "no"
+   "inicio": 1795631432584,
+   "titulo": "SK Slavia Praha vs. Villarreal CF",
+   "dur": 0.097,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
   },
   {
-   "inicio": 1795624216446,
-   "titulo": "Spain General Election: Turnout",
-   "dur": 1.444,
-   "gan": 0.88,
-   "neta": 0.01,
-   "lado": "no"
+   "inicio": 1795631421436,
+   "titulo": "SK Slavia Praha vs. Villarreal CF",
+   "dur": 3.275,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "si"
   },
   {
-   "inicio": 1795623770261,
-   "titulo": "Olympiakós SFP vs. AC Milan",
-   "dur": 124.305,
-   "gan": 43.92,
+   "inicio": 1795631415249,
+   "titulo": "SK Slavia Praha vs. Villarreal CF",
+   "dur": 0.398,
+   "gan": 0.91,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795631415039,
+   "titulo": "SK Slavia Praha vs. Villarreal CF",
+   "dur": 0.081,
+   "gan": 0.91,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795631414545,
+   "titulo": "SK Slavia Praha vs. Villarreal CF",
+   "dur": 0.276,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795631411251,
+   "titulo": "SK Slavia Praha vs. Villarreal CF",
+   "dur": 3.169,
+   "gan": 4.24,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795631391887,
+   "titulo": "SK Slavia Praha vs. Villarreal CF",
+   "dur": 5.433,
+   "gan": 1.46,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795631374424,
+   "titulo": "SK Slavia Praha vs. Villarreal CF",
+   "dur": 3.966,
+   "gan": 0.98,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795631357187,
+   "titulo": "SK Slavia Praha vs. Villarreal CF",
+   "dur": 0.509,
+   "gan": 1.33,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1795619817021,
-   "titulo": "PFC Nasaf vs. AL-Khaldiya SC",
-   "dur": 1.332,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795618704728,
-   "titulo": "Elon Musk # tweets November 23 - November 25, 2026?",
-   "dur": 0.045,
-   "gan": 0.64,
-   "neta": 0.45,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795618606647,
-   "titulo": "Lowest temperature in Hong Kong on November 26?",
-   "dur": 72.147,
-   "gan": 0.52,
-   "neta": 0.3,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795618360382,
-   "titulo": "Lowest temperature in Hong Kong on November 26?",
-   "dur": 5.133,
-   "gan": 0.63,
-   "neta": 0.53,
-   "lado": "si"
   }
  ]
 }
