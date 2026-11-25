@@ -1,84 +1,84 @@
 {
- "actualizado": 1795583392367,
+ "actualizado": 1795586407026,
  "inicio": 1794922725124,
  "ejecucion": {
-  "inicio": 1795580392013,
-  "fin": 1795583392367,
-  "mensajes": 10792655,
-  "reconexiones": 0,
-  "eventos": 541,
+  "inicio": 1795583406679,
+  "fin": 1795586407026,
+  "mensajes": 11614221,
+  "reconexiones": 8,
+  "eventos": 533,
   "errores": [],
-  "nuevos": 3,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 40,
+  "nuevosRentables": 8,
+  "nuevosNeta": 2.11
  },
- "total": 8027,
- "falsos": 4610,
+ "total": 8043,
+ "falsos": 4615,
  "largos": {
-  "episodios": 19393,
-  "eventos": 166,
+  "episodios": 19376,
+  "eventos": 165,
   "dias": 7
  },
  "enEspera": {
   "episodios": 45,
   "eventos": 21
  },
- "mediana": 0.237,
+ "mediana": 0.236,
  "captura": [
   {
    "s": 0.5,
-   "n": 3108,
-   "gan": 9299.22,
-   "nNeta": 984,
-   "neta": 2192.62
+   "n": 3114,
+   "gan": 9302.82,
+   "nNeta": 990,
+   "neta": 2193.92
   },
   {
    "s": 2,
-   "n": 1421,
-   "gan": 3777.87,
-   "nNeta": 394,
-   "neta": 511.26
+   "n": 1428,
+   "gan": 3783.47,
+   "nNeta": 399,
+   "neta": 512.78
   },
   {
    "s": 5,
-   "n": 823,
-   "gan": 2059.09,
-   "nNeta": 210,
-   "neta": 143.45
+   "n": 831,
+   "gan": 2064.92,
+   "nNeta": 215,
+   "neta": 144.78
   },
   {
    "s": 30,
-   "n": 274,
-   "gan": 633.97,
-   "nNeta": 33,
-   "neta": 39.39
+   "n": 280,
+   "gan": 638.47,
+   "nNeta": 37,
+   "neta": 40.57
   }
  ],
- "rentables": 2211,
+ "rentables": 2227,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 92,
-   "descartadas": 366,
-   "neta": 228.63,
+   "ops": 93,
+   "descartadas": 372,
+   "neta": 229.2,
    "dias": 7.64,
-   "semana": 209.42
+   "semana": 210.05
   },
   {
    "capital": 1000,
-   "ops": 107,
-   "descartadas": 366,
-   "neta": 354.07,
+   "ops": 108,
+   "descartadas": 372,
+   "neta": 354.64,
    "dias": 7.64,
-   "semana": 324.33
+   "semana": 325.01
   },
   {
    "capital": 2000,
-   "ops": 110,
-   "descartadas": 366,
-   "neta": 505.96,
+   "ops": 111,
+   "descartadas": 372,
+   "neta": 506.53,
    "dias": 7.64,
-   "semana": 463.46
+   "semana": 464.21
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 3,
-   "horas": 47.5,
-   "episodios": 2572,
+   "horas": 48.3,
+   "episodios": 2612,
    "sospechosas": 13,
-   "realistaNeta": 140.2,
+   "realistaNeta": 142.31,
    "capital": {
-    "500": 54.54,
-    "1000": 84.63,
-    "2000": 103.27
+    "500": 55.11,
+    "1000": 85.2,
+    "2000": 103.84
    },
    "cumple": true
   }
@@ -250,17 +250,17 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7921,
-  "n": 1860,
-  "gan": 4863.12,
-  "nNeta": 486,
-  "neta": 760.63
+  "conDato": 7937,
+  "n": 1869,
+  "gan": 4868.64,
+  "nNeta": 493,
+  "neta": 762.73
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2748
+   "n": 2760
   },
   {
    "et": "0.1–1 s",
@@ -270,22 +270,22 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1354
+   "n": 1350
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 549
+   "n": 551
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 154
+   "n": 159
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 120
+   "n": 121
   }
  ],
  "porEvento": [
@@ -647,129 +647,129 @@
   },
   {
    "h": 1795582800000,
-   "n": 2
+   "n": 42
   }
  ],
  "recientes": [
   {
-   "inicio": 1795583350429,
-   "titulo": "San Jose Earthquakes vs. Houston Dynamo",
-   "dur": 0.187,
-   "gan": 0.73,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795583348934,
-   "titulo": "San Jose Earthquakes vs. Houston Dynamo",
-   "dur": 0.83,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795581855274,
-   "titulo": "Highest temperature in Wuhan on November 25?",
-   "dur": 0.015,
-   "gan": 0.84,
-   "neta": 0.81,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795579286020,
-   "titulo": "San Jose Earthquakes vs. Houston Dynamo",
-   "dur": 0.091,
-   "gan": 0.88,
-   "neta": 0.2,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795576995872,
-   "titulo": "América de Cali vs. AD Cali",
-   "dur": 1.005,
-   "gan": 3.41,
-   "neta": 1.68,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795576994539,
-   "titulo": "América de Cali vs. AD Cali",
-   "dur": 0.183,
-   "gan": 1.11,
-   "neta": 0.76,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795576993816,
-   "titulo": "América de Cali vs. AD Cali",
-   "dur": 0.503,
-   "gan": 3.99,
-   "neta": 3.41,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795576568265,
-   "titulo": "América de Cali vs. AD Cali",
-   "dur": 2.474,
-   "gan": 1.48,
-   "neta": 0.21,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795575450567,
-   "titulo": "América de Cali vs. AD Cali",
-   "dur": 0.396,
-   "gan": 0.83,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795574565130,
-   "titulo": "América de Cali vs. AD Cali",
-   "dur": 0.331,
-   "gan": 8.57,
+   "inicio": 1795585132429,
+   "titulo": "Tala'ea El Gaish SC vs. Modern SC",
+   "dur": 1274.254,
+   "gan": 0.79,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795574383429,
-   "titulo": "América de Cali vs. AD Cali",
-   "dur": 4.166,
+   "inicio": 1795586050941,
+   "titulo": "Highest temperature in Busan on November 25?",
+   "dur": 1.395,
+   "gan": 0.54,
+   "neta": 0.47,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795586050580,
+   "titulo": "Highest temperature in Busan on November 25?",
+   "dur": 0.158,
    "gan": 0.53,
-   "neta": 0,
+   "neta": 0.47,
    "lado": "si"
   },
   {
-   "inicio": 1795574368149,
-   "titulo": "América de Cali vs. AD Cali",
-   "dur": 0.036,
-   "gan": 0.58,
-   "neta": 0.03,
+   "inicio": 1795585979339,
+   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
+   "dur": 70.511,
+   "gan": 0.88,
+   "neta": 0.46,
    "lado": "si"
   },
   {
-   "inicio": 1795574360666,
-   "titulo": "América de Cali vs. AD Cali",
-   "dur": 0.306,
-   "gan": 203.32,
-   "neta": 172.21,
+   "inicio": 1795585712422,
+   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
+   "dur": 266.846,
+   "gan": 0.79,
+   "neta": 0.38,
    "lado": "si"
   },
   {
-   "inicio": 1795574240270,
-   "titulo": "América de Cali vs. AD Cali",
-   "dur": 8.88,
+   "inicio": 1795585553189,
+   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
+   "dur": 159.202,
+   "gan": 0.55,
+   "neta": 0.21,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795585485338,
+   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
+   "dur": 66.975,
    "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
+   "neta": 0.12,
+   "lado": "si"
   },
   {
-   "inicio": 1795574160174,
-   "titulo": "América de Cali vs. AD Cali",
-   "dur": 0.135,
-   "gan": 0.85,
-   "neta": 0.13,
-   "lado": "no"
+   "inicio": 1795585481085,
+   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
+   "dur": 3.967,
+   "gan": 0.51,
+   "neta": 0.12,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795585480063,
+   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
+   "dur": 0.02,
+   "gan": 0.51,
+   "neta": 0.12,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795585478388,
+   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
+   "dur": 0.021,
+   "gan": 0.51,
+   "neta": 0.12,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795585477948,
+   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
+   "dur": 0.038,
+   "gan": 0.51,
+   "neta": 0.12,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795585474923,
+   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
+   "dur": 0.017,
+   "gan": 0.51,
+   "neta": 0.12,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795585474299,
+   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
+   "dur": 0.409,
+   "gan": 0.51,
+   "neta": 0.12,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795585472277,
+   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
+   "dur": 0.022,
+   "gan": 0.51,
+   "neta": 0.12,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795585468742,
+   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
+   "dur": 0.018,
+   "gan": 0.51,
+   "neta": 0.12,
+   "lado": "si"
   }
  ]
 }
