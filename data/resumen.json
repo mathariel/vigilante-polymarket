@@ -1,84 +1,84 @@
 {
- "actualizado": 1795640707606,
+ "actualizado": 1795643722950,
  "inicio": 1794943796284,
  "ejecucion": {
-  "inicio": 1795637707262,
-  "fin": 1795640707606,
-  "mensajes": 14203919,
-  "reconexiones": 0,
-  "eventos": 547,
+  "inicio": 1795640722586,
+  "fin": 1795643722950,
+  "mensajes": 14143306,
+  "reconexiones": 4,
+  "eventos": 558,
   "errores": [],
-  "nuevos": 99,
-  "nuevosRentables": 9,
-  "nuevosNeta": 169.01
+  "nuevos": 314,
+  "nuevosRentables": 20,
+  "nuevosNeta": 100.76
  },
- "total": 8270,
- "falsos": 4689,
+ "total": 8428,
+ "falsos": 4703,
  "largos": {
-  "episodios": 19123,
-  "eventos": 164,
+  "episodios": 18948,
+  "eventos": 163,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 54,
+  "episodios": 58,
   "eventos": 26
  },
- "mediana": 0.24,
+ "mediana": 0.239,
  "captura": [
   {
    "s": 0.5,
-   "n": 3214,
-   "gan": 9837.42,
-   "nNeta": 1028,
-   "neta": 2391.89
+   "n": 3259,
+   "gan": 9996.05,
+   "nNeta": 1046,
+   "neta": 2477.37
   },
   {
    "s": 2,
-   "n": 1487,
-   "gan": 4228.52,
-   "nNeta": 423,
-   "neta": 682.67
+   "n": 1500,
+   "gan": 4234.63,
+   "nNeta": 433,
+   "neta": 735.46
   },
   {
    "s": 5,
-   "n": 854,
-   "gan": 2080.29,
-   "nNeta": 227,
-   "neta": 151.35
+   "n": 861,
+   "gan": 2204.13,
+   "nNeta": 235,
+   "neta": 225.99
   },
   {
    "s": 30,
-   "n": 283,
-   "gan": 668,
+   "n": 281,
+   "gan": 666.44,
    "nNeta": 38,
    "neta": 41.75
   }
  ],
- "rentables": 2320,
+ "rentables": 2352,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 108,
-   "descartadas": 391,
-   "neta": 239.18,
-   "dias": 8.05,
-   "semana": 208.06
+   "ops": 109,
+   "descartadas": 400,
+   "neta": 239.83,
+   "dias": 8.03,
+   "semana": 209.08
   },
   {
    "capital": 1000,
-   "ops": 123,
-   "descartadas": 391,
-   "neta": 364.62,
-   "dias": 8.05,
-   "semana": 317.18
+   "ops": 122,
+   "descartadas": 400,
+   "neta": 367.62,
+   "dias": 8.03,
+   "semana": 320.49
   },
   {
    "capital": 2000,
-   "ops": 126,
-   "descartadas": 391,
-   "neta": 516.51,
-   "dias": 8.05,
-   "semana": 449.31
+   "ops": 129,
+   "descartadas": 400,
+   "neta": 555.87,
+   "dias": 8.03,
+   "semana": 484.61
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 3,
-   "horas": 63.3,
-   "episodios": 3020,
+   "horas": 64.2,
+   "episodios": 3334,
    "sospechosas": 18,
-   "realistaNeta": 331.52,
+   "realistaNeta": 432.28,
    "capital": {
-    "500": 68.81,
-    "1000": 98.9,
-    "2000": 117.54
+    "500": 69.83,
+    "1000": 102.67,
+    "2000": 178.9
    },
    "cumple": true
   }
@@ -250,42 +250,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8161,
-  "n": 1937,
-  "gan": 5384.87,
-  "nNeta": 527,
-  "neta": 938.29
+  "conDato": 8319,
+  "n": 1958,
+  "gan": 5418.57,
+  "nNeta": 539,
+  "neta": 1000.47
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2818
+   "n": 2870
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3178
+   "n": 3252
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1408
+   "n": 1433
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 571
+   "n": 580
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 155
+   "n": 154
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 128
+   "n": 127
   }
  ],
  "porEvento": [
@@ -304,6 +304,13 @@
    "mediana": 0.099
   },
   {
+   "titulo": "Sporting CP vs. Manchester United FC",
+   "n": 144,
+   "gan": 315.53,
+   "neta": 31.83,
+   "mediana": 0.197
+  },
+  {
    "titulo": "Olympique de Marseille vs. Le Mans FC",
    "n": 133,
    "gan": 131.98,
@@ -316,6 +323,13 @@
    "gan": 163.51,
    "neta": 31.54,
    "mediana": 0.111
+  },
+  {
+   "titulo": "Paris Saint-Germain FC vs. AS Roma",
+   "n": 127,
+   "gan": 486.48,
+   "neta": 144.19,
+   "mediana": 0.191
   },
   {
    "titulo": "Atalanta BC vs. FC Internazionale Milano",
@@ -344,20 +358,6 @@
    "gan": 135.16,
    "neta": 5.69,
    "mediana": 0.204
-  },
-  {
-   "titulo": "Denmark vs. Norway",
-   "n": 98,
-   "gan": 150.9,
-   "neta": 35.85,
-   "mediana": 0.101
-  },
-  {
-   "titulo": "SC Internacional vs. EC Vitória",
-   "n": 97,
-   "gan": 158.07,
-   "neta": 5.46,
-   "mediana": 0.098
   }
  ],
  "porHora": [
@@ -647,128 +647,128 @@
   },
   {
    "h": 1795640400000,
-   "n": 15
+   "n": 329
   }
  ],
  "recientes": [
   {
-   "inicio": 1795640705563,
-   "titulo": "Sporting CP vs. Manchester United FC",
-   "dur": 0.215,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795640701512,
-   "titulo": "Sporting CP vs. Manchester United FC",
-   "dur": 1.415,
-   "gan": 1.17,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795640689520,
-   "titulo": "Lille OSC vs. FC Bayern München",
-   "dur": 2.355,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795640683786,
-   "titulo": "Lille OSC vs. FC Bayern München",
-   "dur": 0.045,
+   "inicio": 1795643509312,
+   "titulo": "Paris Saint-Germain FC vs. AS Roma",
+   "dur": 4.575,
    "gan": 1.01,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795640683708,
-   "titulo": "Lille OSC vs. FC Bayern München",
-   "dur": 0.047,
-   "gan": 1.18,
+   "inicio": 1795643508276,
+   "titulo": "Paris Saint-Germain FC vs. AS Roma",
+   "dur": 0.142,
+   "gan": 5.15,
+   "neta": 2.71,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795643475616,
+   "titulo": "Sporting CP vs. Manchester United FC",
+   "dur": 4.471,
+   "gan": 1.02,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795640681358,
-   "titulo": "Lille OSC vs. FC Bayern München",
-   "dur": 1.197,
-   "gan": 0.7,
+   "inicio": 1795643474021,
+   "titulo": "Sporting CP vs. Manchester United FC",
+   "dur": 1.145,
+   "gan": 1.3,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795640681101,
-   "titulo": "Lille OSC vs. FC Bayern München",
-   "dur": 0.169,
-   "gan": 0.87,
+   "inicio": 1795643471376,
+   "titulo": "Sporting CP vs. Manchester United FC",
+   "dur": 0.33,
+   "gan": 0.58,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795640681035,
-   "titulo": "Lille OSC vs. FC Bayern München",
-   "dur": 0.027,
-   "gan": 0.7,
-   "neta": 0.03,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795640677736,
-   "titulo": "Lille OSC vs. FC Bayern München",
-   "dur": 0.448,
-   "gan": 1.07,
-   "neta": 0.16,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795640677527,
-   "titulo": "Lille OSC vs. FC Bayern München",
-   "dur": 0.028,
-   "gan": 0.55,
+   "inicio": 1795643470294,
+   "titulo": "Sporting CP vs. Manchester United FC",
+   "dur": 0.042,
+   "gan": 0.8,
    "neta": 0.1,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795640639347,
-   "titulo": "Lille OSC vs. FC Bayern München",
-   "dur": 0.104,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795643470043,
+   "titulo": "Sporting CP vs. Manchester United FC",
+   "dur": 0.032,
+   "gan": 18.59,
+   "neta": 4.75,
+   "lado": "si"
   },
   {
-   "inicio": 1795640639276,
-   "titulo": "Lille OSC vs. FC Bayern München",
-   "dur": 0.064,
-   "gan": 1.5,
-   "neta": 0.25,
-   "lado": "no"
+   "inicio": 1795643469299,
+   "titulo": "Sporting CP vs. Manchester United FC",
+   "dur": 0.119,
+   "gan": 0.6,
+   "neta": 0.23,
+   "lado": "si"
   },
   {
-   "inicio": 1795640639063,
-   "titulo": "Lille OSC vs. FC Bayern München",
-   "dur": 0.198,
-   "gan": 2.54,
-   "neta": 0.04,
-   "lado": "no"
+   "inicio": 1795643469250,
+   "titulo": "Sporting CP vs. Manchester United FC",
+   "dur": 0.008,
+   "gan": 0.58,
+   "neta": 0.01,
+   "lado": "si"
   },
   {
-   "inicio": 1795640627143,
-   "titulo": "Lille OSC vs. FC Bayern München",
-   "dur": 9.066,
-   "gan": 7.06,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795640421961,
-   "titulo": "\"The Cat in the Hat\" total domestic gross by November 30?",
-   "dur": 2.711,
+   "inicio": 1795643469146,
+   "titulo": "Sporting CP vs. Manchester United FC",
+   "dur": 0.033,
    "gan": 0.55,
-   "neta": 0.34,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795643469130,
+   "titulo": "Sporting CP vs. Manchester United FC",
+   "dur": 0.01,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795643461297,
+   "titulo": "Paris Saint-Germain FC vs. AS Roma",
+   "dur": 0.81,
+   "gan": 2.63,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795643402133,
+   "titulo": "Paris Saint-Germain FC vs. AS Roma",
+   "dur": 1.044,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795643379358,
+   "titulo": "Sporting CP vs. Manchester United FC",
+   "dur": 1.034,
+   "gan": 5.28,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795643370850,
+   "titulo": "Paris Saint-Germain FC vs. AS Roma",
+   "dur": 0.127,
+   "gan": 0.52,
+   "neta": 0,
    "lado": "si"
   }
  ]
