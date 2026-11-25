@@ -1,21 +1,21 @@
 {
- "actualizado": 1795577354192,
+ "actualizado": 1795580376024,
  "inicio": 1794922725124,
  "ejecucion": {
-  "inicio": 1795574353863,
-  "fin": 1795577354192,
-  "mensajes": 9149210,
+  "inicio": 1795577375795,
+  "fin": 1795580376024,
+  "mensajes": 9780770,
   "reconexiones": 0,
-  "eventos": 519,
+  "eventos": 530,
   "errores": [],
-  "nuevos": 9,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.21
+  "nuevos": 1,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 8023,
- "falsos": 4586,
+ "total": 8024,
+ "falsos": 4603,
  "largos": {
-  "episodios": 19413,
+  "episodios": 19399,
   "eventos": 166,
   "dias": 7
  },
@@ -54,31 +54,31 @@
    "neta": 39.39
   }
  ],
- "rentables": 2209,
+ "rentables": 2210,
  "porCapital": [
   {
    "capital": 500,
    "ops": 92,
    "descartadas": 366,
    "neta": 228.63,
-   "dias": 7.57,
-   "semana": 211.36
+   "dias": 7.61,
+   "semana": 210.39
   },
   {
    "capital": 1000,
    "ops": 107,
    "descartadas": 366,
    "neta": 354.07,
-   "dias": 7.57,
-   "semana": 327.32
+   "dias": 7.61,
+   "semana": 325.82
   },
   {
    "capital": 2000,
    "ops": 110,
    "descartadas": 366,
    "neta": 505.96,
-   "dias": 7.57,
-   "semana": 467.73
+   "dias": 7.61,
+   "semana": 465.58
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 2,
-   "horas": 45.8,
-   "episodios": 2568,
+   "horas": 46.7,
+   "episodios": 2569,
    "sospechosas": 12,
    "realistaNeta": 140.2,
    "capital": {
@@ -250,7 +250,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7918,
+  "conDato": 7919,
   "n": 1860,
   "gan": 4863.12,
   "nNeta": 486,
@@ -260,7 +260,7 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2746
+   "n": 2747
   },
   {
    "et": "0.1–1 s",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795302000000,
-   "n": 61
-  },
   {
    "h": 1795305600000,
    "n": 19
@@ -648,9 +644,21 @@
   {
    "h": 1795575600000,
    "n": 4
+  },
+  {
+   "h": 1795579200000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795579286020,
+   "titulo": "San Jose Earthquakes vs. Houston Dynamo",
+   "dur": 0.091,
+   "gan": 0.88,
+   "neta": 0.2,
+   "lado": "no"
+  },
   {
    "inicio": 1795576995872,
    "titulo": "América de Cali vs. AD Cali",
@@ -761,14 +769,6 @@
    "dur": 4.487,
    "gan": 0.52,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795567754667,
-   "titulo": "Will Claude go down on __ days in November 2026?",
-   "dur": 543.964,
-   "gan": 1.47,
-   "neta": 0.22,
    "lado": "si"
   }
  ]
