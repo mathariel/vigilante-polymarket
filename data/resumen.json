@@ -1,84 +1,84 @@
 {
- "actualizado": 1795631667000,
- "inicio": 1794937590064,
+ "actualizado": 1795634680053,
+ "inicio": 1794937809707,
  "ejecucion": {
-  "inicio": 1795628666650,
-  "fin": 1795631667000,
-  "mensajes": 11903065,
-  "reconexiones": 0,
-  "eventos": 541,
+  "inicio": 1795631679792,
+  "fin": 1795634680053,
+  "mensajes": 11866760,
+  "reconexiones": 1,
+  "eventos": 544,
   "errores": [],
-  "nuevos": 70,
-  "nuevosRentables": 7,
-  "nuevosNeta": 5.51
+  "nuevos": 86,
+  "nuevosRentables": 2,
+  "nuevosNeta": 0.96
  },
- "total": 8110,
+ "total": 8154,
  "falsos": 4628,
  "largos": {
-  "episodios": 19341,
+  "episodios": 19303,
   "eventos": 164,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 47,
+  "episodios": 45,
   "eventos": 22
  },
- "mediana": 0.238,
+ "mediana": 0.239,
  "captura": [
   {
    "s": 0.5,
-   "n": 3143,
-   "gan": 9445.33,
-   "nNeta": 1014,
-   "neta": 2204.15
+   "n": 3166,
+   "gan": 9313.98,
+   "nNeta": 1012,
+   "neta": 2187.59
   },
   {
    "s": 2,
-   "n": 1450,
-   "gan": 3901.84,
+   "n": 1462,
+   "gan": 3792.59,
    "nNeta": 414,
-   "neta": 520.84
+   "neta": 520.33
   },
   {
    "s": 5,
-   "n": 848,
-   "gan": 2138.19,
-   "nNeta": 223,
-   "neta": 149.44
+   "n": 842,
+   "gan": 2028.99,
+   "nNeta": 222,
+   "neta": 148.63
   },
   {
    "s": 30,
-   "n": 289,
-   "gan": 685.57,
-   "nNeta": 39,
-   "neta": 42.56
+   "n": 284,
+   "gan": 669.49,
+   "nNeta": 38,
+   "neta": 41.75
   }
  ],
- "rentables": 2283,
+ "rentables": 2272,
  "porCapital": [
   {
    "capital": 500,
    "ops": 107,
    "descartadas": 382,
    "neta": 237.82,
-   "dias": 8.03,
-   "semana": 207.4
+   "dias": 7.99,
+   "semana": 208.24
   },
   {
    "capital": 1000,
    "ops": 122,
    "descartadas": 382,
    "neta": 363.26,
-   "dias": 8.03,
-   "semana": 316.8
+   "dias": 7.99,
+   "semana": 318.08
   },
   {
    "capital": 2000,
    "ops": 125,
    "descartadas": 382,
    "neta": 515.15,
-   "dias": 8.03,
-   "semana": 449.26
+   "dias": 7.99,
+   "semana": 451.08
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 3,
-   "horas": 60.8,
-   "episodios": 2797,
+   "horas": 61.7,
+   "episodios": 2883,
    "sospechosas": 16,
-   "realistaNeta": 159.57,
+   "realistaNeta": 160.53,
    "capital": {
     "500": 67.45,
     "1000": 97.54,
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 108,
+  "n": 107,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,42 +250,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8002,
-  "n": 1893,
-  "gan": 4993.27,
+  "conDato": 8047,
+  "n": 1908,
+  "gan": 4885.55,
   "nNeta": 517,
-  "neta": 776.14
+  "neta": 775.63
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2781
+   "n": 2791
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3113
+   "n": 3127
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1356
+   "n": 1382
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 559
+   "n": 558
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 161
+   "n": 157
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 128
+   "n": 127
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795356000000,
-   "n": 93
-  },
   {
    "h": 1795359600000,
    "n": 120
@@ -647,127 +643,131 @@
   },
   {
    "h": 1795629600000,
-   "n": 57
+   "n": 74
+  },
+  {
+   "h": 1795633200000,
+   "n": 69
   }
  ],
  "recientes": [
   {
-   "inicio": 1795631489046,
+   "inicio": 1795634677180,
    "titulo": "SK Slavia Praha vs. Villarreal CF",
-   "dur": 0.143,
-   "gan": 1.02,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795631476868,
-   "titulo": "SK Slavia Praha vs. Villarreal CF",
-   "dur": 0.063,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795631476353,
-   "titulo": "SK Slavia Praha vs. Villarreal CF",
-   "dur": 0.045,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795631459159,
-   "titulo": "SK Slavia Praha vs. Villarreal CF",
-   "dur": 6.613,
-   "gan": 1.04,
+   "dur": 0.638,
+   "gan": 0.64,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795631463564,
-   "titulo": "Sabah FK vs. FC Barcelona - Halftime Result",
-   "dur": 0.192,
-   "gan": 0.62,
-   "neta": 0.48,
-   "lado": "si"
+   "inicio": 1795634677073,
+   "titulo": "SK Slavia Praha vs. Villarreal CF",
+   "dur": 0.001,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1795631434067,
+   "inicio": 1795634677011,
    "titulo": "SK Slavia Praha vs. Villarreal CF",
-   "dur": 1.644,
+   "dur": 0.029,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795634676655,
+   "titulo": "SK Slavia Praha vs. Villarreal CF",
+   "dur": 0.222,
+   "gan": 0.76,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795634676357,
+   "titulo": "SK Slavia Praha vs. Villarreal CF",
+   "dur": 0.014,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795634676336,
+   "titulo": "SK Slavia Praha vs. Villarreal CF",
+   "dur": 0.004,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795634659601,
+   "titulo": "SK Slavia Praha vs. Villarreal CF",
+   "dur": 8.577,
+   "gan": 2.86,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795634659009,
+   "titulo": "SK Slavia Praha vs. Villarreal CF",
+   "dur": 0.152,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795634653287,
+   "titulo": "SK Slavia Praha vs. Villarreal CF",
+   "dur": 4.269,
+   "gan": 2.3,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795634648621,
+   "titulo": "SK Slavia Praha vs. Villarreal CF",
+   "dur": 0.554,
    "gan": 0.5,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795631432584,
+   "inicio": 1795634648243,
    "titulo": "SK Slavia Praha vs. Villarreal CF",
-   "dur": 0.097,
-   "gan": 0.6,
+   "dur": 0.356,
+   "gan": 0.85,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795631421436,
+   "inicio": 1795634648071,
    "titulo": "SK Slavia Praha vs. Villarreal CF",
-   "dur": 3.275,
-   "gan": 1.25,
+   "dur": 0.154,
+   "gan": 0.55,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795631415249,
+   "inicio": 1795634645230,
    "titulo": "SK Slavia Praha vs. Villarreal CF",
-   "dur": 0.398,
-   "gan": 0.91,
+   "dur": 2.817,
+   "gan": 1.05,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795631415039,
+   "inicio": 1795634644685,
    "titulo": "SK Slavia Praha vs. Villarreal CF",
-   "dur": 0.081,
-   "gan": 0.91,
+   "dur": 0.506,
+   "gan": 1.11,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795631414545,
+   "inicio": 1795634644551,
    "titulo": "SK Slavia Praha vs. Villarreal CF",
-   "dur": 0.276,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795631411251,
-   "titulo": "SK Slavia Praha vs. Villarreal CF",
-   "dur": 3.169,
-   "gan": 4.24,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795631391887,
-   "titulo": "SK Slavia Praha vs. Villarreal CF",
-   "dur": 5.433,
-   "gan": 1.46,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795631374424,
-   "titulo": "SK Slavia Praha vs. Villarreal CF",
-   "dur": 3.966,
-   "gan": 0.98,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795631357187,
-   "titulo": "SK Slavia Praha vs. Villarreal CF",
-   "dur": 0.509,
-   "gan": 1.33,
+   "dur": 0.092,
+   "gan": 0.61,
    "neta": 0,
    "lado": "no"
   }
