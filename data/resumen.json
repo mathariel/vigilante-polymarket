@@ -1,21 +1,21 @@
 {
- "actualizado": 1795616565960,
- "inicio": 1794934801302,
+ "actualizado": 1795619591526,
+ "inicio": 1794935304925,
  "ejecucion": {
-  "inicio": 1795613565558,
-  "fin": 1795616565960,
-  "mensajes": 11892829,
+  "inicio": 1795616591289,
+  "fin": 1795619591526,
+  "mensajes": 12173089,
   "reconexiones": 0,
-  "eventos": 561,
+  "eventos": 562,
   "errores": [],
-  "nuevos": 13,
-  "nuevosRentables": 3,
-  "nuevosNeta": 2.06
+  "nuevos": 5,
+  "nuevosRentables": 2,
+  "nuevosNeta": 1.05
  },
  "total": 8044,
- "falsos": 4617,
+ "falsos": 4621,
  "largos": {
-  "episodios": 19409,
+  "episodios": 19407,
   "eventos": 162,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 45,
   "eventos": 21
  },
- "mediana": 0.236,
+ "mediana": 0.237,
  "captura": [
   {
    "s": 0.5,
-   "n": 3108,
-   "gan": 9311.32,
-   "nNeta": 1003,
-   "neta": 2195.06
+   "n": 3110,
+   "gan": 9312.71,
+   "nNeta": 1005,
+   "neta": 2196.11
   },
   {
    "s": 2,
-   "n": 1429,
-   "gan": 3796.79,
-   "nNeta": 409,
-   "neta": 516.24
+   "n": 1431,
+   "gan": 3798.18,
+   "nNeta": 411,
+   "neta": 517.29
   },
   {
    "s": 5,
-   "n": 834,
-   "gan": 2083.54,
-   "nNeta": 219,
-   "neta": 146.63
+   "n": 836,
+   "gan": 2085.09,
+   "nNeta": 221,
+   "neta": 147.84
   },
   {
    "s": 30,
-   "n": 283,
-   "gan": 643.89,
-   "nNeta": 38,
-   "neta": 41.88
+   "n": 284,
+   "gan": 644.81,
+   "nNeta": 39,
+   "neta": 42.56
   }
  ],
- "rentables": 2247,
+ "rentables": 2252,
  "porCapital": [
   {
    "capital": 500,
    "ops": 99,
-   "descartadas": 381,
+   "descartadas": 383,
    "neta": 232.2,
-   "dias": 7.86,
-   "semana": 206.67
+   "dias": 7.9,
+   "semana": 205.76
   },
   {
    "capital": 1000,
    "ops": 114,
-   "descartadas": 381,
+   "descartadas": 383,
    "neta": 357.64,
-   "dias": 7.86,
-   "semana": 318.32
+   "dias": 7.9,
+   "semana": 316.91
   },
   {
    "capital": 2000,
    "ops": 117,
-   "descartadas": 381,
+   "descartadas": 383,
    "neta": 509.53,
-   "dias": 7.86,
-   "semana": 453.51
+   "dias": 7.9,
+   "semana": 451.51
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 3,
-   "horas": 56.7,
-   "episodios": 2710,
+   "horas": 57.5,
+   "episodios": 2715,
    "sospechosas": 15,
-   "realistaNeta": 151.48,
+   "realistaNeta": 152.53,
    "capital": {
     "500": 61.83,
     "1000": 91.92,
@@ -251,21 +251,21 @@
  "realista": {
   "reaccion": 0.5,
   "conDato": 7937,
-  "n": 1862,
-  "gan": 4880.66,
-  "nNeta": 508,
-  "neta": 768.16
+  "n": 1864,
+  "gan": 4882.05,
+  "nNeta": 510,
+  "neta": 769.21
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2763
+   "n": 2764
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3100
+   "n": 3097
   },
   {
    "et": "1–5 s",
@@ -275,12 +275,12 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 551
+   "n": 552
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 158
+   "n": 159
   },
   {
    "et": "> 5 min",
@@ -647,10 +647,50 @@
   },
   {
    "h": 1795615200000,
-   "n": 4
+   "n": 9
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795618704728,
+   "titulo": "Elon Musk # tweets November 23 - November 25, 2026?",
+   "dur": 0.045,
+   "gan": 0.64,
+   "neta": 0.45,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795618606647,
+   "titulo": "Lowest temperature in Hong Kong on November 26?",
+   "dur": 72.147,
+   "gan": 0.52,
+   "neta": 0.3,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795618360382,
+   "titulo": "Lowest temperature in Hong Kong on November 26?",
+   "dur": 5.133,
+   "gan": 0.63,
+   "neta": 0.53,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795617927893,
+   "titulo": "Fear & Greed Index on November 27?",
+   "dur": 0.252,
+   "gan": 1.06,
+   "neta": 0.79,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795616625337,
+   "titulo": "Sportivo San Lorenzo vs. Sportivo Ameliano",
+   "dur": 0.027,
+   "gan": 1.21,
+   "neta": 0.7,
+   "lado": "no"
+  },
   {
    "inicio": 1795615899775,
    "titulo": "Audace Cerignola vs. Inter Milano U23",
@@ -729,46 +769,6 @@
    "dur": 0.172,
    "gan": 0.55,
    "neta": 0.02,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795614167652,
-   "titulo": "Persib Bandung vs. FC Seoul",
-   "dur": 0.08,
-   "gan": 0.7,
-   "neta": 0.01,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795613953985,
-   "titulo": "Highest temperature in Amsterdam on November 25?",
-   "dur": 1.098,
-   "gan": 0.62,
-   "neta": 0.57,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795613642310,
-   "titulo": "Highest temperature in Madrid on November 25?",
-   "dur": 0.964,
-   "gan": 0.59,
-   "neta": 0.58,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795613403682,
-   "titulo": "Persib Bandung vs. FC Seoul",
-   "dur": 0.613,
-   "gan": 0.84,
-   "neta": 0.02,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795613402821,
-   "titulo": "Persib Bandung vs. FC Seoul",
-   "dur": 0.08,
-   "gan": 1.9,
-   "neta": 0,
    "lado": "no"
   }
  ]
