@@ -1,21 +1,21 @@
 {
- "actualizado": 1795601485519,
+ "actualizado": 1795604499665,
  "inicio": 1794925750650,
  "ejecucion": {
-  "inicio": 1795598485172,
-  "fin": 1795601485519,
-  "mensajes": 12189506,
+  "inicio": 1795601499318,
+  "fin": 1795604499665,
+  "mensajes": 13699280,
   "reconexiones": 0,
-  "eventos": 560,
+  "eventos": 566,
   "errores": [],
   "nuevos": 5,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevosRentables": 2,
+  "nuevosNeta": 0.12
  },
- "total": 8051,
- "falsos": 4619,
+ "total": 8054,
+ "falsos": 4622,
  "largos": {
-  "episodios": 19385,
+  "episodios": 19382,
   "eventos": 163,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 45,
   "eventos": 21
  },
- "mediana": 0.236,
+ "mediana": 0.237,
  "captura": [
   {
    "s": 0.5,
-   "n": 3121,
-   "gan": 9316.85,
-   "nNeta": 991,
-   "neta": 2196.2
+   "n": 3125,
+   "gan": 9346.3,
+   "nNeta": 993,
+   "neta": 2200.78
   },
   {
    "s": 2,
-   "n": 1432,
-   "gan": 3790.4,
-   "nNeta": 399,
-   "neta": 513.62
+   "n": 1436,
+   "gan": 3807.2,
+   "nNeta": 401,
+   "neta": 513.74
   },
   {
    "s": 5,
-   "n": 833,
-   "gan": 2069.16,
-   "nNeta": 214,
-   "neta": 144.76
+   "n": 837,
+   "gan": 2085.96,
+   "nNeta": 216,
+   "neta": 144.88
   },
   {
    "s": 30,
-   "n": 284,
-   "gan": 644.55,
+   "n": 285,
+   "gan": 645.12,
    "nNeta": 37,
    "neta": 40.57
   }
  ],
- "rentables": 2230,
+ "rentables": 2232,
  "porCapital": [
   {
    "capital": 500,
    "ops": 95,
-   "descartadas": 371,
+   "descartadas": 373,
    "neta": 231.5,
-   "dias": 7.79,
-   "semana": 208.07
+   "dias": 7.81,
+   "semana": 207.49
   },
   {
    "capital": 1000,
    "ops": 110,
-   "descartadas": 371,
+   "descartadas": 373,
    "neta": 356.94,
-   "dias": 7.79,
-   "semana": 320.82
+   "dias": 7.81,
+   "semana": 319.92
   },
   {
    "capital": 2000,
    "ops": 113,
-   "descartadas": 371,
+   "descartadas": 373,
    "neta": 508.83,
-   "dias": 7.79,
-   "semana": 457.34
+   "dias": 7.81,
+   "semana": 456.05
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 3,
-   "horas": 52.5,
-   "episodios": 2632,
+   "horas": 53.3,
+   "episodios": 2637,
    "sospechosas": 13,
-   "realistaNeta": 144.61,
+   "realistaNeta": 144.73,
    "capital": {
     "500": 57.41,
     "1000": 87.5,
@@ -250,17 +250,17 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7946,
-  "n": 1875,
-  "gan": 4881.45,
-  "nNeta": 494,
-  "neta": 765.01
+  "conDato": 7949,
+  "n": 1879,
+  "gan": 4898.25,
+  "nNeta": 496,
+  "neta": 765.13
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2765
+   "n": 2764
   },
   {
    "et": "0.1–1 s",
@@ -275,12 +275,12 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 549
+   "n": 552
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 159
+   "n": 160
   },
   {
    "et": "> 5 min",
@@ -647,10 +647,50 @@
   },
   {
    "h": 1795600800000,
-   "n": 1
+   "n": 6
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795604363708,
+   "titulo": "GPU rental prices (B200) end of November?",
+   "dur": 11.425,
+   "gan": 2.32,
+   "neta": 0.04,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795604179312,
+   "titulo": "GPU rental prices (B200) end of November?",
+   "dur": 9.869,
+   "gan": 0.9,
+   "neta": 0.08,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795602249045,
+   "titulo": "SK Slavia Praha vs. Villarreal CF",
+   "dur": 12.871,
+   "gan": 13.01,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795602026626,
+   "titulo": "Sharkia ENPPI vs. Ceramica Cleopatra Club",
+   "dur": 49.005,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795601934603,
+   "titulo": "JEF United Ichihara Chiba vs. Nagoya Grampus",
+   "dur": 0.758,
+   "gan": 16.18,
+   "neta": 7.41,
+   "lado": "no"
+  },
   {
    "inicio": 1795598487000,
    "titulo": "Sharkia ENPPI vs. Ceramica Cleopatra Club",
@@ -730,46 +770,6 @@
    "gan": 1.82,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1795589397646,
-   "titulo": "Sagan Tosu vs. Ōita Trinita",
-   "dur": 2.6,
-   "gan": 1.78,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795589358853,
-   "titulo": "Sagan Tosu vs. Ōita Trinita",
-   "dur": 1.778,
-   "gan": 4.44,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795586425192,
-   "titulo": "Tala'ea El Gaish SC vs. Modern SC",
-   "dur": 1218.858,
-   "gan": 0.79,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795587223567,
-   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
-   "dur": 0.032,
-   "gan": 1.02,
-   "neta": 0.7,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795587223386,
-   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
-   "dur": 0.142,
-   "gan": 0.89,
-   "neta": 0.28,
-   "lado": "si"
   }
  ]
 }
