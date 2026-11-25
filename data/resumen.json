@@ -1,21 +1,21 @@
 {
- "actualizado": 1795604499665,
- "inicio": 1794925750650,
+ "actualizado": 1795607516563,
+ "inicio": 1794928079240,
  "ejecucion": {
-  "inicio": 1795601499318,
-  "fin": 1795604499665,
-  "mensajes": 13699280,
+  "inicio": 1795604516202,
+  "fin": 1795607516563,
+  "mensajes": 15042150,
   "reconexiones": 0,
-  "eventos": 566,
+  "eventos": 570,
   "errores": [],
-  "nuevos": 5,
-  "nuevosRentables": 2,
-  "nuevosNeta": 0.12
+  "nuevos": 25,
+  "nuevosRentables": 5,
+  "nuevosNeta": 2.24
  },
- "total": 8054,
- "falsos": 4622,
+ "total": 8032,
+ "falsos": 4617,
  "largos": {
-  "episodios": 19382,
+  "episodios": 19414,
   "eventos": 163,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3125,
-   "gan": 9346.3,
-   "nNeta": 993,
-   "neta": 2200.78
+   "n": 3111,
+   "gan": 9331.26,
+   "nNeta": 995,
+   "neta": 2201.34
   },
   {
    "s": 2,
-   "n": 1436,
-   "gan": 3807.2,
-   "nNeta": 401,
-   "neta": 513.74
+   "n": 1429,
+   "gan": 3798.67,
+   "nNeta": 405,
+   "neta": 515.27
   },
   {
    "s": 5,
-   "n": 837,
-   "gan": 2085.96,
-   "nNeta": 216,
-   "neta": 144.88
+   "n": 835,
+   "gan": 2084.13,
+   "nNeta": 218,
+   "neta": 146.43
   },
   {
    "s": 30,
    "n": 285,
-   "gan": 645.12,
-   "nNeta": 37,
-   "neta": 40.57
+   "gan": 645.28,
+   "nNeta": 38,
+   "neta": 41.88
   }
  ],
- "rentables": 2232,
+ "rentables": 2227,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 95,
-   "descartadas": 373,
-   "neta": 231.5,
-   "dias": 7.81,
-   "semana": 207.49
+   "ops": 96,
+   "descartadas": 376,
+   "neta": 232.65,
+   "dias": 7.79,
+   "semana": 208.94
   },
   {
    "capital": 1000,
-   "ops": 110,
-   "descartadas": 373,
-   "neta": 356.94,
-   "dias": 7.81,
-   "semana": 319.92
+   "ops": 111,
+   "descartadas": 376,
+   "neta": 358.09,
+   "dias": 7.79,
+   "semana": 321.6
   },
   {
    "capital": 2000,
-   "ops": 113,
-   "descartadas": 373,
-   "neta": 508.83,
-   "dias": 7.81,
-   "semana": 456.05
+   "ops": 114,
+   "descartadas": 376,
+   "neta": 509.98,
+   "dias": 7.79,
+   "semana": 458.01
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 3,
-   "horas": 53.3,
-   "episodios": 2637,
+   "horas": 54.2,
+   "episodios": 2662,
    "sospechosas": 13,
-   "realistaNeta": 144.73,
+   "realistaNeta": 146.97,
    "capital": {
-    "500": 57.41,
-    "1000": 87.5,
-    "2000": 106.14
+    "500": 59.27,
+    "1000": 89.36,
+    "2000": 108
    },
    "cumple": true
   }
@@ -250,42 +250,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7949,
-  "n": 1879,
-  "gan": 4898.25,
-  "nNeta": 496,
-  "neta": 765.13
+  "conDato": 7927,
+  "n": 1868,
+  "gan": 4886.87,
+  "nNeta": 500,
+  "neta": 766.66
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2764
+   "n": 2761
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3088
+   "n": 3081
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1353
+   "n": 1344
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 552
+   "n": 550
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 160
+   "n": 159
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 125
+   "n": 126
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795327200000,
-   "n": 7
-  },
   {
    "h": 1795330800000,
    "n": 1
@@ -648,128 +644,132 @@
   {
    "h": 1795600800000,
    "n": 6
+  },
+  {
+   "h": 1795604400000,
+   "n": 25
   }
  ],
  "recientes": [
   {
-   "inicio": 1795604363708,
-   "titulo": "GPU rental prices (B200) end of November?",
-   "dur": 11.425,
-   "gan": 2.32,
+   "inicio": 1795605768119,
+   "titulo": "SC Sagamihara vs. Ehime FC",
+   "dur": 1748.086,
+   "gan": 1.33,
+   "neta": 1.23,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795606855800,
+   "titulo": "FC Tōkyō vs. Sanfrecce Hiroshima",
+   "dur": 4.085,
+   "gan": 1.53,
+   "neta": 0.13,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795606823495,
+   "titulo": "FC Tōkyō vs. Sanfrecce Hiroshima",
+   "dur": 1.469,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795606823449,
+   "titulo": "FC Tōkyō vs. Sanfrecce Hiroshima",
+   "dur": 0.024,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795606822715,
+   "titulo": "FC Tōkyō vs. Sanfrecce Hiroshima",
+   "dur": 0.022,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795606816877,
+   "titulo": "FC Tōkyō vs. Sanfrecce Hiroshima",
+   "dur": 5.835,
+   "gan": 0.94,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795606768246,
+   "titulo": "FC Tōkyō vs. Sanfrecce Hiroshima",
+   "dur": 0.483,
+   "gan": 1.28,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795606752743,
+   "titulo": "FC Tōkyō vs. Sanfrecce Hiroshima",
+   "dur": 0.077,
+   "gan": 2.18,
    "neta": 0.04,
    "lado": "si"
   },
   {
-   "inicio": 1795604179312,
-   "titulo": "GPU rental prices (B200) end of November?",
-   "dur": 9.869,
-   "gan": 0.9,
-   "neta": 0.08,
+   "inicio": 1795606752702,
+   "titulo": "FC Tōkyō vs. Sanfrecce Hiroshima",
+   "dur": 0.013,
+   "gan": 0.58,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795602249045,
-   "titulo": "SK Slavia Praha vs. Villarreal CF",
-   "dur": 12.871,
-   "gan": 13.01,
+   "inicio": 1795605814913,
+   "titulo": "V-Varen Nagasaki vs. Kawasaki Frontale",
+   "dur": 0.705,
+   "gan": 4.84,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795602026626,
-   "titulo": "Sharkia ENPPI vs. Ceramica Cleopatra Club",
-   "dur": 49.005,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795601934603,
+   "inicio": 1795605625127,
    "titulo": "JEF United Ichihara Chiba vs. Nagoya Grampus",
-   "dur": 0.758,
-   "gan": 16.18,
-   "neta": 7.41,
-   "lado": "no"
+   "dur": 0.327,
+   "gan": 9.47,
+   "neta": 0,
+   "lado": "si"
   },
   {
-   "inicio": 1795598487000,
-   "titulo": "Sharkia ENPPI vs. Ceramica Cleopatra Club",
-   "dur": 2654.848,
-   "gan": 1.25,
+   "inicio": 1795605596574,
+   "titulo": "JEF United Ichihara Chiba vs. Nagoya Grampus",
+   "dur": 1.218,
+   "gan": 0.63,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795600937094,
-   "titulo": "FC Imabari vs. Tegevajaro Miyazaki",
-   "dur": 0.577,
+   "inicio": 1795605587125,
+   "titulo": "JEF United Ichihara Chiba vs. Nagoya Grampus",
+   "dur": 0.118,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795605459953,
+   "titulo": "Kashima Antlers vs. Jeonbuk FC",
+   "dur": 1.089,
    "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795600359370,
-   "titulo": "Highest temperature in Tel Aviv on November 25?",
-   "dur": 0.002,
-   "gan": 1.55,
-   "neta": 1.5,
+   "neta": 0.24,
    "lado": "si"
   },
   {
-   "inicio": 1795599948655,
-   "titulo": "Highest temperature in Jeddah on November 25?",
-   "dur": 0.018,
-   "gan": 0.87,
-   "neta": 0.8,
+   "inicio": 1795605450437,
+   "titulo": "Kashima Antlers vs. Jeonbuk FC",
+   "dur": 6.16,
+   "gan": 0.5,
+   "neta": 0.24,
    "lado": "si"
-  },
-  {
-   "inicio": 1795599727723,
-   "titulo": "Highest temperature in Jeddah on November 25?",
-   "dur": 0.046,
-   "gan": 0.66,
-   "neta": 0.59,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795596776094,
-   "titulo": "Sharkia ENPPI vs. Ceramica Cleopatra Club",
-   "dur": 1693.391,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795594711541,
-   "titulo": "Sharkia ENPPI vs. Ceramica Cleopatra Club",
-   "dur": 328.781,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795593554587,
-   "titulo": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv",
-   "dur": 0.116,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795592952318,
-   "titulo": "AC Nagano Parceiro vs. Kagoshima United",
-   "dur": 234.185,
-   "gan": 2.42,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795590127569,
-   "titulo": "RB Ōmiya Ardija vs. Tokushima Vortis",
-   "dur": 1.139,
-   "gan": 1.82,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
