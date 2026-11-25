@@ -1,22 +1,22 @@
 {
- "actualizado": 1795592437446,
+ "actualizado": 1795595453772,
  "inicio": 1794925726685,
  "ejecucion": {
-  "inicio": 1795589437097,
-  "fin": 1795592437446,
-  "mensajes": 10411833,
+  "inicio": 1795592453411,
+  "fin": 1795595453772,
+  "mensajes": 9419343,
   "reconexiones": 0,
-  "eventos": 546,
+  "eventos": 545,
   "errores": [],
-  "nuevos": 1,
+  "nuevos": 3,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 8050,
+ "total": 8053,
  "falsos": 4613,
  "largos": {
-  "episodios": 19379,
-  "eventos": 165,
+  "episodios": 19380,
+  "eventos": 164,
   "dias": 7
  },
  "enEspera": {
@@ -27,29 +27,29 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3117,
-   "gan": 9311.59,
+   "n": 3119,
+   "gan": 9314.93,
    "nNeta": 991,
    "neta": 2196.2
   },
   {
    "s": 2,
-   "n": 1429,
-   "gan": 3785.64,
+   "n": 1431,
+   "gan": 3788.98,
    "nNeta": 399,
    "neta": 513.62
   },
   {
    "s": 5,
-   "n": 830,
-   "gan": 2064.4,
+   "n": 832,
+   "gan": 2067.74,
    "nNeta": 214,
    "neta": 144.76
   },
   {
    "s": 30,
-   "n": 280,
-   "gan": 638.71,
+   "n": 282,
+   "gan": 642.05,
    "nNeta": 37,
    "neta": 40.57
   }
@@ -61,24 +61,24 @@
    "ops": 95,
    "descartadas": 371,
    "neta": 231.5,
-   "dias": 7.7,
-   "semana": 210.47
+   "dias": 7.73,
+   "semana": 209.52
   },
   {
    "capital": 1000,
    "ops": 110,
    "descartadas": 371,
    "neta": 356.94,
-   "dias": 7.7,
-   "semana": 324.52
+   "dias": 7.73,
+   "semana": 323.05
   },
   {
    "capital": 2000,
    "ops": 113,
    "descartadas": 371,
    "neta": 508.83,
-   "dias": 7.7,
-   "semana": 462.61
+   "dias": 7.73,
+   "semana": 460.52
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 3,
-   "horas": 50,
-   "episodios": 2623,
+   "horas": 50.8,
+   "episodios": 2626,
    "sospechosas": 13,
    "realistaNeta": 144.61,
    "capital": {
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7944,
-  "n": 1872,
-  "gan": 4876.69,
+  "conDato": 7947,
+  "n": 1874,
+  "gan": 4880.03,
   "nNeta": 494,
   "neta": 765.01
  },
@@ -265,7 +265,7 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3091
+   "n": 3092
   },
   {
    "et": "1–5 s",
@@ -280,12 +280,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 158
+   "n": 159
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 122
+   "n": 123
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795316400000,
-   "n": 6
-  },
   {
    "h": 1795320000000,
    "n": 65
@@ -647,10 +643,38 @@
   },
   {
    "h": 1795590000000,
+   "n": 3
+  },
+  {
+   "h": 1795593600000,
    "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795594711541,
+   "titulo": "Sharkia ENPPI vs. Ceramica Cleopatra Club",
+   "dur": 328.781,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795593554587,
+   "titulo": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv",
+   "dur": 0.116,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795592952318,
+   "titulo": "AC Nagano Parceiro vs. Kagoshima United",
+   "dur": 234.185,
+   "gan": 2.42,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795590127569,
    "titulo": "RB Ōmiya Ardija vs. Tokushima Vortis",
@@ -746,30 +770,6 @@
    "gan": 0.79,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1795586050941,
-   "titulo": "Highest temperature in Busan on November 25?",
-   "dur": 1.395,
-   "gan": 0.54,
-   "neta": 0.47,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795586050580,
-   "titulo": "Highest temperature in Busan on November 25?",
-   "dur": 0.158,
-   "gan": 0.53,
-   "neta": 0.47,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795585979339,
-   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
-   "dur": 70.511,
-   "gan": 0.88,
-   "neta": 0.46,
-   "lado": "si"
   }
  ]
 }
