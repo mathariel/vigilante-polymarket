@@ -1,21 +1,21 @@
 {
- "actualizado": 1795643722950,
- "inicio": 1794943796284,
+ "actualizado": 1795646738039,
+ "inicio": 1794949792535,
  "ejecucion": {
-  "inicio": 1795640722586,
-  "fin": 1795643722950,
-  "mensajes": 14143306,
-  "reconexiones": 4,
-  "eventos": 558,
+  "inicio": 1795643737709,
+  "fin": 1795646738040,
+  "mensajes": 10296301,
+  "reconexiones": 0,
+  "eventos": 532,
   "errores": [],
-  "nuevos": 314,
-  "nuevosRentables": 20,
-  "nuevosNeta": 100.76
+  "nuevos": 4,
+  "nuevosRentables": 1,
+  "nuevosNeta": 6.64
  },
- "total": 8428,
- "falsos": 4703,
+ "total": 8421,
+ "falsos": 4706,
  "largos": {
-  "episodios": 18948,
+  "episodios": 18955,
   "eventos": 163,
   "dias": 7
  },
@@ -28,28 +28,28 @@
   {
    "s": 0.5,
    "n": 3259,
-   "gan": 9996.05,
-   "nNeta": 1046,
-   "neta": 2477.37
+   "gan": 10004.8,
+   "nNeta": 1047,
+   "neta": 2484.01
   },
   {
    "s": 2,
    "n": 1500,
-   "gan": 4234.63,
-   "nNeta": 433,
-   "neta": 735.46
+   "gan": 4242.58,
+   "nNeta": 434,
+   "neta": 742.1
   },
   {
    "s": 5,
    "n": 861,
-   "gan": 2204.13,
+   "gan": 2203.96,
    "nNeta": 235,
    "neta": 225.99
   },
   {
    "s": 30,
    "n": 281,
-   "gan": 666.44,
+   "gan": 666.27,
    "nNeta": 38,
    "neta": 41.75
   }
@@ -59,26 +59,26 @@
   {
    "capital": 500,
    "ops": 109,
-   "descartadas": 400,
+   "descartadas": 401,
    "neta": 239.83,
-   "dias": 8.03,
-   "semana": 209.08
+   "dias": 8.06,
+   "semana": 208.21
   },
   {
    "capital": 1000,
    "ops": 122,
-   "descartadas": 400,
+   "descartadas": 401,
    "neta": 367.62,
-   "dias": 8.03,
-   "semana": 320.49
+   "dias": 8.06,
+   "semana": 319.15
   },
   {
    "capital": 2000,
    "ops": 129,
-   "descartadas": 400,
+   "descartadas": 401,
    "neta": 555.87,
-   "dias": 8.03,
-   "semana": 484.61
+   "dias": 8.06,
+   "semana": 482.59
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 3,
-   "horas": 64.2,
-   "episodios": 3334,
-   "sospechosas": 18,
-   "realistaNeta": 432.28,
+   "horas": 65,
+   "episodios": 3338,
+   "sospechosas": 19,
+   "realistaNeta": 438.92,
    "capital": {
     "500": 69.83,
     "1000": 102.67,
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 109,
+  "n": 110,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,27 +250,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8319,
-  "n": 1958,
-  "gan": 5418.57,
-  "nNeta": 539,
-  "neta": 1000.47
+  "conDato": 8311,
+  "n": 1957,
+  "gan": 5425.82,
+  "nNeta": 540,
+  "neta": 1007.11
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2870
+   "n": 2867
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3252
+   "n": 3249
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1433
+   "n": 1432
   },
   {
    "et": "5–30 s",
@@ -280,12 +280,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 154
+   "n": 153
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 127
+   "n": 128
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795366800000,
-   "n": 119
-  },
   {
    "h": 1795370400000,
    "n": 41
@@ -647,10 +643,46 @@
   },
   {
    "h": 1795640400000,
-   "n": 329
+   "n": 331
+  },
+  {
+   "h": 1795644000000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795644648730,
+   "titulo": "Spain General Election: Turnout",
+   "dur": 2088.982,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795644371846,
+   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
+   "dur": 0.91,
+   "gan": 1.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795643989583,
+   "titulo": "Lowest temperature in Shanghai on November 26?",
+   "dur": 0.237,
+   "gan": 0.58,
+   "neta": 0.56,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795643878415,
+   "titulo": "Sportivo San Lorenzo vs. Sportivo Ameliano",
+   "dur": 2.317,
+   "gan": 25.6,
+   "neta": 20.7,
+   "lado": "no"
+  },
   {
    "inicio": 1795643509312,
    "titulo": "Paris Saint-Germain FC vs. AS Roma",
@@ -736,38 +768,6 @@
    "titulo": "Sporting CP vs. Manchester United FC",
    "dur": 0.01,
    "gan": 0.67,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795643461297,
-   "titulo": "Paris Saint-Germain FC vs. AS Roma",
-   "dur": 0.81,
-   "gan": 2.63,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795643402133,
-   "titulo": "Paris Saint-Germain FC vs. AS Roma",
-   "dur": 1.044,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795643379358,
-   "titulo": "Sporting CP vs. Manchester United FC",
-   "dur": 1.034,
-   "gan": 5.28,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795643370850,
-   "titulo": "Paris Saint-Germain FC vs. AS Roma",
-   "dur": 0.127,
-   "gan": 0.52,
    "neta": 0,
    "lado": "si"
   }
