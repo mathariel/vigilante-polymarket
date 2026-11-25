@@ -1,19 +1,19 @@
 {
- "actualizado": 1795571316484,
- "inicio": 1794919695709,
+ "actualizado": 1795574340270,
+ "inicio": 1794922725124,
  "ejecucion": {
-  "inicio": 1795568316103,
-  "fin": 1795571316484,
-  "mensajes": 10118703,
+  "inicio": 1795571340035,
+  "fin": 1795574340270,
+  "mensajes": 9053187,
   "reconexiones": 0,
-  "eventos": 505,
+  "eventos": 521,
   "errores": [],
-  "nuevos": 1,
+  "nuevos": 2,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 8016,
- "falsos": 4579,
+ "total": 8018,
+ "falsos": 4580,
  "largos": {
   "episodios": 19421,
   "eventos": 166,
@@ -27,22 +27,22 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3103,
-   "gan": 9279.96,
+   "n": 3104,
+   "gan": 9281.29,
    "nNeta": 981,
    "neta": 2179.38
   },
   {
    "s": 2,
-   "n": 1418,
-   "gan": 3774.06,
+   "n": 1419,
+   "gan": 3775.39,
    "nNeta": 393,
    "neta": 511.05
   },
   {
    "s": 5,
-   "n": 822,
-   "gan": 2057.76,
+   "n": 823,
+   "gan": 2059.09,
    "nNeta": 210,
    "neta": 143.45
   },
@@ -54,31 +54,31 @@
    "neta": 39.39
   }
  ],
- "rentables": 2202,
+ "rentables": 2203,
  "porCapital": [
   {
    "capital": 500,
    "ops": 92,
    "descartadas": 365,
    "neta": 228.63,
-   "dias": 7.5,
-   "semana": 213.27
+   "dias": 7.54,
+   "semana": 212.28
   },
   {
    "capital": 1000,
    "ops": 107,
    "descartadas": 365,
    "neta": 354.07,
-   "dias": 7.5,
-   "semana": 330.28
+   "dias": 7.54,
+   "semana": 328.74
   },
   {
    "capital": 2000,
    "ops": 110,
    "descartadas": 365,
    "neta": 505.96,
-   "dias": 7.5,
-   "semana": 471.96
+   "dias": 7.54,
+   "semana": 469.77
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 2,
-   "horas": 44.2,
-   "episodios": 2557,
+   "horas": 45,
+   "episodios": 2559,
    "sospechosas": 11,
    "realistaNeta": 139.99,
    "capital": {
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7912,
-  "n": 1857,
-  "gan": 4859.31,
+  "conDato": 7914,
+  "n": 1858,
+  "gan": 4860.64,
   "nNeta": 485,
   "neta": 760.42
  },
@@ -265,7 +265,7 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3086
+   "n": 3087
   },
   {
    "et": "1–5 s",
@@ -275,7 +275,7 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 548
+   "n": 549
   },
   {
    "et": "30 s–5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795294800000,
-   "n": 141
-  },
   {
    "h": 1795298400000,
    "n": 31
@@ -648,9 +644,29 @@
   {
    "h": 1795564800000,
    "n": 9
+  },
+  {
+   "h": 1795572000000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795574240270,
+   "titulo": "América de Cali vs. AD Cali",
+   "dur": 8.88,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795574160174,
+   "titulo": "América de Cali vs. AD Cali",
+   "dur": 0.135,
+   "gan": 0.85,
+   "neta": 0.13,
+   "lado": "no"
+  },
   {
    "inicio": 1795568308089,
    "titulo": "Will Claude go down on __ days in November 2026?",
@@ -752,22 +768,6 @@
    "titulo": "Millonarios FC vs. CA Bucaramanga",
    "dur": 0.146,
    "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795564272414,
-   "titulo": "Millonarios FC vs. CA Bucaramanga",
-   "dur": 0.108,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795564271653,
-   "titulo": "Millonarios FC vs. CA Bucaramanga",
-   "dur": 0.479,
-   "gan": 0.9,
    "neta": 0,
    "lado": "si"
   }
