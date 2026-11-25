@@ -1,22 +1,22 @@
 {
- "actualizado": 1795595453772,
+ "actualizado": 1795598469839,
  "inicio": 1794925726685,
  "ejecucion": {
-  "inicio": 1795592453411,
-  "fin": 1795595453772,
-  "mensajes": 9419343,
+  "inicio": 1795595469482,
+  "fin": 1795598469839,
+  "mensajes": 10855495,
   "reconexiones": 0,
-  "eventos": 545,
+  "eventos": 560,
   "errores": [],
-  "nuevos": 3,
+  "nuevos": 1,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 8053,
- "falsos": 4613,
+ "total": 8047,
+ "falsos": 4618,
  "largos": {
-  "episodios": 19380,
-  "eventos": 164,
+  "episodios": 19386,
+  "eventos": 163,
   "dias": 7
  },
  "enEspera": {
@@ -28,57 +28,57 @@
   {
    "s": 0.5,
    "n": 3119,
-   "gan": 9314.93,
+   "gan": 9315.1,
    "nNeta": 991,
    "neta": 2196.2
   },
   {
    "s": 2,
    "n": 1431,
-   "gan": 3788.98,
+   "gan": 3789.15,
    "nNeta": 399,
    "neta": 513.62
   },
   {
    "s": 5,
    "n": 832,
-   "gan": 2067.74,
+   "gan": 2067.91,
    "nNeta": 214,
    "neta": 144.76
   },
   {
    "s": 30,
-   "n": 282,
-   "gan": 642.05,
+   "n": 283,
+   "gan": 643.3,
    "nNeta": 37,
    "neta": 40.57
   }
  ],
- "rentables": 2233,
+ "rentables": 2228,
  "porCapital": [
   {
    "capital": 500,
    "ops": 95,
    "descartadas": 371,
    "neta": 231.5,
-   "dias": 7.73,
-   "semana": 209.52
+   "dias": 7.75,
+   "semana": 208.99
   },
   {
    "capital": 1000,
    "ops": 110,
    "descartadas": 371,
    "neta": 356.94,
-   "dias": 7.73,
-   "semana": 323.05
+   "dias": 7.75,
+   "semana": 322.23
   },
   {
    "capital": 2000,
    "ops": 113,
    "descartadas": 371,
    "neta": 508.83,
-   "dias": 7.73,
-   "semana": 460.52
+   "dias": 7.75,
+   "semana": 459.34
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 3,
-   "horas": 50.8,
-   "episodios": 2626,
+   "horas": 51.7,
+   "episodios": 2627,
    "sospechosas": 13,
    "realistaNeta": 144.61,
    "capital": {
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 106,
+  "n": 105,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7947,
+  "conDato": 7942,
   "n": 1874,
-  "gan": 4880.03,
+  "gan": 4880.2,
   "nNeta": 494,
   "neta": 765.01
  },
@@ -260,12 +260,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2764
+   "n": 2762
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3092
+   "n": 3088
   },
   {
    "et": "1–5 s",
@@ -275,7 +275,7 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 550
+   "n": 549
   },
   {
    "et": "30 s–5 min",
@@ -285,7 +285,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 123
+   "n": 124
   }
  ],
  "porEvento": [
@@ -647,10 +647,18 @@
   },
   {
    "h": 1795593600000,
-   "n": 1
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795596776094,
+   "titulo": "Sharkia ENPPI vs. Ceramica Cleopatra Club",
+   "dur": 1693.391,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795594711541,
    "titulo": "Sharkia ENPPI vs. Ceramica Cleopatra Club",
@@ -762,14 +770,6 @@
    "gan": 1.81,
    "neta": 1.72,
    "lado": "si"
-  },
-  {
-   "inicio": 1795585132429,
-   "titulo": "Tala'ea El Gaish SC vs. Modern SC",
-   "dur": 1274.254,
-   "gan": 0.79,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
