@@ -1,21 +1,21 @@
 {
- "actualizado": 1795625629073,
- "inicio": 1794937486634,
+ "actualizado": 1795628648801,
+ "inicio": 1794937590064,
  "ejecucion": {
-  "inicio": 1795622628734,
-  "fin": 1795625629073,
-  "mensajes": 11794849,
+  "inicio": 1795625648451,
+  "fin": 1795628648801,
+  "mensajes": 11173343,
   "reconexiones": 0,
   "eventos": 544,
   "errores": [],
-  "nuevos": 4,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 6,
+  "nuevosRentables": 2,
+  "nuevosNeta": 1.53
  },
- "total": 8047,
+ "total": 8054,
  "falsos": 4618,
  "largos": {
-  "episodios": 19411,
+  "episodios": 19407,
   "eventos": 162,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3114,
-   "gan": 9348.78,
-   "nNeta": 1005,
-   "neta": 2196.11
+   "n": 3118,
+   "gan": 9353.42,
+   "nNeta": 1008,
+   "neta": 2198.94
   },
   {
    "s": 2,
-   "n": 1433,
-   "gan": 3832.94,
-   "nNeta": 411,
-   "neta": 517.29
+   "n": 1436,
+   "gan": 3835.95,
+   "nNeta": 413,
+   "neta": 518.63
   },
   {
    "s": 5,
-   "n": 838,
-   "gan": 2119.85,
-   "nNeta": 221,
-   "neta": 147.84
+   "n": 840,
+   "gan": 2122.18,
+   "nNeta": 222,
+   "neta": 148.78
   },
   {
    "s": 30,
-   "n": 286,
-   "gan": 679.57,
+   "n": 287,
+   "gan": 680.84,
    "nNeta": 39,
    "neta": 42.56
   }
  ],
- "rentables": 2254,
+ "rentables": 2259,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 99,
+   "ops": 101,
    "descartadas": 383,
-   "neta": 232.2,
-   "dias": 7.96,
-   "semana": 204.13
+   "neta": 233.73,
+   "dias": 8,
+   "semana": 204.58
   },
   {
    "capital": 1000,
-   "ops": 114,
+   "ops": 116,
    "descartadas": 383,
-   "neta": 357.64,
-   "dias": 7.96,
-   "semana": 314.41
+   "neta": 359.17,
+   "dias": 8,
+   "semana": 314.38
   },
   {
    "capital": 2000,
-   "ops": 117,
+   "ops": 119,
    "descartadas": 383,
-   "neta": 509.53,
-   "dias": 7.96,
-   "semana": 447.94
+   "neta": 511.06,
+   "dias": 8,
+   "semana": 447.32
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 3,
-   "horas": 59.2,
-   "episodios": 2720,
-   "sospechosas": 15,
-   "realistaNeta": 152.53,
+   "horas": 60,
+   "episodios": 2727,
+   "sospechosas": 16,
+   "realistaNeta": 154.06,
    "capital": {
-    "500": 61.83,
-    "1000": 91.92,
-    "2000": 110.56
+    "500": 63.36,
+    "1000": 93.45,
+    "2000": 112.09
    },
    "cumple": true
   }
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 107,
+  "n": 108,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,32 +250,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7940,
-  "n": 1867,
-  "gan": 4917.42,
-  "nNeta": 510,
-  "neta": 769.21
+  "conDato": 7946,
+  "n": 1870,
+  "gan": 4920.67,
+  "nNeta": 512,
+  "neta": 770.74
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2764
+   "n": 2766
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3096
+   "n": 3098
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1338
+   "n": 1339
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 552
+   "n": 553
   },
   {
    "et": "30 s–5 min",
@@ -285,7 +285,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 126
+   "n": 127
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795348800000,
-   "n": 38
-  },
   {
    "h": 1795352400000,
    "n": 84
@@ -647,10 +643,70 @@
   },
   {
    "h": 1795622400000,
-   "n": 4
+   "n": 5
+  },
+  {
+   "h": 1795626000000,
+   "n": 6
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795625641403,
+   "titulo": "Burnley FC vs. Birmingham City FC",
+   "dur": 3007.052,
+   "gan": 1.27,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795628546769,
+   "titulo": "OpenAI’s valuation end of November 2026?",
+   "dur": 0.01,
+   "gan": 0.86,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795628356288,
+   "titulo": "Lowest temperature in Hong Kong on November 26?",
+   "dur": 5.525,
+   "gan": 1.06,
+   "neta": 0.94,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795628357126,
+   "titulo": "Lowest temperature in Hong Kong on November 26?",
+   "dur": 0.026,
+   "gan": 1.12,
+   "neta": 1,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795628355943,
+   "titulo": "Lowest temperature in Hong Kong on November 26?",
+   "dur": 0.238,
+   "gan": 0.91,
+   "neta": 0.79,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795628308134,
+   "titulo": "Lowest temperature in Hong Kong on November 26?",
+   "dur": 0.851,
+   "gan": 1.38,
+   "neta": 1.28,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795628093865,
+   "titulo": "Lowest temperature in Hong Kong on November 26?",
+   "dur": 3.264,
+   "gan": 0.72,
+   "neta": 0.4,
+   "lado": "si"
+  },
   {
    "inicio": 1795623725912,
    "titulo": "Burnley FC vs. Birmingham City FC",
@@ -713,62 +769,6 @@
    "dur": 5.133,
    "gan": 0.63,
    "neta": 0.53,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795617927893,
-   "titulo": "Fear & Greed Index on November 27?",
-   "dur": 0.252,
-   "gan": 1.06,
-   "neta": 0.79,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795616625337,
-   "titulo": "Sportivo San Lorenzo vs. Sportivo Ameliano",
-   "dur": 0.027,
-   "gan": 1.21,
-   "neta": 0.7,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795615899775,
-   "titulo": "Audace Cerignola vs. Inter Milano U23",
-   "dur": 0.327,
-   "gan": 0.69,
-   "neta": 0.14,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795615839862,
-   "titulo": "Lowest temperature in Tokyo on November 25?",
-   "dur": 0.868,
-   "gan": 0.82,
-   "neta": 0.79,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795615652694,
-   "titulo": "PFC Nasaf vs. AL-Khaldiya SC",
-   "dur": 0.002,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795615506188,
-   "titulo": "Gukesh Dommaraju vs. Javokhir Sindarov - FIDE World Chess Championship 2026 (Game 2)",
-   "dur": 2.838,
-   "gan": 6.4,
-   "neta": 5.89,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795614520007,
-   "titulo": "Highest temperature in Amsterdam on November 25?",
-   "dur": 3.487,
-   "gan": 0.52,
-   "neta": 0.43,
    "lado": "si"
   }
  ]
