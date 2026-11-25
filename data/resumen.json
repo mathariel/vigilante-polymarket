@@ -1,21 +1,21 @@
 {
- "actualizado": 1795622610174,
- "inicio": 1794935304925,
+ "actualizado": 1795625629073,
+ "inicio": 1794937486634,
  "ejecucion": {
-  "inicio": 1795619609896,
-  "fin": 1795622610174,
-  "mensajes": 11167030,
+  "inicio": 1795622628734,
+  "fin": 1795625629073,
+  "mensajes": 11794849,
   "reconexiones": 0,
-  "eventos": 556,
+  "eventos": 544,
   "errores": [],
-  "nuevos": 1,
+  "nuevos": 4,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 8043,
- "falsos": 4621,
+ "total": 8047,
+ "falsos": 4618,
  "largos": {
-  "episodios": 19409,
+  "episodios": 19411,
   "eventos": 162,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3111,
-   "gan": 9313.41,
+   "n": 3114,
+   "gan": 9348.78,
    "nNeta": 1005,
    "neta": 2196.11
   },
   {
    "s": 2,
-   "n": 1431,
-   "gan": 3798.18,
+   "n": 1433,
+   "gan": 3832.94,
    "nNeta": 411,
    "neta": 517.29
   },
   {
    "s": 5,
-   "n": 836,
-   "gan": 2085.09,
+   "n": 838,
+   "gan": 2119.85,
    "nNeta": 221,
    "neta": 147.84
   },
   {
    "s": 30,
-   "n": 284,
-   "gan": 644.81,
+   "n": 286,
+   "gan": 679.57,
    "nNeta": 39,
    "neta": 42.56
   }
  ],
- "rentables": 2252,
+ "rentables": 2254,
  "porCapital": [
   {
    "capital": 500,
    "ops": 99,
    "descartadas": 383,
    "neta": 232.2,
-   "dias": 7.93,
-   "semana": 205.03
+   "dias": 7.96,
+   "semana": 204.13
   },
   {
    "capital": 1000,
    "ops": 114,
    "descartadas": 383,
    "neta": 357.64,
-   "dias": 7.93,
-   "semana": 315.8
+   "dias": 7.96,
+   "semana": 314.41
   },
   {
    "capital": 2000,
    "ops": 117,
    "descartadas": 383,
    "neta": 509.53,
-   "dias": 7.93,
-   "semana": 449.92
+   "dias": 7.96,
+   "semana": 447.94
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 3,
-   "horas": 58.3,
-   "episodios": 2716,
+   "horas": 59.2,
+   "episodios": 2720,
    "sospechosas": 15,
    "realistaNeta": 152.53,
    "capital": {
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7936,
-  "n": 1864,
-  "gan": 4882.05,
+  "conDato": 7940,
+  "n": 1867,
+  "gan": 4917.42,
   "nNeta": 510,
   "neta": 769.21
  },
@@ -260,7 +260,7 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2763
+   "n": 2764
   },
   {
    "et": "0.1–1 s",
@@ -270,7 +270,7 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1337
+   "n": 1338
   },
   {
    "et": "5–30 s",
@@ -280,12 +280,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 159
+   "n": 160
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 125
+   "n": 126
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795345200000,
-   "n": 43
-  },
   {
    "h": 1795348800000,
    "n": 38
@@ -648,9 +644,45 @@
   {
    "h": 1795618800000,
    "n": 1
+  },
+  {
+   "h": 1795622400000,
+   "n": 4
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795623725912,
+   "titulo": "Burnley FC vs. Birmingham City FC",
+   "dur": 1902.825,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795625074416,
+   "titulo": "Lowest temperature in Hong Kong on November 27?",
+   "dur": 0.03,
+   "gan": 0.53,
+   "neta": 0.38,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795624216446,
+   "titulo": "Spain General Election: Turnout",
+   "dur": 1.444,
+   "gan": 0.88,
+   "neta": 0.01,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795623770261,
+   "titulo": "Olympiakós SFP vs. AC Milan",
+   "dur": 124.305,
+   "gan": 43.92,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795619817021,
    "titulo": "PFC Nasaf vs. AL-Khaldiya SC",
@@ -738,38 +770,6 @@
    "gan": 0.52,
    "neta": 0.43,
    "lado": "si"
-  },
-  {
-   "inicio": 1795614393313,
-   "titulo": "Persib Bandung vs. FC Seoul",
-   "dur": 0.077,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795614170635,
-   "titulo": "Persib Bandung vs. FC Seoul",
-   "dur": 0.195,
-   "gan": 0.79,
-   "neta": 0.08,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795614170237,
-   "titulo": "Persib Bandung vs. FC Seoul",
-   "dur": 0.353,
-   "gan": 0.79,
-   "neta": 0.08,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795614169787,
-   "titulo": "Persib Bandung vs. FC Seoul",
-   "dur": 0.435,
-   "gan": 1.03,
-   "neta": 0.09,
-   "lado": "no"
   }
  ]
 }
