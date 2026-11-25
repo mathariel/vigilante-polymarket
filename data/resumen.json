@@ -1,18 +1,18 @@
 {
- "actualizado": 1795565281666,
+ "actualizado": 1795568298970,
  "inicio": 1794919695709,
  "ejecucion": {
-  "inicio": 1795562281428,
-  "fin": 1795565281666,
-  "mensajes": 10759745,
+  "inicio": 1795565298628,
+  "fin": 1795568298970,
+  "mensajes": 9594534,
   "reconexiones": 0,
-  "eventos": 517,
+  "eventos": 512,
   "errores": [],
-  "nuevos": 9,
+  "nuevos": 6,
   "nuevosRentables": 1,
-  "nuevosNeta": 0.05
+  "nuevosNeta": 0.22
  },
- "total": 8028,
+ "total": 8034,
  "falsos": 4578,
  "largos": {
   "episodios": 19400,
@@ -20,65 +20,65 @@
   "dias": 7
  },
  "enEspera": {
-  "episodios": 44,
-  "eventos": 20
+  "episodios": 45,
+  "eventos": 21
  },
- "mediana": 0.235,
+ "mediana": 0.236,
  "captura": [
   {
    "s": 0.5,
-   "n": 3099,
-   "gan": 9277.13,
-   "nNeta": 979,
-   "neta": 2178.74
+   "n": 3105,
+   "gan": 9283.95,
+   "nNeta": 981,
+   "neta": 2179.25
   },
   {
    "s": 2,
-   "n": 1413,
-   "gan": 3768.43,
-   "nNeta": 391,
-   "neta": 510.59
+   "n": 1417,
+   "gan": 3772.63,
+   "nNeta": 392,
+   "neta": 510.81
   },
   {
    "s": 5,
-   "n": 818,
-   "gan": 2053.6,
-   "nNeta": 208,
-   "neta": 142.99
+   "n": 820,
+   "gan": 2055.77,
+   "nNeta": 209,
+   "neta": 143.21
   },
   {
    "s": 30,
-   "n": 270,
-   "gan": 629.77,
-   "nNeta": 31,
-   "neta": 38.87
+   "n": 272,
+   "gan": 631.98,
+   "nNeta": 32,
+   "neta": 39.15
   }
  ],
- "rentables": 2201,
+ "rentables": 2202,
  "porCapital": [
   {
    "capital": 500,
    "ops": 92,
-   "descartadas": 363,
+   "descartadas": 364,
    "neta": 228.63,
-   "dias": 7.44,
-   "semana": 215.03
+   "dias": 7.48,
+   "semana": 214.02
   },
   {
    "capital": 1000,
    "ops": 107,
-   "descartadas": 363,
+   "descartadas": 364,
    "neta": 354.07,
-   "dias": 7.44,
-   "semana": 333.01
+   "dias": 7.48,
+   "semana": 331.45
   },
   {
    "capital": 2000,
    "ops": 110,
-   "descartadas": 363,
+   "descartadas": 364,
    "neta": 505.96,
-   "dias": 7.44,
-   "semana": 475.86
+   "dias": 7.48,
+   "semana": 473.64
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 2,
-   "horas": 42.5,
-   "episodios": 2549,
+   "horas": 43.3,
+   "episodios": 2555,
    "sospechosas": 11,
-   "realistaNeta": 139.53,
+   "realistaNeta": 139.75,
    "capital": {
     "500": 54.54,
     "1000": 84.63,
@@ -250,11 +250,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7924,
-  "n": 1851,
-  "gan": 4853.41,
-  "nNeta": 483,
-  "neta": 759.96
+  "conDato": 7930,
+  "n": 1856,
+  "gan": 4857.88,
+  "nNeta": 484,
+  "neta": 760.18
  },
  "duraciones": [
   {
@@ -265,12 +265,12 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3094
+   "n": 3095
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1350
+   "n": 1353
   },
   {
    "et": "5–30 s",
@@ -280,12 +280,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 152
+   "n": 153
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 118
+   "n": 119
   }
  ],
  "porEvento": [
@@ -647,10 +647,58 @@
   },
   {
    "h": 1795564800000,
-   "n": 1
+   "n": 7
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795568294144,
+   "titulo": "Okta (OKTA) Q3 cRPO growth?",
+   "dur": 4.487,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795567754667,
+   "titulo": "Will Claude go down on __ days in November 2026?",
+   "dur": 543.964,
+   "gan": 1.47,
+   "neta": 0.22,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795568150988,
+   "titulo": "Okta (OKTA) Q3 cRPO growth?",
+   "dur": 127.102,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795567659649,
+   "titulo": "Will Claude go down on __ days in November 2026?",
+   "dur": 4.852,
+   "gan": 1.26,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795567650941,
+   "titulo": "Will Claude go down on __ days in November 2026?",
+   "dur": 1.338,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795566546051,
+   "titulo": "Millonarios FC vs. CA Bucaramanga",
+   "dur": 0.618,
+   "gan": 0.84,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1795565245216,
    "titulo": "GPU rental prices (B200) end of November?",
@@ -722,54 +770,6 @@
    "gan": 3.96,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1795559257402,
-   "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 3002.188,
-   "gan": 4.18,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795561733399,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 15.822,
-   "gan": 0.52,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795561733267,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 0.019,
-   "gan": 0.57,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795561733169,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 0.018,
-   "gan": 0.52,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795561731873,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 0.593,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795561442694,
-   "titulo": "GPU rental prices (B200) end of November?",
-   "dur": 2.218,
-   "gan": 0.53,
-   "neta": 0.03,
-   "lado": "si"
   }
  ]
 }
