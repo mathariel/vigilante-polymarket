@@ -1,19 +1,19 @@
 {
- "actualizado": 1795586407026,
- "inicio": 1794922725124,
+ "actualizado": 1795589421832,
+ "inicio": 1794925726685,
  "ejecucion": {
-  "inicio": 1795583406679,
-  "fin": 1795586407026,
-  "mensajes": 11614221,
-  "reconexiones": 8,
-  "eventos": 533,
+  "inicio": 1795586421512,
+  "fin": 1795589421832,
+  "mensajes": 10267160,
+  "reconexiones": 1,
+  "eventos": 547,
   "errores": [],
-  "nuevos": 40,
-  "nuevosRentables": 8,
-  "nuevosNeta": 2.11
+  "nuevos": 10,
+  "nuevosRentables": 2,
+  "nuevosNeta": 2.3
  },
- "total": 8043,
- "falsos": 4615,
+ "total": 8050,
+ "falsos": 4612,
  "largos": {
   "episodios": 19376,
   "eventos": 165,
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3114,
-   "gan": 9302.82,
-   "nNeta": 990,
-   "neta": 2193.92
+   "n": 3116,
+   "gan": 9310.02,
+   "nNeta": 991,
+   "neta": 2196.2
   },
   {
    "s": 2,
-   "n": 1428,
-   "gan": 3783.47,
+   "n": 1429,
+   "gan": 3785.64,
    "nNeta": 399,
-   "neta": 512.78
+   "neta": 513.62
   },
   {
    "s": 5,
-   "n": 831,
-   "gan": 2064.92,
-   "nNeta": 215,
-   "neta": 144.78
+   "n": 830,
+   "gan": 2064.4,
+   "nNeta": 214,
+   "neta": 144.76
   },
   {
    "s": 30,
    "n": 280,
-   "gan": 638.47,
+   "gan": 638.71,
    "nNeta": 37,
    "neta": 40.57
   }
  ],
- "rentables": 2227,
+ "rentables": 2233,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 93,
-   "descartadas": 372,
-   "neta": 229.2,
-   "dias": 7.64,
-   "semana": 210.05
+   "ops": 95,
+   "descartadas": 371,
+   "neta": 231.5,
+   "dias": 7.67,
+   "semana": 211.36
   },
   {
    "capital": 1000,
-   "ops": 108,
-   "descartadas": 372,
-   "neta": 354.64,
-   "dias": 7.64,
-   "semana": 325.01
+   "ops": 110,
+   "descartadas": 371,
+   "neta": 356.94,
+   "dias": 7.67,
+   "semana": 325.89
   },
   {
    "capital": 2000,
-   "ops": 111,
-   "descartadas": 372,
-   "neta": 506.53,
-   "dias": 7.64,
-   "semana": 464.21
+   "ops": 113,
+   "descartadas": 371,
+   "neta": 508.83,
+   "dias": 7.67,
+   "semana": 464.56
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 3,
-   "horas": 48.3,
-   "episodios": 2612,
+   "horas": 49.2,
+   "episodios": 2622,
    "sospechosas": 13,
-   "realistaNeta": 142.31,
+   "realistaNeta": 144.61,
    "capital": {
-    "500": 55.11,
-    "1000": 85.2,
-    "2000": 103.84
+    "500": 57.41,
+    "1000": 87.5,
+    "2000": 106.14
    },
    "cumple": true
   }
@@ -250,42 +250,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7937,
-  "n": 1869,
-  "gan": 4868.64,
-  "nNeta": 493,
-  "neta": 762.73
+  "conDato": 7944,
+  "n": 1872,
+  "gan": 4876.69,
+  "nNeta": 494,
+  "neta": 765.01
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2760
+   "n": 2764
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3090
+   "n": 3092
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1350
+   "n": 1352
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 551
+   "n": 550
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 159
+   "n": 158
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 121
+   "n": 122
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795309200000,
-   "n": 64
-  },
   {
    "h": 1795312800000,
    "n": 35
@@ -648,9 +644,93 @@
   {
    "h": 1795582800000,
    "n": 42
+  },
+  {
+   "h": 1795586400000,
+   "n": 10
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795589397646,
+   "titulo": "Sagan Tosu vs. Ōita Trinita",
+   "dur": 2.6,
+   "gan": 1.78,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795589358853,
+   "titulo": "Sagan Tosu vs. Ōita Trinita",
+   "dur": 1.778,
+   "gan": 4.44,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795586425192,
+   "titulo": "Tala'ea El Gaish SC vs. Modern SC",
+   "dur": 1218.858,
+   "gan": 0.79,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795587223567,
+   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
+   "dur": 0.032,
+   "gan": 1.02,
+   "neta": 0.7,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795587223386,
+   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
+   "dur": 0.142,
+   "gan": 0.89,
+   "neta": 0.28,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795586609136,
+   "titulo": "Highest temperature in Manila on November 25?",
+   "dur": 0.839,
+   "gan": 1.42,
+   "neta": 1.34,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795586595148,
+   "titulo": "Highest temperature in Manila on November 25?",
+   "dur": 2.474,
+   "gan": 1.77,
+   "neta": 1.68,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795586595016,
+   "titulo": "Highest temperature in Manila on November 25?",
+   "dur": 0.036,
+   "gan": 1.55,
+   "neta": 1.46,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795586594856,
+   "titulo": "Highest temperature in Manila on November 25?",
+   "dur": 0.002,
+   "gan": 0.75,
+   "neta": 0.65,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795586594695,
+   "titulo": "Highest temperature in Manila on November 25?",
+   "dur": 0.049,
+   "gan": 1.81,
+   "neta": 1.72,
+   "lado": "si"
+  },
   {
    "inicio": 1795585132429,
    "titulo": "Tala'ea El Gaish SC vs. Modern SC",
@@ -689,86 +769,6 @@
    "dur": 266.846,
    "gan": 0.79,
    "neta": 0.38,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795585553189,
-   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
-   "dur": 159.202,
-   "gan": 0.55,
-   "neta": 0.21,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795585485338,
-   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
-   "dur": 66.975,
-   "gan": 0.51,
-   "neta": 0.12,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795585481085,
-   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
-   "dur": 3.967,
-   "gan": 0.51,
-   "neta": 0.12,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795585480063,
-   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
-   "dur": 0.02,
-   "gan": 0.51,
-   "neta": 0.12,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795585478388,
-   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
-   "dur": 0.021,
-   "gan": 0.51,
-   "neta": 0.12,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795585477948,
-   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
-   "dur": 0.038,
-   "gan": 0.51,
-   "neta": 0.12,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795585474923,
-   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
-   "dur": 0.017,
-   "gan": 0.51,
-   "neta": 0.12,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795585474299,
-   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
-   "dur": 0.409,
-   "gan": 0.51,
-   "neta": 0.12,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795585472277,
-   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
-   "dur": 0.022,
-   "gan": 0.51,
-   "neta": 0.12,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795585468742,
-   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
-   "dur": 0.018,
-   "gan": 0.51,
-   "neta": 0.12,
    "lado": "si"
   }
  ]
