@@ -1,21 +1,21 @@
 {
- "actualizado": 1795562259929,
- "inicio": 1794916693655,
+ "actualizado": 1795565281666,
+ "inicio": 1794919695709,
  "ejecucion": {
-  "inicio": 1795559259587,
-  "fin": 1795562259929,
-  "mensajes": 10393082,
+  "inicio": 1795562281428,
+  "fin": 1795565281666,
+  "mensajes": 10759745,
   "reconexiones": 0,
-  "eventos": 546,
+  "eventos": 517,
   "errores": [],
-  "nuevos": 6,
-  "nuevosRentables": 2,
+  "nuevos": 9,
+  "nuevosRentables": 1,
   "nuevosNeta": 0.05
  },
- "total": 8021,
- "falsos": 4570,
+ "total": 8028,
+ "falsos": 4578,
  "largos": {
-  "episodios": 19411,
+  "episodios": 19400,
   "eventos": 165,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3093,
-   "gan": 9266.14,
-   "nNeta": 977,
-   "neta": 2178.47
+   "n": 3099,
+   "gan": 9277.13,
+   "nNeta": 979,
+   "neta": 2178.74
   },
   {
    "s": 2,
-   "n": 1410,
-   "gan": 3763.22,
-   "nNeta": 390,
-   "neta": 510.54
+   "n": 1413,
+   "gan": 3768.43,
+   "nNeta": 391,
+   "neta": 510.59
   },
   {
    "s": 5,
-   "n": 817,
-   "gan": 2049.64,
+   "n": 818,
+   "gan": 2053.6,
    "nNeta": 208,
    "neta": 142.99
   },
   {
    "s": 30,
-   "n": 269,
-   "gan": 625.81,
+   "n": 270,
+   "gan": 629.77,
    "nNeta": 31,
    "neta": 38.87
   }
  ],
- "rentables": 2199,
+ "rentables": 2201,
  "porCapital": [
   {
    "capital": 500,
    "ops": 92,
-   "descartadas": 362,
+   "descartadas": 363,
    "neta": 228.63,
-   "dias": 7.41,
-   "semana": 216.01
+   "dias": 7.44,
+   "semana": 215.03
   },
   {
    "capital": 1000,
    "ops": 107,
-   "descartadas": 362,
+   "descartadas": 363,
    "neta": 354.07,
-   "dias": 7.41,
-   "semana": 334.52
+   "dias": 7.44,
+   "semana": 333.01
   },
   {
    "capital": 2000,
    "ops": 110,
-   "descartadas": 362,
+   "descartadas": 363,
    "neta": 505.96,
-   "dias": 7.41,
-   "semana": 478.02
+   "dias": 7.44,
+   "semana": 475.86
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 2,
-   "horas": 41.7,
-   "episodios": 2540,
+   "horas": 42.5,
+   "episodios": 2549,
    "sospechosas": 11,
-   "realistaNeta": 139.48,
+   "realistaNeta": 139.53,
    "capital": {
     "500": 54.54,
     "1000": 84.63,
@@ -250,27 +250,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 7917,
-  "n": 1848,
-  "gan": 4848.2,
-  "nNeta": 482,
-  "neta": 759.91
+  "conDato": 7924,
+  "n": 1851,
+  "gan": 4853.41,
+  "nNeta": 483,
+  "neta": 759.96
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2755
+   "n": 2754
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3090
+   "n": 3094
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1347
+   "n": 1350
   },
   {
    "et": "5–30 s",
@@ -285,7 +285,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 117
+   "n": 118
   }
  ],
  "porEvento": [
@@ -333,10 +333,10 @@
   },
   {
    "titulo": "Spain General Election: BNG # of seats?",
-   "n": 109,
-   "gan": 104.36,
+   "n": 110,
+   "gan": 108.32,
    "neta": 0,
-   "mediana": 0.569
+   "mediana": 0.574
   },
   {
    "titulo": "Denmark vs. Norway",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795291200000,
-   "n": 104
-  },
   {
    "h": 1795294800000,
    "n": 141
@@ -647,10 +643,86 @@
   },
   {
    "h": 1795561200000,
-   "n": 5
+   "n": 13
+  },
+  {
+   "h": 1795564800000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795565245216,
+   "titulo": "GPU rental prices (B200) end of November?",
+   "dur": 4.78,
+   "gan": 0.52,
+   "neta": 0.05,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795564491893,
+   "titulo": "Millonarios FC vs. CA Bucaramanga",
+   "dur": 0.894,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795564487464,
+   "titulo": "Millonarios FC vs. CA Bucaramanga",
+   "dur": 4.389,
+   "gan": 0.73,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795564272931,
+   "titulo": "Millonarios FC vs. CA Bucaramanga",
+   "dur": 0.811,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795564272657,
+   "titulo": "Millonarios FC vs. CA Bucaramanga",
+   "dur": 0.146,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795564272414,
+   "titulo": "Millonarios FC vs. CA Bucaramanga",
+   "dur": 0.108,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795564271653,
+   "titulo": "Millonarios FC vs. CA Bucaramanga",
+   "dur": 0.479,
+   "gan": 0.9,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795563586739,
+   "titulo": "Millonarios FC vs. CA Bucaramanga",
+   "dur": 1.443,
+   "gan": 1.75,
+   "neta": 0.22,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795562282005,
+   "titulo": "Spain General Election: BNG # of seats?",
+   "dur": 821.421,
+   "gan": 3.96,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795559257402,
    "titulo": "Spain General Election: BNG # of seats?",
@@ -696,78 +768,6 @@
    "titulo": "GPU rental prices (B200) end of November?",
    "dur": 2.218,
    "gan": 0.53,
-   "neta": 0.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795559271499,
-   "titulo": "Associação Chapecoense de Futebol vs. SE Palmeiras",
-   "dur": 1.678,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795556243100,
-   "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 3001.881,
-   "gan": 4.11,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795559195087,
-   "titulo": "Associação Chapecoense de Futebol vs. SE Palmeiras",
-   "dur": 1.983,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795559192038,
-   "titulo": "Associação Chapecoense de Futebol vs. SE Palmeiras",
-   "dur": 3.038,
-   "gan": 0.77,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795559192030,
-   "titulo": "Associação Chapecoense de Futebol vs. SE Palmeiras",
-   "dur": 0.006,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795558963455,
-   "titulo": "Associação Chapecoense de Futebol vs. SE Palmeiras",
-   "dur": 0.295,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795558963058,
-   "titulo": "Associação Chapecoense de Futebol vs. SE Palmeiras",
-   "dur": 0.262,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795558706471,
-   "titulo": "Associação Chapecoense de Futebol vs. SE Palmeiras",
-   "dur": 0.427,
-   "gan": 7.25,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795558470890,
-   "titulo": "GPU rental prices (B200) end of November?",
-   "dur": 5.365,
-   "gan": 0.58,
    "neta": 0.03,
    "lado": "si"
   }
