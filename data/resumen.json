@@ -1,21 +1,21 @@
 {
- "actualizado": 1795589421832,
+ "actualizado": 1795592437446,
  "inicio": 1794925726685,
  "ejecucion": {
-  "inicio": 1795586421512,
-  "fin": 1795589421832,
-  "mensajes": 10267160,
-  "reconexiones": 1,
-  "eventos": 547,
+  "inicio": 1795589437097,
+  "fin": 1795592437446,
+  "mensajes": 10411833,
+  "reconexiones": 0,
+  "eventos": 546,
   "errores": [],
-  "nuevos": 10,
-  "nuevosRentables": 2,
-  "nuevosNeta": 2.3
+  "nuevos": 1,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
  "total": 8050,
- "falsos": 4612,
+ "falsos": 4613,
  "largos": {
-  "episodios": 19376,
+  "episodios": 19379,
   "eventos": 165,
   "dias": 7
  },
@@ -27,8 +27,8 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3116,
-   "gan": 9310.02,
+   "n": 3117,
+   "gan": 9311.59,
    "nNeta": 991,
    "neta": 2196.2
   },
@@ -61,24 +61,24 @@
    "ops": 95,
    "descartadas": 371,
    "neta": 231.5,
-   "dias": 7.67,
-   "semana": 211.36
+   "dias": 7.7,
+   "semana": 210.47
   },
   {
    "capital": 1000,
    "ops": 110,
    "descartadas": 371,
    "neta": 356.94,
-   "dias": 7.67,
-   "semana": 325.89
+   "dias": 7.7,
+   "semana": 324.52
   },
   {
    "capital": 2000,
    "ops": 113,
    "descartadas": 371,
    "neta": 508.83,
-   "dias": 7.67,
-   "semana": 464.56
+   "dias": 7.7,
+   "semana": 462.61
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 3,
-   "horas": 49.2,
-   "episodios": 2622,
+   "horas": 50,
+   "episodios": 2623,
    "sospechosas": 13,
    "realistaNeta": 144.61,
    "capital": {
@@ -265,12 +265,12 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3092
+   "n": 3091
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1352
+   "n": 1353
   },
   {
    "et": "5–30 s",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795312800000,
-   "n": 35
-  },
   {
    "h": 1795316400000,
    "n": 6
@@ -648,9 +644,21 @@
   {
    "h": 1795586400000,
    "n": 10
+  },
+  {
+   "h": 1795590000000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795590127569,
+   "titulo": "RB Ōmiya Ardija vs. Tokushima Vortis",
+   "dur": 1.139,
+   "gan": 1.82,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795589397646,
    "titulo": "Sagan Tosu vs. Ōita Trinita",
@@ -761,14 +769,6 @@
    "dur": 70.511,
    "gan": 0.88,
    "neta": 0.46,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795585712422,
-   "titulo": "Brazil GDP Growth in Q3 2026 (QoQ)?",
-   "dur": 266.846,
-   "gan": 0.79,
-   "neta": 0.38,
    "lado": "si"
   }
  ]
