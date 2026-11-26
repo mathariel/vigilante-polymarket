@@ -1,21 +1,21 @@
 {
- "actualizado": 1795682920686,
+ "actualizado": 1795685939665,
  "inicio": 1794964951496,
  "ejecucion": {
-  "inicio": 1795679920446,
-  "fin": 1795682920686,
-  "mensajes": 9830385,
+  "inicio": 1795682939322,
+  "fin": 1795685939665,
+  "mensajes": 9810760,
   "reconexiones": 0,
-  "eventos": 526,
+  "eventos": 546,
   "errores": [],
-  "nuevos": 0,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 7,
+  "nuevosRentables": 1,
+  "nuevosNeta": 1.71
  },
- "total": 8397,
- "falsos": 4729,
+ "total": 8404,
+ "falsos": 4728,
  "largos": {
-  "episodios": 18968,
+  "episodios": 18965,
   "eventos": 164,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3284,
-   "gan": 10039.78,
-   "nNeta": 1080,
-   "neta": 2490.1
+   "n": 3289,
+   "gan": 10050.41,
+   "nNeta": 1082,
+   "neta": 2492.9
   },
   {
    "s": 2,
-   "n": 1529,
-   "gan": 4315.31,
+   "n": 1531,
+   "gan": 4316.74,
    "nNeta": 462,
    "neta": 749.58
   },
   {
    "s": 5,
-   "n": 887,
-   "gan": 2255.34,
+   "n": 889,
+   "gan": 2256.77,
    "nNeta": 255,
    "neta": 218.21
   },
   {
    "s": 30,
-   "n": 299,
-   "gan": 688.88,
+   "n": 301,
+   "gan": 690.31,
    "nNeta": 50,
    "neta": 44.11
   }
  ],
- "rentables": 2376,
+ "rentables": 2377,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 119,
+   "ops": 120,
    "descartadas": 418,
-   "neta": 251.9,
-   "dias": 8.26,
-   "semana": 213.49
+   "neta": 253.61,
+   "dias": 8.29,
+   "semana": 214.04
   },
   {
    "capital": 1000,
-   "ops": 137,
+   "ops": 138,
    "descartadas": 418,
-   "neta": 382.2,
-   "dias": 8.26,
-   "semana": 323.93
+   "neta": 383.91,
+   "dias": 8.29,
+   "semana": 324.01
   },
   {
    "capital": 2000,
-   "ops": 143,
+   "ops": 144,
    "descartadas": 418,
-   "neta": 564.16,
-   "dias": 8.26,
-   "semana": 478.15
+   "neta": 565.87,
+   "dias": 8.29,
+   "semana": 477.58
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 4,
-   "horas": 75,
-   "episodios": 3490,
+   "horas": 75.8,
+   "episodios": 3497,
    "sospechosas": 25,
-   "realistaNeta": 464.52,
+   "realistaNeta": 466.23,
    "capital": {
-    "500": 85.65,
-    "1000": 124.77,
-    "2000": 201
+    "500": 87.36,
+    "1000": 126.48,
+    "2000": 202.71
    },
    "cumple": true
   }
@@ -250,27 +250,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8281,
-  "n": 1994,
-  "gan": 5500.16,
-  "nNeta": 571,
-  "neta": 1017.55
+  "conDato": 8288,
+  "n": 1998,
+  "gan": 5504.8,
+  "nNeta": 572,
+  "neta": 1019.26
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2839
+   "n": 2840
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3222
+   "n": 3224
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1437
+   "n": 1439
   },
   {
    "et": "5–30 s",
@@ -280,12 +280,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 164
+   "n": 165
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 135
+   "n": 136
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795402800000,
-   "n": 4
-  },
   {
    "h": 1795417200000,
    "n": 2
@@ -648,9 +644,69 @@
   {
    "h": 1795676400000,
    "n": 1
+  },
+  {
+   "h": 1795683600000,
+   "n": 7
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795685548244,
+   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
+   "dur": 391.081,
+   "gan": 0.83,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795685622381,
+   "titulo": "Highest temperature in Helsinki on November 26?",
+   "dur": 1.035,
+   "gan": 1.75,
+   "neta": 1.71,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795684444162,
+   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
+   "dur": 1.954,
+   "gan": 1.46,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795684412473,
+   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
+   "dur": 0.404,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795684265570,
+   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
+   "dur": 61.462,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795684265486,
+   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
+   "dur": 0.024,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795684195136,
+   "titulo": "Borneo Samarinda vs. Persita Tangerang",
+   "dur": 0.964,
+   "gan": 1.11,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795676429301,
    "titulo": "Highest temperature in Busan on November 26?",
@@ -713,62 +769,6 @@
    "dur": 0.04,
    "gan": 0.55,
    "neta": 0.48,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795672389278,
-   "titulo": "Highest temperature in Busan on November 26?",
-   "dur": 0.09,
-   "gan": 0.52,
-   "neta": 0.42,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795672389034,
-   "titulo": "Highest temperature in Busan on November 26?",
-   "dur": 0.054,
-   "gan": 0.8,
-   "neta": 0.69,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795672388057,
-   "titulo": "Highest temperature in Busan on November 26?",
-   "dur": 0.971,
-   "gan": 0.6,
-   "neta": 0.49,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795670608740,
-   "titulo": "Highest temperature in Taipei on November 26?",
-   "dur": 1.256,
-   "gan": 2.92,
-   "neta": 2.78,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795669753707,
-   "titulo": "CF Monterrey vs. CF América",
-   "dur": 0.105,
-   "gan": 0.85,
-   "neta": 0.1,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795669743728,
-   "titulo": "CF Monterrey vs. CF América",
-   "dur": 4.874,
-   "gan": 1.78,
-   "neta": 0.37,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795669593182,
-   "titulo": "CF Monterrey vs. CF América",
-   "dur": 0.828,
-   "gan": 11.82,
-   "neta": 1.7,
    "lado": "si"
   }
  ]
