@@ -1,43 +1,43 @@
 {
- "actualizado": 1795670855964,
- "inicio": 1794958923195,
+ "actualizado": 1795673870373,
+ "inicio": 1794964951496,
  "ejecucion": {
-  "inicio": 1795667855545,
-  "fin": 1795670855964,
-  "mensajes": 10333107,
-  "reconexiones": 0,
-  "eventos": 534,
+  "inicio": 1795670870025,
+  "fin": 1795673870373,
+  "mensajes": 9712979,
+  "reconexiones": 1,
+  "eventos": 525,
   "errores": [],
-  "nuevos": 13,
+  "nuevos": 6,
   "nuevosRentables": 3,
-  "nuevosNeta": 1.36
+  "nuevosNeta": 2.07
  },
- "total": 8395,
- "falsos": 4734,
+ "total": 8392,
+ "falsos": 4727,
  "largos": {
-  "episodios": 18962,
+  "episodios": 18973,
   "eventos": 163,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 61,
+  "episodios": 60,
   "eventos": 28
  },
- "mediana": 0.243,
+ "mediana": 0.244,
  "captura": [
   {
    "s": 0.5,
-   "n": 3281,
-   "gan": 10038.96,
-   "nNeta": 1077,
-   "neta": 2487.34
+   "n": 3283,
+   "gan": 10038.97,
+   "nNeta": 1079,
+   "neta": 2489.38
   },
   {
    "s": 2,
-   "n": 1527,
-   "gan": 4313.87,
-   "nNeta": 460,
-   "neta": 748.35
+   "n": 1528,
+   "gan": 4314.48,
+   "nNeta": 461,
+   "neta": 748.85
   },
   {
    "s": 5,
@@ -54,31 +54,31 @@
    "neta": 43.38
   }
  ],
- "rentables": 2368,
+ "rentables": 2372,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 115,
-   "descartadas": 419,
-   "neta": 249.11,
-   "dias": 8.16,
-   "semana": 213.68
+   "ops": 118,
+   "descartadas": 418,
+   "neta": 251.18,
+   "dias": 8.15,
+   "semana": 215.62
   },
   {
    "capital": 1000,
-   "ops": 133,
-   "descartadas": 419,
-   "neta": 379.41,
-   "dias": 8.16,
-   "semana": 325.45
+   "ops": 136,
+   "descartadas": 418,
+   "neta": 381.48,
+   "dias": 8.15,
+   "semana": 327.47
   },
   {
    "capital": 2000,
-   "ops": 139,
-   "descartadas": 419,
-   "neta": 561.37,
-   "dias": 8.16,
-   "semana": 481.54
+   "ops": 142,
+   "descartadas": 418,
+   "neta": 563.44,
+   "dias": 8.15,
+   "semana": 483.68
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 4,
-   "horas": 71.7,
-   "episodios": 3479,
+   "horas": 72.5,
+   "episodios": 3485,
    "sospechosas": 25,
-   "realistaNeta": 461.73,
+   "realistaNeta": 463.8,
    "capital": {
-    "500": 82.86,
-    "1000": 121.98,
-    "2000": 198.21
+    "500": 84.93,
+    "1000": 124.05,
+    "2000": 200.28
    },
    "cumple": true
   }
@@ -250,22 +250,22 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8279,
-  "n": 1991,
-  "gan": 5499.34,
-  "nNeta": 568,
-  "neta": 1014.79
+  "conDato": 8276,
+  "n": 1993,
+  "gan": 5499.35,
+  "nNeta": 570,
+  "neta": 1016.83
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2839
+   "n": 2838
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3221
+   "n": 3219
   },
   {
    "et": "1–5 s",
@@ -647,10 +647,58 @@
   },
   {
    "h": 1795669200000,
-   "n": 7
+   "n": 13
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795672437204,
+   "titulo": "Highest temperature in Busan on November 26?",
+   "dur": 0.813,
+   "gan": 1.12,
+   "neta": 1.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795672389836,
+   "titulo": "Highest temperature in Busan on November 26?",
+   "dur": 3.789,
+   "gan": 0.61,
+   "neta": 0.5,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795672389412,
+   "titulo": "Highest temperature in Busan on November 26?",
+   "dur": 0.04,
+   "gan": 0.55,
+   "neta": 0.48,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795672389278,
+   "titulo": "Highest temperature in Busan on November 26?",
+   "dur": 0.09,
+   "gan": 0.52,
+   "neta": 0.42,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795672389034,
+   "titulo": "Highest temperature in Busan on November 26?",
+   "dur": 0.054,
+   "gan": 0.8,
+   "neta": 0.69,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795672388057,
+   "titulo": "Highest temperature in Busan on November 26?",
+   "dur": 0.971,
+   "gan": 0.6,
+   "neta": 0.49,
+   "lado": "si"
+  },
   {
    "inicio": 1795670608740,
    "titulo": "Highest temperature in Taipei on November 26?",
@@ -722,54 +770,6 @@
    "gan": 5.01,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1795668615746,
-   "titulo": "CF Monterrey vs. CF América",
-   "dur": 0.353,
-   "gan": 8.76,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795668486316,
-   "titulo": "CF Monterrey vs. CF América",
-   "dur": 0.732,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795668472190,
-   "titulo": "CF Monterrey vs. CF América",
-   "dur": 0.12,
-   "gan": 1.08,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795667954437,
-   "titulo": "Highest temperature in Hong Kong on November 26?",
-   "dur": 0.765,
-   "gan": 1.44,
-   "neta": 1.39,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795667389330,
-   "titulo": "Highest temperature in Tokyo on November 26?",
-   "dur": 0.915,
-   "gan": 1.11,
-   "neta": 1.03,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795667291358,
-   "titulo": "CF Monterrey vs. CF América",
-   "dur": 0.256,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
