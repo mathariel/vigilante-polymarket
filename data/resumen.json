@@ -1,84 +1,84 @@
 {
- "actualizado": 1795688958416,
+ "actualizado": 1795691973976,
  "inicio": 1794967907361,
  "ejecucion": {
-  "inicio": 1795685958137,
-  "fin": 1795688958416,
-  "mensajes": 9973021,
+  "inicio": 1795688973679,
+  "fin": 1795691973976,
+  "mensajes": 9934703,
   "reconexiones": 0,
-  "eventos": 546,
+  "eventos": 547,
   "errores": [],
-  "nuevos": 30,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.76
+  "nuevos": 4,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 8431,
- "falsos": 4727,
+ "total": 8385,
+ "falsos": 4713,
  "largos": {
-  "episodios": 18942,
-  "eventos": 164,
+  "episodios": 19002,
+  "eventos": 166,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 60,
-  "eventos": 28
+  "episodios": 59,
+  "eventos": 27
  },
  "mediana": 0.244,
  "captura": [
   {
    "s": 0.5,
-   "n": 3301,
-   "gan": 10060.98,
-   "nNeta": 1084,
-   "neta": 2491.6
+   "n": 3282,
+   "gan": 10040.87,
+   "nNeta": 1078,
+   "neta": 2489.34
   },
   {
    "s": 2,
-   "n": 1539,
-   "gan": 4321.42,
-   "nNeta": 462,
-   "neta": 749.58
+   "n": 1528,
+   "gan": 4313.72,
+   "nNeta": 461,
+   "neta": 749.47
   },
   {
    "s": 5,
-   "n": 896,
-   "gan": 2260.82,
+   "n": 887,
+   "gan": 2254.44,
    "nNeta": 255,
    "neta": 218.21
   },
   {
    "s": 30,
-   "n": 304,
-   "gan": 692.2,
+   "n": 299,
+   "gan": 687.98,
    "nNeta": 50,
    "neta": 44.11
   }
  ],
- "rentables": 2386,
+ "rentables": 2369,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 121,
-   "descartadas": 418,
-   "neta": 254.37,
-   "dias": 8.31,
-   "semana": 214.14
+   "ops": 120,
+   "descartadas": 416,
+   "neta": 253.61,
+   "dias": 8.18,
+   "semana": 216.92
   },
   {
    "capital": 1000,
-   "ops": 139,
-   "descartadas": 418,
-   "neta": 384.67,
-   "dias": 8.31,
-   "semana": 323.84
+   "ops": 138,
+   "descartadas": 416,
+   "neta": 383.91,
+   "dias": 8.18,
+   "semana": 328.37
   },
   {
    "capital": 2000,
-   "ops": 145,
-   "descartadas": 418,
-   "neta": 566.63,
-   "dias": 8.31,
-   "semana": 477.03
+   "ops": 144,
+   "descartadas": 416,
+   "neta": 565.87,
+   "dias": 8.18,
+   "semana": 484.02
   }
  ],
  "maxBloqueoH": 24,
@@ -130,13 +130,13 @@
    "lunes": "2026-11-23",
    "dias": 4,
    "horas": 76.7,
-   "episodios": 3527,
+   "episodios": 3501,
    "sospechosas": 25,
-   "realistaNeta": 466.99,
+   "realistaNeta": 466.23,
    "capital": {
-    "500": 88.12,
-    "1000": 127.24,
-    "2000": 203.47
+    "500": 87.36,
+    "1000": 126.48,
+    "2000": 202.71
    },
    "cumple": true
   }
@@ -250,42 +250,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8315,
-  "n": 2008,
-  "gan": 5507.33,
-  "nNeta": 573,
-  "neta": 1020.02
+  "conDato": 8269,
+  "n": 1993,
+  "gan": 5495.7,
+  "nNeta": 570,
+  "neta": 1018.87
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2850
+   "n": 2833
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3230
+   "n": 3219
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1443
+   "n": 1435
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 592
+   "n": 588
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 167
+   "n": 163
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 137
+   "n": 136
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795424400000,
-   "n": 1
-  },
   {
    "h": 1795428000000,
    "n": 11
@@ -643,131 +639,135 @@
   },
   {
    "h": 1795683600000,
-   "n": 25
+   "n": 7
   },
   {
    "h": 1795687200000,
-   "n": 12
+   "n": 2
+  },
+  {
+   "h": 1795690800000,
+   "n": 2
   }
  ],
  "recientes": [
   {
-   "inicio": 1795688703885,
-   "titulo": "Borneo Samarinda vs. Persita Tangerang",
-   "dur": 0.029,
-   "gan": 0.52,
-   "neta": 0.05,
+   "inicio": 1795691854629,
+   "titulo": "PKR Svay Rieng vs. Machida Zelvia",
+   "dur": 0.581,
+   "gan": 6.81,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795688570896,
-   "titulo": "BG Tampines Rovers vs. Shanghai Shenhua FC",
-   "dur": 0.542,
-   "gan": 0.58,
-   "neta": 0.25,
+   "inicio": 1795691854364,
+   "titulo": "PKR Svay Rieng vs. Machida Zelvia",
+   "dur": 0.069,
+   "gan": 0.68,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795687580317,
+   "inicio": 1795689856552,
    "titulo": "Gangwon FC vs. Kitchee",
-   "dur": 0.107,
+   "dur": 0.045,
    "gan": 0.54,
-   "neta": 0.02,
+   "neta": 0.01,
    "lado": "no"
   },
   {
-   "inicio": 1795687579667,
-   "titulo": "Gangwon FC vs. Kitchee",
-   "dur": 0.163,
-   "gan": 0.74,
-   "neta": 0.09,
-   "lado": "no"
+   "inicio": 1795689453226,
+   "titulo": "Kuching City FC vs. Phnom Penh Crown FC",
+   "dur": 0.048,
+   "gan": 0.78,
+   "neta": 0,
+   "lado": "si"
   },
   {
-   "inicio": 1795687579308,
-   "titulo": "Gangwon FC vs. Kitchee",
-   "dur": 0.038,
-   "gan": 0.59,
-   "neta": 0.04,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795687579027,
-   "titulo": "Gangwon FC vs. Kitchee",
-   "dur": 0.049,
-   "gan": 2.95,
-   "neta": 2.22,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795687578650,
-   "titulo": "Gangwon FC vs. Kitchee",
-   "dur": 0.31,
-   "gan": 2.21,
-   "neta": 1.5,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795687578027,
-   "titulo": "Gangwon FC vs. Kitchee",
-   "dur": 0.609,
-   "gan": 0.79,
-   "neta": 0.14,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795687492141,
-   "titulo": "Gangwon FC vs. Kitchee",
-   "dur": 1.767,
-   "gan": 4.33,
-   "neta": 3.24,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795687281926,
-   "titulo": "Borneo Samarinda vs. Persita Tangerang",
-   "dur": 1.162,
-   "gan": 11.73,
-   "neta": 0.04,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795687281840,
-   "titulo": "Borneo Samarinda vs. Persita Tangerang",
-   "dur": 0.116,
-   "gan": 0.62,
+   "inicio": 1795685548244,
+   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
+   "dur": 391.081,
+   "gan": 0.83,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795687281581,
+   "inicio": 1795685622381,
+   "titulo": "Highest temperature in Helsinki on November 26?",
+   "dur": 1.035,
+   "gan": 1.75,
+   "neta": 1.71,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795684444162,
+   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
+   "dur": 1.954,
+   "gan": 1.46,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795684412473,
+   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
+   "dur": 0.404,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795684265570,
+   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
+   "dur": 61.462,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795684265486,
+   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
+   "dur": 0.024,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795684195136,
    "titulo": "Borneo Samarinda vs. Persita Tangerang",
-   "dur": 0.099,
-   "gan": 0.5,
-   "neta": 0.05,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795686395139,
-   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
-   "dur": 610.022,
-   "gan": 0.63,
+   "dur": 0.964,
+   "gan": 1.11,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795686394079,
-   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
-   "dur": 0.057,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795676429301,
+   "titulo": "Highest temperature in Busan on November 26?",
+   "dur": 0.294,
+   "gan": 5.88,
+   "neta": 5.78,
+   "lado": "si"
   },
   {
-   "inicio": 1795686389192,
-   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
-   "dur": 3.853,
-   "gan": 0.63,
+   "inicio": 1795676013768,
+   "titulo": "Highest temperature in Busan on November 26?",
+   "dur": 0.047,
+   "gan": 1.29,
+   "neta": 1.08,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795675657481,
+   "titulo": "Highest temperature in Warsaw on November 26?",
+   "dur": 31.157,
+   "gan": 0.81,
+   "neta": 0.72,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795674437364,
+   "titulo": "PKR Svay Rieng vs. Machida Zelvia",
+   "dur": 0.277,
+   "gan": 0.53,
    "neta": 0,
    "lado": "no"
   }
