@@ -1,50 +1,50 @@
 {
- "actualizado": 1795667841840,
- "inicio": 1794955903790,
+ "actualizado": 1795670855964,
+ "inicio": 1794958923195,
  "ejecucion": {
-  "inicio": 1795664841550,
-  "fin": 1795667841841,
-  "mensajes": 10550989,
-  "reconexiones": 1,
-  "eventos": 535,
+  "inicio": 1795667855545,
+  "fin": 1795670855964,
+  "mensajes": 10333107,
+  "reconexiones": 0,
+  "eventos": 534,
   "errores": [],
-  "nuevos": 30,
-  "nuevosRentables": 20,
-  "nuevosNeta": 3.48
+  "nuevos": 13,
+  "nuevosRentables": 3,
+  "nuevosNeta": 1.36
  },
- "total": 8397,
- "falsos": 4739,
+ "total": 8395,
+ "falsos": 4734,
  "largos": {
-  "episodios": 18953,
-  "eventos": 164,
+  "episodios": 18962,
+  "eventos": 163,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 62,
-  "eventos": 29
+  "episodios": 61,
+  "eventos": 28
  },
  "mediana": 0.243,
  "captura": [
   {
    "s": 0.5,
    "n": 3281,
-   "gan": 10030.15,
-   "nNeta": 1075,
-   "neta": 2486.47
+   "gan": 10038.96,
+   "nNeta": 1077,
+   "neta": 2487.34
   },
   {
    "s": 2,
    "n": 1527,
-   "gan": 4314.49,
-   "nNeta": 458,
-   "neta": 747.37
+   "gan": 4313.87,
+   "nNeta": 460,
+   "neta": 748.35
   },
   {
    "s": 5,
-   "n": 888,
-   "gan": 2257.7,
+   "n": 886,
+   "gan": 2254.52,
    "nNeta": 254,
-   "neta": 217.35
+   "neta": 217.48
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 43.38
   }
  ],
- "rentables": 2365,
+ "rentables": 2368,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 114,
+   "ops": 115,
    "descartadas": 419,
-   "neta": 249.3,
-   "dias": 8.2,
-   "semana": 212.72
+   "neta": 249.11,
+   "dias": 8.16,
+   "semana": 213.68
   },
   {
    "capital": 1000,
-   "ops": 132,
+   "ops": 133,
    "descartadas": 419,
-   "neta": 379.6,
-   "dias": 8.2,
-   "semana": 323.91
+   "neta": 379.41,
+   "dias": 8.16,
+   "semana": 325.45
   },
   {
    "capital": 2000,
-   "ops": 138,
+   "ops": 139,
    "descartadas": 419,
-   "neta": 561.56,
-   "dias": 8.2,
-   "semana": 479.19
+   "neta": 561.37,
+   "dias": 8.16,
+   "semana": 481.54
   }
  ],
  "maxBloqueoH": 24,
@@ -128,15 +128,15 @@
   },
   {
    "lunes": "2026-11-23",
-   "dias": 3,
-   "horas": 70.8,
-   "episodios": 3466,
-   "sospechosas": 23,
-   "realistaNeta": 460.37,
+   "dias": 4,
+   "horas": 71.7,
+   "episodios": 3479,
+   "sospechosas": 25,
+   "realistaNeta": 461.73,
    "capital": {
-    "500": 81.92,
-    "1000": 121.04,
-    "2000": 197.27
+    "500": 82.86,
+    "1000": 121.98,
+    "2000": 198.21
    },
    "cumple": true
   }
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 114,
+  "n": 116,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,11 +250,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8283,
+  "conDato": 8279,
   "n": 1991,
-  "gan": 5494.76,
-  "nNeta": 567,
-  "neta": 1014.94
+  "gan": 5499.34,
+  "nNeta": 568,
+  "neta": 1014.79
  },
  "duraciones": [
   {
@@ -265,17 +265,17 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3225
+   "n": 3221
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1433
+   "n": 1437
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 590
+   "n": 588
   },
   {
    "et": "30 s–5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795392000000,
-   "n": 7
-  },
   {
    "h": 1795395600000,
    "n": 89
@@ -647,10 +643,118 @@
   },
   {
    "h": 1795665600000,
-   "n": 25
+   "n": 31
+  },
+  {
+   "h": 1795669200000,
+   "n": 7
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795670608740,
+   "titulo": "Highest temperature in Taipei on November 26?",
+   "dur": 1.256,
+   "gan": 2.92,
+   "neta": 2.78,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795669753707,
+   "titulo": "CF Monterrey vs. CF América",
+   "dur": 0.105,
+   "gan": 0.85,
+   "neta": 0.1,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795669743728,
+   "titulo": "CF Monterrey vs. CF América",
+   "dur": 4.874,
+   "gan": 1.78,
+   "neta": 0.37,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795669593182,
+   "titulo": "CF Monterrey vs. CF América",
+   "dur": 0.828,
+   "gan": 11.82,
+   "neta": 1.7,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795669555846,
+   "titulo": "Mumbai City FC vs. Chennaiyin FC",
+   "dur": 0.116,
+   "gan": 0.67,
+   "neta": 0.05,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795669457091,
+   "titulo": "Highest temperature in Seoul (Incheon) on November 26?",
+   "dur": 0.028,
+   "gan": 0.51,
+   "neta": 0.46,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795669424317,
+   "titulo": "Highest temperature in Seoul (Incheon) on November 26?",
+   "dur": 2.223,
+   "gan": 0.73,
+   "neta": 0.59,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795668736241,
+   "titulo": "Highest temperature in Tokyo on November 26?",
+   "dur": 5.161,
+   "gan": 0.56,
+   "neta": 0.51,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795668621775,
+   "titulo": "CF Monterrey vs. CF América",
+   "dur": 1.816,
+   "gan": 5.01,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795668615746,
+   "titulo": "CF Monterrey vs. CF América",
+   "dur": 0.353,
+   "gan": 8.76,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795668486316,
+   "titulo": "CF Monterrey vs. CF América",
+   "dur": 0.732,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795668472190,
+   "titulo": "CF Monterrey vs. CF América",
+   "dur": 0.12,
+   "gan": 1.08,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795667954437,
+   "titulo": "Highest temperature in Hong Kong on November 26?",
+   "dur": 0.765,
+   "gan": 1.44,
+   "neta": 1.39,
+   "lado": "si"
+  },
   {
    "inicio": 1795667389330,
    "titulo": "Highest temperature in Tokyo on November 26?",
@@ -666,110 +770,6 @@
    "gan": 1.25,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1795666847900,
-   "titulo": "Highest temperature in Tokyo on November 26?",
-   "dur": 0.944,
-   "gan": 3.42,
-   "neta": 3.31,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795666842075,
-   "titulo": "Highest temperature in Tokyo on November 26?",
-   "dur": 0.538,
-   "gan": 2.83,
-   "neta": 2.7,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795666105528,
-   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
-   "dur": 641.02,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795666399300,
-   "titulo": "Next Muse Spark Model (1.4+) released on...?",
-   "dur": 3.962,
-   "gan": 0.51,
-   "neta": 0.13,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795666368189,
-   "titulo": "Next Muse Spark Model (1.4+) released on...?",
-   "dur": 0.08,
-   "gan": 0.51,
-   "neta": 0.13,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795666331299,
-   "titulo": "Next Muse Spark Model (1.4+) released on...?",
-   "dur": 0.076,
-   "gan": 0.51,
-   "neta": 0.13,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795666288171,
-   "titulo": "Next Muse Spark Model (1.4+) released on...?",
-   "dur": 5.282,
-   "gan": 0.51,
-   "neta": 0.13,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795666252163,
-   "titulo": "Next Muse Spark Model (1.4+) released on...?",
-   "dur": 5.173,
-   "gan": 0.51,
-   "neta": 0.13,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795666205160,
-   "titulo": "Next Muse Spark Model (1.4+) released on...?",
-   "dur": 5.189,
-   "gan": 0.51,
-   "neta": 0.13,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795666174155,
-   "titulo": "Next Muse Spark Model (1.4+) released on...?",
-   "dur": 0.084,
-   "gan": 0.51,
-   "neta": 0.13,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795666043168,
-   "titulo": "Next Muse Spark Model (1.4+) released on...?",
-   "dur": 10.071,
-   "gan": 0.51,
-   "neta": 0.13,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795666007443,
-   "titulo": "Next Muse Spark Model (1.4+) released on...?",
-   "dur": 35.453,
-   "gan": 0.51,
-   "neta": 0.13,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795665993659,
-   "titulo": "Next Muse Spark Model (1.4+) released on...?",
-   "dur": 13.531,
-   "gan": 0.51,
-   "neta": 0.13,
-   "lado": "si"
   }
  ]
 }
