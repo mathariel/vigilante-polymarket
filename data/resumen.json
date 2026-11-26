@@ -1,84 +1,84 @@
 {
- "actualizado": 1795664828089,
- "inicio": 1794949792535,
+ "actualizado": 1795667841840,
+ "inicio": 1794955903790,
  "ejecucion": {
-  "inicio": 1795661827813,
-  "fin": 1795664828089,
-  "mensajes": 10229263,
-  "reconexiones": 0,
-  "eventos": 527,
+  "inicio": 1795664841550,
+  "fin": 1795667841841,
+  "mensajes": 10550989,
+  "reconexiones": 1,
+  "eventos": 535,
   "errores": [],
-  "nuevos": 20,
-  "nuevosRentables": 5,
-  "nuevosNeta": 2.73
+  "nuevos": 30,
+  "nuevosRentables": 20,
+  "nuevosNeta": 3.48
  },
- "total": 8378,
- "falsos": 4734,
+ "total": 8397,
+ "falsos": 4739,
  "largos": {
-  "episodios": 18977,
+  "episodios": 18953,
   "eventos": 164,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 60,
-  "eventos": 27
+  "episodios": 62,
+  "eventos": 29
  },
- "mediana": 0.242,
+ "mediana": 0.243,
  "captura": [
   {
    "s": 0.5,
-   "n": 3261,
-   "gan": 10018.56,
-   "nNeta": 1052,
-   "neta": 2478.35
+   "n": 3281,
+   "gan": 10030.15,
+   "nNeta": 1075,
+   "neta": 2486.47
   },
   {
    "s": 2,
-   "n": 1510,
-   "gan": 4305.22,
-   "nNeta": 439,
-   "neta": 744.78
+   "n": 1527,
+   "gan": 4314.49,
+   "nNeta": 458,
+   "neta": 747.37
   },
   {
    "s": 5,
-   "n": 872,
-   "gan": 2248.94,
-   "nNeta": 236,
-   "neta": 214.89
+   "n": 888,
+   "gan": 2257.7,
+   "nNeta": 254,
+   "neta": 217.35
   },
   {
    "s": 30,
-   "n": 287,
-   "gan": 679.7,
-   "nNeta": 39,
-   "neta": 41.99
+   "n": 298,
+   "gan": 688.06,
+   "nNeta": 49,
+   "neta": 43.38
   }
  ],
- "rentables": 2339,
+ "rentables": 2365,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 112,
-   "descartadas": 400,
-   "neta": 248.25,
+   "ops": 114,
+   "descartadas": 419,
+   "neta": 249.3,
    "dias": 8.2,
-   "semana": 211.93
+   "semana": 212.72
   },
   {
    "capital": 1000,
-   "ops": 130,
-   "descartadas": 400,
-   "neta": 378.55,
+   "ops": 132,
+   "descartadas": 419,
+   "neta": 379.6,
    "dias": 8.2,
-   "semana": 323.17
+   "semana": 323.91
   },
   {
    "capital": 2000,
-   "ops": 136,
-   "descartadas": 400,
-   "neta": 560.51,
+   "ops": 138,
+   "descartadas": 419,
+   "neta": 561.56,
    "dias": 8.2,
-   "semana": 478.51
+   "semana": 479.19
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 3,
-   "horas": 70,
-   "episodios": 3435,
-   "sospechosas": 21,
-   "realistaNeta": 456.71,
+   "horas": 70.8,
+   "episodios": 3466,
+   "sospechosas": 23,
+   "realistaNeta": 460.37,
    "capital": {
-    "500": 80.87,
-    "1000": 119.99,
-    "2000": 196.22
+    "500": 81.92,
+    "1000": 121.04,
+    "2000": 197.27
    },
    "cumple": true
   }
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 112,
+  "n": 114,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,42 +250,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8266,
-  "n": 1971,
-  "gan": 5482.98,
-  "nNeta": 546,
-  "neta": 1011.28
+  "conDato": 8283,
+  "n": 1991,
+  "gan": 5494.76,
+  "nNeta": 567,
+  "neta": 1014.94
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2838
+   "n": 2839
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3226
+   "n": 3225
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1430
+   "n": 1433
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 585
+   "n": 590
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 154
+   "n": 163
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 133
+   "n": 135
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795388400000,
-   "n": 105
-  },
   {
    "h": 1795392000000,
    "n": 7
@@ -647,128 +643,132 @@
   },
   {
    "h": 1795662000000,
-   "n": 20
+   "n": 26
+  },
+  {
+   "h": 1795665600000,
+   "n": 25
   }
  ],
  "recientes": [
   {
-   "inicio": 1795664606699,
+   "inicio": 1795667389330,
+   "titulo": "Highest temperature in Tokyo on November 26?",
+   "dur": 0.915,
+   "gan": 1.11,
+   "neta": 1.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795667291358,
+   "titulo": "CF Monterrey vs. CF América",
+   "dur": 0.256,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795666847900,
+   "titulo": "Highest temperature in Tokyo on November 26?",
+   "dur": 0.944,
+   "gan": 3.42,
+   "neta": 3.31,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795666842075,
+   "titulo": "Highest temperature in Tokyo on November 26?",
+   "dur": 0.538,
+   "gan": 2.83,
+   "neta": 2.7,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795666105528,
+   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
+   "dur": 641.02,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795666399300,
    "titulo": "Next Muse Spark Model (1.4+) released on...?",
-   "dur": 221.116,
-   "gan": 1.19,
-   "neta": 0.46,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795663032298,
-   "titulo": "CSD Municipal vs. Aurora FC",
-   "dur": 1114.53,
-   "gan": 0.73,
-   "neta": 0.42,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795663493856,
-   "titulo": "CF Monterrey vs. CF América",
-   "dur": 0.372,
-   "gan": 0.85,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795663491699,
-   "titulo": "CF Monterrey vs. CF América",
-   "dur": 2.129,
-   "gan": 4.81,
-   "neta": 0.16,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795663477445,
-   "titulo": "Highest temperature in Tokyo on November 26?",
-   "dur": 2.184,
-   "gan": 0.65,
-   "neta": 0.54,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795663471886,
-   "titulo": "Highest temperature in Tokyo on November 26?",
-   "dur": 5.389,
-   "gan": 0.85,
-   "neta": 0.69,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795663470879,
-   "titulo": "Highest temperature in Tokyo on November 26?",
-   "dur": 0.769,
-   "gan": 0.58,
-   "neta": 0.4,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795663470445,
-   "titulo": "Highest temperature in Tokyo on November 26?",
-   "dur": 0.275,
+   "dur": 3.962,
    "gan": 0.51,
-   "neta": 0.34,
+   "neta": 0.13,
    "lado": "si"
   },
   {
-   "inicio": 1795663470303,
-   "titulo": "Highest temperature in Tokyo on November 26?",
-   "dur": 0.026,
+   "inicio": 1795666368189,
+   "titulo": "Next Muse Spark Model (1.4+) released on...?",
+   "dur": 0.08,
    "gan": 0.51,
-   "neta": 0.3,
+   "neta": 0.13,
    "lado": "si"
   },
   {
-   "inicio": 1795663445302,
-   "titulo": "CF Monterrey vs. CF América",
-   "dur": 0.921,
-   "gan": 1.24,
-   "neta": 0,
+   "inicio": 1795666331299,
+   "titulo": "Next Muse Spark Model (1.4+) released on...?",
+   "dur": 0.076,
+   "gan": 0.51,
+   "neta": 0.13,
    "lado": "si"
   },
   {
-   "inicio": 1795663434423,
-   "titulo": "CF Monterrey vs. CF América",
-   "dur": 0.091,
-   "gan": 0.89,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795663369122,
-   "titulo": "CF Monterrey vs. CF América",
-   "dur": 2.46,
-   "gan": 0.6,
-   "neta": 0,
+   "inicio": 1795666288171,
+   "titulo": "Next Muse Spark Model (1.4+) released on...?",
+   "dur": 5.282,
+   "gan": 0.51,
+   "neta": 0.13,
    "lado": "si"
   },
   {
-   "inicio": 1795663350595,
-   "titulo": "CF Monterrey vs. CF América",
-   "dur": 4.096,
-   "gan": 7.23,
-   "neta": 0,
+   "inicio": 1795666252163,
+   "titulo": "Next Muse Spark Model (1.4+) released on...?",
+   "dur": 5.173,
+   "gan": 0.51,
+   "neta": 0.13,
    "lado": "si"
   },
   {
-   "inicio": 1795663343475,
-   "titulo": "CF Monterrey vs. CF América",
-   "dur": 0.085,
-   "gan": 0.8,
-   "neta": 0,
+   "inicio": 1795666205160,
+   "titulo": "Next Muse Spark Model (1.4+) released on...?",
+   "dur": 5.189,
+   "gan": 0.51,
+   "neta": 0.13,
    "lado": "si"
   },
   {
-   "inicio": 1795663342814,
-   "titulo": "Highest temperature in Tokyo on November 26?",
-   "dur": 0.037,
-   "gan": 2.22,
-   "neta": 1.98,
+   "inicio": 1795666174155,
+   "titulo": "Next Muse Spark Model (1.4+) released on...?",
+   "dur": 0.084,
+   "gan": 0.51,
+   "neta": 0.13,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795666043168,
+   "titulo": "Next Muse Spark Model (1.4+) released on...?",
+   "dur": 10.071,
+   "gan": 0.51,
+   "neta": 0.13,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795666007443,
+   "titulo": "Next Muse Spark Model (1.4+) released on...?",
+   "dur": 35.453,
+   "gan": 0.51,
+   "neta": 0.13,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795665993659,
+   "titulo": "Next Muse Spark Model (1.4+) released on...?",
+   "dur": 13.531,
+   "gan": 0.51,
+   "neta": 0.13,
    "lado": "si"
   }
  ]
