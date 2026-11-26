@@ -1,21 +1,21 @@
 {
- "actualizado": 1795655784918,
+ "actualizado": 1795658799573,
  "inicio": 1794949792535,
  "ejecucion": {
-  "inicio": 1795652784571,
-  "fin": 1795655784918,
-  "mensajes": 10127431,
+  "inicio": 1795655799225,
+  "fin": 1795658799573,
+  "mensajes": 9247790,
   "reconexiones": 0,
-  "eventos": 522,
+  "eventos": 523,
   "errores": [],
-  "nuevos": 40,
-  "nuevosRentables": 4,
-  "nuevosNeta": 12.32
+  "nuevos": 4,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 8370,
- "falsos": 4719,
+ "total": 8374,
+ "falsos": 4722,
  "largos": {
-  "episodios": 18995,
+  "episodios": 18990,
   "eventos": 164,
   "dias": 7
  },
@@ -27,29 +27,29 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3247,
-   "gan": 9963.71,
+   "n": 3248,
+   "gan": 9965.9,
    "nNeta": 1051,
    "neta": 2490.5
   },
   {
    "s": 2,
-   "n": 1499,
-   "gan": 4253.39,
+   "n": 1500,
+   "gan": 4255.58,
    "nNeta": 437,
    "neta": 755.38
   },
   {
    "s": 5,
-   "n": 866,
-   "gan": 2208.62,
+   "n": 867,
+   "gan": 2210.81,
    "nNeta": 235,
    "neta": 225.99
   },
   {
    "s": 30,
-   "n": 284,
-   "gan": 669.37,
+   "n": 285,
+   "gan": 671.56,
    "nNeta": 38,
    "neta": 41.75
   }
@@ -61,24 +61,24 @@
    "ops": 113,
    "descartadas": 399,
    "neta": 250.86,
-   "dias": 8.15,
-   "semana": 215.41
+   "dias": 8.19,
+   "semana": 214.49
   },
   {
    "capital": 1000,
    "ops": 127,
    "descartadas": 399,
    "neta": 382.67,
-   "dias": 8.15,
-   "semana": 328.58
+   "dias": 8.19,
+   "semana": 327.18
   },
   {
    "capital": 2000,
    "ops": 134,
    "descartadas": 399,
    "neta": 570.92,
-   "dias": 8.15,
-   "semana": 490.23
+   "dias": 8.19,
+   "semana": 488.14
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 3,
-   "horas": 67.5,
-   "episodios": 3398,
+   "horas": 68.3,
+   "episodios": 3402,
    "sospechosas": 21,
    "realistaNeta": 453.98,
    "capital": {
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8258,
-  "n": 1958,
-  "gan": 5429.54,
+  "conDato": 8262,
+  "n": 1959,
+  "gan": 5431.73,
   "nNeta": 543,
   "neta": 1021.23
  },
@@ -265,7 +265,7 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3224
+   "n": 3227
   },
   {
    "et": "1–5 s",
@@ -285,7 +285,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 131
+   "n": 132
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795381200000,
-   "n": 254
-  },
   {
    "h": 1795384800000,
    "n": 36
@@ -647,10 +643,46 @@
   },
   {
    "h": 1795654800000,
-   "n": 8
+   "n": 9
+  },
+  {
+   "h": 1795658400000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795655805004,
+   "titulo": "Spain General Election: Turnout",
+   "dur": 2994.224,
+   "gan": 2.19,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795658732671,
+   "titulo": "Atlético Nacional vs. Independiente Medellín",
+   "dur": 0.13,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795658732393,
+   "titulo": "Atlético Nacional vs. Independiente Medellín",
+   "dur": 0.254,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795658588652,
+   "titulo": "Atlético Nacional vs. Independiente Medellín",
+   "dur": 0.187,
+   "gan": 0.9,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1795652787990,
    "titulo": "Spain General Election: Turnout",
@@ -736,38 +768,6 @@
    "titulo": "CA Mineiro vs. SC Corinthians Paulista",
    "dur": 0.15,
    "gan": 0.65,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795654749807,
-   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
-   "dur": 3.185,
-   "gan": 1.7,
-   "neta": 0.15,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795654722538,
-   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
-   "dur": 0.03,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795654709331,
-   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
-   "dur": 0.057,
-   "gan": 40.73,
-   "neta": 34.53,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795654486319,
-   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
-   "dur": 0.037,
-   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   }
