@@ -1,84 +1,84 @@
 {
- "actualizado": 1795734214030,
+ "actualizado": 1795737234334,
  "inicio": 1795025306464,
  "ejecucion": {
-  "inicio": 1795731213712,
-  "fin": 1795734214030,
-  "mensajes": 8979538,
+  "inicio": 1795734234096,
+  "fin": 1795737234334,
+  "mensajes": 9208758,
   "reconexiones": 0,
-  "eventos": 595,
+  "eventos": 601,
   "errores": [],
-  "nuevos": 0,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 13,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.52
  },
- "total": 8853,
- "falsos": 4939,
+ "total": 8839,
+ "falsos": 4937,
  "largos": {
-  "episodios": 18333,
-  "eventos": 157,
+  "episodios": 18353,
+  "eventos": 155,
   "dias": 7
  },
  "enEspera": {
   "episodios": 60,
   "eventos": 28
  },
- "mediana": 0.244,
+ "mediana": 0.242,
  "captura": [
   {
    "s": 0.5,
-   "n": 3451,
-   "gan": 10576.22,
-   "nNeta": 1101,
-   "neta": 2676.81
+   "n": 3437,
+   "gan": 10567.86,
+   "nNeta": 1088,
+   "neta": 2675.99
   },
   {
    "s": 2,
-   "n": 1556,
-   "gan": 4466.16,
-   "nNeta": 424,
-   "neta": 789.42
+   "n": 1540,
+   "gan": 4455.24,
+   "nNeta": 409,
+   "neta": 787.68
   },
   {
    "s": 5,
-   "n": 860,
-   "gan": 2272.32,
-   "nNeta": 200,
-   "neta": 220.07
+   "n": 845,
+   "gan": 2262.1,
+   "nNeta": 186,
+   "neta": 218.44
   },
   {
    "s": 30,
-   "n": 302,
-   "gan": 706.28,
-   "nNeta": 52,
-   "neta": 44.24
+   "n": 300,
+   "gan": 705.11,
+   "nNeta": 51,
+   "neta": 44.14
   }
  ],
- "rentables": 2480,
+ "rentables": 2469,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 132,
-   "descartadas": 369,
-   "neta": 260.66,
-   "dias": 8.19,
-   "semana": 222.85
+   "ops": 133,
+   "descartadas": 354,
+   "neta": 261.18,
+   "dias": 8.17,
+   "semana": 223.65
   },
   {
    "capital": 1000,
-   "ops": 151,
-   "descartadas": 369,
-   "neta": 394.61,
-   "dias": 8.19,
-   "semana": 337.38
+   "ops": 152,
+   "descartadas": 354,
+   "neta": 395.13,
+   "dias": 8.17,
+   "semana": 338.35
   },
   {
    "capital": 2000,
-   "ops": 159,
-   "descartadas": 369,
-   "neta": 588.8,
-   "dias": 8.19,
-   "semana": 503.4
+   "ops": 160,
+   "descartadas": 354,
+   "neta": 589.32,
+   "dias": 8.17,
+   "semana": 504.63
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 4,
-   "horas": 88.3,
-   "episodios": 4067,
+   "horas": 89.2,
+   "episodios": 4080,
    "sospechosas": 31,
-   "realistaNeta": 546.55,
+   "realistaNeta": 547.07,
    "capital": {
-    "500": 94.42,
-    "1000": 137.18,
-    "2000": 225.63
+    "500": 94.94,
+    "1000": 137.7,
+    "2000": 226.15
    },
    "cumple": true
   }
@@ -250,37 +250,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8732,
-  "n": 2049,
-  "gan": 5709.37,
-  "nNeta": 545,
-  "neta": 1086.11
+  "conDato": 8718,
+  "n": 2033,
+  "gan": 5698.58,
+  "nNeta": 531,
+  "neta": 1085.03
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2968
+   "n": 2969
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3459
+   "n": 3460
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1555
+   "n": 1554
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 558
+   "n": 545
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 165
+   "n": 163
   },
   {
    "et": "> 5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795464000000,
-   "n": 100
-  },
   {
    "h": 1795467600000,
    "n": 73
@@ -648,9 +644,117 @@
   {
    "h": 1795726800000,
    "n": 137
+  },
+  {
+   "h": 1795734000000,
+   "n": 13
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795736921116,
+   "titulo": "São Paulo FC vs. Clube do Remo",
+   "dur": 1.472,
+   "gan": 0.87,
+   "neta": 0.24,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795736918513,
+   "titulo": "São Paulo FC vs. Clube do Remo",
+   "dur": 0.067,
+   "gan": 1.3,
+   "neta": 0.35,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795736878303,
+   "titulo": "São Paulo FC vs. Clube do Remo",
+   "dur": 0.483,
+   "gan": 0.59,
+   "neta": 0.08,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795736871350,
+   "titulo": "São Paulo FC vs. Clube do Remo",
+   "dur": 0.002,
+   "gan": 0.54,
+   "neta": 0.1,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795736871294,
+   "titulo": "São Paulo FC vs. Clube do Remo",
+   "dur": 0.053,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795736870764,
+   "titulo": "São Paulo FC vs. Clube do Remo",
+   "dur": 0.527,
+   "gan": 1.49,
+   "neta": 0.53,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795736869082,
+   "titulo": "São Paulo FC vs. Clube do Remo",
+   "dur": 0.007,
+   "gan": 0.51,
+   "neta": 0.04,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795736793860,
+   "titulo": "São Paulo FC vs. Clube do Remo",
+   "dur": 0.069,
+   "gan": 0.7,
+   "neta": 0.29,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795736428489,
+   "titulo": "São Paulo FC vs. Clube do Remo",
+   "dur": 0.865,
+   "gan": 1.45,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795736424493,
+   "titulo": "São Paulo FC vs. Clube do Remo",
+   "dur": 2.567,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795736356524,
+   "titulo": "São Paulo FC vs. Clube do Remo",
+   "dur": 0.593,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795736356325,
+   "titulo": "São Paulo FC vs. Clube do Remo",
+   "dur": 0.091,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795735391555,
+   "titulo": "Lowest temperature in Hong Kong on November 27?",
+   "dur": 0.93,
+   "gan": 0.55,
+   "neta": 0.52,
+   "lado": "si"
+  },
   {
    "inicio": 1795730196962,
    "titulo": "SC Freiburg vs. FC Twente",
@@ -665,110 +769,6 @@
    "dur": 0.145,
    "gan": 0.52,
    "neta": 0.11,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795730135021,
-   "titulo": "PFK CSKA Sofia vs. Trabzonspor",
-   "dur": 0.915,
-   "gan": 2.1,
-   "neta": 0.53,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795730124088,
-   "titulo": "PFK CSKA Sofia vs. Trabzonspor",
-   "dur": 0.079,
-   "gan": 1.8,
-   "neta": 0.39,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795730094470,
-   "titulo": "PFK CSKA Sofia vs. Trabzonspor",
-   "dur": 1.074,
-   "gan": 0.66,
-   "neta": 0.15,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795730094442,
-   "titulo": "PFK CSKA Sofia vs. Trabzonspor",
-   "dur": 0.026,
-   "gan": 0.6,
-   "neta": 0.15,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795730056511,
-   "titulo": "PFK CSKA Sofia vs. Trabzonspor",
-   "dur": 0.784,
-   "gan": 0.59,
-   "neta": 0.36,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795730036611,
-   "titulo": "SC União Torreense vs. Celtic FC",
-   "dur": 1.089,
-   "gan": 0.56,
-   "neta": 0.14,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795730029361,
-   "titulo": "PFK CSKA Sofia vs. Trabzonspor",
-   "dur": 0.794,
-   "gan": 0.8,
-   "neta": 0.42,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795730012824,
-   "titulo": "Crystal Palace FC vs. Real Sociedad de Fútbol",
-   "dur": 0.355,
-   "gan": 0.59,
-   "neta": 0.48,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795730012619,
-   "titulo": "Crystal Palace FC vs. Real Sociedad de Fútbol",
-   "dur": 0.196,
-   "gan": 1.16,
-   "neta": 0.95,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795730007389,
-   "titulo": "Crystal Palace FC vs. Real Sociedad de Fútbol",
-   "dur": 5.227,
-   "gan": 1.6,
-   "neta": 1.31,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795729988283,
-   "titulo": "Olympique Lyonnais vs. Lillestrøm SK",
-   "dur": 0.896,
-   "gan": 1.42,
-   "neta": 1.27,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795729981589,
-   "titulo": "Olympique Lyonnais vs. Lillestrøm SK",
-   "dur": 0.11,
-   "gan": 1.1,
-   "neta": 0.52,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795729965483,
-   "titulo": "OFI vs. RSC Anderlecht",
-   "dur": 0.029,
-   "gan": 0.84,
-   "neta": 0.59,
    "lado": "si"
   }
  ]
