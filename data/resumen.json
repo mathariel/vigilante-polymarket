@@ -1,21 +1,21 @@
 {
- "actualizado": 1795725166100,
- "inicio": 1795010185982,
+ "actualizado": 1795728184594,
+ "inicio": 1795013204762,
  "ejecucion": {
-  "inicio": 1795722165756,
-  "fin": 1795725166100,
-  "mensajes": 13170467,
-  "reconexiones": 0,
-  "eventos": 618,
+  "inicio": 1795725184175,
+  "fin": 1795728184594,
+  "mensajes": 14292019,
+  "reconexiones": 2,
+  "eventos": 635,
   "errores": [],
-  "nuevos": 69,
+  "nuevos": 44,
   "nuevosRentables": 4,
-  "nuevosNeta": 9.45
+  "nuevosNeta": 4.07
  },
- "total": 8783,
- "falsos": 4854,
+ "total": 8825,
+ "falsos": 4880,
  "largos": {
-  "episodios": 18481,
+  "episodios": 18416,
   "eventos": 158,
   "dias": 7
  },
@@ -23,28 +23,28 @@
   "episodios": 59,
   "eventos": 27
  },
- "mediana": 0.245,
+ "mediana": 0.247,
  "captura": [
   {
    "s": 0.5,
-   "n": 3441,
-   "gan": 10435.41,
-   "nNeta": 1150,
-   "neta": 2637.79
+   "n": 3477,
+   "gan": 10524.63,
+   "nNeta": 1157,
+   "neta": 2639.32
   },
   {
    "s": 2,
-   "n": 1593,
-   "gan": 4425.63,
-   "nNeta": 488,
-   "neta": 766.85
+   "n": 1614,
+   "gan": 4468.65,
+   "nNeta": 491,
+   "neta": 767.31
   },
   {
    "s": 5,
-   "n": 916,
-   "gan": 2304.78,
-   "nNeta": 268,
-   "neta": 226.28
+   "n": 928,
+   "gan": 2319.38,
+   "nNeta": 270,
+   "neta": 226.64
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 44.24
   }
  ],
- "rentables": 2511,
+ "rentables": 2519,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 130,
-   "descartadas": 436,
-   "neta": 259.92,
-   "dias": 8.23,
-   "semana": 221.04
+   "ops": 132,
+   "descartadas": 438,
+   "neta": 260.66,
+   "dias": 8.15,
+   "semana": 224.01
   },
   {
    "capital": 1000,
-   "ops": 149,
-   "descartadas": 436,
-   "neta": 393.87,
-   "dias": 8.23,
-   "semana": 334.96
+   "ops": 151,
+   "descartadas": 438,
+   "neta": 394.61,
+   "dias": 8.15,
+   "semana": 339.12
   },
   {
    "capital": 2000,
-   "ops": 157,
-   "descartadas": 436,
-   "neta": 588.06,
-   "dias": 8.23,
-   "semana": 500.1
+   "ops": 159,
+   "descartadas": 438,
+   "neta": 588.8,
+   "dias": 8.15,
+   "semana": 506
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 4,
-   "horas": 85.8,
-   "episodios": 3915,
+   "horas": 86.7,
+   "episodios": 3959,
    "sospechosas": 31,
-   "realistaNeta": 507.62,
+   "realistaNeta": 511.69,
    "capital": {
-    "500": 93.68,
-    "1000": 136.44,
-    "2000": 224.89
+    "500": 94.42,
+    "1000": 137.18,
+    "2000": 225.63
    },
    "cumple": true
   }
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 122,
+  "n": 121,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,32 +250,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8661,
-  "n": 2075,
-  "gan": 5643.44,
-  "nNeta": 606,
-  "neta": 1057.19
+  "conDato": 8704,
+  "n": 2099,
+  "gan": 5694.93,
+  "nNeta": 610,
+  "neta": 1061.26
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2952
+   "n": 2954
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3390
+   "n": 3402
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1514
+   "n": 1530
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 614
+   "n": 626
   },
   {
    "et": "30 s–5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795460400000,
-   "n": 36
-  },
   {
    "h": 1795464000000,
    "n": 100
@@ -647,129 +643,133 @@
   },
   {
    "h": 1795723200000,
-   "n": 39
+   "n": 54
+  },
+  {
+   "h": 1795726800000,
+   "n": 29
   }
  ],
  "recientes": [
   {
-   "inicio": 1795725037294,
-   "titulo": "FK Borac Banja Luka vs. Atalanta BC",
-   "dur": 2.176,
-   "gan": 0.87,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795725032011,
-   "titulo": "SC Braga vs. Kuopion PS",
-   "dur": 6.163,
-   "gan": 0.5,
-   "neta": 0.35,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795725031940,
-   "titulo": "SC Braga vs. Kuopion PS",
-   "dur": 0.043,
-   "gan": 1.5,
-   "neta": 1.15,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795725031863,
-   "titulo": "SC Braga vs. Kuopion PS",
-   "dur": 0.033,
-   "gan": 1.15,
-   "neta": 0.87,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795725031763,
-   "titulo": "SC Braga vs. Kuopion PS",
-   "dur": 0.075,
-   "gan": 0.65,
-   "neta": 0.44,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795725031678,
-   "titulo": "SC Braga vs. Kuopion PS",
-   "dur": 0.078,
-   "gan": 0.63,
-   "neta": 0.42,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795725031540,
-   "titulo": "SC Braga vs. Kuopion PS",
-   "dur": 0.024,
-   "gan": 0.73,
-   "neta": 0.51,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795725031426,
-   "titulo": "SC Braga vs. Kuopion PS",
-   "dur": 0.003,
-   "gan": 0.97,
-   "neta": 0.7,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795724950735,
-   "titulo": "HNK Hajduk Split vs. K. Sint-Truidense VV",
-   "dur": 0.676,
-   "gan": 1.22,
+   "inicio": 1795728140298,
+   "titulo": "Sunderland AFC vs. Jagiellonia Białystok",
+   "dur": 6.947,
+   "gan": 1.23,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795724692669,
-   "titulo": "SC União Torreense vs. Celtic FC",
-   "dur": 0.114,
-   "gan": 0.92,
+   "inicio": 1795728139788,
+   "titulo": "Crystal Palace FC vs. Real Sociedad de Fútbol",
+   "dur": 1.108,
+   "gan": 0.76,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795724519599,
-   "titulo": "PFK CSKA Sofia vs. Trabzonspor",
-   "dur": 0.466,
-   "gan": 1.07,
+   "inicio": 1795728051052,
+   "titulo": "AC Sparta Praha vs. AZ",
+   "dur": 17.018,
+   "gan": 0.57,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795724518734,
-   "titulo": "PFK CSKA Sofia vs. Trabzonspor",
-   "dur": 0.721,
+   "inicio": 1795727998468,
+   "titulo": "Sunderland AFC vs. Jagiellonia Białystok",
+   "dur": 2.835,
    "gan": 0.78,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795724414355,
+   "inicio": 1795727996924,
+   "titulo": "Sunderland AFC vs. Jagiellonia Białystok",
+   "dur": 1.055,
+   "gan": 2.36,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795727984015,
+   "titulo": "Sunderland AFC vs. Jagiellonia Białystok",
+   "dur": 7.851,
+   "gan": 1.21,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795727958131,
+   "titulo": "Sunderland AFC vs. Jagiellonia Białystok",
+   "dur": 21.662,
+   "gan": 0.74,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795727928140,
+   "titulo": "Sunderland AFC vs. Jagiellonia Białystok",
+   "dur": 12.676,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795727812359,
    "titulo": "SC União Torreense vs. Celtic FC",
-   "dur": 0.432,
-   "gan": 4.32,
+   "dur": 2.208,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795727737322,
+   "titulo": "Olympique Lyonnais vs. Lillestrøm SK",
+   "dur": 0.803,
+   "gan": 11.45,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795727735809,
+   "titulo": "Olympique Lyonnais vs. Lillestrøm SK",
+   "dur": 0.53,
+   "gan": 14.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795727677544,
+   "titulo": "HNK Hajduk Split vs. K. Sint-Truidense VV",
+   "dur": 3.41,
+   "gan": 1.26,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795724343054,
+   "inicio": 1795727650318,
    "titulo": "Inter Club d'Escaldes vs. FC København",
-   "dur": 0.789,
-   "gan": 3.45,
-   "neta": 1.52,
-   "lado": "si"
+   "dur": 1.595,
+   "gan": 1.96,
+   "neta": 0.42,
+   "lado": "no"
   },
   {
-   "inicio": 1795724342673,
+   "inicio": 1795727640408,
    "titulo": "Inter Club d'Escaldes vs. FC København",
-   "dur": 0.043,
-   "gan": 1,
+   "dur": 3.334,
+   "gan": 2.41,
+   "neta": 0.1,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795727588316,
+   "titulo": "Inter Club d'Escaldes vs. FC København",
+   "dur": 5.671,
+   "gan": 1.02,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   }
  ]
 }
