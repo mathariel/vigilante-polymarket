@@ -1,21 +1,21 @@
 {
- "actualizado": 1795698005295,
+ "actualizado": 1795701021679,
  "inicio": 1794986059480,
  "ejecucion": {
-  "inicio": 1795695005029,
-  "fin": 1795698005295,
-  "mensajes": 9481044,
+  "inicio": 1795698021332,
+  "fin": 1795701021679,
+  "mensajes": 9704325,
   "reconexiones": 0,
-  "eventos": 551,
+  "eventos": 580,
   "errores": [],
-  "nuevos": 6,
-  "nuevosRentables": 2,
-  "nuevosNeta": 1.15
+  "nuevos": 10,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 8417,
- "falsos": 4714,
+ "total": 8426,
+ "falsos": 4711,
  "largos": {
-  "episodios": 18974,
+  "episodios": 18968,
   "eventos": 166,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3296,
-   "gan": 10079.62,
-   "nNeta": 1090,
-   "neta": 2518.53
+   "n": 3302,
+   "gan": 10087.25,
+   "nNeta": 1091,
+   "neta": 2520.2
   },
   {
    "s": 2,
-   "n": 1536,
-   "gan": 4319.65,
+   "n": 1539,
+   "gan": 4322.1,
    "nNeta": 468,
    "neta": 750.99
   },
   {
    "s": 5,
-   "n": 893,
-   "gan": 2258.9,
+   "n": 896,
+   "gan": 2261.35,
    "nNeta": 260,
    "neta": 218.78
   },
   {
    "s": 30,
-   "n": 299,
-   "gan": 687.98,
+   "n": 301,
+   "gan": 689.77,
    "nNeta": 50,
    "neta": 44.11
   }
  ],
- "rentables": 2399,
+ "rentables": 2401,
  "porCapital": [
   {
    "capital": 500,
    "ops": 122,
    "descartadas": 422,
    "neta": 254.76,
-   "dias": 8.21,
-   "semana": 217.13
+   "dias": 8.22,
+   "semana": 216.95
   },
   {
    "capital": 1000,
    "ops": 140,
    "descartadas": 422,
    "neta": 385.06,
-   "dias": 8.21,
-   "semana": 328.2
+   "dias": 8.22,
+   "semana": 327.92
   },
   {
    "capital": 2000,
    "ops": 146,
    "descartadas": 422,
    "neta": 567.02,
-   "dias": 8.21,
-   "semana": 483.29
+   "dias": 8.22,
+   "semana": 482.89
   }
  ],
  "maxBloqueoH": 24,
@@ -129,9 +129,9 @@
   {
    "lunes": "2026-11-23",
    "dias": 4,
-   "horas": 78.3,
-   "episodios": 3534,
-   "sospechosas": 26,
+   "horas": 79.2,
+   "episodios": 3544,
+   "sospechosas": 27,
    "realistaNeta": 467.71,
    "capital": {
     "500": 88.51,
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 117,
+  "n": 118,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8300,
-  "n": 2002,
-  "gan": 5502.04,
+  "conDato": 8308,
+  "n": 2008,
+  "gan": 5506.05,
   "nNeta": 578,
   "neta": 1020.35
  },
@@ -260,22 +260,22 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2845
+   "n": 2846
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3229
+   "n": 3231
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1439
+   "n": 1442
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 594
+   "n": 595
   },
   {
    "et": "30 s–5 min",
@@ -285,7 +285,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 136
+   "n": 138
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795431600000,
-   "n": 11
-  },
   {
    "h": 1795435200000,
    "n": 17
@@ -648,9 +644,93 @@
   {
    "h": 1795694400000,
    "n": 6
+  },
+  {
+   "h": 1795698000000,
+   "n": 10
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795700828484,
+   "titulo": "Spain General Election: Turnout",
+   "dur": 0.229,
+   "gan": 0.85,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795700820192,
+   "titulo": "Spain General Election: Turnout",
+   "dur": 0.232,
+   "gan": 0.78,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795699939291,
+   "titulo": "Spain General Election: Turnout",
+   "dur": 573.846,
+   "gan": 0.87,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795700369400,
+   "titulo": "BG Pathum United vs. Lion City Sailors FC",
+   "dur": 1.375,
+   "gan": 4.3,
+   "neta": 1.67,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795700287077,
+   "titulo": "SpaceX’s Market Cap end of November 2026?",
+   "dur": 1.215,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795700285134,
+   "titulo": "SpaceX’s Market Cap end of November 2026?",
+   "dur": 1.316,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795700282722,
+   "titulo": "SpaceX’s Market Cap end of November 2026?",
+   "dur": 1.058,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795700274544,
+   "titulo": "SpaceX’s Market Cap end of November 2026?",
+   "dur": 6.745,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795698847965,
+   "titulo": "Spain General Election: Turnout",
+   "dur": 376.485,
+   "gan": 0.9,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795698048594,
+   "titulo": "Lowest temperature in Seoul (Incheon) on November 26?",
+   "dur": 0.054,
+   "gan": 5.49,
+   "neta": 5.39,
+   "lado": "si"
+  },
   {
    "inicio": 1795697722203,
    "titulo": "Highest temperature in Ankara on November 26?",
@@ -690,86 +770,6 @@
    "gan": 2,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1795695581536,
-   "titulo": "PKR Svay Rieng vs. Machida Zelvia",
-   "dur": 5.424,
-   "gan": 0.8,
-   "neta": 0.22,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795693744300,
-   "titulo": "Gangwon FC vs. Kitchee",
-   "dur": 0.034,
-   "gan": 0.6,
-   "neta": 0.03,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795693744053,
-   "titulo": "Gangwon FC vs. Kitchee",
-   "dur": 0.04,
-   "gan": 1.25,
-   "neta": 0.82,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795693743971,
-   "titulo": "Gangwon FC vs. Kitchee",
-   "dur": 0.081,
-   "gan": 0.91,
-   "neta": 0.46,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795693743105,
-   "titulo": "Gangwon FC vs. Kitchee",
-   "dur": 0.808,
-   "gan": 0.5,
-   "neta": 0.03,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795693743032,
-   "titulo": "Gangwon FC vs. Kitchee",
-   "dur": 0.039,
-   "gan": 1.1,
-   "neta": 0.78,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795693742867,
-   "titulo": "Gangwon FC vs. Kitchee",
-   "dur": 0.161,
-   "gan": 0.7,
-   "neta": 0.04,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795693742736,
-   "titulo": "Gangwon FC vs. Kitchee",
-   "dur": 0.091,
-   "gan": 1.65,
-   "neta": 1.02,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795693742179,
-   "titulo": "Gangwon FC vs. Kitchee",
-   "dur": 0.554,
-   "gan": 1.65,
-   "neta": 1.02,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795693742066,
-   "titulo": "Gangwon FC vs. Kitchee",
-   "dur": 0.112,
-   "gan": 0.5,
-   "neta": 0.03,
-   "lado": "no"
   }
  ]
 }
