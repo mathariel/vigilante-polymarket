@@ -1,21 +1,21 @@
 {
- "actualizado": 1795694990027,
- "inicio": 1794980028101,
+ "actualizado": 1795698005295,
+ "inicio": 1794986059480,
  "ejecucion": {
-  "inicio": 1795691989741,
-  "fin": 1795694990027,
-  "mensajes": 8656978,
+  "inicio": 1795695005029,
+  "fin": 1795698005295,
+  "mensajes": 9481044,
   "reconexiones": 0,
-  "eventos": 559,
+  "eventos": 551,
   "errores": [],
-  "nuevos": 27,
-  "nuevosRentables": 6,
-  "nuevosNeta": 0.33
+  "nuevos": 6,
+  "nuevosRentables": 2,
+  "nuevosNeta": 1.15
  },
- "total": 8411,
- "falsos": 4715,
+ "total": 8417,
+ "falsos": 4714,
  "largos": {
-  "episodios": 18977,
+  "episodios": 18974,
   "eventos": 166,
   "dias": 7
  },
@@ -27,24 +27,24 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3293,
-   "gan": 10075.76,
-   "nNeta": 1088,
-   "neta": 2517.38
+   "n": 3296,
+   "gan": 10079.62,
+   "nNeta": 1090,
+   "neta": 2518.53
   },
   {
    "s": 2,
-   "n": 1534,
-   "gan": 4317.89,
-   "nNeta": 466,
-   "neta": 749.84
+   "n": 1536,
+   "gan": 4319.65,
+   "nNeta": 468,
+   "neta": 750.99
   },
   {
    "s": 5,
-   "n": 892,
-   "gan": 2258.1,
-   "nNeta": 259,
-   "neta": 218.56
+   "n": 893,
+   "gan": 2258.9,
+   "nNeta": 260,
+   "neta": 218.78
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 44.11
   }
  ],
- "rentables": 2395,
+ "rentables": 2399,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 120,
+   "ops": 122,
    "descartadas": 422,
-   "neta": 253.61,
-   "dias": 8.18,
-   "semana": 217.08
+   "neta": 254.76,
+   "dias": 8.21,
+   "semana": 217.13
   },
   {
    "capital": 1000,
-   "ops": 138,
+   "ops": 140,
    "descartadas": 422,
-   "neta": 383.91,
-   "dias": 8.18,
-   "semana": 328.61
+   "neta": 385.06,
+   "dias": 8.21,
+   "semana": 328.2
   },
   {
    "capital": 2000,
-   "ops": 144,
+   "ops": 146,
    "descartadas": 422,
-   "neta": 565.87,
-   "dias": 8.18,
-   "semana": 484.37
+   "neta": 567.02,
+   "dias": 8.21,
+   "semana": 483.29
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 4,
-   "horas": 77.5,
-   "episodios": 3528,
+   "horas": 78.3,
+   "episodios": 3534,
    "sospechosas": 26,
-   "realistaNeta": 466.56,
+   "realistaNeta": 467.71,
    "capital": {
-    "500": 87.36,
-    "1000": 126.48,
-    "2000": 202.71
+    "500": 88.51,
+    "1000": 127.63,
+    "2000": 203.86
    },
    "cumple": true
   }
@@ -250,32 +250,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8294,
-  "n": 2000,
-  "gan": 5500.28,
-  "nNeta": 576,
-  "neta": 1019.2
+  "conDato": 8300,
+  "n": 2002,
+  "gan": 5502.04,
+  "nNeta": 578,
+  "neta": 1020.35
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2843
+   "n": 2845
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3227
+   "n": 3229
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1438
+   "n": 1439
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 593
+   "n": 594
   },
   {
    "et": "30 s–5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795428000000,
-   "n": 11
-  },
   {
    "h": 1795431600000,
    "n": 11
@@ -648,9 +644,61 @@
   {
    "h": 1795690800000,
    "n": 29
+  },
+  {
+   "h": 1795694400000,
+   "n": 6
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795697722203,
+   "titulo": "Highest temperature in Ankara on November 26?",
+   "dur": 3.546,
+   "gan": 0.96,
+   "neta": 0.93,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795695694446,
+   "titulo": "Highest temperature in Amsterdam on November 26?",
+   "dur": 0.03,
+   "gan": 0.51,
+   "neta": 0.43,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795695694391,
+   "titulo": "Highest temperature in Amsterdam on November 26?",
+   "dur": 0.011,
+   "gan": 0.52,
+   "neta": 0.46,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795695693598,
+   "titulo": "PKR Svay Rieng vs. Machida Zelvia",
+   "dur": 0.472,
+   "gan": 2,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795695676576,
+   "titulo": "PKR Svay Rieng vs. Machida Zelvia",
+   "dur": 0.843,
+   "gan": 2,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795695581536,
+   "titulo": "PKR Svay Rieng vs. Machida Zelvia",
+   "dur": 5.424,
+   "gan": 0.8,
+   "neta": 0.22,
+   "lado": "si"
+  },
   {
    "inicio": 1795693744300,
    "titulo": "Gangwon FC vs. Kitchee",
@@ -722,54 +770,6 @@
    "gan": 0.5,
    "neta": 0.03,
    "lado": "no"
-  },
-  {
-   "inicio": 1795693741805,
-   "titulo": "Gangwon FC vs. Kitchee",
-   "dur": 0.225,
-   "gan": 0.5,
-   "neta": 0.03,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795693741735,
-   "titulo": "Gangwon FC vs. Kitchee",
-   "dur": 0.008,
-   "gan": 0.5,
-   "neta": 0.21,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795693740002,
-   "titulo": "Gangwon FC vs. Kitchee",
-   "dur": 1.056,
-   "gan": 27.52,
-   "neta": 26.42,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795693712742,
-   "titulo": "Gangwon FC vs. Kitchee",
-   "dur": 0.858,
-   "gan": 2.34,
-   "neta": 1.5,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795693712607,
-   "titulo": "Gangwon FC vs. Kitchee",
-   "dur": 0.07,
-   "gan": 1.4,
-   "neta": 1.17,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795693240276,
-   "titulo": "Next Claude Opus (5.6+) released on...?",
-   "dur": 2.468,
-   "gan": 0.51,
-   "neta": 0.02,
-   "lado": "si"
   }
  ]
 }
