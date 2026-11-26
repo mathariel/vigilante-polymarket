@@ -1,21 +1,21 @@
 {
- "actualizado": 1795673870373,
+ "actualizado": 1795676884400,
  "inicio": 1794964951496,
  "ejecucion": {
-  "inicio": 1795670870025,
-  "fin": 1795673870373,
-  "mensajes": 9712979,
-  "reconexiones": 1,
-  "eventos": 525,
+  "inicio": 1795673884127,
+  "fin": 1795676884400,
+  "mensajes": 9992824,
+  "reconexiones": 0,
+  "eventos": 539,
   "errores": [],
-  "nuevos": 6,
-  "nuevosRentables": 3,
-  "nuevosNeta": 2.07
+  "nuevos": 5,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.72
  },
- "total": 8392,
- "falsos": 4727,
+ "total": 8397,
+ "falsos": 4728,
  "largos": {
-  "episodios": 18973,
+  "episodios": 18967,
   "eventos": 163,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3283,
-   "gan": 10038.97,
-   "nNeta": 1079,
-   "neta": 2489.38
+   "n": 3284,
+   "gan": 10039.78,
+   "nNeta": 1080,
+   "neta": 2490.1
   },
   {
    "s": 2,
-   "n": 1528,
-   "gan": 4314.48,
-   "nNeta": 461,
-   "neta": 748.85
+   "n": 1529,
+   "gan": 4315.31,
+   "nNeta": 462,
+   "neta": 749.58
   },
   {
    "s": 5,
-   "n": 886,
-   "gan": 2254.52,
-   "nNeta": 254,
-   "neta": 217.48
+   "n": 887,
+   "gan": 2255.34,
+   "nNeta": 255,
+   "neta": 218.21
   },
   {
    "s": 30,
-   "n": 298,
-   "gan": 688.06,
-   "nNeta": 49,
-   "neta": 43.38
+   "n": 299,
+   "gan": 688.88,
+   "nNeta": 50,
+   "neta": 44.11
   }
  ],
- "rentables": 2372,
+ "rentables": 2376,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 118,
+   "ops": 119,
    "descartadas": 418,
-   "neta": 251.18,
-   "dias": 8.15,
-   "semana": 215.62
+   "neta": 251.9,
+   "dias": 8.19,
+   "semana": 215.31
   },
   {
    "capital": 1000,
-   "ops": 136,
+   "ops": 137,
    "descartadas": 418,
-   "neta": 381.48,
-   "dias": 8.15,
-   "semana": 327.47
+   "neta": 382.2,
+   "dias": 8.19,
+   "semana": 326.69
   },
   {
    "capital": 2000,
-   "ops": 142,
+   "ops": 143,
    "descartadas": 418,
-   "neta": 563.44,
-   "dias": 8.15,
-   "semana": 483.68
+   "neta": 564.16,
+   "dias": 8.19,
+   "semana": 482.23
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 4,
-   "horas": 72.5,
-   "episodios": 3485,
+   "horas": 73.3,
+   "episodios": 3490,
    "sospechosas": 25,
-   "realistaNeta": 463.8,
+   "realistaNeta": 464.52,
    "capital": {
-    "500": 84.93,
-    "1000": 124.05,
-    "2000": 200.28
+    "500": 85.65,
+    "1000": 124.77,
+    "2000": 201
    },
    "cumple": true
   }
@@ -250,22 +250,22 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8276,
-  "n": 1993,
-  "gan": 5499.35,
-  "nNeta": 570,
-  "neta": 1016.83
+  "conDato": 8281,
+  "n": 1994,
+  "gan": 5500.16,
+  "nNeta": 571,
+  "neta": 1017.55
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2838
+   "n": 2839
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3219
+   "n": 3222
   },
   {
    "et": "1–5 s",
@@ -280,7 +280,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 163
+   "n": 164
   },
   {
    "et": "> 5 min",
@@ -291,9 +291,9 @@
  "porEvento": [
   {
    "titulo": "Elon Musk Net Worth on November 30?",
-   "n": 1182,
-   "gan": 836.73,
-   "neta": 0,
+   "n": 1183,
+   "gan": 839.06,
+   "neta": 0.84,
    "mediana": 0.089
   },
   {
@@ -361,14 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795395600000,
-   "n": 89
-  },
-  {
-   "h": 1795399200000,
-   "n": 60
-  },
   {
    "h": 1795402800000,
    "n": 4
@@ -648,9 +640,57 @@
   {
    "h": 1795669200000,
    "n": 13
+  },
+  {
+   "h": 1795672800000,
+   "n": 4
+  },
+  {
+   "h": 1795676400000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795676429301,
+   "titulo": "Highest temperature in Busan on November 26?",
+   "dur": 0.294,
+   "gan": 5.88,
+   "neta": 5.78,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795676013768,
+   "titulo": "Highest temperature in Busan on November 26?",
+   "dur": 0.047,
+   "gan": 1.29,
+   "neta": 1.08,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795675657481,
+   "titulo": "Highest temperature in Warsaw on November 26?",
+   "dur": 31.157,
+   "gan": 0.81,
+   "neta": 0.72,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795674437364,
+   "titulo": "PKR Svay Rieng vs. Machida Zelvia",
+   "dur": 0.277,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795674207784,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 0.21,
+   "gan": 2.33,
+   "neta": 0.84,
+   "lado": "si"
+  },
   {
    "inicio": 1795672437204,
    "titulo": "Highest temperature in Busan on November 26?",
@@ -729,46 +769,6 @@
    "dur": 0.828,
    "gan": 11.82,
    "neta": 1.7,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795669555846,
-   "titulo": "Mumbai City FC vs. Chennaiyin FC",
-   "dur": 0.116,
-   "gan": 0.67,
-   "neta": 0.05,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795669457091,
-   "titulo": "Highest temperature in Seoul (Incheon) on November 26?",
-   "dur": 0.028,
-   "gan": 0.51,
-   "neta": 0.46,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795669424317,
-   "titulo": "Highest temperature in Seoul (Incheon) on November 26?",
-   "dur": 2.223,
-   "gan": 0.73,
-   "neta": 0.59,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795668736241,
-   "titulo": "Highest temperature in Tokyo on November 26?",
-   "dur": 5.161,
-   "gan": 0.56,
-   "neta": 0.51,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795668621775,
-   "titulo": "CF Monterrey vs. CF América",
-   "dur": 1.816,
-   "gan": 5.01,
-   "neta": 0,
    "lado": "si"
   }
  ]
