@@ -1,21 +1,21 @@
 {
- "actualizado": 1795691973976,
- "inicio": 1794967907361,
+ "actualizado": 1795694990027,
+ "inicio": 1794980028101,
  "ejecucion": {
-  "inicio": 1795688973679,
-  "fin": 1795691973976,
-  "mensajes": 9934703,
+  "inicio": 1795691989741,
+  "fin": 1795694990027,
+  "mensajes": 8656978,
   "reconexiones": 0,
-  "eventos": 547,
+  "eventos": 559,
   "errores": [],
-  "nuevos": 4,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 27,
+  "nuevosRentables": 6,
+  "nuevosNeta": 0.33
  },
- "total": 8385,
- "falsos": 4713,
+ "total": 8411,
+ "falsos": 4715,
  "largos": {
-  "episodios": 19002,
+  "episodios": 18977,
   "eventos": 166,
   "dias": 7
  },
@@ -27,24 +27,24 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3282,
-   "gan": 10040.87,
-   "nNeta": 1078,
-   "neta": 2489.34
+   "n": 3293,
+   "gan": 10075.76,
+   "nNeta": 1088,
+   "neta": 2517.38
   },
   {
    "s": 2,
-   "n": 1528,
-   "gan": 4313.72,
-   "nNeta": 461,
-   "neta": 749.47
+   "n": 1534,
+   "gan": 4317.89,
+   "nNeta": 466,
+   "neta": 749.84
   },
   {
    "s": 5,
-   "n": 887,
-   "gan": 2254.44,
-   "nNeta": 255,
-   "neta": 218.21
+   "n": 892,
+   "gan": 2258.1,
+   "nNeta": 259,
+   "neta": 218.56
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 44.11
   }
  ],
- "rentables": 2369,
+ "rentables": 2395,
  "porCapital": [
   {
    "capital": 500,
    "ops": 120,
-   "descartadas": 416,
+   "descartadas": 422,
    "neta": 253.61,
    "dias": 8.18,
-   "semana": 216.92
+   "semana": 217.08
   },
   {
    "capital": 1000,
    "ops": 138,
-   "descartadas": 416,
+   "descartadas": 422,
    "neta": 383.91,
    "dias": 8.18,
-   "semana": 328.37
+   "semana": 328.61
   },
   {
    "capital": 2000,
    "ops": 144,
-   "descartadas": 416,
+   "descartadas": 422,
    "neta": 565.87,
    "dias": 8.18,
-   "semana": 484.02
+   "semana": 484.37
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 4,
-   "horas": 76.7,
-   "episodios": 3501,
-   "sospechosas": 25,
-   "realistaNeta": 466.23,
+   "horas": 77.5,
+   "episodios": 3528,
+   "sospechosas": 26,
+   "realistaNeta": 466.56,
    "capital": {
     "500": 87.36,
     "1000": 126.48,
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 116,
+  "n": 117,
   "top": [
    {
     "inicio": 1795574360666,
@@ -227,6 +227,16 @@
     "ret": 10.9
    },
    {
+    "inicio": 1795693740002,
+    "titulo": "Gangwon FC vs. Kitchee",
+    "lado": "no",
+    "dur": 1.056,
+    "gan": 27.52,
+    "neta": 26.42,
+    "costo": 153.56,
+    "ret": 17.9
+   },
+   {
     "inicio": 1795054292065,
     "titulo": "Grêmio FBPA vs. EC Bahia",
     "lado": "si",
@@ -235,47 +245,37 @@
     "neta": 19.23,
     "costo": 187.79,
     "ret": 13.4
-   },
-   {
-    "inicio": 1795437488199,
-    "titulo": "FK LNZ Cherkasy vs. FK Polissia",
-    "lado": "si",
-    "dur": 3.295,
-    "gan": 23.69,
-    "neta": 16.98,
-    "costo": 209.48,
-    "ret": 11.3
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8269,
-  "n": 1993,
-  "gan": 5495.7,
-  "nNeta": 570,
-  "neta": 1018.87
+  "conDato": 8294,
+  "n": 2000,
+  "gan": 5500.28,
+  "nNeta": 576,
+  "neta": 1019.2
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2833
+   "n": 2843
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3219
+   "n": 3227
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1435
+   "n": 1438
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 588
+   "n": 593
   },
   {
    "et": "30 s–5 min",
@@ -647,129 +647,129 @@
   },
   {
    "h": 1795690800000,
-   "n": 2
+   "n": 29
   }
  ],
  "recientes": [
   {
-   "inicio": 1795691854629,
-   "titulo": "PKR Svay Rieng vs. Machida Zelvia",
-   "dur": 0.581,
-   "gan": 6.81,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795691854364,
-   "titulo": "PKR Svay Rieng vs. Machida Zelvia",
-   "dur": 0.069,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795689856552,
+   "inicio": 1795693744300,
    "titulo": "Gangwon FC vs. Kitchee",
-   "dur": 0.045,
-   "gan": 0.54,
-   "neta": 0.01,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795689453226,
-   "titulo": "Kuching City FC vs. Phnom Penh Crown FC",
-   "dur": 0.048,
-   "gan": 0.78,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795685548244,
-   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
-   "dur": 391.081,
-   "gan": 0.83,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795685622381,
-   "titulo": "Highest temperature in Helsinki on November 26?",
-   "dur": 1.035,
-   "gan": 1.75,
-   "neta": 1.71,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795684444162,
-   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
-   "dur": 1.954,
-   "gan": 1.46,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795684412473,
-   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
-   "dur": 0.404,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795684265570,
-   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
-   "dur": 61.462,
+   "dur": 0.034,
    "gan": 0.6,
-   "neta": 0,
+   "neta": 0.03,
    "lado": "no"
   },
   {
-   "inicio": 1795684265486,
-   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
-   "dur": 0.024,
-   "gan": 0.8,
-   "neta": 0,
+   "inicio": 1795693744053,
+   "titulo": "Gangwon FC vs. Kitchee",
+   "dur": 0.04,
+   "gan": 1.25,
+   "neta": 0.82,
    "lado": "no"
   },
   {
-   "inicio": 1795684195136,
-   "titulo": "Borneo Samarinda vs. Persita Tangerang",
-   "dur": 0.964,
-   "gan": 1.11,
-   "neta": 0,
+   "inicio": 1795693743971,
+   "titulo": "Gangwon FC vs. Kitchee",
+   "dur": 0.081,
+   "gan": 0.91,
+   "neta": 0.46,
    "lado": "no"
   },
   {
-   "inicio": 1795676429301,
-   "titulo": "Highest temperature in Busan on November 26?",
-   "dur": 0.294,
-   "gan": 5.88,
-   "neta": 5.78,
+   "inicio": 1795693743105,
+   "titulo": "Gangwon FC vs. Kitchee",
+   "dur": 0.808,
+   "gan": 0.5,
+   "neta": 0.03,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795693743032,
+   "titulo": "Gangwon FC vs. Kitchee",
+   "dur": 0.039,
+   "gan": 1.1,
+   "neta": 0.78,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795693742867,
+   "titulo": "Gangwon FC vs. Kitchee",
+   "dur": 0.161,
+   "gan": 0.7,
+   "neta": 0.04,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795693742736,
+   "titulo": "Gangwon FC vs. Kitchee",
+   "dur": 0.091,
+   "gan": 1.65,
+   "neta": 1.02,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795693742179,
+   "titulo": "Gangwon FC vs. Kitchee",
+   "dur": 0.554,
+   "gan": 1.65,
+   "neta": 1.02,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795693742066,
+   "titulo": "Gangwon FC vs. Kitchee",
+   "dur": 0.112,
+   "gan": 0.5,
+   "neta": 0.03,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795693741805,
+   "titulo": "Gangwon FC vs. Kitchee",
+   "dur": 0.225,
+   "gan": 0.5,
+   "neta": 0.03,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795693741735,
+   "titulo": "Gangwon FC vs. Kitchee",
+   "dur": 0.008,
+   "gan": 0.5,
+   "neta": 0.21,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795693740002,
+   "titulo": "Gangwon FC vs. Kitchee",
+   "dur": 1.056,
+   "gan": 27.52,
+   "neta": 26.42,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795693712742,
+   "titulo": "Gangwon FC vs. Kitchee",
+   "dur": 0.858,
+   "gan": 2.34,
+   "neta": 1.5,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795693712607,
+   "titulo": "Gangwon FC vs. Kitchee",
+   "dur": 0.07,
+   "gan": 1.4,
+   "neta": 1.17,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795693240276,
+   "titulo": "Next Claude Opus (5.6+) released on...?",
+   "dur": 2.468,
+   "gan": 0.51,
+   "neta": 0.02,
    "lado": "si"
-  },
-  {
-   "inicio": 1795676013768,
-   "titulo": "Highest temperature in Busan on November 26?",
-   "dur": 0.047,
-   "gan": 1.29,
-   "neta": 1.08,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795675657481,
-   "titulo": "Highest temperature in Warsaw on November 26?",
-   "dur": 31.157,
-   "gan": 0.81,
-   "neta": 0.72,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795674437364,
-   "titulo": "PKR Svay Rieng vs. Machida Zelvia",
-   "dur": 0.277,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
