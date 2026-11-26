@@ -1,21 +1,21 @@
 {
- "actualizado": 1795649752173,
+ "actualizado": 1795652767035,
  "inicio": 1794949792535,
  "ejecucion": {
-  "inicio": 1795646751844,
-  "fin": 1795649752173,
-  "mensajes": 10507688,
+  "inicio": 1795649766719,
+  "fin": 1795652767035,
+  "mensajes": 10287223,
   "reconexiones": 0,
-  "eventos": 529,
+  "eventos": 517,
   "errores": [],
-  "nuevos": 9,
+  "nuevos": 11,
   "nuevosRentables": 1,
-  "nuevosNeta": 1.79
+  "nuevosNeta": 0.95
  },
- "total": 8399,
- "falsos": 4706,
+ "total": 8394,
+ "falsos": 4726,
  "largos": {
-  "episodios": 18977,
+  "episodios": 18963,
   "eventos": 163,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3252,
-   "gan": 9991.74,
-   "nNeta": 1047,
-   "neta": 2485.53
+   "n": 3249,
+   "gan": 9975.75,
+   "nNeta": 1049,
+   "neta": 2486.83
   },
   {
    "s": 2,
-   "n": 1500,
-   "gan": 4241.63,
+   "n": 1501,
+   "gan": 4243.58,
    "nNeta": 434,
    "neta": 743.62
   },
   {
    "s": 5,
-   "n": 862,
-   "gan": 2205.4,
+   "n": 864,
+   "gan": 2207.33,
    "nNeta": 235,
    "neta": 225.99
   },
   {
    "s": 30,
-   "n": 282,
-   "gan": 667.71,
+   "n": 283,
+   "gan": 668.73,
    "nNeta": 38,
    "neta": 41.75
   }
  ],
- "rentables": 2353,
+ "rentables": 2358,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 110,
+   "ops": 111,
    "descartadas": 400,
-   "neta": 241.62,
-   "dias": 8.1,
-   "semana": 208.93
+   "neta": 242.57,
+   "dias": 8.13,
+   "semana": 208.96
   },
   {
    "capital": 1000,
-   "ops": 123,
+   "ops": 124,
    "descartadas": 400,
-   "neta": 369.41,
-   "dias": 8.1,
-   "semana": 319.43
+   "neta": 370.36,
+   "dias": 8.13,
+   "semana": 319.05
   },
   {
    "capital": 2000,
-   "ops": 130,
+   "ops": 131,
    "descartadas": 400,
-   "neta": 557.66,
-   "dias": 8.1,
-   "semana": 482.22
+   "neta": 558.61,
+   "dias": 8.13,
+   "semana": 481.23
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 3,
-   "horas": 65.8,
-   "episodios": 3347,
-   "sospechosas": 19,
-   "realistaNeta": 440.71,
+   "horas": 66.7,
+   "episodios": 3358,
+   "sospechosas": 20,
+   "realistaNeta": 441.66,
    "capital": {
-    "500": 71.62,
-    "1000": 104.46,
-    "2000": 180.69
+    "500": 72.57,
+    "1000": 105.41,
+    "2000": 181.64
    },
    "cumple": true
   }
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 110,
+  "n": 111,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,32 +250,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8289,
-  "n": 1957,
-  "gan": 5424.5,
-  "nNeta": 540,
-  "neta": 1008.63
+  "conDato": 8283,
+  "n": 1959,
+  "gan": 5417.94,
+  "nNeta": 541,
+  "neta": 1009.58
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2863
+   "n": 2864
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3231
+   "n": 3224
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1431
+   "n": 1430
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 580
+   "n": 581
   },
   {
    "et": "30 s–5 min",
@@ -285,7 +285,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 129
+   "n": 130
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795374000000,
-   "n": 36
-  },
   {
    "h": 1795377600000,
    "n": 38
@@ -647,10 +643,102 @@
   },
   {
    "h": 1795647600000,
-   "n": 5
+   "n": 7
+  },
+  {
+   "h": 1795651200000,
+   "n": 9
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795649774729,
+   "titulo": "Spain General Election: Turnout",
+   "dur": 2991.993,
+   "gan": 1.02,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795652750221,
+   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
+   "dur": 3.359,
+   "gan": 2.72,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795652325215,
+   "titulo": "CA Boca Juniors vs. CS Independiente Rivadavia",
+   "dur": 9.143,
+   "gan": 0.85,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795652319516,
+   "titulo": "CA Boca Juniors vs. CS Independiente Rivadavia",
+   "dur": 1.623,
+   "gan": 0.95,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795652135190,
+   "titulo": "CA Boca Juniors vs. CS Independiente Rivadavia",
+   "dur": 0.27,
+   "gan": 0.77,
+   "neta": 0.1,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795651595388,
+   "titulo": "Independiente Santa Fe vs. Once Caldas",
+   "dur": 0.018,
+   "gan": 1.77,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795651224170,
+   "titulo": "Lowest temperature in Seoul (Incheon) on November 26?",
+   "dur": 0.016,
+   "gan": 2.26,
+   "neta": 2.19,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795651223986,
+   "titulo": "Lowest temperature in Seoul (Incheon) on November 26?",
+   "dur": 0.014,
+   "gan": 1.66,
+   "neta": 1.59,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795651223420,
+   "titulo": "Lowest temperature in Seoul (Incheon) on November 26?",
+   "dur": 0.016,
+   "gan": 1.66,
+   "neta": 1.59,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795651222022,
+   "titulo": "Lowest temperature in Seoul (Incheon) on November 26?",
+   "dur": 0.812,
+   "gan": 0.99,
+   "neta": 0.95,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795650535471,
+   "titulo": "CA Mineiro vs. SC Corinthians Paulista - Halftime Result",
+   "dur": 1.115,
+   "gan": 0.6,
+   "neta": 0.35,
+   "lado": "no"
+  },
   {
    "inicio": 1795646755523,
    "titulo": "Spain General Election: Turnout",
@@ -682,94 +770,6 @@
    "gan": 1.83,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1795648988030,
-   "titulo": "Highest temperature in Wellington on November 26?",
-   "dur": 3.336,
-   "gan": 1.9,
-   "neta": 1.79,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795648039703,
-   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
-   "dur": 1.828,
-   "gan": 0.82,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795647454816,
-   "titulo": "Highest temperature in Wellington on November 26?",
-   "dur": 0.128,
-   "gan": 0.57,
-   "neta": 0.54,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795647454754,
-   "titulo": "Highest temperature in Wellington on November 26?",
-   "dur": 0.027,
-   "gan": 0.57,
-   "neta": 0.52,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795647200433,
-   "titulo": "Spain General Election: PSOE # of seats?",
-   "dur": 0.112,
-   "gan": 0.91,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795644648730,
-   "titulo": "Spain General Election: Turnout",
-   "dur": 2088.982,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795644371846,
-   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
-   "dur": 0.91,
-   "gan": 1.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795643989583,
-   "titulo": "Lowest temperature in Shanghai on November 26?",
-   "dur": 0.237,
-   "gan": 0.58,
-   "neta": 0.56,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795643878415,
-   "titulo": "Sportivo San Lorenzo vs. Sportivo Ameliano",
-   "dur": 2.317,
-   "gan": 25.6,
-   "neta": 20.7,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795643509312,
-   "titulo": "Paris Saint-Germain FC vs. AS Roma",
-   "dur": 4.575,
-   "gan": 1.01,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795643508276,
-   "titulo": "Paris Saint-Germain FC vs. AS Roma",
-   "dur": 0.142,
-   "gan": 5.15,
-   "neta": 2.71,
-   "lado": "no"
   }
  ]
 }
