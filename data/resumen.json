@@ -1,22 +1,22 @@
 {
- "actualizado": 1795704037301,
+ "actualizado": 1795707052992,
  "inicio": 1794989069932,
  "ejecucion": {
-  "inicio": 1795701036984,
-  "fin": 1795704037301,
-  "mensajes": 9208216,
+  "inicio": 1795704052648,
+  "fin": 1795707052992,
+  "mensajes": 9644357,
   "reconexiones": 0,
-  "eventos": 577,
+  "eventos": 564,
   "errores": [],
-  "nuevos": 2,
+  "nuevos": 5,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 8428,
- "falsos": 4726,
+ "total": 8421,
+ "falsos": 4707,
  "largos": {
-  "episodios": 18951,
-  "eventos": 166,
+  "episodios": 18978,
+  "eventos": 160,
   "dias": 7
  },
  "enEspera": {
@@ -27,29 +27,29 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3303,
-   "gan": 10087.92,
-   "nNeta": 1092,
-   "neta": 2520.85
+   "n": 3298,
+   "gan": 10057.56,
+   "nNeta": 1093,
+   "neta": 2517.53
   },
   {
    "s": 2,
-   "n": 1539,
-   "gan": 4322.1,
-   "nNeta": 468,
-   "neta": 750.99
+   "n": 1534,
+   "gan": 4298.01,
+   "nNeta": 467,
+   "neta": 747.76
   },
   {
    "s": 5,
-   "n": 896,
-   "gan": 2261.35,
+   "n": 893,
+   "gan": 2253.91,
    "nNeta": 260,
    "neta": 218.78
   },
   {
    "s": 30,
-   "n": 301,
-   "gan": 689.77,
+   "n": 299,
+   "gan": 688.68,
    "nNeta": 50,
    "neta": 44.11
   }
@@ -59,26 +59,26 @@
   {
    "capital": 500,
    "ops": 122,
-   "descartadas": 422,
+   "descartadas": 421,
    "neta": 254.76,
-   "dias": 8.25,
-   "semana": 216.04
+   "dias": 8.09,
+   "semana": 220.36
   },
   {
    "capital": 1000,
    "ops": 140,
-   "descartadas": 422,
+   "descartadas": 421,
    "neta": 385.06,
-   "dias": 8.25,
-   "semana": 326.54
+   "dias": 8.09,
+   "semana": 333.06
   },
   {
    "capital": 2000,
    "ops": 146,
-   "descartadas": 422,
+   "descartadas": 421,
    "neta": 567.02,
-   "dias": 8.25,
-   "semana": 480.85
+   "dias": 8.09,
+   "semana": 490.46
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 4,
-   "horas": 80,
-   "episodios": 3546,
+   "horas": 80.8,
+   "episodios": 3551,
    "sospechosas": 28,
    "realistaNeta": 467.71,
    "capital": {
@@ -250,42 +250,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8309,
-  "n": 2008,
-  "gan": 5506.05,
-  "nNeta": 578,
-  "neta": 1020.35
+  "conDato": 8302,
+  "n": 2002,
+  "gan": 5479.32,
+  "nNeta": 577,
+  "neta": 1017.28
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2847
+   "n": 2844
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3232
+   "n": 3234
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1442
+   "n": 1439
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 595
+   "n": 594
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 163
+   "n": 162
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 138
+   "n": 137
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795438800000,
-   "n": 5
-  },
   {
    "h": 1795442400000,
    "n": 14
@@ -647,10 +643,54 @@
   },
   {
    "h": 1795701600000,
+   "n": 5
+  },
+  {
+   "h": 1795705200000,
    "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795706493378,
+   "titulo": "Javokhir Sindarov vs. Gukesh Dommaraju - FIDE World Chess Championship 2026 (Game 3)",
+   "dur": 126.115,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795706487301,
+   "titulo": "Javokhir Sindarov vs. Gukesh Dommaraju - FIDE World Chess Championship 2026 (Game 3)",
+   "dur": 5.997,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795704726417,
+   "titulo": "Javokhir Sindarov vs. Gukesh Dommaraju - FIDE World Chess Championship 2026 (Game 3)",
+   "dur": 0.728,
+   "gan": 0.53,
+   "neta": 0.06,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795704461502,
+   "titulo": "Javokhir Sindarov vs. Gukesh Dommaraju - FIDE World Chess Championship 2026 (Game 3)",
+   "dur": 0.146,
+   "gan": 0.59,
+   "neta": 0.3,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795704460413,
+   "titulo": "Javokhir Sindarov vs. Gukesh Dommaraju - FIDE World Chess Championship 2026 (Game 3)",
+   "dur": 1.047,
+   "gan": 0.59,
+   "neta": 0.3,
+   "lado": "no"
+  },
   {
    "inicio": 1795703135145,
    "titulo": "Lowest temperature in Seoul (Incheon) on November 26?",
@@ -730,46 +770,6 @@
    "gan": 0.66,
    "neta": 0,
    "lado": "no"
-  },
-  {
-   "inicio": 1795698847965,
-   "titulo": "Spain General Election: Turnout",
-   "dur": 376.485,
-   "gan": 0.9,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795698048594,
-   "titulo": "Lowest temperature in Seoul (Incheon) on November 26?",
-   "dur": 0.054,
-   "gan": 5.49,
-   "neta": 5.39,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795697722203,
-   "titulo": "Highest temperature in Ankara on November 26?",
-   "dur": 3.546,
-   "gan": 0.96,
-   "neta": 0.93,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795695694446,
-   "titulo": "Highest temperature in Amsterdam on November 26?",
-   "dur": 0.03,
-   "gan": 0.51,
-   "neta": 0.43,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795695694391,
-   "titulo": "Highest temperature in Amsterdam on November 26?",
-   "dur": 0.011,
-   "gan": 0.52,
-   "neta": 0.46,
-   "lado": "si"
   }
  ]
 }
