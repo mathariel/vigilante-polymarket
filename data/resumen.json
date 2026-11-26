@@ -1,84 +1,84 @@
 {
- "actualizado": 1795652767035,
+ "actualizado": 1795655784918,
  "inicio": 1794949792535,
  "ejecucion": {
-  "inicio": 1795649766719,
-  "fin": 1795652767035,
-  "mensajes": 10287223,
+  "inicio": 1795652784571,
+  "fin": 1795655784918,
+  "mensajes": 10127431,
   "reconexiones": 0,
-  "eventos": 517,
+  "eventos": 522,
   "errores": [],
-  "nuevos": 11,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.95
+  "nuevos": 40,
+  "nuevosRentables": 4,
+  "nuevosNeta": 12.32
  },
- "total": 8394,
- "falsos": 4726,
+ "total": 8370,
+ "falsos": 4719,
  "largos": {
-  "episodios": 18963,
-  "eventos": 163,
+  "episodios": 18995,
+  "eventos": 164,
   "dias": 7
  },
  "enEspera": {
   "episodios": 60,
   "eventos": 27
  },
- "mediana": 0.239,
+ "mediana": 0.24,
  "captura": [
   {
    "s": 0.5,
-   "n": 3249,
-   "gan": 9975.75,
-   "nNeta": 1049,
-   "neta": 2486.83
+   "n": 3247,
+   "gan": 9963.71,
+   "nNeta": 1051,
+   "neta": 2490.5
   },
   {
    "s": 2,
-   "n": 1501,
-   "gan": 4243.58,
-   "nNeta": 434,
-   "neta": 743.62
+   "n": 1499,
+   "gan": 4253.39,
+   "nNeta": 437,
+   "neta": 755.38
   },
   {
    "s": 5,
-   "n": 864,
-   "gan": 2207.33,
+   "n": 866,
+   "gan": 2208.62,
    "nNeta": 235,
    "neta": 225.99
   },
   {
    "s": 30,
-   "n": 283,
-   "gan": 668.73,
+   "n": 284,
+   "gan": 669.37,
    "nNeta": 38,
    "neta": 41.75
   }
  ],
- "rentables": 2358,
+ "rentables": 2346,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 111,
-   "descartadas": 400,
-   "neta": 242.57,
-   "dias": 8.13,
-   "semana": 208.96
+   "ops": 113,
+   "descartadas": 399,
+   "neta": 250.86,
+   "dias": 8.15,
+   "semana": 215.41
   },
   {
    "capital": 1000,
-   "ops": 124,
-   "descartadas": 400,
-   "neta": 370.36,
-   "dias": 8.13,
-   "semana": 319.05
+   "ops": 127,
+   "descartadas": 399,
+   "neta": 382.67,
+   "dias": 8.15,
+   "semana": 328.58
   },
   {
    "capital": 2000,
-   "ops": 131,
-   "descartadas": 400,
-   "neta": 558.61,
-   "dias": 8.13,
-   "semana": 481.23
+   "ops": 134,
+   "descartadas": 399,
+   "neta": 570.92,
+   "dias": 8.15,
+   "semana": 490.23
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 3,
-   "horas": 66.7,
-   "episodios": 3358,
-   "sospechosas": 20,
-   "realistaNeta": 441.66,
+   "horas": 67.5,
+   "episodios": 3398,
+   "sospechosas": 21,
+   "realistaNeta": 453.98,
    "capital": {
-    "500": 72.57,
-    "1000": 105.41,
-    "2000": 181.64
+    "500": 80.87,
+    "1000": 117.72,
+    "2000": 193.95
    },
    "cumple": true
   }
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 111,
+  "n": 112,
   "top": [
    {
     "inicio": 1795574360666,
@@ -207,6 +207,16 @@
     "ret": 14.2
    },
    {
+    "inicio": 1795654709331,
+    "titulo": "CA Mineiro vs. SC Corinthians Paulista",
+    "lado": "si",
+    "dur": 0.057,
+    "gan": 40.73,
+    "neta": 34.53,
+    "costo": 209.27,
+    "ret": 19.5
+   },
+   {
     "inicio": 1795548817655,
     "titulo": "FK Bodø/Glimt vs. LASK Linz",
     "lado": "si",
@@ -235,32 +245,22 @@
     "neta": 16.98,
     "costo": 209.48,
     "ret": 11.3
-   },
-   {
-    "inicio": 1795082475475,
-    "titulo": "Highest temperature in Karachi on November 19?",
-    "lado": "si",
-    "dur": 0.18,
-    "gan": 23.59,
-    "neta": 22.9,
-    "costo": 47.56,
-    "ret": 49.6
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8283,
-  "n": 1959,
-  "gan": 5417.94,
-  "nNeta": 541,
-  "neta": 1009.58
+  "conDato": 8258,
+  "n": 1958,
+  "gan": 5429.54,
+  "nNeta": 543,
+  "neta": 1021.23
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2864
+   "n": 2843
   },
   {
    "et": "0.1–1 s",
@@ -270,12 +270,12 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1430
+   "n": 1425
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 581
+   "n": 582
   },
   {
    "et": "30 s–5 min",
@@ -285,7 +285,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 130
+   "n": 131
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795377600000,
-   "n": 38
-  },
   {
    "h": 1795381200000,
    "n": 254
@@ -647,129 +643,133 @@
   },
   {
    "h": 1795651200000,
-   "n": 9
+   "n": 41
+  },
+  {
+   "h": 1795654800000,
+   "n": 8
   }
  ],
  "recientes": [
   {
-   "inicio": 1795649774729,
+   "inicio": 1795652787990,
    "titulo": "Spain General Election: Turnout",
-   "dur": 2991.993,
-   "gan": 1.02,
+   "dur": 2996.583,
+   "gan": 0.64,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795652750221,
+   "inicio": 1795654975578,
    "titulo": "CA Mineiro vs. SC Corinthians Paulista",
-   "dur": 3.359,
-   "gan": 2.72,
+   "dur": 0.114,
+   "gan": 0.97,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795652325215,
-   "titulo": "CA Boca Juniors vs. CS Independiente Rivadavia",
-   "dur": 9.143,
-   "gan": 0.85,
+   "inicio": 1795654975286,
+   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
+   "dur": 0.032,
+   "gan": 0.97,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795652319516,
-   "titulo": "CA Boca Juniors vs. CS Independiente Rivadavia",
-   "dur": 1.623,
+   "inicio": 1795654894540,
+   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
+   "dur": 13.811,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795654820554,
+   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
+   "dur": 1.035,
+   "gan": 1.3,
+   "neta": 0.32,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795654810132,
+   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
+   "dur": 0.009,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795654809062,
+   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
+   "dur": 0.973,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795654808794,
+   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
+   "dur": 0.225,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795654805734,
+   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
+   "dur": 1.756,
    "gan": 0.95,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795652135190,
-   "titulo": "CA Boca Juniors vs. CS Independiente Rivadavia",
-   "dur": 0.27,
-   "gan": 0.77,
-   "neta": 0.1,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795651595388,
-   "titulo": "Independiente Santa Fe vs. Once Caldas",
-   "dur": 0.018,
-   "gan": 1.77,
+   "inicio": 1795654770011,
+   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
+   "dur": 7.352,
+   "gan": 1,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795651224170,
-   "titulo": "Lowest temperature in Seoul (Incheon) on November 26?",
-   "dur": 0.016,
-   "gan": 2.26,
-   "neta": 2.19,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795651223986,
-   "titulo": "Lowest temperature in Seoul (Incheon) on November 26?",
-   "dur": 0.014,
-   "gan": 1.66,
-   "neta": 1.59,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795651223420,
-   "titulo": "Lowest temperature in Seoul (Incheon) on November 26?",
-   "dur": 0.016,
-   "gan": 1.66,
-   "neta": 1.59,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795651222022,
-   "titulo": "Lowest temperature in Seoul (Incheon) on November 26?",
-   "dur": 0.812,
-   "gan": 0.99,
-   "neta": 0.95,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795650535471,
-   "titulo": "CA Mineiro vs. SC Corinthians Paulista - Halftime Result",
-   "dur": 1.115,
-   "gan": 0.6,
-   "neta": 0.35,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795646755523,
-   "titulo": "Spain General Election: Turnout",
-   "dur": 2996.322,
-   "gan": 1.44,
+   "inicio": 1795654753243,
+   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
+   "dur": 0.15,
+   "gan": 0.65,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795649746519,
-   "titulo": "CA Mineiro vs. SC Corinthians Paulista - Halftime Result",
-   "dur": 1.056,
-   "gan": 3.96,
+   "inicio": 1795654749807,
+   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
+   "dur": 3.185,
+   "gan": 1.7,
+   "neta": 0.15,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795654722538,
+   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
+   "dur": 0.03,
+   "gan": 0.57,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795649731460,
-   "titulo": "CA Mineiro vs. SC Corinthians Paulista - Halftime Result",
-   "dur": 1.052,
+   "inicio": 1795654709331,
+   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
+   "dur": 0.057,
+   "gan": 40.73,
+   "neta": 34.53,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795654486319,
+   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
+   "dur": 0.037,
    "gan": 0.5,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795649212676,
-   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
-   "dur": 0.342,
-   "gan": 1.83,
-   "neta": 0,
-   "lado": "si"
+   "lado": "no"
   }
  ]
 }
