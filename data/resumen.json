@@ -1,21 +1,21 @@
 {
- "actualizado": 1795710068699,
+ "actualizado": 1795713085348,
  "inicio": 1795004173062,
  "ejecucion": {
-  "inicio": 1795707068370,
-  "fin": 1795710068699,
-  "mensajes": 10509304,
+  "inicio": 1795710084996,
+  "fin": 1795713085348,
+  "mensajes": 11308618,
   "reconexiones": 0,
-  "eventos": 592,
+  "eventos": 584,
   "errores": [],
-  "nuevos": 1,
+  "nuevos": 3,
   "nuevosRentables": 1,
-  "nuevosNeta": 0.78
+  "nuevosNeta": 0.31
  },
- "total": 8422,
- "falsos": 4714,
+ "total": 8425,
+ "falsos": 4716,
  "largos": {
-  "episodios": 18971,
+  "episodios": 18967,
   "eventos": 160,
   "dias": 7
  },
@@ -27,17 +27,17 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3299,
-   "gan": 10060.01,
-   "nNeta": 1094,
-   "neta": 2518.31
+   "n": 3301,
+   "gan": 10063.11,
+   "nNeta": 1096,
+   "neta": 2518.9
   },
   {
    "s": 2,
-   "n": 1535,
-   "gan": 4300.46,
-   "nNeta": 468,
-   "neta": 748.54
+   "n": 1536,
+   "gan": 4302.09,
+   "nNeta": 469,
+   "neta": 748.85
   },
   {
    "s": 5,
@@ -54,31 +54,31 @@
    "neta": 44.11
   }
  ],
- "rentables": 2404,
+ "rentables": 2405,
  "porCapital": [
   {
    "capital": 500,
    "ops": 122,
-   "descartadas": 422,
+   "descartadas": 423,
    "neta": 254.76,
-   "dias": 8.13,
-   "semana": 219.41
+   "dias": 8.16,
+   "semana": 218.47
   },
   {
    "capital": 1000,
    "ops": 140,
-   "descartadas": 422,
+   "descartadas": 423,
    "neta": 385.06,
-   "dias": 8.13,
-   "semana": 331.63
+   "dias": 8.16,
+   "semana": 330.21
   },
   {
    "capital": 2000,
    "ops": 146,
-   "descartadas": 422,
+   "descartadas": 423,
    "neta": 567.02,
-   "dias": 8.13,
-   "semana": 488.35
+   "dias": 8.16,
+   "semana": 486.26
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 4,
-   "horas": 81.7,
-   "episodios": 3552,
+   "horas": 82.5,
+   "episodios": 3555,
    "sospechosas": 28,
-   "realistaNeta": 468.49,
+   "realistaNeta": 468.8,
    "capital": {
     "500": 88.51,
     "1000": 127.63,
@@ -250,27 +250,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8303,
-  "n": 2003,
-  "gan": 5481.77,
-  "nNeta": 578,
-  "neta": 1018.06
+  "conDato": 8306,
+  "n": 2004,
+  "gan": 5483.4,
+  "nNeta": 579,
+  "neta": 1018.37
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2844
+   "n": 2845
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3234
+   "n": 3235
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1440
+   "n": 1441
   },
   {
    "et": "5–30 s",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795442400000,
-   "n": 14
-  },
   {
    "h": 1795446000000,
    "n": 34
@@ -648,9 +644,37 @@
   {
    "h": 1795705200000,
    "n": 3
+  },
+  {
+   "h": 1795708800000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795711843653,
+   "titulo": "Cabrayil vs. Moik Baku",
+   "dur": 0.999,
+   "gan": 1.47,
+   "neta": 0.28,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795711836375,
+   "titulo": "Cabrayil vs. Moik Baku",
+   "dur": 3.229,
+   "gan": 0.82,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795711667673,
+   "titulo": "Spain General Election: Junts # of seats?",
+   "dur": 0.062,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795708121257,
    "titulo": "Javokhir Sindarov vs. Gukesh Dommaraju - FIDE World Chess Championship 2026 (Game 3)",
@@ -745,30 +769,6 @@
    "dur": 1.375,
    "gan": 4.3,
    "neta": 1.67,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795700287077,
-   "titulo": "SpaceX’s Market Cap end of November 2026?",
-   "dur": 1.215,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795700285134,
-   "titulo": "SpaceX’s Market Cap end of November 2026?",
-   "dur": 1.316,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795700282722,
-   "titulo": "SpaceX’s Market Cap end of November 2026?",
-   "dur": 1.058,
-   "gan": 0.54,
-   "neta": 0,
    "lado": "no"
   }
  ]
