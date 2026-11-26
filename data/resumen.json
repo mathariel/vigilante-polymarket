@@ -1,21 +1,21 @@
 {
- "actualizado": 1795658799573,
+ "actualizado": 1795661813852,
  "inicio": 1794949792535,
  "ejecucion": {
-  "inicio": 1795655799225,
-  "fin": 1795658799573,
-  "mensajes": 9247790,
+  "inicio": 1795658813498,
+  "fin": 1795661813852,
+  "mensajes": 9401212,
   "reconexiones": 0,
-  "eventos": 523,
+  "eventos": 530,
   "errores": [],
-  "nuevos": 4,
+  "nuevos": 13,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 8374,
- "falsos": 4722,
+ "total": 8367,
+ "falsos": 4731,
  "largos": {
-  "episodios": 18990,
+  "episodios": 18989,
   "eventos": 164,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 60,
   "eventos": 27
  },
- "mediana": 0.24,
+ "mediana": 0.241,
  "captura": [
   {
    "s": 0.5,
-   "n": 3248,
-   "gan": 9965.9,
-   "nNeta": 1051,
-   "neta": 2490.5
+   "n": 3255,
+   "gan": 10002.75,
+   "nNeta": 1048,
+   "neta": 2476.38
   },
   {
    "s": 2,
-   "n": 1500,
-   "gan": 4255.58,
-   "nNeta": 437,
-   "neta": 755.38
+   "n": 1505,
+   "gan": 4290.74,
+   "nNeta": 436,
+   "neta": 743.35
   },
   {
    "s": 5,
-   "n": 867,
-   "gan": 2210.81,
-   "nNeta": 235,
-   "neta": 225.99
+   "n": 871,
+   "gan": 2243.65,
+   "nNeta": 234,
+   "neta": 213.96
   },
   {
    "s": 30,
-   "n": 285,
-   "gan": 671.56,
+   "n": 287,
+   "gan": 679.55,
    "nNeta": 38,
    "neta": 41.75
   }
  ],
- "rentables": 2346,
+ "rentables": 2331,
  "porCapital": [
   {
    "capital": 500,
    "ops": 113,
    "descartadas": 399,
-   "neta": 250.86,
-   "dias": 8.19,
-   "semana": 214.49
+   "neta": 248.9,
+   "dias": 8.22,
+   "semana": 211.9
   },
   {
    "capital": 1000,
    "ops": 127,
    "descartadas": 399,
-   "neta": 382.67,
-   "dias": 8.19,
-   "semana": 327.18
+   "neta": 376.93,
+   "dias": 8.22,
+   "semana": 320.91
   },
   {
    "capital": 2000,
-   "ops": 134,
+   "ops": 133,
    "descartadas": 399,
-   "neta": 570.92,
-   "dias": 8.19,
-   "semana": 488.14
+   "neta": 558.89,
+   "dias": 8.22,
+   "semana": 475.83
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 3,
-   "horas": 68.3,
-   "episodios": 3402,
+   "horas": 69.2,
+   "episodios": 3415,
    "sospechosas": 21,
    "realistaNeta": 453.98,
    "capital": {
@@ -250,42 +250,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8262,
-  "n": 1959,
-  "gan": 5431.73,
-  "nNeta": 543,
-  "neta": 1021.23
+  "conDato": 8255,
+  "n": 1965,
+  "gan": 5467.49,
+  "nNeta": 542,
+  "neta": 1009.2
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2843
+   "n": 2833
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3227
+   "n": 3224
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1425
+   "n": 1427
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 582
+   "n": 584
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 153
+   "n": 154
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 132
+   "n": 133
   }
  ],
  "porEvento": [
@@ -647,10 +647,114 @@
   },
   {
    "h": 1795658400000,
-   "n": 3
+   "n": 16
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795658817635,
+   "titulo": "Spain General Election: Turnout",
+   "dur": 2876.42,
+   "gan": 2.58,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795661358608,
+   "titulo": "Atlético Nacional vs. Independiente Medellín",
+   "dur": 5.144,
+   "gan": 0.72,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795660769248,
+   "titulo": "Atlético Nacional vs. Independiente Medellín",
+   "dur": 1.505,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795659739324,
+   "titulo": "CF Monterrey vs. CF América",
+   "dur": 100.182,
+   "gan": 31.28,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795659659648,
+   "titulo": "CF Monterrey vs. CF América",
+   "dur": 9.502,
+   "gan": 63.98,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795659395319,
+   "titulo": "Atlético Nacional vs. Independiente Medellín",
+   "dur": 5.454,
+   "gan": 3.19,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795659171321,
+   "titulo": "Atlético Nacional vs. Independiente Medellín",
+   "dur": 1.286,
+   "gan": 2.85,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795659080029,
+   "titulo": "Atlético Nacional vs. Independiente Medellín",
+   "dur": 2.52,
+   "gan": 2.32,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795659058546,
+   "titulo": "Atlético Nacional vs. Independiente Medellín",
+   "dur": 1.378,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795658983989,
+   "titulo": "Atlético Nacional vs. Independiente Medellín",
+   "dur": 0.229,
+   "gan": 4.49,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795658982782,
+   "titulo": "Atlético Nacional vs. Independiente Medellín",
+   "dur": 0.057,
+   "gan": 0.85,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795658980155,
+   "titulo": "Atlético Nacional vs. Independiente Medellín",
+   "dur": 0.131,
+   "gan": 0.85,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795658846181,
+   "titulo": "Atlético Nacional vs. Independiente Medellín",
+   "dur": 0.501,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1795655805004,
    "titulo": "Spain General Election: Turnout",
@@ -666,110 +770,6 @@
    "gan": 0.58,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1795658732393,
-   "titulo": "Atlético Nacional vs. Independiente Medellín",
-   "dur": 0.254,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795658588652,
-   "titulo": "Atlético Nacional vs. Independiente Medellín",
-   "dur": 0.187,
-   "gan": 0.9,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795652787990,
-   "titulo": "Spain General Election: Turnout",
-   "dur": 2996.583,
-   "gan": 0.64,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795654975578,
-   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
-   "dur": 0.114,
-   "gan": 0.97,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795654975286,
-   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
-   "dur": 0.032,
-   "gan": 0.97,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795654894540,
-   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
-   "dur": 13.811,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795654820554,
-   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
-   "dur": 1.035,
-   "gan": 1.3,
-   "neta": 0.32,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795654810132,
-   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
-   "dur": 0.009,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795654809062,
-   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
-   "dur": 0.973,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795654808794,
-   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
-   "dur": 0.225,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795654805734,
-   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
-   "dur": 1.756,
-   "gan": 0.95,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795654770011,
-   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
-   "dur": 7.352,
-   "gan": 1,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795654753243,
-   "titulo": "CA Mineiro vs. SC Corinthians Paulista",
-   "dur": 0.15,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
