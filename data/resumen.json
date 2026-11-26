@@ -1,21 +1,21 @@
 {
- "actualizado": 1795722148944,
- "inicio": 1795007103697,
+ "actualizado": 1795725166100,
+ "inicio": 1795010185982,
  "ejecucion": {
-  "inicio": 1795719148697,
-  "fin": 1795722148944,
-  "mensajes": 14298415,
-  "reconexiones": 4,
-  "eventos": 608,
+  "inicio": 1795722165756,
+  "fin": 1795725166100,
+  "mensajes": 13170467,
+  "reconexiones": 0,
+  "eventos": 618,
   "errores": [],
-  "nuevos": 111,
-  "nuevosRentables": 10,
-  "nuevosNeta": 25.21
+  "nuevos": 69,
+  "nuevosRentables": 4,
+  "nuevosNeta": 9.45
  },
- "total": 8715,
- "falsos": 4830,
+ "total": 8783,
+ "falsos": 4854,
  "largos": {
-  "episodios": 18570,
+  "episodios": 18481,
   "eventos": 158,
   "dias": 7
  },
@@ -27,24 +27,24 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3420,
-   "gan": 10294.19,
-   "nNeta": 1138,
-   "neta": 2561.19
+   "n": 3441,
+   "gan": 10435.41,
+   "nNeta": 1150,
+   "neta": 2637.79
   },
   {
    "s": 2,
-   "n": 1588,
-   "gan": 4417.81,
-   "nNeta": 486,
-   "neta": 765.5
+   "n": 1593,
+   "gan": 4425.63,
+   "nNeta": 488,
+   "neta": 766.85
   },
   {
    "s": 5,
-   "n": 914,
-   "gan": 2301.22,
-   "nNeta": 267,
-   "neta": 225.08
+   "n": 916,
+   "gan": 2304.78,
+   "nNeta": 268,
+   "neta": 226.28
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 44.24
   }
  ],
- "rentables": 2477,
+ "rentables": 2511,
  "porCapital": [
   {
    "capital": 500,
    "ops": 130,
-   "descartadas": 434,
+   "descartadas": 436,
    "neta": 259.92,
-   "dias": 8.22,
-   "semana": 221.22
+   "dias": 8.23,
+   "semana": 221.04
   },
   {
    "capital": 1000,
    "ops": 149,
-   "descartadas": 434,
+   "descartadas": 436,
    "neta": 393.87,
-   "dias": 8.22,
-   "semana": 335.23
+   "dias": 8.23,
+   "semana": 334.96
   },
   {
    "capital": 2000,
    "ops": 157,
-   "descartadas": 434,
+   "descartadas": 436,
    "neta": 588.06,
-   "dias": 8.22,
-   "semana": 500.5
+   "dias": 8.23,
+   "semana": 500.1
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 4,
-   "horas": 85,
-   "episodios": 3846,
+   "horas": 85.8,
+   "episodios": 3915,
    "sospechosas": 31,
-   "realistaNeta": 498.17,
+   "realistaNeta": 507.62,
    "capital": {
     "500": 93.68,
     "1000": 136.44,
@@ -250,32 +250,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8593,
-  "n": 2068,
-  "gan": 5626.44,
-  "nNeta": 602,
-  "neta": 1047.74
+  "conDato": 8661,
+  "n": 2075,
+  "gan": 5643.44,
+  "nNeta": 606,
+  "neta": 1057.19
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2930
+   "n": 2952
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3354
+   "n": 3390
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1506
+   "n": 1514
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 612
+   "n": 614
   },
   {
    "et": "30 s–5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795456800000,
-   "n": 52
-  },
   {
    "h": 1795460400000,
    "n": 36
@@ -647,128 +643,132 @@
   },
   {
    "h": 1795719600000,
-   "n": 95
+   "n": 125
+  },
+  {
+   "h": 1795723200000,
+   "n": 39
   }
  ],
  "recientes": [
   {
-   "inicio": 1795722143885,
-   "titulo": "Heart of Midlothian FC vs. AS Monaco FC",
-   "dur": 3.148,
-   "gan": 0.7,
-   "neta": 0.57,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795722143517,
-   "titulo": "Heart of Midlothian FC vs. AS Monaco FC",
-   "dur": 0.25,
-   "gan": 2.96,
-   "neta": 2.23,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795721830433,
-   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
-   "dur": 0.884,
-   "gan": 0.6,
+   "inicio": 1795725037294,
+   "titulo": "FK Borac Banja Luka vs. Atalanta BC",
+   "dur": 2.176,
+   "gan": 0.87,
    "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795725032011,
+   "titulo": "SC Braga vs. Kuopion PS",
+   "dur": 6.163,
+   "gan": 0.5,
+   "neta": 0.35,
    "lado": "si"
   },
   {
-   "inicio": 1795721811801,
-   "titulo": "Olympique de Marseille vs. PFK Levski Sofia",
-   "dur": 1.041,
-   "gan": 1.05,
+   "inicio": 1795725031940,
+   "titulo": "SC Braga vs. Kuopion PS",
+   "dur": 0.043,
+   "gan": 1.5,
+   "neta": 1.15,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795725031863,
+   "titulo": "SC Braga vs. Kuopion PS",
+   "dur": 0.033,
+   "gan": 1.15,
    "neta": 0.87,
    "lado": "si"
   },
   {
-   "inicio": 1795721738983,
-   "titulo": "Heart of Midlothian FC vs. AS Monaco FC",
-   "dur": 0.568,
-   "gan": 5.35,
-   "neta": 3.9,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795721729326,
-   "titulo": "RU Saint-Gilloise vs. KKS Lech Poznań",
-   "dur": 0.94,
-   "gan": 0.8,
-   "neta": 0.21,
+   "inicio": 1795725031763,
+   "titulo": "SC Braga vs. Kuopion PS",
+   "dur": 0.075,
+   "gan": 0.65,
+   "neta": 0.44,
    "lado": "si"
   },
   {
-   "inicio": 1795721672869,
-   "titulo": "Beşiktaş JK vs. MH Hapoel Be'er Sheva",
-   "dur": 0.991,
-   "gan": 3.74,
+   "inicio": 1795725031678,
+   "titulo": "SC Braga vs. Kuopion PS",
+   "dur": 0.078,
+   "gan": 0.63,
+   "neta": 0.42,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795725031540,
+   "titulo": "SC Braga vs. Kuopion PS",
+   "dur": 0.024,
+   "gan": 0.73,
+   "neta": 0.51,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795725031426,
+   "titulo": "SC Braga vs. Kuopion PS",
+   "dur": 0.003,
+   "gan": 0.97,
+   "neta": 0.7,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795724950735,
+   "titulo": "HNK Hajduk Split vs. K. Sint-Truidense VV",
+   "dur": 0.676,
+   "gan": 1.22,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795721661599,
-   "titulo": "Beşiktaş JK vs. MH Hapoel Be'er Sheva",
-   "dur": 8.432,
-   "gan": 0.98,
+   "inicio": 1795724692669,
+   "titulo": "SC União Torreense vs. Celtic FC",
+   "dur": 0.114,
+   "gan": 0.92,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795721554835,
-   "titulo": "Olympiakós SFP vs. AC Milan",
-   "dur": 1.508,
-   "gan": 0.91,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795721544592,
-   "titulo": "Olympiakós SFP vs. AC Milan",
-   "dur": 0.69,
-   "gan": 0.8,
-   "neta": 0.05,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795721544505,
-   "titulo": "Olympiakós SFP vs. AC Milan",
-   "dur": 0.034,
-   "gan": 0.61,
-   "neta": 0.04,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795721540646,
-   "titulo": "Olympiakós SFP vs. AC Milan",
-   "dur": 0.035,
-   "gan": 0.64,
-   "neta": 0.06,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795721540627,
-   "titulo": "Olympiakós SFP vs. AC Milan",
-   "dur": 0.014,
-   "gan": 0.58,
-   "neta": 0.06,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795721536776,
-   "titulo": "Olympiakós SFP vs. AC Milan",
-   "dur": 0.496,
+   "inicio": 1795724519599,
+   "titulo": "PFK CSKA Sofia vs. Trabzonspor",
+   "dur": 0.466,
    "gan": 1.07,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795724518734,
+   "titulo": "PFK CSKA Sofia vs. Trabzonspor",
+   "dur": 0.721,
+   "gan": 0.78,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795724414355,
+   "titulo": "SC União Torreense vs. Celtic FC",
+   "dur": 0.432,
+   "gan": 4.32,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795721523904,
-   "titulo": "Olympiakós SFP vs. AC Milan",
-   "dur": 4.792,
-   "gan": 20.93,
-   "neta": 5.94,
+   "inicio": 1795724343054,
+   "titulo": "Inter Club d'Escaldes vs. FC København",
+   "dur": 0.789,
+   "gan": 3.45,
+   "neta": 1.52,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795724342673,
+   "titulo": "Inter Club d'Escaldes vs. FC København",
+   "dur": 0.043,
+   "gan": 1,
+   "neta": 0,
    "lado": "si"
   }
  ]
