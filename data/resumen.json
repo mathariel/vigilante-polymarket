@@ -1,21 +1,21 @@
 {
- "actualizado": 1795701021679,
- "inicio": 1794986059480,
+ "actualizado": 1795704037301,
+ "inicio": 1794989069932,
  "ejecucion": {
-  "inicio": 1795698021332,
-  "fin": 1795701021679,
-  "mensajes": 9704325,
+  "inicio": 1795701036984,
+  "fin": 1795704037301,
+  "mensajes": 9208216,
   "reconexiones": 0,
-  "eventos": 580,
+  "eventos": 577,
   "errores": [],
-  "nuevos": 10,
+  "nuevos": 2,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 8426,
- "falsos": 4711,
+ "total": 8428,
+ "falsos": 4726,
  "largos": {
-  "episodios": 18968,
+  "episodios": 18951,
   "eventos": 166,
   "dias": 7
  },
@@ -27,10 +27,10 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3302,
-   "gan": 10087.25,
-   "nNeta": 1091,
-   "neta": 2520.2
+   "n": 3303,
+   "gan": 10087.92,
+   "nNeta": 1092,
+   "neta": 2520.85
   },
   {
    "s": 2,
@@ -54,31 +54,31 @@
    "neta": 44.11
   }
  ],
- "rentables": 2401,
+ "rentables": 2403,
  "porCapital": [
   {
    "capital": 500,
    "ops": 122,
    "descartadas": 422,
    "neta": 254.76,
-   "dias": 8.22,
-   "semana": 216.95
+   "dias": 8.25,
+   "semana": 216.04
   },
   {
    "capital": 1000,
    "ops": 140,
    "descartadas": 422,
    "neta": 385.06,
-   "dias": 8.22,
-   "semana": 327.92
+   "dias": 8.25,
+   "semana": 326.54
   },
   {
    "capital": 2000,
    "ops": 146,
    "descartadas": 422,
    "neta": 567.02,
-   "dias": 8.22,
-   "semana": 482.89
+   "dias": 8.25,
+   "semana": 480.85
   }
  ],
  "maxBloqueoH": 24,
@@ -129,9 +129,9 @@
   {
    "lunes": "2026-11-23",
    "dias": 4,
-   "horas": 79.2,
-   "episodios": 3544,
-   "sospechosas": 27,
+   "horas": 80,
+   "episodios": 3546,
+   "sospechosas": 28,
    "realistaNeta": 467.71,
    "capital": {
     "500": 88.51,
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 118,
+  "n": 119,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,7 +250,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8308,
+  "conDato": 8309,
   "n": 2008,
   "gan": 5506.05,
   "nNeta": 578,
@@ -260,12 +260,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2846
+   "n": 2847
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3231
+   "n": 3232
   },
   {
    "et": "1–5 s",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795435200000,
-   "n": 17
-  },
   {
    "h": 1795438800000,
    "n": 5
@@ -648,9 +644,29 @@
   {
    "h": 1795698000000,
    "n": 10
+  },
+  {
+   "h": 1795701600000,
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795703135145,
+   "titulo": "Lowest temperature in Seoul (Incheon) on November 26?",
+   "dur": 0.904,
+   "gan": 0.67,
+   "neta": 0.65,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795703023852,
+   "titulo": "\"Hexed\" 5-Day Opening Weekend Box Office",
+   "dur": 0.052,
+   "gan": 1.39,
+   "neta": 0.96,
+   "lado": "no"
+  },
   {
    "inicio": 1795700828484,
    "titulo": "Spain General Election: Turnout",
@@ -753,22 +769,6 @@
    "dur": 0.011,
    "gan": 0.52,
    "neta": 0.46,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795695693598,
-   "titulo": "PKR Svay Rieng vs. Machida Zelvia",
-   "dur": 0.472,
-   "gan": 2,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795695676576,
-   "titulo": "PKR Svay Rieng vs. Machida Zelvia",
-   "dur": 0.843,
-   "gan": 2,
-   "neta": 0,
    "lado": "si"
   }
  ]
