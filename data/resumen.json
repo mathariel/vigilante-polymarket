@@ -1,21 +1,21 @@
 {
- "actualizado": 1795713085348,
+ "actualizado": 1795716108623,
  "inicio": 1795004173062,
  "ejecucion": {
-  "inicio": 1795710084996,
-  "fin": 1795713085348,
-  "mensajes": 11308618,
+  "inicio": 1795713108374,
+  "fin": 1795716108623,
+  "mensajes": 11698747,
   "reconexiones": 0,
-  "eventos": 584,
+  "eventos": 569,
   "errores": [],
-  "nuevos": 3,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.31
+  "nuevos": 54,
+  "nuevosRentables": 2,
+  "nuevosNeta": 1.23
  },
- "total": 8425,
- "falsos": 4716,
+ "total": 8479,
+ "falsos": 4724,
  "largos": {
-  "episodios": 18967,
+  "episodios": 18907,
   "eventos": 160,
   "dias": 7
  },
@@ -23,26 +23,26 @@
   "episodios": 59,
   "eventos": 27
  },
- "mediana": 0.244,
+ "mediana": 0.243,
  "captura": [
   {
    "s": 0.5,
-   "n": 3301,
-   "gan": 10063.11,
-   "nNeta": 1096,
-   "neta": 2518.9
+   "n": 3315,
+   "gan": 10097.39,
+   "nNeta": 1101,
+   "neta": 2521.17
   },
   {
    "s": 2,
-   "n": 1536,
-   "gan": 4302.09,
-   "nNeta": 469,
-   "neta": 748.85
+   "n": 1541,
+   "gan": 4309.51,
+   "nNeta": 470,
+   "neta": 749.31
   },
   {
    "s": 5,
-   "n": 893,
-   "gan": 2253.91,
+   "n": 894,
+   "gan": 2254.66,
    "nNeta": 260,
    "neta": 218.78
   },
@@ -54,31 +54,31 @@
    "neta": 44.11
   }
  ],
- "rentables": 2405,
+ "rentables": 2413,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 122,
-   "descartadas": 423,
-   "neta": 254.76,
-   "dias": 8.16,
-   "semana": 218.47
+   "ops": 123,
+   "descartadas": 424,
+   "neta": 255.22,
+   "dias": 8.2,
+   "semana": 217.93
   },
   {
    "capital": 1000,
-   "ops": 140,
-   "descartadas": 423,
-   "neta": 385.06,
-   "dias": 8.16,
-   "semana": 330.21
+   "ops": 141,
+   "descartadas": 424,
+   "neta": 385.52,
+   "dias": 8.2,
+   "semana": 329.2
   },
   {
    "capital": 2000,
-   "ops": 146,
-   "descartadas": 423,
-   "neta": 567.02,
-   "dias": 8.16,
-   "semana": 486.26
+   "ops": 147,
+   "descartadas": 424,
+   "neta": 567.48,
+   "dias": 8.2,
+   "semana": 484.58
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 4,
-   "horas": 82.5,
-   "episodios": 3555,
+   "horas": 83.3,
+   "episodios": 3609,
    "sospechosas": 28,
-   "realistaNeta": 468.8,
+   "realistaNeta": 470.03,
    "capital": {
-    "500": 88.51,
-    "1000": 127.63,
-    "2000": 203.86
+    "500": 88.97,
+    "1000": 128.09,
+    "2000": 204.32
    },
    "cumple": true
   }
@@ -250,32 +250,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8306,
-  "n": 2004,
-  "gan": 5483.4,
-  "nNeta": 579,
-  "neta": 1018.37
+  "conDato": 8360,
+  "n": 2011,
+  "gan": 5493.3,
+  "nNeta": 581,
+  "neta": 1019.6
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2845
+   "n": 2866
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3235
+   "n": 3256
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1441
+   "n": 1452
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 594
+   "n": 595
   },
   {
    "et": "30 s–5 min",
@@ -361,14 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795446000000,
-   "n": 34
-  },
-  {
-   "h": 1795449600000,
-   "n": 6
-  },
   {
    "h": 1795453200000,
    "n": 70
@@ -648,128 +640,136 @@
   {
    "h": 1795708800000,
    "n": 3
+  },
+  {
+   "h": 1795712400000,
+   "n": 53
+  },
+  {
+   "h": 1795716000000,
+   "n": 1
   }
  ],
  "recientes": [
   {
-   "inicio": 1795711843653,
-   "titulo": "Cabrayil vs. Moik Baku",
-   "dur": 0.999,
-   "gan": 1.47,
-   "neta": 0.28,
-   "lado": "si"
+   "inicio": 1795716041264,
+   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
+   "dur": 0.142,
+   "gan": 0.81,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1795711836375,
-   "titulo": "Cabrayil vs. Moik Baku",
-   "dur": 3.229,
-   "gan": 0.82,
+   "inicio": 1795715959336,
+   "titulo": "Brighton & Hove Albion FC vs. Universitatea Craiova CS",
+   "dur": 1.044,
+   "gan": 6.63,
+   "neta": 0.02,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795715886125,
+   "titulo": "AFC Ajax vs. FC Thun",
+   "dur": 1.095,
+   "gan": 13.26,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795715879332,
+   "titulo": "FC Viktoria Plzeň vs. Sport Lisboa e Benfica",
+   "dur": 2.698,
+   "gan": 0.74,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795711667673,
-   "titulo": "Spain General Election: Junts # of seats?",
-   "dur": 0.062,
-   "gan": 0.8,
+   "inicio": 1795715864401,
+   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
+   "dur": 0.667,
+   "gan": 0.69,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795708121257,
-   "titulo": "Javokhir Sindarov vs. Gukesh Dommaraju - FIDE World Chess Championship 2026 (Game 3)",
-   "dur": 3.341,
-   "gan": 2.45,
-   "neta": 0.79,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795706493378,
-   "titulo": "Javokhir Sindarov vs. Gukesh Dommaraju - FIDE World Chess Championship 2026 (Game 3)",
-   "dur": 126.115,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795706487301,
-   "titulo": "Javokhir Sindarov vs. Gukesh Dommaraju - FIDE World Chess Championship 2026 (Game 3)",
-   "dur": 5.997,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795704726417,
-   "titulo": "Javokhir Sindarov vs. Gukesh Dommaraju - FIDE World Chess Championship 2026 (Game 3)",
-   "dur": 0.728,
-   "gan": 0.53,
-   "neta": 0.06,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795704461502,
-   "titulo": "Javokhir Sindarov vs. Gukesh Dommaraju - FIDE World Chess Championship 2026 (Game 3)",
-   "dur": 0.146,
-   "gan": 0.59,
-   "neta": 0.3,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795704460413,
-   "titulo": "Javokhir Sindarov vs. Gukesh Dommaraju - FIDE World Chess Championship 2026 (Game 3)",
-   "dur": 1.047,
-   "gan": 0.59,
-   "neta": 0.3,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795703135145,
-   "titulo": "Lowest temperature in Seoul (Incheon) on November 26?",
-   "dur": 0.904,
-   "gan": 0.67,
-   "neta": 0.65,
    "lado": "si"
   },
   {
-   "inicio": 1795703023852,
-   "titulo": "\"Hexed\" 5-Day Opening Weekend Box Office",
-   "dur": 0.052,
-   "gan": 1.39,
-   "neta": 0.96,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795700828484,
-   "titulo": "Spain General Election: Turnout",
-   "dur": 0.229,
-   "gan": 0.85,
+   "inicio": 1795715839564,
+   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
+   "dur": 0.01,
+   "gan": 0.51,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795700820192,
-   "titulo": "Spain General Election: Turnout",
-   "dur": 0.232,
-   "gan": 0.78,
+   "inicio": 1795715839023,
+   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
+   "dur": 0.08,
+   "gan": 0.61,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795699939291,
-   "titulo": "Spain General Election: Turnout",
-   "dur": 573.846,
+   "inicio": 1795715837218,
+   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
+   "dur": 0.071,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795715836466,
+   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
+   "dur": 0.111,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795715829122,
+   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
+   "dur": 4.268,
+   "gan": 2.93,
+   "neta": 0.46,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795715828860,
+   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
+   "dur": 0.209,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795715828543,
+   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
+   "dur": 0.197,
    "gan": 0.87,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795700369400,
-   "titulo": "BG Pathum United vs. Lion City Sailors FC",
-   "dur": 1.375,
-   "gan": 4.3,
-   "neta": 1.67,
-   "lado": "no"
+   "inicio": 1795715828520,
+   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
+   "dur": 0.004,
+   "gan": 0.83,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795715828232,
+   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
+   "dur": 0.28,
+   "gan": 0.63,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795715814023,
+   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
+   "dur": 0.191,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "si"
   }
  ]
 }
