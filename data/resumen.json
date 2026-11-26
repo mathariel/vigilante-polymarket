@@ -1,21 +1,21 @@
 {
- "actualizado": 1795707052992,
- "inicio": 1794989069932,
+ "actualizado": 1795710068699,
+ "inicio": 1795004173062,
  "ejecucion": {
-  "inicio": 1795704052648,
-  "fin": 1795707052992,
-  "mensajes": 9644357,
+  "inicio": 1795707068370,
+  "fin": 1795710068699,
+  "mensajes": 10509304,
   "reconexiones": 0,
-  "eventos": 564,
+  "eventos": 592,
   "errores": [],
-  "nuevos": 5,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 1,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.78
  },
- "total": 8421,
- "falsos": 4707,
+ "total": 8422,
+ "falsos": 4714,
  "largos": {
-  "episodios": 18978,
+  "episodios": 18971,
   "eventos": 160,
   "dias": 7
  },
@@ -27,17 +27,17 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3298,
-   "gan": 10057.56,
-   "nNeta": 1093,
-   "neta": 2517.53
+   "n": 3299,
+   "gan": 10060.01,
+   "nNeta": 1094,
+   "neta": 2518.31
   },
   {
    "s": 2,
-   "n": 1534,
-   "gan": 4298.01,
-   "nNeta": 467,
-   "neta": 747.76
+   "n": 1535,
+   "gan": 4300.46,
+   "nNeta": 468,
+   "neta": 748.54
   },
   {
    "s": 5,
@@ -54,31 +54,31 @@
    "neta": 44.11
   }
  ],
- "rentables": 2403,
+ "rentables": 2404,
  "porCapital": [
   {
    "capital": 500,
    "ops": 122,
-   "descartadas": 421,
+   "descartadas": 422,
    "neta": 254.76,
-   "dias": 8.09,
-   "semana": 220.36
+   "dias": 8.13,
+   "semana": 219.41
   },
   {
    "capital": 1000,
    "ops": 140,
-   "descartadas": 421,
+   "descartadas": 422,
    "neta": 385.06,
-   "dias": 8.09,
-   "semana": 333.06
+   "dias": 8.13,
+   "semana": 331.63
   },
   {
    "capital": 2000,
    "ops": 146,
-   "descartadas": 421,
+   "descartadas": 422,
    "neta": 567.02,
-   "dias": 8.09,
-   "semana": 490.46
+   "dias": 8.13,
+   "semana": 488.35
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 4,
-   "horas": 80.8,
-   "episodios": 3551,
+   "horas": 81.7,
+   "episodios": 3552,
    "sospechosas": 28,
-   "realistaNeta": 467.71,
+   "realistaNeta": 468.49,
    "capital": {
     "500": 88.51,
     "1000": 127.63,
@@ -250,11 +250,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8302,
-  "n": 2002,
-  "gan": 5479.32,
-  "nNeta": 577,
-  "neta": 1017.28
+  "conDato": 8303,
+  "n": 2003,
+  "gan": 5481.77,
+  "nNeta": 578,
+  "neta": 1018.06
  },
  "duraciones": [
   {
@@ -270,7 +270,7 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1439
+   "n": 1440
   },
   {
    "et": "5–30 s",
@@ -647,10 +647,18 @@
   },
   {
    "h": 1795705200000,
-   "n": 2
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795708121257,
+   "titulo": "Javokhir Sindarov vs. Gukesh Dommaraju - FIDE World Chess Championship 2026 (Game 3)",
+   "dur": 3.341,
+   "gan": 2.45,
+   "neta": 0.79,
+   "lado": "no"
+  },
   {
    "inicio": 1795706493378,
    "titulo": "Javokhir Sindarov vs. Gukesh Dommaraju - FIDE World Chess Championship 2026 (Game 3)",
@@ -760,14 +768,6 @@
    "titulo": "SpaceX’s Market Cap end of November 2026?",
    "dur": 1.058,
    "gan": 0.54,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795700274544,
-   "titulo": "SpaceX’s Market Cap end of November 2026?",
-   "dur": 6.745,
-   "gan": 0.66,
    "neta": 0,
    "lado": "no"
   }
