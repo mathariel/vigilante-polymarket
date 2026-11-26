@@ -1,21 +1,21 @@
 {
- "actualizado": 1795661813852,
+ "actualizado": 1795664828089,
  "inicio": 1794949792535,
  "ejecucion": {
-  "inicio": 1795658813498,
-  "fin": 1795661813852,
-  "mensajes": 9401212,
+  "inicio": 1795661827813,
+  "fin": 1795664828089,
+  "mensajes": 10229263,
   "reconexiones": 0,
-  "eventos": 530,
+  "eventos": 527,
   "errores": [],
-  "nuevos": 13,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 20,
+  "nuevosRentables": 5,
+  "nuevosNeta": 2.73
  },
- "total": 8367,
- "falsos": 4731,
+ "total": 8378,
+ "falsos": 4734,
  "largos": {
-  "episodios": 18989,
+  "episodios": 18977,
   "eventos": 164,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 60,
   "eventos": 27
  },
- "mediana": 0.241,
+ "mediana": 0.242,
  "captura": [
   {
    "s": 0.5,
-   "n": 3255,
-   "gan": 10002.75,
-   "nNeta": 1048,
-   "neta": 2476.38
+   "n": 3261,
+   "gan": 10018.56,
+   "nNeta": 1052,
+   "neta": 2478.35
   },
   {
    "s": 2,
-   "n": 1505,
-   "gan": 4290.74,
-   "nNeta": 436,
-   "neta": 743.35
+   "n": 1510,
+   "gan": 4305.22,
+   "nNeta": 439,
+   "neta": 744.78
   },
   {
    "s": 5,
-   "n": 871,
-   "gan": 2243.65,
-   "nNeta": 234,
-   "neta": 213.96
+   "n": 872,
+   "gan": 2248.94,
+   "nNeta": 236,
+   "neta": 214.89
   },
   {
    "s": 30,
    "n": 287,
-   "gan": 679.55,
-   "nNeta": 38,
-   "neta": 41.75
+   "gan": 679.7,
+   "nNeta": 39,
+   "neta": 41.99
   }
  ],
- "rentables": 2331,
+ "rentables": 2339,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 113,
-   "descartadas": 399,
-   "neta": 248.9,
-   "dias": 8.22,
-   "semana": 211.9
+   "ops": 112,
+   "descartadas": 400,
+   "neta": 248.25,
+   "dias": 8.2,
+   "semana": 211.93
   },
   {
    "capital": 1000,
-   "ops": 127,
-   "descartadas": 399,
-   "neta": 376.93,
-   "dias": 8.22,
-   "semana": 320.91
+   "ops": 130,
+   "descartadas": 400,
+   "neta": 378.55,
+   "dias": 8.2,
+   "semana": 323.17
   },
   {
    "capital": 2000,
-   "ops": 133,
-   "descartadas": 399,
-   "neta": 558.89,
-   "dias": 8.22,
-   "semana": 475.83
+   "ops": 136,
+   "descartadas": 400,
+   "neta": 560.51,
+   "dias": 8.2,
+   "semana": 478.51
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 3,
-   "horas": 69.2,
-   "episodios": 3415,
+   "horas": 70,
+   "episodios": 3435,
    "sospechosas": 21,
-   "realistaNeta": 453.98,
+   "realistaNeta": 456.71,
    "capital": {
     "500": 80.87,
-    "1000": 117.72,
-    "2000": 193.95
+    "1000": 119.99,
+    "2000": 196.22
    },
    "cumple": true
   }
@@ -250,32 +250,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8255,
-  "n": 1965,
-  "gan": 5467.49,
-  "nNeta": 542,
-  "neta": 1009.2
+  "conDato": 8266,
+  "n": 1971,
+  "gan": 5482.98,
+  "nNeta": 546,
+  "neta": 1011.28
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2833
+   "n": 2838
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3224
+   "n": 3226
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1427
+   "n": 1430
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 584
+   "n": 585
   },
   {
    "et": "30 s–5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795384800000,
-   "n": 36
-  },
   {
    "h": 1795388400000,
    "n": 105
@@ -648,127 +644,131 @@
   {
    "h": 1795658400000,
    "n": 16
+  },
+  {
+   "h": 1795662000000,
+   "n": 20
   }
  ],
  "recientes": [
   {
-   "inicio": 1795658817635,
-   "titulo": "Spain General Election: Turnout",
-   "dur": 2876.42,
-   "gan": 2.58,
-   "neta": 0,
+   "inicio": 1795664606699,
+   "titulo": "Next Muse Spark Model (1.4+) released on...?",
+   "dur": 221.116,
+   "gan": 1.19,
+   "neta": 0.46,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795663032298,
+   "titulo": "CSD Municipal vs. Aurora FC",
+   "dur": 1114.53,
+   "gan": 0.73,
+   "neta": 0.42,
    "lado": "no"
   },
   {
-   "inicio": 1795661358608,
-   "titulo": "Atlético Nacional vs. Independiente Medellín",
-   "dur": 5.144,
-   "gan": 0.72,
+   "inicio": 1795663493856,
+   "titulo": "CF Monterrey vs. CF América",
+   "dur": 0.372,
+   "gan": 0.85,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795660769248,
-   "titulo": "Atlético Nacional vs. Independiente Medellín",
-   "dur": 1.505,
+   "inicio": 1795663491699,
+   "titulo": "CF Monterrey vs. CF América",
+   "dur": 2.129,
+   "gan": 4.81,
+   "neta": 0.16,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795663477445,
+   "titulo": "Highest temperature in Tokyo on November 26?",
+   "dur": 2.184,
+   "gan": 0.65,
+   "neta": 0.54,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795663471886,
+   "titulo": "Highest temperature in Tokyo on November 26?",
+   "dur": 5.389,
+   "gan": 0.85,
+   "neta": 0.69,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795663470879,
+   "titulo": "Highest temperature in Tokyo on November 26?",
+   "dur": 0.769,
+   "gan": 0.58,
+   "neta": 0.4,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795663470445,
+   "titulo": "Highest temperature in Tokyo on November 26?",
+   "dur": 0.275,
+   "gan": 0.51,
+   "neta": 0.34,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795663470303,
+   "titulo": "Highest temperature in Tokyo on November 26?",
+   "dur": 0.026,
+   "gan": 0.51,
+   "neta": 0.3,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795663445302,
+   "titulo": "CF Monterrey vs. CF América",
+   "dur": 0.921,
+   "gan": 1.24,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795663434423,
+   "titulo": "CF Monterrey vs. CF América",
+   "dur": 0.091,
+   "gan": 0.89,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795663369122,
+   "titulo": "CF Monterrey vs. CF América",
+   "dur": 2.46,
    "gan": 0.6,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795659739324,
+   "inicio": 1795663350595,
    "titulo": "CF Monterrey vs. CF América",
-   "dur": 100.182,
-   "gan": 31.28,
+   "dur": 4.096,
+   "gan": 7.23,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795659659648,
+   "inicio": 1795663343475,
    "titulo": "CF Monterrey vs. CF América",
-   "dur": 9.502,
-   "gan": 63.98,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795659395319,
-   "titulo": "Atlético Nacional vs. Independiente Medellín",
-   "dur": 5.454,
-   "gan": 3.19,
+   "dur": 0.085,
+   "gan": 0.8,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795659171321,
-   "titulo": "Atlético Nacional vs. Independiente Medellín",
-   "dur": 1.286,
-   "gan": 2.85,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795659080029,
-   "titulo": "Atlético Nacional vs. Independiente Medellín",
-   "dur": 2.52,
-   "gan": 2.32,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795659058546,
-   "titulo": "Atlético Nacional vs. Independiente Medellín",
-   "dur": 1.378,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795658983989,
-   "titulo": "Atlético Nacional vs. Independiente Medellín",
-   "dur": 0.229,
-   "gan": 4.49,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795658982782,
-   "titulo": "Atlético Nacional vs. Independiente Medellín",
-   "dur": 0.057,
-   "gan": 0.85,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795658980155,
-   "titulo": "Atlético Nacional vs. Independiente Medellín",
-   "dur": 0.131,
-   "gan": 0.85,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795658846181,
-   "titulo": "Atlético Nacional vs. Independiente Medellín",
-   "dur": 0.501,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795655805004,
-   "titulo": "Spain General Election: Turnout",
-   "dur": 2994.224,
-   "gan": 2.19,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795658732671,
-   "titulo": "Atlético Nacional vs. Independiente Medellín",
-   "dur": 0.13,
-   "gan": 0.58,
-   "neta": 0,
+   "inicio": 1795663342814,
+   "titulo": "Highest temperature in Tokyo on November 26?",
+   "dur": 0.037,
+   "gan": 2.22,
+   "neta": 1.98,
    "lado": "si"
   }
  ]
