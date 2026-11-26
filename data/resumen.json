@@ -1,84 +1,84 @@
 {
- "actualizado": 1795716108623,
+ "actualizado": 1795719124498,
  "inicio": 1795004173062,
  "ejecucion": {
-  "inicio": 1795713108374,
-  "fin": 1795716108623,
-  "mensajes": 11698747,
+  "inicio": 1795716124136,
+  "fin": 1795719124498,
+  "mensajes": 13607821,
   "reconexiones": 0,
-  "eventos": 569,
+  "eventos": 602,
   "errores": [],
-  "nuevos": 54,
-  "nuevosRentables": 2,
-  "nuevosNeta": 1.23
+  "nuevos": 126,
+  "nuevosRentables": 11,
+  "nuevosNeta": 2.93
  },
- "total": 8479,
- "falsos": 4724,
+ "total": 8604,
+ "falsos": 4757,
  "largos": {
-  "episodios": 18907,
-  "eventos": 160,
+  "episodios": 18752,
+  "eventos": 159,
   "dias": 7
  },
  "enEspera": {
   "episodios": 59,
   "eventos": 27
  },
- "mediana": 0.243,
+ "mediana": 0.244,
  "captura": [
   {
    "s": 0.5,
-   "n": 3315,
-   "gan": 10097.39,
-   "nNeta": 1101,
-   "neta": 2521.17
+   "n": 3371,
+   "gan": 10173.05,
+   "nNeta": 1122,
+   "neta": 2530.01
   },
   {
    "s": 2,
-   "n": 1541,
-   "gan": 4309.51,
-   "nNeta": 470,
-   "neta": 749.31
+   "n": 1568,
+   "gan": 4354.79,
+   "nNeta": 478,
+   "neta": 751.6
   },
   {
    "s": 5,
-   "n": 894,
-   "gan": 2254.66,
-   "nNeta": 260,
-   "neta": 218.78
+   "n": 907,
+   "gan": 2275.93,
+   "nNeta": 264,
+   "neta": 220.32
   },
   {
    "s": 30,
-   "n": 299,
-   "gan": 688.68,
-   "nNeta": 50,
-   "neta": 44.11
+   "n": 300,
+   "gan": 692.96,
+   "nNeta": 51,
+   "neta": 44.21
   }
  ],
- "rentables": 2413,
+ "rentables": 2440,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 123,
-   "descartadas": 424,
-   "neta": 255.22,
-   "dias": 8.2,
-   "semana": 217.93
+   "ops": 127,
+   "descartadas": 431,
+   "neta": 256.84,
+   "dias": 8.19,
+   "semana": 219.53
   },
   {
    "capital": 1000,
-   "ops": 141,
-   "descartadas": 424,
-   "neta": 385.52,
-   "dias": 8.2,
-   "semana": 329.2
+   "ops": 145,
+   "descartadas": 431,
+   "neta": 387.14,
+   "dias": 8.19,
+   "semana": 330.91
   },
   {
    "capital": 2000,
-   "ops": 147,
-   "descartadas": 424,
-   "neta": 567.48,
-   "dias": 8.2,
-   "semana": 484.58
+   "ops": 151,
+   "descartadas": 431,
+   "neta": 569.1,
+   "dias": 8.19,
+   "semana": 486.44
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 4,
-   "horas": 83.3,
-   "episodios": 3609,
-   "sospechosas": 28,
-   "realistaNeta": 470.03,
+   "horas": 84.2,
+   "episodios": 3735,
+   "sospechosas": 31,
+   "realistaNeta": 472.96,
    "capital": {
-    "500": 88.97,
-    "1000": 128.09,
-    "2000": 204.32
+    "500": 90.59,
+    "1000": 129.71,
+    "2000": 205.94
    },
    "cumple": true
   }
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 119,
+  "n": 122,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,37 +250,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8360,
-  "n": 2011,
-  "gan": 5493.3,
-  "nNeta": 581,
-  "neta": 1019.6
+  "conDato": 8482,
+  "n": 2042,
+  "gan": 5543.27,
+  "nNeta": 592,
+  "neta": 1022.53
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2866
+   "n": 2907
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3256
+   "n": 3300
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1452
+   "n": 1479
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 595
+   "n": 607
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 162
+   "n": 163
   },
   {
    "et": "> 5 min",
@@ -647,129 +647,129 @@
   },
   {
    "h": 1795716000000,
-   "n": 1
+   "n": 127
   }
  ],
  "recientes": [
   {
-   "inicio": 1795716041264,
-   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
-   "dur": 0.142,
-   "gan": 0.81,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795715959336,
-   "titulo": "Brighton & Hove Albion FC vs. Universitatea Craiova CS",
-   "dur": 1.044,
-   "gan": 6.63,
-   "neta": 0.02,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795715886125,
-   "titulo": "AFC Ajax vs. FC Thun",
-   "dur": 1.095,
-   "gan": 13.26,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795715879332,
-   "titulo": "FC Viktoria Plzeň vs. Sport Lisboa e Benfica",
-   "dur": 2.698,
-   "gan": 0.74,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795715864401,
-   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
-   "dur": 0.667,
-   "gan": 0.69,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795715839564,
-   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
-   "dur": 0.01,
+   "inicio": 1795719123680,
+   "titulo": "Olympiakós SFP vs. AC Milan",
+   "dur": 0.037,
    "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795715839023,
-   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
-   "dur": 0.08,
-   "gan": 0.61,
+   "inicio": 1795719123426,
+   "titulo": "Olympiakós SFP vs. AC Milan",
+   "dur": 0.216,
+   "gan": 2.37,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795715837218,
-   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
-   "dur": 0.071,
+   "inicio": 1795719112987,
+   "titulo": "Páfos FC vs. FC Midtjylland",
+   "dur": 0.153,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795719080644,
+   "titulo": "Páfos FC vs. FC Midtjylland",
+   "dur": 0.081,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795718977447,
+   "titulo": "Beşiktaş JK vs. MH Hapoel Be'er Sheva",
+   "dur": 13.645,
+   "gan": 1.05,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795718953472,
+   "titulo": "FC Viktoria Plzeň vs. Sport Lisboa e Benfica",
+   "dur": 1.565,
+   "gan": 1.73,
+   "neta": 0.58,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795718909372,
+   "titulo": "Beşiktaş JK vs. MH Hapoel Be'er Sheva",
+   "dur": 16.698,
+   "gan": 2.17,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795718756186,
+   "titulo": "Beşiktaş JK vs. MH Hapoel Be'er Sheva",
+   "dur": 15.121,
+   "gan": 0.85,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795718754131,
+   "titulo": "Beşiktaş JK vs. MH Hapoel Be'er Sheva",
+   "dur": 0.581,
+   "gan": 1.26,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795718735904,
+   "titulo": "Beşiktaş JK vs. MH Hapoel Be'er Sheva",
+   "dur": 14.951,
+   "gan": 0.85,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795718727914,
+   "titulo": "Beşiktaş JK vs. MH Hapoel Be'er Sheva",
+   "dur": 7.96,
+   "gan": 1.14,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795718721666,
+   "titulo": "Beşiktaş JK vs. MH Hapoel Be'er Sheva",
+   "dur": 1.824,
+   "gan": 1.14,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795718700898,
+   "titulo": "Beşiktaş JK vs. MH Hapoel Be'er Sheva",
+   "dur": 2.951,
+   "gan": 1.83,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795718351524,
+   "titulo": "Beşiktaş JK vs. MH Hapoel Be'er Sheva",
+   "dur": 1.326,
+   "gan": 1.02,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795718350963,
+   "titulo": "Beşiktaş JK vs. MH Hapoel Be'er Sheva",
+   "dur": 0.09,
    "gan": 0.55,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795715836466,
-   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
-   "dur": 0.111,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795715829122,
-   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
-   "dur": 4.268,
-   "gan": 2.93,
-   "neta": 0.46,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795715828860,
-   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
-   "dur": 0.209,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795715828543,
-   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
-   "dur": 0.197,
-   "gan": 0.87,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795715828520,
-   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
-   "dur": 0.004,
-   "gan": 0.83,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795715828232,
-   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
-   "dur": 0.28,
-   "gan": 0.63,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795715814023,
-   "titulo": "RC Celta de Vigo vs. AFC Bournemouth",
-   "dur": 0.191,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "si"
+   "lado": "no"
   }
  ]
 }
