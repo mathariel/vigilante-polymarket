@@ -1,21 +1,21 @@
 {
- "actualizado": 1795818680543,
+ "actualizado": 1795821699395,
  "inicio": 1795067527984,
  "ejecucion": {
-  "inicio": 1795815680210,
-  "fin": 1795818680543,
-  "mensajes": 9432601,
+  "inicio": 1795818699112,
+  "fin": 1795821699395,
+  "mensajes": 8771253,
   "reconexiones": 0,
-  "eventos": 611,
+  "eventos": 614,
   "errores": [],
-  "nuevos": 41,
-  "nuevosRentables": 4,
-  "nuevosNeta": 7.37
+  "nuevos": 7,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 9243,
- "falsos": 5165,
+ "total": 9250,
+ "falsos": 5167,
  "largos": {
-  "episodios": 17812,
+  "episodios": 17809,
   "eventos": 151,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3683,
-   "gan": 12563.96,
+   "n": 3687,
+   "gan": 12573.35,
    "nNeta": 1203,
    "neta": 3458.84
   },
   {
    "s": 2,
-   "n": 1642,
-   "gan": 5862.35,
+   "n": 1643,
+   "gan": 5863.43,
    "nNeta": 444,
    "neta": 1235.62
   },
   {
    "s": 5,
-   "n": 891,
-   "gan": 3154.1,
+   "n": 892,
+   "gan": 3155.18,
    "nNeta": 193,
    "neta": 386.44
   },
   {
    "s": 30,
-   "n": 336,
-   "gan": 1276.33,
+   "n": 337,
+   "gan": 1277.41,
    "nNeta": 52,
    "neta": 59.34
   }
  ],
- "rentables": 2729,
+ "rentables": 2730,
  "porCapital": [
   {
    "capital": 500,
    "ops": 148,
    "descartadas": 358,
    "neta": 247.23,
-   "dias": 8.68,
-   "semana": 199.4
+   "dias": 8.71,
+   "semana": 198.6
   },
   {
    "capital": 1000,
    "ops": 167,
    "descartadas": 358,
    "neta": 391.24,
-   "dias": 8.68,
-   "semana": 315.56
+   "dias": 8.71,
+   "semana": 314.29
   },
   {
    "capital": 2000,
    "ops": 178,
    "descartadas": 358,
    "neta": 609.33,
-   "dias": 8.68,
-   "semana": 491.46
+   "dias": 8.71,
+   "semana": 489.49
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 111.7,
-   "episodios": 4984,
+   "horas": 112.5,
+   "episodios": 4991,
    "sospechosas": 54,
    "realistaNeta": 920.47,
    "capital": {
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 9112,
-  "n": 2150,
-  "gan": 7019.67,
+  "conDato": 9119,
+  "n": 2151,
+  "gan": 7020.75,
   "nNeta": 574,
   "neta": 1419.22
  },
@@ -260,17 +260,17 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 3007
+   "n": 3008
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3658
+   "n": 3662
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1674
+   "n": 1675
   },
   {
    "et": "5–30 s",
@@ -280,7 +280,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 177
+   "n": 178
   },
   {
    "et": "> 5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795550400000,
-   "n": 61
-  },
   {
    "h": 1795554000000,
    "n": 141
@@ -647,10 +643,70 @@
   },
   {
    "h": 1795816800000,
-   "n": 5
+   "n": 8
+  },
+  {
+   "h": 1795820400000,
+   "n": 4
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795821689014,
+   "titulo": "Fluminense FC vs. Cruzeiro EC - Halftime Result",
+   "dur": 1.09,
+   "gan": 6.77,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795820783862,
+   "titulo": "CD Antofagasta vs. Deportes Copiapo",
+   "dur": 0.869,
+   "gan": 4.45,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795820641536,
+   "titulo": "Fluminense FC vs. Cruzeiro EC",
+   "dur": 0.897,
+   "gan": 1.11,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795820575034,
+   "titulo": "Fluminense FC vs. Cruzeiro EC",
+   "dur": 0.2,
+   "gan": 0.89,
+   "neta": 0.61,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795819597853,
+   "titulo": "Vila Nova FC vs. AC Goianiense",
+   "dur": 71.017,
+   "gan": 1.08,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795819367224,
+   "titulo": "CD Cuenca vs. Manta FC",
+   "dur": 0.024,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795819367003,
+   "titulo": "CD Cuenca vs. Manta FC",
+   "dur": 0.101,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795815658297,
    "titulo": "VVV Venlo vs. RKC Waalwijk",
@@ -713,62 +769,6 @@
    "dur": 0.04,
    "gan": 0.63,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795816280229,
-   "titulo": "Nottingham Forest FC vs. Chelsea FC",
-   "dur": 0.068,
-   "gan": 0.66,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795816279728,
-   "titulo": "Nottingham Forest FC vs. Chelsea FC",
-   "dur": 0.19,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795816278396,
-   "titulo": "Nottingham Forest FC vs. Chelsea FC",
-   "dur": 1.322,
-   "gan": 0.52,
-   "neta": 0.09,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795816277518,
-   "titulo": "Nottingham Forest FC vs. Chelsea FC",
-   "dur": 0.874,
-   "gan": 0.96,
-   "neta": 0.02,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795816277458,
-   "titulo": "Nottingham Forest FC vs. Chelsea FC",
-   "dur": 0.032,
-   "gan": 0.87,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795816277380,
-   "titulo": "Nottingham Forest FC vs. Chelsea FC",
-   "dur": 0.047,
-   "gan": 0.9,
-   "neta": 0.1,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795816277250,
-   "titulo": "Nottingham Forest FC vs. Chelsea FC",
-   "dur": 0.128,
-   "gan": 1.09,
-   "neta": 0.02,
    "lado": "no"
   }
  ]
