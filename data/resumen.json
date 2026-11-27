@@ -1,84 +1,84 @@
 {
- "actualizado": 1795740250427,
- "inicio": 1795028273052,
+ "actualizado": 1795743266154,
+ "inicio": 1795031320936,
  "ejecucion": {
-  "inicio": 1795737250112,
-  "fin": 1795740250427,
-  "mensajes": 9313226,
+  "inicio": 1795740265814,
+  "fin": 1795743266154,
+  "mensajes": 9455922,
   "reconexiones": 0,
-  "eventos": 564,
+  "eventos": 575,
   "errores": [],
-  "nuevos": 20,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 30,
+  "nuevosRentables": 5,
+  "nuevosNeta": 4.18
  },
- "total": 8840,
- "falsos": 4927,
+ "total": 8849,
+ "falsos": 4945,
  "largos": {
-  "episodios": 18367,
+  "episodios": 18346,
   "eventos": 155,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 60,
-  "eventos": 28
+  "episodios": 59,
+  "eventos": 27
  },
  "mediana": 0.242,
  "captura": [
   {
    "s": 0.5,
-   "n": 3433,
-   "gan": 10567.85,
-   "nNeta": 1072,
-   "neta": 2674.28
+   "n": 3431,
+   "gan": 10613.54,
+   "nNeta": 1078,
+   "neta": 2718.42
   },
   {
    "s": 2,
-   "n": 1530,
-   "gan": 4451.34,
-   "nNeta": 393,
-   "neta": 785.97
+   "n": 1526,
+   "gan": 4450.16,
+   "nNeta": 396,
+   "neta": 787.74
   },
   {
    "s": 5,
-   "n": 831,
-   "gan": 2253.29,
-   "nNeta": 171,
-   "neta": 216.87
+   "n": 824,
+   "gan": 2248.02,
+   "nNeta": 173,
+   "neta": 217.98
   },
   {
    "s": 30,
-   "n": 298,
-   "gan": 703.85,
+   "n": 292,
+   "gan": 699.72,
    "nNeta": 49,
    "neta": 43.95
   }
  ],
- "rentables": 2451,
+ "rentables": 2468,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 133,
+   "ops": 138,
    "descartadas": 338,
-   "neta": 261.18,
-   "dias": 8.18,
-   "semana": 223.52
+   "neta": 265.36,
+   "dias": 8.16,
+   "semana": 227.67
   },
   {
    "capital": 1000,
-   "ops": 152,
+   "ops": 157,
    "descartadas": 338,
-   "neta": 395.13,
-   "dias": 8.18,
-   "semana": 338.16
+   "neta": 399.31,
+   "dias": 8.16,
+   "semana": 342.59
   },
   {
    "capital": 2000,
-   "ops": 160,
+   "ops": 165,
    "descartadas": 338,
-   "neta": 589.32,
-   "dias": 8.18,
-   "semana": 504.35
+   "neta": 593.5,
+   "dias": 8.16,
+   "semana": 509.19
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 4,
-   "horas": 90,
-   "episodios": 4100,
-   "sospechosas": 31,
-   "realistaNeta": 547.07,
+   "horas": 90.8,
+   "episodios": 4130,
+   "sospechosas": 32,
+   "realistaNeta": 551.25,
    "capital": {
-    "500": 94.94,
-    "1000": 137.7,
-    "2000": 226.15
+    "500": 99.12,
+    "1000": 141.88,
+    "2000": 230.33
    },
    "cumple": true
   }
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 121,
+  "n": 120,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,42 +250,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8719,
-  "n": 2024,
-  "gan": 5695.36,
-  "nNeta": 515,
-  "neta": 1083.32
+  "conDato": 8729,
+  "n": 2020,
+  "gan": 5688.52,
+  "nNeta": 520,
+  "neta": 1087.5
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2972
+   "n": 2975
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3467
+   "n": 3477
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1559
+   "n": 1562
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 533
+   "n": 532
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 161
+   "n": 156
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 137
+   "n": 136
   }
  ],
  "porEvento": [
@@ -339,18 +339,18 @@
    "mediana": 0.341
   },
   {
-   "titulo": "Coritiba FBC vs. Santos FC",
-   "n": 110,
-   "gan": 170.02,
-   "neta": 52.38,
-   "mediana": 0.248
-  },
-  {
    "titulo": "Spain General Election: BNG # of seats?",
    "n": 110,
    "gan": 108.32,
    "neta": 0,
    "mediana": 0.574
+  },
+  {
+   "titulo": "Coritiba FBC vs. Santos FC",
+   "n": 109,
+   "gan": 169.52,
+   "neta": 52.38,
+   "mediana": 0.229
   },
   {
    "titulo": "SK Slavia Praha vs. Villarreal CF",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795471200000,
-   "n": 87
-  },
   {
    "h": 1795474800000,
    "n": 85
@@ -647,127 +643,131 @@
   },
   {
    "h": 1795737600000,
-   "n": 20
+   "n": 35
+  },
+  {
+   "h": 1795741200000,
+   "n": 15
   }
  ],
  "recientes": [
   {
-   "inicio": 1795739730194,
-   "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 0.312,
-   "gan": 0.92,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795739675905,
-   "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 1.014,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795739675599,
-   "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 0.135,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795739674797,
-   "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 0.714,
+   "inicio": 1795743225740,
+   "titulo": "Highest temperature in Moscow on November 27?",
+   "dur": 10.711,
    "gan": 0.56,
-   "neta": 0,
+   "neta": 0.45,
    "lado": "si"
   },
   {
-   "inicio": 1795739670527,
-   "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 2.086,
-   "gan": 1.72,
-   "neta": 0,
+   "inicio": 1795743225715,
+   "titulo": "Highest temperature in Moscow on November 27?",
+   "dur": 0.014,
+   "gan": 0.59,
+   "neta": 0.48,
    "lado": "si"
   },
   {
-   "inicio": 1795739562843,
-   "titulo": "OpenAI’s valuation end of November 2026?",
-   "dur": 0.564,
-   "gan": 0.57,
-   "neta": 0,
+   "inicio": 1795743222803,
+   "titulo": "Highest temperature in Moscow on November 27?",
+   "dur": 2.864,
+   "gan": 1.19,
+   "neta": 0.85,
    "lado": "si"
   },
   {
-   "inicio": 1795739327625,
-   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
-   "dur": 4.125,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795739235140,
-   "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 1.569,
-   "gan": 0.73,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795739055431,
-   "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 0.903,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795738755197,
-   "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 0.714,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795738755152,
-   "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 0.025,
-   "gan": 1.2,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795738754753,
-   "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 0.141,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795738754735,
-   "titulo": "São Paulo FC vs. Clube do Remo",
+   "inicio": 1795743222479,
+   "titulo": "Highest temperature in Moscow on November 27?",
    "dur": 0.009,
-   "gan": 0.5,
-   "neta": 0,
+   "gan": 7.6,
+   "neta": 7.06,
    "lado": "si"
   },
   {
-   "inicio": 1795738753571,
-   "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 0.831,
-   "gan": 0.5,
-   "neta": 0,
+   "inicio": 1795743220794,
+   "titulo": "Highest temperature in Moscow on November 27?",
+   "dur": 1.679,
+   "gan": 1.94,
+   "neta": 1.51,
    "lado": "si"
   },
   {
-   "inicio": 1795738750462,
-   "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 0.039,
-   "gan": 0.52,
+   "inicio": 1795743220482,
+   "titulo": "Highest temperature in Moscow on November 27?",
+   "dur": 0.277,
+   "gan": 0.57,
+   "neta": 0.26,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795743219224,
+   "titulo": "Highest temperature in Moscow on November 27?",
+   "dur": 0.276,
+   "gan": 5.63,
+   "neta": 5.05,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795743218911,
+   "titulo": "Highest temperature in Moscow on November 27?",
+   "dur": 0.275,
+   "gan": 3.63,
+   "neta": 3.12,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795743218598,
+   "titulo": "Highest temperature in Moscow on November 27?",
+   "dur": 0.28,
+   "gan": 1.94,
+   "neta": 1.51,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795743218284,
+   "titulo": "Highest temperature in Moscow on November 27?",
+   "dur": 0.278,
+   "gan": 0.57,
+   "neta": 0.26,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795743215998,
+   "titulo": "Highest temperature in Moscow on November 27?",
+   "dur": 1.363,
+   "gan": 0.85,
+   "neta": 0.66,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795743210605,
+   "titulo": "Highest temperature in Moscow on November 27?",
+   "dur": 5.044,
+   "gan": 0.87,
+   "neta": 0.66,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795743061214,
+   "titulo": "CF Pachuca vs. CD Guadalajara",
+   "dur": 1.4,
+   "gan": 0.89,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795742067865,
+   "titulo": "Highest temperature in Beijing on November 27?",
+   "dur": 0.27,
+   "gan": 0.53,
+   "neta": 0.33,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795741695977,
+   "titulo": "CF Pachuca vs. CD Guadalajara",
+   "dur": 3.145,
+   "gan": 0.94,
    "neta": 0,
    "lado": "si"
   }
