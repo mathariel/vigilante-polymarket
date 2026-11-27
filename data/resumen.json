@@ -1,21 +1,21 @@
 {
- "actualizado": 1795737234334,
- "inicio": 1795025306464,
+ "actualizado": 1795740250427,
+ "inicio": 1795028273052,
  "ejecucion": {
-  "inicio": 1795734234096,
-  "fin": 1795737234334,
-  "mensajes": 9208758,
+  "inicio": 1795737250112,
+  "fin": 1795740250427,
+  "mensajes": 9313226,
   "reconexiones": 0,
-  "eventos": 601,
+  "eventos": 564,
   "errores": [],
-  "nuevos": 13,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.52
+  "nuevos": 20,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 8839,
- "falsos": 4937,
+ "total": 8840,
+ "falsos": 4927,
  "largos": {
-  "episodios": 18353,
+  "episodios": 18367,
   "eventos": 155,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3437,
-   "gan": 10567.86,
-   "nNeta": 1088,
-   "neta": 2675.99
+   "n": 3433,
+   "gan": 10567.85,
+   "nNeta": 1072,
+   "neta": 2674.28
   },
   {
    "s": 2,
-   "n": 1540,
-   "gan": 4455.24,
-   "nNeta": 409,
-   "neta": 787.68
+   "n": 1530,
+   "gan": 4451.34,
+   "nNeta": 393,
+   "neta": 785.97
   },
   {
    "s": 5,
-   "n": 845,
-   "gan": 2262.1,
-   "nNeta": 186,
-   "neta": 218.44
+   "n": 831,
+   "gan": 2253.29,
+   "nNeta": 171,
+   "neta": 216.87
   },
   {
    "s": 30,
-   "n": 300,
-   "gan": 705.11,
-   "nNeta": 51,
-   "neta": 44.14
+   "n": 298,
+   "gan": 703.85,
+   "nNeta": 49,
+   "neta": 43.95
   }
  ],
- "rentables": 2469,
+ "rentables": 2451,
  "porCapital": [
   {
    "capital": 500,
    "ops": 133,
-   "descartadas": 354,
+   "descartadas": 338,
    "neta": 261.18,
-   "dias": 8.17,
-   "semana": 223.65
+   "dias": 8.18,
+   "semana": 223.52
   },
   {
    "capital": 1000,
    "ops": 152,
-   "descartadas": 354,
+   "descartadas": 338,
    "neta": 395.13,
-   "dias": 8.17,
-   "semana": 338.35
+   "dias": 8.18,
+   "semana": 338.16
   },
   {
    "capital": 2000,
    "ops": 160,
-   "descartadas": 354,
+   "descartadas": 338,
    "neta": 589.32,
-   "dias": 8.17,
-   "semana": 504.63
+   "dias": 8.18,
+   "semana": 504.35
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 4,
-   "horas": 89.2,
-   "episodios": 4080,
+   "horas": 90,
+   "episodios": 4100,
    "sospechosas": 31,
    "realistaNeta": 547.07,
    "capital": {
@@ -250,37 +250,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8718,
-  "n": 2033,
-  "gan": 5698.58,
-  "nNeta": 531,
-  "neta": 1085.03
+  "conDato": 8719,
+  "n": 2024,
+  "gan": 5695.36,
+  "nNeta": 515,
+  "neta": 1083.32
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2969
+   "n": 2972
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3460
+   "n": 3467
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1554
+   "n": 1559
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 545
+   "n": 533
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 163
+   "n": 161
   },
   {
    "et": "> 5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795467600000,
-   "n": 73
-  },
   {
    "h": 1795471200000,
    "n": 87
@@ -648,127 +644,131 @@
   {
    "h": 1795734000000,
    "n": 13
+  },
+  {
+   "h": 1795737600000,
+   "n": 20
   }
  ],
  "recientes": [
   {
-   "inicio": 1795736921116,
+   "inicio": 1795739730194,
    "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 1.472,
-   "gan": 0.87,
-   "neta": 0.24,
+   "dur": 0.312,
+   "gan": 0.92,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795736918513,
+   "inicio": 1795739675905,
    "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 0.067,
-   "gan": 1.3,
-   "neta": 0.35,
+   "dur": 1.014,
+   "gan": 0.52,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795736878303,
+   "inicio": 1795739675599,
    "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 0.483,
-   "gan": 0.59,
-   "neta": 0.08,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795736871350,
-   "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 0.002,
-   "gan": 0.54,
-   "neta": 0.1,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795736871294,
-   "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 0.053,
+   "dur": 0.135,
    "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795736870764,
+   "inicio": 1795739674797,
    "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 0.527,
-   "gan": 1.49,
-   "neta": 0.53,
+   "dur": 0.714,
+   "gan": 0.56,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795736869082,
+   "inicio": 1795739670527,
    "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 0.007,
-   "gan": 0.51,
-   "neta": 0.04,
+   "dur": 2.086,
+   "gan": 1.72,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795736793860,
-   "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 0.069,
-   "gan": 0.7,
-   "neta": 0.29,
+   "inicio": 1795739562843,
+   "titulo": "OpenAI’s valuation end of November 2026?",
+   "dur": 0.564,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795739327625,
+   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
+   "dur": 4.125,
+   "gan": 0.62,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795736428489,
+   "inicio": 1795739235140,
    "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 0.865,
-   "gan": 1.45,
+   "dur": 1.569,
+   "gan": 0.73,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795736424493,
+   "inicio": 1795739055431,
    "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 2.567,
-   "gan": 0.54,
+   "dur": 0.903,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795738755197,
+   "titulo": "São Paulo FC vs. Clube do Remo",
+   "dur": 0.714,
+   "gan": 0.51,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795736356524,
+   "inicio": 1795738755152,
    "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 0.593,
+   "dur": 0.025,
+   "gan": 1.2,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795738754753,
+   "titulo": "São Paulo FC vs. Clube do Remo",
+   "dur": 0.141,
    "gan": 0.53,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795736356325,
+   "inicio": 1795738754735,
    "titulo": "São Paulo FC vs. Clube do Remo",
-   "dur": 0.091,
-   "gan": 0.54,
+   "dur": 0.009,
+   "gan": 0.5,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795735391555,
-   "titulo": "Lowest temperature in Hong Kong on November 27?",
-   "dur": 0.93,
-   "gan": 0.55,
-   "neta": 0.52,
    "lado": "si"
   },
   {
-   "inicio": 1795730196962,
-   "titulo": "SC Freiburg vs. FC Twente",
-   "dur": 0.912,
-   "gan": 0.97,
-   "neta": 0.81,
+   "inicio": 1795738753571,
+   "titulo": "São Paulo FC vs. Clube do Remo",
+   "dur": 0.831,
+   "gan": 0.5,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795730137293,
-   "titulo": "PFK CSKA Sofia vs. Trabzonspor",
-   "dur": 0.145,
+   "inicio": 1795738750462,
+   "titulo": "São Paulo FC vs. Clube do Remo",
+   "dur": 0.039,
    "gan": 0.52,
-   "neta": 0.11,
+   "neta": 0,
    "lado": "si"
   }
  ]
