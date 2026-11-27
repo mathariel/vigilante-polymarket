@@ -1,21 +1,21 @@
 {
- "actualizado": 1795764362969,
+ "actualizado": 1795767378757,
  "inicio": 1795040388826,
  "ejecucion": {
-  "inicio": 1795761362610,
-  "fin": 1795764362969,
-  "mensajes": 9874191,
+  "inicio": 1795764378414,
+  "fin": 1795767378757,
+  "mensajes": 9831762,
   "reconexiones": 0,
-  "eventos": 582,
+  "eventos": 588,
   "errores": [],
   "nuevos": 1,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.5
  },
- "total": 8824,
- "falsos": 4951,
+ "total": 8825,
+ "falsos": 4955,
  "largos": {
-  "episodios": 18391,
+  "episodios": 18388,
   "eventos": 157,
   "dias": 7
  },
@@ -27,24 +27,24 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3421,
-   "gan": 10357.09,
-   "nNeta": 1083,
-   "neta": 2710.58
+   "n": 3422,
+   "gan": 10357.63,
+   "nNeta": 1084,
+   "neta": 2711.08
   },
   {
    "s": 2,
-   "n": 1515,
-   "gan": 4438.76,
-   "nNeta": 400,
-   "neta": 789.37
+   "n": 1516,
+   "gan": 4439.3,
+   "nNeta": 401,
+   "neta": 789.87
   },
   {
    "s": 5,
-   "n": 813,
-   "gan": 2236.09,
-   "nNeta": 174,
-   "neta": 218.83
+   "n": 814,
+   "gan": 2236.63,
+   "nNeta": 175,
+   "neta": 219.33
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 43.93
   }
  ],
- "rentables": 2474,
+ "rentables": 2475,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 140,
+   "ops": 141,
    "descartadas": 340,
-   "neta": 266.83,
-   "dias": 8.35,
-   "semana": 223.79
+   "neta": 267.33,
+   "dias": 8.38,
+   "semana": 223.27
   },
   {
    "capital": 1000,
-   "ops": 159,
+   "ops": 160,
    "descartadas": 340,
-   "neta": 400.78,
-   "dias": 8.35,
-   "semana": 336.13
+   "neta": 401.28,
+   "dias": 8.38,
+   "semana": 335.15
   },
   {
    "capital": 2000,
-   "ops": 167,
+   "ops": 168,
    "descartadas": 340,
-   "neta": 594.97,
-   "dias": 8.35,
-   "semana": 498.99
+   "neta": 595.47,
+   "dias": 8.38,
+   "semana": 497.33
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 96.7,
-   "episodios": 4182,
+   "horas": 97.5,
+   "episodios": 4183,
    "sospechosas": 34,
-   "realistaNeta": 552.95,
+   "realistaNeta": 553.45,
    "capital": {
-    "500": 100.59,
-    "1000": 143.35,
-    "2000": 231.8
+    "500": 101.09,
+    "1000": 143.85,
+    "2000": 232.3
    },
    "cumple": true
   }
@@ -250,11 +250,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8704,
-  "n": 2009,
-  "gan": 5677.41,
-  "nNeta": 524,
-  "neta": 1089.11
+  "conDato": 8705,
+  "n": 2010,
+  "gan": 5677.95,
+  "nNeta": 525,
+  "neta": 1089.61
  },
  "duraciones": [
   {
@@ -275,7 +275,7 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 521
+   "n": 522
   },
   {
    "et": "30 s–5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795492800000,
-   "n": 63
-  },
   {
    "h": 1795496400000,
    "n": 4
@@ -648,9 +644,21 @@
   {
    "h": 1795759200000,
    "n": 2
+  },
+  {
+   "h": 1795762800000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795764475960,
+   "titulo": "Highest temperature in Chengdu on November 27?",
+   "dur": 6.994,
+   "gan": 0.67,
+   "neta": 0.63,
+   "lado": "si"
+  },
   {
    "inicio": 1795762627374,
    "titulo": "Anthropic’s valuation end of November 2026?",
@@ -761,14 +769,6 @@
    "dur": 1.973,
    "gan": 0.72,
    "neta": 0.63,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795753576069,
-   "titulo": "Highest temperature in Taipei on November 27?",
-   "dur": 0.85,
-   "gan": 2.78,
-   "neta": 2.62,
    "lado": "si"
   }
  ]
