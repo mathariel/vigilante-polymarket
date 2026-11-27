@@ -1,21 +1,21 @@
 {
- "actualizado": 1795767378757,
+ "actualizado": 1795770398887,
  "inicio": 1795040388826,
  "ejecucion": {
-  "inicio": 1795764378414,
-  "fin": 1795767378757,
-  "mensajes": 9831762,
+  "inicio": 1795767398532,
+  "fin": 1795770398887,
+  "mensajes": 9808226,
   "reconexiones": 0,
-  "eventos": 588,
+  "eventos": 601,
   "errores": [],
-  "nuevos": 1,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.5
+  "nuevos": 7,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 8825,
+ "total": 8832,
  "falsos": 4955,
  "largos": {
-  "episodios": 18388,
+  "episodios": 18383,
   "eventos": 157,
   "dias": 7
  },
@@ -27,22 +27,22 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3422,
-   "gan": 10357.63,
+   "n": 3423,
+   "gan": 10358.51,
    "nNeta": 1084,
    "neta": 2711.08
   },
   {
    "s": 2,
-   "n": 1516,
-   "gan": 4439.3,
+   "n": 1517,
+   "gan": 4440.18,
    "nNeta": 401,
    "neta": 789.87
   },
   {
    "s": 5,
-   "n": 814,
-   "gan": 2236.63,
+   "n": 815,
+   "gan": 2237.51,
    "nNeta": 175,
    "neta": 219.33
   },
@@ -54,31 +54,31 @@
    "neta": 43.93
   }
  ],
- "rentables": 2475,
+ "rentables": 2479,
  "porCapital": [
   {
    "capital": 500,
    "ops": 141,
    "descartadas": 340,
    "neta": 267.33,
-   "dias": 8.38,
-   "semana": 223.27
+   "dias": 8.42,
+   "semana": 222.35
   },
   {
    "capital": 1000,
    "ops": 160,
    "descartadas": 340,
    "neta": 401.28,
-   "dias": 8.38,
-   "semana": 335.15
+   "dias": 8.42,
+   "semana": 333.76
   },
   {
    "capital": 2000,
    "ops": 168,
    "descartadas": 340,
    "neta": 595.47,
-   "dias": 8.38,
-   "semana": 497.33
+   "dias": 8.42,
+   "semana": 495.27
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 97.5,
-   "episodios": 4183,
+   "horas": 98.3,
+   "episodios": 4190,
    "sospechosas": 34,
    "realistaNeta": 553.45,
    "capital": {
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8705,
-  "n": 2010,
-  "gan": 5677.95,
+  "conDato": 8712,
+  "n": 2011,
+  "gan": 5678.83,
   "nNeta": 525,
   "neta": 1089.61
  },
@@ -260,12 +260,12 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2966
+   "n": 2968
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3469
+   "n": 3473
   },
   {
    "et": "1–5 s",
@@ -275,7 +275,7 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 522
+   "n": 523
   },
   {
    "et": "30 s–5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795496400000,
-   "n": 4
-  },
   {
    "h": 1795500000000,
    "n": 2
@@ -648,9 +644,69 @@
   {
    "h": 1795762800000,
    "n": 1
+  },
+  {
+   "h": 1795766400000,
+   "n": 7
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795769542491,
+   "titulo": "Highest temperature in Karachi on November 27?",
+   "dur": 0.08,
+   "gan": 1.05,
+   "neta": 0.92,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795769103538,
+   "titulo": "Jong FC Utrecht vs. Almere City FC",
+   "dur": 5.217,
+   "gan": 0.88,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795769067857,
+   "titulo": "Macarthur FC vs. Melbourne City FC",
+   "dur": 0.26,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795769067617,
+   "titulo": "Macarthur FC vs. Melbourne City FC",
+   "dur": 0.004,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795768871945,
+   "titulo": "Highest temperature in NYC on November 27?",
+   "dur": 0.286,
+   "gan": 0.65,
+   "neta": 0.59,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795768181751,
+   "titulo": "Highest temperature in Paris on November 27?",
+   "dur": 0.379,
+   "gan": 1.54,
+   "neta": 1.2,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795768181370,
+   "titulo": "Highest temperature in Paris on November 27?",
+   "dur": 0.372,
+   "gan": 5.74,
+   "neta": 5.23,
+   "lado": "si"
+  },
   {
    "inicio": 1795764475960,
    "titulo": "Highest temperature in Chengdu on November 27?",
@@ -713,62 +769,6 @@
    "dur": 10.497,
    "gan": 0.68,
    "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795756302872,
-   "titulo": "Alphabet’s Market Cap end of November 2026?",
-   "dur": 65.928,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795756293346,
-   "titulo": "Alphabet’s Market Cap end of November 2026?",
-   "dur": 3.336,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795756293293,
-   "titulo": "Alphabet’s Market Cap end of November 2026?",
-   "dur": 0.033,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795756293242,
-   "titulo": "Alphabet’s Market Cap end of November 2026?",
-   "dur": 0.019,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795753820026,
-   "titulo": "Club León FC vs. CF Cruz Azul",
-   "dur": 0.619,
-   "gan": 1.48,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795753614688,
-   "titulo": "Highest temperature in Taipei on November 27?",
-   "dur": 3.9,
-   "gan": 0.93,
-   "neta": 0.84,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795753609416,
-   "titulo": "Highest temperature in Taipei on November 27?",
-   "dur": 1.973,
-   "gan": 0.72,
-   "neta": 0.63,
    "lado": "si"
   }
  ]
