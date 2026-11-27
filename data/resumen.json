@@ -1,27 +1,27 @@
 {
- "actualizado": 1795761350043,
+ "actualizado": 1795764362969,
  "inicio": 1795040388826,
  "ejecucion": {
-  "inicio": 1795758349699,
-  "fin": 1795761350043,
-  "mensajes": 9714801,
+  "inicio": 1795761362610,
+  "fin": 1795764362969,
+  "mensajes": 9874191,
   "reconexiones": 0,
-  "eventos": 583,
+  "eventos": 582,
   "errores": [],
   "nuevos": 1,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 8823,
- "falsos": 4950,
+ "total": 8824,
+ "falsos": 4951,
  "largos": {
   "episodios": 18391,
   "eventos": 157,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 60,
-  "eventos": 28
+  "episodios": 61,
+  "eventos": 29
  },
  "mediana": 0.242,
  "captura": [
@@ -54,31 +54,31 @@
    "neta": 43.93
   }
  ],
- "rentables": 2473,
+ "rentables": 2474,
  "porCapital": [
   {
    "capital": 500,
    "ops": 140,
    "descartadas": 340,
    "neta": 266.83,
-   "dias": 8.31,
-   "semana": 224.73
+   "dias": 8.35,
+   "semana": 223.79
   },
   {
    "capital": 1000,
    "ops": 159,
    "descartadas": 340,
    "neta": 400.78,
-   "dias": 8.31,
-   "semana": 337.54
+   "dias": 8.35,
+   "semana": 336.13
   },
   {
    "capital": 2000,
    "ops": 167,
    "descartadas": 340,
    "neta": 594.97,
-   "dias": 8.31,
-   "semana": 501.09
+   "dias": 8.35,
+   "semana": 498.99
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 95.8,
-   "episodios": 4181,
+   "horas": 96.7,
+   "episodios": 4182,
    "sospechosas": 34,
    "realistaNeta": 552.95,
    "capital": {
@@ -250,7 +250,7 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8703,
+  "conDato": 8704,
   "n": 2009,
   "gan": 5677.41,
   "nNeta": 524,
@@ -265,7 +265,7 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3468
+   "n": 3469
   },
   {
    "et": "1–5 s",
@@ -647,10 +647,18 @@
   },
   {
    "h": 1795759200000,
-   "n": 1
+   "n": 2
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795762627374,
+   "titulo": "Anthropic’s valuation end of November 2026?",
+   "dur": 0.158,
+   "gan": 1.26,
+   "neta": 0.1,
+   "lado": "no"
+  },
   {
    "inicio": 1795761003549,
    "titulo": "Highest temperature in Guangzhou on November 27?",
@@ -761,14 +769,6 @@
    "dur": 0.85,
    "gan": 2.78,
    "neta": 2.62,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795750860049,
-   "titulo": "Club León FC vs. CF Cruz Azul",
-   "dur": 0.829,
-   "gan": 1.1,
-   "neta": 0,
    "lado": "si"
   }
  ]
