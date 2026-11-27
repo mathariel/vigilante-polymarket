@@ -1,21 +1,21 @@
 {
- "actualizado": 1795794538026,
- "inicio": 1795052471128,
+ "actualizado": 1795797553050,
+ "inicio": 1795055487086,
  "ejecucion": {
-  "inicio": 1795791537695,
-  "fin": 1795794538026,
-  "mensajes": 5846767,
-  "reconexiones": 2,
-  "eventos": 648,
+  "inicio": 1795794552654,
+  "fin": 1795797553050,
+  "mensajes": 8915329,
+  "reconexiones": 0,
+  "eventos": 633,
   "errores": [],
-  "nuevos": 15,
-  "nuevosRentables": 1,
-  "nuevosNeta": 1.86
+  "nuevos": 13,
+  "nuevosRentables": 2,
+  "nuevosNeta": 8.35
  },
- "total": 8983,
- "falsos": 5095,
+ "total": 8972,
+ "falsos": 5093,
  "largos": {
-  "episodios": 18115,
+  "episodios": 18131,
   "eventos": 155,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 60,
   "eventos": 28
  },
- "mediana": 0.245,
+ "mediana": 0.247,
  "captura": [
   {
    "s": 0.5,
-   "n": 3504,
-   "gan": 11612.9,
-   "nNeta": 1139,
-   "neta": 3331.39
+   "n": 3512,
+   "gan": 11632.48,
+   "nNeta": 1141,
+   "neta": 3339.74
   },
   {
    "s": 2,
-   "n": 1566,
-   "gan": 5214.51,
-   "nNeta": 426,
-   "neta": 1204.42
+   "n": 1575,
+   "gan": 5223.71,
+   "nNeta": 427,
+   "neta": 1206.51
   },
   {
    "s": 5,
-   "n": 842,
-   "gan": 2580.01,
+   "n": 850,
+   "gan": 2586.69,
    "nNeta": 185,
    "neta": 372.87
   },
   {
    "s": 30,
-   "n": 307,
-   "gan": 740.34,
+   "n": 313,
+   "gan": 744.08,
    "nNeta": 50,
    "neta": 54.84
   }
  ],
- "rentables": 2591,
+ "rentables": 2592,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 141,
+   "ops": 143,
    "descartadas": 349,
-   "neta": 234.86,
-   "dias": 8.53,
-   "semana": 192.72
+   "neta": 238.74,
+   "dias": 8.54,
+   "semana": 195.61
   },
   {
    "capital": 1000,
-   "ops": 160,
+   "ops": 162,
    "descartadas": 349,
-   "neta": 374.86,
-   "dias": 8.53,
-   "semana": 307.6
+   "neta": 378.74,
+   "dias": 8.54,
+   "semana": 310.31
   },
   {
    "capital": 2000,
-   "ops": 170,
+   "ops": 172,
    "descartadas": 349,
-   "neta": 592.12,
-   "dias": 8.53,
-   "semana": 485.88
+   "neta": 596,
+   "dias": 8.54,
+   "semana": 488.32
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 105,
-   "episodios": 4540,
+   "horas": 105.8,
+   "episodios": 4553,
    "sospechosas": 47,
-   "realistaNeta": 877.37,
+   "realistaNeta": 885.72,
    "capital": {
-    "500": 104.12,
-    "1000": 153.33,
-    "2000": 264.85
+    "500": 108.01,
+    "1000": 157.21,
+    "2000": 268.74
    },
    "cumple": true
   }
@@ -250,58 +250,58 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8858,
-  "n": 2067,
-  "gan": 6332.03,
-  "nNeta": 552,
-  "neta": 1376.12
+  "conDato": 8847,
+  "n": 2075,
+  "gan": 6351.61,
+  "nNeta": 554,
+  "neta": 1384.47
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2986
+   "n": 2974
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3544
+   "n": 3535
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1599
+   "n": 1601
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 535
+   "n": 537
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 159
+   "n": 164
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 148
+   "n": 149
   }
  ],
  "porEvento": [
   {
    "titulo": "Elon Musk Net Worth on November 30?",
-   "n": 1183,
-   "gan": 839.06,
+   "n": 1193,
+   "gan": 845.52,
    "neta": 0.84,
    "mediana": 0.089
   },
   {
    "titulo": "Bitcoin price on November 19?",
-   "n": 179,
-   "gan": 124.38,
+   "n": 156,
+   "gan": 108.58,
    "neta": 0,
-   "mediana": 0.099
+   "mediana": 0.107
   },
   {
    "titulo": "Sporting CP vs. Manchester United FC",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795525200000,
-   "n": 4
-  },
   {
    "h": 1795528800000,
    "n": 7
@@ -647,10 +643,118 @@
   },
   {
    "h": 1795791600000,
-   "n": 15
+   "n": 17
+  },
+  {
+   "h": 1795795200000,
+   "n": 11
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795797357185,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 195.472,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795796964338,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 386.423,
+   "gan": 0.83,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795796942931,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 21.343,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795796801495,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 82.94,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795796567382,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 211.461,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795796565840,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 0.429,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795796441245,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 103.068,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795796295127,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 124.261,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795796286502,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 8.04,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795796267377,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 1.553,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795795923817,
+   "titulo": "FK IMT Novi Beograd vs. FK Macva Sabac",
+   "dur": 1.587,
+   "gan": 11.8,
+   "neta": 6.37,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795794882724,
+   "titulo": "Inter Kashi FC vs. Churchill Brothers SC",
+   "dur": 2.43,
+   "gan": 2.93,
+   "neta": 2.44,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795794686505,
+   "titulo": "FC Emmen vs. Helmond Sport",
+   "dur": 15.456,
+   "gan": 2.25,
+   "neta": 0,
+   "lado": "no"
+  },
   {
    "inicio": 1795794443939,
    "titulo": "FC Emmen vs. Helmond Sport - Halftime Result",
@@ -665,110 +769,6 @@
    "dur": 0.009,
    "gan": 0.82,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795793846045,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 0.106,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795793845418,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 0.568,
-   "gan": 0.92,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795793843935,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 0.812,
-   "gan": 0.92,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795793843557,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 0.037,
-   "gan": 0.8,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795793841654,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 0.701,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795793841506,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 0.088,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795793841299,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 0.106,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795793840563,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 0.014,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795793172359,
-   "titulo": "Levante UD vs. Real Racing Club",
-   "dur": 68.92,
-   "gan": 12.59,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795793188528,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": -0.716,
-   "gan": 0.5,
-   "neta": 0.34,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795793185212,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 3.164,
-   "gan": 2.79,
-   "neta": 1.81,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795793136199,
-   "titulo": "Highest temperature in Busan on November 28?",
-   "dur": 0.189,
-   "gan": 1.08,
-   "neta": 0.87,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795791659056,
-   "titulo": "Lowest temperature in Beijing on November 27?",
-   "dur": 0.991,
-   "gan": 5.18,
-   "neta": 5.13,
    "lado": "si"
   }
  ]
