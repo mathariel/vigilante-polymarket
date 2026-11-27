@@ -1,84 +1,84 @@
 {
- "actualizado": 1795743266154,
- "inicio": 1795031320936,
+ "actualizado": 1795746280142,
+ "inicio": 1795037387324,
  "ejecucion": {
-  "inicio": 1795740265814,
-  "fin": 1795743266154,
-  "mensajes": 9455922,
+  "inicio": 1795743279860,
+  "fin": 1795746280142,
+  "mensajes": 9406584,
   "reconexiones": 0,
-  "eventos": 575,
+  "eventos": 581,
   "errores": [],
-  "nuevos": 30,
-  "nuevosRentables": 5,
-  "nuevosNeta": 4.18
+  "nuevos": 22,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 8849,
- "falsos": 4945,
+ "total": 8820,
+ "falsos": 4932,
  "largos": {
-  "episodios": 18346,
-  "eventos": 155,
+  "episodios": 18393,
+  "eventos": 156,
   "dias": 7
  },
  "enEspera": {
   "episodios": 59,
   "eventos": 27
  },
- "mediana": 0.242,
+ "mediana": 0.241,
  "captura": [
   {
    "s": 0.5,
-   "n": 3431,
-   "gan": 10613.54,
-   "nNeta": 1078,
-   "neta": 2718.42
+   "n": 3413,
+   "gan": 10346.84,
+   "nNeta": 1074,
+   "neta": 2705.99
   },
   {
    "s": 2,
-   "n": 1526,
-   "gan": 4450.16,
-   "nNeta": 396,
-   "neta": 787.74
+   "n": 1510,
+   "gan": 4433.71,
+   "nNeta": 394,
+   "neta": 787.65
   },
   {
    "s": 5,
-   "n": 824,
-   "gan": 2248.02,
-   "nNeta": 173,
-   "neta": 217.98
+   "n": 813,
+   "gan": 2235.69,
+   "nNeta": 171,
+   "neta": 217.89
   },
   {
    "s": 30,
-   "n": 292,
-   "gan": 699.72,
-   "nNeta": 49,
-   "neta": 43.95
+   "n": 290,
+   "gan": 696.7,
+   "nNeta": 48,
+   "neta": 43.91
   }
  ],
- "rentables": 2468,
+ "rentables": 2462,
  "porCapital": [
   {
    "capital": 500,
    "ops": 138,
-   "descartadas": 338,
+   "descartadas": 336,
    "neta": 265.36,
-   "dias": 8.16,
-   "semana": 227.67
+   "dias": 8.14,
+   "semana": 228.09
   },
   {
    "capital": 1000,
    "ops": 157,
-   "descartadas": 338,
+   "descartadas": 336,
    "neta": 399.31,
-   "dias": 8.16,
-   "semana": 342.59
+   "dias": 8.14,
+   "semana": 343.23
   },
   {
    "capital": 2000,
    "ops": 165,
-   "descartadas": 338,
+   "descartadas": 336,
    "neta": 593.5,
-   "dias": 8.16,
-   "semana": 509.19
+   "dias": 8.14,
+   "semana": 510.14
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 4,
-   "horas": 90.8,
-   "episodios": 4130,
+   "horas": 91.7,
+   "episodios": 4152,
    "sospechosas": 32,
    "realistaNeta": 551.25,
    "capital": {
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 120,
+  "n": 118,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,37 +250,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8729,
-  "n": 2020,
-  "gan": 5688.52,
-  "nNeta": 520,
-  "neta": 1087.5
+  "conDato": 8702,
+  "n": 2003,
+  "gan": 5671.36,
+  "nNeta": 518,
+  "neta": 1087.41
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2975
+   "n": 2969
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3477
+   "n": 3470
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1562
+   "n": 1557
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 532
+   "n": 523
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 156
+   "n": 154
   },
   {
    "et": "> 5 min",
@@ -346,25 +346,21 @@
    "mediana": 0.574
   },
   {
-   "titulo": "Coritiba FBC vs. Santos FC",
-   "n": 109,
-   "gan": 169.52,
-   "neta": 52.38,
-   "mediana": 0.229
-  },
-  {
    "titulo": "SK Slavia Praha vs. Villarreal CF",
    "n": 108,
    "gan": 135.16,
    "neta": 5.69,
    "mediana": 0.204
+  },
+  {
+   "titulo": "SC Internacional vs. EC Vitória",
+   "n": 97,
+   "gan": 158.07,
+   "neta": 5.46,
+   "mediana": 0.098
   }
  ],
  "porHora": [
-  {
-   "h": 1795474800000,
-   "n": 85
-  },
   {
    "h": 1795478400000,
    "n": 52
@@ -647,127 +643,131 @@
   },
   {
    "h": 1795741200000,
-   "n": 15
+   "n": 24
+  },
+  {
+   "h": 1795744800000,
+   "n": 13
   }
  ],
  "recientes": [
   {
-   "inicio": 1795743225740,
-   "titulo": "Highest temperature in Moscow on November 27?",
-   "dur": 10.711,
-   "gan": 0.56,
-   "neta": 0.45,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795743225715,
-   "titulo": "Highest temperature in Moscow on November 27?",
-   "dur": 0.014,
-   "gan": 0.59,
-   "neta": 0.48,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795743222803,
-   "titulo": "Highest temperature in Moscow on November 27?",
-   "dur": 2.864,
-   "gan": 1.19,
-   "neta": 0.85,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795743222479,
-   "titulo": "Highest temperature in Moscow on November 27?",
-   "dur": 0.009,
-   "gan": 7.6,
-   "neta": 7.06,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795743220794,
-   "titulo": "Highest temperature in Moscow on November 27?",
-   "dur": 1.679,
-   "gan": 1.94,
-   "neta": 1.51,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795743220482,
-   "titulo": "Highest temperature in Moscow on November 27?",
-   "dur": 0.277,
-   "gan": 0.57,
-   "neta": 0.26,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795743219224,
-   "titulo": "Highest temperature in Moscow on November 27?",
-   "dur": 0.276,
-   "gan": 5.63,
-   "neta": 5.05,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795743218911,
-   "titulo": "Highest temperature in Moscow on November 27?",
-   "dur": 0.275,
-   "gan": 3.63,
-   "neta": 3.12,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795743218598,
-   "titulo": "Highest temperature in Moscow on November 27?",
-   "dur": 0.28,
-   "gan": 1.94,
-   "neta": 1.51,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795743218284,
-   "titulo": "Highest temperature in Moscow on November 27?",
-   "dur": 0.278,
-   "gan": 0.57,
-   "neta": 0.26,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795743215998,
-   "titulo": "Highest temperature in Moscow on November 27?",
-   "dur": 1.363,
-   "gan": 0.85,
-   "neta": 0.66,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795743210605,
-   "titulo": "Highest temperature in Moscow on November 27?",
-   "dur": 5.044,
-   "gan": 0.87,
-   "neta": 0.66,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795743061214,
+   "inicio": 1795746087950,
    "titulo": "CF Pachuca vs. CD Guadalajara",
-   "dur": 1.4,
+   "dur": 0.42,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795745879562,
+   "titulo": "CF Pachuca vs. CD Guadalajara",
+   "dur": 0.824,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795745873424,
+   "titulo": "CF Pachuca vs. CD Guadalajara",
+   "dur": 0.718,
    "gan": 0.89,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795745873140,
+   "titulo": "CF Pachuca vs. CD Guadalajara",
+   "dur": 0.204,
+   "gan": 0.54,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795745872872,
+   "titulo": "CF Pachuca vs. CD Guadalajara",
+   "dur": 0.004,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795745872064,
+   "titulo": "CF Pachuca vs. CD Guadalajara",
+   "dur": 0.212,
+   "gan": 1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795745869427,
+   "titulo": "CF Pachuca vs. CD Guadalajara",
+   "dur": 0.984,
+   "gan": 1.02,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795745868966,
+   "titulo": "CF Pachuca vs. CD Guadalajara",
+   "dur": 0.346,
+   "gan": 1.02,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795745859344,
+   "titulo": "CF Pachuca vs. CD Guadalajara",
+   "dur": 1.194,
+   "gan": 0.74,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795742067865,
-   "titulo": "Highest temperature in Beijing on November 27?",
-   "dur": 0.27,
-   "gan": 0.53,
-   "neta": 0.33,
+   "inicio": 1795745858843,
+   "titulo": "CF Pachuca vs. CD Guadalajara",
+   "dur": 0.078,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795745852021,
+   "titulo": "CF Pachuca vs. CD Guadalajara",
+   "dur": 0.271,
+   "gan": 1.42,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795741695977,
+   "inicio": 1795745851804,
    "titulo": "CF Pachuca vs. CD Guadalajara",
-   "dur": 3.145,
-   "gan": 0.94,
+   "dur": 0.137,
+   "gan": 1.2,
+   "neta": 0.2,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795745091266,
+   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
+   "dur": 0.023,
+   "gan": 2.58,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795744465107,
+   "titulo": "CF Pachuca vs. CD Guadalajara",
+   "dur": 1.482,
+   "gan": 1.01,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795744458693,
+   "titulo": "CF Pachuca vs. CD Guadalajara",
+   "dur": 5.147,
+   "gan": 2.08,
    "neta": 0,
    "lado": "si"
   }
