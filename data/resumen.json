@@ -1,84 +1,84 @@
 {
- "actualizado": 1795803586147,
+ "actualizado": 1795806600216,
  "inicio": 1795058457184,
  "ejecucion": {
-  "inicio": 1795800585881,
-  "fin": 1795803586147,
-  "mensajes": 11140121,
-  "reconexiones": 1,
-  "eventos": 638,
+  "inicio": 1795803599863,
+  "fin": 1795806600216,
+  "mensajes": 12289995,
+  "reconexiones": 0,
+  "eventos": 644,
   "errores": [],
-  "nuevos": 34,
-  "nuevosRentables": 1,
-  "nuevosNeta": 3.11
+  "nuevos": 46,
+  "nuevosRentables": 4,
+  "nuevosNeta": 6.73
  },
- "total": 8956,
- "falsos": 5118,
+ "total": 8940,
+ "falsos": 5135,
  "largos": {
   "episodios": 18129,
   "eventos": 155,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 60,
-  "eventos": 28
+  "episodios": 64,
+  "eventos": 31
  },
- "mediana": 0.25,
+ "mediana": 0.254,
  "captura": [
   {
    "s": 0.5,
-   "n": 3531,
-   "gan": 12215.32,
-   "nNeta": 1149,
-   "neta": 3352.23
+   "n": 3547,
+   "gan": 12257.17,
+   "nNeta": 1161,
+   "neta": 3369.7
   },
   {
    "s": 2,
-   "n": 1579,
-   "gan": 5751.83,
-   "nNeta": 428,
-   "neta": 1209.62
+   "n": 1584,
+   "gan": 5758.04,
+   "nNeta": 431,
+   "neta": 1211.12
   },
   {
    "s": 5,
-   "n": 856,
-   "gan": 3102.56,
-   "nNeta": 185,
-   "neta": 372.87
+   "n": 861,
+   "gan": 3106.51,
+   "nNeta": 187,
+   "neta": 374.21
   },
   {
    "s": 30,
-   "n": 318,
-   "gan": 1260.14,
+   "n": 321,
+   "gan": 1262.23,
    "nNeta": 50,
    "neta": 54.84
   }
  ],
- "rentables": 2605,
+ "rentables": 2637,
  "porCapital": [
   {
    "capital": 500,
    "ops": 143,
-   "descartadas": 349,
+   "descartadas": 350,
    "neta": 238.74,
-   "dias": 8.61,
-   "semana": 194.06
+   "dias": 8.65,
+   "semana": 193.29
   },
   {
    "capital": 1000,
    "ops": 162,
-   "descartadas": 349,
+   "descartadas": 350,
    "neta": 378.74,
-   "dias": 8.61,
-   "semana": 307.86
+   "dias": 8.65,
+   "semana": 306.64
   },
   {
    "capital": 2000,
    "ops": 172,
-   "descartadas": 349,
+   "descartadas": 350,
    "neta": 596,
-   "dias": 8.61,
-   "semana": 484.46
+   "dias": 8.65,
+   "semana": 482.55
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 107.5,
-   "episodios": 4610,
-   "sospechosas": 49,
-   "realistaNeta": 888.83,
+   "horas": 108.3,
+   "episodios": 4657,
+   "sospechosas": 51,
+   "realistaNeta": 895.56,
    "capital": {
     "500": 108.01,
     "1000": 157.21,
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 127,
+  "n": 129,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,32 +250,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8829,
-  "n": 2078,
-  "gan": 6880.55,
-  "nNeta": 555,
-  "neta": 1387.58
+  "conDato": 8811,
+  "n": 2082,
+  "gan": 6894.83,
+  "nNeta": 559,
+  "neta": 1394.31
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2945
+   "n": 2927
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3540
+   "n": 3531
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1603
+   "n": 1609
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 538
+   "n": 540
   },
   {
    "et": "30 s–5 min",
@@ -285,14 +285,14 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 153
+   "n": 156
   }
  ],
  "porEvento": [
   {
    "titulo": "Elon Musk Net Worth on November 30?",
-   "n": 1207,
-   "gan": 853.89,
+   "n": 1209,
+   "gan": 855.36,
    "neta": 0.84,
    "mediana": 0.089
   },
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795536000000,
-   "n": 11
-  },
   {
    "h": 1795539600000,
    "n": 5
@@ -647,128 +643,132 @@
   },
   {
    "h": 1795802400000,
-   "n": 20
+   "n": 65
+  },
+  {
+   "h": 1795806000000,
+   "n": 2
   }
  ],
  "recientes": [
   {
-   "inicio": 1795802226391,
+   "inicio": 1795806173956,
    "titulo": "Elon Musk Net Worth on November 30?",
-   "dur": 1359.493,
-   "gan": 0.53,
+   "dur": 425.911,
+   "gan": 0.67,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795803455380,
-   "titulo": "Umraniyespor vs. Manisa Futbol Kulubu",
-   "dur": 0.806,
-   "gan": 0.93,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795803453697,
-   "titulo": "Umraniyespor vs. Manisa Futbol Kulubu",
-   "dur": 0.581,
-   "gan": 0.93,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795803282944,
-   "titulo": "Çaykur Rizespor vs. Kasımpaşa SK",
-   "dur": 0.569,
-   "gan": 3.24,
-   "neta": 0.07,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795803253334,
-   "titulo": "Umraniyespor vs. Manisa Futbol Kulubu",
-   "dur": 0.81,
-   "gan": 5.18,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795803245538,
-   "titulo": "Umraniyespor vs. Manisa Futbol Kulubu",
-   "dur": 0.255,
-   "gan": 0.72,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795803241757,
-   "titulo": "Umraniyespor vs. Manisa Futbol Kulubu",
-   "dur": 3.488,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795803239954,
-   "titulo": "Umraniyespor vs. Manisa Futbol Kulubu",
-   "dur": 0.776,
-   "gan": 3.76,
-   "neta": 2.23,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795803236903,
-   "titulo": "Umraniyespor vs. Manisa Futbol Kulubu",
-   "dur": 2.513,
-   "gan": 5.03,
-   "neta": 1.62,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795803210132,
-   "titulo": "Alanyaspor vs. Konyaspor",
-   "dur": 0.994,
-   "gan": 1.16,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795803152847,
-   "titulo": "Çaykur Rizespor vs. Kasımpaşa SK",
-   "dur": 0.23,
-   "gan": 0.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795803132932,
-   "titulo": "SK Artis Brno vs. 1. FC Slovácko",
-   "dur": 0.569,
-   "gan": 4.11,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795803132725,
-   "titulo": "SK Artis Brno vs. 1. FC Slovácko",
-   "dur": 0.192,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795803098358,
-   "titulo": "SK Artis Brno vs. 1. FC Slovácko",
-   "dur": 0.003,
-   "gan": 0.87,
-   "neta": 0.01,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795803098222,
-   "titulo": "SK Artis Brno vs. 1. FC Slovácko",
-   "dur": 0.068,
+   "inicio": 1795804369136,
+   "titulo": "Spain General Election: PNV # of seats?",
+   "dur": 2230.731,
    "gan": 0.62,
-   "neta": 0.01,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795806126792,
+   "titulo": "VVV Venlo vs. RKC Waalwijk",
+   "dur": 1.034,
+   "gan": 0.5,
+   "neta": 0.47,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795803435148,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 2447.545,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795805683436,
+   "titulo": "1. FC Heidenheim vs. 1. FC Nürnberg",
+   "dur": 0.926,
+   "gan": 1.04,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795805667804,
+   "titulo": "1. FC Heidenheim vs. 1. FC Nürnberg",
+   "dur": 2.519,
+   "gan": 2.27,
+   "neta": 0.16,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795805624952,
+   "titulo": "Umraniyespor vs. Manisa Futbol Kulubu",
+   "dur": 0.912,
+   "gan": 5.33,
+   "neta": 4.03,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795805624881,
+   "titulo": "Umraniyespor vs. Manisa Futbol Kulubu",
+   "dur": 0.051,
+   "gan": 0.6,
+   "neta": 0.54,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795805559942,
+   "titulo": "Çaykur Rizespor vs. Kasımpaşa SK",
+   "dur": 7.212,
+   "gan": 0.83,
+   "neta": 0.6,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795805544078,
+   "titulo": "Çaykur Rizespor vs. Kasımpaşa SK",
+   "dur": 7.501,
+   "gan": 1.03,
+   "neta": 0.74,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795805487695,
+   "titulo": "Grazer AK 1902 vs. SCR Altach",
+   "dur": 0.849,
+   "gan": 1.09,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795805394165,
+   "titulo": "1. FC Heidenheim vs. 1. FC Nürnberg",
+   "dur": 1.001,
+   "gan": 2.06,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795805385706,
+   "titulo": "Umraniyespor vs. Manisa Futbol Kulubu",
+   "dur": 0.03,
+   "gan": 0.52,
+   "neta": 0.25,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795805385612,
+   "titulo": "Umraniyespor vs. Manisa Futbol Kulubu",
+   "dur": 0.037,
+   "gan": 0.52,
+   "neta": 0.25,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795805385370,
+   "titulo": "Umraniyespor vs. Manisa Futbol Kulubu",
+   "dur": 0.24,
+   "gan": 0.52,
+   "neta": 0.25,
    "lado": "si"
   }
  ]
