@@ -1,21 +1,21 @@
 {
- "actualizado": 1795797553050,
- "inicio": 1795055487086,
+ "actualizado": 1795800571611,
+ "inicio": 1795058457184,
  "ejecucion": {
-  "inicio": 1795794552654,
-  "fin": 1795797553050,
-  "mensajes": 8915329,
+  "inicio": 1795797571255,
+  "fin": 1795800571611,
+  "mensajes": 10522341,
   "reconexiones": 0,
-  "eventos": 633,
+  "eventos": 626,
   "errores": [],
-  "nuevos": 13,
-  "nuevosRentables": 2,
-  "nuevosNeta": 8.35
+  "nuevos": 22,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 8972,
- "falsos": 5093,
+ "total": 8963,
+ "falsos": 5099,
  "largos": {
-  "episodios": 18131,
+  "episodios": 18137,
   "eventos": 155,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 60,
   "eventos": 28
  },
- "mediana": 0.247,
+ "mediana": 0.248,
  "captura": [
   {
    "s": 0.5,
-   "n": 3512,
-   "gan": 11632.48,
-   "nNeta": 1141,
-   "neta": 3339.74
+   "n": 3524,
+   "gan": 11641.97,
+   "nNeta": 1144,
+   "neta": 3340.84
   },
   {
    "s": 2,
-   "n": 1575,
-   "gan": 5223.71,
+   "n": 1579,
+   "gan": 5226.41,
    "nNeta": 427,
    "neta": 1206.51
   },
   {
    "s": 5,
-   "n": 850,
-   "gan": 2586.69,
+   "n": 854,
+   "gan": 2589.52,
    "nNeta": 185,
    "neta": 372.87
   },
   {
    "s": 30,
-   "n": 313,
-   "gan": 744.08,
+   "n": 316,
+   "gan": 746.38,
    "nNeta": 50,
    "neta": 54.84
   }
  ],
- "rentables": 2592,
+ "rentables": 2597,
  "porCapital": [
   {
    "capital": 500,
    "ops": 143,
    "descartadas": 349,
    "neta": 238.74,
-   "dias": 8.54,
-   "semana": 195.61
+   "dias": 8.58,
+   "semana": 194.81
   },
   {
    "capital": 1000,
    "ops": 162,
    "descartadas": 349,
    "neta": 378.74,
-   "dias": 8.54,
-   "semana": 310.31
+   "dias": 8.58,
+   "semana": 309.06
   },
   {
    "capital": 2000,
    "ops": 172,
    "descartadas": 349,
    "neta": 596,
-   "dias": 8.54,
-   "semana": 488.32
+   "dias": 8.58,
+   "semana": 486.35
   }
  ],
  "maxBloqueoH": 24,
@@ -129,9 +129,9 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 105.8,
-   "episodios": 4553,
-   "sospechosas": 47,
+   "horas": 106.7,
+   "episodios": 4576,
+   "sospechosas": 48,
    "realistaNeta": 885.72,
    "capital": {
     "500": 108.01,
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 125,
+  "n": 126,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8847,
-  "n": 2075,
-  "gan": 6351.61,
+  "conDato": 8837,
+  "n": 2080,
+  "gan": 6355.29,
   "nNeta": 554,
   "neta": 1384.47
  },
@@ -260,48 +260,41 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2974
+   "n": 2961
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3535
+   "n": 3532
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1601
+   "n": 1604
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 537
+   "n": 538
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 164
+   "n": 165
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 149
+   "n": 151
   }
  ],
  "porEvento": [
   {
    "titulo": "Elon Musk Net Worth on November 30?",
-   "n": 1193,
-   "gan": 845.52,
+   "n": 1198,
+   "gan": 848.88,
    "neta": 0.84,
    "mediana": 0.089
-  },
-  {
-   "titulo": "Bitcoin price on November 19?",
-   "n": 156,
-   "gan": 108.58,
-   "neta": 0,
-   "mediana": 0.107
   },
   {
    "titulo": "Sporting CP vs. Manchester United FC",
@@ -339,6 +332,13 @@
    "mediana": 0.341
   },
   {
+   "titulo": "Bitcoin price on November 19?",
+   "n": 124,
+   "gan": 87.71,
+   "neta": 0,
+   "mediana": 0.108
+  },
+  {
    "titulo": "Spain General Election: BNG # of seats?",
    "n": 110,
    "gan": 108.32,
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795528800000,
-   "n": 7
-  },
   {
    "h": 1795532400000,
    "n": 26
@@ -647,127 +643,131 @@
   },
   {
    "h": 1795795200000,
-   "n": 11
+   "n": 16
+  },
+  {
+   "h": 1795798800000,
+   "n": 18
   }
  ],
  "recientes": [
   {
-   "inicio": 1795797357185,
+   "inicio": 1795799940286,
    "titulo": "Elon Musk Net Worth on November 30?",
-   "dur": 195.472,
-   "gan": 0.55,
+   "dur": 6.121,
+   "gan": 0.53,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795796964338,
+   "inicio": 1795799934395,
    "titulo": "Elon Musk Net Worth on November 30?",
-   "dur": 386.423,
-   "gan": 0.83,
+   "dur": 4.285,
+   "gan": 0.53,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795796942931,
-   "titulo": "Elon Musk Net Worth on November 30?",
-   "dur": 21.343,
-   "gan": 0.56,
+   "inicio": 1795799916202,
+   "titulo": "Alanyaspor vs. Konyaspor",
+   "dur": 1.102,
+   "gan": 1.12,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795796801495,
-   "titulo": "Elon Musk Net Worth on November 30?",
-   "dur": 82.94,
-   "gan": 0.68,
+   "inicio": 1795799913296,
+   "titulo": "Alanyaspor vs. Konyaspor",
+   "dur": 1.822,
+   "gan": 0.98,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795796567382,
-   "titulo": "Elon Musk Net Worth on November 30?",
-   "dur": 211.461,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795796565840,
-   "titulo": "Elon Musk Net Worth on November 30?",
-   "dur": 0.429,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795796441245,
-   "titulo": "Elon Musk Net Worth on November 30?",
-   "dur": 103.068,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795796295127,
-   "titulo": "Elon Musk Net Worth on November 30?",
-   "dur": 124.261,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795796286502,
-   "titulo": "Elon Musk Net Worth on November 30?",
-   "dur": 8.04,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795796267377,
-   "titulo": "Elon Musk Net Worth on November 30?",
-   "dur": 1.553,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795795923817,
-   "titulo": "FK IMT Novi Beograd vs. FK Macva Sabac",
-   "dur": 1.587,
-   "gan": 11.8,
-   "neta": 6.37,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795794882724,
-   "titulo": "Inter Kashi FC vs. Churchill Brothers SC",
-   "dur": 2.43,
-   "gan": 2.93,
-   "neta": 2.44,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795794686505,
-   "titulo": "FC Emmen vs. Helmond Sport",
-   "dur": 15.456,
-   "gan": 2.25,
+   "inicio": 1795799722325,
+   "titulo": "Alanyaspor vs. Konyaspor",
+   "dur": 0.704,
+   "gan": 0.6,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795794443939,
-   "titulo": "FC Emmen vs. Helmond Sport - Halftime Result",
-   "dur": 0.16,
-   "gan": 1.16,
-   "neta": 0.72,
+   "inicio": 1795799722222,
+   "titulo": "Alanyaspor vs. Konyaspor",
+   "dur": 0.054,
+   "gan": 0.6,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795793846814,
-   "titulo": "Democratic 2028 presidential odds on November 27?",
-   "dur": 0.009,
-   "gan": 0.82,
+   "inicio": 1795799721883,
+   "titulo": "Alanyaspor vs. Konyaspor",
+   "dur": 0.307,
+   "gan": 1,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795799674669,
+   "titulo": "FC Lokomotiv 1929 Sofia vs. PFC Slavia Sofia",
+   "dur": 0.773,
+   "gan": 1.22,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795799480158,
+   "titulo": "SK Artis Brno vs. 1. FC Slovácko",
+   "dur": 1.215,
+   "gan": 0.93,
+   "neta": 0.33,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795799478490,
+   "titulo": "SK Artis Brno vs. 1. FC Slovácko",
+   "dur": 0.362,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795799477768,
+   "titulo": "SK Artis Brno vs. 1. FC Slovácko",
+   "dur": 0.687,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795799433371,
+   "titulo": "SK Artis Brno vs. 1. FC Slovácko",
+   "dur": 0.109,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795799433194,
+   "titulo": "Elon Musk # tweets November 28 - November 30, 2026?",
+   "dur": 0.09,
+   "gan": 0.53,
+   "neta": 0.22,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795798619322,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 685.619,
+   "gan": 0.67,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795799297082,
+   "titulo": "Lusail SC vs. Al Arabi Doha SC",
+   "dur": 0.098,
+   "gan": 0.72,
    "neta": 0,
    "lado": "si"
   }
