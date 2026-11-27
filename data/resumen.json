@@ -1,22 +1,22 @@
 {
- "actualizado": 1795785476684,
- "inicio": 1795046423612,
+ "actualizado": 1795788503284,
+ "inicio": 1795049426426,
  "ejecucion": {
-  "inicio": 1795782476349,
-  "fin": 1795785476684,
-  "mensajes": 10541591,
+  "inicio": 1795785502895,
+  "fin": 1795788503284,
+  "mensajes": 11095009,
   "reconexiones": 0,
-  "eventos": 634,
+  "eventos": 648,
   "errores": [],
-  "nuevos": 1,
+  "nuevos": 11,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 8967,
- "falsos": 4945,
+ "total": 8966,
+ "falsos": 4944,
  "largos": {
-  "episodios": 18271,
-  "eventos": 156,
+  "episodios": 18278,
+  "eventos": 157,
   "dias": 7
  },
  "enEspera": {
@@ -28,57 +28,57 @@
   {
    "s": 0.5,
    "n": 3504,
-   "gan": 11596.49,
-   "nNeta": 1143,
-   "neta": 3327.57
+   "gan": 11604.74,
+   "nNeta": 1145,
+   "neta": 3342.45
   },
   {
    "s": 2,
    "n": 1564,
-   "gan": 5201,
+   "gan": 5192.24,
    "nNeta": 427,
    "neta": 1203.28
   },
   {
    "s": 5,
    "n": 839,
-   "gan": 2568.08,
+   "gan": 2559.32,
    "nNeta": 184,
    "neta": 372.53
   },
   {
    "s": 30,
-   "n": 302,
-   "gan": 724.1,
+   "n": 304,
+   "gan": 725.58,
    "nNeta": 50,
    "neta": 54.84
   }
  ],
- "rentables": 2589,
+ "rentables": 2594,
  "porCapital": [
   {
    "capital": 500,
    "ops": 140,
    "descartadas": 352,
    "neta": 233,
-   "dias": 8.51,
-   "semana": 191.58
+   "dias": 8.54,
+   "semana": 190.9
   },
   {
    "capital": 1000,
    "ops": 159,
    "descartadas": 352,
    "neta": 373,
-   "dias": 8.51,
-   "semana": 306.69
+   "dias": 8.54,
+   "semana": 305.61
   },
   {
    "capital": 2000,
    "ops": 169,
    "descartadas": 352,
    "neta": 590.26,
-   "dias": 8.51,
-   "semana": 485.33
+   "dias": 8.54,
+   "semana": 483.62
   }
  ],
  "maxBloqueoH": 24,
@@ -129,9 +129,9 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 102.5,
-   "episodios": 4456,
-   "sospechosas": 44,
+   "horas": 103.3,
+   "episodios": 4468,
+   "sospechosas": 45,
    "realistaNeta": 875.15,
    "capital": {
     "500": 102.26,
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 129,
+  "n": 130,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8838,
+  "conDato": 8836,
   "n": 2061,
-  "gan": 6316.66,
+  "gan": 6307.9,
   "nNeta": 554,
   "neta": 1375.14
  },
@@ -265,7 +265,7 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3539
+   "n": 3538
   },
   {
    "et": "1–5 s",
@@ -275,17 +275,17 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 537
+   "n": 535
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 158
+   "n": 157
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 144
+   "n": 147
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795514400000,
-   "n": 36
-  },
   {
    "h": 1795518000000,
    "n": 61
@@ -648,9 +644,109 @@
   {
    "h": 1795780800000,
    "n": 8
+  },
+  {
+   "h": 1795784400000,
+   "n": 12
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795787707980,
+   "titulo": "Spain General Election: PNV # of seats?",
+   "dur": 794.919,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795785478067,
+   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
+   "dur": 3024.832,
+   "gan": 1.62,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795785505244,
+   "titulo": "Spain General Election: PNV # of seats?",
+   "dur": 2201.48,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795787511087,
+   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
+   "dur": 1.087,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795787509479,
+   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
+   "dur": 0.63,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795787509097,
+   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
+   "dur": 0.075,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795787327763,
+   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
+   "dur": 0.341,
+   "gan": 0.85,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795786427233,
+   "titulo": "Maccabi Petah Tikva FC vs. Hapoel Tel Aviv FC",
+   "dur": 0.592,
+   "gan": 1.15,
+   "neta": 0.34,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795786427092,
+   "titulo": "Maccabi Petah Tikva FC vs. Hapoel Tel Aviv FC",
+   "dur": 0.023,
+   "gan": 1.15,
+   "neta": 0.34,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795786347778,
+   "titulo": "Highest temperature in Seoul (Incheon) on November 28?",
+   "dur": 0.097,
+   "gan": 0.81,
+   "neta": 0.7,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795785842240,
+   "titulo": "Uthai Thani FC vs. Sisaket United FC",
+   "dur": 0.793,
+   "gan": 23.16,
+   "neta": 19.16,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795785708483,
+   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
+   "dur": 0.11,
+   "gan": 0.55,
+   "neta": 0.15,
+   "lado": "no"
+  },
   {
    "inicio": 1795782467666,
    "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
@@ -672,102 +768,6 @@
    "titulo": "Spain General Election: PNV # of seats?",
    "dur": 2112.122,
    "gan": 0.61,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795779449970,
-   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
-   "dur": 3009.936,
-   "gan": 3.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795781433115,
-   "titulo": "US Pays de Saint-Omer vs. SM Caen",
-   "dur": 747.268,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795781547697,
-   "titulo": "FK Livyi Bereh vs. FK Kolos Kovalivka",
-   "dur": 0.041,
-   "gan": 2.52,
-   "neta": 1.19,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795781519953,
-   "titulo": "FK Livyi Bereh vs. FK Kolos Kovalivka",
-   "dur": 1.887,
-   "gan": 2.32,
-   "neta": 0.99,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795781519851,
-   "titulo": "FK Livyi Bereh vs. FK Kolos Kovalivka",
-   "dur": 0.094,
-   "gan": 3.4,
-   "neta": 1.32,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795781518021,
-   "titulo": "FK Livyi Bereh vs. FK Kolos Kovalivka",
-   "dur": 1.829,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795781480901,
-   "titulo": "Highest temperature in Paris on November 27?",
-   "dur": 0.105,
-   "gan": 0.56,
-   "neta": 0.47,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795780430688,
-   "titulo": "Jong AZ Alkmaar vs. TOP Oss",
-   "dur": 22.634,
-   "gan": 0.84,
-   "neta": 0.51,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795780040944,
-   "titulo": "Spain General Election: PNV # of seats?",
-   "dur": 305.353,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795779994241,
-   "titulo": "Jong AZ Alkmaar vs. TOP Oss",
-   "dur": 0.96,
-   "gan": 0.51,
-   "neta": 0.41,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795779993542,
-   "titulo": "Jong AZ Alkmaar vs. TOP Oss",
-   "dur": 0.533,
-   "gan": 0.53,
-   "neta": 0.4,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795779073462,
-   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
-   "dur": 371.108,
-   "gan": 3.59,
    "neta": 0,
    "lado": "si"
   }
