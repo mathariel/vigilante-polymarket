@@ -1,21 +1,21 @@
 {
- "actualizado": 1795779444923,
+ "actualizado": 1795782460265,
  "inicio": 1795046413847,
  "ejecucion": {
-  "inicio": 1795776444567,
-  "fin": 1795779444923,
-  "mensajes": 10001323,
+  "inicio": 1795779459903,
+  "fin": 1795782460265,
+  "mensajes": 10486264,
   "reconexiones": 0,
-  "eventos": 628,
+  "eventos": 631,
   "errores": [],
-  "nuevos": 48,
-  "nuevosRentables": 6,
-  "nuevosNeta": 18.57
+  "nuevos": 11,
+  "nuevosRentables": 2,
+  "nuevosNeta": 7.5
  },
- "total": 9007,
- "falsos": 4938,
+ "total": 8980,
+ "falsos": 4936,
  "largos": {
-  "episodios": 18231,
+  "episodios": 18263,
   "eventos": 156,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3524,
-   "gan": 11694.11,
-   "nNeta": 1144,
-   "neta": 3362.88
+   "n": 3510,
+   "gan": 11680.37,
+   "nNeta": 1146,
+   "neta": 3370.73
   },
   {
    "s": 2,
-   "n": 1574,
-   "gan": 5240.6,
-   "nNeta": 426,
-   "neta": 1202.77
+   "n": 1565,
+   "gan": 5223.12,
+   "nNeta": 427,
+   "neta": 1203.28
   },
   {
    "s": 5,
-   "n": 845,
-   "gan": 2581.4,
-   "nNeta": 183,
-   "neta": 372.02
+   "n": 839,
+   "gan": 2569.29,
+   "nNeta": 184,
+   "neta": 372.53
   },
   {
    "s": 30,
-   "n": 298,
-   "gan": 721.23,
+   "n": 301,
+   "gan": 724.68,
    "nNeta": 50,
    "neta": 54.84
   }
  ],
- "rentables": 2599,
+ "rentables": 2596,
  "porCapital": [
   {
    "capital": 500,
    "ops": 140,
-   "descartadas": 351,
+   "descartadas": 352,
    "neta": 233,
-   "dias": 8.46,
-   "semana": 192.78
+   "dias": 8.48,
+   "semana": 192.25
   },
   {
    "capital": 1000,
    "ops": 159,
-   "descartadas": 351,
+   "descartadas": 352,
    "neta": 373,
-   "dias": 8.46,
-   "semana": 308.62
+   "dias": 8.48,
+   "semana": 307.78
   },
   {
    "capital": 2000,
    "ops": 169,
-   "descartadas": 351,
+   "descartadas": 352,
    "neta": 590.26,
-   "dias": 8.46,
-   "semana": 488.39
+   "dias": 8.48,
+   "semana": 487.05
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 100.8,
-   "episodios": 4442,
+   "horas": 101.7,
+   "episodios": 4454,
    "sospechosas": 44,
-   "realistaNeta": 867.65,
+   "realistaNeta": 875.15,
    "capital": {
     "500": 102.26,
     "1000": 151.47,
@@ -250,42 +250,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8878,
-  "n": 2072,
-  "gan": 6346.44,
-  "nNeta": 552,
-  "neta": 1367.64
+  "conDato": 8851,
+  "n": 2062,
+  "gan": 6338.78,
+  "nNeta": 554,
+  "neta": 1375.14
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2991
+   "n": 2978
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3546
+   "n": 3544
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1614
+   "n": 1608
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 547
+   "n": 538
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 160
+   "n": 159
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 138
+   "n": 142
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795510800000,
-   "n": 261
-  },
   {
    "h": 1795514400000,
    "n": 36
@@ -647,10 +643,110 @@
   },
   {
    "h": 1795777200000,
-   "n": 22
+   "n": 28
+  },
+  {
+   "h": 1795780800000,
+   "n": 6
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795780347784,
+   "titulo": "Spain General Election: PNV # of seats?",
+   "dur": 2112.122,
+   "gan": 0.61,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795779449970,
+   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
+   "dur": 3009.936,
+   "gan": 3.59,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795781433115,
+   "titulo": "US Pays de Saint-Omer vs. SM Caen",
+   "dur": 747.268,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795781547697,
+   "titulo": "FK Livyi Bereh vs. FK Kolos Kovalivka",
+   "dur": 0.041,
+   "gan": 2.52,
+   "neta": 1.19,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795781519953,
+   "titulo": "FK Livyi Bereh vs. FK Kolos Kovalivka",
+   "dur": 1.887,
+   "gan": 2.32,
+   "neta": 0.99,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795781519851,
+   "titulo": "FK Livyi Bereh vs. FK Kolos Kovalivka",
+   "dur": 0.094,
+   "gan": 3.4,
+   "neta": 1.32,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795781518021,
+   "titulo": "FK Livyi Bereh vs. FK Kolos Kovalivka",
+   "dur": 1.829,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795781480901,
+   "titulo": "Highest temperature in Paris on November 27?",
+   "dur": 0.105,
+   "gan": 0.56,
+   "neta": 0.47,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795780430688,
+   "titulo": "Jong AZ Alkmaar vs. TOP Oss",
+   "dur": 22.634,
+   "gan": 0.84,
+   "neta": 0.51,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795780040944,
+   "titulo": "Spain General Election: PNV # of seats?",
+   "dur": 305.353,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795779994241,
+   "titulo": "Jong AZ Alkmaar vs. TOP Oss",
+   "dur": 0.96,
+   "gan": 0.51,
+   "neta": 0.41,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795779993542,
+   "titulo": "Jong AZ Alkmaar vs. TOP Oss",
+   "dur": 0.533,
+   "gan": 0.53,
+   "neta": 0.4,
+   "lado": "si"
+  },
   {
    "inicio": 1795779073462,
    "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
@@ -673,102 +769,6 @@
    "dur": 41.318,
    "gan": 3.34,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795777705830,
-   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
-   "dur": 22.427,
-   "gan": 2.14,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795777694790,
-   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
-   "dur": 3.3,
-   "gan": 3.29,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795777560320,
-   "titulo": "FC Emmen vs. Helmond Sport",
-   "dur": 26.119,
-   "gan": 1.55,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795777465864,
-   "titulo": "Highest temperature in Moscow on November 27?",
-   "dur": 0.025,
-   "gan": 0.52,
-   "neta": 0.51,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795777317112,
-   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
-   "dur": 4.621,
-   "gan": 0.68,
-   "neta": 0.01,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795777296728,
-   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
-   "dur": 20.331,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795777295417,
-   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
-   "dur": 0.661,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795777274658,
-   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
-   "dur": 2.385,
-   "gan": 1.59,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795777273386,
-   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
-   "dur": 1.04,
-   "gan": 4.06,
-   "neta": 0.07,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795777272156,
-   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
-   "dur": 0.561,
-   "gan": 2.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795777271316,
-   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
-   "dur": 0.531,
-   "gan": 9.18,
-   "neta": 1.49,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795777270650,
-   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
-   "dur": 0.001,
-   "gan": 0.57,
-   "neta": 0.11,
    "lado": "no"
   }
  ]
