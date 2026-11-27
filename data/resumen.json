@@ -1,21 +1,21 @@
 {
- "actualizado": 1795812639733,
- "inicio": 1795058457184,
+ "actualizado": 1795815659946,
+ "inicio": 1795061523499,
  "ejecucion": {
-  "inicio": 1795809639402,
-  "fin": 1795812639733,
-  "mensajes": 12127850,
+  "inicio": 1795812659593,
+  "fin": 1795815659946,
+  "mensajes": 11494590,
   "reconexiones": 0,
-  "eventos": 652,
+  "eventos": 638,
   "errores": [],
-  "nuevos": 98,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 148,
+  "nuevosRentables": 6,
+  "nuevosNeta": 5.17
  },
- "total": 9056,
- "falsos": 5130,
+ "total": 9201,
+ "falsos": 5160,
  "largos": {
-  "episodios": 18024,
+  "episodios": 17854,
   "eventos": 151,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 64,
   "eventos": 31
  },
- "mediana": 0.259,
+ "mediana": 0.26,
  "captura": [
   {
    "s": 0.5,
-   "n": 3612,
-   "gan": 12440.54,
-   "nNeta": 1176,
-   "neta": 3434.19
+   "n": 3671,
+   "gan": 12538.22,
+   "nNeta": 1195,
+   "neta": 3449.08
   },
   {
    "s": 2,
-   "n": 1610,
-   "gan": 5818.57,
-   "nNeta": 434,
-   "neta": 1221.69
+   "n": 1635,
+   "gan": 5843.89,
+   "nNeta": 439,
+   "neta": 1226.74
   },
   {
    "s": 5,
-   "n": 877,
-   "gan": 3135.78,
-   "nNeta": 188,
-   "neta": 379.29
+   "n": 887,
+   "gan": 3145.24,
+   "nNeta": 190,
+   "neta": 382.39
   },
   {
    "s": 30,
-   "n": 330,
-   "gan": 1268.43,
-   "nNeta": 50,
-   "neta": 54.84
+   "n": 335,
+   "gan": 1274.55,
+   "nNeta": 51,
+   "neta": 57.83
   }
  ],
- "rentables": 2660,
+ "rentables": 2704,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 146,
-   "descartadas": 350,
-   "neta": 246.26,
-   "dias": 8.62,
-   "semana": 200
+   "ops": 147,
+   "descartadas": 355,
+   "neta": 246.71,
+   "dias": 8.64,
+   "semana": 199.79
   },
   {
    "capital": 1000,
-   "ops": 165,
-   "descartadas": 350,
-   "neta": 386.26,
-   "dias": 8.62,
-   "semana": 313.7
+   "ops": 166,
+   "descartadas": 355,
+   "neta": 386.71,
+   "dias": 8.64,
+   "semana": 313.16
   },
   {
    "capital": 2000,
-   "ops": 175,
-   "descartadas": 350,
-   "neta": 603.53,
-   "dias": 8.62,
-   "semana": 490.15
+   "ops": 176,
+   "descartadas": 355,
+   "neta": 603.97,
+   "dias": 8.64,
+   "semana": 489.11
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 110,
-   "episodios": 4794,
-   "sospechosas": 53,
-   "realistaNeta": 906.42,
+   "horas": 110.8,
+   "episodios": 4942,
+   "sospechosas": 54,
+   "realistaNeta": 911.59,
    "capital": {
-    "500": 115.53,
-    "1000": 164.73,
-    "2000": 276.26
+    "500": 115.97,
+    "1000": 165.18,
+    "2000": 276.7
    },
    "cumple": true
   }
@@ -250,37 +250,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8925,
-  "n": 2111,
-  "gan": 6957.92,
-  "nNeta": 563,
-  "neta": 1405.17
+  "conDato": 9070,
+  "n": 2143,
+  "gan": 7001.21,
+  "nNeta": 569,
+  "neta": 1410.34
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2944
+   "n": 2991
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3584
+   "n": 3641
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1638
+   "n": 1669
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 547
+   "n": 552
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 172
+   "n": 177
   },
   {
    "et": "> 5 min",
@@ -291,8 +291,8 @@
  "porEvento": [
   {
    "titulo": "Elon Musk Net Worth on November 30?",
-   "n": 1215,
-   "gan": 859.57,
+   "n": 1217,
+   "gan": 861.08,
    "neta": 0.84,
    "mediana": 0.089
   },
@@ -333,10 +333,10 @@
   },
   {
    "titulo": "Spain General Election: BNG # of seats?",
-   "n": 110,
-   "gan": 108.32,
-   "neta": 0,
-   "mediana": 0.574
+   "n": 113,
+   "gan": 110.27,
+   "neta": 0.06,
+   "mediana": 0.569
   },
   {
    "titulo": "SK Slavia Praha vs. Villarreal CF",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795543200000,
-   "n": 38
-  },
   {
    "h": 1795546800000,
    "n": 35
@@ -647,127 +643,131 @@
   },
   {
    "h": 1795809600000,
-   "n": 98
+   "n": 110
+  },
+  {
+   "h": 1795813200000,
+   "n": 136
   }
  ],
  "recientes": [
   {
-   "inicio": 1795812582064,
-   "titulo": "Elon Musk Net Worth on November 30?",
-   "dur": 57.342,
-   "gan": 0.87,
-   "neta": 0,
+   "inicio": 1795815512548,
+   "titulo": "VVV Venlo vs. RKC Waalwijk",
+   "dur": 147.048,
+   "gan": 3.59,
+   "neta": 3.06,
    "lado": "si"
   },
   {
-   "inicio": 1795812397245,
-   "titulo": "Elon Musk Net Worth on November 30?",
-   "dur": 148.577,
-   "gan": 0.67,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795812516134,
-   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
-   "dur": 0.744,
-   "gan": 5.5,
-   "neta": 4.39,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795812484361,
-   "titulo": "FC Groningen vs. Willem II Tilburg",
-   "dur": 0.176,
-   "gan": 0.58,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795812145689,
-   "titulo": "Elon Musk Net Worth on November 30?",
-   "dur": 214.464,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795812338046,
-   "titulo": "SV Werder Bremen vs. Borussia Mönchengladbach",
-   "dur": 1.166,
-   "gan": 3.19,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795812336164,
-   "titulo": "SV Werder Bremen vs. Borussia Mönchengladbach",
-   "dur": 0.185,
-   "gan": 2.04,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795812335286,
-   "titulo": "SV Werder Bremen vs. Borussia Mönchengladbach",
-   "dur": 0.762,
-   "gan": 0.66,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795812328437,
-   "titulo": "SV Werder Bremen vs. Borussia Mönchengladbach",
-   "dur": 5.32,
-   "gan": 2,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795812321630,
+   "inicio": 1795815645800,
    "titulo": "Nottingham Forest FC vs. Chelsea FC",
-   "dur": 1.107,
+   "dur": 0.044,
+   "gan": 0.62,
+   "neta": 0.13,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795815549343,
+   "titulo": "Oud-Heverlee Leuven vs. KV Kortrijk",
+   "dur": 0.029,
+   "gan": 1.16,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795815547019,
+   "titulo": "Oud-Heverlee Leuven vs. KV Kortrijk",
+   "dur": 1.474,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795815546540,
+   "titulo": "Oud-Heverlee Leuven vs. KV Kortrijk",
+   "dur": 0.465,
+   "gan": 3.04,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795815544626,
+   "titulo": "Oud-Heverlee Leuven vs. KV Kortrijk",
+   "dur": 0.23,
    "gan": 0.75,
+   "neta": 0.09,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795815544473,
+   "titulo": "Oud-Heverlee Leuven vs. KV Kortrijk",
+   "dur": 0.141,
+   "gan": 0.76,
+   "neta": 0.09,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795815544084,
+   "titulo": "Oud-Heverlee Leuven vs. KV Kortrijk",
+   "dur": 0.366,
+   "gan": 1.11,
+   "neta": 0.14,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795815543193,
+   "titulo": "Levante UD vs. Real Racing Club",
+   "dur": 0.095,
+   "gan": 0.53,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795812286617,
+   "inicio": 1795815535396,
    "titulo": "Levante UD vs. Real Racing Club",
-   "dur": 0.622,
-   "gan": 2.05,
+   "dur": 0.242,
+   "gan": 0.55,
+   "neta": 0.37,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795815360061,
+   "titulo": "Levante UD vs. Real Racing Club",
+   "dur": 0.842,
+   "gan": 0.52,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795815350677,
+   "titulo": "Levante UD vs. Real Racing Club",
+   "dur": 0.7,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795815350621,
+   "titulo": "Levante UD vs. Real Racing Club",
+   "dur": 0.051,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795815292572,
+   "titulo": "Oud-Heverlee Leuven vs. KV Kortrijk",
+   "dur": 0.444,
+   "gan": 1.46,
+   "neta": 1.34,
    "lado": "no"
   },
   {
-   "inicio": 1795812261241,
-   "titulo": "SV Werder Bremen vs. Borussia Mönchengladbach",
-   "dur": 1.03,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795812232213,
+   "inicio": 1795815086771,
    "titulo": "Levante UD vs. Real Racing Club",
-   "dur": 0.755,
-   "gan": 1.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795812195301,
-   "titulo": "CD Leganés vs. CE Sabadell FC",
-   "dur": 0.654,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795812115920,
-   "titulo": "Levante UD vs. Real Racing Club",
-   "dur": 0.109,
-   "gan": 5.56,
+   "dur": 0.105,
+   "gan": 2.44,
    "neta": 0,
    "lado": "si"
   }
