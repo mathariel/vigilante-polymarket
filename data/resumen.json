@@ -1,84 +1,84 @@
 {
- "actualizado": 1795776429726,
- "inicio": 1795042865290,
+ "actualizado": 1795779444923,
+ "inicio": 1795046413847,
  "ejecucion": {
-  "inicio": 1795773429379,
-  "fin": 1795776429726,
-  "mensajes": 8358429,
+  "inicio": 1795776444567,
+  "fin": 1795779444923,
+  "mensajes": 10001323,
   "reconexiones": 0,
-  "eventos": 618,
+  "eventos": 628,
   "errores": [],
-  "nuevos": 132,
-  "nuevosRentables": 21,
-  "nuevosNeta": 287.62
+  "nuevos": 48,
+  "nuevosRentables": 6,
+  "nuevosNeta": 18.57
  },
- "total": 8989,
- "falsos": 4978,
+ "total": 9007,
+ "falsos": 4938,
  "largos": {
-  "episodios": 18207,
-  "eventos": 155,
+  "episodios": 18231,
+  "eventos": 156,
   "dias": 7
  },
  "enEspera": {
   "episodios": 60,
   "eventos": 28
  },
- "mediana": 0.244,
+ "mediana": 0.247,
  "captura": [
   {
    "s": 0.5,
-   "n": 3496,
-   "gan": 11561.23,
-   "nNeta": 1138,
-   "neta": 3284.47
+   "n": 3524,
+   "gan": 11694.11,
+   "nNeta": 1144,
+   "neta": 3362.88
   },
   {
    "s": 2,
-   "n": 1551,
-   "gan": 5059.82,
-   "nNeta": 421,
-   "neta": 1095.87
+   "n": 1574,
+   "gan": 5240.6,
+   "nNeta": 426,
+   "neta": 1202.77
   },
   {
    "s": 5,
-   "n": 831,
-   "gan": 2441.33,
-   "nNeta": 181,
-   "neta": 271.73
+   "n": 845,
+   "gan": 2581.4,
+   "nNeta": 183,
+   "neta": 372.02
   },
   {
    "s": 30,
-   "n": 293,
-   "gan": 698.34,
-   "nNeta": 49,
-   "neta": 43.93
+   "n": 298,
+   "gan": 721.23,
+   "nNeta": 50,
+   "neta": 54.84
   }
  ],
  "rentables": 2599,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 141,
-   "descartadas": 349,
-   "neta": 233.53,
-   "dias": 8.43,
-   "semana": 193.96
+   "ops": 140,
+   "descartadas": 351,
+   "neta": 233,
+   "dias": 8.46,
+   "semana": 192.78
   },
   {
    "capital": 1000,
-   "ops": 160,
-   "descartadas": 349,
-   "neta": 373.53,
-   "dias": 8.43,
-   "semana": 310.24
+   "ops": 159,
+   "descartadas": 351,
+   "neta": 373,
+   "dias": 8.46,
+   "semana": 308.62
   },
   {
    "capital": 2000,
-   "ops": 170,
-   "descartadas": 349,
-   "neta": 590.79,
-   "dias": 8.43,
-   "semana": 490.69
+   "ops": 169,
+   "descartadas": 351,
+   "neta": 590.26,
+   "dias": 8.46,
+   "semana": 488.39
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 100,
-   "episodios": 4394,
-   "sospechosas": 43,
-   "realistaNeta": 849.08,
+   "horas": 100.8,
+   "episodios": 4442,
+   "sospechosas": 44,
+   "realistaNeta": 867.65,
    "capital": {
     "500": 102.26,
     "1000": 151.47,
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 128,
+  "n": 129,
   "top": [
    {
     "inicio": 1795574360666,
@@ -175,6 +175,16 @@
     "neta": 95.06,
     "costo": 407.83,
     "ret": 25.8
+   },
+   {
+    "inicio": 1795776824106,
+    "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
+    "lado": "no",
+    "dur": 7.29,
+    "gan": 101.79,
+    "neta": 89.91,
+    "costo": 899.29,
+    "ret": 11.3
    },
    {
     "inicio": 1795286367624,
@@ -235,57 +245,47 @@
     "neta": 37.02,
     "costo": 436.56,
     "ret": 10.3
-   },
-   {
-    "inicio": 1795229517798,
-    "titulo": "Club Puebla vs. Atlético San Luis",
-    "lado": "si",
-    "dur": 0.3,
-    "gan": 43.35,
-    "neta": 35.64,
-    "costo": 304.65,
-    "ret": 14.2
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8861,
-  "n": 2049,
-  "gan": 6265.06,
-  "nNeta": 547,
-  "neta": 1349.6
+  "conDato": 8878,
+  "n": 2072,
+  "gan": 6346.44,
+  "nNeta": 552,
+  "neta": 1367.64
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 3002
+   "n": 2991
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3540
+   "n": 3546
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1605
+   "n": 1614
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 538
+   "n": 547
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 156
+   "n": 160
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 137
+   "n": 138
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795507200000,
-   "n": 962
-  },
   {
    "h": 1795510800000,
    "n": 261
@@ -647,128 +643,132 @@
   },
   {
    "h": 1795773600000,
-   "n": 132
+   "n": 158
+  },
+  {
+   "h": 1795777200000,
+   "n": 22
   }
  ],
  "recientes": [
   {
-   "inicio": 1795775506337,
-   "titulo": "AS Cannes vs. Le Puy Foot 43",
-   "dur": 405.652,
-   "gan": 0.6,
+   "inicio": 1795779073462,
+   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
+   "dur": 371.108,
+   "gan": 3.59,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795778894011,
+   "titulo": "FC Emmen vs. Helmond Sport",
+   "dur": 41.741,
+   "gan": 0.71,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795775465608,
-   "titulo": "AS Cannes vs. Le Puy Foot 43",
-   "dur": 16.733,
-   "gan": 3.98,
+   "inicio": 1795777728689,
+   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
+   "dur": 41.318,
+   "gan": 3.34,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795775112912,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 0.15,
+   "inicio": 1795777705830,
+   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
+   "dur": 22.427,
+   "gan": 2.14,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795777694790,
+   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
+   "dur": 3.3,
+   "gan": 3.29,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795777560320,
+   "titulo": "FC Emmen vs. Helmond Sport",
+   "dur": 26.119,
+   "gan": 1.55,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795777465864,
+   "titulo": "Highest temperature in Moscow on November 27?",
+   "dur": 0.025,
    "gan": 0.52,
-   "neta": 0.49,
+   "neta": 0.51,
    "lado": "si"
   },
   {
-   "inicio": 1795775109802,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 0.658,
-   "gan": 0.78,
-   "neta": 0.67,
-   "lado": "si"
+   "inicio": 1795777317112,
+   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
+   "dur": 4.621,
+   "gan": 0.68,
+   "neta": 0.01,
+   "lado": "no"
   },
   {
-   "inicio": 1795775107715,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 0.194,
-   "gan": 1.17,
-   "neta": 1.11,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795775107639,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 0.003,
-   "gan": 0.51,
-   "neta": 0.46,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795775106683,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 0.466,
-   "gan": 0.92,
-   "neta": 0.89,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795775104068,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 1.985,
-   "gan": 0.88,
-   "neta": 0.85,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795775098469,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 0.845,
-   "gan": 0.69,
-   "neta": 0.66,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795774841378,
-   "titulo": "Jong FC Utrecht vs. Almere City FC",
-   "dur": 0.098,
-   "gan": 0.52,
+   "inicio": 1795777296728,
+   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
+   "dur": 20.331,
+   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795774841195,
-   "titulo": "Jong FC Utrecht vs. Almere City FC",
-   "dur": 0.078,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795774840981,
-   "titulo": "Jong FC Utrecht vs. Almere City FC",
-   "dur": 0.088,
+   "inicio": 1795777295417,
+   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
+   "dur": 0.661,
    "gan": 0.52,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795774840782,
-   "titulo": "Jong FC Utrecht vs. Almere City FC",
-   "dur": 0.089,
-   "gan": 0.53,
+   "inicio": 1795777274658,
+   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
+   "dur": 2.385,
+   "gan": 1.59,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795774840581,
-   "titulo": "Jong FC Utrecht vs. Almere City FC",
-   "dur": 0.089,
-   "gan": 0.53,
+   "inicio": 1795777273386,
+   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
+   "dur": 1.04,
+   "gan": 4.06,
+   "neta": 0.07,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795777272156,
+   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
+   "dur": 0.561,
+   "gan": 2.53,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795774840376,
-   "titulo": "Jong FC Utrecht vs. Almere City FC",
-   "dur": 0.098,
-   "gan": 0.52,
-   "neta": 0,
+   "inicio": 1795777271316,
+   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
+   "dur": 0.531,
+   "gan": 9.18,
+   "neta": 1.49,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795777270650,
+   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
+   "dur": 0.001,
+   "gan": 0.57,
+   "neta": 0.11,
    "lado": "no"
   }
  ]
