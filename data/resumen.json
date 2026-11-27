@@ -1,84 +1,84 @@
 {
- "actualizado": 1795809621451,
+ "actualizado": 1795812639733,
  "inicio": 1795058457184,
  "ejecucion": {
-  "inicio": 1795806621204,
-  "fin": 1795809621451,
-  "mensajes": 12095579,
-  "reconexiones": 1,
-  "eventos": 644,
+  "inicio": 1795809639402,
+  "fin": 1795812639733,
+  "mensajes": 12127850,
+  "reconexiones": 0,
+  "eventos": 652,
   "errores": [],
-  "nuevos": 38,
-  "nuevosRentables": 4,
-  "nuevosNeta": 10.86
+  "nuevos": 98,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 8959,
- "falsos": 5153,
+ "total": 9056,
+ "falsos": 5130,
  "largos": {
-  "episodios": 18095,
-  "eventos": 155,
+  "episodios": 18024,
+  "eventos": 151,
   "dias": 7
  },
  "enEspera": {
   "episodios": 64,
   "eventos": 31
  },
- "mediana": 0.257,
+ "mediana": 0.259,
  "captura": [
   {
    "s": 0.5,
-   "n": 3569,
-   "gan": 12340.08,
-   "nNeta": 1172,
-   "neta": 3395.96
+   "n": 3612,
+   "gan": 12440.54,
+   "nNeta": 1176,
+   "neta": 3434.19
   },
   {
    "s": 2,
-   "n": 1593,
-   "gan": 5795.83,
+   "n": 1610,
+   "gan": 5818.57,
    "nNeta": 434,
    "neta": 1221.69
   },
   {
    "s": 5,
-   "n": 867,
-   "gan": 3121.27,
+   "n": 877,
+   "gan": 3135.78,
    "nNeta": 188,
    "neta": 379.29
   },
   {
    "s": 30,
-   "n": 327,
-   "gan": 1266.3,
+   "n": 330,
+   "gan": 1268.43,
    "nNeta": 50,
    "neta": 54.84
   }
  ],
- "rentables": 2653,
+ "rentables": 2660,
  "porCapital": [
   {
    "capital": 500,
    "ops": 146,
    "descartadas": 350,
    "neta": 246.26,
-   "dias": 8.63,
-   "semana": 199.66
+   "dias": 8.62,
+   "semana": 200
   },
   {
    "capital": 1000,
    "ops": 165,
    "descartadas": 350,
    "neta": 386.26,
-   "dias": 8.63,
-   "semana": 313.18
+   "dias": 8.62,
+   "semana": 313.7
   },
   {
    "capital": 2000,
    "ops": 175,
    "descartadas": 350,
    "neta": 603.53,
-   "dias": 8.63,
-   "semana": 489.33
+   "dias": 8.62,
+   "semana": 490.15
   }
  ],
  "maxBloqueoH": 24,
@@ -129,9 +129,9 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 109.2,
-   "episodios": 4696,
-   "sospechosas": 52,
+   "horas": 110,
+   "episodios": 4794,
+   "sospechosas": 53,
    "realistaNeta": 906.42,
    "capital": {
     "500": 115.53,
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 130,
+  "n": 131,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8829,
-  "n": 2093,
-  "gan": 6933.99,
+  "conDato": 8925,
+  "n": 2111,
+  "gan": 6957.92,
   "nNeta": 563,
   "neta": 1405.17
  },
@@ -260,27 +260,27 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2922
+   "n": 2944
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3540
+   "n": 3584
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1618
+   "n": 1638
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 540
+   "n": 547
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 169
+   "n": 172
   },
   {
    "et": "> 5 min",
@@ -291,8 +291,8 @@
  "porEvento": [
   {
    "titulo": "Elon Musk Net Worth on November 30?",
-   "n": 1211,
-   "gan": 856.81,
+   "n": 1215,
+   "gan": 859.57,
    "neta": 0.84,
    "mediana": 0.089
   },
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795539600000,
-   "n": 5
-  },
   {
    "h": 1795543200000,
    "n": 38
@@ -648,126 +644,130 @@
   {
    "h": 1795806000000,
    "n": 41
+  },
+  {
+   "h": 1795809600000,
+   "n": 98
   }
  ],
  "recientes": [
   {
-   "inicio": 1795809432722,
-   "titulo": "SV Werder Bremen vs. Borussia Mönchengladbach",
-   "dur": 4.466,
-   "gan": 4.8,
+   "inicio": 1795812582064,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 57.342,
+   "gan": 0.87,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795809305724,
-   "titulo": "SV Werder Bremen vs. Borussia Mönchengladbach",
-   "dur": 9.004,
-   "gan": 0.56,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795809305524,
-   "titulo": "SV Werder Bremen vs. Borussia Mönchengladbach",
-   "dur": 0.062,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795809278599,
-   "titulo": "SV Werder Bremen vs. Borussia Mönchengladbach",
-   "dur": 0.25,
-   "gan": 3.16,
+   "inicio": 1795812397245,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 148.577,
+   "gan": 0.67,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795809272051,
-   "titulo": "SV Werder Bremen vs. Borussia Mönchengladbach",
-   "dur": 2.997,
-   "gan": 15.52,
-   "neta": 3.31,
+   "inicio": 1795812516134,
+   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
+   "dur": 0.744,
+   "gan": 5.5,
+   "neta": 4.39,
    "lado": "si"
   },
   {
-   "inicio": 1795809262851,
-   "titulo": "SV Werder Bremen vs. Borussia Mönchengladbach",
-   "dur": 1.188,
-   "gan": 9.99,
-   "neta": 0.62,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795809134591,
-   "titulo": "FC Groningen vs. Willem II Tilburg - Halftime Result",
-   "dur": 0.81,
-   "gan": 7.6,
-   "neta": 7.28,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795808997954,
-   "titulo": "SV Werder Bremen vs. Borussia Mönchengladbach",
-   "dur": 1.808,
+   "inicio": 1795812484361,
+   "titulo": "FC Groningen vs. Willem II Tilburg",
+   "dur": 0.176,
    "gan": 0.58,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795808988143,
+   "inicio": 1795812145689,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 214.464,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795812338046,
    "titulo": "SV Werder Bremen vs. Borussia Mönchengladbach",
-   "dur": 0.29,
-   "gan": 3.33,
+   "dur": 1.166,
+   "gan": 3.19,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795808712655,
-   "titulo": "Delfin SC vs. Orense SC",
-   "dur": 0.805,
-   "gan": 19.58,
-   "neta": 11.86,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795808703479,
-   "titulo": "Delfin SC vs. Orense SC",
-   "dur": 0.196,
-   "gan": 15.25,
-   "neta": 7.1,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795808699116,
-   "titulo": "Delfin SC vs. Orense SC",
-   "dur": 0.976,
-   "gan": 1.06,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795808696331,
-   "titulo": "Grazer AK 1902 vs. SCR Altach",
-   "dur": 0.286,
-   "gan": 7.52,
+   "inicio": 1795812336164,
+   "titulo": "SV Werder Bremen vs. Borussia Mönchengladbach",
+   "dur": 0.185,
+   "gan": 2.04,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795808647153,
-   "titulo": "Delfin SC vs. Orense SC",
-   "dur": 0.614,
-   "gan": 0.56,
+   "inicio": 1795812335286,
+   "titulo": "SV Werder Bremen vs. Borussia Mönchengladbach",
+   "dur": 0.762,
+   "gan": 0.66,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795808512090,
-   "titulo": "FC Groningen vs. Willem II Tilburg",
-   "dur": 1.62,
-   "gan": 0.85,
+   "inicio": 1795812328437,
+   "titulo": "SV Werder Bremen vs. Borussia Mönchengladbach",
+   "dur": 5.32,
+   "gan": 2,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795812321630,
+   "titulo": "Nottingham Forest FC vs. Chelsea FC",
+   "dur": 1.107,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795812286617,
+   "titulo": "Levante UD vs. Real Racing Club",
+   "dur": 0.622,
+   "gan": 2.05,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795812261241,
+   "titulo": "SV Werder Bremen vs. Borussia Mönchengladbach",
+   "dur": 1.03,
+   "gan": 0.75,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795812232213,
+   "titulo": "Levante UD vs. Real Racing Club",
+   "dur": 0.755,
+   "gan": 1.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795812195301,
+   "titulo": "CD Leganés vs. CE Sabadell FC",
+   "dur": 0.654,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795812115920,
+   "titulo": "Levante UD vs. Real Racing Club",
+   "dur": 0.109,
+   "gan": 5.56,
    "neta": 0,
    "lado": "si"
   }
