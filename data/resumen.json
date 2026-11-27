@@ -1,21 +1,21 @@
 {
- "actualizado": 1795791522472,
- "inicio": 1795049426426,
+ "actualizado": 1795794538026,
+ "inicio": 1795052471128,
  "ejecucion": {
-  "inicio": 1795788522186,
-  "fin": 1795791522472,
-  "mensajes": 11384663,
-  "reconexiones": 0,
-  "eventos": 656,
+  "inicio": 1795791537695,
+  "fin": 1795794538026,
+  "mensajes": 5846767,
+  "reconexiones": 2,
+  "eventos": 648,
   "errores": [],
-  "nuevos": 56,
-  "nuevosRentables": 2,
-  "nuevosNeta": 0.36
+  "nuevos": 15,
+  "nuevosRentables": 1,
+  "nuevosNeta": 1.86
  },
- "total": 8992,
- "falsos": 5053,
+ "total": 8983,
+ "falsos": 5095,
  "largos": {
-  "episodios": 18147,
+  "episodios": 18115,
   "eventos": 155,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 60,
   "eventos": 28
  },
- "mediana": 0.246,
+ "mediana": 0.245,
  "captura": [
   {
    "s": 0.5,
-   "n": 3506,
-   "gan": 11617.8,
-   "nNeta": 1142,
-   "neta": 3341.3
+   "n": 3504,
+   "gan": 11612.9,
+   "nNeta": 1139,
+   "neta": 3331.39
   },
   {
    "s": 2,
-   "n": 1565,
-   "gan": 5200.96,
+   "n": 1566,
+   "gan": 5214.51,
    "nNeta": 426,
-   "neta": 1202.6
+   "neta": 1204.42
   },
   {
    "s": 5,
-   "n": 841,
-   "gan": 2567.42,
+   "n": 842,
+   "gan": 2580.01,
    "nNeta": 185,
    "neta": 372.87
   },
   {
    "s": 30,
-   "n": 306,
-   "gan": 727.75,
+   "n": 307,
+   "gan": 740.34,
    "nNeta": 50,
    "neta": 54.84
   }
  ],
- "rentables": 2605,
+ "rentables": 2591,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 140,
-   "descartadas": 351,
-   "neta": 233,
+   "ops": 141,
+   "descartadas": 349,
+   "neta": 234.86,
    "dias": 8.53,
-   "semana": 191.14
+   "semana": 192.72
   },
   {
    "capital": 1000,
-   "ops": 159,
-   "descartadas": 351,
-   "neta": 373,
+   "ops": 160,
+   "descartadas": 349,
+   "neta": 374.86,
    "dias": 8.53,
-   "semana": 306
+   "semana": 307.6
   },
   {
    "capital": 2000,
-   "ops": 169,
-   "descartadas": 351,
-   "neta": 590.26,
+   "ops": 170,
+   "descartadas": 349,
+   "neta": 592.12,
    "dias": 8.53,
-   "semana": 484.23
+   "semana": 485.88
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 104.2,
-   "episodios": 4525,
-   "sospechosas": 46,
-   "realistaNeta": 875.51,
+   "horas": 105,
+   "episodios": 4540,
+   "sospechosas": 47,
+   "realistaNeta": 877.37,
    "capital": {
-    "500": 102.26,
-    "1000": 151.47,
-    "2000": 262.99
+    "500": 104.12,
+    "1000": 153.33,
+    "2000": 264.85
    },
    "cumple": true
   }
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 131,
+  "n": 125,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,27 +250,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8861,
-  "n": 2064,
-  "gan": 6317.42,
-  "nNeta": 553,
-  "neta": 1374.46
+  "conDato": 8858,
+  "n": 2067,
+  "gan": 6332.03,
+  "nNeta": 552,
+  "neta": 1376.12
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2991
+   "n": 2986
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3547
+   "n": 3544
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1602
+   "n": 1599
   },
   {
    "et": "5–30 s",
@@ -280,7 +280,7 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 158
+   "n": 159
   },
   {
    "et": "> 5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795521600000,
-   "n": 11
-  },
   {
    "h": 1795525200000,
    "n": 4
@@ -648,127 +644,131 @@
   {
    "h": 1795788000000,
    "n": 57
+  },
+  {
+   "h": 1795791600000,
+   "n": 15
   }
  ],
  "recientes": [
   {
-   "inicio": 1795791041455,
-   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
-   "dur": 0.239,
-   "gan": 8.15,
-   "neta": 7.99,
-   "lado": "si"
+   "inicio": 1795794443939,
+   "titulo": "FC Emmen vs. Helmond Sport - Halftime Result",
+   "dur": 0.16,
+   "gan": 1.16,
+   "neta": 0.72,
+   "lado": "no"
   },
   {
-   "inicio": 1795790728386,
-   "titulo": "Highest temperature in Madrid on November 27?",
-   "dur": 0.07,
-   "gan": 0.57,
-   "neta": 0.52,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795788524395,
-   "titulo": "Spain General Election: PNV # of seats?",
-   "dur": 1405.798,
-   "gan": 0.55,
+   "inicio": 1795793846814,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 0.009,
+   "gan": 0.82,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795789708689,
-   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
-   "dur": 0.074,
-   "gan": 1.61,
+   "inicio": 1795793846045,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 0.106,
+   "gan": 0.68,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795789706999,
-   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
-   "dur": 1.658,
-   "gan": 0.6,
+   "inicio": 1795793845418,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 0.568,
+   "gan": 0.92,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795789676696,
-   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
-   "dur": 0.121,
-   "gan": 0.87,
-   "neta": 0.13,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795789674346,
-   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
-   "dur": 0.711,
-   "gan": 0.58,
+   "inicio": 1795793843935,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 0.812,
+   "gan": 0.92,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795789606815,
-   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
-   "dur": 6.35,
-   "gan": 1.76,
+   "inicio": 1795793843557,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 0.037,
+   "gan": 0.8,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795789604857,
-   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
-   "dur": 1.733,
-   "gan": 0.69,
+   "inicio": 1795793841654,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 0.701,
+   "gan": 0.68,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795789604290,
-   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
-   "dur": 0.559,
-   "gan": 5.91,
+   "inicio": 1795793841506,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 0.088,
+   "gan": 0.68,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795789592668,
-   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
-   "dur": 7.275,
-   "gan": 2.71,
+   "inicio": 1795793841299,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 0.106,
+   "gan": 0.68,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795789592579,
-   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
-   "dur": 0.033,
-   "gan": 0.65,
+   "inicio": 1795793840563,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 0.014,
+   "gan": 0.5,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795789588668,
-   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
-   "dur": 3.909,
-   "gan": 1,
+   "inicio": 1795793172359,
+   "titulo": "Levante UD vs. Real Racing Club",
+   "dur": 68.92,
+   "gan": 12.59,
    "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795793188528,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": -0.716,
+   "gan": 0.5,
+   "neta": 0.34,
    "lado": "si"
   },
   {
-   "inicio": 1795789588006,
-   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
-   "dur": 0.471,
-   "gan": 0.55,
-   "neta": 0,
+   "inicio": 1795793185212,
+   "titulo": "Democratic 2028 presidential odds on November 27?",
+   "dur": 3.164,
+   "gan": 2.79,
+   "neta": 1.81,
    "lado": "si"
   },
   {
-   "inicio": 1795789585940,
-   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
-   "dur": 2.041,
-   "gan": 0.7,
-   "neta": 0.02,
+   "inicio": 1795793136199,
+   "titulo": "Highest temperature in Busan on November 28?",
+   "dur": 0.189,
+   "gan": 1.08,
+   "neta": 0.87,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795791659056,
+   "titulo": "Lowest temperature in Beijing on November 27?",
+   "dur": 0.991,
+   "gan": 5.18,
+   "neta": 5.13,
    "lado": "si"
   }
  ]
