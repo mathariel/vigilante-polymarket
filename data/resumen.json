@@ -1,21 +1,21 @@
 {
- "actualizado": 1795815659946,
- "inicio": 1795061523499,
+ "actualizado": 1795818680543,
+ "inicio": 1795067527984,
  "ejecucion": {
-  "inicio": 1795812659593,
-  "fin": 1795815659946,
-  "mensajes": 11494590,
+  "inicio": 1795815680210,
+  "fin": 1795818680543,
+  "mensajes": 9432601,
   "reconexiones": 0,
-  "eventos": 638,
+  "eventos": 611,
   "errores": [],
-  "nuevos": 148,
-  "nuevosRentables": 6,
-  "nuevosNeta": 5.17
+  "nuevos": 41,
+  "nuevosRentables": 4,
+  "nuevosNeta": 7.37
  },
- "total": 9201,
- "falsos": 5160,
+ "total": 9243,
+ "falsos": 5165,
  "largos": {
-  "episodios": 17854,
+  "episodios": 17812,
   "eventos": 151,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 64,
   "eventos": 31
  },
- "mediana": 0.26,
+ "mediana": 0.259,
  "captura": [
   {
    "s": 0.5,
-   "n": 3671,
-   "gan": 12538.22,
-   "nNeta": 1195,
-   "neta": 3449.08
+   "n": 3683,
+   "gan": 12563.96,
+   "nNeta": 1203,
+   "neta": 3458.84
   },
   {
    "s": 2,
-   "n": 1635,
-   "gan": 5843.89,
-   "nNeta": 439,
-   "neta": 1226.74
+   "n": 1642,
+   "gan": 5862.35,
+   "nNeta": 444,
+   "neta": 1235.62
   },
   {
    "s": 5,
-   "n": 887,
-   "gan": 3145.24,
-   "nNeta": 190,
-   "neta": 382.39
+   "n": 891,
+   "gan": 3154.1,
+   "nNeta": 193,
+   "neta": 386.44
   },
   {
    "s": 30,
-   "n": 335,
-   "gan": 1274.55,
-   "nNeta": 51,
-   "neta": 57.83
+   "n": 336,
+   "gan": 1276.33,
+   "nNeta": 52,
+   "neta": 59.34
   }
  ],
- "rentables": 2704,
+ "rentables": 2729,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 147,
-   "descartadas": 355,
-   "neta": 246.71,
-   "dias": 8.64,
-   "semana": 199.79
+   "ops": 148,
+   "descartadas": 358,
+   "neta": 247.23,
+   "dias": 8.68,
+   "semana": 199.4
   },
   {
    "capital": 1000,
-   "ops": 166,
-   "descartadas": 355,
-   "neta": 386.71,
-   "dias": 8.64,
-   "semana": 313.16
+   "ops": 167,
+   "descartadas": 358,
+   "neta": 391.24,
+   "dias": 8.68,
+   "semana": 315.56
   },
   {
    "capital": 2000,
-   "ops": 176,
-   "descartadas": 355,
-   "neta": 603.97,
-   "dias": 8.64,
-   "semana": 489.11
+   "ops": 178,
+   "descartadas": 358,
+   "neta": 609.33,
+   "dias": 8.68,
+   "semana": 491.46
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 110.8,
-   "episodios": 4942,
+   "horas": 111.7,
+   "episodios": 4984,
    "sospechosas": 54,
-   "realistaNeta": 911.59,
+   "realistaNeta": 920.47,
    "capital": {
-    "500": 115.97,
-    "1000": 165.18,
-    "2000": 276.7
+    "500": 116.49,
+    "1000": 169.71,
+    "2000": 282.06
    },
    "cumple": true
   }
@@ -250,32 +250,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 9070,
-  "n": 2143,
-  "gan": 7001.21,
-  "nNeta": 569,
-  "neta": 1410.34
+  "conDato": 9112,
+  "n": 2150,
+  "gan": 7019.67,
+  "nNeta": 574,
+  "neta": 1419.22
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2991
+   "n": 3007
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3641
+   "n": 3658
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1669
+   "n": 1674
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 552
+   "n": 555
   },
   {
    "et": "30 s–5 min",
@@ -285,7 +285,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 158
+   "n": 159
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795546800000,
-   "n": 35
-  },
   {
    "h": 1795550400000,
    "n": 61
@@ -647,129 +643,133 @@
   },
   {
    "h": 1795813200000,
-   "n": 136
+   "n": 173
+  },
+  {
+   "h": 1795816800000,
+   "n": 5
   }
  ],
  "recientes": [
   {
-   "inicio": 1795815512548,
+   "inicio": 1795815658297,
    "titulo": "VVV Venlo vs. RKC Waalwijk",
-   "dur": 147.048,
-   "gan": 3.59,
-   "neta": 3.06,
+   "dur": 3021.916,
+   "gan": 1.78,
+   "neta": 1.51,
    "lado": "si"
   },
   {
-   "inicio": 1795815645800,
-   "titulo": "Nottingham Forest FC vs. Chelsea FC",
-   "dur": 0.044,
-   "gan": 0.62,
-   "neta": 0.13,
+   "inicio": 1795817377874,
+   "titulo": "CS Marítimo vs. CD Nacional",
+   "dur": 11.457,
+   "gan": 0.59,
+   "neta": 0.54,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795817285180,
+   "titulo": "CS Marítimo vs. CD Nacional",
+   "dur": 10.909,
+   "gan": 5.65,
+   "neta": 1.85,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795817266978,
+   "titulo": "CS Marítimo vs. CD Nacional",
+   "dur": 3.329,
+   "gan": 5.45,
+   "neta": 4.53,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795817029227,
+   "titulo": "Nacional Asuncion vs. Rubio Nu",
+   "dur": 0.335,
+   "gan": 0.54,
+   "neta": 0.43,
    "lado": "no"
   },
   {
-   "inicio": 1795815549343,
-   "titulo": "Oud-Heverlee Leuven vs. KV Kortrijk",
-   "dur": 0.029,
+   "inicio": 1795816806966,
+   "titulo": "Nacional Asuncion vs. Rubio Nu",
+   "dur": 0.108,
    "gan": 1.16,
-   "neta": 0,
+   "neta": 0.02,
    "lado": "si"
   },
   {
-   "inicio": 1795815547019,
-   "titulo": "Oud-Heverlee Leuven vs. KV Kortrijk",
-   "dur": 1.474,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795815546540,
-   "titulo": "Oud-Heverlee Leuven vs. KV Kortrijk",
-   "dur": 0.465,
-   "gan": 3.04,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795815544626,
-   "titulo": "Oud-Heverlee Leuven vs. KV Kortrijk",
-   "dur": 0.23,
-   "gan": 0.75,
-   "neta": 0.09,
+   "inicio": 1795816285348,
+   "titulo": "Nottingham Forest FC vs. Chelsea FC",
+   "dur": 0.148,
+   "gan": 0.98,
+   "neta": 0.45,
    "lado": "no"
   },
   {
-   "inicio": 1795815544473,
-   "titulo": "Oud-Heverlee Leuven vs. KV Kortrijk",
-   "dur": 0.141,
-   "gan": 0.76,
-   "neta": 0.09,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795815544084,
-   "titulo": "Oud-Heverlee Leuven vs. KV Kortrijk",
-   "dur": 0.366,
-   "gan": 1.11,
-   "neta": 0.14,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795815543193,
-   "titulo": "Levante UD vs. Real Racing Club",
-   "dur": 0.095,
-   "gan": 0.53,
+   "inicio": 1795816280884,
+   "titulo": "Nottingham Forest FC vs. Chelsea FC",
+   "dur": 0.04,
+   "gan": 0.63,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795815535396,
-   "titulo": "Levante UD vs. Real Racing Club",
-   "dur": 0.242,
+   "inicio": 1795816280229,
+   "titulo": "Nottingham Forest FC vs. Chelsea FC",
+   "dur": 0.068,
+   "gan": 0.66,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795816279728,
+   "titulo": "Nottingham Forest FC vs. Chelsea FC",
+   "dur": 0.19,
    "gan": 0.55,
-   "neta": 0.37,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795815360061,
-   "titulo": "Levante UD vs. Real Racing Club",
-   "dur": 0.842,
-   "gan": 0.52,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795815350677,
-   "titulo": "Levante UD vs. Real Racing Club",
-   "dur": 0.7,
-   "gan": 0.57,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795815350621,
-   "titulo": "Levante UD vs. Real Racing Club",
-   "dur": 0.051,
-   "gan": 0.52,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795815292572,
-   "titulo": "Oud-Heverlee Leuven vs. KV Kortrijk",
-   "dur": 0.444,
-   "gan": 1.46,
-   "neta": 1.34,
    "lado": "no"
   },
   {
-   "inicio": 1795815086771,
-   "titulo": "Levante UD vs. Real Racing Club",
-   "dur": 0.105,
-   "gan": 2.44,
+   "inicio": 1795816278396,
+   "titulo": "Nottingham Forest FC vs. Chelsea FC",
+   "dur": 1.322,
+   "gan": 0.52,
+   "neta": 0.09,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795816277518,
+   "titulo": "Nottingham Forest FC vs. Chelsea FC",
+   "dur": 0.874,
+   "gan": 0.96,
+   "neta": 0.02,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795816277458,
+   "titulo": "Nottingham Forest FC vs. Chelsea FC",
+   "dur": 0.032,
+   "gan": 0.87,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
+  },
+  {
+   "inicio": 1795816277380,
+   "titulo": "Nottingham Forest FC vs. Chelsea FC",
+   "dur": 0.047,
+   "gan": 0.9,
+   "neta": 0.1,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795816277250,
+   "titulo": "Nottingham Forest FC vs. Chelsea FC",
+   "dur": 0.128,
+   "gan": 1.09,
+   "neta": 0.02,
+   "lado": "no"
   }
  ]
 }
