@@ -1,21 +1,21 @@
 {
- "actualizado": 1795782460265,
- "inicio": 1795046413847,
+ "actualizado": 1795785476684,
+ "inicio": 1795046423612,
  "ejecucion": {
-  "inicio": 1795779459903,
-  "fin": 1795782460265,
-  "mensajes": 10486264,
+  "inicio": 1795782476349,
+  "fin": 1795785476684,
+  "mensajes": 10541591,
   "reconexiones": 0,
-  "eventos": 631,
+  "eventos": 634,
   "errores": [],
-  "nuevos": 11,
-  "nuevosRentables": 2,
-  "nuevosNeta": 7.5
+  "nuevos": 1,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 8980,
- "falsos": 4936,
+ "total": 8967,
+ "falsos": 4945,
  "largos": {
-  "episodios": 18263,
+  "episodios": 18271,
   "eventos": 156,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3510,
-   "gan": 11680.37,
-   "nNeta": 1146,
-   "neta": 3370.73
+   "n": 3504,
+   "gan": 11596.49,
+   "nNeta": 1143,
+   "neta": 3327.57
   },
   {
    "s": 2,
-   "n": 1565,
-   "gan": 5223.12,
+   "n": 1564,
+   "gan": 5201,
    "nNeta": 427,
    "neta": 1203.28
   },
   {
    "s": 5,
    "n": 839,
-   "gan": 2569.29,
+   "gan": 2568.08,
    "nNeta": 184,
    "neta": 372.53
   },
   {
    "s": 30,
-   "n": 301,
-   "gan": 724.68,
+   "n": 302,
+   "gan": 724.1,
    "nNeta": 50,
    "neta": 54.84
   }
  ],
- "rentables": 2596,
+ "rentables": 2589,
  "porCapital": [
   {
    "capital": 500,
    "ops": 140,
    "descartadas": 352,
    "neta": 233,
-   "dias": 8.48,
-   "semana": 192.25
+   "dias": 8.51,
+   "semana": 191.58
   },
   {
    "capital": 1000,
    "ops": 159,
    "descartadas": 352,
    "neta": 373,
-   "dias": 8.48,
-   "semana": 307.78
+   "dias": 8.51,
+   "semana": 306.69
   },
   {
    "capital": 2000,
    "ops": 169,
    "descartadas": 352,
    "neta": 590.26,
-   "dias": 8.48,
-   "semana": 487.05
+   "dias": 8.51,
+   "semana": 485.33
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 101.7,
-   "episodios": 4454,
+   "horas": 102.5,
+   "episodios": 4456,
    "sospechosas": 44,
    "realistaNeta": 875.15,
    "capital": {
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8851,
-  "n": 2062,
-  "gan": 6338.78,
+  "conDato": 8838,
+  "n": 2061,
+  "gan": 6316.66,
   "nNeta": 554,
   "neta": 1375.14
  },
@@ -260,32 +260,32 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2978
+   "n": 2974
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3544
+   "n": 3539
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1608
+   "n": 1604
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 538
+   "n": 537
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 159
+   "n": 158
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 142
+   "n": 144
   }
  ],
  "porEvento": [
@@ -647,10 +647,26 @@
   },
   {
    "h": 1795780800000,
-   "n": 6
+   "n": 8
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795782467666,
+   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
+   "dur": 3008.685,
+   "gan": 3.43,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795782476499,
+   "titulo": "Spain General Election: PNV # of seats?",
+   "dur": 2999.852,
+   "gan": 0.62,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1795780347784,
    "titulo": "Spain General Election: PNV # of seats?",
@@ -754,22 +770,6 @@
    "gan": 3.59,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1795778894011,
-   "titulo": "FC Emmen vs. Helmond Sport",
-   "dur": 41.741,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795777728689,
-   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
-   "dur": 41.318,
-   "gan": 3.34,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
