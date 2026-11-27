@@ -1,21 +1,21 @@
 {
- "actualizado": 1795758335296,
+ "actualizado": 1795761350043,
  "inicio": 1795040388826,
  "ejecucion": {
-  "inicio": 1795755334983,
-  "fin": 1795758335296,
-  "mensajes": 9905948,
+  "inicio": 1795758349699,
+  "fin": 1795761350043,
+  "mensajes": 9714801,
   "reconexiones": 0,
-  "eventos": 580,
+  "eventos": 583,
   "errores": [],
-  "nuevos": 9,
-  "nuevosRentables": 4,
-  "nuevosNeta": 0.23
+  "nuevos": 1,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 8822,
- "falsos": 4949,
+ "total": 8823,
+ "falsos": 4950,
  "largos": {
-  "episodios": 18390,
+  "episodios": 18391,
   "eventos": 157,
   "dias": 7
  },
@@ -27,24 +27,24 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3420,
-   "gan": 10356.46,
-   "nNeta": 1082,
-   "neta": 2709.97
+   "n": 3421,
+   "gan": 10357.09,
+   "nNeta": 1083,
+   "neta": 2710.58
   },
   {
    "s": 2,
-   "n": 1514,
-   "gan": 4438.09,
-   "nNeta": 399,
-   "neta": 788.72
+   "n": 1515,
+   "gan": 4438.76,
+   "nNeta": 400,
+   "neta": 789.37
   },
   {
    "s": 5,
-   "n": 812,
-   "gan": 2235.33,
-   "nNeta": 173,
-   "neta": 218.09
+   "n": 813,
+   "gan": 2236.09,
+   "nNeta": 174,
+   "neta": 218.83
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 43.93
   }
  ],
- "rentables": 2472,
+ "rentables": 2473,
  "porCapital": [
   {
    "capital": 500,
    "ops": 140,
    "descartadas": 340,
    "neta": 266.83,
-   "dias": 8.28,
-   "semana": 225.67
+   "dias": 8.31,
+   "semana": 224.73
   },
   {
    "capital": 1000,
    "ops": 159,
    "descartadas": 340,
    "neta": 400.78,
-   "dias": 8.28,
-   "semana": 338.96
+   "dias": 8.31,
+   "semana": 337.54
   },
   {
    "capital": 2000,
    "ops": 167,
    "descartadas": 340,
    "neta": 594.97,
-   "dias": 8.28,
-   "semana": 503.2
+   "dias": 8.31,
+   "semana": 501.09
   }
  ],
  "maxBloqueoH": 24,
@@ -129,9 +129,9 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 95,
-   "episodios": 4180,
-   "sospechosas": 33,
+   "horas": 95.8,
+   "episodios": 4181,
+   "sospechosas": 34,
    "realistaNeta": 552.95,
    "capital": {
     "500": 100.59,
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 119,
+  "n": 120,
   "top": [
    {
     "inicio": 1795574360666,
@@ -275,7 +275,7 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 520
+   "n": 521
   },
   {
    "et": "30 s–5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795489200000,
-   "n": 28
-  },
   {
    "h": 1795492800000,
    "n": 63
@@ -648,9 +644,21 @@
   {
    "h": 1795755600000,
    "n": 9
+  },
+  {
+   "h": 1795759200000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795761003549,
+   "titulo": "Highest temperature in Guangzhou on November 27?",
+   "dur": 20.865,
+   "gan": 0.54,
+   "neta": 0.52,
+   "lado": "si"
+  },
   {
    "inicio": 1795757173194,
    "titulo": "Highest temperature in Beijing on November 27?",
@@ -760,14 +768,6 @@
    "titulo": "Club León FC vs. CF Cruz Azul",
    "dur": 0.829,
    "gan": 1.1,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795750648729,
-   "titulo": "Club León FC vs. CF Cruz Azul",
-   "dur": 1.301,
-   "gan": 0.77,
    "neta": 0,
    "lado": "si"
   }
