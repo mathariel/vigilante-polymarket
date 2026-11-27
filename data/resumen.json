@@ -1,22 +1,22 @@
 {
- "actualizado": 1795749293122,
+ "actualizado": 1795752308246,
  "inicio": 1795040388826,
  "ejecucion": {
-  "inicio": 1795746292786,
-  "fin": 1795749293122,
-  "mensajes": 9293180,
+  "inicio": 1795749307970,
+  "fin": 1795752308246,
+  "mensajes": 9558035,
   "reconexiones": 0,
-  "eventos": 582,
+  "eventos": 580,
   "errores": [],
-  "nuevos": 12,
+  "nuevos": 3,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 8811,
- "falsos": 4943,
+ "total": 8809,
+ "falsos": 4945,
  "largos": {
-  "episodios": 18397,
-  "eventos": 156,
+  "episodios": 18401,
+  "eventos": 157,
   "dias": 7
  },
  "enEspera": {
@@ -27,22 +27,22 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3413,
-   "gan": 10350.66,
+   "n": 3410,
+   "gan": 10347.54,
    "nNeta": 1075,
    "neta": 2706.2
   },
   {
    "s": 2,
-   "n": 1510,
-   "gan": 4435.69,
+   "n": 1507,
+   "gan": 4433.59,
    "nNeta": 394,
    "neta": 787.65
   },
   {
    "s": 5,
-   "n": 812,
-   "gan": 2235.44,
+   "n": 809,
+   "gan": 2233.34,
    "nNeta": 171,
    "neta": 217.89
   },
@@ -54,31 +54,31 @@
    "neta": 43.91
   }
  ],
- "rentables": 2463,
+ "rentables": 2464,
  "porCapital": [
   {
    "capital": 500,
    "ops": 138,
    "descartadas": 336,
    "neta": 265.36,
-   "dias": 8.18,
-   "semana": 227.15
+   "dias": 8.21,
+   "semana": 226.34
   },
   {
    "capital": 1000,
    "ops": 157,
    "descartadas": 336,
    "neta": 399.31,
-   "dias": 8.18,
-   "semana": 341.82
+   "dias": 8.21,
+   "semana": 340.59
   },
   {
    "capital": 2000,
    "ops": 165,
    "descartadas": 336,
    "neta": 593.5,
-   "dias": 8.18,
-   "semana": 508.04
+   "dias": 8.21,
+   "semana": 506.22
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 4,
-   "horas": 92.5,
-   "episodios": 4164,
+   "horas": 93.3,
+   "episodios": 4167,
    "sospechosas": 32,
    "realistaNeta": 551.25,
    "capital": {
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8693,
-  "n": 2004,
-  "gan": 5674.29,
+  "conDato": 8691,
+  "n": 2001,
+  "gan": 5672.19,
   "nNeta": 518,
   "neta": 1087.41
  },
@@ -265,7 +265,7 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3465
+   "n": 3466
   },
   {
    "et": "1–5 s",
@@ -275,7 +275,7 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 522
+   "n": 519
   },
   {
    "et": "30 s–5 min",
@@ -647,10 +647,34 @@
   },
   {
    "h": 1795748400000,
-   "n": 2
+   "n": 5
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795750860049,
+   "titulo": "Club León FC vs. CF Cruz Azul",
+   "dur": 0.829,
+   "gan": 1.1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795750648729,
+   "titulo": "Club León FC vs. CF Cruz Azul",
+   "dur": 1.301,
+   "gan": 0.77,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795750588927,
+   "titulo": "Highest temperature in Taipei on November 27?",
+   "dur": 0.19,
+   "gan": 0.61,
+   "neta": 0.5,
+   "lado": "si"
+  },
   {
    "inicio": 1795748999798,
    "titulo": "CF Pachuca vs. CD Guadalajara",
@@ -744,30 +768,6 @@
    "titulo": "Test Match: New Zealand vs India",
    "dur": 1.006,
    "gan": 1,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795746087950,
-   "titulo": "CF Pachuca vs. CD Guadalajara",
-   "dur": 0.42,
-   "gan": 0.75,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795745879562,
-   "titulo": "CF Pachuca vs. CD Guadalajara",
-   "dur": 0.824,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795745873424,
-   "titulo": "CF Pachuca vs. CD Guadalajara",
-   "dur": 0.718,
-   "gan": 0.89,
    "neta": 0,
    "lado": "si"
   }
