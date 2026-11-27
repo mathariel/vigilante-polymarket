@@ -1,84 +1,84 @@
 {
- "actualizado": 1795773414266,
- "inicio": 1795040388826,
+ "actualizado": 1795776429726,
+ "inicio": 1795042865290,
  "ejecucion": {
-  "inicio": 1795770413974,
-  "fin": 1795773414267,
-  "mensajes": 9807583,
+  "inicio": 1795773429379,
+  "fin": 1795776429726,
+  "mensajes": 8358429,
   "reconexiones": 0,
-  "eventos": 613,
+  "eventos": 618,
   "errores": [],
-  "nuevos": 72,
-  "nuevosRentables": 4,
-  "nuevosNeta": 8.01
+  "nuevos": 132,
+  "nuevosRentables": 21,
+  "nuevosNeta": 287.62
  },
- "total": 8899,
- "falsos": 4977,
+ "total": 8989,
+ "falsos": 4978,
  "largos": {
-  "episodios": 18295,
-  "eventos": 157,
+  "episodios": 18207,
+  "eventos": 155,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 61,
-  "eventos": 29
+  "episodios": 60,
+  "eventos": 28
  },
- "mediana": 0.243,
+ "mediana": 0.244,
  "captura": [
   {
    "s": 0.5,
-   "n": 3454,
-   "gan": 10529.52,
-   "nNeta": 1098,
-   "neta": 2731.79
+   "n": 3496,
+   "gan": 11561.23,
+   "nNeta": 1138,
+   "neta": 3284.47
   },
   {
    "s": 2,
-   "n": 1532,
-   "gan": 4534.17,
-   "nNeta": 405,
-   "neta": 799.28
+   "n": 1551,
+   "gan": 5059.82,
+   "nNeta": 421,
+   "neta": 1095.87
   },
   {
    "s": 5,
-   "n": 823,
-   "gan": 2293.2,
-   "nNeta": 176,
-   "neta": 219.34
+   "n": 831,
+   "gan": 2441.33,
+   "nNeta": 181,
+   "neta": 271.73
   },
   {
    "s": 30,
-   "n": 292,
-   "gan": 697.91,
+   "n": 293,
+   "gan": 698.34,
    "nNeta": 49,
    "neta": 43.93
   }
  ],
- "rentables": 2523,
+ "rentables": 2599,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 143,
-   "descartadas": 342,
-   "neta": 268.5,
-   "dias": 8.44,
-   "semana": 222.68
+   "ops": 141,
+   "descartadas": 349,
+   "neta": 233.53,
+   "dias": 8.43,
+   "semana": 193.96
   },
   {
    "capital": 1000,
-   "ops": 162,
-   "descartadas": 342,
-   "neta": 408.9,
-   "dias": 8.44,
-   "semana": 339.12
+   "ops": 160,
+   "descartadas": 349,
+   "neta": 373.53,
+   "dias": 8.43,
+   "semana": 310.24
   },
   {
    "capital": 2000,
    "ops": 170,
-   "descartadas": 342,
-   "neta": 603.36,
-   "dias": 8.44,
-   "semana": 500.39
+   "descartadas": 349,
+   "neta": 590.79,
+   "dias": 8.43,
+   "semana": 490.69
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 99.2,
-   "episodios": 4262,
-   "sospechosas": 34,
-   "realistaNeta": 561.46,
+   "horas": 100,
+   "episodios": 4394,
+   "sospechosas": 43,
+   "realistaNeta": 849.08,
    "capital": {
     "500": 102.26,
     "1000": 151.47,
-    "2000": 240.19
+    "2000": 262.99
    },
    "cumple": true
   }
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 120,
+  "n": 128,
   "top": [
    {
     "inicio": 1795574360666,
@@ -187,6 +187,26 @@
     "ret": 10.3
    },
    {
+    "inicio": 1795774150877,
+    "titulo": "Jong AZ Alkmaar vs. TOP Oss",
+    "lado": "no",
+    "dur": 3.651,
+    "gan": 64.05,
+    "neta": 59.23,
+    "costo": 290.49,
+    "ret": 22
+   },
+   {
+    "inicio": 1795774157967,
+    "titulo": "Jong FC Utrecht vs. Almere City FC",
+    "lado": "no",
+    "dur": 1.548,
+    "gan": 54.7,
+    "neta": 48.84,
+    "costo": 399.46,
+    "ret": 13.7
+   },
+   {
     "inicio": 1795273848619,
     "titulo": "1. FC Union Berlin vs. RB Leipzig - Halftime Result",
     "lado": "si",
@@ -197,6 +217,26 @@
     "ret": 22.5
    },
    {
+    "inicio": 1795773762619,
+    "titulo": "Jong FC Utrecht vs. Almere City FC",
+    "lado": "no",
+    "dur": 1.957,
+    "gan": 45.23,
+    "neta": 37.14,
+    "costo": 433.93,
+    "ret": 10.4
+   },
+   {
+    "inicio": 1795773737857,
+    "titulo": "Jong FC Utrecht vs. Almere City FC",
+    "lado": "no",
+    "dur": 4.837,
+    "gan": 45.08,
+    "neta": 37.02,
+    "costo": 436.56,
+    "ret": 10.3
+   },
+   {
     "inicio": 1795229517798,
     "titulo": "Club Puebla vs. Atlético San Luis",
     "lado": "si",
@@ -205,77 +245,37 @@
     "neta": 35.64,
     "costo": 304.65,
     "ret": 14.2
-   },
-   {
-    "inicio": 1795654709331,
-    "titulo": "CA Mineiro vs. SC Corinthians Paulista",
-    "lado": "si",
-    "dur": 0.057,
-    "gan": 40.73,
-    "neta": 34.53,
-    "costo": 209.27,
-    "ret": 19.5
-   },
-   {
-    "inicio": 1795548817655,
-    "titulo": "FK Bodø/Glimt vs. LASK Linz",
-    "lado": "si",
-    "dur": 0.375,
-    "gan": 39.32,
-    "neta": 34.83,
-    "costo": 360.98,
-    "ret": 10.9
-   },
-   {
-    "inicio": 1795693740002,
-    "titulo": "Gangwon FC vs. Kitchee",
-    "lado": "no",
-    "dur": 1.056,
-    "gan": 27.52,
-    "neta": 26.42,
-    "costo": 153.56,
-    "ret": 17.9
-   },
-   {
-    "inicio": 1795054292065,
-    "titulo": "Grêmio FBPA vs. EC Bahia",
-    "lado": "si",
-    "dur": 0.01,
-    "gan": 25.17,
-    "neta": 19.23,
-    "costo": 187.79,
-    "ret": 13.4
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8779,
-  "n": 2027,
-  "gan": 5764.4,
-  "nNeta": 529,
-  "neta": 1097.62
+  "conDato": 8861,
+  "n": 2049,
+  "gan": 6265.06,
+  "nNeta": 547,
+  "neta": 1349.6
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2985
+   "n": 3002
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3501
+   "n": 3540
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1579
+   "n": 1605
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 531
+   "n": 538
   },
   {
    "et": "30 s–5 min",
@@ -285,7 +285,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 136
+   "n": 137
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795503600000,
-   "n": 10
-  },
   {
    "h": 1795507200000,
    "n": 962
@@ -648,126 +644,130 @@
   {
    "h": 1795770000000,
    "n": 72
+  },
+  {
+   "h": 1795773600000,
+   "n": 132
   }
  ],
  "recientes": [
   {
-   "inicio": 1795773303766,
-   "titulo": "VVV Venlo vs. RKC Waalwijk",
-   "dur": 0.152,
-   "gan": 1.43,
-   "neta": 0.9,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795773303700,
-   "titulo": "VVV Venlo vs. RKC Waalwijk",
-   "dur": 0.061,
-   "gan": 0.54,
-   "neta": 0.34,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795773303069,
-   "titulo": "VVV Venlo vs. RKC Waalwijk",
-   "dur": 0.21,
-   "gan": 0.54,
-   "neta": 0.34,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795773301752,
-   "titulo": "VVV Venlo vs. RKC Waalwijk",
-   "dur": 0.262,
-   "gan": 1.18,
-   "neta": 0.41,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795773288534,
-   "titulo": "VVV Venlo vs. RKC Waalwijk",
-   "dur": 13.03,
-   "gan": 1,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795773288330,
-   "titulo": "VVV Venlo vs. RKC Waalwijk",
-   "dur": 0.086,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795773227580,
-   "titulo": "VVV Venlo vs. RKC Waalwijk",
-   "dur": 0.021,
-   "gan": 0.68,
-   "neta": 0.05,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795773223140,
-   "titulo": "VVV Venlo vs. RKC Waalwijk",
-   "dur": 0.02,
-   "gan": 0.7,
-   "neta": 0.05,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795773212513,
-   "titulo": "VVV Venlo vs. RKC Waalwijk",
-   "dur": 0.709,
-   "gan": 6.5,
-   "neta": 0.75,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795773211431,
-   "titulo": "VVV Venlo vs. RKC Waalwijk",
-   "dur": 0.885,
-   "gan": 8.81,
-   "neta": 0.82,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795773210550,
-   "titulo": "VVV Venlo vs. RKC Waalwijk",
-   "dur": 0.713,
-   "gan": 16.49,
-   "neta": 8.89,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795773206839,
-   "titulo": "VVV Venlo vs. RKC Waalwijk",
-   "dur": 3.286,
-   "gan": 3.87,
-   "neta": 0.01,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795773194834,
-   "titulo": "VVV Venlo vs. RKC Waalwijk",
-   "dur": 1.365,
-   "gan": 3.96,
+   "inicio": 1795775506337,
+   "titulo": "AS Cannes vs. Le Puy Foot 43",
+   "dur": 405.652,
+   "gan": 0.6,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795773186457,
-   "titulo": "VVV Venlo vs. RKC Waalwijk",
-   "dur": 0.043,
-   "gan": 0.56,
+   "inicio": 1795775465608,
+   "titulo": "AS Cannes vs. Le Puy Foot 43",
+   "dur": 16.733,
+   "gan": 3.98,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795773173570,
-   "titulo": "VVV Venlo vs. RKC Waalwijk",
-   "dur": 3.718,
-   "gan": 3.83,
+   "inicio": 1795775112912,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 0.15,
+   "gan": 0.52,
+   "neta": 0.49,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795775109802,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 0.658,
+   "gan": 0.78,
+   "neta": 0.67,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795775107715,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 0.194,
+   "gan": 1.17,
+   "neta": 1.11,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795775107639,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 0.003,
+   "gan": 0.51,
+   "neta": 0.46,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795775106683,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 0.466,
+   "gan": 0.92,
+   "neta": 0.89,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795775104068,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 1.985,
+   "gan": 0.88,
+   "neta": 0.85,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795775098469,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 0.845,
+   "gan": 0.69,
+   "neta": 0.66,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795774841378,
+   "titulo": "Jong FC Utrecht vs. Almere City FC",
+   "dur": 0.098,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795774841195,
+   "titulo": "Jong FC Utrecht vs. Almere City FC",
+   "dur": 0.078,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795774840981,
+   "titulo": "Jong FC Utrecht vs. Almere City FC",
+   "dur": 0.088,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795774840782,
+   "titulo": "Jong FC Utrecht vs. Almere City FC",
+   "dur": 0.089,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795774840581,
+   "titulo": "Jong FC Utrecht vs. Almere City FC",
+   "dur": 0.089,
+   "gan": 0.53,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795774840376,
+   "titulo": "Jong FC Utrecht vs. Almere City FC",
+   "dur": 0.098,
+   "gan": 0.52,
    "neta": 0,
    "lado": "no"
   }
