@@ -1,21 +1,21 @@
 {
- "actualizado": 1795770398887,
+ "actualizado": 1795773414266,
  "inicio": 1795040388826,
  "ejecucion": {
-  "inicio": 1795767398532,
-  "fin": 1795770398887,
-  "mensajes": 9808226,
+  "inicio": 1795770413974,
+  "fin": 1795773414267,
+  "mensajes": 9807583,
   "reconexiones": 0,
-  "eventos": 601,
+  "eventos": 613,
   "errores": [],
-  "nuevos": 7,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 72,
+  "nuevosRentables": 4,
+  "nuevosNeta": 8.01
  },
- "total": 8832,
- "falsos": 4955,
+ "total": 8899,
+ "falsos": 4977,
  "largos": {
-  "episodios": 18383,
+  "episodios": 18295,
   "eventos": 157,
   "dias": 7
  },
@@ -23,28 +23,28 @@
   "episodios": 61,
   "eventos": 29
  },
- "mediana": 0.242,
+ "mediana": 0.243,
  "captura": [
   {
    "s": 0.5,
-   "n": 3423,
-   "gan": 10358.51,
-   "nNeta": 1084,
-   "neta": 2711.08
+   "n": 3454,
+   "gan": 10529.52,
+   "nNeta": 1098,
+   "neta": 2731.79
   },
   {
    "s": 2,
-   "n": 1517,
-   "gan": 4440.18,
-   "nNeta": 401,
-   "neta": 789.87
+   "n": 1532,
+   "gan": 4534.17,
+   "nNeta": 405,
+   "neta": 799.28
   },
   {
    "s": 5,
-   "n": 815,
-   "gan": 2237.51,
-   "nNeta": 175,
-   "neta": 219.33
+   "n": 823,
+   "gan": 2293.2,
+   "nNeta": 176,
+   "neta": 219.34
   },
   {
    "s": 30,
@@ -54,31 +54,31 @@
    "neta": 43.93
   }
  ],
- "rentables": 2479,
+ "rentables": 2523,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 141,
-   "descartadas": 340,
-   "neta": 267.33,
-   "dias": 8.42,
-   "semana": 222.35
+   "ops": 143,
+   "descartadas": 342,
+   "neta": 268.5,
+   "dias": 8.44,
+   "semana": 222.68
   },
   {
    "capital": 1000,
-   "ops": 160,
-   "descartadas": 340,
-   "neta": 401.28,
-   "dias": 8.42,
-   "semana": 333.76
+   "ops": 162,
+   "descartadas": 342,
+   "neta": 408.9,
+   "dias": 8.44,
+   "semana": 339.12
   },
   {
    "capital": 2000,
-   "ops": 168,
-   "descartadas": 340,
-   "neta": 595.47,
-   "dias": 8.42,
-   "semana": 495.27
+   "ops": 170,
+   "descartadas": 342,
+   "neta": 603.36,
+   "dias": 8.44,
+   "semana": 500.39
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 98.3,
-   "episodios": 4190,
+   "horas": 99.2,
+   "episodios": 4262,
    "sospechosas": 34,
-   "realistaNeta": 553.45,
+   "realistaNeta": 561.46,
    "capital": {
-    "500": 101.09,
-    "1000": 143.85,
-    "2000": 232.3
+    "500": 102.26,
+    "1000": 151.47,
+    "2000": 240.19
    },
    "cumple": true
   }
@@ -250,32 +250,32 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8712,
-  "n": 2011,
-  "gan": 5678.83,
-  "nNeta": 525,
-  "neta": 1089.61
+  "conDato": 8779,
+  "n": 2027,
+  "gan": 5764.4,
+  "nNeta": 529,
+  "neta": 1097.62
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2968
+   "n": 2985
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3473
+   "n": 3501
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1565
+   "n": 1579
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 523
+   "n": 531
   },
   {
    "et": "30 s–5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795500000000,
-   "n": 2
-  },
   {
    "h": 1795503600000,
    "n": 10
@@ -648,128 +644,132 @@
   {
    "h": 1795766400000,
    "n": 7
+  },
+  {
+   "h": 1795770000000,
+   "n": 72
   }
  ],
  "recientes": [
   {
-   "inicio": 1795769542491,
-   "titulo": "Highest temperature in Karachi on November 27?",
-   "dur": 0.08,
-   "gan": 1.05,
-   "neta": 0.92,
+   "inicio": 1795773303766,
+   "titulo": "VVV Venlo vs. RKC Waalwijk",
+   "dur": 0.152,
+   "gan": 1.43,
+   "neta": 0.9,
    "lado": "si"
   },
   {
-   "inicio": 1795769103538,
-   "titulo": "Jong FC Utrecht vs. Almere City FC",
-   "dur": 5.217,
-   "gan": 0.88,
+   "inicio": 1795773303700,
+   "titulo": "VVV Venlo vs. RKC Waalwijk",
+   "dur": 0.061,
+   "gan": 0.54,
+   "neta": 0.34,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795773303069,
+   "titulo": "VVV Venlo vs. RKC Waalwijk",
+   "dur": 0.21,
+   "gan": 0.54,
+   "neta": 0.34,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795773301752,
+   "titulo": "VVV Venlo vs. RKC Waalwijk",
+   "dur": 0.262,
+   "gan": 1.18,
+   "neta": 0.41,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795773288534,
+   "titulo": "VVV Venlo vs. RKC Waalwijk",
+   "dur": 13.03,
+   "gan": 1,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795769067857,
-   "titulo": "Macarthur FC vs. Melbourne City FC",
-   "dur": 0.26,
-   "gan": 0.53,
+   "inicio": 1795773288330,
+   "titulo": "VVV Venlo vs. RKC Waalwijk",
+   "dur": 0.086,
+   "gan": 0.71,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795769067617,
-   "titulo": "Macarthur FC vs. Melbourne City FC",
-   "dur": 0.004,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795768871945,
-   "titulo": "Highest temperature in NYC on November 27?",
-   "dur": 0.286,
-   "gan": 0.65,
-   "neta": 0.59,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795768181751,
-   "titulo": "Highest temperature in Paris on November 27?",
-   "dur": 0.379,
-   "gan": 1.54,
-   "neta": 1.2,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795768181370,
-   "titulo": "Highest temperature in Paris on November 27?",
-   "dur": 0.372,
-   "gan": 5.74,
-   "neta": 5.23,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795764475960,
-   "titulo": "Highest temperature in Chengdu on November 27?",
-   "dur": 6.994,
-   "gan": 0.67,
-   "neta": 0.63,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795762627374,
-   "titulo": "Anthropic’s valuation end of November 2026?",
-   "dur": 0.158,
-   "gan": 1.26,
-   "neta": 0.1,
+   "inicio": 1795773227580,
+   "titulo": "VVV Venlo vs. RKC Waalwijk",
+   "dur": 0.021,
+   "gan": 0.68,
+   "neta": 0.05,
    "lado": "no"
   },
   {
-   "inicio": 1795761003549,
-   "titulo": "Highest temperature in Guangzhou on November 27?",
-   "dur": 20.865,
-   "gan": 0.54,
-   "neta": 0.52,
-   "lado": "si"
+   "inicio": 1795773223140,
+   "titulo": "VVV Venlo vs. RKC Waalwijk",
+   "dur": 0.02,
+   "gan": 0.7,
+   "neta": 0.05,
+   "lado": "no"
   },
   {
-   "inicio": 1795757173194,
-   "titulo": "Highest temperature in Beijing on November 27?",
-   "dur": 0.049,
-   "gan": 1.15,
-   "neta": 1.01,
-   "lado": "si"
+   "inicio": 1795773212513,
+   "titulo": "VVV Venlo vs. RKC Waalwijk",
+   "dur": 0.709,
+   "gan": 6.5,
+   "neta": 0.75,
+   "lado": "no"
   },
   {
-   "inicio": 1795756450454,
-   "titulo": "Alphabet’s Market Cap end of November 2026?",
-   "dur": 4.728,
-   "gan": 0.5,
+   "inicio": 1795773211431,
+   "titulo": "VVV Venlo vs. RKC Waalwijk",
+   "dur": 0.885,
+   "gan": 8.81,
+   "neta": 0.82,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795773210550,
+   "titulo": "VVV Venlo vs. RKC Waalwijk",
+   "dur": 0.713,
+   "gan": 16.49,
+   "neta": 8.89,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795773206839,
+   "titulo": "VVV Venlo vs. RKC Waalwijk",
+   "dur": 3.286,
+   "gan": 3.87,
    "neta": 0.01,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795756414692,
-   "titulo": "Alphabet’s Market Cap end of November 2026?",
-   "dur": 35.738,
-   "gan": 0.51,
-   "neta": 0.02,
-   "lado": "si"
+   "inicio": 1795773194834,
+   "titulo": "VVV Venlo vs. RKC Waalwijk",
+   "dur": 1.365,
+   "gan": 3.96,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1795756410447,
-   "titulo": "Alphabet’s Market Cap end of November 2026?",
-   "dur": 3.453,
-   "gan": 0.51,
-   "neta": 0.02,
-   "lado": "si"
+   "inicio": 1795773186457,
+   "titulo": "VVV Venlo vs. RKC Waalwijk",
+   "dur": 0.043,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1795756392792,
-   "titulo": "Alphabet’s Market Cap end of November 2026?",
-   "dur": 10.497,
-   "gan": 0.68,
-   "neta": 0.17,
-   "lado": "si"
+   "inicio": 1795773173570,
+   "titulo": "VVV Venlo vs. RKC Waalwijk",
+   "dur": 3.718,
+   "gan": 3.83,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
