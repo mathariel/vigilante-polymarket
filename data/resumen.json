@@ -1,84 +1,84 @@
 {
- "actualizado": 1795788503284,
+ "actualizado": 1795791522472,
  "inicio": 1795049426426,
  "ejecucion": {
-  "inicio": 1795785502895,
-  "fin": 1795788503284,
-  "mensajes": 11095009,
+  "inicio": 1795788522186,
+  "fin": 1795791522472,
+  "mensajes": 11384663,
   "reconexiones": 0,
-  "eventos": 648,
+  "eventos": 656,
   "errores": [],
-  "nuevos": 11,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 56,
+  "nuevosRentables": 2,
+  "nuevosNeta": 0.36
  },
- "total": 8966,
- "falsos": 4944,
+ "total": 8992,
+ "falsos": 5053,
  "largos": {
-  "episodios": 18278,
-  "eventos": 157,
+  "episodios": 18147,
+  "eventos": 155,
   "dias": 7
  },
  "enEspera": {
   "episodios": 60,
   "eventos": 28
  },
- "mediana": 0.247,
+ "mediana": 0.246,
  "captura": [
   {
    "s": 0.5,
-   "n": 3504,
-   "gan": 11604.74,
-   "nNeta": 1145,
-   "neta": 3342.45
+   "n": 3506,
+   "gan": 11617.8,
+   "nNeta": 1142,
+   "neta": 3341.3
   },
   {
    "s": 2,
-   "n": 1564,
-   "gan": 5192.24,
-   "nNeta": 427,
-   "neta": 1203.28
+   "n": 1565,
+   "gan": 5200.96,
+   "nNeta": 426,
+   "neta": 1202.6
   },
   {
    "s": 5,
-   "n": 839,
-   "gan": 2559.32,
-   "nNeta": 184,
-   "neta": 372.53
+   "n": 841,
+   "gan": 2567.42,
+   "nNeta": 185,
+   "neta": 372.87
   },
   {
    "s": 30,
-   "n": 304,
-   "gan": 725.58,
+   "n": 306,
+   "gan": 727.75,
    "nNeta": 50,
    "neta": 54.84
   }
  ],
- "rentables": 2594,
+ "rentables": 2605,
  "porCapital": [
   {
    "capital": 500,
    "ops": 140,
-   "descartadas": 352,
+   "descartadas": 351,
    "neta": 233,
-   "dias": 8.54,
-   "semana": 190.9
+   "dias": 8.53,
+   "semana": 191.14
   },
   {
    "capital": 1000,
    "ops": 159,
-   "descartadas": 352,
+   "descartadas": 351,
    "neta": 373,
-   "dias": 8.54,
-   "semana": 305.61
+   "dias": 8.53,
+   "semana": 306
   },
   {
    "capital": 2000,
    "ops": 169,
-   "descartadas": 352,
+   "descartadas": 351,
    "neta": 590.26,
-   "dias": 8.54,
-   "semana": 483.62
+   "dias": 8.53,
+   "semana": 484.23
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 103.3,
-   "episodios": 4468,
-   "sospechosas": 45,
-   "realistaNeta": 875.15,
+   "horas": 104.2,
+   "episodios": 4525,
+   "sospechosas": 46,
+   "realistaNeta": 875.51,
    "capital": {
     "500": 102.26,
     "1000": 151.47,
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 130,
+  "n": 131,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,27 +250,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8836,
-  "n": 2061,
-  "gan": 6307.9,
-  "nNeta": 554,
-  "neta": 1375.14
+  "conDato": 8861,
+  "n": 2064,
+  "gan": 6317.42,
+  "nNeta": 553,
+  "neta": 1374.46
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2974
+   "n": 2991
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3538
+   "n": 3547
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1604
+   "n": 1602
   },
   {
    "et": "5–30 s",
@@ -280,12 +280,12 @@
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 157
+   "n": 158
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 147
+   "n": 148
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795518000000,
-   "n": 61
-  },
   {
    "h": 1795521600000,
    "n": 11
@@ -648,127 +644,131 @@
   {
    "h": 1795784400000,
    "n": 12
+  },
+  {
+   "h": 1795788000000,
+   "n": 57
   }
  ],
  "recientes": [
   {
-   "inicio": 1795787707980,
+   "inicio": 1795791041455,
+   "titulo": "Donald Trump # Truth Social posts November 20 - November 27, 2026?",
+   "dur": 0.239,
+   "gan": 8.15,
+   "neta": 7.99,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795790728386,
+   "titulo": "Highest temperature in Madrid on November 27?",
+   "dur": 0.07,
+   "gan": 0.57,
+   "neta": 0.52,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795788524395,
    "titulo": "Spain General Election: PNV # of seats?",
-   "dur": 794.919,
+   "dur": 1405.798,
    "gan": 0.55,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795785478067,
-   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
-   "dur": 3024.832,
-   "gan": 1.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795785505244,
-   "titulo": "Spain General Election: PNV # of seats?",
-   "dur": 2201.48,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795787511087,
+   "inicio": 1795789708689,
    "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
-   "dur": 1.087,
-   "gan": 0.52,
+   "dur": 0.074,
+   "gan": 1.61,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795787509479,
+   "inicio": 1795789706999,
    "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
-   "dur": 0.63,
-   "gan": 0.52,
+   "dur": 1.658,
+   "gan": 0.6,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795787509097,
+   "inicio": 1795789676696,
    "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
-   "dur": 0.075,
-   "gan": 0.52,
+   "dur": 0.121,
+   "gan": 0.87,
+   "neta": 0.13,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795789674346,
+   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
+   "dur": 0.711,
+   "gan": 0.58,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795787327763,
+   "inicio": 1795789606815,
    "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
-   "dur": 0.341,
-   "gan": 0.85,
+   "dur": 6.35,
+   "gan": 1.76,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795786427233,
-   "titulo": "Maccabi Petah Tikva FC vs. Hapoel Tel Aviv FC",
-   "dur": 0.592,
-   "gan": 1.15,
-   "neta": 0.34,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795786427092,
-   "titulo": "Maccabi Petah Tikva FC vs. Hapoel Tel Aviv FC",
-   "dur": 0.023,
-   "gan": 1.15,
-   "neta": 0.34,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795786347778,
-   "titulo": "Highest temperature in Seoul (Incheon) on November 28?",
-   "dur": 0.097,
-   "gan": 0.81,
-   "neta": 0.7,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795785842240,
-   "titulo": "Uthai Thani FC vs. Sisaket United FC",
-   "dur": 0.793,
-   "gan": 23.16,
-   "neta": 19.16,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795785708483,
+   "inicio": 1795789604857,
    "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
-   "dur": 0.11,
+   "dur": 1.733,
+   "gan": 0.69,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795789604290,
+   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
+   "dur": 0.559,
+   "gan": 5.91,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795789592668,
+   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
+   "dur": 7.275,
+   "gan": 2.71,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795789592579,
+   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
+   "dur": 0.033,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795789588668,
+   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
+   "dur": 3.909,
+   "gan": 1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795789588006,
+   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
+   "dur": 0.471,
    "gan": 0.55,
-   "neta": 0.15,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795782467666,
-   "titulo": "Jong Ajax Amsterdam vs. Heracles Almelo",
-   "dur": 3008.685,
-   "gan": 3.43,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795782476499,
-   "titulo": "Spain General Election: PNV # of seats?",
-   "dur": 2999.852,
-   "gan": 0.62,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795780347784,
-   "titulo": "Spain General Election: PNV # of seats?",
-   "dur": 2112.122,
-   "gan": 0.61,
-   "neta": 0,
+   "inicio": 1795789585940,
+   "titulo": "Al-Sailiya SC vs. Al Gharafa SC",
+   "dur": 2.041,
+   "gan": 0.7,
+   "neta": 0.02,
    "lado": "si"
   }
  ]
