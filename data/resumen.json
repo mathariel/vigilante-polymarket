@@ -1,21 +1,21 @@
 {
- "actualizado": 1795755322379,
+ "actualizado": 1795758335296,
  "inicio": 1795040388826,
  "ejecucion": {
-  "inicio": 1795752322035,
-  "fin": 1795755322379,
-  "mensajes": 8861896,
+  "inicio": 1795755334983,
+  "fin": 1795758335296,
+  "mensajes": 9905948,
   "reconexiones": 0,
-  "eventos": 577,
+  "eventos": 580,
   "errores": [],
-  "nuevos": 4,
-  "nuevosRentables": 2,
-  "nuevosNeta": 1.47
+  "nuevos": 9,
+  "nuevosRentables": 4,
+  "nuevosNeta": 0.23
  },
- "total": 8813,
- "falsos": 4945,
+ "total": 8822,
+ "falsos": 4949,
  "largos": {
-  "episodios": 18400,
+  "episodios": 18390,
   "eventos": 157,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 60,
   "eventos": 28
  },
- "mediana": 0.241,
+ "mediana": 0.242,
  "captura": [
   {
    "s": 0.5,
-   "n": 3414,
-   "gan": 10352.89,
-   "nNeta": 1078,
-   "neta": 2709.74
+   "n": 3420,
+   "gan": 10356.46,
+   "nNeta": 1082,
+   "neta": 2709.97
   },
   {
    "s": 2,
-   "n": 1508,
-   "gan": 4434.52,
-   "nNeta": 395,
-   "neta": 788.49
+   "n": 1514,
+   "gan": 4438.09,
+   "nNeta": 399,
+   "neta": 788.72
   },
   {
    "s": 5,
-   "n": 809,
-   "gan": 2233.34,
-   "nNeta": 171,
-   "neta": 217.89
+   "n": 812,
+   "gan": 2235.33,
+   "nNeta": 173,
+   "neta": 218.09
   },
   {
    "s": 30,
-   "n": 290,
-   "gan": 696.7,
-   "nNeta": 48,
-   "neta": 43.91
+   "n": 292,
+   "gan": 697.91,
+   "nNeta": 49,
+   "neta": 43.93
   }
  ],
- "rentables": 2467,
+ "rentables": 2472,
  "porCapital": [
   {
    "capital": 500,
    "ops": 140,
-   "descartadas": 336,
+   "descartadas": 340,
    "neta": 266.83,
-   "dias": 8.24,
-   "semana": 226.63
+   "dias": 8.28,
+   "semana": 225.67
   },
   {
    "capital": 1000,
    "ops": 159,
-   "descartadas": 336,
+   "descartadas": 340,
    "neta": 400.78,
-   "dias": 8.24,
-   "semana": 340.4
+   "dias": 8.28,
+   "semana": 338.96
   },
   {
    "capital": 2000,
    "ops": 167,
-   "descartadas": 336,
+   "descartadas": 340,
    "neta": 594.97,
-   "dias": 8.24,
-   "semana": 505.33
+   "dias": 8.28,
+   "semana": 503.2
   }
  ],
  "maxBloqueoH": 24,
@@ -128,11 +128,11 @@
   },
   {
    "lunes": "2026-11-23",
-   "dias": 4,
-   "horas": 94.2,
-   "episodios": 4171,
+   "dias": 5,
+   "horas": 95,
+   "episodios": 4180,
    "sospechosas": 33,
-   "realistaNeta": 552.72,
+   "realistaNeta": 552.95,
    "capital": {
     "500": 100.59,
     "1000": 143.35,
@@ -250,17 +250,17 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 8694,
-  "n": 2003,
-  "gan": 5673.84,
-  "nNeta": 520,
-  "neta": 1088.88
+  "conDato": 8703,
+  "n": 2009,
+  "gan": 5677.41,
+  "nNeta": 524,
+  "neta": 1089.11
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 2963
+   "n": 2966
   },
   {
    "et": "0.1–1 s",
@@ -270,17 +270,17 @@
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1562
+   "n": 1565
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 519
+   "n": 520
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 154
+   "n": 156
   },
   {
    "et": "> 5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795485600000,
-   "n": 21
-  },
   {
    "h": 1795489200000,
    "n": 28
@@ -648,9 +644,85 @@
   {
    "h": 1795752000000,
    "n": 4
+  },
+  {
+   "h": 1795755600000,
+   "n": 9
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795757173194,
+   "titulo": "Highest temperature in Beijing on November 27?",
+   "dur": 0.049,
+   "gan": 1.15,
+   "neta": 1.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795756450454,
+   "titulo": "Alphabet’s Market Cap end of November 2026?",
+   "dur": 4.728,
+   "gan": 0.5,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795756414692,
+   "titulo": "Alphabet’s Market Cap end of November 2026?",
+   "dur": 35.738,
+   "gan": 0.51,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795756410447,
+   "titulo": "Alphabet’s Market Cap end of November 2026?",
+   "dur": 3.453,
+   "gan": 0.51,
+   "neta": 0.02,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795756392792,
+   "titulo": "Alphabet’s Market Cap end of November 2026?",
+   "dur": 10.497,
+   "gan": 0.68,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795756302872,
+   "titulo": "Alphabet’s Market Cap end of November 2026?",
+   "dur": 65.928,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795756293346,
+   "titulo": "Alphabet’s Market Cap end of November 2026?",
+   "dur": 3.336,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795756293293,
+   "titulo": "Alphabet’s Market Cap end of November 2026?",
+   "dur": 0.033,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795756293242,
+   "titulo": "Alphabet’s Market Cap end of November 2026?",
+   "dur": 0.019,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1795753820026,
    "titulo": "Club León FC vs. CF Cruz Azul",
@@ -698,78 +770,6 @@
    "gan": 0.77,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1795750588927,
-   "titulo": "Highest temperature in Taipei on November 27?",
-   "dur": 0.19,
-   "gan": 0.61,
-   "neta": 0.5,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795748999798,
-   "titulo": "CF Pachuca vs. CD Guadalajara",
-   "dur": 0.942,
-   "gan": 1.97,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795748999623,
-   "titulo": "CF Pachuca vs. CD Guadalajara",
-   "dur": 0.153,
-   "gan": 1.98,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795747788961,
-   "titulo": "CF Pachuca vs. CD Guadalajara",
-   "dur": 5.835,
-   "gan": 1.12,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795747188227,
-   "titulo": "CF Pachuca vs. CD Guadalajara",
-   "dur": 1.59,
-   "gan": 0.95,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795747140453,
-   "titulo": "CF Pachuca vs. CD Guadalajara",
-   "dur": 0.072,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795747140379,
-   "titulo": "CF Pachuca vs. CD Guadalajara",
-   "dur": 0.035,
-   "gan": 1,
-   "neta": 0.39,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795747140295,
-   "titulo": "CF Pachuca vs. CD Guadalajara",
-   "dur": 0.027,
-   "gan": 1,
-   "neta": 0.38,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795747140221,
-   "titulo": "CF Pachuca vs. CD Guadalajara",
-   "dur": 0.039,
-   "gan": 0.68,
-   "neta": 0.08,
-   "lado": "no"
   }
  ]
 }
