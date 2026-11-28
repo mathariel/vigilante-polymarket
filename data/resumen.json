@@ -1,84 +1,84 @@
 {
- "actualizado": 1795875952495,
- "inicio": 1795115768044,
+ "actualizado": 1795878966524,
+ "inicio": 1795118818682,
  "ejecucion": {
-  "inicio": 1795872952161,
-  "fin": 1795875952495,
-  "mensajes": 14111949,
+  "inicio": 1795875966173,
+  "fin": 1795878966524,
+  "mensajes": 13789106,
   "reconexiones": 0,
-  "eventos": 707,
+  "eventos": 712,
   "errores": [],
-  "nuevos": 136,
-  "nuevosRentables": 12,
-  "nuevosNeta": 9.29
+  "nuevos": 78,
+  "nuevosRentables": 5,
+  "nuevosNeta": 6.09
  },
- "total": 9607,
- "falsos": 5375,
+ "total": 9679,
+ "falsos": 5376,
  "largos": {
-  "episodios": 17347,
-  "eventos": 135,
+  "episodios": 17278,
+  "eventos": 134,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 64,
-  "eventos": 32
+  "episodios": 63,
+  "eventos": 31
  },
- "mediana": 0.264,
+ "mediana": 0.267,
  "captura": [
   {
    "s": 0.5,
-   "n": 3842,
-   "gan": 13369.33,
-   "nNeta": 1254,
-   "neta": 3620.67
+   "n": 3895,
+   "gan": 13452.11,
+   "nNeta": 1264,
+   "neta": 3636.8
   },
   {
    "s": 2,
-   "n": 1737,
-   "gan": 6326.59,
-   "nNeta": 476,
-   "neta": 1210.93
+   "n": 1765,
+   "gan": 6361.33,
+   "nNeta": 479,
+   "neta": 1217.74
   },
   {
    "s": 5,
-   "n": 943,
-   "gan": 3512.53,
+   "n": 962,
+   "gan": 3531.96,
    "nNeta": 209,
    "neta": 360.71
   },
   {
    "s": 30,
-   "n": 347,
-   "gan": 1587.81,
+   "n": 352,
+   "gan": 1590.61,
    "nNeta": 58,
    "neta": 60.85
   }
  ],
- "rentables": 2870,
+ "rentables": 2888,
  "porCapital": [
   {
    "capital": 500,
    "ops": 150,
-   "descartadas": 395,
+   "descartadas": 399,
    "neta": 228.42,
-   "dias": 8.76,
-   "semana": 182.46
+   "dias": 8.73,
+   "semana": 183.19
   },
   {
    "capital": 1000,
-   "ops": 169,
-   "descartadas": 395,
-   "neta": 358.62,
-   "dias": 8.76,
-   "semana": 286.47
+   "ops": 170,
+   "descartadas": 399,
+   "neta": 360.86,
+   "dias": 8.73,
+   "semana": 289.41
   },
   {
    "capital": 2000,
-   "ops": 180,
-   "descartadas": 395,
-   "neta": 576.71,
-   "dias": 8.76,
-   "semana": 460.69
+   "ops": 181,
+   "descartadas": 399,
+   "neta": 579.38,
+   "dias": 8.73,
+   "semana": 464.67
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 6,
-   "horas": 127.5,
-   "episodios": 5588,
-   "sospechosas": 72,
-   "realistaNeta": 964.55,
+   "horas": 128.3,
+   "episodios": 5667,
+   "sospechosas": 74,
+   "realistaNeta": 970.64,
    "capital": {
     "500": 122.87,
-    "1000": 179.13,
-    "2000": 291.48
+    "1000": 181.37,
+    "2000": 294.15
    },
    "cumple": true
   }
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 146,
+  "n": 148,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,42 +250,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 9461,
-  "n": 2262,
-  "gan": 7524.64,
-  "nNeta": 613,
-  "neta": 1418.13
+  "conDato": 9531,
+  "n": 2297,
+  "gan": 7570.46,
+  "nNeta": 618,
+  "neta": 1424.22
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 3070
+   "n": 3077
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3837
+   "n": 3860
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1743
+   "n": 1766
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 596
+   "n": 610
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 185
+   "n": 188
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 162
+   "n": 164
   }
  ],
  "porEvento": [
@@ -346,25 +346,21 @@
    "mediana": 0.204
   },
   {
+   "titulo": "Harrogate Town AFC vs. Yeovil Town FC",
+   "n": 104,
+   "gan": 148.42,
+   "neta": 37.83,
+   "mediana": 1.572
+  },
+  {
    "titulo": "SC Internacional vs. EC Vitória",
    "n": 97,
    "gan": 158.07,
    "neta": 5.46,
    "mediana": 0.098
-  },
-  {
-   "titulo": "FC Barcelona vs. Villarreal CF",
-   "n": 96,
-   "gan": 433.46,
-   "neta": 26.52,
-   "mediana": 0.71
   }
  ],
  "porHora": [
-  {
-   "h": 1795611600000,
-   "n": 14
-  },
   {
    "h": 1795615200000,
    "n": 9
@@ -647,128 +643,132 @@
   },
   {
    "h": 1795874400000,
-   "n": 70
+   "n": 117
+  },
+  {
+   "h": 1795878000000,
+   "n": 32
   }
  ],
  "recientes": [
   {
-   "inicio": 1795875343208,
-   "titulo": "Manchester United FC vs. Brentford FC - First Team to Score",
-   "dur": 608.956,
-   "gan": 0.8,
+   "inicio": 1795878924018,
+   "titulo": "1. FSV Mainz 05 vs. 1. FC Union Berlin",
+   "dur": 5.811,
+   "gan": 0.84,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795878909987,
+   "titulo": "KVC Westerlo vs. RAAL La Louviere",
+   "dur": 0.485,
+   "gan": 2.1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795878863983,
+   "titulo": "Hamburger SV vs. FC Bayern München",
+   "dur": 0.255,
+   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795875854883,
-   "titulo": "Preston North End FC vs. Norwich City FC",
-   "dur": 0.162,
-   "gan": 1.4,
+   "inicio": 1795878810783,
+   "titulo": "Carrarese Calcio vs. SS Juve Stabia",
+   "dur": 0.847,
+   "gan": 3.32,
+   "neta": 1.21,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795878804784,
+   "titulo": "Hamburger SV vs. FC Bayern München",
+   "dur": 3.953,
+   "gan": 0.56,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795875828297,
-   "titulo": "UD Las Palmas vs. FC Andorra",
-   "dur": 0.883,
-   "gan": 6,
-   "neta": 4.91,
+   "inicio": 1795878803652,
+   "titulo": "Hamburger SV vs. FC Bayern München",
+   "dur": 0.316,
+   "gan": 2.16,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795875418090,
+   "inicio": 1795878803330,
+   "titulo": "Hamburger SV vs. FC Bayern München",
+   "dur": 0.057,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795878802132,
+   "titulo": "Hamburger SV vs. FC Bayern München",
+   "dur": 1.161,
+   "gan": 5.76,
+   "neta": 0.1,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795878792687,
+   "titulo": "Hamburger SV vs. FC Bayern München",
+   "dur": 0.654,
+   "gan": 3.47,
+   "neta": 0.17,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795878681593,
    "titulo": "Frosinone Calcio vs. Parma Calcio 1913",
-   "dur": 13.664,
-   "gan": 2.37,
+   "dur": 1.789,
+   "gan": 2.1,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795875387334,
-   "titulo": "Turan Tovuz vs. FK Kapaz",
-   "dur": 0.78,
-   "gan": 0.71,
-   "neta": 0.29,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795875387126,
-   "titulo": "Turan Tovuz vs. FK Kapaz",
-   "dur": 0.162,
-   "gan": 6.75,
-   "neta": 5.93,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795875312614,
-   "titulo": "Preston North End FC vs. Norwich City FC",
-   "dur": 0.827,
-   "gan": 1.01,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795875309823,
-   "titulo": "Preston North End FC vs. Norwich City FC",
-   "dur": 0.688,
-   "gan": 1,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795875309589,
-   "titulo": "Preston North End FC vs. Norwich City FC",
-   "dur": 0.046,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795875302713,
-   "titulo": "Harrogate Town AFC vs. Yeovil Town FC",
-   "dur": 0.351,
-   "gan": 1.63,
-   "neta": 0.68,
    "lado": "no"
   },
   {
-   "inicio": 1795875295383,
-   "titulo": "Harrogate Town AFC vs. Yeovil Town FC",
-   "dur": 0.235,
-   "gan": 0.7,
-   "neta": 0.28,
+   "inicio": 1795878681452,
+   "titulo": "Frosinone Calcio vs. Parma Calcio 1913",
+   "dur": 0.097,
+   "gan": 2.15,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795875276907,
-   "titulo": "Harrogate Town AFC vs. Yeovil Town FC",
-   "dur": 0.212,
-   "gan": 0.65,
-   "neta": 0.22,
-   "lado": "no"
+   "inicio": 1795878649736,
+   "titulo": "1. FC Köln vs. SV 07 Elversberg",
+   "dur": 2.088,
+   "gan": 1.13,
+   "neta": 0.56,
+   "lado": "si"
   },
   {
-   "inicio": 1795875211576,
-   "titulo": "Peterborough United FC vs. Cambridge United FC",
-   "dur": 0.215,
+   "inicio": 1795878618113,
+   "titulo": "Hamburger SV vs. FC Bayern München",
+   "dur": 5.222,
+   "gan": 1.05,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795878614171,
+   "titulo": "Hamburger SV vs. FC Bayern München",
+   "dur": 1.783,
    "gan": 1.4,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795875200757,
-   "titulo": "Harrogate Town AFC vs. Yeovil Town FC",
-   "dur": 0.322,
-   "gan": 0.65,
-   "neta": 0.11,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795875196425,
-   "titulo": "Harrogate Town AFC vs. Yeovil Town FC",
-   "dur": 0.314,
-   "gan": 0.53,
-   "neta": 0.11,
+   "inicio": 1795878536624,
+   "titulo": "1. FC Köln vs. SV 07 Elversberg",
+   "dur": 1.796,
+   "gan": 3.55,
+   "neta": 1.89,
    "lado": "no"
   }
  ]
