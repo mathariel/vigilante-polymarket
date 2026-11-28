@@ -1,22 +1,22 @@
 {
- "actualizado": 1795863888278,
- "inicio": 1795100693819,
+ "actualizado": 1795866909961,
+ "inicio": 1795103728055,
  "ejecucion": {
-  "inicio": 1795860887911,
-  "fin": 1795863888278,
-  "mensajes": 10284726,
+  "inicio": 1795863909718,
+  "fin": 1795866909961,
+  "mensajes": 10206664,
   "reconexiones": 0,
-  "eventos": 654,
+  "eventos": 667,
   "errores": [],
-  "nuevos": 22,
-  "nuevosRentables": 3,
-  "nuevosNeta": 0.12
+  "nuevos": 17,
+  "nuevosRentables": 4,
+  "nuevosNeta": 1.42
  },
- "total": 9559,
- "falsos": 5383,
+ "total": 9576,
+ "falsos": 5389,
  "largos": {
-  "episodios": 17371,
-  "eventos": 140,
+  "episodios": 17352,
+  "eventos": 138,
   "dias": 7
  },
  "enEspera": {
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3803,
-   "gan": 13033.39,
-   "nNeta": 1240,
-   "neta": 3459.25
+   "n": 3810,
+   "gan": 13048.41,
+   "nNeta": 1245,
+   "neta": 3472.05
   },
   {
    "s": 2,
-   "n": 1701,
-   "gan": 6188.94,
-   "nNeta": 462,
-   "neta": 1206.07
+   "n": 1705,
+   "gan": 6191.09,
+   "nNeta": 465,
+   "neta": 1207.41
   },
   {
    "s": 5,
-   "n": 931,
-   "gan": 3455.32,
-   "nNeta": 203,
-   "neta": 358.15
+   "n": 934,
+   "gan": 3456.9,
+   "nNeta": 205,
+   "neta": 359.03
   },
   {
    "s": 30,
-   "n": 356,
-   "gan": 1591.97,
+   "n": 357,
+   "gan": 1592.48,
    "nNeta": 57,
    "neta": 59.5
   }
  ],
- "rentables": 2841,
+ "rentables": 2852,
  "porCapital": [
   {
    "capital": 500,
    "ops": 151,
-   "descartadas": 379,
+   "descartadas": 383,
    "neta": 230.09,
-   "dias": 8.76,
-   "semana": 183.84
+   "dias": 8.8,
+   "semana": 183.11
   },
   {
    "capital": 1000,
    "ops": 170,
-   "descartadas": 379,
+   "descartadas": 383,
    "neta": 357.26,
-   "dias": 8.76,
-   "semana": 285.45
+   "dias": 8.8,
+   "semana": 284.32
   },
   {
    "capital": 2000,
    "ops": 181,
-   "descartadas": 379,
+   "descartadas": 383,
    "neta": 575.35,
-   "dias": 8.76,
-   "semana": 459.71
+   "dias": 8.8,
+   "semana": 457.88
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 6,
-   "horas": 124.2,
-   "episodios": 5343,
-   "sospechosas": 66,
-   "realistaNeta": 952.52,
+   "horas": 125,
+   "episodios": 5360,
+   "sospechosas": 68,
+   "realistaNeta": 953.94,
    "capital": {
     "500": 120.08,
     "1000": 173.3,
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 141,
+  "n": 143,
   "top": [
    {
     "inicio": 1795574360666,
@@ -197,6 +197,16 @@
     "ret": 10.3
    },
    {
+    "inicio": 1795866661312,
+    "titulo": "Highest temperature in Munich on November 28?",
+    "lado": "si",
+    "dur": 0.249,
+    "gan": 72.66,
+    "neta": 71.77,
+    "costo": 247.05,
+    "ret": 29.4
+   },
+   {
     "inicio": 1795774150877,
     "titulo": "Jong AZ Alkmaar vs. TOP Oss",
     "lado": "no",
@@ -235,47 +245,37 @@
     "neta": 37.14,
     "costo": 433.93,
     "ret": 10.4
-   },
-   {
-    "inicio": 1795773737857,
-    "titulo": "Jong FC Utrecht vs. Almere City FC",
-    "lado": "no",
-    "dur": 4.837,
-    "gan": 45.08,
-    "neta": 37.02,
-    "costo": 436.56,
-    "ret": 10.3
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 9418,
-  "n": 2226,
-  "gan": 7388.26,
-  "nNeta": 598,
-  "neta": 1412.8
+  "conDato": 9433,
+  "n": 2232,
+  "gan": 7391.71,
+  "nNeta": 602,
+  "neta": 1414.22
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 3085
+   "n": 3090
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3807
+   "n": 3814
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1722
+   "n": 1724
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 575
+   "n": 577
   },
   {
    "et": "30 s–5 min",
@@ -285,7 +285,7 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 168
+   "n": 169
   }
  ],
  "porEvento": [
@@ -647,127 +647,127 @@
   },
   {
    "h": 1795863600000,
-   "n": 3
+   "n": 20
   }
  ],
  "recientes": [
   {
-   "inicio": 1795863842852,
-   "titulo": "FK Zemun vs. FK Radnicki 1923 Kragujevac",
-   "dur": 12.982,
+   "inicio": 1795866662001,
+   "titulo": "Highest temperature in Munich on November 28?",
+   "dur": 0.953,
+   "gan": 1.74,
+   "neta": 1.72,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795866661312,
+   "titulo": "Highest temperature in Munich on November 28?",
+   "dur": 0.249,
+   "gan": 72.66,
+   "neta": 71.77,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795866298986,
+   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
+   "dur": 0.201,
+   "gan": 1.49,
+   "neta": 0.12,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795866298774,
+   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
+   "dur": 0.062,
+   "gan": 1.42,
+   "neta": 0.12,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795866298646,
+   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
+   "dur": 0.061,
+   "gan": 1.46,
+   "neta": 0.16,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795866298166,
+   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
+   "dur": 0.086,
+   "gan": 0.96,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795866298049,
+   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
+   "dur": 0.058,
+   "gan": 0.98,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795866274691,
+   "titulo": "\"The Cat in the Hat\" total domestic gross by November 30?",
+   "dur": 19.176,
+   "gan": 0.55,
+   "neta": 0.47,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795866271810,
+   "titulo": "AVS Futebol SAD vs. Leixoes SC",
+   "dur": 0.402,
+   "gan": 0.57,
+   "neta": 0.09,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795866235063,
+   "titulo": "\"The Cat in the Hat\" total domestic gross by November 30?",
+   "dur": 15.128,
+   "gan": 0.52,
+   "neta": 0.41,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795866232060,
+   "titulo": "\"The Cat in the Hat\" total domestic gross by November 30?",
+   "dur": 2.752,
+   "gan": 0.54,
+   "neta": 0.43,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795865052910,
+   "titulo": "Lincoln City FC vs. Wolverhampton Wanderers FC",
+   "dur": 451.319,
    "gan": 0.51,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795863826568,
-   "titulo": "FK Zemun vs. FK Radnicki 1923 Kragujevac",
-   "dur": 0.326,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795863631327,
-   "titulo": "Mushuc Runa SC vs. CD Tecnico Universitario",
-   "dur": 0.209,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795862943801,
-   "titulo": "Mushuc Runa SC vs. CD Tecnico Universitario",
-   "dur": 164.764,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795862941227,
-   "titulo": "Mushuc Runa SC vs. CD Tecnico Universitario",
-   "dur": 1.64,
-   "gan": 5.4,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795862919452,
-   "titulo": "Mushuc Runa SC vs. CD Tecnico Universitario",
-   "dur": 11,
-   "gan": 1.1,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795862918912,
-   "titulo": "Mushuc Runa SC vs. CD Tecnico Universitario",
-   "dur": 0.166,
-   "gan": 1.1,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795862623207,
-   "titulo": "Sivasspor vs. Bodrum FK",
-   "dur": 0.925,
-   "gan": 10.42,
+   "inicio": 1795865459856,
+   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
+   "dur": 0.923,
+   "gan": 0.69,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795862622728,
-   "titulo": "Sivasspor vs. Bodrum FK",
-   "dur": 0.124,
-   "gan": 10.46,
-   "neta": 0,
+   "inicio": 1795865458522,
+   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
+   "dur": 1.079,
+   "gan": 0.64,
+   "neta": 0.1,
    "lado": "si"
   },
   {
-   "inicio": 1795862609845,
-   "titulo": "Sivasspor vs. Bodrum FK",
-   "dur": 1.059,
-   "gan": 8.87,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795862468889,
-   "titulo": "FK Zemun vs. FK Radnicki 1923 Kragujevac - Halftime Result",
-   "dur": 0.043,
-   "gan": 0.71,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795862107026,
-   "titulo": "FK Zemun vs. FK Radnicki 1923 Kragujevac - Halftime Result",
-   "dur": 360.759,
-   "gan": 1.7,
-   "neta": 0.15,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795861980202,
-   "titulo": "Central Coast Mariners FC vs. Auckland FC",
-   "dur": 0.318,
-   "gan": 7.2,
-   "neta": 6.75,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795861795251,
-   "titulo": "Bandirmaspor vs. Batman Petrolspor",
-   "dur": 3.989,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795861742236,
-   "titulo": "Mushuc Runa SC vs. CD Tecnico Universitario",
-   "dur": 0.157,
-   "gan": 1.25,
+   "inicio": 1795864655424,
+   "titulo": "Spain General Election: Turnout",
+   "dur": 0.361,
+   "gan": 0.9,
    "neta": 0,
    "lado": "no"
   }
