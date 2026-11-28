@@ -1,48 +1,48 @@
 {
- "actualizado": 1795836769291,
+ "actualizado": 1795839783383,
  "inicio": 1795067527984,
  "ejecucion": {
-  "inicio": 1795833768938,
-  "fin": 1795836769291,
-  "mensajes": 8482417,
+  "inicio": 1795836783057,
+  "fin": 1795839783383,
+  "mensajes": 8488599,
   "reconexiones": 0,
-  "eventos": 601,
+  "eventos": 613,
   "errores": [],
-  "nuevos": 38,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 3,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.52
  },
- "total": 9336,
- "falsos": 5229,
+ "total": 9339,
+ "falsos": 5233,
  "largos": {
-  "episodios": 17686,
+  "episodios": 17682,
   "eventos": 151,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 65,
-  "eventos": 32
+  "episodios": 66,
+  "eventos": 33
  },
  "mediana": 0.26,
  "captura": [
   {
    "s": 0.5,
-   "n": 3720,
-   "gan": 12877.27,
-   "nNeta": 1207,
-   "neta": 3459.72
+   "n": 3723,
+   "gan": 12880.96,
+   "nNeta": 1208,
+   "neta": 3460.24
   },
   {
    "s": 2,
-   "n": 1656,
-   "gan": 6149.85,
+   "n": 1658,
+   "gan": 6152.93,
    "nNeta": 444,
    "neta": 1235.62
   },
   {
    "s": 5,
-   "n": 899,
-   "gan": 3425.8,
+   "n": 900,
+   "gan": 3426.45,
    "nNeta": 193,
    "neta": 386.44
   },
@@ -54,31 +54,31 @@
    "neta": 59.34
   }
  ],
- "rentables": 2753,
+ "rentables": 2754,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 148,
+   "ops": 149,
    "descartadas": 359,
-   "neta": 247.23,
-   "dias": 8.89,
-   "semana": 194.7
+   "neta": 247.75,
+   "dias": 8.92,
+   "semana": 194.35
   },
   {
    "capital": 1000,
-   "ops": 167,
+   "ops": 168,
    "descartadas": 359,
-   "neta": 391.24,
-   "dias": 8.89,
-   "semana": 308.13
+   "neta": 391.76,
+   "dias": 8.92,
+   "semana": 307.33
   },
   {
    "capital": 2000,
-   "ops": 178,
+   "ops": 179,
    "descartadas": 359,
-   "neta": 609.33,
-   "dias": 8.89,
-   "semana": 479.89
+   "neta": 609.85,
+   "dias": 8.92,
+   "semana": 478.42
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 116.7,
-   "episodios": 5077,
+   "horas": 117.5,
+   "episodios": 5080,
    "sospechosas": 57,
-   "realistaNeta": 920.97,
+   "realistaNeta": 921.49,
    "capital": {
-    "500": 116.49,
-    "1000": 169.71,
-    "2000": 282.06
+    "500": 117.01,
+    "1000": 170.23,
+    "2000": 282.58
    },
    "cumple": true
   }
@@ -250,11 +250,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 9202,
-  "n": 2171,
-  "gan": 7314.12,
-  "nNeta": 575,
-  "neta": 1419.72
+  "conDato": 9205,
+  "n": 2174,
+  "gan": 7317.81,
+  "nNeta": 576,
+  "neta": 1420.24
  },
  "duraciones": [
   {
@@ -265,17 +265,17 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3705
+   "n": 3706
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1691
+   "n": 1692
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 561
+   "n": 562
   },
   {
    "et": "30 s–5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795572000000,
-   "n": 7
-  },
   {
    "h": 1795575600000,
    "n": 4
@@ -647,10 +643,38 @@
   },
   {
    "h": 1795834800000,
-   "n": 22
+   "n": 24
+  },
+  {
+   "h": 1795838400000,
+   "n": 1
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795838754644,
+   "titulo": "Lowest temperature in Paris on November 28?",
+   "dur": 0.821,
+   "gan": 0.56,
+   "neta": 0.47,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795837263572,
+   "titulo": "Millonarios FC vs. América de Cali",
+   "dur": 4.56,
+   "gan": 2.48,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795836908150,
+   "titulo": "Millonarios FC vs. América de Cali",
+   "dur": 10.723,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1795836161901,
    "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
@@ -744,30 +768,6 @@
    "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
    "dur": 0.075,
    "gan": 0.64,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795835503120,
-   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
-   "dur": 0.123,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795835502363,
-   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
-   "dur": 0.048,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795835495631,
-   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
-   "dur": 0.084,
-   "gan": 2.14,
    "neta": 0,
    "lado": "no"
   }
