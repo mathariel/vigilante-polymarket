@@ -1,21 +1,21 @@
 {
- "actualizado": 1795830740184,
+ "actualizado": 1795833753510,
  "inicio": 1795067527984,
  "ejecucion": {
-  "inicio": 1795827739774,
-  "fin": 1795830740184,
-  "mensajes": 8826866,
+  "inicio": 1795830753088,
+  "fin": 1795833753510,
+  "mensajes": 8006756,
   "reconexiones": 0,
-  "eventos": 604,
+  "eventos": 610,
   "errores": [],
-  "nuevos": 8,
+  "nuevos": 7,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 9291,
- "falsos": 5207,
+ "total": 9298,
+ "falsos": 5213,
  "largos": {
-  "episodios": 17743,
+  "episodios": 17734,
   "eventos": 151,
   "dias": 7
  },
@@ -27,8 +27,8 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3707,
-   "gan": 12858.4,
+   "n": 3710,
+   "gan": 12861.7,
    "nNeta": 1207,
    "neta": 3459.72
   },
@@ -54,31 +54,31 @@
    "neta": 59.34
   }
  ],
- "rentables": 2739,
+ "rentables": 2742,
  "porCapital": [
   {
    "capital": 500,
    "ops": 148,
    "descartadas": 359,
    "neta": 247.23,
-   "dias": 8.82,
-   "semana": 196.25
+   "dias": 8.85,
+   "semana": 195.47
   },
   {
    "capital": 1000,
    "ops": 167,
    "descartadas": 359,
    "neta": 391.24,
-   "dias": 8.82,
-   "semana": 310.56
+   "dias": 8.85,
+   "semana": 309.34
   },
   {
    "capital": 2000,
    "ops": 178,
    "descartadas": 359,
    "neta": 609.33,
-   "dias": 8.82,
-   "semana": 483.68
+   "dias": 8.85,
+   "semana": 481.78
   }
  ],
  "maxBloqueoH": 24,
@@ -129,9 +129,9 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 115,
-   "episodios": 5032,
-   "sospechosas": 56,
+   "horas": 115.8,
+   "episodios": 5039,
+   "sospechosas": 57,
    "realistaNeta": 920.97,
    "capital": {
     "500": 116.49,
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 133,
+  "n": 134,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 9158,
-  "n": 2163,
-  "gan": 7298.69,
+  "conDato": 9164,
+  "n": 2165,
+  "gan": 7301.24,
   "nNeta": 575,
   "neta": 1419.72
  },
@@ -260,17 +260,17 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 3011
+   "n": 3012
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3687
+   "n": 3691
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1685
+   "n": 1687
   },
   {
    "et": "5–30 s",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795561200000,
-   "n": 13
-  },
   {
    "h": 1795564800000,
    "n": 9
@@ -647,10 +643,70 @@
   },
   {
    "h": 1795827600000,
-   "n": 8
+   "n": 9
+  },
+  {
+   "h": 1795831200000,
+   "n": 6
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795833491585,
+   "titulo": "Columbus Crew vs. Inter Miami CF",
+   "dur": 0.469,
+   "gan": 1.8,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795833095116,
+   "titulo": "Lowest temperature in Karachi on November 28?",
+   "dur": 0.157,
+   "gan": 16.69,
+   "neta": 16.62,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795832983614,
+   "titulo": "Millonarios FC vs. América de Cali",
+   "dur": 0.639,
+   "gan": 0.56,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795832977040,
+   "titulo": "Millonarios FC vs. América de Cali",
+   "dur": 1.692,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795832919757,
+   "titulo": "Millonarios FC vs. América de Cali",
+   "dur": 0.032,
+   "gan": 4.34,
+   "neta": 1.08,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795832600492,
+   "titulo": "Millonarios FC vs. América de Cali",
+   "dur": 1.885,
+   "gan": 2,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795831162988,
+   "titulo": "Highest temperature in Busan on November 28?",
+   "dur": 0.49,
+   "gan": 0.68,
+   "neta": 0.6,
+   "lado": "si"
+  },
   {
    "inicio": 1795830193519,
    "titulo": "Columbus Crew vs. Inter Miami CF",
@@ -712,62 +768,6 @@
    "titulo": "Racing Club Montevideo vs. Liverpool Montevideo",
    "dur": 0.39,
    "gan": 1.74,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795827277061,
-   "titulo": "Fluminense FC vs. Cruzeiro EC",
-   "dur": 4.706,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795827222347,
-   "titulo": "Fluminense FC vs. Cruzeiro EC",
-   "dur": 0.209,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795827220921,
-   "titulo": "Fluminense FC vs. Cruzeiro EC",
-   "dur": 0.379,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795827218961,
-   "titulo": "Fluminense FC vs. Cruzeiro EC",
-   "dur": 0.457,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795827218750,
-   "titulo": "Fluminense FC vs. Cruzeiro EC",
-   "dur": 0.084,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795827215777,
-   "titulo": "Fluminense FC vs. Cruzeiro EC",
-   "dur": 2.742,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795827070638,
-   "titulo": "Fluminense FC vs. Cruzeiro EC",
-   "dur": 0.768,
-   "gan": 2.07,
    "neta": 0,
    "lado": "si"
   }
