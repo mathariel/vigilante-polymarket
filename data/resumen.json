@@ -1,84 +1,84 @@
 {
- "actualizado": 1795881981803,
- "inicio": 1795121788957,
+ "actualizado": 1795885003925,
+ "inicio": 1795127825698,
  "ejecucion": {
-  "inicio": 1795878981444,
-  "fin": 1795881981803,
-  "mensajes": 14864668,
+  "inicio": 1795882003667,
+  "fin": 1795885003925,
+  "mensajes": 15158066,
   "reconexiones": 0,
-  "eventos": 706,
+  "eventos": 701,
   "errores": [],
-  "nuevos": 84,
-  "nuevosRentables": 8,
-  "nuevosNeta": 5.49
+  "nuevos": 96,
+  "nuevosRentables": 12,
+  "nuevosNeta": 22.28
  },
- "total": 9748,
- "falsos": 5393,
+ "total": 9783,
+ "falsos": 5381,
  "largos": {
-  "episodios": 17194,
-  "eventos": 135,
+  "episodios": 17175,
+  "eventos": 134,
   "dias": 7
  },
  "enEspera": {
   "episodios": 63,
   "eventos": 31
  },
- "mediana": 0.271,
+ "mediana": 0.275,
  "captura": [
   {
    "s": 0.5,
-   "n": 3932,
-   "gan": 13588.85,
-   "nNeta": 1277,
-   "neta": 3679.76
+   "n": 3951,
+   "gan": 13746.44,
+   "nNeta": 1300,
+   "neta": 3784.3
   },
   {
    "s": 2,
-   "n": 1781,
-   "gan": 6401.55,
-   "nNeta": 487,
-   "neta": 1225.72
+   "n": 1789,
+   "gan": 6457.72,
+   "nNeta": 498,
+   "neta": 1262.01
   },
   {
    "s": 5,
-   "n": 968,
-   "gan": 3547.1,
-   "nNeta": 212,
-   "neta": 369.21
+   "n": 964,
+   "gan": 3543.27,
+   "nNeta": 214,
+   "neta": 372.41
   },
   {
    "s": 30,
-   "n": 353,
-   "gan": 1592.61,
-   "nNeta": 58,
-   "neta": 60.85
+   "n": 350,
+   "gan": 1593.41,
+   "nNeta": 60,
+   "neta": 64.05
   }
  ],
- "rentables": 2914,
+ "rentables": 2952,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 158,
-   "descartadas": 399,
-   "neta": 232.88,
-   "dias": 8.71,
-   "semana": 187.11
+   "ops": 159,
+   "descartadas": 405,
+   "neta": 234.29,
+   "dias": 8.7,
+   "semana": 188.5
   },
   {
    "capital": 1000,
-   "ops": 178,
-   "descartadas": 399,
-   "neta": 365.33,
-   "dias": 8.71,
-   "semana": 293.52
+   "ops": 179,
+   "descartadas": 405,
+   "neta": 366.74,
+   "dias": 8.7,
+   "semana": 295.06
   },
   {
    "capital": 2000,
-   "ops": 189,
-   "descartadas": 399,
-   "neta": 584.87,
-   "dias": 8.71,
-   "semana": 469.9
+   "ops": 195,
+   "descartadas": 405,
+   "neta": 606.14,
+   "dias": 8.7,
+   "semana": 487.68
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 6,
-   "horas": 129.2,
-   "episodios": 5751,
-   "sospechosas": 77,
-   "realistaNeta": 976.13,
+   "horas": 130,
+   "episodios": 5847,
+   "sospechosas": 84,
+   "realistaNeta": 998.41,
    "capital": {
-    "500": 127.34,
-    "1000": 185.84,
-    "2000": 299.64
+    "500": 128.75,
+    "1000": 187.25,
+    "2000": 320.91
    },
    "cumple": true
   }
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 151,
+  "n": 158,
   "top": [
    {
     "inicio": 1795574360666,
@@ -217,6 +217,16 @@
     "ret": 22
    },
    {
+    "inicio": 1795883610359,
+    "titulo": "Altrincham FC vs. Worthing FC",
+    "lado": "si",
+    "dur": 1.989,
+    "gan": 63.9,
+    "neta": 53.71,
+    "costo": 287.1,
+    "ret": 22.3
+   },
+   {
     "inicio": 1795774157967,
     "titulo": "Jong FC Utrecht vs. Almere City FC",
     "lado": "no",
@@ -235,52 +245,42 @@
     "neta": 43.65,
     "costo": 222.81,
     "ret": 22.5
-   },
-   {
-    "inicio": 1795773762619,
-    "titulo": "Jong FC Utrecht vs. Almere City FC",
-    "lado": "no",
-    "dur": 1.957,
-    "gan": 45.23,
-    "neta": 37.14,
-    "costo": 433.93,
-    "ret": 10.4
    }
   ]
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 9597,
-  "n": 2317,
-  "gan": 7618.23,
-  "nNeta": 626,
-  "neta": 1429.71
+  "conDato": 9625,
+  "n": 2327,
+  "gan": 7663.9,
+  "nNeta": 638,
+  "neta": 1451.99
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 3084
+   "n": 3073
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3894
+   "n": 3920
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1788
+   "n": 1812
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 615
+   "n": 614
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 189
+   "n": 186
   },
   {
    "et": "> 5 min",
@@ -647,129 +647,129 @@
   },
   {
    "h": 1795881600000,
-   "n": 8
+   "n": 104
   }
  ],
  "recientes": [
   {
-   "inicio": 1795881920753,
-   "titulo": "Manchester United FC vs. Brentford FC",
-   "dur": 3.985,
-   "gan": 1.21,
-   "neta": 0,
+   "inicio": 1795885003035,
+   "titulo": "Rangers FC vs. Falkirk FC",
+   "dur": 0.635,
+   "gan": 1.34,
+   "neta": 0.37,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795884762012,
+   "titulo": "Billericay Town vs. Horsham FC",
+   "dur": 241.658,
+   "gan": 1.65,
+   "neta": 1.41,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795884993393,
+   "titulo": "Rangers FC vs. Falkirk FC",
+   "dur": 0.158,
+   "gan": 1.77,
+   "neta": 0.6,
    "lado": "no"
   },
   {
-   "inicio": 1795881915537,
-   "titulo": "Hamburger SV vs. FC Bayern München",
-   "dur": 0.354,
-   "gan": 1.15,
-   "neta": 0,
+   "inicio": 1795884987037,
+   "titulo": "Rangers FC vs. Falkirk FC",
+   "dur": 4.915,
+   "gan": 14.88,
+   "neta": 13.8,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795884987007,
+   "titulo": "Rangers FC vs. Falkirk FC",
+   "dur": 0.02,
+   "gan": 16.02,
+   "neta": 14.98,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795884986601,
+   "titulo": "Rangers FC vs. Falkirk FC",
+   "dur": 0.369,
+   "gan": 10.87,
+   "neta": 10.16,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795884984958,
+   "titulo": "Rangers FC vs. Falkirk FC",
+   "dur": 1.349,
+   "gan": 1.1,
+   "neta": 0.88,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795884984761,
+   "titulo": "Rangers FC vs. Falkirk FC",
+   "dur": 0.187,
+   "gan": 0.53,
+   "neta": 0.17,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795884984650,
+   "titulo": "Rangers FC vs. Falkirk FC",
+   "dur": 0.035,
+   "gan": 0.55,
+   "neta": 0.31,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795884984543,
+   "titulo": "Rangers FC vs. Falkirk FC",
+   "dur": 0.086,
+   "gan": 0.64,
+   "neta": 0.18,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795884915284,
+   "titulo": "Rangers FC vs. Falkirk FC",
+   "dur": 1.158,
+   "gan": 3.34,
+   "neta": 0.62,
    "lado": "si"
   },
   {
-   "inicio": 1795881787670,
-   "titulo": "Hamburger SV vs. FC Bayern München",
-   "dur": 0.189,
-   "gan": 1.48,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795881631642,
-   "titulo": "Highest temperature in Shanghai on November 30?",
+   "inicio": 1795884822351,
+   "titulo": "Elon Musk # tweets November 26 - November 28, 2026?",
    "dur": 0.04,
-   "gan": 0.56,
-   "neta": 0.49,
+   "gan": 0.72,
+   "neta": 0.63,
    "lado": "si"
   },
   {
-   "inicio": 1795881631362,
-   "titulo": "Highest temperature in Shanghai on November 30?",
-   "dur": 0.069,
-   "gan": 0.67,
-   "neta": 0.62,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795881631289,
-   "titulo": "Highest temperature in Shanghai on November 30?",
-   "dur": 0.027,
-   "gan": 0.58,
-   "neta": 0.53,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795881631242,
-   "titulo": "Highest temperature in Shanghai on November 30?",
-   "dur": 0.008,
-   "gan": 0.67,
-   "neta": 0.62,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795881611167,
-   "titulo": "CD Universidad Catolica del Ecuador vs. CSD Independiente del Valle",
-   "dur": 0.281,
-   "gan": 0.78,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795881347170,
-   "titulo": "Number of North Korea Missile Tests in November 2026?",
-   "dur": 0.042,
+   "inicio": 1795884822289,
+   "titulo": "Elon Musk # tweets November 26 - November 28, 2026?",
+   "dur": 0.013,
    "gan": 0.52,
-   "neta": 0.52,
+   "neta": 0.43,
    "lado": "si"
   },
   {
-   "inicio": 1795881143989,
-   "titulo": "Bravo Ljubljana vs. Aluminij Kidricevo",
-   "dur": 6.679,
-   "gan": 2.85,
-   "neta": 2.78,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795881067593,
-   "titulo": "Hamburger SV vs. FC Bayern München",
-   "dur": 1.077,
-   "gan": 1.32,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795881066440,
-   "titulo": "Hamburger SV vs. FC Bayern München",
-   "dur": 0.128,
+   "inicio": 1795884703282,
+   "titulo": "Wigan Athletic FC vs. Plymouth Argyle FC",
+   "dur": 0.835,
    "gan": 0.86,
-   "neta": 0,
+   "neta": 0.76,
    "lado": "no"
   },
   {
-   "inicio": 1795881060576,
-   "titulo": "Hamburger SV vs. FC Bayern München",
-   "dur": 1.783,
-   "gan": 1.32,
-   "neta": 0,
+   "inicio": 1795884682624,
+   "titulo": "Moreirense FC vs. CD Santa Clara",
+   "dur": 0.568,
+   "gan": 1.43,
+   "neta": 0.14,
    "lado": "no"
-  },
-  {
-   "inicio": 1795881051347,
-   "titulo": "Hamburger SV vs. FC Bayern München",
-   "dur": 3.275,
-   "gan": 0.9,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795881051266,
-   "titulo": "Bravo Ljubljana vs. Aluminij Kidricevo",
-   "dur": 0.06,
-   "gan": 0.82,
-   "neta": 0.54,
-   "lado": "si"
   }
  ]
 }
