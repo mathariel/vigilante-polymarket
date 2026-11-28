@@ -1,22 +1,22 @@
 {
- "actualizado": 1795842798053,
+ "actualizado": 1795845810631,
  "inicio": 1795067527984,
  "ejecucion": {
-  "inicio": 1795839797677,
-  "fin": 1795842798053,
-  "mensajes": 9894651,
+  "inicio": 1795842810355,
+  "fin": 1795845810631,
+  "mensajes": 11875718,
   "reconexiones": 0,
-  "eventos": 624,
+  "eventos": 632,
   "errores": [],
-  "nuevos": 4,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 13,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.75
  },
- "total": 9343,
- "falsos": 5243,
+ "total": 9357,
+ "falsos": 5248,
  "largos": {
-  "episodios": 17675,
-  "eventos": 151,
+  "episodios": 17663,
+  "eventos": 152,
   "dias": 7
  },
  "enEspera": {
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3726,
-   "gan": 12888.44,
-   "nNeta": 1208,
-   "neta": 3460.24
+   "n": 3730,
+   "gan": 12891.55,
+   "nNeta": 1211,
+   "neta": 3461.37
   },
   {
    "s": 2,
-   "n": 1659,
-   "gan": 6153.73,
+   "n": 1660,
+   "gan": 6154.79,
    "nNeta": 444,
    "neta": 1235.62
   },
   {
    "s": 5,
-   "n": 901,
-   "gan": 3427.25,
+   "n": 902,
+   "gan": 3428.31,
    "nNeta": 193,
    "neta": 386.44
   },
   {
    "s": 30,
-   "n": 339,
-   "gan": 1527.08,
+   "n": 340,
+   "gan": 1528.14,
    "nNeta": 52,
    "neta": 59.34
   }
  ],
- "rentables": 2755,
+ "rentables": 2766,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 149,
+   "ops": 150,
    "descartadas": 359,
-   "neta": 247.75,
-   "dias": 8.96,
-   "semana": 193.59
+   "neta": 248.5,
+   "dias": 8.99,
+   "semana": 193.43
   },
   {
    "capital": 1000,
-   "ops": 168,
+   "ops": 169,
    "descartadas": 359,
-   "neta": 391.76,
-   "dias": 8.96,
-   "semana": 306.13
+   "neta": 392.51,
+   "dias": 8.99,
+   "semana": 305.53
   },
   {
    "capital": 2000,
-   "ops": 179,
+   "ops": 180,
    "descartadas": 359,
-   "neta": 609.85,
-   "dias": 8.96,
-   "semana": 476.55
+   "neta": 610.6,
+   "dias": 8.99,
+   "semana": 475.29
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 6,
-   "horas": 118.3,
-   "episodios": 5084,
-   "sospechosas": 57,
-   "realistaNeta": 921.49,
+   "horas": 119.2,
+   "episodios": 5098,
+   "sospechosas": 59,
+   "realistaNeta": 922.24,
    "capital": {
-    "500": 117.01,
-    "1000": 170.23,
-    "2000": 282.58
+    "500": 117.76,
+    "1000": 170.98,
+    "2000": 283.33
    },
    "cumple": true
   }
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 134,
+  "n": 136,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,27 +250,27 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 9209,
-  "n": 2176,
-  "gan": 7324.29,
-  "nNeta": 576,
-  "neta": 1420.24
+  "conDato": 9221,
+  "n": 2178,
+  "gan": 7326.19,
+  "nNeta": 577,
+  "neta": 1420.99
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 3029
+   "n": 3036
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3706
+   "n": 3711
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1694
+   "n": 1695
   },
   {
    "et": "5–30 s",
@@ -285,14 +285,14 @@
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 160
+   "n": 161
   }
  ],
  "porEvento": [
   {
    "titulo": "Elon Musk Net Worth on November 30?",
-   "n": 1217,
-   "gan": 861.08,
+   "n": 1218,
+   "gan": 861.85,
    "neta": 0.84,
    "mediana": 0.089
   },
@@ -361,14 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795575600000,
-   "n": 4
-  },
-  {
-   "h": 1795579200000,
-   "n": 2
-  },
   {
    "h": 1795582800000,
    "n": 42
@@ -648,126 +640,134 @@
   {
    "h": 1795838400000,
    "n": 5
+  },
+  {
+   "h": 1795842000000,
+   "n": 11
+  },
+  {
+   "h": 1795845600000,
+   "n": 3
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795842592799,
+   "titulo": "AE Kifisia FC vs. PAE PS Kalamata",
+   "dur": 3217.558,
+   "gan": 1.06,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795845663952,
+   "titulo": "Highest temperature in Taipei on November 28?",
+   "dur": 0.027,
+   "gan": 0.82,
+   "neta": 0.79,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795845630443,
+   "titulo": "Highest temperature in Beijing on November 28?",
+   "dur": 0.008,
+   "gan": 0.52,
+   "neta": 0.47,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795845630380,
+   "titulo": "Highest temperature in Beijing on November 28?",
+   "dur": 0.018,
+   "gan": 0.63,
+   "neta": 0.58,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795844927974,
+   "titulo": "Kyōto Sanga FC vs. Cerezo Ōsaka",
+   "dur": 0.045,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795844584816,
+   "titulo": "Kyōto Sanga FC vs. Cerezo Ōsaka",
+   "dur": 0.728,
+   "gan": 0.61,
+   "neta": 0.26,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795844584373,
+   "titulo": "Kyōto Sanga FC vs. Cerezo Ōsaka",
+   "dur": 0.153,
+   "gan": 0.61,
+   "neta": 0.26,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795844348099,
+   "titulo": "Kyōto Sanga FC vs. Cerezo Ōsaka",
+   "dur": 1.05,
+   "gan": 0.5,
+   "neta": 0.06,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795843840793,
+   "titulo": "Highest temperature in Singapore on November 28?",
+   "dur": 0.022,
+   "gan": 1,
+   "neta": 0.98,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795843840748,
+   "titulo": "Highest temperature in Singapore on November 28?",
+   "dur": 0.015,
+   "gan": 38.64,
+   "neta": 38.29,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795843670331,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 0.312,
+   "gan": 0.77,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795843451763,
+   "titulo": "FC Seoul vs. Daejeon Hana Citizen FC",
+   "dur": 0.408,
+   "gan": 0.5,
+   "neta": 0.33,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795843451633,
+   "titulo": "FC Seoul vs. Daejeon Hana Citizen FC",
+   "dur": 0.021,
+   "gan": 0.6,
+   "neta": 0.1,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795842854221,
+   "titulo": "Highest temperature in Wellington on November 28?",
+   "dur": 0.691,
+   "gan": 0.84,
+   "neta": 0.75,
+   "lado": "si"
+  },
   {
    "inicio": 1795840672616,
    "titulo": "AE Kifisia FC vs. PAE PS Kalamata",
    "dur": 2125.064,
    "gan": 0.8,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795841703823,
-   "titulo": "Highest temperature in Taipei on November 28?",
-   "dur": 0.003,
-   "gan": 0.6,
-   "neta": 0.49,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795841363059,
-   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
-   "dur": 1.799,
-   "gan": 5.54,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795841148223,
-   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
-   "dur": 1.181,
-   "gan": 1,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795838754644,
-   "titulo": "Lowest temperature in Paris on November 28?",
-   "dur": 0.821,
-   "gan": 0.56,
-   "neta": 0.47,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795837263572,
-   "titulo": "Millonarios FC vs. América de Cali",
-   "dur": 4.56,
-   "gan": 2.48,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795836908150,
-   "titulo": "Millonarios FC vs. América de Cali",
-   "dur": 10.723,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795836161901,
-   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
-   "dur": 10.02,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795836156778,
-   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
-   "dur": 5.01,
-   "gan": 0.55,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795836155449,
-   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
-   "dur": 0.577,
-   "gan": 0.53,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795835546827,
-   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
-   "dur": 0.404,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795835543906,
-   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
-   "dur": 0.414,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795835543453,
-   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
-   "dur": 0.034,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795835543328,
-   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
-   "dur": 0.036,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795835540946,
-   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
-   "dur": 0.166,
-   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   }
