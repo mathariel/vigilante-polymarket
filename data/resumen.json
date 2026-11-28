@@ -1,22 +1,22 @@
 {
- "actualizado": 1795860875375,
- "inicio": 1795082630463,
+ "actualizado": 1795863888278,
+ "inicio": 1795100693819,
  "ejecucion": {
-  "inicio": 1795857875004,
-  "fin": 1795860875375,
-  "mensajes": 10483587,
+  "inicio": 1795860887911,
+  "fin": 1795863888278,
+  "mensajes": 10284726,
   "reconexiones": 0,
-  "eventos": 646,
+  "eventos": 654,
   "errores": [],
-  "nuevos": 23,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 22,
+  "nuevosRentables": 3,
+  "nuevosNeta": 0.12
  },
- "total": 9552,
- "falsos": 5300,
+ "total": 9559,
+ "falsos": 5383,
  "largos": {
-  "episodios": 17454,
-  "eventos": 141,
+  "episodios": 17371,
+  "eventos": 140,
   "dias": 7
  },
  "enEspera": {
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3801,
-   "gan": 13044.59,
-   "nNeta": 1234,
-   "neta": 3458.87
+   "n": 3803,
+   "gan": 13033.39,
+   "nNeta": 1240,
+   "neta": 3459.25
   },
   {
    "s": 2,
    "n": 1701,
-   "gan": 6202.75,
-   "nNeta": 459,
-   "neta": 1205.95
+   "gan": 6188.94,
+   "nNeta": 462,
+   "neta": 1206.07
   },
   {
    "s": 5,
-   "n": 928,
-   "gan": 3458.47,
-   "nNeta": 200,
-   "neta": 358.03
+   "n": 931,
+   "gan": 3455.32,
+   "nNeta": 203,
+   "neta": 358.15
   },
   {
    "s": 30,
-   "n": 351,
-   "gan": 1586.49,
-   "nNeta": 54,
-   "neta": 59.38
+   "n": 356,
+   "gan": 1591.97,
+   "nNeta": 57,
+   "neta": 59.5
   }
  ],
- "rentables": 2834,
+ "rentables": 2841,
  "porCapital": [
   {
    "capital": 500,
    "ops": 151,
-   "descartadas": 376,
+   "descartadas": 379,
    "neta": 230.09,
-   "dias": 8.79,
-   "semana": 183.19
+   "dias": 8.76,
+   "semana": 183.84
   },
   {
    "capital": 1000,
    "ops": 170,
-   "descartadas": 376,
+   "descartadas": 379,
    "neta": 357.26,
-   "dias": 8.79,
-   "semana": 284.44
+   "dias": 8.76,
+   "semana": 285.45
   },
   {
    "capital": 2000,
    "ops": 181,
-   "descartadas": 376,
+   "descartadas": 379,
    "neta": 575.35,
-   "dias": 8.79,
-   "semana": 458.07
+   "dias": 8.76,
+   "semana": 459.71
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 6,
-   "horas": 123.3,
-   "episodios": 5320,
-   "sospechosas": 65,
-   "realistaNeta": 952.4,
+   "horas": 124.2,
+   "episodios": 5343,
+   "sospechosas": 66,
+   "realistaNeta": 952.52,
    "capital": {
     "500": 120.08,
     "1000": 173.3,
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 140,
+  "n": 141,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,42 +250,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 9412,
-  "n": 2225,
-  "gan": 7400.87,
-  "nNeta": 595,
-  "neta": 1412.68
+  "conDato": 9418,
+  "n": 2226,
+  "gan": 7388.26,
+  "nNeta": 598,
+  "neta": 1412.8
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 3086
+   "n": 3085
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3801
+   "n": 3807
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1723
+   "n": 1722
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 577
+   "n": 575
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 185
+   "n": 188
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 166
+   "n": 168
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795597200000,
-   "n": 4
-  },
   {
    "h": 1795600800000,
    "n": 6
@@ -647,127 +643,131 @@
   },
   {
    "h": 1795860000000,
-   "n": 15
+   "n": 35
+  },
+  {
+   "h": 1795863600000,
+   "n": 3
   }
  ],
  "recientes": [
   {
-   "inicio": 1795860763321,
+   "inicio": 1795863842852,
+   "titulo": "FK Zemun vs. FK Radnicki 1923 Kragujevac",
+   "dur": 12.982,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795863826568,
+   "titulo": "FK Zemun vs. FK Radnicki 1923 Kragujevac",
+   "dur": 0.326,
+   "gan": 0.51,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795863631327,
    "titulo": "Mushuc Runa SC vs. CD Tecnico Universitario",
-   "dur": 111.686,
+   "dur": 0.209,
    "gan": 1.25,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795857876980,
-   "titulo": "Académico de Viseu FC vs. FC Alverca",
-   "dur": 2916.279,
-   "gan": 2.48,
+   "inicio": 1795862943801,
+   "titulo": "Mushuc Runa SC vs. CD Tecnico Universitario",
+   "dur": 164.764,
+   "gan": 0.5,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795860673443,
-   "titulo": "Psim Yogyakarta vs. Persijap Jepara",
-   "dur": 0.132,
-   "gan": 0.73,
+   "inicio": 1795862941227,
+   "titulo": "Mushuc Runa SC vs. CD Tecnico Universitario",
+   "dur": 1.64,
+   "gan": 5.4,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795862919452,
+   "titulo": "Mushuc Runa SC vs. CD Tecnico Universitario",
+   "dur": 11,
+   "gan": 1.1,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795862918912,
+   "titulo": "Mushuc Runa SC vs. CD Tecnico Universitario",
+   "dur": 0.166,
+   "gan": 1.1,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795862623207,
+   "titulo": "Sivasspor vs. Bodrum FK",
+   "dur": 0.925,
+   "gan": 10.42,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795860650898,
-   "titulo": "FK Zemun vs. FK Radnicki 1923 Kragujevac",
-   "dur": 0.068,
-   "gan": 1.04,
-   "neta": 0.16,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795860642671,
-   "titulo": "FK Zemun vs. FK Radnicki 1923 Kragujevac",
-   "dur": 0.448,
-   "gan": 1.52,
+   "inicio": 1795862622728,
+   "titulo": "Sivasspor vs. Bodrum FK",
+   "dur": 0.124,
+   "gan": 10.46,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795860632598,
-   "titulo": "FK Zemun vs. FK Radnicki 1923 Kragujevac",
-   "dur": 0.19,
-   "gan": 2.32,
-   "neta": 0.52,
-   "lado": "no"
+   "inicio": 1795862609845,
+   "titulo": "Sivasspor vs. Bodrum FK",
+   "dur": 1.059,
+   "gan": 8.87,
+   "neta": 0,
+   "lado": "si"
   },
   {
-   "inicio": 1795860611858,
+   "inicio": 1795862468889,
+   "titulo": "FK Zemun vs. FK Radnicki 1923 Kragujevac - Halftime Result",
+   "dur": 0.043,
+   "gan": 0.71,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795862107026,
+   "titulo": "FK Zemun vs. FK Radnicki 1923 Kragujevac - Halftime Result",
+   "dur": 360.759,
+   "gan": 1.7,
+   "neta": 0.15,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795861980202,
    "titulo": "Central Coast Mariners FC vs. Auckland FC",
-   "dur": 1.427,
-   "gan": 2.05,
-   "neta": 0,
+   "dur": 0.318,
+   "gan": 7.2,
+   "neta": 6.75,
    "lado": "si"
   },
   {
-   "inicio": 1795860562246,
-   "titulo": "FK Zemun vs. FK Radnicki 1923 Kragujevac",
-   "dur": 0.126,
-   "gan": 1.34,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795860561206,
-   "titulo": "FK Zemun vs. FK Radnicki 1923 Kragujevac",
-   "dur": 0.2,
+   "inicio": 1795861795251,
+   "titulo": "Bandirmaspor vs. Batman Petrolspor",
+   "dur": 3.989,
    "gan": 1.25,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795860519396,
-   "titulo": "FK Zemun vs. FK Radnicki 1923 Kragujevac",
-   "dur": 6.827,
-   "gan": 28.82,
-   "neta": 23.23,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795860321047,
-   "titulo": "FK Zemun vs. FK Radnicki 1923 Kragujevac",
-   "dur": 26.816,
-   "gan": 3.15,
-   "neta": 1.72,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795860306470,
-   "titulo": "FK Zemun vs. FK Radnicki 1923 Kragujevac",
-   "dur": 14.317,
-   "gan": 0.61,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795860305920,
-   "titulo": "FK Zemun vs. FK Radnicki 1923 Kragujevac",
-   "dur": 0.316,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795860304593,
-   "titulo": "FK Zemun vs. FK Radnicki 1923 Kragujevac",
-   "dur": 0.095,
-   "gan": 0.53,
-   "neta": 0.02,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795860301412,
-   "titulo": "FK Zemun vs. FK Radnicki 1923 Kragujevac",
-   "dur": 3.175,
-   "gan": 1.18,
+   "inicio": 1795861742236,
+   "titulo": "Mushuc Runa SC vs. CD Tecnico Universitario",
+   "dur": 0.157,
+   "gan": 1.25,
    "neta": 0,
    "lado": "no"
   }
