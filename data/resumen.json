@@ -1,21 +1,21 @@
 {
- "actualizado": 1795824713517,
+ "actualizado": 1795827726570,
  "inicio": 1795067527984,
  "ejecucion": {
-  "inicio": 1795821713168,
-  "fin": 1795824713517,
-  "mensajes": 9375874,
+  "inicio": 1795824726256,
+  "fin": 1795827726570,
+  "mensajes": 9408588,
   "reconexiones": 0,
-  "eventos": 604,
+  "eventos": 593,
   "errores": [],
-  "nuevos": 10,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.5
+  "nuevos": 23,
+  "nuevosRentables": 0,
+  "nuevosNeta": 0
  },
- "total": 9260,
- "falsos": 5174,
+ "total": 9283,
+ "falsos": 5197,
  "largos": {
-  "episodios": 17796,
+  "episodios": 17757,
   "eventos": 151,
   "dias": 7
  },
@@ -27,15 +27,15 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3695,
-   "gan": 12843.37,
-   "nNeta": 1206,
-   "neta": 3459.7
+   "n": 3705,
+   "gan": 12855.95,
+   "nNeta": 1207,
+   "neta": 3459.72
   },
   {
    "s": 2,
-   "n": 1647,
-   "gan": 6130.51,
+   "n": 1650,
+   "gan": 6135.6,
    "nNeta": 444,
    "neta": 1235.62
   },
@@ -54,31 +54,31 @@
    "neta": 59.34
   }
  ],
- "rentables": 2733,
+ "rentables": 2734,
  "porCapital": [
   {
    "capital": 500,
    "ops": 148,
    "descartadas": 359,
    "neta": 247.23,
-   "dias": 8.75,
-   "semana": 197.81
+   "dias": 8.78,
+   "semana": 197.02
   },
   {
    "capital": 1000,
    "ops": 167,
    "descartadas": 359,
    "neta": 391.24,
-   "dias": 8.75,
-   "semana": 313.04
+   "dias": 8.78,
+   "semana": 311.8
   },
   {
    "capital": 2000,
    "ops": 178,
    "descartadas": 359,
    "neta": 609.33,
-   "dias": 8.75,
-   "semana": 487.54
+   "dias": 8.78,
+   "semana": 485.6
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 113.3,
-   "episodios": 5001,
+   "horas": 114.2,
+   "episodios": 5024,
    "sospechosas": 54,
    "realistaNeta": 920.97,
    "capital": {
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 9129,
-  "n": 2156,
-  "gan": 7288.39,
+  "conDato": 9152,
+  "n": 2161,
+  "gan": 7296.24,
   "nNeta": 575,
   "neta": 1419.72
  },
@@ -260,17 +260,17 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 3008
+   "n": 3011
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3666
+   "n": 3681
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1678
+   "n": 1683
   },
   {
    "et": "5–30 s",
@@ -647,127 +647,127 @@
   },
   {
    "h": 1795824000000,
-   "n": 5
+   "n": 28
   }
  ],
  "recientes": [
   {
-   "inicio": 1795824357470,
-   "titulo": "Columbus Crew vs. Inter Miami CF",
-   "dur": 13.773,
-   "gan": 16.96,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795824325453,
-   "titulo": "Club Independiente Petrolero vs. CDT Real Oruro",
-   "dur": 0.199,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795824315314,
-   "titulo": "Club Independiente Petrolero vs. CDT Real Oruro",
-   "dur": 4.357,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795824307159,
-   "titulo": "Club Independiente Petrolero vs. CDT Real Oruro",
-   "dur": 1.426,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795824268589,
-   "titulo": "Columbus Crew vs. Inter Miami CF",
-   "dur": 36.771,
-   "gan": 272.55,
+   "inicio": 1795827277061,
+   "titulo": "Fluminense FC vs. Cruzeiro EC",
+   "dur": 4.706,
+   "gan": 0.51,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795823568243,
-   "titulo": "Highest temperature in Buenos Aires on November 29?",
-   "dur": 0.941,
-   "gan": 0.56,
-   "neta": 0.5,
-   "lado": "si"
+   "inicio": 1795827222347,
+   "titulo": "Fluminense FC vs. Cruzeiro EC",
+   "dur": 0.209,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1795823123477,
-   "titulo": "AD Cali vs. CA Bucaramanga",
-   "dur": 0.141,
-   "gan": 1.69,
+   "inicio": 1795827220921,
+   "titulo": "Fluminense FC vs. Cruzeiro EC",
+   "dur": 0.379,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795827218961,
+   "titulo": "Fluminense FC vs. Cruzeiro EC",
+   "dur": 0.457,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795827218750,
+   "titulo": "Fluminense FC vs. Cruzeiro EC",
+   "dur": 0.084,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795827215777,
+   "titulo": "Fluminense FC vs. Cruzeiro EC",
+   "dur": 2.742,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795827070638,
+   "titulo": "Fluminense FC vs. Cruzeiro EC",
+   "dur": 0.768,
+   "gan": 2.07,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795823027855,
-   "titulo": "Sportivo Luqueno vs. Club Olimpia",
-   "dur": 0.758,
-   "gan": 0.52,
-   "neta": 0.14,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795822790248,
-   "titulo": "Club Independiente Petrolero vs. CDT Real Oruro",
-   "dur": 5.258,
+   "inicio": 1795826937744,
+   "titulo": "AD Cali vs. CA Bucaramanga",
+   "dur": 0.166,
    "gan": 0.65,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795822786037,
-   "titulo": "Club Independiente Petrolero vs. CDT Real Oruro",
-   "dur": 1.21,
-   "gan": 1.24,
-   "neta": 0.08,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795821689014,
-   "titulo": "Fluminense FC vs. Cruzeiro EC - Halftime Result",
-   "dur": 1.09,
-   "gan": 6.77,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795820783862,
-   "titulo": "CD Antofagasta vs. Deportes Copiapo",
-   "dur": 0.869,
-   "gan": 4.45,
+   "inicio": 1795826937364,
+   "titulo": "AD Cali vs. CA Bucaramanga",
+   "dur": 0.362,
+   "gan": 1.48,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795820641536,
-   "titulo": "Fluminense FC vs. Cruzeiro EC",
-   "dur": 0.897,
-   "gan": 1.11,
+   "inicio": 1795826870232,
+   "titulo": "AD Cali vs. CA Bucaramanga",
+   "dur": 0.611,
+   "gan": 0.99,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795820575034,
-   "titulo": "Fluminense FC vs. Cruzeiro EC",
+   "inicio": 1795826870088,
+   "titulo": "AD Cali vs. CA Bucaramanga",
+   "dur": 0.088,
+   "gan": 1.72,
+   "neta": 0.1,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795826869787,
+   "titulo": "AD Cali vs. CA Bucaramanga",
    "dur": 0.2,
-   "gan": 0.89,
-   "neta": 0.61,
+   "gan": 0.59,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795819597853,
-   "titulo": "Vila Nova FC vs. AC Goianiense",
-   "dur": 71.017,
-   "gan": 1.08,
+   "inicio": 1795826867017,
+   "titulo": "AD Cali vs. CA Bucaramanga",
+   "dur": 1.543,
+   "gan": 2.26,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795826865603,
+   "titulo": "AD Cali vs. CA Bucaramanga",
+   "dur": 0.253,
+   "gan": 2.79,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795826859943,
+   "titulo": "AD Cali vs. CA Bucaramanga",
+   "dur": 0.054,
+   "gan": 1,
    "neta": 0,
    "lado": "no"
   }
