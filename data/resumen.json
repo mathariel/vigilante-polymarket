@@ -1,84 +1,84 @@
 {
- "actualizado": 1795854849024,
- "inicio": 1795067527984,
+ "actualizado": 1795857862526,
+ "inicio": 1795076572671,
  "ejecucion": {
-  "inicio": 1795851848672,
-  "fin": 1795854849024,
-  "mensajes": 10205549,
+  "inicio": 1795854862162,
+  "fin": 1795857862526,
+  "mensajes": 11390798,
   "reconexiones": 0,
-  "eventos": 633,
+  "eventos": 636,
   "errores": [],
-  "nuevos": 42,
-  "nuevosRentables": 3,
-  "nuevosNeta": 1.77
+  "nuevos": 92,
+  "nuevosRentables": 13,
+  "nuevosNeta": 5.41
  },
- "total": 9460,
- "falsos": 5272,
+ "total": 9552,
+ "falsos": 5293,
  "largos": {
-  "episodios": 17563,
-  "eventos": 149,
+  "episodios": 17456,
+  "eventos": 145,
   "dias": 7
  },
  "enEspera": {
   "episodios": 66,
   "eventos": 33
  },
- "mediana": 0.259,
+ "mediana": 0.26,
  "captura": [
   {
    "s": 0.5,
-   "n": 3765,
-   "gan": 13002.58,
-   "nNeta": 1223,
-   "neta": 3492.48
+   "n": 3810,
+   "gan": 13067.79,
+   "nNeta": 1236,
+   "neta": 3496.33
   },
   {
    "s": 2,
-   "n": 1677,
-   "gan": 6186.35,
-   "nNeta": 448,
-   "neta": 1237.46
+   "n": 1708,
+   "gan": 6225.97,
+   "nNeta": 460,
+   "neta": 1241.7
   },
   {
    "s": 5,
-   "n": 917,
-   "gan": 3458.15,
-   "nNeta": 195,
-   "neta": 387.27
+   "n": 931,
+   "gan": 3475.25,
+   "nNeta": 199,
+   "neta": 389.36
   },
   {
    "s": 30,
-   "n": 349,
-   "gan": 1549.61,
-   "nNeta": 53,
-   "neta": 59.36
+   "n": 353,
+   "gan": 1555.12,
+   "nNeta": 54,
+   "neta": 59.38
   }
  ],
- "rentables": 2801,
+ "rentables": 2834,
  "porCapital": [
   {
    "capital": 500,
    "ops": 153,
-   "descartadas": 363,
+   "descartadas": 376,
    "neta": 250.82,
-   "dias": 8.97,
-   "semana": 195.66
+   "dias": 8.95,
+   "semana": 196.22
   },
   {
    "capital": 1000,
    "ops": 172,
-   "descartadas": 363,
+   "descartadas": 376,
    "neta": 394.83,
-   "dias": 8.97,
-   "semana": 308
+   "dias": 8.95,
+   "semana": 308.89
   },
   {
    "capital": 2000,
    "ops": 183,
-   "descartadas": 363,
+   "descartadas": 376,
    "neta": 612.92,
-   "dias": 8.97,
-   "semana": 478.13
+   "dias": 8.95,
+   "semana": 479.51
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 6,
-   "horas": 121.7,
-   "episodios": 5202,
-   "sospechosas": 61,
-   "realistaNeta": 946.97,
+   "horas": 122.5,
+   "episodios": 5297,
+   "sospechosas": 64,
+   "realistaNeta": 952.4,
    "capital": {
     "500": 120.08,
     "1000": 173.3,
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 138,
+  "n": 140,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,50 +250,50 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 9322,
-  "n": 2199,
-  "gan": 7385.24,
-  "nNeta": 584,
-  "neta": 1445.72
+  "conDato": 9412,
+  "n": 2233,
+  "gan": 7427.73,
+  "nNeta": 597,
+  "neta": 1450.25
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 3065
+   "n": 3085
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3756
+   "n": 3793
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1708
+   "n": 1729
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 568
+   "n": 578
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 183
+   "n": 184
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 166
+   "n": 169
   }
  ],
  "porEvento": [
   {
    "titulo": "Elon Musk Net Worth on November 30?",
-   "n": 1219,
-   "gan": 862.36,
-   "neta": 0.84,
+   "n": 1220,
+   "gan": 863.38,
+   "neta": 0.86,
    "mediana": 0.089
   },
   {
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795590000000,
-   "n": 3
-  },
   {
    "h": 1795593600000,
    "n": 2
@@ -647,128 +643,132 @@
   },
   {
    "h": 1795852800000,
-   "n": 35
+   "n": 94
+  },
+  {
+   "h": 1795856400000,
+   "n": 36
   }
  ],
  "recientes": [
   {
-   "inicio": 1795854584963,
+   "inicio": 1795854842305,
    "titulo": "Elon Musk Net Worth on November 30?",
-   "dur": 263.711,
-   "gan": 0.51,
-   "neta": 0,
+   "dur": 3019.86,
+   "gan": 1.02,
+   "neta": 0.02,
    "lado": "si"
   },
   {
-   "inicio": 1795851741488,
-   "titulo": "AE Kifisia FC vs. PAE PS Kalamata",
-   "dur": 3107.186,
-   "gan": 1.06,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795851851284,
+   "inicio": 1795854847033,
    "titulo": "Académico de Viseu FC vs. FC Alverca",
-   "dur": 2997.39,
-   "gan": 6.03,
+   "dur": 3015.132,
+   "gan": 2.54,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795854799504,
-   "titulo": "FC Emmen vs. Helmond Sport",
-   "dur": 0.019,
-   "gan": 0.67,
-   "neta": 0.47,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795854038009,
-   "titulo": "Mushuc Runa SC vs. CD Tecnico Universitario",
-   "dur": 0.121,
-   "gan": 1.25,
+   "inicio": 1795857611196,
+   "titulo": "Bali United vs. Bhayangkara Presisi Lampung FC",
+   "dur": 0.13,
+   "gan": 1.75,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795854010619,
-   "titulo": "Mushuc Runa SC vs. CD Tecnico Universitario",
-   "dur": 0.122,
-   "gan": 1.25,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795853892147,
+   "inicio": 1795857142287,
    "titulo": "Bucheon FC 1995 vs. Gimcheon Sangmu FC",
-   "dur": 0.136,
-   "gan": 0.57,
-   "neta": 0,
+   "dur": 0.118,
+   "gan": 0.91,
+   "neta": 0.71,
    "lado": "si"
   },
   {
-   "inicio": 1795853890352,
+   "inicio": 1795857142098,
    "titulo": "Bucheon FC 1995 vs. Gimcheon Sangmu FC",
-   "dur": 0.225,
-   "gan": 2.28,
-   "neta": 0.11,
+   "dur": 0.099,
+   "gan": 0.7,
+   "neta": 0.5,
    "lado": "si"
   },
   {
-   "inicio": 1795853790171,
+   "inicio": 1795857142051,
    "titulo": "Bucheon FC 1995 vs. Gimcheon Sangmu FC",
-   "dur": 0.082,
-   "gan": 0.69,
-   "neta": 0.27,
+   "dur": 0.016,
+   "gan": 1,
+   "neta": 0.71,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795857117351,
+   "titulo": "FC Vitebsk vs. FK Arsenal Dzerzhinsk",
+   "dur": 0.146,
+   "gan": 4.46,
+   "neta": 0.18,
    "lado": "no"
   },
   {
-   "inicio": 1795853790058,
-   "titulo": "Bucheon FC 1995 vs. Gimcheon Sangmu FC",
-   "dur": 0.1,
-   "gan": 0.56,
-   "neta": 0.13,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795853786868,
-   "titulo": "Bucheon FC 1995 vs. Gimcheon Sangmu FC",
-   "dur": 0.164,
-   "gan": 0.69,
-   "neta": 0.27,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795853786487,
-   "titulo": "Bucheon FC 1995 vs. Gimcheon Sangmu FC",
-   "dur": 0.14,
-   "gan": 0.72,
+   "inicio": 1795857113763,
+   "titulo": "FC Vitebsk vs. FK Arsenal Dzerzhinsk",
+   "dur": 0.628,
+   "gan": 0.54,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795853776698,
-   "titulo": "Bucheon FC 1995 vs. Gimcheon Sangmu FC",
-   "dur": 0.38,
-   "gan": 1.3,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795853596516,
+   "inicio": 1795857102055,
    "titulo": "Pohang Steelers FC vs. Gwangju FC",
-   "dur": 0.983,
-   "gan": 0.74,
+   "dur": 1.199,
+   "gan": 1.24,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795857044228,
+   "titulo": "Bucheon FC 1995 vs. Gimcheon Sangmu FC",
+   "dur": 0.186,
+   "gan": 0.69,
+   "neta": 0.05,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795856788766,
+   "titulo": "Test Match: New Zealand vs India",
+   "dur": 0.888,
+   "gan": 1.21,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795853596119,
-   "titulo": "Pohang Steelers FC vs. Gwangju FC",
-   "dur": 0.167,
-   "gan": 0.74,
-   "neta": 0,
+   "inicio": 1795856690183,
+   "titulo": "\"The Cat in the Hat\" total domestic gross by November 30?",
+   "dur": 3.035,
+   "gan": 0.53,
+   "neta": 0.5,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795856668760,
+   "titulo": "\"The Cat in the Hat\" total domestic gross by November 30?",
+   "dur": 0.022,
+   "gan": 0.53,
+   "neta": 0.5,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795856630577,
+   "titulo": "\"The Cat in the Hat\" total domestic gross by November 30?",
+   "dur": 4.825,
+   "gan": 0.55,
+   "neta": 0.51,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795856628769,
+   "titulo": "\"The Cat in the Hat\" total domestic gross by November 30?",
+   "dur": 0.02,
+   "gan": 0.91,
+   "neta": 0.87,
    "lado": "si"
   }
  ]
