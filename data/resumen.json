@@ -1,84 +1,84 @@
 {
- "actualizado": 1795851836404,
+ "actualizado": 1795854849024,
  "inicio": 1795067527984,
  "ejecucion": {
-  "inicio": 1795848836031,
-  "fin": 1795851836404,
-  "mensajes": 10989854,
-  "reconexiones": 1,
-  "eventos": 630,
+  "inicio": 1795851848672,
+  "fin": 1795854849024,
+  "mensajes": 10205549,
+  "reconexiones": 0,
+  "eventos": 633,
   "errores": [],
-  "nuevos": 35,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.06
+  "nuevos": 42,
+  "nuevosRentables": 3,
+  "nuevosNeta": 1.77
  },
- "total": 9418,
- "falsos": 5265,
+ "total": 9460,
+ "falsos": 5272,
  "largos": {
-  "episodios": 17601,
-  "eventos": 152,
+  "episodios": 17563,
+  "eventos": 149,
   "dias": 7
  },
  "enEspera": {
   "episodios": 66,
   "eventos": 33
  },
- "mediana": 0.26,
+ "mediana": 0.259,
  "captura": [
   {
    "s": 0.5,
-   "n": 3755,
-   "gan": 12987.9,
-   "nNeta": 1220,
-   "neta": 3490.71
+   "n": 3765,
+   "gan": 13002.58,
+   "nNeta": 1223,
+   "neta": 3492.48
   },
   {
    "s": 2,
-   "n": 1671,
-   "gan": 6175.75,
-   "nNeta": 445,
-   "neta": 1235.69
+   "n": 1677,
+   "gan": 6186.35,
+   "nNeta": 448,
+   "neta": 1237.46
   },
   {
    "s": 5,
-   "n": 911,
-   "gan": 3447.35,
-   "nNeta": 193,
-   "neta": 386.44
+   "n": 917,
+   "gan": 3458.15,
+   "nNeta": 195,
+   "neta": 387.27
   },
   {
    "s": 30,
-   "n": 346,
-   "gan": 1541.7,
-   "nNeta": 52,
-   "neta": 59.34
+   "n": 349,
+   "gan": 1549.61,
+   "nNeta": 53,
+   "neta": 59.36
   }
  ],
- "rentables": 2790,
+ "rentables": 2801,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 151,
-   "descartadas": 362,
-   "neta": 249.07,
-   "dias": 9.06,
-   "semana": 192.38
+   "ops": 153,
+   "descartadas": 363,
+   "neta": 250.82,
+   "dias": 8.97,
+   "semana": 195.66
   },
   {
    "capital": 1000,
-   "ops": 170,
-   "descartadas": 362,
-   "neta": 393.08,
-   "dias": 9.06,
-   "semana": 303.62
+   "ops": 172,
+   "descartadas": 363,
+   "neta": 394.83,
+   "dias": 8.97,
+   "semana": 308
   },
   {
    "capital": 2000,
-   "ops": 181,
-   "descartadas": 362,
-   "neta": 611.17,
-   "dias": 9.06,
-   "semana": 472.07
+   "ops": 183,
+   "descartadas": 363,
+   "neta": 612.92,
+   "dias": 8.97,
+   "semana": 478.13
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 6,
-   "horas": 120.8,
-   "episodios": 5159,
+   "horas": 121.7,
+   "episodios": 5202,
    "sospechosas": 61,
-   "realistaNeta": 945.2,
+   "realistaNeta": 946.97,
    "capital": {
-    "500": 118.33,
-    "1000": 171.55,
-    "2000": 283.9
+    "500": 120.08,
+    "1000": 173.3,
+    "2000": 285.65
    },
    "cumple": true
   }
@@ -250,22 +250,22 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 9280,
-  "n": 2193,
-  "gan": 7374.64,
-  "nNeta": 581,
-  "neta": 1443.95
+  "conDato": 9322,
+  "n": 2199,
+  "gan": 7385.24,
+  "nNeta": 584,
+  "neta": 1445.72
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 3052
+   "n": 3065
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3734
+   "n": 3756
   },
   {
    "et": "1–5 s",
@@ -275,24 +275,24 @@
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 565
+   "n": 568
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 182
+   "n": 183
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 164
+   "n": 166
   }
  ],
  "porEvento": [
   {
    "titulo": "Elon Musk Net Worth on November 30?",
-   "n": 1218,
-   "gan": 861.85,
+   "n": 1219,
+   "gan": 862.36,
    "neta": 0.84,
    "mediana": 0.089
   },
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795586400000,
-   "n": 10
-  },
   {
    "h": 1795590000000,
    "n": 3
@@ -647,129 +643,133 @@
   },
   {
    "h": 1795849200000,
-   "n": 31
+   "n": 39
+  },
+  {
+   "h": 1795852800000,
+   "n": 35
   }
  ],
  "recientes": [
   {
-   "inicio": 1795851756430,
-   "titulo": "Académico de Viseu FC vs. FC Alverca",
-   "dur": 79.605,
-   "gan": 1,
+   "inicio": 1795854584963,
+   "titulo": "Elon Musk Net Worth on November 30?",
+   "dur": 263.711,
+   "gan": 0.51,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795848815761,
+   "inicio": 1795851741488,
    "titulo": "AE Kifisia FC vs. PAE PS Kalamata",
-   "dur": 3020.274,
+   "dur": 3107.186,
    "gan": 1.06,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795851834814,
-   "titulo": "Vissel Kōbe vs. JEF United Ichihara Chiba",
-   "dur": 0.158,
-   "gan": 2.73,
-   "neta": 1.3,
-   "lado": "si"
+   "inicio": 1795851851284,
+   "titulo": "Académico de Viseu FC vs. FC Alverca",
+   "dur": 2997.39,
+   "gan": 6.03,
+   "neta": 0,
+   "lado": "no"
   },
   {
-   "inicio": 1795851491451,
-   "titulo": "Pohang Steelers FC vs. Gwangju FC",
-   "dur": 1.763,
+   "inicio": 1795854799504,
+   "titulo": "FC Emmen vs. Helmond Sport",
+   "dur": 0.019,
+   "gan": 0.67,
+   "neta": 0.47,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795854038009,
+   "titulo": "Mushuc Runa SC vs. CD Tecnico Universitario",
+   "dur": 0.121,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795854010619,
+   "titulo": "Mushuc Runa SC vs. CD Tecnico Universitario",
+   "dur": 0.122,
+   "gan": 1.25,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795853892147,
+   "titulo": "Bucheon FC 1995 vs. Gimcheon Sangmu FC",
+   "dur": 0.136,
    "gan": 0.57,
    "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795853890352,
+   "titulo": "Bucheon FC 1995 vs. Gimcheon Sangmu FC",
+   "dur": 0.225,
+   "gan": 2.28,
+   "neta": 0.11,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795853790171,
+   "titulo": "Bucheon FC 1995 vs. Gimcheon Sangmu FC",
+   "dur": 0.082,
+   "gan": 0.69,
+   "neta": 0.27,
    "lado": "no"
   },
   {
-   "inicio": 1795851491331,
-   "titulo": "Pohang Steelers FC vs. Gwangju FC",
-   "dur": 0.034,
-   "gan": 0.54,
+   "inicio": 1795853790058,
+   "titulo": "Bucheon FC 1995 vs. Gimcheon Sangmu FC",
+   "dur": 0.1,
+   "gan": 0.56,
+   "neta": 0.13,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795853786868,
+   "titulo": "Bucheon FC 1995 vs. Gimcheon Sangmu FC",
+   "dur": 0.164,
+   "gan": 0.69,
+   "neta": 0.27,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795853786487,
+   "titulo": "Bucheon FC 1995 vs. Gimcheon Sangmu FC",
+   "dur": 0.14,
+   "gan": 0.72,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795851452488,
-   "titulo": "Kashiwa Reysol vs. Sanfrecce Hiroshima",
-   "dur": 0.308,
-   "gan": 1.2,
+   "inicio": 1795853776698,
+   "titulo": "Bucheon FC 1995 vs. Gimcheon Sangmu FC",
+   "dur": 0.38,
+   "gan": 1.3,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795853596516,
+   "titulo": "Pohang Steelers FC vs. Gwangju FC",
+   "dur": 0.983,
+   "gan": 0.74,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795851432195,
-   "titulo": "Kashima Antlers vs. Fagiano Okayama",
-   "dur": 1.074,
-   "gan": 46.99,
-   "neta": 2.83,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795851397055,
-   "titulo": "Kashiwa Reysol vs. Sanfrecce Hiroshima",
-   "dur": 0.032,
-   "gan": 0.52,
+   "inicio": 1795853596119,
+   "titulo": "Pohang Steelers FC vs. Gwangju FC",
+   "dur": 0.167,
+   "gan": 0.74,
    "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795851396561,
-   "titulo": "Kashiwa Reysol vs. Sanfrecce Hiroshima",
-   "dur": 0.06,
-   "gan": 0.72,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795851394880,
-   "titulo": "Kashiwa Reysol vs. Sanfrecce Hiroshima",
-   "dur": 0.02,
-   "gan": 0.77,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795851394162,
-   "titulo": "Kashiwa Reysol vs. Sanfrecce Hiroshima",
-   "dur": 0.09,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795851344916,
-   "titulo": "Kashiwa Reysol vs. Sanfrecce Hiroshima",
-   "dur": 0.21,
-   "gan": 0.7,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795851305905,
-   "titulo": "Kashiwa Reysol vs. Sanfrecce Hiroshima",
-   "dur": 0.067,
-   "gan": 0.72,
-   "neta": 0.04,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795851301262,
-   "titulo": "Kashiwa Reysol vs. Sanfrecce Hiroshima",
-   "dur": 1.452,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795851260007,
-   "titulo": "Kashiwa Reysol vs. Sanfrecce Hiroshima",
-   "dur": 0.005,
-   "gan": 0.54,
-   "neta": 0.21,
-   "lado": "no"
+   "lado": "si"
   }
  ]
 }
