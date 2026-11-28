@@ -1,84 +1,84 @@
 {
- "actualizado": 1795878966524,
- "inicio": 1795118818682,
+ "actualizado": 1795881981803,
+ "inicio": 1795121788957,
  "ejecucion": {
-  "inicio": 1795875966173,
-  "fin": 1795878966524,
-  "mensajes": 13789106,
+  "inicio": 1795878981444,
+  "fin": 1795881981803,
+  "mensajes": 14864668,
   "reconexiones": 0,
-  "eventos": 712,
+  "eventos": 706,
   "errores": [],
-  "nuevos": 78,
-  "nuevosRentables": 5,
-  "nuevosNeta": 6.09
+  "nuevos": 84,
+  "nuevosRentables": 8,
+  "nuevosNeta": 5.49
  },
- "total": 9679,
- "falsos": 5376,
+ "total": 9748,
+ "falsos": 5393,
  "largos": {
-  "episodios": 17278,
-  "eventos": 134,
+  "episodios": 17194,
+  "eventos": 135,
   "dias": 7
  },
  "enEspera": {
   "episodios": 63,
   "eventos": 31
  },
- "mediana": 0.267,
+ "mediana": 0.271,
  "captura": [
   {
    "s": 0.5,
-   "n": 3895,
-   "gan": 13452.11,
-   "nNeta": 1264,
-   "neta": 3636.8
+   "n": 3932,
+   "gan": 13588.85,
+   "nNeta": 1277,
+   "neta": 3679.76
   },
   {
    "s": 2,
-   "n": 1765,
-   "gan": 6361.33,
-   "nNeta": 479,
-   "neta": 1217.74
+   "n": 1781,
+   "gan": 6401.55,
+   "nNeta": 487,
+   "neta": 1225.72
   },
   {
    "s": 5,
-   "n": 962,
-   "gan": 3531.96,
-   "nNeta": 209,
-   "neta": 360.71
+   "n": 968,
+   "gan": 3547.1,
+   "nNeta": 212,
+   "neta": 369.21
   },
   {
    "s": 30,
-   "n": 352,
-   "gan": 1590.61,
+   "n": 353,
+   "gan": 1592.61,
    "nNeta": 58,
    "neta": 60.85
   }
  ],
- "rentables": 2888,
+ "rentables": 2914,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 150,
+   "ops": 158,
    "descartadas": 399,
-   "neta": 228.42,
-   "dias": 8.73,
-   "semana": 183.19
+   "neta": 232.88,
+   "dias": 8.71,
+   "semana": 187.11
   },
   {
    "capital": 1000,
-   "ops": 170,
+   "ops": 178,
    "descartadas": 399,
-   "neta": 360.86,
-   "dias": 8.73,
-   "semana": 289.41
+   "neta": 365.33,
+   "dias": 8.71,
+   "semana": 293.52
   },
   {
    "capital": 2000,
-   "ops": 181,
+   "ops": 189,
    "descartadas": 399,
-   "neta": 579.38,
-   "dias": 8.73,
-   "semana": 464.67
+   "neta": 584.87,
+   "dias": 8.71,
+   "semana": 469.9
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 6,
-   "horas": 128.3,
-   "episodios": 5667,
-   "sospechosas": 74,
-   "realistaNeta": 970.64,
+   "horas": 129.2,
+   "episodios": 5751,
+   "sospechosas": 77,
+   "realistaNeta": 976.13,
    "capital": {
-    "500": 122.87,
-    "1000": 181.37,
-    "2000": 294.15
+    "500": 127.34,
+    "1000": 185.84,
+    "2000": 299.64
    },
    "cumple": true
   }
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 148,
+  "n": 151,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,37 +250,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 9531,
-  "n": 2297,
-  "gan": 7570.46,
-  "nNeta": 618,
-  "neta": 1424.22
+  "conDato": 9597,
+  "n": 2317,
+  "gan": 7618.23,
+  "nNeta": 626,
+  "neta": 1429.71
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 3077
+   "n": 3084
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3860
+   "n": 3894
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1766
+   "n": 1788
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 610
+   "n": 615
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 188
+   "n": 189
   },
   {
    "et": "> 5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795615200000,
-   "n": 9
-  },
   {
    "h": 1795618800000,
    "n": 1
@@ -647,129 +643,133 @@
   },
   {
    "h": 1795878000000,
-   "n": 32
+   "n": 108
+  },
+  {
+   "h": 1795881600000,
+   "n": 8
   }
  ],
  "recientes": [
   {
-   "inicio": 1795878924018,
-   "titulo": "1. FSV Mainz 05 vs. 1. FC Union Berlin",
-   "dur": 5.811,
-   "gan": 0.84,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795878909987,
-   "titulo": "KVC Westerlo vs. RAAL La Louviere",
-   "dur": 0.485,
-   "gan": 2.1,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795878863983,
-   "titulo": "Hamburger SV vs. FC Bayern München",
-   "dur": 0.255,
-   "gan": 0.5,
+   "inicio": 1795881920753,
+   "titulo": "Manchester United FC vs. Brentford FC",
+   "dur": 3.985,
+   "gan": 1.21,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795878810783,
-   "titulo": "Carrarese Calcio vs. SS Juve Stabia",
-   "dur": 0.847,
-   "gan": 3.32,
-   "neta": 1.21,
-   "lado": "no"
+   "inicio": 1795881915537,
+   "titulo": "Hamburger SV vs. FC Bayern München",
+   "dur": 0.354,
+   "gan": 1.15,
+   "neta": 0,
+   "lado": "si"
   },
   {
-   "inicio": 1795878804784,
+   "inicio": 1795881787670,
    "titulo": "Hamburger SV vs. FC Bayern München",
-   "dur": 3.953,
+   "dur": 0.189,
+   "gan": 1.48,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795881631642,
+   "titulo": "Highest temperature in Shanghai on November 30?",
+   "dur": 0.04,
    "gan": 0.56,
-   "neta": 0,
+   "neta": 0.49,
    "lado": "si"
   },
   {
-   "inicio": 1795878803652,
-   "titulo": "Hamburger SV vs. FC Bayern München",
-   "dur": 0.316,
-   "gan": 2.16,
-   "neta": 0,
+   "inicio": 1795881631362,
+   "titulo": "Highest temperature in Shanghai on November 30?",
+   "dur": 0.069,
+   "gan": 0.67,
+   "neta": 0.62,
    "lado": "si"
   },
   {
-   "inicio": 1795878803330,
-   "titulo": "Hamburger SV vs. FC Bayern München",
-   "dur": 0.057,
-   "gan": 0.59,
-   "neta": 0,
+   "inicio": 1795881631289,
+   "titulo": "Highest temperature in Shanghai on November 30?",
+   "dur": 0.027,
+   "gan": 0.58,
+   "neta": 0.53,
    "lado": "si"
   },
   {
-   "inicio": 1795878802132,
-   "titulo": "Hamburger SV vs. FC Bayern München",
-   "dur": 1.161,
-   "gan": 5.76,
-   "neta": 0.1,
+   "inicio": 1795881631242,
+   "titulo": "Highest temperature in Shanghai on November 30?",
+   "dur": 0.008,
+   "gan": 0.67,
+   "neta": 0.62,
    "lado": "si"
   },
   {
-   "inicio": 1795878792687,
-   "titulo": "Hamburger SV vs. FC Bayern München",
-   "dur": 0.654,
-   "gan": 3.47,
-   "neta": 0.17,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795878681593,
-   "titulo": "Frosinone Calcio vs. Parma Calcio 1913",
-   "dur": 1.789,
-   "gan": 2.1,
+   "inicio": 1795881611167,
+   "titulo": "CD Universidad Catolica del Ecuador vs. CSD Independiente del Valle",
+   "dur": 0.281,
+   "gan": 0.78,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795878681452,
-   "titulo": "Frosinone Calcio vs. Parma Calcio 1913",
-   "dur": 0.097,
-   "gan": 2.15,
+   "inicio": 1795881347170,
+   "titulo": "Number of North Korea Missile Tests in November 2026?",
+   "dur": 0.042,
+   "gan": 0.52,
+   "neta": 0.52,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795881143989,
+   "titulo": "Bravo Ljubljana vs. Aluminij Kidricevo",
+   "dur": 6.679,
+   "gan": 2.85,
+   "neta": 2.78,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795881067593,
+   "titulo": "Hamburger SV vs. FC Bayern München",
+   "dur": 1.077,
+   "gan": 1.32,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795878649736,
-   "titulo": "1. FC Köln vs. SV 07 Elversberg",
-   "dur": 2.088,
-   "gan": 1.13,
-   "neta": 0.56,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795878618113,
+   "inicio": 1795881066440,
    "titulo": "Hamburger SV vs. FC Bayern München",
-   "dur": 5.222,
-   "gan": 1.05,
+   "dur": 0.128,
+   "gan": 0.86,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795878614171,
+   "inicio": 1795881060576,
    "titulo": "Hamburger SV vs. FC Bayern München",
    "dur": 1.783,
-   "gan": 1.4,
+   "gan": 1.32,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795878536624,
-   "titulo": "1. FC Köln vs. SV 07 Elversberg",
-   "dur": 1.796,
-   "gan": 3.55,
-   "neta": 1.89,
+   "inicio": 1795881051347,
+   "titulo": "Hamburger SV vs. FC Bayern München",
+   "dur": 3.275,
+   "gan": 0.9,
+   "neta": 0,
    "lado": "no"
+  },
+  {
+   "inicio": 1795881051266,
+   "titulo": "Bravo Ljubljana vs. Aluminij Kidricevo",
+   "dur": 0.06,
+   "gan": 0.82,
+   "neta": 0.54,
+   "lado": "si"
   }
  ]
 }
