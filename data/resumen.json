@@ -1,21 +1,21 @@
 {
- "actualizado": 1795833753510,
+ "actualizado": 1795836769291,
  "inicio": 1795067527984,
  "ejecucion": {
-  "inicio": 1795830753088,
-  "fin": 1795833753510,
-  "mensajes": 8006756,
+  "inicio": 1795833768938,
+  "fin": 1795836769291,
+  "mensajes": 8482417,
   "reconexiones": 0,
-  "eventos": 610,
+  "eventos": 601,
   "errores": [],
-  "nuevos": 7,
+  "nuevos": 38,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 9298,
- "falsos": 5213,
+ "total": 9336,
+ "falsos": 5229,
  "largos": {
-  "episodios": 17734,
+  "episodios": 17686,
   "eventos": 151,
   "dias": 7
  },
@@ -27,22 +27,22 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3710,
-   "gan": 12861.7,
+   "n": 3720,
+   "gan": 12877.27,
    "nNeta": 1207,
    "neta": 3459.72
   },
   {
    "s": 2,
-   "n": 1651,
-   "gan": 6137.47,
+   "n": 1656,
+   "gan": 6149.85,
    "nNeta": 444,
    "neta": 1235.62
   },
   {
    "s": 5,
-   "n": 895,
-   "gan": 3421.66,
+   "n": 899,
+   "gan": 3425.8,
    "nNeta": 193,
    "neta": 386.44
   },
@@ -54,31 +54,31 @@
    "neta": 59.34
   }
  ],
- "rentables": 2742,
+ "rentables": 2753,
  "porCapital": [
   {
    "capital": 500,
    "ops": 148,
    "descartadas": 359,
    "neta": 247.23,
-   "dias": 8.85,
-   "semana": 195.47
+   "dias": 8.89,
+   "semana": 194.7
   },
   {
    "capital": 1000,
    "ops": 167,
    "descartadas": 359,
    "neta": 391.24,
-   "dias": 8.85,
-   "semana": 309.34
+   "dias": 8.89,
+   "semana": 308.13
   },
   {
    "capital": 2000,
    "ops": 178,
    "descartadas": 359,
    "neta": 609.33,
-   "dias": 8.85,
-   "semana": 481.78
+   "dias": 8.89,
+   "semana": 479.89
   }
  ],
  "maxBloqueoH": 24,
@@ -129,8 +129,8 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 115.8,
-   "episodios": 5039,
+   "horas": 116.7,
+   "episodios": 5077,
    "sospechosas": 57,
    "realistaNeta": 920.97,
    "capital": {
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 9164,
-  "n": 2165,
-  "gan": 7301.24,
+  "conDato": 9202,
+  "n": 2171,
+  "gan": 7314.12,
   "nNeta": 575,
   "neta": 1419.72
  },
@@ -260,22 +260,22 @@
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 3012
+   "n": 3028
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3691
+   "n": 3705
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1687
+   "n": 1691
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 557
+   "n": 561
   },
   {
    "et": "30 s–5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795564800000,
-   "n": 9
-  },
   {
    "h": 1795572000000,
    "n": 7
@@ -647,129 +643,133 @@
   },
   {
    "h": 1795831200000,
-   "n": 6
+   "n": 22
+  },
+  {
+   "h": 1795834800000,
+   "n": 22
   }
  ],
  "recientes": [
   {
-   "inicio": 1795833491585,
-   "titulo": "Columbus Crew vs. Inter Miami CF",
-   "dur": 0.469,
-   "gan": 1.8,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795833095116,
-   "titulo": "Lowest temperature in Karachi on November 28?",
-   "dur": 0.157,
-   "gan": 16.69,
-   "neta": 16.62,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795832983614,
-   "titulo": "Millonarios FC vs. América de Cali",
-   "dur": 0.639,
-   "gan": 0.56,
+   "inicio": 1795836161901,
+   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
+   "dur": 10.02,
+   "gan": 0.53,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795832977040,
-   "titulo": "Millonarios FC vs. América de Cali",
-   "dur": 1.692,
+   "inicio": 1795836156778,
+   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
+   "dur": 5.01,
    "gan": 0.55,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795832919757,
-   "titulo": "Millonarios FC vs. América de Cali",
-   "dur": 0.032,
-   "gan": 4.34,
-   "neta": 1.08,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795832600492,
-   "titulo": "Millonarios FC vs. América de Cali",
-   "dur": 1.885,
-   "gan": 2,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795831162988,
-   "titulo": "Highest temperature in Busan on November 28?",
-   "dur": 0.49,
-   "gan": 0.68,
-   "neta": 0.6,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795830193519,
-   "titulo": "Columbus Crew vs. Inter Miami CF",
-   "dur": 1.85,
-   "gan": 0.58,
+   "inicio": 1795836155449,
+   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
+   "dur": 0.577,
+   "gan": 0.53,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795829388164,
-   "titulo": "AD Cali vs. CA Bucaramanga",
-   "dur": 0.188,
-   "gan": 0.7,
-   "neta": 0.03,
+   "inicio": 1795835546827,
+   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
+   "dur": 0.404,
+   "gan": 0.5,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795829151524,
-   "titulo": "Racing Club Montevideo vs. Liverpool Montevideo",
-   "dur": 3.618,
-   "gan": 1.32,
-   "neta": 0.03,
+   "inicio": 1795835543906,
+   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
+   "dur": 0.414,
+   "gan": 0.5,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795829126476,
-   "titulo": "Racing Club Montevideo vs. Liverpool Montevideo",
-   "dur": 0.163,
-   "gan": 18.94,
-   "neta": 15.19,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795829125952,
-   "titulo": "Racing Club Montevideo vs. Liverpool Montevideo",
-   "dur": 0.249,
-   "gan": 20.64,
-   "neta": 16.77,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795829125829,
-   "titulo": "Racing Club Montevideo vs. Liverpool Montevideo",
-   "dur": 0.121,
-   "gan": 7.89,
-   "neta": 3.9,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795828097171,
-   "titulo": "AD Cali vs. CA Bucaramanga",
-   "dur": 0.159,
-   "gan": 2,
+   "inicio": 1795835543453,
+   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
+   "dur": 0.034,
+   "gan": 0.5,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
   },
   {
-   "inicio": 1795827958282,
-   "titulo": "Racing Club Montevideo vs. Liverpool Montevideo",
-   "dur": 0.39,
-   "gan": 1.74,
+   "inicio": 1795835543328,
+   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
+   "dur": 0.036,
+   "gan": 0.5,
    "neta": 0,
-   "lado": "si"
+   "lado": "no"
+  },
+  {
+   "inicio": 1795835540946,
+   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
+   "dur": 0.166,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795835540158,
+   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
+   "dur": 0.435,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795835505123,
+   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
+   "dur": 1.023,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795835503840,
+   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
+   "dur": 1.171,
+   "gan": 1.01,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795835503335,
+   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
+   "dur": 0.075,
+   "gan": 0.64,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795835503120,
+   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
+   "dur": 0.123,
+   "gan": 0.5,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795835502363,
+   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
+   "dur": 0.048,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795835495631,
+   "titulo": "Real Salt Lake vs. Vancouver Whitecaps FC",
+   "dur": 0.084,
+   "gan": 2.14,
+   "neta": 0,
+   "lado": "no"
   }
  ]
 }
