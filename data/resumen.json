@@ -1,21 +1,21 @@
 {
- "actualizado": 1795845810631,
+ "actualizado": 1795848823298,
  "inicio": 1795067527984,
  "ejecucion": {
-  "inicio": 1795842810355,
-  "fin": 1795845810631,
-  "mensajes": 11875718,
+  "inicio": 1795845822986,
+  "fin": 1795848823298,
+  "mensajes": 12333908,
   "reconexiones": 0,
-  "eventos": 632,
+  "eventos": 640,
   "errores": [],
-  "nuevos": 13,
-  "nuevosRentables": 1,
-  "nuevosNeta": 0.75
+  "nuevos": 24,
+  "nuevosRentables": 3,
+  "nuevosNeta": 22.9
  },
- "total": 9357,
- "falsos": 5248,
+ "total": 9381,
+ "falsos": 5255,
  "largos": {
-  "episodios": 17663,
+  "episodios": 17639,
   "eventos": 152,
   "dias": 7
  },
@@ -27,58 +27,58 @@
  "captura": [
   {
    "s": 0.5,
-   "n": 3730,
-   "gan": 12891.55,
-   "nNeta": 1211,
-   "neta": 3461.37
+   "n": 3743,
+   "gan": 12941.33,
+   "nNeta": 1217,
+   "neta": 3485.8
   },
   {
    "s": 2,
-   "n": 1660,
-   "gan": 6154.79,
-   "nNeta": 444,
-   "neta": 1235.62
+   "n": 1665,
+   "gan": 6163.24,
+   "nNeta": 445,
+   "neta": 1235.69
   },
   {
    "s": 5,
-   "n": 902,
-   "gan": 3428.31,
+   "n": 905,
+   "gan": 3434.84,
    "nNeta": 193,
    "neta": 386.44
   },
   {
    "s": 30,
-   "n": 340,
-   "gan": 1528.14,
+   "n": 342,
+   "gan": 1533.81,
    "nNeta": 52,
    "neta": 59.34
   }
  ],
- "rentables": 2766,
+ "rentables": 2777,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 150,
-   "descartadas": 359,
-   "neta": 248.5,
-   "dias": 8.99,
-   "semana": 193.43
+   "ops": 151,
+   "descartadas": 361,
+   "neta": 249.07,
+   "dias": 9.03,
+   "semana": 193.12
   },
   {
    "capital": 1000,
-   "ops": 169,
-   "descartadas": 359,
-   "neta": 392.51,
-   "dias": 8.99,
-   "semana": 305.53
+   "ops": 170,
+   "descartadas": 361,
+   "neta": 393.08,
+   "dias": 9.03,
+   "semana": 304.79
   },
   {
    "capital": 2000,
-   "ops": 180,
-   "descartadas": 359,
-   "neta": 610.6,
-   "dias": 8.99,
-   "semana": 475.29
+   "ops": 181,
+   "descartadas": 361,
+   "neta": 611.17,
+   "dias": 9.03,
+   "semana": 473.9
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 6,
-   "horas": 119.2,
-   "episodios": 5098,
+   "horas": 120,
+   "episodios": 5122,
    "sospechosas": 59,
-   "realistaNeta": 922.24,
+   "realistaNeta": 945.14,
    "capital": {
-    "500": 117.76,
-    "1000": 170.98,
-    "2000": 283.33
+    "500": 118.33,
+    "1000": 171.55,
+    "2000": 283.9
    },
    "cumple": true
   }
@@ -250,42 +250,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 9221,
-  "n": 2178,
-  "gan": 7326.19,
-  "nNeta": 577,
-  "neta": 1420.99
+  "conDato": 9245,
+  "n": 2186,
+  "gan": 7361.17,
+  "nNeta": 580,
+  "neta": 1443.89
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 3036
+   "n": 3040
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3711
+   "n": 3720
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1695
+   "n": 1703
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 562
+   "n": 563
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 179
+   "n": 180
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 161
+   "n": 162
   }
  ],
  "porEvento": [
@@ -647,129 +647,129 @@
   },
   {
    "h": 1795845600000,
-   "n": 3
+   "n": 27
   }
  ],
  "recientes": [
   {
-   "inicio": 1795842592799,
+   "inicio": 1795848770367,
+   "titulo": "SBV Excelsior vs. Telstar 1963",
+   "dur": 52.622,
+   "gan": 4.61,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795845825114,
    "titulo": "AE Kifisia FC vs. PAE PS Kalamata",
-   "dur": 3217.558,
+   "dur": 2997.875,
    "gan": 1.06,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795845663952,
-   "titulo": "Highest temperature in Taipei on November 28?",
-   "dur": 0.027,
-   "gan": 0.82,
-   "neta": 0.79,
+   "inicio": 1795848744562,
+   "titulo": "Sivasspor vs. Bodrum FK",
+   "dur": 2.3,
+   "gan": 0.57,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795847810076,
+   "titulo": "Highest temperature in Hong Kong on November 28?",
+   "dur": 1.384,
+   "gan": 1.31,
+   "neta": 1.24,
    "lado": "si"
   },
   {
-   "inicio": 1795845630443,
-   "titulo": "Highest temperature in Beijing on November 28?",
-   "dur": 0.008,
+   "inicio": 1795847605767,
+   "titulo": "Shimizu S-Pulse vs. Urawa Red Diamonds",
+   "dur": 1.346,
+   "gan": 0.55,
+   "neta": 0.01,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795847605693,
+   "titulo": "Shimizu S-Pulse vs. Urawa Red Diamonds",
+   "dur": 0.004,
    "gan": 0.52,
-   "neta": 0.47,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795845630380,
-   "titulo": "Highest temperature in Beijing on November 28?",
-   "dur": 0.018,
-   "gan": 0.63,
-   "neta": 0.58,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795844927974,
-   "titulo": "Kyōto Sanga FC vs. Cerezo Ōsaka",
-   "dur": 0.045,
-   "gan": 0.51,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795844584816,
-   "titulo": "Kyōto Sanga FC vs. Cerezo Ōsaka",
-   "dur": 0.728,
-   "gan": 0.61,
-   "neta": 0.26,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795844584373,
-   "titulo": "Kyōto Sanga FC vs. Cerezo Ōsaka",
-   "dur": 0.153,
-   "gan": 0.61,
-   "neta": 0.26,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795844348099,
-   "titulo": "Kyōto Sanga FC vs. Cerezo Ōsaka",
-   "dur": 1.05,
-   "gan": 0.5,
    "neta": 0.06,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795843840793,
-   "titulo": "Highest temperature in Singapore on November 28?",
-   "dur": 0.022,
-   "gan": 1,
-   "neta": 0.98,
    "lado": "si"
   },
   {
-   "inicio": 1795843840748,
-   "titulo": "Highest temperature in Singapore on November 28?",
+   "inicio": 1795847605347,
+   "titulo": "Shimizu S-Pulse vs. Urawa Red Diamonds",
+   "dur": 0.232,
+   "gan": 0.52,
+   "neta": 0.06,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795847138362,
+   "titulo": "Gimhae FC vs. Seongnam Ilhwa",
+   "dur": 1.138,
+   "gan": 3.68,
+   "neta": 2.38,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795847118706,
+   "titulo": "Gimhae FC vs. Seongnam Ilhwa",
+   "dur": 0.004,
+   "gan": 0.52,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795847108825,
+   "titulo": "FC Seoul vs. Daejeon Hana Citizen FC",
+   "dur": 0.196,
+   "gan": 1.37,
+   "neta": 0.09,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795847105585,
+   "titulo": "FC Seoul vs. Daejeon Hana Citizen FC",
+   "dur": 2.998,
+   "gan": 1.06,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795847105553,
+   "titulo": "FC Seoul vs. Daejeon Hana Citizen FC",
    "dur": 0.015,
-   "gan": 38.64,
-   "neta": 38.29,
+   "gan": 0.56,
+   "neta": 0.18,
    "lado": "si"
   },
   {
-   "inicio": 1795843670331,
-   "titulo": "Elon Musk Net Worth on November 30?",
-   "dur": 0.312,
-   "gan": 0.77,
+   "inicio": 1795847105425,
+   "titulo": "FC Seoul vs. Daejeon Hana Citizen FC",
+   "dur": 0.102,
+   "gan": 0.54,
+   "neta": 0.07,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795847105172,
+   "titulo": "FC Seoul vs. Daejeon Hana Citizen FC",
+   "dur": 0.107,
+   "gan": 0.88,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795843451763,
+   "inicio": 1795847104874,
    "titulo": "FC Seoul vs. Daejeon Hana Citizen FC",
-   "dur": 0.408,
-   "gan": 0.5,
-   "neta": 0.33,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795843451633,
-   "titulo": "FC Seoul vs. Daejeon Hana Citizen FC",
-   "dur": 0.021,
-   "gan": 0.6,
-   "neta": 0.1,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795842854221,
-   "titulo": "Highest temperature in Wellington on November 28?",
-   "dur": 0.691,
-   "gan": 0.84,
-   "neta": 0.75,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795840672616,
-   "titulo": "AE Kifisia FC vs. PAE PS Kalamata",
-   "dur": 2125.064,
-   "gan": 0.8,
+   "dur": 0.235,
+   "gan": 0.96,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   }
  ]
 }
