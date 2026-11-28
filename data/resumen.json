@@ -1,21 +1,21 @@
 {
- "actualizado": 1795866909961,
- "inicio": 1795103728055,
+ "actualizado": 1795869927354,
+ "inicio": 1795106754899,
  "ejecucion": {
-  "inicio": 1795863909718,
-  "fin": 1795866909961,
-  "mensajes": 10206664,
+  "inicio": 1795866927066,
+  "fin": 1795869927354,
+  "mensajes": 11242911,
   "reconexiones": 0,
-  "eventos": 667,
+  "eventos": 660,
   "errores": [],
-  "nuevos": 17,
-  "nuevosRentables": 4,
-  "nuevosNeta": 1.42
+  "nuevos": 22,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.39
  },
- "total": 9576,
- "falsos": 5389,
+ "total": 9533,
+ "falsos": 5400,
  "largos": {
-  "episodios": 17352,
+  "episodios": 17387,
   "eventos": 138,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 66,
   "eventos": 33
  },
- "mediana": 0.259,
+ "mediana": 0.261,
  "captura": [
   {
    "s": 0.5,
-   "n": 3810,
-   "gan": 13048.41,
-   "nNeta": 1245,
-   "neta": 3472.05
+   "n": 3806,
+   "gan": 13073.4,
+   "nNeta": 1238,
+   "neta": 3477.7
   },
   {
    "s": 2,
-   "n": 1705,
-   "gan": 6191.09,
-   "nNeta": 465,
-   "neta": 1207.41
+   "n": 1706,
+   "gan": 6189.67,
+   "nNeta": 464,
+   "neta": 1207.55
   },
   {
    "s": 5,
-   "n": 934,
-   "gan": 3456.9,
-   "nNeta": 205,
-   "neta": 359.03
+   "n": 938,
+   "gan": 3460.6,
+   "nNeta": 206,
+   "neta": 359.42
   },
   {
    "s": 30,
-   "n": 357,
-   "gan": 1592.48,
+   "n": 360,
+   "gan": 1595.68,
    "nNeta": 57,
    "neta": 59.5
   }
  ],
- "rentables": 2852,
+ "rentables": 2827,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 151,
-   "descartadas": 383,
-   "neta": 230.09,
-   "dias": 8.8,
-   "semana": 183.11
+   "ops": 150,
+   "descartadas": 381,
+   "neta": 229.92,
+   "dias": 8.83,
+   "semana": 182.25
   },
   {
    "capital": 1000,
-   "ops": 170,
-   "descartadas": 383,
-   "neta": 357.26,
-   "dias": 8.8,
-   "semana": 284.32
+   "ops": 169,
+   "descartadas": 381,
+   "neta": 357.09,
+   "dias": 8.83,
+   "semana": 283.06
   },
   {
    "capital": 2000,
-   "ops": 181,
-   "descartadas": 383,
-   "neta": 575.35,
-   "dias": 8.8,
-   "semana": 457.88
+   "ops": 180,
+   "descartadas": 381,
+   "neta": 575.18,
+   "dias": 8.83,
+   "semana": 455.93
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 6,
-   "horas": 125,
-   "episodios": 5360,
+   "horas": 125.8,
+   "episodios": 5382,
    "sospechosas": 68,
-   "realistaNeta": 953.94,
+   "realistaNeta": 954.33,
    "capital": {
     "500": 120.08,
     "1000": 173.3,
@@ -250,37 +250,37 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 9433,
+  "conDato": 9390,
   "n": 2232,
-  "gan": 7391.71,
-  "nNeta": 602,
-  "neta": 1414.22
+  "gan": 7387.72,
+  "nNeta": 599,
+  "neta": 1414.12
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 3090
+   "n": 3070
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3814
+   "n": 3795
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1724
+   "n": 1716
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 577
+   "n": 578
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 188
+   "n": 191
   },
   {
    "et": "> 5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795600800000,
-   "n": 6
-  },
   {
    "h": 1795604400000,
    "n": 33
@@ -647,129 +643,133 @@
   },
   {
    "h": 1795863600000,
+   "n": 22
+  },
+  {
+   "h": 1795867200000,
    "n": 20
   }
  ],
  "recientes": [
   {
-   "inicio": 1795866662001,
-   "titulo": "Highest temperature in Munich on November 28?",
-   "dur": 0.953,
-   "gan": 1.74,
-   "neta": 1.72,
+   "inicio": 1795869828282,
+   "titulo": "Lamphun Warriors FC vs. Chonburi FC",
+   "dur": 0.167,
+   "gan": 1.08,
+   "neta": 0.11,
    "lado": "si"
   },
   {
-   "inicio": 1795866661312,
-   "titulo": "Highest temperature in Munich on November 28?",
-   "dur": 0.249,
-   "gan": 72.66,
-   "neta": 71.77,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795866298986,
-   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
-   "dur": 0.201,
-   "gan": 1.49,
-   "neta": 0.12,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795866298774,
-   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
-   "dur": 0.062,
-   "gan": 1.42,
-   "neta": 0.12,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795866298646,
-   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
-   "dur": 0.061,
-   "gan": 1.46,
-   "neta": 0.16,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795866298166,
-   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
-   "dur": 0.086,
-   "gan": 0.96,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795866298049,
-   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
-   "dur": 0.058,
-   "gan": 0.98,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795866274691,
-   "titulo": "\"The Cat in the Hat\" total domestic gross by November 30?",
-   "dur": 19.176,
-   "gan": 0.55,
-   "neta": 0.47,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795866271810,
+   "inicio": 1795869826262,
    "titulo": "AVS Futebol SAD vs. Leixoes SC",
-   "dur": 0.402,
-   "gan": 0.57,
-   "neta": 0.09,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795866235063,
-   "titulo": "\"The Cat in the Hat\" total domestic gross by November 30?",
-   "dur": 15.128,
-   "gan": 0.52,
-   "neta": 0.41,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795866232060,
-   "titulo": "\"The Cat in the Hat\" total domestic gross by November 30?",
-   "dur": 2.752,
-   "gan": 0.54,
-   "neta": 0.43,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795865052910,
-   "titulo": "Lincoln City FC vs. Wolverhampton Wanderers FC",
-   "dur": 451.319,
-   "gan": 0.51,
+   "dur": 0.091,
+   "gan": 0.74,
    "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795865459856,
-   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
-   "dur": 0.923,
-   "gan": 0.69,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795865458522,
-   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
-   "dur": 1.079,
-   "gan": 0.64,
-   "neta": 0.1,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795864655424,
-   "titulo": "Spain General Election: Turnout",
-   "dur": 0.361,
-   "gan": 0.9,
+   "inicio": 1795869710014,
+   "titulo": "AVS Futebol SAD vs. Leixoes SC",
+   "dur": 0.432,
+   "gan": 0.85,
    "neta": 0,
    "lado": "no"
+  },
+  {
+   "inicio": 1795869552715,
+   "titulo": "FK Neftchi Fargona vs. PFK Dinamo Samarqand",
+   "dur": 0.132,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795869450240,
+   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
+   "dur": 0.125,
+   "gan": 1.35,
+   "neta": 0.52,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795869095047,
+   "titulo": "FK Zemun vs. FK Radnicki 1923 Kragujevac",
+   "dur": 174.066,
+   "gan": 1.35,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795868946056,
+   "titulo": "FK Zemun vs. FK Radnicki 1923 Kragujevac",
+   "dur": 30.258,
+   "gan": 0.85,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795868886147,
+   "titulo": "Holstein Kiel vs. 1. FC Kaiserslautern",
+   "dur": 0.425,
+   "gan": 0.68,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795868886009,
+   "titulo": "Holstein Kiel vs. 1. FC Kaiserslautern",
+   "dur": 0.02,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795868770057,
+   "titulo": "Holstein Kiel vs. 1. FC Kaiserslautern",
+   "dur": 2.561,
+   "gan": 0.86,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795868760833,
+   "titulo": "Holstein Kiel vs. 1. FC Kaiserslautern",
+   "dur": 0.613,
+   "gan": 4.65,
+   "neta": 0.07,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795868759162,
+   "titulo": "Holstein Kiel vs. 1. FC Kaiserslautern",
+   "dur": 1.307,
+   "gan": 4.65,
+   "neta": 0.07,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795868758408,
+   "titulo": "Holstein Kiel vs. 1. FC Kaiserslautern",
+   "dur": 0.529,
+   "gan": 31.85,
+   "neta": 16.43,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795868736573,
+   "titulo": "Holstein Kiel vs. 1. FC Kaiserslautern",
+   "dur": 1.823,
+   "gan": 2.1,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795868734101,
+   "titulo": "Holstein Kiel vs. 1. FC Kaiserslautern",
+   "dur": 0.203,
+   "gan": 0.55,
+   "neta": 0,
+   "lado": "si"
   }
  ]
 }
