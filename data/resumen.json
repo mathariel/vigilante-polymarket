@@ -1,41 +1,41 @@
 {
- "actualizado": 1795827726570,
+ "actualizado": 1795830740184,
  "inicio": 1795067527984,
  "ejecucion": {
-  "inicio": 1795824726256,
-  "fin": 1795827726570,
-  "mensajes": 9408588,
+  "inicio": 1795827739774,
+  "fin": 1795830740184,
+  "mensajes": 8826866,
   "reconexiones": 0,
-  "eventos": 593,
+  "eventos": 604,
   "errores": [],
-  "nuevos": 23,
+  "nuevos": 8,
   "nuevosRentables": 0,
   "nuevosNeta": 0
  },
- "total": 9283,
- "falsos": 5197,
+ "total": 9291,
+ "falsos": 5207,
  "largos": {
-  "episodios": 17757,
+  "episodios": 17743,
   "eventos": 151,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 64,
-  "eventos": 31
+  "episodios": 65,
+  "eventos": 32
  },
  "mediana": 0.26,
  "captura": [
   {
    "s": 0.5,
-   "n": 3705,
-   "gan": 12855.95,
+   "n": 3707,
+   "gan": 12858.4,
    "nNeta": 1207,
    "neta": 3459.72
   },
   {
    "s": 2,
-   "n": 1650,
-   "gan": 6135.6,
+   "n": 1651,
+   "gan": 6137.47,
    "nNeta": 444,
    "neta": 1235.62
   },
@@ -54,31 +54,31 @@
    "neta": 59.34
   }
  ],
- "rentables": 2734,
+ "rentables": 2739,
  "porCapital": [
   {
    "capital": 500,
    "ops": 148,
    "descartadas": 359,
    "neta": 247.23,
-   "dias": 8.78,
-   "semana": 197.02
+   "dias": 8.82,
+   "semana": 196.25
   },
   {
    "capital": 1000,
    "ops": 167,
    "descartadas": 359,
    "neta": 391.24,
-   "dias": 8.78,
-   "semana": 311.8
+   "dias": 8.82,
+   "semana": 310.56
   },
   {
    "capital": 2000,
    "ops": 178,
    "descartadas": 359,
    "neta": 609.33,
-   "dias": 8.78,
-   "semana": 485.6
+   "dias": 8.82,
+   "semana": 483.68
   }
  ],
  "maxBloqueoH": 24,
@@ -129,9 +129,9 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 114.2,
-   "episodios": 5024,
-   "sospechosas": 54,
+   "horas": 115,
+   "episodios": 5032,
+   "sospechosas": 56,
    "realistaNeta": 920.97,
    "capital": {
     "500": 116.49,
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 131,
+  "n": 133,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,9 +250,9 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 9152,
-  "n": 2161,
-  "gan": 7296.24,
+  "conDato": 9158,
+  "n": 2163,
+  "gan": 7298.69,
   "nNeta": 575,
   "neta": 1419.72
  },
@@ -265,12 +265,12 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3681
+   "n": 3687
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1683
+   "n": 1685
   },
   {
    "et": "5–30 s",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795557600000,
-   "n": 15
-  },
   {
    "h": 1795561200000,
    "n": 13
@@ -648,9 +644,77 @@
   {
    "h": 1795824000000,
    "n": 28
+  },
+  {
+   "h": 1795827600000,
+   "n": 8
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795830193519,
+   "titulo": "Columbus Crew vs. Inter Miami CF",
+   "dur": 1.85,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795829388164,
+   "titulo": "AD Cali vs. CA Bucaramanga",
+   "dur": 0.188,
+   "gan": 0.7,
+   "neta": 0.03,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795829151524,
+   "titulo": "Racing Club Montevideo vs. Liverpool Montevideo",
+   "dur": 3.618,
+   "gan": 1.32,
+   "neta": 0.03,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795829126476,
+   "titulo": "Racing Club Montevideo vs. Liverpool Montevideo",
+   "dur": 0.163,
+   "gan": 18.94,
+   "neta": 15.19,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795829125952,
+   "titulo": "Racing Club Montevideo vs. Liverpool Montevideo",
+   "dur": 0.249,
+   "gan": 20.64,
+   "neta": 16.77,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795829125829,
+   "titulo": "Racing Club Montevideo vs. Liverpool Montevideo",
+   "dur": 0.121,
+   "gan": 7.89,
+   "neta": 3.9,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795828097171,
+   "titulo": "AD Cali vs. CA Bucaramanga",
+   "dur": 0.159,
+   "gan": 2,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795827958282,
+   "titulo": "Racing Club Montevideo vs. Liverpool Montevideo",
+   "dur": 0.39,
+   "gan": 1.74,
+   "neta": 0,
+   "lado": "si"
+  },
   {
    "inicio": 1795827277061,
    "titulo": "Fluminense FC vs. Cruzeiro EC",
@@ -706,70 +770,6 @@
    "gan": 2.07,
    "neta": 0,
    "lado": "si"
-  },
-  {
-   "inicio": 1795826937744,
-   "titulo": "AD Cali vs. CA Bucaramanga",
-   "dur": 0.166,
-   "gan": 0.65,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795826937364,
-   "titulo": "AD Cali vs. CA Bucaramanga",
-   "dur": 0.362,
-   "gan": 1.48,
-   "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795826870232,
-   "titulo": "AD Cali vs. CA Bucaramanga",
-   "dur": 0.611,
-   "gan": 0.99,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795826870088,
-   "titulo": "AD Cali vs. CA Bucaramanga",
-   "dur": 0.088,
-   "gan": 1.72,
-   "neta": 0.1,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795826869787,
-   "titulo": "AD Cali vs. CA Bucaramanga",
-   "dur": 0.2,
-   "gan": 0.59,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795826867017,
-   "titulo": "AD Cali vs. CA Bucaramanga",
-   "dur": 1.543,
-   "gan": 2.26,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795826865603,
-   "titulo": "AD Cali vs. CA Bucaramanga",
-   "dur": 0.253,
-   "gan": 2.79,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795826859943,
-   "titulo": "AD Cali vs. CA Bucaramanga",
-   "dur": 0.054,
-   "gan": 1,
-   "neta": 0,
-   "lado": "no"
   }
  ]
 }
