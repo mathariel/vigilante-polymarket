@@ -1,84 +1,84 @@
 {
- "actualizado": 1795888021204,
- "inicio": 1795130846787,
+ "actualizado": 1795891035179,
+ "inicio": 1795139860932,
  "ejecucion": {
-  "inicio": 1795885020841,
-  "fin": 1795888021204,
-  "mensajes": 11798692,
+  "inicio": 1795888034844,
+  "fin": 1795891035179,
+  "mensajes": 11712879,
   "reconexiones": 0,
-  "eventos": 689,
+  "eventos": 687,
   "errores": [],
-  "nuevos": 182,
-  "nuevosRentables": 13,
-  "nuevosNeta": 8.84
+  "nuevos": 156,
+  "nuevosRentables": 30,
+  "nuevosNeta": 19.43
  },
- "total": 9910,
- "falsos": 5362,
+ "total": 10058,
+ "falsos": 5298,
  "largos": {
-  "episodios": 17064,
-  "eventos": 134,
+  "episodios": 16974,
+  "eventos": 135,
   "dias": 7
  },
  "enEspera": {
-  "episodios": 70,
+  "episodios": 79,
   "eventos": 32
  },
- "mediana": 0.273,
+ "mediana": 0.277,
  "captura": [
   {
    "s": 0.5,
-   "n": 3990,
-   "gan": 13793.86,
-   "nNeta": 1317,
-   "neta": 3794.02
+   "n": 4072,
+   "gan": 13928.9,
+   "nNeta": 1359,
+   "neta": 3825.82
   },
   {
    "s": 2,
-   "n": 1802,
-   "gan": 6470.85,
-   "nNeta": 506,
-   "neta": 1265.55
+   "n": 1850,
+   "gan": 6541.34,
+   "nNeta": 534,
+   "neta": 1285.55
   },
   {
    "s": 5,
-   "n": 969,
-   "gan": 3553.61,
-   "nNeta": 217,
-   "neta": 375.43
+   "n": 1002,
+   "gan": 3597.16,
+   "nNeta": 238,
+   "neta": 391.49
   },
   {
    "s": 30,
-   "n": 349,
-   "gan": 1593.46,
-   "nNeta": 61,
-   "neta": 69.09
+   "n": 353,
+   "gan": 1601.2,
+   "nNeta": 63,
+   "neta": 70.64
   }
  ],
- "rentables": 2964,
+ "rentables": 3046,
  "porCapital": [
   {
    "capital": 500,
    "ops": 159,
-   "descartadas": 411,
+   "descartadas": 438,
    "neta": 234.36,
-   "dias": 8.66,
-   "semana": 189.46
+   "dias": 8.69,
+   "semana": 188.7
   },
   {
    "capital": 1000,
    "ops": 179,
-   "descartadas": 411,
+   "descartadas": 438,
    "neta": 368.02,
-   "dias": 8.66,
-   "semana": 297.51
+   "dias": 8.69,
+   "semana": 296.32
   },
   {
    "capital": 2000,
    "ops": 199,
-   "descartadas": 411,
+   "descartadas": 438,
    "neta": 611.45,
-   "dias": 8.66,
-   "semana": 494.31
+   "dias": 8.69,
+   "semana": 492.33
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 6,
-   "horas": 130.8,
-   "episodios": 6029,
-   "sospechosas": 85,
-   "realistaNeta": 1007.25,
+   "horas": 131.7,
+   "episodios": 6186,
+   "sospechosas": 87,
+   "realistaNeta": 1026.68,
    "capital": {
     "500": 129.59,
     "1000": 189.3,
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 159,
+  "n": 160,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,42 +250,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 9751,
-  "n": 2344,
-  "gan": 7683.2,
-  "nNeta": 649,
-  "neta": 1458.67
+  "conDato": 9898,
+  "n": 2399,
+  "gan": 7767.23,
+  "nNeta": 679,
+  "neta": 1478.1
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 3096
+   "n": 3126
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3997
+   "n": 4049
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1834
+   "n": 1866
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 620
+   "n": 649
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 186
+   "n": 188
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 163
+   "n": 165
   }
  ],
  "porEvento": [
@@ -340,8 +340,8 @@
   },
   {
    "titulo": "Spain General Election: BNG # of seats?",
-   "n": 114,
-   "gan": 111.23,
+   "n": 115,
+   "gan": 112.19,
    "neta": 0.06,
    "mediana": 0.574
   },
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795622400000,
-   "n": 5
-  },
   {
    "h": 1795626000000,
    "n": 19
@@ -647,129 +643,133 @@
   },
   {
    "h": 1795885200000,
-   "n": 174
+   "n": 248
+  },
+  {
+   "h": 1795888800000,
+   "n": 83
   }
  ],
  "recientes": [
   {
-   "inicio": 1795885674068,
-   "titulo": "Málaga CF vs. Athletic Club",
-   "dur": 2346.777,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795885080408,
-   "titulo": "Spain General Election: BNG # of seats?",
-   "dur": 2940.437,
-   "gan": 0.96,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795887802248,
-   "titulo": "USD x Iranian rials End of November?",
-   "dur": 0.035,
-   "gan": 1.05,
-   "neta": 0.78,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795887681002,
-   "titulo": "Angers SCO vs. Racing Club de Lens",
-   "dur": 5.626,
-   "gan": 7,
-   "neta": 0,
+   "inicio": 1795890978216,
+   "titulo": "\"You Can See Everything\" total domestic gross by November 30?",
+   "dur": 0.07,
+   "gan": 0.72,
+   "neta": 0.65,
    "lado": "si"
   },
   {
-   "inicio": 1795887499392,
-   "titulo": "Angers SCO vs. Racing Club de Lens",
-   "dur": 0.287,
-   "gan": 0.92,
-   "neta": 0.55,
+   "inicio": 1795890970601,
+   "titulo": "Grasshopper Club Zurich vs. FC Basel 1893",
+   "dur": 0.242,
+   "gan": 4.09,
+   "neta": 0.19,
    "lado": "si"
   },
   {
-   "inicio": 1795887499289,
-   "titulo": "Angers SCO vs. Racing Club de Lens",
-   "dur": 0.102,
-   "gan": 9.46,
-   "neta": 7.93,
+   "inicio": 1795890969643,
+   "titulo": "Grasshopper Club Zurich vs. FC Basel 1893",
+   "dur": 0.183,
+   "gan": 27.24,
+   "neta": 23.93,
    "lado": "si"
   },
   {
-   "inicio": 1795887417840,
-   "titulo": "Elche CF vs. Club Atlético de Madrid",
-   "dur": 0.402,
-   "gan": 1.92,
-   "neta": 0.1,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795887291951,
-   "titulo": "Elche CF vs. Club Atlético de Madrid",
-   "dur": 3.304,
-   "gan": 0.51,
-   "neta": 0.02,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795887291922,
-   "titulo": "Elche CF vs. Club Atlético de Madrid",
-   "dur": 0.019,
-   "gan": 0.56,
-   "neta": 0.04,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795887291856,
-   "titulo": "Elche CF vs. Club Atlético de Madrid",
-   "dur": 0.059,
-   "gan": 1.27,
-   "neta": 0.16,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795887276616,
-   "titulo": "Elche CF vs. Club Atlético de Madrid",
-   "dur": 0.125,
-   "gan": 0.75,
+   "inicio": 1795890938832,
+   "titulo": "Grasshopper Club Zurich vs. FC Basel 1893",
+   "dur": 0.845,
+   "gan": 1.78,
    "neta": 0.05,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795890937953,
+   "titulo": "Grasshopper Club Zurich vs. FC Basel 1893",
+   "dur": 0.596,
+   "gan": 3.2,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795890938228,
+   "titulo": "Elche CF vs. Club Atlético de Madrid",
+   "dur": 0.046,
+   "gan": 0.71,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795890890905,
+   "titulo": "Ipswich Town FC vs. Aston Villa FC",
+   "dur": 0.346,
+   "gan": 0.58,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795890865453,
+   "titulo": "\"You Can See Everything\" total domestic gross by November 30?",
+   "dur": 0.036,
+   "gan": 0.72,
+   "neta": 0.65,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795890820968,
+   "titulo": "FC Hradec Králové vs. Bohemians Praha 1905",
+   "dur": 0.178,
+   "gan": 0.7,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795887273671,
+   "inicio": 1795890793738,
    "titulo": "Elche CF vs. Club Atlético de Madrid",
-   "dur": 1.02,
+   "dur": 0.09,
+   "gan": 2.34,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795890688030,
+   "titulo": "Rosenborg BK vs. Molde FK",
+   "dur": 0.976,
+   "gan": 1.03,
+   "neta": 0.66,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795890513848,
+   "titulo": "Torino FC vs. SS Lazio",
+   "dur": 1.822,
+   "gan": 4.58,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795890500202,
+   "titulo": "Motherwell FC vs. Hibernian FC",
+   "dur": 0.612,
    "gan": 0.6,
-   "neta": 0.15,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795887273067,
-   "titulo": "Elche CF vs. Club Atlético de Madrid",
-   "dur": 0.595,
-   "gan": 0.62,
    "neta": 0.1,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795890452998,
+   "titulo": "Torino FC vs. SS Lazio",
+   "dur": 8.266,
+   "gan": 2.06,
+   "neta": 0,
    "lado": "no"
   },
   {
-   "inicio": 1795887117521,
-   "titulo": "Elche CF vs. Club Atlético de Madrid",
-   "dur": 0.296,
-   "gan": 2.1,
+   "inicio": 1795890434263,
+   "titulo": "Torino FC vs. SS Lazio",
+   "dur": 0.537,
+   "gan": 2.35,
    "neta": 0,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795887116954,
-   "titulo": "Elche CF vs. Club Atlético de Madrid",
-   "dur": 0.303,
-   "gan": 2,
-   "neta": 0,
-   "lado": "si"
+   "lado": "no"
   }
  ]
 }
