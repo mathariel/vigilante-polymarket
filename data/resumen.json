@@ -1,84 +1,84 @@
 {
- "actualizado": 1795872940624,
- "inicio": 1795106754899,
+ "actualizado": 1795875952495,
+ "inicio": 1795115768044,
  "ejecucion": {
-  "inicio": 1795869940343,
-  "fin": 1795872940624,
-  "mensajes": 13080391,
+  "inicio": 1795872952161,
+  "fin": 1795875952495,
+  "mensajes": 14111949,
   "reconexiones": 0,
-  "eventos": 698,
+  "eventos": 707,
   "errores": [],
-  "nuevos": 70,
-  "nuevosRentables": 8,
-  "nuevosNeta": 0.93
+  "nuevos": 136,
+  "nuevosRentables": 12,
+  "nuevosNeta": 9.29
  },
- "total": 9541,
- "falsos": 5402,
+ "total": 9607,
+ "falsos": 5375,
  "largos": {
-  "episodios": 17382,
-  "eventos": 137,
+  "episodios": 17347,
+  "eventos": 135,
   "dias": 7
  },
  "enEspera": {
   "episodios": 64,
   "eventos": 32
  },
- "mediana": 0.259,
+ "mediana": 0.264,
  "captura": [
   {
    "s": 0.5,
-   "n": 3792,
-   "gan": 13120.18,
-   "nNeta": 1245,
-   "neta": 3487.39
+   "n": 3842,
+   "gan": 13369.33,
+   "nNeta": 1254,
+   "neta": 3620.67
   },
   {
    "s": 2,
-   "n": 1705,
-   "gan": 6244.12,
-   "nNeta": 471,
-   "neta": 1208.36
+   "n": 1737,
+   "gan": 6326.59,
+   "nNeta": 476,
+   "neta": 1210.93
   },
   {
    "s": 5,
-   "n": 929,
-   "gan": 3471.98,
-   "nNeta": 208,
-   "neta": 359.68
+   "n": 943,
+   "gan": 3512.53,
+   "nNeta": 209,
+   "neta": 360.71
   },
   {
    "s": 30,
    "n": 347,
-   "gan": 1585.28,
-   "nNeta": 57,
-   "neta": 59.5
+   "gan": 1587.81,
+   "nNeta": 58,
+   "neta": 60.85
   }
  ],
- "rentables": 2847,
+ "rentables": 2870,
  "porCapital": [
   {
    "capital": 500,
-   "ops": 151,
-   "descartadas": 386,
-   "neta": 230.27,
+   "ops": 150,
+   "descartadas": 395,
+   "neta": 228.42,
    "dias": 8.76,
-   "semana": 183.93
+   "semana": 182.46
   },
   {
    "capital": 1000,
-   "ops": 170,
-   "descartadas": 386,
-   "neta": 357.44,
+   "ops": 169,
+   "descartadas": 395,
+   "neta": 358.62,
    "dias": 8.76,
-   "semana": 285.51
+   "semana": 286.47
   },
   {
    "capital": 2000,
-   "ops": 181,
-   "descartadas": 386,
-   "neta": 575.53,
+   "ops": 180,
+   "descartadas": 395,
+   "neta": 576.71,
    "dias": 8.76,
-   "semana": 459.71
+   "semana": 460.69
   }
  ],
  "maxBloqueoH": 24,
@@ -129,14 +129,14 @@
   {
    "lunes": "2026-11-23",
    "dias": 6,
-   "horas": 126.7,
-   "episodios": 5452,
-   "sospechosas": 69,
-   "realistaNeta": 955.26,
+   "horas": 127.5,
+   "episodios": 5588,
+   "sospechosas": 72,
+   "realistaNeta": 964.55,
    "capital": {
-    "500": 120.43,
-    "1000": 173.65,
-    "2000": 286
+    "500": 122.87,
+    "1000": 179.13,
+    "2000": 291.48
    },
    "cumple": true
   }
@@ -144,7 +144,7 @@
  "criterioSemanal": 10,
  "sospechosas": {
   "umbral": 0.1,
-  "n": 144,
+  "n": 146,
   "top": [
    {
     "inicio": 1795574360666,
@@ -250,42 +250,42 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 9397,
-  "n": 2222,
-  "gan": 7434.35,
-  "nNeta": 605,
-  "neta": 1414.84
+  "conDato": 9461,
+  "n": 2262,
+  "gan": 7524.64,
+  "nNeta": 613,
+  "neta": 1418.13
  },
  "duraciones": [
   {
    "et": "< 0.1 s",
    "rapido": true,
-   "n": 3076
+   "n": 3070
   },
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3809
+   "n": 3837
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1713
+   "n": 1743
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 582
+   "n": 596
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 183
+   "n": 185
   },
   {
    "et": "> 5 min",
    "rapido": false,
-   "n": 164
+   "n": 162
   }
  ],
  "porEvento": [
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795608000000,
-   "n": 22
-  },
   {
    "h": 1795611600000,
    "n": 14
@@ -647,129 +643,133 @@
   },
   {
    "h": 1795870800000,
-   "n": 65
+   "n": 131
+  },
+  {
+   "h": 1795874400000,
+   "n": 70
   }
  ],
  "recientes": [
   {
-   "inicio": 1795872909447,
-   "titulo": "Van Spor FK vs. Bursaspor",
-   "dur": 18.708,
-   "gan": 1.49,
+   "inicio": 1795875343208,
+   "titulo": "Manchester United FC vs. Brentford FC - First Team to Score",
+   "dur": 608.956,
+   "gan": 0.8,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795875854883,
+   "titulo": "Preston North End FC vs. Norwich City FC",
+   "dur": 0.162,
+   "gan": 1.4,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795872733992,
-   "titulo": "PFK CSKA Moskva vs. FK Zenit",
-   "dur": 0.115,
-   "gan": 0.94,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795875828297,
+   "titulo": "UD Las Palmas vs. FC Andorra",
+   "dur": 0.883,
+   "gan": 6,
+   "neta": 4.91,
+   "lado": "si"
   },
   {
-   "inicio": 1795872728020,
-   "titulo": "Van Spor FK vs. Bursaspor",
-   "dur": 0.186,
-   "gan": 2.69,
+   "inicio": 1795875418090,
+   "titulo": "Frosinone Calcio vs. Parma Calcio 1913",
+   "dur": 13.664,
+   "gan": 2.37,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795872688948,
-   "titulo": "PFK CSKA Moskva vs. FK Zenit",
-   "dur": 0.35,
-   "gan": 0.68,
-   "neta": 0,
-   "lado": "no"
+   "inicio": 1795875387334,
+   "titulo": "Turan Tovuz vs. FK Kapaz",
+   "dur": 0.78,
+   "gan": 0.71,
+   "neta": 0.29,
+   "lado": "si"
   },
   {
-   "inicio": 1795872654627,
-   "titulo": "Harrogate Town AFC vs. Yeovil Town FC",
-   "dur": 20.262,
-   "gan": 1.38,
-   "neta": 0.08,
-   "lado": "no"
+   "inicio": 1795875387126,
+   "titulo": "Turan Tovuz vs. FK Kapaz",
+   "dur": 0.162,
+   "gan": 6.75,
+   "neta": 5.93,
+   "lado": "si"
   },
   {
-   "inicio": 1795872653968,
-   "titulo": "Harrogate Town AFC vs. Yeovil Town FC",
-   "dur": 0.406,
-   "gan": 2.5,
-   "neta": 1,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795872605036,
-   "titulo": "Salisbury FC vs. Dagenham and Redbridge FC",
-   "dur": 0.289,
-   "gan": 3.12,
+   "inicio": 1795875312614,
+   "titulo": "Preston North End FC vs. Norwich City FC",
+   "dur": 0.827,
+   "gan": 1.01,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795872472622,
-   "titulo": "Salisbury FC vs. Dagenham and Redbridge FC",
-   "dur": 9.565,
-   "gan": 3.01,
+   "inicio": 1795875309823,
+   "titulo": "Preston North End FC vs. Norwich City FC",
+   "dur": 0.688,
+   "gan": 1,
    "neta": 0,
-   "lado": "no"
+   "lado": "si"
   },
   {
-   "inicio": 1795872470873,
-   "titulo": "2026 Taipei Mayoral Election: Margin of Victory",
-   "dur": 0.456,
+   "inicio": 1795875309589,
+   "titulo": "Preston North End FC vs. Norwich City FC",
+   "dur": 0.046,
    "gan": 0.55,
    "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795872452512,
-   "titulo": "Salisbury FC vs. Dagenham and Redbridge FC",
-   "dur": 15.962,
-   "gan": 7.53,
-   "neta": 0,
+   "inicio": 1795875302713,
+   "titulo": "Harrogate Town AFC vs. Yeovil Town FC",
+   "dur": 0.351,
+   "gan": 1.63,
+   "neta": 0.68,
    "lado": "no"
   },
   {
-   "inicio": 1795872442626,
-   "titulo": "Salisbury FC vs. Dagenham and Redbridge FC",
-   "dur": 7.88,
-   "gan": 7.53,
-   "neta": 0,
+   "inicio": 1795875295383,
+   "titulo": "Harrogate Town AFC vs. Yeovil Town FC",
+   "dur": 0.235,
+   "gan": 0.7,
+   "neta": 0.28,
    "lado": "no"
   },
   {
-   "inicio": 1795872256981,
-   "titulo": "Salisbury FC vs. Dagenham and Redbridge FC",
-   "dur": 170.825,
-   "gan": 1,
-   "neta": 0,
+   "inicio": 1795875276907,
+   "titulo": "Harrogate Town AFC vs. Yeovil Town FC",
+   "dur": 0.212,
+   "gan": 0.65,
+   "neta": 0.22,
    "lado": "no"
   },
   {
-   "inicio": 1795872380896,
-   "titulo": "Samsunspor vs. Gençlerbirliği SK",
-   "dur": 0.611,
-   "gan": 1.59,
-   "neta": 0.12,
+   "inicio": 1795875211576,
+   "titulo": "Peterborough United FC vs. Cambridge United FC",
+   "dur": 0.215,
+   "gan": 1.4,
+   "neta": 0,
    "lado": "si"
   },
   {
-   "inicio": 1795872258212,
-   "titulo": "Holstein Kiel vs. 1. FC Kaiserslautern",
-   "dur": 0.035,
-   "gan": 0.81,
-   "neta": 0.24,
-   "lado": "si"
+   "inicio": 1795875200757,
+   "titulo": "Harrogate Town AFC vs. Yeovil Town FC",
+   "dur": 0.322,
+   "gan": 0.65,
+   "neta": 0.11,
+   "lado": "no"
   },
   {
-   "inicio": 1795872250426,
-   "titulo": "Holstein Kiel vs. 1. FC Kaiserslautern",
-   "dur": 6.479,
-   "gan": 0.64,
-   "neta": 0.19,
-   "lado": "si"
+   "inicio": 1795875196425,
+   "titulo": "Harrogate Town AFC vs. Yeovil Town FC",
+   "dur": 0.314,
+   "gan": 0.53,
+   "neta": 0.11,
+   "lado": "no"
   }
  ]
 }
