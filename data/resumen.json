@@ -1,21 +1,21 @@
 {
- "actualizado": 1795821699395,
+ "actualizado": 1795824713517,
  "inicio": 1795067527984,
  "ejecucion": {
-  "inicio": 1795818699112,
-  "fin": 1795821699395,
-  "mensajes": 8771253,
+  "inicio": 1795821713168,
+  "fin": 1795824713517,
+  "mensajes": 9375874,
   "reconexiones": 0,
-  "eventos": 614,
+  "eventos": 604,
   "errores": [],
-  "nuevos": 7,
-  "nuevosRentables": 0,
-  "nuevosNeta": 0
+  "nuevos": 10,
+  "nuevosRentables": 1,
+  "nuevosNeta": 0.5
  },
- "total": 9250,
- "falsos": 5167,
+ "total": 9260,
+ "falsos": 5174,
  "largos": {
-  "episodios": 17809,
+  "episodios": 17796,
   "eventos": 151,
   "dias": 7
  },
@@ -23,62 +23,62 @@
   "episodios": 64,
   "eventos": 31
  },
- "mediana": 0.259,
+ "mediana": 0.26,
  "captura": [
   {
    "s": 0.5,
-   "n": 3687,
-   "gan": 12573.35,
-   "nNeta": 1203,
-   "neta": 3458.84
+   "n": 3695,
+   "gan": 12843.37,
+   "nNeta": 1206,
+   "neta": 3459.7
   },
   {
    "s": 2,
-   "n": 1643,
-   "gan": 5863.43,
+   "n": 1647,
+   "gan": 6130.51,
    "nNeta": 444,
    "neta": 1235.62
   },
   {
    "s": 5,
-   "n": 892,
-   "gan": 3155.18,
+   "n": 895,
+   "gan": 3421.66,
    "nNeta": 193,
    "neta": 386.44
   },
   {
    "s": 30,
-   "n": 337,
-   "gan": 1277.41,
+   "n": 338,
+   "gan": 1526.28,
    "nNeta": 52,
    "neta": 59.34
   }
  ],
- "rentables": 2730,
+ "rentables": 2733,
  "porCapital": [
   {
    "capital": 500,
    "ops": 148,
-   "descartadas": 358,
+   "descartadas": 359,
    "neta": 247.23,
-   "dias": 8.71,
-   "semana": 198.6
+   "dias": 8.75,
+   "semana": 197.81
   },
   {
    "capital": 1000,
    "ops": 167,
-   "descartadas": 358,
+   "descartadas": 359,
    "neta": 391.24,
-   "dias": 8.71,
-   "semana": 314.29
+   "dias": 8.75,
+   "semana": 313.04
   },
   {
    "capital": 2000,
    "ops": 178,
-   "descartadas": 358,
+   "descartadas": 359,
    "neta": 609.33,
-   "dias": 8.71,
-   "semana": 489.49
+   "dias": 8.75,
+   "semana": 487.54
   }
  ],
  "maxBloqueoH": 24,
@@ -129,10 +129,10 @@
   {
    "lunes": "2026-11-23",
    "dias": 5,
-   "horas": 112.5,
-   "episodios": 4991,
+   "horas": 113.3,
+   "episodios": 5001,
    "sospechosas": 54,
-   "realistaNeta": 920.47,
+   "realistaNeta": 920.97,
    "capital": {
     "500": 116.49,
     "1000": 169.71,
@@ -250,11 +250,11 @@
  },
  "realista": {
   "reaccion": 0.5,
-  "conDato": 9119,
-  "n": 2151,
-  "gan": 7020.75,
-  "nNeta": 574,
-  "neta": 1419.22
+  "conDato": 9129,
+  "n": 2156,
+  "gan": 7288.39,
+  "nNeta": 575,
+  "neta": 1419.72
  },
  "duraciones": [
   {
@@ -265,22 +265,22 @@
   {
    "et": "0.1–1 s",
    "rapido": true,
-   "n": 3662
+   "n": 3666
   },
   {
    "et": "1–5 s",
    "rapido": false,
-   "n": 1675
+   "n": 1678
   },
   {
    "et": "5–30 s",
    "rapido": false,
-   "n": 555
+   "n": 557
   },
   {
    "et": "30 s–5 min",
    "rapido": false,
-   "n": 178
+   "n": 179
   },
   {
    "et": "> 5 min",
@@ -361,10 +361,6 @@
   }
  ],
  "porHora": [
-  {
-   "h": 1795554000000,
-   "n": 141
-  },
   {
    "h": 1795557600000,
    "n": 15
@@ -647,10 +643,94 @@
   },
   {
    "h": 1795820400000,
-   "n": 4
+   "n": 9
+  },
+  {
+   "h": 1795824000000,
+   "n": 5
   }
  ],
  "recientes": [
+  {
+   "inicio": 1795824357470,
+   "titulo": "Columbus Crew vs. Inter Miami CF",
+   "dur": 13.773,
+   "gan": 16.96,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795824325453,
+   "titulo": "Club Independiente Petrolero vs. CDT Real Oruro",
+   "dur": 0.199,
+   "gan": 0.7,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795824315314,
+   "titulo": "Club Independiente Petrolero vs. CDT Real Oruro",
+   "dur": 4.357,
+   "gan": 0.6,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795824307159,
+   "titulo": "Club Independiente Petrolero vs. CDT Real Oruro",
+   "dur": 1.426,
+   "gan": 0.59,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795824268589,
+   "titulo": "Columbus Crew vs. Inter Miami CF",
+   "dur": 36.771,
+   "gan": 272.55,
+   "neta": 0,
+   "lado": "no"
+  },
+  {
+   "inicio": 1795823568243,
+   "titulo": "Highest temperature in Buenos Aires on November 29?",
+   "dur": 0.941,
+   "gan": 0.56,
+   "neta": 0.5,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795823123477,
+   "titulo": "AD Cali vs. CA Bucaramanga",
+   "dur": 0.141,
+   "gan": 1.69,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795823027855,
+   "titulo": "Sportivo Luqueno vs. Club Olimpia",
+   "dur": 0.758,
+   "gan": 0.52,
+   "neta": 0.14,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795822790248,
+   "titulo": "Club Independiente Petrolero vs. CDT Real Oruro",
+   "dur": 5.258,
+   "gan": 0.65,
+   "neta": 0,
+   "lado": "si"
+  },
+  {
+   "inicio": 1795822786037,
+   "titulo": "Club Independiente Petrolero vs. CDT Real Oruro",
+   "dur": 1.21,
+   "gan": 1.24,
+   "neta": 0.08,
+   "lado": "si"
+  },
   {
    "inicio": 1795821689014,
    "titulo": "Fluminense FC vs. Cruzeiro EC - Halftime Result",
@@ -688,86 +768,6 @@
    "titulo": "Vila Nova FC vs. AC Goianiense",
    "dur": 71.017,
    "gan": 1.08,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795819367224,
-   "titulo": "CD Cuenca vs. Manta FC",
-   "dur": 0.024,
-   "gan": 0.6,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795819367003,
-   "titulo": "CD Cuenca vs. Manta FC",
-   "dur": 0.101,
-   "gan": 0.5,
-   "neta": 0,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795815658297,
-   "titulo": "VVV Venlo vs. RKC Waalwijk",
-   "dur": 3021.916,
-   "gan": 1.78,
-   "neta": 1.51,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795817377874,
-   "titulo": "CS Marítimo vs. CD Nacional",
-   "dur": 11.457,
-   "gan": 0.59,
-   "neta": 0.54,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795817285180,
-   "titulo": "CS Marítimo vs. CD Nacional",
-   "dur": 10.909,
-   "gan": 5.65,
-   "neta": 1.85,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795817266978,
-   "titulo": "CS Marítimo vs. CD Nacional",
-   "dur": 3.329,
-   "gan": 5.45,
-   "neta": 4.53,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795817029227,
-   "titulo": "Nacional Asuncion vs. Rubio Nu",
-   "dur": 0.335,
-   "gan": 0.54,
-   "neta": 0.43,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795816806966,
-   "titulo": "Nacional Asuncion vs. Rubio Nu",
-   "dur": 0.108,
-   "gan": 1.16,
-   "neta": 0.02,
-   "lado": "si"
-  },
-  {
-   "inicio": 1795816285348,
-   "titulo": "Nottingham Forest FC vs. Chelsea FC",
-   "dur": 0.148,
-   "gan": 0.98,
-   "neta": 0.45,
-   "lado": "no"
-  },
-  {
-   "inicio": 1795816280884,
-   "titulo": "Nottingham Forest FC vs. Chelsea FC",
-   "dur": 0.04,
-   "gan": 0.63,
    "neta": 0,
    "lado": "no"
   }
